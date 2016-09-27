@@ -1,6 +1,865 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Tue Sep 27 23:11:52 +0000 2016",
+		"id": 780907842848960500,
+		"id_str": "780907842848960512",
+		"text": "완전히 미쳐버린 화장품 씨... https://t.co/0ZYa4U3k1U",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 780907821558751200,
+					"id_str": "780907821558751232",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/CtZXhrpVYAAiGqf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CtZXhrpVYAAiGqf.jpg",
+					"url": "https://t.co/0ZYa4U3k1U",
+					"display_url": "pic.twitter.com/0ZYa4U3k1U",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/780907842848960512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 606,
+							"h": 433,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 606,
+							"h": 433,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 606,
+							"h": 433,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 780907821558751200,
+					"id_str": "780907821558751232",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/CtZXhrpVYAAiGqf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CtZXhrpVYAAiGqf.jpg",
+					"url": "https://t.co/0ZYa4U3k1U",
+					"display_url": "pic.twitter.com/0ZYa4U3k1U",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/780907842848960512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 606,
+							"h": 433,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 606,
+							"h": 433,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 606,
+							"h": 433,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 83,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1035,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5927,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Sep 27 22:46:53 +0000 2016",
+		"id": 780901554987466800,
+		"id_str": "780901554987466752",
+		"text": "RT @khhan21: “물리적 장소가 없으면 기억은 육체화하지 않는다. 집단도 즉시 붕괴한다.”  https://t.co/5HHX2pC1n0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "khhan21",
+					"name": "Han,Kiho",
+					"id": 153244396,
+					"id_str": "153244396",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5HHX2pC1n0",
+					"expanded_url": "http://blog.naver.com/khhan21/220790771984",
+					"display_url": "blog.naver.com/khhan21/220790…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 83,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1035,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5927,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 18 08:12:53 +0000 2016",
+			"id": 766186087966388200,
+			"id_str": "766186087966388224",
+			"text": "“물리적 장소가 없으면 기억은 육체화하지 않는다. 집단도 즉시 붕괴한다.”  https://t.co/5HHX2pC1n0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5HHX2pC1n0",
+						"expanded_url": "http://blog.naver.com/khhan21/220790771984",
+						"display_url": "blog.naver.com/khhan21/220790…",
+						"indices": [
+							43,
+							66
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.naver.com\" rel=\"nofollow\">Naver</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 153244396,
+				"id_str": "153244396",
+				"name": "Han,Kiho",
+				"screen_name": "khhan21",
+				"location": "",
+				"description": "출판평론가. 한국출판마케팅연구소장. 격주간 출판전문지 기획회의와 월간 학교도서관저널 발행인입니다.",
+				"url": "http://t.co/xhihtF8dIu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/xhihtF8dIu",
+								"expanded_url": "http://kpm21.co.kr",
+								"display_url": "kpm21.co.kr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1586,
+				"friends_count": 730,
+				"listed_count": 90,
+				"created_at": "Tue Jun 08 01:49:37 +0000 2010",
+				"favourites_count": 7,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4805,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/972660209/______9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/972660209/______9_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Sep 27 22:40:24 +0000 2016",
+		"id": 780899922287525900,
+		"id_str": "780899922287525888",
+		"text": "RT @khhan21: 오쓰카 에이지의『스토리 메이커』가 드디어 일본의 교과서에 수록고  https://t.co/a2NIPx9SBz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "khhan21",
+					"name": "Han,Kiho",
+					"id": 153244396,
+					"id_str": "153244396",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/a2NIPx9SBz",
+					"expanded_url": "http://blog.naver.com/khhan21/220744551202",
+					"display_url": "blog.naver.com/khhan21/220744…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 83,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1035,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5927,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 23 23:23:01 +0000 2016",
+			"id": 746121412948140000,
+			"id_str": "746121412948140033",
+			"text": "오쓰카 에이지의『스토리 메이커』가 드디어 일본의 교과서에 수록고  https://t.co/a2NIPx9SBz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/a2NIPx9SBz",
+						"expanded_url": "http://blog.naver.com/khhan21/220744551202",
+						"display_url": "blog.naver.com/khhan21/220744…",
+						"indices": [
+							37,
+							60
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.naver.com\" rel=\"nofollow\">Naver</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 153244396,
+				"id_str": "153244396",
+				"name": "Han,Kiho",
+				"screen_name": "khhan21",
+				"location": "",
+				"description": "출판평론가. 한국출판마케팅연구소장. 격주간 출판전문지 기획회의와 월간 학교도서관저널 발행인입니다.",
+				"url": "http://t.co/xhihtF8dIu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/xhihtF8dIu",
+								"expanded_url": "http://kpm21.co.kr",
+								"display_url": "kpm21.co.kr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1586,
+				"friends_count": 730,
+				"listed_count": 90,
+				"created_at": "Tue Jun 08 01:49:37 +0000 2010",
+				"favourites_count": 7,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4805,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/972660209/______9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/972660209/______9_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Sep 27 22:33:42 +0000 2016",
+		"id": 780898234981941200,
+		"id_str": "780898234981941248",
+		"text": "세계로 뻗어나가는 던전 디펜스. 이제는 러시아로. https://t.co/4QWbB9DA4F",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 780898203285585900,
+					"id_str": "780898203285585920",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/CtZOx0yUAAAt8UR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CtZOx0yUAAAt8UR.jpg",
+					"url": "https://t.co/4QWbB9DA4F",
+					"display_url": "pic.twitter.com/4QWbB9DA4F",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/780898234981941248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 756,
+							"h": 372,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 756,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 335,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 780898203285585900,
+					"id_str": "780898203285585920",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/CtZOx0yUAAAt8UR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CtZOx0yUAAAt8UR.jpg",
+					"url": "https://t.co/4QWbB9DA4F",
+					"display_url": "pic.twitter.com/4QWbB9DA4F",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/780898234981941248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 756,
+							"h": 372,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 756,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 335,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 83,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1035,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5927,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Sep 27 22:31:24 +0000 2016",
+		"id": 780897658953080800,
+		"id_str": "780897658953080832",
+		"text": "데스크탑 안 쓰는 사이에 픽시브 팔로잉이 어려워서 리스트 하나 만들고 계속 추가했더니 어느새 70명이 돌파했었네요. 하여간 수집에 대한 강박이 있어서... https://t.co/KdzFDOU4My",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 780897532532580400,
+					"id_str": "780897532532580352",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/CtZOKyCVYAAQAwF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CtZOKyCVYAAQAwF.jpg",
+					"url": "https://t.co/KdzFDOU4My",
+					"display_url": "pic.twitter.com/KdzFDOU4My",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/780897658953080832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 290,
+							"h": 126,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 290,
+							"h": 126,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 290,
+							"h": 126,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 126,
+							"h": 126,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 780897532532580400,
+					"id_str": "780897532532580352",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/CtZOKyCVYAAQAwF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CtZOKyCVYAAQAwF.jpg",
+					"url": "https://t.co/KdzFDOU4My",
+					"display_url": "pic.twitter.com/KdzFDOU4My",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/780897658953080832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 290,
+							"h": 126,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 290,
+							"h": 126,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 290,
+							"h": 126,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 126,
+							"h": 126,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 83,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1035,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5927,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Sep 27 22:08:53 +0000 2016",
 		"id": 780891988706992100,
 		"id_str": "780891988706992128",
