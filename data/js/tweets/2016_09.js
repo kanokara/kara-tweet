@@ -1,6 +1,634 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Wed Sep 28 23:38:50 +0000 2016",
+		"id": 781277013441146900,
+		"id_str": "781277013441146880",
+		"text": "한국어로도 제대로 된 동의어 반의어 사전이 검색 가능하게 나와주면 좋겠어요.\nhttps://t.co/kHX9ap2Dwf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kHX9ap2Dwf",
+					"expanded_url": "https://twitter.com/Eng_lab/status/594700915438813184",
+					"display_url": "twitter.com/Eng_lab/status…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6010,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 594700915438813200,
+		"quoted_status_id_str": "594700915438813184",
+		"quoted_status": {
+			"created_at": "Sun May 03 03:12:01 +0000 2015",
+			"id": 594700915438813200,
+			"id_str": "594700915438813184",
+			"text": "워드플렉스 사전의 스크린샷\n\n워드맵으로 동의어를 보여주는 방식. 한 눈에 동의어, 유의어, 반의어 관계, phrase level의 용례, 간단한 문법 등등을 확인할 수 있음. http://t.co/jSZIsC3GoQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 594700478513958900,
+						"id_str": "594700478513958912",
+						"indices": [
+							98,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/CEDM7zGUUAAE5Wc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CEDM7zGUUAAE5Wc.jpg",
+						"url": "http://t.co/jSZIsC3GoQ",
+						"display_url": "pic.twitter.com/jSZIsC3GoQ",
+						"expanded_url": "http://twitter.com/Eng_lab/status/594700915438813184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1365,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 594700478513958900,
+						"id_str": "594700478513958912",
+						"indices": [
+							98,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/CEDM7zGUUAAE5Wc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CEDM7zGUUAAE5Wc.jpg",
+						"url": "http://t.co/jSZIsC3GoQ",
+						"display_url": "pic.twitter.com/jSZIsC3GoQ",
+						"expanded_url": "http://twitter.com/Eng_lab/status/594700915438813184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1365,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 594700493596725200,
+						"id_str": "594700493596725248",
+						"indices": [
+							98,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/CEDM8rSVEAAwC1J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CEDM8rSVEAAwC1J.jpg",
+						"url": "http://t.co/jSZIsC3GoQ",
+						"display_url": "pic.twitter.com/jSZIsC3GoQ",
+						"expanded_url": "http://twitter.com/Eng_lab/status/594700915438813184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 594700496473968600,
+						"id_str": "594700496473968640",
+						"indices": [
+							98,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/CEDM82AUUAALr1u.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CEDM82AUUAALr1u.jpg",
+						"url": "http://t.co/jSZIsC3GoQ",
+						"display_url": "pic.twitter.com/jSZIsC3GoQ",
+						"expanded_url": "http://twitter.com/Eng_lab/status/594700915438813184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 594700497514147800,
+						"id_str": "594700497514147841",
+						"indices": [
+							98,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/CEDM854UMAEjTbg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CEDM854UMAEjTbg.jpg",
+						"url": "http://t.co/jSZIsC3GoQ",
+						"display_url": "pic.twitter.com/jSZIsC3GoQ",
+						"expanded_url": "http://twitter.com/Eng_lab/status/594700915438813184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 594700448151437300,
+			"in_reply_to_status_id_str": "594700448151437312",
+			"in_reply_to_user_id": 970239349,
+			"in_reply_to_user_id_str": "970239349",
+			"in_reply_to_screen_name": "Eng_lab",
+			"user": {
+				"id": 970239349,
+				"id_str": "970239349",
+				"name": "영어연구소",
+				"screen_name": "Eng_lab",
+				"location": "Yoknapatawpha",
+				"description": "DOCENDO DISCIMVS  질문, 영작, 번역, 해석 요청 일체 사절",
+				"url": "http://t.co/cbYvbBfdDR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/cbYvbBfdDR",
+								"expanded_url": "http://www.twilog.org/eng_lab",
+								"display_url": "twilog.org/eng_lab",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14395,
+				"friends_count": 251,
+				"listed_count": 329,
+				"created_at": "Sun Nov 25 15:29:29 +0000 2012",
+				"favourites_count": 40,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11627,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/583139254261325824/LqfvyeR0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/583139254261325824/LqfvyeR0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/970239349/1429482956",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 57,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Sep 28 23:30:24 +0000 2016",
+		"id": 781274891014303700,
+		"id_str": "781274891014303744",
+		"text": "@dvddog 2차창작을 하세요 (철썩)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dvddog",
+					"name": "데이비드 댕댕이",
+					"id": 3138788114,
+					"id_str": "3138788114",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 781270672366370800,
+		"in_reply_to_status_id_str": "781270672366370816",
+		"in_reply_to_user_id": 3138788114,
+		"in_reply_to_user_id_str": "3138788114",
+		"in_reply_to_screen_name": "dvddog",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6010,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Sep 28 23:28:22 +0000 2016",
+		"id": 781274380638818300,
+		"id_str": "781274380638818304",
+		"text": "RT @Eng_lab: 규범문법의 시대는 확실히 끝났다. 절대적 규칙은 더는 무조건적으로 받아들여지지 않는다. “resemble은 수동태로 쓸 수 없다”와 “수동태로 사용되는 경우가 전체의 2% 미만인 동사 중 resemble이 있다”는 하늘과 땅…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Eng_lab",
+					"name": "영어연구소",
+					"id": 970239349,
+					"id_str": "970239349",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6010,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 28 17:07:22 +0000 2016",
+			"id": 747838815117541400,
+			"id_str": "747838815117541376",
+			"text": "규범문법의 시대는 확실히 끝났다. 절대적 규칙은 더는 무조건적으로 받아들여지지 않는다. “resemble은 수동태로 쓸 수 없다”와 “수동태로 사용되는 경우가 전체의 2% 미만인 동사 중 resemble이 있다”는 하늘과 땅 차이.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 970239349,
+				"id_str": "970239349",
+				"name": "영어연구소",
+				"screen_name": "Eng_lab",
+				"location": "Yoknapatawpha",
+				"description": "DOCENDO DISCIMVS  질문, 영작, 번역, 해석 요청 일체 사절",
+				"url": "http://t.co/cbYvbBfdDR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/cbYvbBfdDR",
+								"expanded_url": "http://www.twilog.org/eng_lab",
+								"display_url": "twilog.org/eng_lab",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14395,
+				"friends_count": 251,
+				"listed_count": 329,
+				"created_at": "Sun Nov 25 15:29:29 +0000 2012",
+				"favourites_count": 40,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11627,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/583139254261325824/LqfvyeR0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/583139254261325824/LqfvyeR0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/970239349/1429482956",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Sep 28 23:13:09 +0000 2016",
 		"id": 781270550605865000,
 		"id_str": "781270550605864961",
