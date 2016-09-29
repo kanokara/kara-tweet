@@ -1,6 +1,401 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Thu Sep 29 07:13:35 +0000 2016",
+		"id": 781391457617793000,
+		"id_str": "781391457617793024",
+		"text": "쿠라메 씨랑 어울릴 때만 하더라도 지금처럼 아즈마를 싫어하진 않았었는데, 직관, 또는 오타쿠로서의 감각과 제로아카에서 빌려온 언어가 맞물리질 않고 충돌하다보니 지금에 이르렀던 듯해요.\nhttps://t.co/ZzL8NlLpoU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZzL8NlLpoU",
+					"expanded_url": "https://twitter.com/sensamilla3/status/781372733305131008",
+					"display_url": "twitter.com/sensamilla3/st…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1040,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6031,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 781372733305131000,
+		"quoted_status_id_str": "781372733305131008",
+		"quoted_status": {
+			"created_at": "Thu Sep 29 05:59:11 +0000 2016",
+			"id": 781372733305131000,
+			"id_str": "781372733305131008",
+			"text": "성소수자운동이나 미술비평의 문법을 빌려와서 얘기하려는 걸로 보이는데 얘기하는거 보고있으면 너무 저런 것들 공부한 것 같진 않고(전공이든 말든 겅부는 알아서 하시길..)그런걸 하는 사람들의 트위터 사용법 화법등만 흉내내고 있는듯 보임..",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 781371583256334300,
+			"in_reply_to_status_id_str": "781371583256334336",
+			"in_reply_to_user_id": 1032940862,
+			"in_reply_to_user_id_str": "1032940862",
+			"in_reply_to_screen_name": "sensamilla3",
+			"user": {
+				"id": 1032940862,
+				"id_str": "1032940862",
+				"name": "線",
+				"screen_name": "sensamilla3",
+				"location": "sensamilla3@gmail.com",
+				"description": "헬조센의여성덕후노동자  (픽시브)https://t.co/Ch2yyV8uiv (동인지)https://t.co/dfeecb6z9w FUB FREE 저도 편하게 합니다",
+				"url": "https://t.co/twjRTLzHaG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/twjRTLzHaG",
+								"expanded_url": "http://gainingweight.postype.com",
+								"display_url": "gainingweight.postype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Ch2yyV8uiv",
+								"expanded_url": "http://www.pixiv.net/member.php?id=8142017",
+								"display_url": "pixiv.net/member.php?id=…",
+								"indices": [
+									18,
+									41
+								]
+							},
+							{
+								"url": "https://t.co/dfeecb6z9w",
+								"expanded_url": "http://menocar3.postype.com",
+								"display_url": "menocar3.postype.com",
+								"indices": [
+									47,
+									70
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 84,
+				"friends_count": 183,
+				"listed_count": 7,
+				"created_at": "Mon Dec 24 15:43:30 +0000 2012",
+				"favourites_count": 3103,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7070,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/780713831853010944/fVSlM2ZT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/780713831853010944/fVSlM2ZT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1032940862/1470291964",
+				"profile_link_color": "10D1C1",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Sep 29 06:19:50 +0000 2016",
+		"id": 781377929041236000,
+		"id_str": "781377929041235968",
+		"text": "RT @lookslikechloe: 학위논문을 한 문장으로 줄인 것들을 모은 블로그 또르르... http://t.co/brFPmSn8w1 \"RNA는 만들어져서 이런저런 것들을 함\" \"라스 본 트리에 영화는 이상함\" \"프랑스와 미국은 서로 다르고 걔네…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lookslikechloe",
+					"name": "chloed",
+					"id": 81049210,
+					"id_str": "81049210",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "http://t.co/brFPmSn8w1",
+					"expanded_url": "http://lolmythesis.com/",
+					"display_url": "lolmythesis.com",
+					"indices": [
+						54,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1040,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6031,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 20 04:40:00 +0000 2015",
+			"id": 590012013918560300,
+			"id_str": "590012013918560257",
+			"text": "학위논문을 한 문장으로 줄인 것들을 모은 블로그 또르르... http://t.co/brFPmSn8w1 \"RNA는 만들어져서 이런저런 것들을 함\" \"라스 본 트리에 영화는 이상함\" \"프랑스와 미국은 서로 다르고 걔네 치즈도 다름\"",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "http://t.co/brFPmSn8w1",
+						"expanded_url": "http://lolmythesis.com/",
+						"display_url": "lolmythesis.com",
+						"indices": [
+							34,
+							56
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 81049210,
+				"id_str": "81049210",
+				"name": "chloed",
+				"screen_name": "lookslikechloe",
+				"location": "청정지역",
+				"description": "나의 모든 산에는 산불이 났네",
+				"url": "https://t.co/m9aANBRgyo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/m9aANBRgyo",
+								"expanded_url": "http://www.instagram.com/lookslikechloe",
+								"display_url": "instagram.com/lookslikechloe",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1237,
+				"friends_count": 97,
+				"listed_count": 26,
+				"created_at": "Fri Oct 09 07:01:58 +0000 2009",
+				"favourites_count": 1894,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8676,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/404347775/x3806925b0d8a65713145eb2c39fcb07.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/404347775/x3806925b0d8a65713145eb2c39fcb07.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/768305689454194688/GQdn9YPZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/768305689454194688/GQdn9YPZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/81049210/1470639563",
+				"profile_link_color": "3700FF",
+				"profile_sidebar_border_color": "3700FF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1021,
+			"favorite_count": 927,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1021,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Sep 29 05:10:10 +0000 2016",
 		"id": 781360397454487600,
 		"id_str": "781360397454487553",
