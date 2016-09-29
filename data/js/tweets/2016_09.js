@@ -1,6 +1,596 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Thu Sep 29 09:35:48 +0000 2016",
+		"id": 781427246284218400,
+		"id_str": "781427246284218368",
+		"text": "\"だから、『ドラゴンボール』では「努力」はさせなかったんですよ。「修行しました」とは言うよ、でもあくまでも結果で見せていく。\"\n\n뭐야 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1040,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6045,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Thu Sep 29 09:30:41 +0000 2016",
+		"id": 781425959496847400,
+		"id_str": "781425959496847360",
+		"text": "RT @kcanari: 소년 점프의 슬로건인 '우정,승리,노력' 중에 노력은 구라입니다. \nhttps://t.co/MrVkqgVCnc https://t.co/lUVmHs3ZYA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kcanari",
+					"name": "까날(오승택)",
+					"id": 101148636,
+					"id_str": "101148636",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MrVkqgVCnc",
+					"expanded_url": "http://news.denfaminicogamer.jp/projectbook/torishima/5",
+					"display_url": "news.denfaminicogamer.jp/projectbook/to…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 781408050892550100,
+					"id_str": "781408050892550144",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/Ctgee3IUsAAj47h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ctgee3IUsAAj47h.jpg",
+					"url": "https://t.co/lUVmHs3ZYA",
+					"display_url": "pic.twitter.com/lUVmHs3ZYA",
+					"expanded_url": "https://twitter.com/kcanari/status/781409515132493824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 517,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 534,
+							"h": 703,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 534,
+							"h": 703,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 781409515132493800,
+					"source_status_id_str": "781409515132493824",
+					"source_user_id": 101148636,
+					"source_user_id_str": "101148636"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 781408050892550100,
+					"id_str": "781408050892550144",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/Ctgee3IUsAAj47h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ctgee3IUsAAj47h.jpg",
+					"url": "https://t.co/lUVmHs3ZYA",
+					"display_url": "pic.twitter.com/lUVmHs3ZYA",
+					"expanded_url": "https://twitter.com/kcanari/status/781409515132493824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 517,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 534,
+							"h": 703,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 534,
+							"h": 703,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 781409515132493800,
+					"source_status_id_str": "781409515132493824",
+					"source_user_id": 101148636,
+					"source_user_id_str": "101148636"
+				},
+				{
+					"id": 781409405430411300,
+					"id_str": "781409405430411265",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/CtgfttLUMAEZGMF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CtgfttLUMAEZGMF.jpg",
+					"url": "https://t.co/lUVmHs3ZYA",
+					"display_url": "pic.twitter.com/lUVmHs3ZYA",
+					"expanded_url": "https://twitter.com/kcanari/status/781409515132493824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 781409515132493800,
+					"source_status_id_str": "781409515132493824",
+					"source_user_id": 101148636,
+					"source_user_id_str": "101148636"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1040,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6045,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 29 08:25:20 +0000 2016",
+			"id": 781409515132493800,
+			"id_str": "781409515132493824",
+			"text": "소년 점프의 슬로건인 '우정,승리,노력' 중에 노력은 구라입니다. \nhttps://t.co/MrVkqgVCnc https://t.co/lUVmHs3ZYA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MrVkqgVCnc",
+						"expanded_url": "http://news.denfaminicogamer.jp/projectbook/torishima/5",
+						"display_url": "news.denfaminicogamer.jp/projectbook/to…",
+						"indices": [
+							38,
+							61
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 781408050892550100,
+						"id_str": "781408050892550144",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/Ctgee3IUsAAj47h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ctgee3IUsAAj47h.jpg",
+						"url": "https://t.co/lUVmHs3ZYA",
+						"display_url": "pic.twitter.com/lUVmHs3ZYA",
+						"expanded_url": "https://twitter.com/kcanari/status/781409515132493824/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 517,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 534,
+								"h": 703,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 534,
+								"h": 703,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 781408050892550100,
+						"id_str": "781408050892550144",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/Ctgee3IUsAAj47h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ctgee3IUsAAj47h.jpg",
+						"url": "https://t.co/lUVmHs3ZYA",
+						"display_url": "pic.twitter.com/lUVmHs3ZYA",
+						"expanded_url": "https://twitter.com/kcanari/status/781409515132493824/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 517,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 534,
+								"h": 703,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 534,
+								"h": 703,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 781409405430411300,
+						"id_str": "781409405430411265",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/CtgfttLUMAEZGMF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtgfttLUMAEZGMF.jpg",
+						"url": "https://t.co/lUVmHs3ZYA",
+						"display_url": "pic.twitter.com/lUVmHs3ZYA",
+						"expanded_url": "https://twitter.com/kcanari/status/781409515132493824/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 101148636,
+				"id_str": "101148636",
+				"name": "까날(오승택)",
+				"screen_name": "kcanari",
+				"location": "KOREA Sungnam",
+				"description": "'홋카이도에 먹으러가자' 글쓴이. 일본 식도락 여행 전문 블로그 운영중. 우리음식, 일본음식, 우리술, 일본술에 관심이 많은 사람.",
+				"url": "http://t.co/F8qV04Ob9y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/F8qV04Ob9y",
+								"expanded_url": "http://kcanari.egloos.com",
+								"display_url": "kcanari.egloos.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14620,
+				"friends_count": 256,
+				"listed_count": 185,
+				"created_at": "Sat Jan 02 05:42:27 +0000 2010",
+				"favourites_count": 306,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 77152,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/63552387/ssushi.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/63552387/ssushi.JPG",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/101148636/1365251288",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 189,
+			"favorite_count": 30,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 189,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Sep 29 09:15:48 +0000 2016",
+		"id": 781422213807214600,
+		"id_str": "781422213807214592",
+		"text": "아니, 이쪽은 한국 아재소설에 맞는 분석이고(물론 라노베가 판형을 확장하며 아재들도 포섭했지만), 삶의 질을 중시하는 것처럼 밀레니얼은 과정의 질을 중시하게 된 것이 맞을 것 같네요.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 781405600991154200,
+		"in_reply_to_status_id_str": "781405600991154176",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1040,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6045,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Sep 29 08:38:46 +0000 2016",
 		"id": 781412895930224600,
 		"id_str": "781412895930224640",
