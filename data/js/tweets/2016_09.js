@@ -1,6 +1,182 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Thu Sep 29 11:51:58 +0000 2016",
+		"id": 781461512191746000,
+		"id_str": "781461512191746048",
+		"text": "RT @yeokbo: 동네의 불기소 공지가 뜬 이후로 웹갤의 타겟은 '더 만만한' 동인작가 개인으로 옮겨간 느낌. 동인작가 간 연대나 정보공유가 필요해보인다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yeokbo",
+					"name": "역보",
+					"id": 134986465,
+					"id_str": "134986465",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1041,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6047,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 29 06:43:46 +0000 2016",
+			"id": 781383951566811100,
+			"id_str": "781383951566811136",
+			"text": "동네의 불기소 공지가 뜬 이후로 웹갤의 타겟은 '더 만만한' 동인작가 개인으로 옮겨간 느낌. 동인작가 간 연대나 정보공유가 필요해보인다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 134986465,
+				"id_str": "134986465",
+				"name": "역보",
+				"screen_name": "yeokbo",
+				"location": "",
+				"description": "#Remember_0416 오버워치 Yeokbo#3413 페미니스트. 부천 FC 1995 팬. 리듬게임 안합니다.",
+				"url": "https://t.co/jFxppCyVzd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jFxppCyVzd",
+								"expanded_url": "http://yeokbo.tumblr.com",
+								"display_url": "yeokbo.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 683,
+				"friends_count": 395,
+				"listed_count": 16,
+				"created_at": "Tue Apr 20 01:17:50 +0000 2010",
+				"favourites_count": 39101,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 135189,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "AACBB0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/504634763424980994/NAgSqfaj.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/504634763424980994/NAgSqfaj.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/765580681028046848/Qrv8bqFF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/765580681028046848/Qrv8bqFF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/134986465/1464546677",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "152429",
+				"profile_sidebar_fill_color": "253836",
+				"profile_text_color": "4D5D5A",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 279,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 279,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Sep 29 10:44:19 +0000 2016",
 		"id": 781444488883347500,
 		"id_str": "781444488883347456",
