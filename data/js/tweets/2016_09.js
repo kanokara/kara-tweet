@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Fri Sep 30 22:49:19 +0000 2016",
+		"id": 781989330675826700,
+		"id_str": "781989330675826688",
+		"text": "RT @TxM_benben: 幹式 https://t.co/uRgxwQFtWS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TxM_benben",
+					"name": "べんべ",
+					"id": 3533439380,
+					"id_str": "3533439380",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 781884226727661600,
+					"id_str": "781884226727661570",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/CtnPj8WVUAINItv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CtnPj8WVUAINItv.jpg",
+					"url": "https://t.co/uRgxwQFtWS",
+					"display_url": "pic.twitter.com/uRgxwQFtWS",
+					"expanded_url": "https://twitter.com/TxM_benben/status/781884285200445440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 781884285200445400,
+					"source_status_id_str": "781884285200445440",
+					"source_user_id": 3533439380,
+					"source_user_id_str": "3533439380"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 781884226727661600,
+					"id_str": "781884226727661570",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/CtnPj8WVUAINItv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CtnPj8WVUAINItv.jpg",
+					"url": "https://t.co/uRgxwQFtWS",
+					"display_url": "pic.twitter.com/uRgxwQFtWS",
+					"expanded_url": "https://twitter.com/TxM_benben/status/781884285200445440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 781884285200445400,
+					"source_status_id_str": "781884285200445440",
+					"source_user_id": 3533439380,
+					"source_user_id_str": "3533439380"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1039,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6061,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 30 15:51:54 +0000 2016",
+			"id": 781884285200445400,
+			"id_str": "781884285200445440",
+			"text": "幹式 https://t.co/uRgxwQFtWS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 781884226727661600,
+						"id_str": "781884226727661570",
+						"indices": [
+							3,
+							26
+						],
+						"media_url": "http://pbs.twimg.com/media/CtnPj8WVUAINItv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtnPj8WVUAINItv.jpg",
+						"url": "https://t.co/uRgxwQFtWS",
+						"display_url": "pic.twitter.com/uRgxwQFtWS",
+						"expanded_url": "https://twitter.com/TxM_benben/status/781884285200445440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1448,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 848,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 781884226727661600,
+						"id_str": "781884226727661570",
+						"indices": [
+							3,
+							26
+						],
+						"media_url": "http://pbs.twimg.com/media/CtnPj8WVUAINItv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtnPj8WVUAINItv.jpg",
+						"url": "https://t.co/uRgxwQFtWS",
+						"display_url": "pic.twitter.com/uRgxwQFtWS",
+						"expanded_url": "https://twitter.com/TxM_benben/status/781884285200445440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1448,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 848,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3533439380,
+				"id_str": "3533439380",
+				"name": "べんべ",
+				"screen_name": "TxM_benben",
+				"location": "とやま",
+				"description": "22さいのおとこのこです サークル｢とりっく×まじっく｣TYPE-MOON中心でお絵かきをしています。 ロードエルメロイ二世の事件簿、FGOの話多め。 イラストや漫画のお誘いがありましたらDMかtm.bencher@gmail.comまで。",
+				"url": "https://t.co/AQnXgBiavJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AQnXgBiavJ",
+								"expanded_url": "http://archer4623.tumblr.com/",
+								"display_url": "archer4623.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1619,
+				"friends_count": 337,
+				"listed_count": 33,
+				"created_at": "Sat Sep 12 03:03:55 +0000 2015",
+				"favourites_count": 2908,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17012,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/757270079490789376/HFuaZ7XA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/757270079490789376/HFuaZ7XA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3533439380/1465919317",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 133,
+			"favorite_count": 263,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 133,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Fri Sep 30 12:09:28 +0000 2016",
 		"id": 781828304156303400,
 		"id_str": "781828304156303360",
