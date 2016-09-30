@@ -1,6 +1,576 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Fri Sep 30 01:11:44 +0000 2016",
+		"id": 781662782794174500,
+		"id_str": "781662782794174465",
+		"text": "RT @GIL_P: 쇼유맛은 마레이....\n\n음 다른 맛 사려면 좀 돌아댕겨야 하려나 https://t.co/IpopbKpnZ9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GIL_P",
+					"name": "길시언",
+					"id": 110414028,
+					"id_str": "110414028",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 780813347386118100,
+					"id_str": "780813347386118144",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/CtYBmj7VUAA05Uw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CtYBmj7VUAA05Uw.jpg",
+					"url": "https://t.co/IpopbKpnZ9",
+					"display_url": "pic.twitter.com/IpopbKpnZ9",
+					"expanded_url": "https://twitter.com/GIL_P/status/780813369418788864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 719,
+							"h": 1010,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 719,
+							"h": 1010,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 780813369418788900,
+					"source_status_id_str": "780813369418788864",
+					"source_user_id": 110414028,
+					"source_user_id_str": "110414028"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 780813347386118100,
+					"id_str": "780813347386118144",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/CtYBmj7VUAA05Uw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CtYBmj7VUAA05Uw.jpg",
+					"url": "https://t.co/IpopbKpnZ9",
+					"display_url": "pic.twitter.com/IpopbKpnZ9",
+					"expanded_url": "https://twitter.com/GIL_P/status/780813369418788864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 719,
+							"h": 1010,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 719,
+							"h": 1010,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 780813369418788900,
+					"source_status_id_str": "780813369418788864",
+					"source_user_id": 110414028,
+					"source_user_id_str": "110414028"
+				},
+				{
+					"id": 780813354449313800,
+					"id_str": "780813354449313792",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/CtYBm-PVIAAF7CQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CtYBm-PVIAAF7CQ.jpg",
+					"url": "https://t.co/IpopbKpnZ9",
+					"display_url": "pic.twitter.com/IpopbKpnZ9",
+					"expanded_url": "https://twitter.com/GIL_P/status/780813369418788864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1439,
+							"h": 1991,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 867,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 491,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 780813369418788900,
+					"source_status_id_str": "780813369418788864",
+					"source_user_id": 110414028,
+					"source_user_id_str": "110414028"
+				},
+				{
+					"id": 780813360006692900,
+					"id_str": "780813360006692864",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/CtYBnS8UAAAFhzc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CtYBnS8UAAAFhzc.jpg",
+					"url": "https://t.co/IpopbKpnZ9",
+					"display_url": "pic.twitter.com/IpopbKpnZ9",
+					"expanded_url": "https://twitter.com/GIL_P/status/780813369418788864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 719,
+							"h": 1064,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 719,
+							"h": 1064,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 780813369418788900,
+					"source_status_id_str": "780813369418788864",
+					"source_user_id": 110414028,
+					"source_user_id_str": "110414028"
+				},
+				{
+					"id": 780813365757173800,
+					"id_str": "780813365757173761",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/CtYBnoXVYAENiXd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CtYBnoXVYAENiXd.jpg",
+					"url": "https://t.co/IpopbKpnZ9",
+					"display_url": "pic.twitter.com/IpopbKpnZ9",
+					"expanded_url": "https://twitter.com/GIL_P/status/780813369418788864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 780813369418788900,
+					"source_status_id_str": "780813369418788864",
+					"source_user_id": 110414028,
+					"source_user_id_str": "110414028"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1039,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6047,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 27 16:56:28 +0000 2016",
+			"id": 780813369418788900,
+			"id_str": "780813369418788864",
+			"text": "쇼유맛은 마레이....\n\n음 다른 맛 사려면 좀 돌아댕겨야 하려나 https://t.co/IpopbKpnZ9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 780813347386118100,
+						"id_str": "780813347386118144",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/CtYBmj7VUAA05Uw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtYBmj7VUAA05Uw.jpg",
+						"url": "https://t.co/IpopbKpnZ9",
+						"display_url": "pic.twitter.com/IpopbKpnZ9",
+						"expanded_url": "https://twitter.com/GIL_P/status/780813369418788864/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 719,
+								"h": 1010,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 484,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 719,
+								"h": 1010,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 780813347386118100,
+						"id_str": "780813347386118144",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/CtYBmj7VUAA05Uw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtYBmj7VUAA05Uw.jpg",
+						"url": "https://t.co/IpopbKpnZ9",
+						"display_url": "pic.twitter.com/IpopbKpnZ9",
+						"expanded_url": "https://twitter.com/GIL_P/status/780813369418788864/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 719,
+								"h": 1010,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 484,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 719,
+								"h": 1010,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 780813354449313800,
+						"id_str": "780813354449313792",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/CtYBm-PVIAAF7CQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtYBm-PVIAAF7CQ.jpg",
+						"url": "https://t.co/IpopbKpnZ9",
+						"display_url": "pic.twitter.com/IpopbKpnZ9",
+						"expanded_url": "https://twitter.com/GIL_P/status/780813369418788864/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1439,
+								"h": 1991,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 867,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 491,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 780813360006692900,
+						"id_str": "780813360006692864",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/CtYBnS8UAAAFhzc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtYBnS8UAAAFhzc.jpg",
+						"url": "https://t.co/IpopbKpnZ9",
+						"display_url": "pic.twitter.com/IpopbKpnZ9",
+						"expanded_url": "https://twitter.com/GIL_P/status/780813369418788864/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 719,
+								"h": 1064,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 460,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 719,
+								"h": 1064,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 780813365757173800,
+						"id_str": "780813365757173761",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/CtYBnoXVYAENiXd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtYBnoXVYAENiXd.jpg",
+						"url": "https://t.co/IpopbKpnZ9",
+						"display_url": "pic.twitter.com/IpopbKpnZ9",
+						"expanded_url": "https://twitter.com/GIL_P/status/780813369418788864/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.twitpane.com\" rel=\"nofollow\">TwitPanePlus for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 110414028,
+				"id_str": "110414028",
+				"name": "길시언",
+				"screen_name": "GIL_P",
+				"location": "일본",
+				"description": "제 트윗보다는 다른 사람의 트윗 알티가 많은 편입니다. 아이돌마스터 10주년 라이브를 직접 보고 오긴 했습니다. 데레마스/데레스테는 꾸준히는 함. 덕질을 하고 있다고 하기엔 지름이 부족한 것 같기도 한데...",
+				"url": "https://t.co/T9AOKz5F98",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/T9AOKz5F98",
+								"expanded_url": "http://windows.egloos.com",
+								"display_url": "windows.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 129,
+				"friends_count": 118,
+				"listed_count": 10,
+				"created_at": "Mon Feb 01 13:18:18 +0000 2010",
+				"favourites_count": 28,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 136204,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0075C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/603465026972700672/VY48aIVV_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/603465026972700672/VY48aIVV_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/110414028/1432712399",
+				"profile_link_color": "0075C4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Sep 29 22:37:32 +0000 2016",
 		"id": 781623977080860700,
 		"id_str": "781623977080860673",
