@@ -1,6 +1,639 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Fri Sep 30 04:10:48 +0000 2016",
+		"id": 781707844886356000,
+		"id_str": "781707844886355969",
+		"text": "新海誠「君の名は。」に抱く違和感　過去作の価値観を全否定している (전편)\nhttps://t.co/7Aat8yDJhw\n\n震災の経験を昇華する「君の名は。」 (후편)\nhttps://t.co/1mSrRG0Y3S\n\n큰 재미는 없는 대담.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7Aat8yDJhw",
+					"expanded_url": "http://news.merumo.ne.jp/article/genre/5003674",
+					"display_url": "news.merumo.ne.jp/article/genre/…",
+					"indices": [
+						38,
+						61
+					]
+				},
+				{
+					"url": "https://t.co/1mSrRG0Y3S",
+					"expanded_url": "http://news.merumo.ne.jp/article/genre/5003673",
+					"display_url": "news.merumo.ne.jp/article/genre/…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 781707488295022600,
+		"in_reply_to_status_id_str": "781707488295022592",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1039,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6053,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Fri Sep 30 04:09:23 +0000 2016",
+		"id": 781707488295022600,
+		"id_str": "781707488295022592",
+		"text": "후지타 씨는 정반대로, 일본인의 지진 재해 경험에 비추어 2/3까지는 그 구성이 일본인의 내적 경험을 반영하고 있다고 칭찬하던데... 작품을 안 봤으니 모르겠네요. 일본의 컨텍스트에서 보지 않으면 안 보일까.\nhttps://t.co/Vw3nTr4lSv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Vw3nTr4lSv",
+					"expanded_url": "https://twitter.com/h1radaks201/status/781621631508582401",
+					"display_url": "twitter.com/h1radaks201/st…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1039,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6053,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 781621631508582400,
+		"quoted_status_id_str": "781621631508582401",
+		"quoted_status": {
+			"created_at": "Thu Sep 29 22:28:13 +0000 2016",
+			"id": 781621631508582400,
+			"id_str": "781621631508582401",
+			"text": "@h1radaks201 언어의 니와랑 비슷한 느낌이겠지만. 증말 초반부는 이거 사실 6~8개의 티비애니나 OVA같은걸로 만들다가 극장용으로 바뀐거아닐까 같은느낌임 뒤로갈수록 그런느낌이 덜해지기도하구..",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "h1radaks201",
+						"name": "오소리사냥꾼",
+						"id": 2930139504,
+						"id_str": "2930139504",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 781621253866074100,
+			"in_reply_to_status_id_str": "781621253866074118",
+			"in_reply_to_user_id": 2930139504,
+			"in_reply_to_user_id_str": "2930139504",
+			"in_reply_to_screen_name": "h1radaks201",
+			"user": {
+				"id": 2930139504,
+				"id_str": "2930139504",
+				"name": "오소리사냥꾼",
+				"screen_name": "h1radaks201",
+				"location": "",
+				"description": "오소리를 사냥합니다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 661,
+				"friends_count": 1117,
+				"listed_count": 17,
+				"created_at": "Sun Dec 14 19:15:50 +0000 2014",
+				"favourites_count": 7696,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 80853,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/620621786296614912/nw8GRgIX.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/620621786296614912/nw8GRgIX.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/781254588934479872/1-c_GxSD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/781254588934479872/1-c_GxSD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2930139504/1475100608",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Sep 30 03:55:34 +0000 2016",
+		"id": 781704010847883300,
+		"id_str": "781704010847883264",
+		"text": "4대강이 헛되지 않았어...! #아님\nhttps://t.co/H7sbZk52fx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아님",
+					"indices": [
+						17,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H7sbZk52fx",
+					"expanded_url": "https://twitter.com/tks/status/763219777816977408",
+					"display_url": "twitter.com/tks/status/763…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1039,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6053,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 763219777816977400,
+		"quoted_status_id_str": "763219777816977408",
+		"quoted_status": {
+			"created_at": "Wed Aug 10 03:45:49 +0000 2016",
+			"id": 763219777816977400,
+			"id_str": "763219777816977408",
+			"text": "深センで韓国チームがつくってる魚ロボ、すげークオリティ高い!\n15m潜れて10時間泳げる！ https://t.co/2KRZ8plR7K",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 763219519737176000,
+						"id_str": "763219519737176064",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/763219519737176064/pu/img/1xv7zsp0ERKTqXfY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/763219519737176064/pu/img/1xv7zsp0ERKTqXfY.jpg",
+						"url": "https://t.co/2KRZ8plR7K",
+						"display_url": "pic.twitter.com/2KRZ8plR7K",
+						"expanded_url": "http://twitter.com/tks/status/763219777816977408/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 763219519737176000,
+						"id_str": "763219519737176064",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/763219519737176064/pu/img/1xv7zsp0ERKTqXfY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/763219519737176064/pu/img/1xv7zsp0ERKTqXfY.jpg",
+						"url": "https://t.co/2KRZ8plR7K",
+						"display_url": "pic.twitter.com/2KRZ8plR7K",
+						"expanded_url": "http://twitter.com/tks/status/763219777816977408/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 14830,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/763219519737176064/pu/vid/480x480/AuBkfaC1RqxG2v2R.mp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/763219519737176064/pu/vid/720x720/2f04ksLWX6LUccNU.mp4"
+								},
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/763219519737176064/pu/pl/JiZz1WMZiVl8z5OQ.mpd"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/763219519737176064/pu/pl/JiZz1WMZiVl8z5OQ.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/763219519737176064/pu/vid/240x240/ltuwIh3QKaFSw_06.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3839521,
+				"id_str": "3839521",
+				"name": "高須@深セン書籍メイカーズのエコシステ厶",
+				"screen_name": "tks",
+				"location": "The Net",
+				"description": "Maker and agnostic.\nLove the Future, Internet, Energyful days. \nENBlog https://t.co/wYeMDu7weJ\nFacebook https://t.co/2mKWX5xyRc \nProfile https://t.co/4zcfM1oEtv",
+				"url": "https://t.co/ctltPRTFKs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ctltPRTFKs",
+								"expanded_url": "https://www.linkedin.com/pub/masakazu-takasu/58/656/1",
+								"display_url": "linkedin.com/pub/masakazu-t…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/wYeMDu7weJ",
+								"expanded_url": "http://medium.com/@tks/",
+								"display_url": "medium.com/@tks/",
+								"indices": [
+									71,
+									94
+								]
+							},
+							{
+								"url": "https://t.co/2mKWX5xyRc",
+								"expanded_url": "http://facebook.com/takasumasakazu",
+								"display_url": "facebook.com/takasumasakazu",
+								"indices": [
+									104,
+									127
+								]
+							},
+							{
+								"url": "https://t.co/4zcfM1oEtv",
+								"expanded_url": "http://goo.gl/Rjpvl2",
+								"display_url": "goo.gl/Rjpvl2",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6408,
+				"friends_count": 4005,
+				"listed_count": 438,
+				"created_at": "Mon Apr 09 01:34:32 +0000 2007",
+				"favourites_count": 15020,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 55840,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/503112313688170496/lu5iWGfn_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/503112313688170496/lu5iWGfn_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3839521/1420180391",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "00059b04495a7e37",
+				"url": "https://api.twitter.com/1.1/geo/id/00059b04495a7e37.json",
+				"place_type": "admin",
+				"name": "广东",
+				"full_name": "广东, 中华人民共和国",
+				"country_code": "CN",
+				"country": "中华人民共和国",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								109.664659,
+								20.221264
+							],
+							[
+								117.17479,
+								20.221264
+							],
+							[
+								117.17479,
+								25.518608
+							],
+							[
+								109.664659,
+								25.518608
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1638,
+			"favorite_count": 1396,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Sep 30 03:07:26 +0000 2016",
 		"id": 781691896972320800,
 		"id_str": "781691896972320768",
