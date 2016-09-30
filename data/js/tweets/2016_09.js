@@ -1,6 +1,485 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Fri Sep 30 10:54:32 +0000 2016",
+		"id": 781809450302705700,
+		"id_str": "781809450302705664",
+		"text": "자기 트윗은 모멘트 안 되는데 되게 하고, 마음글은 별 찍은 순서대로 정렬할 수 있는 기능을 추가해주면 좋겠어요.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 781808557138153500,
+		"in_reply_to_status_id_str": "781808557138153472",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1039,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6059,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Sep 30 10:51:57 +0000 2016",
+		"id": 781808799082356700,
+		"id_str": "781808799082356736",
+		"text": "RT @selfbuster0630: 프로필에 \"모멘트\"라는게 생겼습니다. 마음글과 별개로 원하는 트윗을 모아놓을수 있음. 마음글에서 목록에 추가하거나 검색해서 넣을수 있으므로 기존 찾기 힘든 마음글 저장보다는 자료 저장 의미로는 괜찮아보임 https…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "selfbuster0630",
+					"name": "[커미션받는중] 자폭단추#3692",
+					"id": 207118206,
+					"id_str": "207118206",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1039,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6059,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 30 00:58:28 +0000 2016",
+			"id": 781659441733201900,
+			"id_str": "781659441733201920",
+			"text": "프로필에 \"모멘트\"라는게 생겼습니다. 마음글과 별개로 원하는 트윗을 모아놓을수 있음. 마음글에서 목록에 추가하거나 검색해서 넣을수 있으므로 기존 찾기 힘든 마음글 저장보다는 자료 저장 의미로는 괜찮아보임 https://t.co/2pYokBc33O",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 781659113881149400,
+						"id_str": "781659113881149440",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/CtkC0ppVIAAUhjl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtkC0ppVIAAUhjl.jpg",
+						"url": "https://t.co/2pYokBc33O",
+						"display_url": "pic.twitter.com/2pYokBc33O",
+						"expanded_url": "https://twitter.com/selfbuster0630/status/781659441733201920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 406,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 939,
+								"h": 561,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 939,
+								"h": 561,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 781659113881149400,
+						"id_str": "781659113881149440",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/CtkC0ppVIAAUhjl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtkC0ppVIAAUhjl.jpg",
+						"url": "https://t.co/2pYokBc33O",
+						"display_url": "pic.twitter.com/2pYokBc33O",
+						"expanded_url": "https://twitter.com/selfbuster0630/status/781659441733201920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 406,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 939,
+								"h": 561,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 939,
+								"h": 561,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 781659247528378400,
+						"id_str": "781659247528378368",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/CtkC8bhUAAAmZlg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtkC8bhUAAAmZlg.jpg",
+						"url": "https://t.co/2pYokBc33O",
+						"display_url": "pic.twitter.com/2pYokBc33O",
+						"expanded_url": "https://twitter.com/selfbuster0630/status/781659441733201920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 349,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 715,
+								"h": 367,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 715,
+								"h": 367,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 781659276276224000,
+						"id_str": "781659276276224000",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/CtkC-GnVUAAdxHi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtkC-GnVUAAdxHi.jpg",
+						"url": "https://t.co/2pYokBc33O",
+						"display_url": "pic.twitter.com/2pYokBc33O",
+						"expanded_url": "https://twitter.com/selfbuster0630/status/781659441733201920/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 869,
+								"h": 333,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 869,
+								"h": 333,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 261,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 207118206,
+				"id_str": "207118206",
+				"name": "[커미션받는중] 자폭단추#3692",
+				"screen_name": "selfbuster0630",
+				"location": "우리집",
+				"description": "욕쟁이 가슴성애자 커미션받는중 맞팔은 맨션 / 지인계 @selfbuster",
+				"url": "https://t.co/zDzScB0b0f",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zDzScB0b0f",
+								"expanded_url": "http://blog.naver.com/skeks_/220718606864",
+								"display_url": "blog.naver.com/skeks_/2207186…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 919,
+				"friends_count": 523,
+				"listed_count": 10,
+				"created_at": "Sun Oct 24 15:18:59 +0000 2010",
+				"favourites_count": 6622,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 206914,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/660974106/egmjlng0a096iaq7wkuv.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/660974106/egmjlng0a096iaq7wkuv.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/773561223401000960/l4_gIFYk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/773561223401000960/l4_gIFYk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/207118206/1443833164",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5635,
+			"favorite_count": 1146,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5635,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Sep 30 10:50:59 +0000 2016",
+		"id": 781808557138153500,
+		"id_str": "781808557138153472",
+		"text": "헉, 모멘트 기능 뭔가요 (컬쳐쇼크)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1039,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6059,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Sep 30 09:54:40 +0000 2016",
 		"id": 781794384480088000,
 		"id_str": "781794384480088064",
