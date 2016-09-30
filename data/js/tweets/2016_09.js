@@ -1,6 +1,397 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Fri Sep 30 04:24:41 +0000 2016",
+		"id": 781711339131703300,
+		"id_str": "781711339131703296",
+		"text": "RT @tks: SEG+ MakerとCPARKショールームを見学!\n深セン政府はスタートアップに500万円ほどを支給し、プロトタイピングを華強北\n成果はアンテナショップで販売サポート。\nすでに60チームほど（話題の魚ロボも含む）参加してる! https://t.co/uTx…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tks",
+					"name": "高須@深セン書籍メイカーズのエコシステ厶",
+					"id": 3839521,
+					"id_str": "3839521",
+					"indices": [
+						3,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1039,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6054,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 18 01:40:26 +0000 2016",
+			"id": 766087324815896600,
+			"id_str": "766087324815896577",
+			"text": "SEG+ MakerとCPARKショールームを見学!\n深セン政府はスタートアップに500万円ほどを支給し、プロトタイピングを華強北\n成果はアンテナショップで販売サポート。\nすでに60チームほど（話題の魚ロボも含む）参加してる! https://t.co/uTxGnr8xDs",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 766087178518667300,
+						"id_str": "766087178518667264",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/CqGwOt6WIAAQkD7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CqGwOt6WIAAQkD7.jpg",
+						"url": "https://t.co/uTxGnr8xDs",
+						"display_url": "pic.twitter.com/uTxGnr8xDs",
+						"expanded_url": "http://twitter.com/tks/status/766087324815896577/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 766087178518667300,
+						"id_str": "766087178518667264",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/CqGwOt6WIAAQkD7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CqGwOt6WIAAQkD7.jpg",
+						"url": "https://t.co/uTxGnr8xDs",
+						"display_url": "pic.twitter.com/uTxGnr8xDs",
+						"expanded_url": "http://twitter.com/tks/status/766087324815896577/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 766087219304071200,
+						"id_str": "766087219304071170",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/CqGwRF2WAAIGs75.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CqGwRF2WAAIGs75.jpg",
+						"url": "https://t.co/uTxGnr8xDs",
+						"display_url": "pic.twitter.com/uTxGnr8xDs",
+						"expanded_url": "http://twitter.com/tks/status/766087324815896577/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 766087236895010800,
+						"id_str": "766087236895010816",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/CqGwSHYWcAA1LIK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CqGwSHYWcAA1LIK.jpg",
+						"url": "https://t.co/uTxGnr8xDs",
+						"display_url": "pic.twitter.com/uTxGnr8xDs",
+						"expanded_url": "http://twitter.com/tks/status/766087324815896577/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 766087281723764700,
+						"id_str": "766087281723764736",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/CqGwUuYW8AAulkZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CqGwUuYW8AAulkZ.jpg",
+						"url": "https://t.co/uTxGnr8xDs",
+						"display_url": "pic.twitter.com/uTxGnr8xDs",
+						"expanded_url": "http://twitter.com/tks/status/766087324815896577/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3839521,
+				"id_str": "3839521",
+				"name": "高須@深セン書籍メイカーズのエコシステ厶",
+				"screen_name": "tks",
+				"location": "The Net",
+				"description": "Maker and agnostic.\nLove the Future, Internet, Energyful days. \nENBlog https://t.co/wYeMDu7weJ\nFacebook https://t.co/2mKWX5xyRc \nProfile https://t.co/4zcfM1oEtv",
+				"url": "https://t.co/ctltPRTFKs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ctltPRTFKs",
+								"expanded_url": "https://www.linkedin.com/pub/masakazu-takasu/58/656/1",
+								"display_url": "linkedin.com/pub/masakazu-t…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/wYeMDu7weJ",
+								"expanded_url": "http://medium.com/@tks/",
+								"display_url": "medium.com/@tks/",
+								"indices": [
+									71,
+									94
+								]
+							},
+							{
+								"url": "https://t.co/2mKWX5xyRc",
+								"expanded_url": "http://facebook.com/takasumasakazu",
+								"display_url": "facebook.com/takasumasakazu",
+								"indices": [
+									104,
+									127
+								]
+							},
+							{
+								"url": "https://t.co/4zcfM1oEtv",
+								"expanded_url": "http://goo.gl/Rjpvl2",
+								"display_url": "goo.gl/Rjpvl2",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6408,
+				"friends_count": 4005,
+				"listed_count": 438,
+				"created_at": "Mon Apr 09 01:34:32 +0000 2007",
+				"favourites_count": 15020,
+				"utc_offset": 28800,
+				"time_zone": "Singapore",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 55840,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/503112313688170496/lu5iWGfn_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/503112313688170496/lu5iWGfn_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3839521/1420180391",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Fri Sep 30 04:10:48 +0000 2016",
 		"id": 781707844886356000,
 		"id_str": "781707844886355969",
