@@ -1,6 +1,487 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sun Oct 02 05:06:09 +0000 2016",
+		"id": 782446552186888200,
+		"id_str": "782446552186888192",
+		"text": "RT @M_Ryull: ~미국 유학 일지~ 오랄섹1스 편(아님) https://t.co/70UC1X9S09",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "M_Ryull",
+					"name": "팩트살인범 멍률",
+					"id": 1405747334,
+					"id_str": "1405747334",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 781740171653947400,
+					"id_str": "781740171653947396",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/CtlMi1YWIAQ2csV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CtlMi1YWIAQ2csV.jpg",
+					"url": "https://t.co/70UC1X9S09",
+					"display_url": "pic.twitter.com/70UC1X9S09",
+					"expanded_url": "https://twitter.com/M_Ryull/status/781740260053180416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 781740260053180400,
+					"source_status_id_str": "781740260053180416",
+					"source_user_id": 1405747334,
+					"source_user_id_str": "1405747334"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 781740171653947400,
+					"id_str": "781740171653947396",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/CtlMi1YWIAQ2csV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CtlMi1YWIAQ2csV.jpg",
+					"url": "https://t.co/70UC1X9S09",
+					"display_url": "pic.twitter.com/70UC1X9S09",
+					"expanded_url": "https://twitter.com/M_Ryull/status/781740260053180416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 781740260053180400,
+					"source_status_id_str": "781740260053180416",
+					"source_user_id": 1405747334,
+					"source_user_id_str": "1405747334"
+				},
+				{
+					"id": 781740171662426100,
+					"id_str": "781740171662426113",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/CtlMi1aXgAEtPVN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CtlMi1aXgAEtPVN.jpg",
+					"url": "https://t.co/70UC1X9S09",
+					"display_url": "pic.twitter.com/70UC1X9S09",
+					"expanded_url": "https://twitter.com/M_Ryull/status/781740260053180416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 781740260053180400,
+					"source_status_id_str": "781740260053180416",
+					"source_user_id": 1405747334,
+					"source_user_id_str": "1405747334"
+				},
+				{
+					"id": 781740171662331900,
+					"id_str": "781740171662331904",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/CtlMi1aWEAAbata.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CtlMi1aWEAAbata.jpg",
+					"url": "https://t.co/70UC1X9S09",
+					"display_url": "pic.twitter.com/70UC1X9S09",
+					"expanded_url": "https://twitter.com/M_Ryull/status/781740260053180416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 781740260053180400,
+					"source_status_id_str": "781740260053180416",
+					"source_user_id": 1405747334,
+					"source_user_id_str": "1405747334"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1043,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6101,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 30 06:19:36 +0000 2016",
+			"id": 781740260053180400,
+			"id_str": "781740260053180416",
+			"text": "~미국 유학 일지~ 오랄섹1스 편(아님) https://t.co/70UC1X9S09",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 781740171653947400,
+						"id_str": "781740171653947396",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/CtlMi1YWIAQ2csV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtlMi1YWIAQ2csV.jpg",
+						"url": "https://t.co/70UC1X9S09",
+						"display_url": "pic.twitter.com/70UC1X9S09",
+						"expanded_url": "https://twitter.com/M_Ryull/status/781740260053180416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 781740171653947400,
+						"id_str": "781740171653947396",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/CtlMi1YWIAQ2csV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtlMi1YWIAQ2csV.jpg",
+						"url": "https://t.co/70UC1X9S09",
+						"display_url": "pic.twitter.com/70UC1X9S09",
+						"expanded_url": "https://twitter.com/M_Ryull/status/781740260053180416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 781740171662426100,
+						"id_str": "781740171662426113",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/CtlMi1aXgAEtPVN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtlMi1aXgAEtPVN.jpg",
+						"url": "https://t.co/70UC1X9S09",
+						"display_url": "pic.twitter.com/70UC1X9S09",
+						"expanded_url": "https://twitter.com/M_Ryull/status/781740260053180416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 781740171662331900,
+						"id_str": "781740171662331904",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/CtlMi1aWEAAbata.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CtlMi1aWEAAbata.jpg",
+						"url": "https://t.co/70UC1X9S09",
+						"display_url": "pic.twitter.com/70UC1X9S09",
+						"expanded_url": "https://twitter.com/M_Ryull/status/781740260053180416/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1405747334,
+				"id_str": "1405747334",
+				"name": "팩트살인범 멍률",
+				"screen_name": "M_Ryull",
+				"location": "옘병",
+				"description": "자덕질 /잡덕 / 최애캐른/리버스지뢰/탐라언급 노상관 멘션언급 블락/욕폭섹트/의도적 맞춤법 파괴, 오타 많음/이별은 블언블",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1258,
+				"friends_count": 395,
+				"listed_count": 9,
+				"created_at": "Sun May 05 18:18:10 +0000 2013",
+				"favourites_count": 2613,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 48502,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFA1A1",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/436208561505333248/lmmTjBuu.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/436208561505333248/lmmTjBuu.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/782057628541284352/f3ivEEkr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/782057628541284352/f3ivEEkr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1405747334/1462796381",
+				"profile_link_color": "FF8585",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9769,
+			"favorite_count": 2209,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9769,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Oct 01 15:44:24 +0000 2016",
 		"id": 782244781975932900,
 		"id_str": "782244781975932928",
