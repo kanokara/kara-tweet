@@ -1,6 +1,923 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Mon Oct 03 08:48:58 +0000 2016",
+		"id": 782865013186756600,
+		"id_str": "782865013186756608",
+		"text": "RT @bakutendo: 制服史上3、今までにない作りでビックリした。 https://t.co/yBbZuoq4A3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bakutendo",
+					"name": "爆天童＠ウルトラ怪獣擬人化計画２巻発売",
+					"id": 37210245,
+					"id_str": "37210245",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 782558525209706500,
+					"id_str": "782558525209706496",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/782558525209706496/pu/img/52uUEFWdKSdQatMP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/782558525209706496/pu/img/52uUEFWdKSdQatMP.jpg",
+					"url": "https://t.co/yBbZuoq4A3",
+					"display_url": "pic.twitter.com/yBbZuoq4A3",
+					"expanded_url": "https://twitter.com/bakutendo/status/782558646123192320/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 782558646123192300,
+					"source_status_id_str": "782558646123192320",
+					"source_user_id": 37210245,
+					"source_user_id_str": "37210245"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 782558525209706500,
+					"id_str": "782558525209706496",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/782558525209706496/pu/img/52uUEFWdKSdQatMP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/782558525209706496/pu/img/52uUEFWdKSdQatMP.jpg",
+					"url": "https://t.co/yBbZuoq4A3",
+					"display_url": "pic.twitter.com/yBbZuoq4A3",
+					"expanded_url": "https://twitter.com/bakutendo/status/782558646123192320/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 782558646123192300,
+					"source_status_id_str": "782558646123192320",
+					"source_user_id": 37210245,
+					"source_user_id_str": "37210245",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 11137,
+						"variants": [
+							{
+								"content_type": "application/dash+xml",
+								"url": "https://video.twimg.com/ext_tw_video/782558525209706496/pu/pl/ZytmIKJGHQtNcv4Q.mpd"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/782558525209706496/pu/vid/720x1280/HBDNYf332mIaB9nU.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/782558525209706496/pu/vid/360x640/kolUxFbBXtkmaYS6.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/782558525209706496/pu/pl/ZytmIKJGHQtNcv4Q.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/782558525209706496/pu/vid/180x320/E_bJUx8jE3fVw7ro.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 37210245,
+							"id_str": "37210245",
+							"name": "爆天童＠ウルトラ怪獣擬人化計画２巻発売",
+							"screen_name": "bakutendo",
+							"location": "布団の中",
+							"description": "絵とか漫画を描いてます。TLはアニメの話題や実況ばかりなので気をつけてください。 電撃G's magazineで「ウルトラ怪獣擬人化計画」の４コマ漫画を連載中です。",
+							"url": "http://t.co/p6xu9fen6T",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/p6xu9fen6T",
+											"expanded_url": "http://www1.plala.or.jp/bakutendo/",
+											"display_url": "www1.plala.or.jp/bakutendo/",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 8455,
+							"friends_count": 478,
+							"listed_count": 597,
+							"created_at": "Sat May 02 14:55:36 +0000 2009",
+							"favourites_count": 1953,
+							"utc_offset": 32400,
+							"time_zone": "Tokyo",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 90674,
+							"lang": "ja",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "FFF04D",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/660742978885955584/rP3TXcha_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/660742978885955584/rP3TXcha_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/37210245/1446369815",
+							"profile_link_color": "0099CC",
+							"profile_sidebar_border_color": "FFF8AD",
+							"profile_sidebar_fill_color": "F6FFD1",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1045,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6159,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 02 12:31:35 +0000 2016",
+			"id": 782558646123192300,
+			"id_str": "782558646123192320",
+			"text": "制服史上3、今までにない作りでビックリした。 https://t.co/yBbZuoq4A3",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 782558525209706500,
+						"id_str": "782558525209706496",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/782558525209706496/pu/img/52uUEFWdKSdQatMP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/782558525209706496/pu/img/52uUEFWdKSdQatMP.jpg",
+						"url": "https://t.co/yBbZuoq4A3",
+						"display_url": "pic.twitter.com/yBbZuoq4A3",
+						"expanded_url": "https://twitter.com/bakutendo/status/782558646123192320/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 782558525209706500,
+						"id_str": "782558525209706496",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/782558525209706496/pu/img/52uUEFWdKSdQatMP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/782558525209706496/pu/img/52uUEFWdKSdQatMP.jpg",
+						"url": "https://t.co/yBbZuoq4A3",
+						"display_url": "pic.twitter.com/yBbZuoq4A3",
+						"expanded_url": "https://twitter.com/bakutendo/status/782558646123192320/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 11137,
+							"variants": [
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/782558525209706496/pu/pl/ZytmIKJGHQtNcv4Q.mpd"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/782558525209706496/pu/vid/720x1280/HBDNYf332mIaB9nU.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/782558525209706496/pu/vid/360x640/kolUxFbBXtkmaYS6.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/782558525209706496/pu/pl/ZytmIKJGHQtNcv4Q.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/782558525209706496/pu/vid/180x320/E_bJUx8jE3fVw7ro.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 37210245,
+				"id_str": "37210245",
+				"name": "爆天童＠ウルトラ怪獣擬人化計画２巻発売",
+				"screen_name": "bakutendo",
+				"location": "布団の中",
+				"description": "絵とか漫画を描いてます。TLはアニメの話題や実況ばかりなので気をつけてください。 電撃G's magazineで「ウルトラ怪獣擬人化計画」の４コマ漫画を連載中です。",
+				"url": "http://t.co/p6xu9fen6T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/p6xu9fen6T",
+								"expanded_url": "http://www1.plala.or.jp/bakutendo/",
+								"display_url": "www1.plala.or.jp/bakutendo/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8455,
+				"friends_count": 478,
+				"listed_count": 597,
+				"created_at": "Sat May 02 14:55:36 +0000 2009",
+				"favourites_count": 1953,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 90674,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/660742978885955584/rP3TXcha_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/660742978885955584/rP3TXcha_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/37210245/1446369815",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFF8AD",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9733,
+			"favorite_count": 11458,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9733,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Mon Oct 03 08:26:31 +0000 2016",
+		"id": 782859361852850200,
+		"id_str": "782859361852850176",
+		"text": "RT @GuardmanMarbo: 탈식민을 위하여!\nhttp://t.co/55nCCMYqBZ\n[30년 뒤인 지금 그 대학의 학생들 중에서 ‘신식민지’나 ‘종속이론’의 뜻을 제대로 아는 이들이 몇이나 될까?]\n\n지랄ㅋㅋㅋㅋㅋ\n현재 우리가 그딴 단어를…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GuardmanMarbo",
+					"name": "황제폐하의 신실한 종, 한국 짱",
+					"id": 1854963990,
+					"id_str": "1854963990",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "http://t.co/55nCCMYqBZ",
+					"expanded_url": "http://m.hani.co.kr/arti/opinion/column/703083.html",
+					"display_url": "m.hani.co.kr/arti/opinion/c…",
+					"indices": [
+						29,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1045,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6159,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 04 09:46:44 +0000 2015",
+			"id": 628502317143187500,
+			"id_str": "628502317143187456",
+			"text": "탈식민을 위하여!\nhttp://t.co/55nCCMYqBZ\n[30년 뒤인 지금 그 대학의 학생들 중에서 ‘신식민지’나 ‘종속이론’의 뜻을 제대로 아는 이들이 몇이나 될까?]\n\n지랄ㅋㅋㅋㅋㅋ\n현재 우리가 그딴 단어를 알아야 할 이유가 뭔데 #좌파꼰대",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "좌파꼰대",
+						"indices": [
+							133,
+							138
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "http://t.co/55nCCMYqBZ",
+						"expanded_url": "http://m.hani.co.kr/arti/opinion/column/703083.html",
+						"display_url": "m.hani.co.kr/arti/opinion/c…",
+						"indices": [
+							10,
+							32
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1854963990,
+				"id_str": "1854963990",
+				"name": "황제폐하의 신실한 종, 한국 짱",
+				"screen_name": "GuardmanMarbo",
+				"location": "홀리 테라",
+				"description": "Praise be, Emperor, Lord",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 446,
+				"friends_count": 44,
+				"listed_count": 11,
+				"created_at": "Wed Sep 11 17:46:05 +0000 2013",
+				"favourites_count": 97,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 34200,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/651804506405994496/CyzIi7ix.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/651804506405994496/CyzIi7ix.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/620191556037783552/v4r93Crt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/620191556037783552/v4r93Crt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1854963990/1410274419",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Oct 03 08:26:01 +0000 2016",
+		"id": 782859238087340000,
+		"id_str": "782859238087340032",
+		"text": "RT @andrewhong2: 중생이라는 요승의 표현은 신도를 설교와 가르치는 대상으로 보는 종속이론이다 내가 부처요 내 맘속에 부처가 있다는 기본적인 가르침을 읽지 못하는 타락승려들의 갈짓자 행보 때문이다",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "andrewhong2",
+					"name": "새로운 도전",
+					"id": 378374659,
+					"id_str": "378374659",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1045,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6159,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 26 11:48:19 +0000 2015",
+			"id": 669845133441941500,
+			"id_str": "669845133441941504",
+			"text": "중생이라는 요승의 표현은 신도를 설교와 가르치는 대상으로 보는 종속이론이다 내가 부처요 내 맘속에 부처가 있다는 기본적인 가르침을 읽지 못하는 타락승려들의 갈짓자 행보 때문이다",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 378374659,
+				"id_str": "378374659",
+				"name": "새로운 도전",
+				"screen_name": "andrewhong2",
+				"location": "",
+				"description": "건국 이념인 공화주의와 자유민주의 원대한 지평을 한반도 전역으로 확장한다.",
+				"url": "http://t.co/4s0TXIbCES",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/4s0TXIbCES",
+								"expanded_url": "http://page.is/seonjin-simin-uisig",
+								"display_url": "page.is/seonjin-simin-…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6051,
+				"friends_count": 5987,
+				"listed_count": 109,
+				"created_at": "Fri Sep 23 02:58:11 +0000 2011",
+				"favourites_count": 76,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39573,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/432817417945759744/aUqfl57j_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/432817417945759744/aUqfl57j_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/378374659/1442600417",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Oct 03 08:24:38 +0000 2016",
+		"id": 782858889062514700,
+		"id_str": "782858889062514692",
+		"text": "중심부 주변부 레토릭을 수없이 들어왔으면서(특히 국문학 쪽) 어디서 발원한 개념인지 알아볼 생각을 못했다는 게 새삼 수치스럽네요. 종속이론 자체는 개론서 읽으면서 마르크스주의 쪽이라 스킵했던 터라 잘 몰랐고...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1045,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6159,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Oct 03 07:57:42 +0000 2016",
 		"id": 782852108886220800,
 		"id_str": "782852108886220800",
