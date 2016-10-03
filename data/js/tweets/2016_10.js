@@ -1,6 +1,1246 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Mon Oct 03 07:57:42 +0000 2016",
+		"id": 782852108886220800,
+		"id_str": "782852108886220800",
+		"text": "RT @nimishel: 도쿄에 러시아 여학생들이 러시아 요리점을 개점... 소련군 복장같은 유니폼을 입고 러시아 요리를 판매한다고. 내 장담하건데 저 소녀들은 1년 안에 긴자에 집을 살 수 있게 될 것이다. https://t.co/XFsoUNH2i4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nimishel",
+					"name": "nimishel",
+					"id": 57837980,
+					"id_str": "57837980",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XFsoUNH2i4",
+					"expanded_url": "https://twitter.com/rusembassyj/status/782790647757606915",
+					"display_url": "twitter.com/rusembassyj/st…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1045,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6155,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 03 04:37:51 +0000 2016",
+			"id": 782801817629405200,
+			"id_str": "782801817629405184",
+			"text": "도쿄에 러시아 여학생들이 러시아 요리점을 개점... 소련군 복장같은 유니폼을 입고 러시아 요리를 판매한다고. 내 장담하건데 저 소녀들은 1년 안에 긴자에 집을 살 수 있게 될 것이다. https://t.co/XFsoUNH2i4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XFsoUNH2i4",
+						"expanded_url": "https://twitter.com/rusembassyj/status/782790647757606915",
+						"display_url": "twitter.com/rusembassyj/st…",
+						"indices": [
+							103,
+							126
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 57837980,
+				"id_str": "57837980",
+				"name": "nimishel",
+				"screen_name": "nimishel",
+				"location": "",
+				"description": "인내심은 나를 걍 하게 만든다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 138,
+				"friends_count": 203,
+				"listed_count": 5,
+				"created_at": "Sat Jul 18 03:08:11 +0000 2009",
+				"favourites_count": 831,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1574,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/455686077785706496/62WGsQOM_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/455686077785706496/62WGsQOM_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/57837980/1474427511",
+				"profile_link_color": "B40B43",
+				"profile_sidebar_border_color": "CC3366",
+				"profile_sidebar_fill_color": "E5507E",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "019fba1c5ac23f79",
+				"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+				"place_type": "city",
+				"name": "마포구",
+				"full_name": "대한민국 마포구",
+				"country_code": "KR",
+				"country": "대한민국",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								126.855912576725,
+								37.523438844739
+							],
+							[
+								126.967013374467,
+								37.523438844739
+							],
+							[
+								126.967013374467,
+								37.5893965817644
+							],
+							[
+								126.855912576725,
+								37.5893965817644
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 782790647757606900,
+			"quoted_status_id_str": "782790647757606915",
+			"quoted_status": {
+				"created_at": "Mon Oct 03 03:53:28 +0000 2016",
+				"id": 782790647757606900,
+				"id_str": "782790647757606915",
+				"text": "東京ではロシアの女子学生がロシア料理店を開店。ボルシチやピロシキなど代表のロシア料理を用意し、日本のお客さんがロシアの魅力を味わえる。https://t.co/Jc1pPTcsfT　＃ロシア　＃ロシア料理 https://t.co/Wdlw5N7s3e",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "ロシア",
+							"indices": [
+								91,
+								95
+							]
+						},
+						{
+							"text": "ロシア料理",
+							"indices": [
+								96,
+								102
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/Jc1pPTcsfT",
+							"expanded_url": "https://youtu.be/cwh4KLWPIkQ",
+							"display_url": "youtu.be/cwh4KLWPIkQ",
+							"indices": [
+								67,
+								90
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 782790611028017200,
+							"id_str": "782790611028017152",
+							"indices": [
+								103,
+								126
+							],
+							"media_url": "http://pbs.twimg.com/media/Ct0H6c_WAAAoyC2.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Ct0H6c_WAAAoyC2.jpg",
+							"url": "https://t.co/Wdlw5N7s3e",
+							"display_url": "pic.twitter.com/Wdlw5N7s3e",
+							"expanded_url": "https://twitter.com/RusEmbassyJ/status/782790647757606915/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1920,
+									"h": 1080,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 782790611028017200,
+							"id_str": "782790611028017152",
+							"indices": [
+								103,
+								126
+							],
+							"media_url": "http://pbs.twimg.com/media/Ct0H6c_WAAAoyC2.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Ct0H6c_WAAAoyC2.jpg",
+							"url": "https://t.co/Wdlw5N7s3e",
+							"display_url": "pic.twitter.com/Wdlw5N7s3e",
+							"expanded_url": "https://twitter.com/RusEmbassyJ/status/782790647757606915/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 383,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1920,
+									"h": 1080,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 675,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1669981711,
+					"id_str": "1669981711",
+					"name": "駐日ロシア連邦大使館",
+					"screen_name": "RusEmbassyJ",
+					"location": "東京",
+					"description": "ロシアの対外政策、ロシアの外交、ロ日関係、ロシア国内等 〒106-0041 東京都港区麻布台2-1-1 電話:03-3583-4224 FAX:03-3505-0593",
+					"url": "https://t.co/N6cHljGdR5",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/N6cHljGdR5",
+									"expanded_url": "http://www.russia-emb.jp/",
+									"display_url": "russia-emb.jp",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 26951,
+					"friends_count": 335,
+					"listed_count": 1264,
+					"created_at": "Wed Aug 14 08:48:52 +0000 2013",
+					"favourites_count": 80,
+					"utc_offset": 32400,
+					"time_zone": "Tokyo",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 4013,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "EDECE9",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/557446857861771264/yEqYnAQM.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/557446857861771264/yEqYnAQM.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/596259653387816961/Xf4eSJzA_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/596259653387816961/Xf4eSJzA_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1669981711/1452777173",
+					"profile_link_color": "093580",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 4902,
+				"favorite_count": 3608,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "ja"
+			},
+			"retweet_count": 13,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 782790647757606900,
+		"quoted_status_id_str": "782790647757606915",
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Oct 03 07:39:26 +0000 2016",
+		"id": 782847514118463500,
+		"id_str": "782847514118463488",
+		"text": "오타쿠 컬쳐에서는... (이하 생략)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1045,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6155,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Oct 03 07:38:36 +0000 2016",
+		"id": 782847304424239100,
+		"id_str": "782847304424239104",
+		"text": "RT @SarkSark2: \"메시지는 명백합니다. 소년은 기본형이고, 소녀는 변형입니다.소년은 중심이고 소녀는 주변부입니다.소년은 개개인이 독특하지만 소녀는 전형적입니다. 소년들이 자신들의 집단을 이끄는 것이야말로 이야기의 핵심입니다. 소녀들은 그저…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarkSark2",
+					"name": "연쇄일반카",
+					"id": 1470189822,
+					"id_str": "1470189822",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1045,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6155,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 21 07:45:47 +0000 2016",
+			"id": 778500455710068700,
+			"id_str": "778500455710068736",
+			"text": "\"메시지는 명백합니다. 소년은 기본형이고, 소녀는 변형입니다.소년은 중심이고 소녀는 주변부입니다.소년은 개개인이 독특하지만 소녀는 전형적입니다. 소년들이 자신들의 집단을 이끄는 것이야말로 이야기의 핵심입니다. 소녀들은 그저 소년들 때문에 존재합니다.\"",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1470189822,
+				"id_str": "1470189822",
+				"name": "연쇄일반카",
+				"screen_name": "SarkSark2",
+				"location": "디지털 월드",
+				"description": "알파카의 캡슐로 진화했습니다. 필살기 퉤퉤퉷퉤퉷",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5633,
+				"friends_count": 90,
+				"listed_count": 62,
+				"created_at": "Thu May 30 17:05:30 +0000 2013",
+				"favourites_count": 11248,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 62357,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/782442416099827713/s7SSnwB9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/782442416099827713/s7SSnwB9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1470189822/1475395975",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 96,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Oct 03 07:38:25 +0000 2016",
+		"id": 782847256978260000,
+		"id_str": "782847256978259968",
+		"text": "RT @areumdriwiki: 오늘 소개할 문서는 '스머페트 법칙'입니다. \"주인공 집단 중 여성이 단 한 명이거나 매우 소수이고, 다른 구성원과 달리 동등한 권한이나 힘을 가지고 있지 않는 경우\"를 말합니다. #아름드리위키\nhttps://t.co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아름드리위키",
+					"indices": [
+						119,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "areumdriwiki",
+					"name": "아름드리 위키",
+					"id": 757162624446365700,
+					"id_str": "757162624446365696",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1045,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6155,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 20 10:07:29 +0000 2016",
+			"id": 778173728781918200,
+			"id_str": "778173728781918208",
+			"text": "오늘 소개할 문서는 '스머페트 법칙'입니다. \"주인공 집단 중 여성이 단 한 명이거나 매우 소수이고, 다른 구성원과 달리 동등한 권한이나 힘을 가지고 있지 않는 경우\"를 말합니다. #아름드리위키\nhttps://t.co/Mclr8IuNfx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "아름드리위키",
+						"indices": [
+							101,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Mclr8IuNfx",
+						"expanded_url": "http://ko.areumdri.wikidok.net/wp-d/57c844aedbcbf5f629273739/View",
+						"display_url": "ko.areumdri.wikidok.net/wp-d/57c844aed…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 757162624446365700,
+				"id_str": "757162624446365696",
+				"name": "아름드리 위키",
+				"screen_name": "areumdriwiki",
+				"location": "",
+				"description": "",
+				"url": "https://t.co/NlmIONZB7M",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NlmIONZB7M",
+								"expanded_url": "http://ko.areumdri.wikidok.net/wp-d/5793c26ce70c5cb308fc0a76/View",
+								"display_url": "ko.areumdri.wikidok.net/wp-d/5793c26ce…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1788,
+				"friends_count": 1,
+				"listed_count": 7,
+				"created_at": "Sun Jul 24 10:36:51 +0000 2016",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 118,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/762303913986957312/oDCa84Za_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/762303913986957312/oDCa84Za_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/757162624446365696/1470602642",
+				"profile_link_color": "2B7BB9",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 424,
+			"favorite_count": 137,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 424,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Oct 03 07:37:35 +0000 2016",
+		"id": 782847047334400000,
+		"id_str": "782847047334400000",
+		"text": "RT @taeri77: @soney7799 @ppuhahaha  종속이론 창시자인 엔리케 카르도소 교수가 브라질 재무장관, 대통령이 되어 신자유주의 정책을 펼쳐 브라질을 중흥시켰죠. 경험주의와 실용주의 정신이 있다면 신자유주의 기조를 유지할 것입니다",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "taeri77",
+					"name": "The Great Korea",
+					"id": 110357845,
+					"id_str": "110357845",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1045,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6155,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 08 02:33:53 +0000 2015",
+			"id": 596503254730608600,
+			"id_str": "596503254730608641",
+			"text": "@soney7799 @ppuhahaha  종속이론 창시자인 엔리케 카르도소 교수가 브라질 재무장관, 대통령이 되어 신자유주의 정책을 펼쳐 브라질을 중흥시켰죠. 경험주의와 실용주의 정신이 있다면 신자유주의 기조를 유지할 것입니다",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ppuhahaha",
+						"name": "푸선생",
+						"id": 385029439,
+						"id_str": "385029439",
+						"indices": [
+							11,
+							21
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 110357845,
+				"id_str": "110357845",
+				"name": "The Great Korea",
+				"screen_name": "taeri77",
+				"location": "The Great Korea",
+				"description": "The Great Korea! 21세기경제학연구소 이강년 책임연구원(Economist in TAERI) Data Scientist at SKKU in S. Korea https://t.co/rFmcg2CXfg",
+				"url": "https://t.co/lrygsh2tnA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lrygsh2tnA",
+								"expanded_url": "http://twtkr.com/taeri77",
+								"display_url": "twtkr.com/taeri77",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/rFmcg2CXfg",
+								"expanded_url": "http://facebook.com/gangnyeon",
+								"display_url": "facebook.com/gangnyeon",
+								"indices": [
+									93,
+									116
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4380,
+				"friends_count": 4953,
+				"listed_count": 218,
+				"created_at": "Mon Feb 01 07:42:35 +0000 2010",
+				"favourites_count": 5464,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 88712,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/711175909546459138/KymJ8M-f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/711175909546459138/KymJ8M-f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/110357845/1435747476",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Oct 03 07:37:21 +0000 2016",
+		"id": 782846990983897100,
+		"id_str": "782846990983897088",
+		"text": "RT @taeri77: 한국 진보 지식인들은 자본론과 종속이론 몇 권 읽고 경제전문가인 척 한다. 종속이론을 창시한 두 석학들(엔리케 카르도소, 안드레 군더 프랑크)이 나중에 무엇을 했고, 어떤 글을 썼는지 전혀 모른다. 1980년대 수준이다",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "taeri77",
+					"name": "The Great Korea",
+					"id": 110357845,
+					"id_str": "110357845",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1045,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6155,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 21 06:01:09 +0000 2016",
+			"id": 690051485925838800,
+			"id_str": "690051485925838852",
+			"text": "한국 진보 지식인들은 자본론과 종속이론 몇 권 읽고 경제전문가인 척 한다. 종속이론을 창시한 두 석학들(엔리케 카르도소, 안드레 군더 프랑크)이 나중에 무엇을 했고, 어떤 글을 썼는지 전혀 모른다. 1980년대 수준이다",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 110357845,
+				"id_str": "110357845",
+				"name": "The Great Korea",
+				"screen_name": "taeri77",
+				"location": "The Great Korea",
+				"description": "The Great Korea! 21세기경제학연구소 이강년 책임연구원(Economist in TAERI) Data Scientist at SKKU in S. Korea https://t.co/rFmcg2CXfg",
+				"url": "https://t.co/lrygsh2tnA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lrygsh2tnA",
+								"expanded_url": "http://twtkr.com/taeri77",
+								"display_url": "twtkr.com/taeri77",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/rFmcg2CXfg",
+								"expanded_url": "http://facebook.com/gangnyeon",
+								"display_url": "facebook.com/gangnyeon",
+								"indices": [
+									93,
+									116
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4380,
+				"friends_count": 4953,
+				"listed_count": 218,
+				"created_at": "Mon Feb 01 07:42:35 +0000 2010",
+				"favourites_count": 5464,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 88712,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/711175909546459138/KymJ8M-f_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/711175909546459138/KymJ8M-f_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/110357845/1435747476",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Oct 03 07:11:16 +0000 2016",
 		"id": 782840423710466000,
 		"id_str": "782840423710466048",
