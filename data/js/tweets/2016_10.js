@@ -1,6 +1,454 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Fri Oct 07 09:38:32 +0000 2016",
+		"id": 784327037322272800,
+		"id_str": "784327037322272768",
+		"text": "시스템에서 떼어질 수 없는 것을 떼어 사고하는 것. 마치 유전인자를 유전요소로 사고하듯.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 784318514194636800,
+		"in_reply_to_status_id_str": "784318514194636800",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1049,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6227,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Oct 07 09:35:08 +0000 2016",
+		"id": 784326183496265700,
+		"id_str": "784326183496265728",
+		"text": "RT @doskharaas: 총 3세트 이상으로 읽는 것이지요. 일세트 내 자아, 이세트 저자의 자아, 삼세트 통합한 자아, 이 과정을 거쳐, 자아의 확장(=새로운 정보의 유입 가능성 증가)가 일어납니다. 그래서 경전을 항상 반복해 읽으라는 것이지요",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "doskharaas",
+					"name": "손 지상",
+					"id": 187070498,
+					"id_str": "187070498",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1049,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6227,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 21 13:10:23 +0000 2014",
+			"id": 436850388579262460,
+			"id_str": "436850388579262464",
+			"text": "총 3세트 이상으로 읽는 것이지요. 일세트 내 자아, 이세트 저자의 자아, 삼세트 통합한 자아, 이 과정을 거쳐, 자아의 확장(=새로운 정보의 유입 가능성 증가)가 일어납니다. 그래서 경전을 항상 반복해 읽으라는 것이지요",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 436849133643517950,
+			"in_reply_to_status_id_str": "436849133643517952",
+			"in_reply_to_user_id": 187070498,
+			"in_reply_to_user_id_str": "187070498",
+			"in_reply_to_screen_name": "doskharaas",
+			"user": {
+				"id": 187070498,
+				"id_str": "187070498",
+				"name": "손 지상",
+				"screen_name": "doskharaas",
+				"location": "전이공간",
+				"description": "원고의뢰: kaiju@naver.com / [데스매치로 속죄하라 - 국회의사당 학살사건], [스쿨 하프보일드], [그대와의 거리, 일만킬로미터], 작법서 [스토리 트레이닝] 이론편, 실전편, 단편소설편을 썼습니다 / 구입가능 저작목록 https://t.co/MetnBIHaen",
+				"url": "https://t.co/MetnBIHaen",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MetnBIHaen",
+								"expanded_url": "http://goo.gl/qdjBJY",
+								"display_url": "goo.gl/qdjBJY",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/MetnBIHaen",
+								"expanded_url": "http://goo.gl/qdjBJY",
+								"display_url": "goo.gl/qdjBJY",
+								"indices": [
+									131,
+									154
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1556,
+				"friends_count": 728,
+				"listed_count": 42,
+				"created_at": "Sun Sep 05 04:57:43 +0000 2010",
+				"favourites_count": 7528,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 99393,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/783651162675261441/-e4BuV1n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/783651162675261441/-e4BuV1n_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/187070498/1475229627",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Oct 07 09:35:02 +0000 2016",
+		"id": 784326157483122700,
+		"id_str": "784326157483122688",
+		"text": "RT @doskharaas: 독서는 자신의 자아=취향=신념체계를 변화시키는 과정이 되어야 합니다. 왜냐면 필터라서 입맛에 맞는 것만 걸러 인식하는 게 자아라는 뇌의 함수기능 중 하나라서,  자아 자체가 맹점이 되어 수백권 봐도 아는 것 만날 보는 것…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "doskharaas",
+					"name": "손 지상",
+					"id": 187070498,
+					"id_str": "187070498",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1049,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6227,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 21 12:57:31 +0000 2014",
+			"id": 436847150756945900,
+			"id_str": "436847150756945921",
+			"text": "독서는 자신의 자아=취향=신념체계를 변화시키는 과정이 되어야 합니다. 왜냐면 필터라서 입맛에 맞는 것만 걸러 인식하는 게 자아라는 뇌의 함수기능 중 하나라서,  자아 자체가 맹점이 되어 수백권 봐도 아는 것 만날 보는 것 만 인식하게됩니다. (이어)",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 187070498,
+				"id_str": "187070498",
+				"name": "손 지상",
+				"screen_name": "doskharaas",
+				"location": "전이공간",
+				"description": "원고의뢰: kaiju@naver.com / [데스매치로 속죄하라 - 국회의사당 학살사건], [스쿨 하프보일드], [그대와의 거리, 일만킬로미터], 작법서 [스토리 트레이닝] 이론편, 실전편, 단편소설편을 썼습니다 / 구입가능 저작목록 https://t.co/MetnBIHaen",
+				"url": "https://t.co/MetnBIHaen",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MetnBIHaen",
+								"expanded_url": "http://goo.gl/qdjBJY",
+								"display_url": "goo.gl/qdjBJY",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/MetnBIHaen",
+								"expanded_url": "http://goo.gl/qdjBJY",
+								"display_url": "goo.gl/qdjBJY",
+								"indices": [
+									131,
+									154
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1556,
+				"friends_count": 728,
+				"listed_count": 42,
+				"created_at": "Sun Sep 05 04:57:43 +0000 2010",
+				"favourites_count": 7528,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 99393,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/783651162675261441/-e4BuV1n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/783651162675261441/-e4BuV1n_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/187070498/1475229627",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Oct 07 09:04:40 +0000 2016",
 		"id": 784318514194636800,
 		"id_str": "784318514194636800",
