@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Fri Oct 07 01:50:17 +0000 2016",
+		"id": 784209199290908700,
+		"id_str": "784209199290908672",
+		"text": "RT @lifeforest10: 어떤 학부모들이 아이들을 SKY대로 보내는 방법.....ㄷㄷㄷㄷㄷ https://t.co/WlpXzx9Xe9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lifeforest10",
+					"name": "트윗혁명",
+					"id": 1322268373,
+					"id_str": "1322268373",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 784044405497880600,
+					"id_str": "784044405497880576",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/CuF8O5XVYAALPEA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuF8O5XVYAALPEA.jpg",
+					"url": "https://t.co/WlpXzx9Xe9",
+					"display_url": "pic.twitter.com/WlpXzx9Xe9",
+					"expanded_url": "https://twitter.com/lifeforest10/status/784044540583817217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 639,
+							"h": 838,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 639,
+							"h": 838,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 784044540583817200,
+					"source_status_id_str": "784044540583817217",
+					"source_user_id": 1322268373,
+					"source_user_id_str": "1322268373"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 784044405497880600,
+					"id_str": "784044405497880576",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/CuF8O5XVYAALPEA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuF8O5XVYAALPEA.jpg",
+					"url": "https://t.co/WlpXzx9Xe9",
+					"display_url": "pic.twitter.com/WlpXzx9Xe9",
+					"expanded_url": "https://twitter.com/lifeforest10/status/784044540583817217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 639,
+							"h": 838,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 639,
+							"h": 838,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 784044540583817200,
+					"source_status_id_str": "784044540583817217",
+					"source_user_id": 1322268373,
+					"source_user_id_str": "1322268373"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1047,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6219,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 06 14:55:59 +0000 2016",
+			"id": 784044540583817200,
+			"id_str": "784044540583817217",
+			"text": "어떤 학부모들이 아이들을 SKY대로 보내는 방법.....ㄷㄷㄷㄷㄷ https://t.co/WlpXzx9Xe9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 784044405497880600,
+						"id_str": "784044405497880576",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/CuF8O5XVYAALPEA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuF8O5XVYAALPEA.jpg",
+						"url": "https://t.co/WlpXzx9Xe9",
+						"display_url": "pic.twitter.com/WlpXzx9Xe9",
+						"expanded_url": "https://twitter.com/lifeforest10/status/784044540583817217/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 519,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 639,
+								"h": 838,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 639,
+								"h": 838,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 784044405497880600,
+						"id_str": "784044405497880576",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/CuF8O5XVYAALPEA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuF8O5XVYAALPEA.jpg",
+						"url": "https://t.co/WlpXzx9Xe9",
+						"display_url": "pic.twitter.com/WlpXzx9Xe9",
+						"expanded_url": "https://twitter.com/lifeforest10/status/784044540583817217/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 519,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 639,
+								"h": 838,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 639,
+								"h": 838,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1322268373,
+				"id_str": "1322268373",
+				"name": "트윗혁명",
+				"screen_name": "lifeforest10",
+				"location": "",
+				"description": "시민의 자유로운 삶을 억압하는 모든 권력과 권위주의를 해체하고자 함.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 505,
+				"friends_count": 37,
+				"listed_count": 9,
+				"created_at": "Tue Apr 02 11:09:13 +0000 2013",
+				"favourites_count": 5,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 367,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/831667831/da3c04ef91155b8254cec915acfc5dc9.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/831667831/da3c04ef91155b8254cec915acfc5dc9.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/561323695033958400/RCim26EN_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/561323695033958400/RCim26EN_normal.png",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 844,
+			"favorite_count": 80,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 844,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Oct 06 13:31:09 +0000 2016",
 		"id": 784023190011990000,
 		"id_str": "784023190011990016",
