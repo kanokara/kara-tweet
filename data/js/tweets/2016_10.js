@@ -1,6 +1,941 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sat Oct 08 10:01:44 +0000 2016",
+		"id": 784695263310905300,
+		"id_str": "784695263310905344",
+		"text": "RT @88NOM88: 지옥의 헬조선 30. 헬조선의 유족\n\n에ㅡ라ㅡ이 천하의 씹쌔끼야~\n\n#최경민 #쌍팔놈코믹스\n-쌍팔놈코믹스 모든 게시물의 저작권은 쌍팔놈코믹스에 있습니다.- https://t.co/mxvz0oDef8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최경민",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "쌍팔놈코믹스",
+					"indices": [
+						56,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "88NOM88",
+					"name": "최경민(후서유기)",
+					"id": 2390228222,
+					"id_str": "2390228222",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 784307120397176800,
+					"id_str": "784307120397176832",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/CuJrK6oVUAAszXx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuJrK6oVUAAszXx.jpg",
+					"url": "https://t.co/mxvz0oDef8",
+					"display_url": "pic.twitter.com/mxvz0oDef8",
+					"expanded_url": "https://twitter.com/88NOM88/status/784307132858372097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 467,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 550,
+							"h": 801,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 550,
+							"h": 801,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 784307132858372100,
+					"source_status_id_str": "784307132858372097",
+					"source_user_id": 2390228222,
+					"source_user_id_str": "2390228222"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 784307120397176800,
+					"id_str": "784307120397176832",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/CuJrK6oVUAAszXx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuJrK6oVUAAszXx.jpg",
+					"url": "https://t.co/mxvz0oDef8",
+					"display_url": "pic.twitter.com/mxvz0oDef8",
+					"expanded_url": "https://twitter.com/88NOM88/status/784307132858372097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 467,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 550,
+							"h": 801,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 550,
+							"h": 801,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 784307132858372100,
+					"source_status_id_str": "784307132858372097",
+					"source_user_id": 2390228222,
+					"source_user_id_str": "2390228222"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1052,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6268,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 07 08:19:26 +0000 2016",
+			"id": 784307132858372100,
+			"id_str": "784307132858372097",
+			"text": "지옥의 헬조선 30. 헬조선의 유족\n\n에ㅡ라ㅡ이 천하의 씹쌔끼야~\n\n#최경민 #쌍팔놈코믹스\n-쌍팔놈코믹스 모든 게시물의 저작권은 쌍팔놈코믹스에 있습니다.- https://t.co/mxvz0oDef8",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "최경민",
+						"indices": [
+							38,
+							42
+						]
+					},
+					{
+						"text": "쌍팔놈코믹스",
+						"indices": [
+							43,
+							50
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 784307120397176800,
+						"id_str": "784307120397176832",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/CuJrK6oVUAAszXx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuJrK6oVUAAszXx.jpg",
+						"url": "https://t.co/mxvz0oDef8",
+						"display_url": "pic.twitter.com/mxvz0oDef8",
+						"expanded_url": "https://twitter.com/88NOM88/status/784307132858372097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 467,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 550,
+								"h": 801,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 550,
+								"h": 801,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 784307120397176800,
+						"id_str": "784307120397176832",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/CuJrK6oVUAAszXx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuJrK6oVUAAszXx.jpg",
+						"url": "https://t.co/mxvz0oDef8",
+						"display_url": "pic.twitter.com/mxvz0oDef8",
+						"expanded_url": "https://twitter.com/88NOM88/status/784307132858372097/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 467,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 550,
+								"h": 801,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 550,
+								"h": 801,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2390228222,
+				"id_str": "2390228222",
+				"name": "최경민(후서유기)",
+				"screen_name": "88NOM88",
+				"location": "",
+				"description": "[만화 그립니다]\n올레마켓웹툰 - '후서유기',\n'비극의단편들'(연재중)\n월간 BOGO - 최경민 단편집\n쌍팔놈코믹스 - '지옥의헬조선'(자유연재)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 677,
+				"friends_count": 132,
+				"listed_count": 9,
+				"created_at": "Sat Mar 15 02:23:08 +0000 2014",
+				"favourites_count": 403,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1124,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/444662535073968128/w7QzMq22_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/444662535073968128/w7QzMq22_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2390228222/1442201686",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1830,
+			"favorite_count": 160,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1830,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Oct 08 09:53:26 +0000 2016",
+		"id": 784693176476938200,
+		"id_str": "784693176476938240",
+		"text": "가성비에서 한컴이 압도적인데 굳이 MS워드를 쓸 필요가 없죠. 국제적인 업무에서나 필요한 거지.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1052,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6268,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Oct 08 09:51:25 +0000 2016",
+		"id": 784692667997237200,
+		"id_str": "784692667997237248",
+		"text": "RT @___shobon: 퍼포먼스나 기능면(조판 기능류)에선 HWP가 엄청난 것. 다만 그 정도의 정밀 조판 기능을 쓸거면 LaTeX라든지 어크로뱃이라든지 뭐 그런걸 쓰는게 맞다는 얘기도 맞는 얘기인지라.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "___shobon",
+					"name": "(´・ω・`)",
+					"id": 113875426,
+					"id_str": "113875426",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1052,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6268,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 07 11:44:51 +0000 2016",
+			"id": 784358827160277000,
+			"id_str": "784358827160276993",
+			"text": "퍼포먼스나 기능면(조판 기능류)에선 HWP가 엄청난 것. 다만 그 정도의 정밀 조판 기능을 쓸거면 LaTeX라든지 어크로뱃이라든지 뭐 그런걸 쓰는게 맞다는 얘기도 맞는 얘기인지라.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 784358324527444000,
+			"in_reply_to_status_id_str": "784358324527443969",
+			"in_reply_to_user_id": 113875426,
+			"in_reply_to_user_id_str": "113875426",
+			"in_reply_to_screen_name": "___shobon",
+			"user": {
+				"id": 113875426,
+				"id_str": "113875426",
+				"name": "(´・ω・`)",
+				"screen_name": "___shobon",
+				"location": "¿que?",
+				"description": "비공개 계정의 팔로우는 본인의 정체에 대한 고지가 이루어진 경우에만 받습니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 691,
+				"friends_count": 233,
+				"listed_count": 52,
+				"created_at": "Sat Feb 13 09:40:05 +0000 2010",
+				"favourites_count": 1666,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 176649,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/97364401/back.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/97364401/back.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1664727387/foobar2_normal.gif",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1664727387/foobar2_normal.gif",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/113875426/1464256369",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Oct 08 09:51:19 +0000 2016",
+		"id": 784692641820586000,
+		"id_str": "784692641820585984",
+		"text": "RT @___shobon: MS 워드는 사실 오피스급의 워드프로세서라기 보다는 그냥 옛날 쓰던 워드패드 급의 무언가 수준이라... 영어 문서 대충 빠르게 형태 중요시 여기지 않고 때려박을땐 괜찮지만 그 외에는 무쓸모.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "___shobon",
+					"name": "(´・ω・`)",
+					"id": 113875426,
+					"id_str": "113875426",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1052,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6268,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 07 11:42:51 +0000 2016",
+			"id": 784358324527444000,
+			"id_str": "784358324527443969",
+			"text": "MS 워드는 사실 오피스급의 워드프로세서라기 보다는 그냥 옛날 쓰던 워드패드 급의 무언가 수준이라... 영어 문서 대충 빠르게 형태 중요시 여기지 않고 때려박을땐 괜찮지만 그 외에는 무쓸모.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 113875426,
+				"id_str": "113875426",
+				"name": "(´・ω・`)",
+				"screen_name": "___shobon",
+				"location": "¿que?",
+				"description": "비공개 계정의 팔로우는 본인의 정체에 대한 고지가 이루어진 경우에만 받습니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 691,
+				"friends_count": 233,
+				"listed_count": 52,
+				"created_at": "Sat Feb 13 09:40:05 +0000 2010",
+				"favourites_count": 1666,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 176649,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/97364401/back.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/97364401/back.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1664727387/foobar2_normal.gif",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1664727387/foobar2_normal.gif",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/113875426/1464256369",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Oct 08 09:27:11 +0000 2016",
+		"id": 784686569621827600,
+		"id_str": "784686569621827585",
+		"text": "@sayanghwa 바로 거기서 사유가 시작되는 것 (키릿)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sayanghwa",
+					"name": "햇살 속의 레이먼드",
+					"id": 1696420058,
+					"id_str": "1696420058",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 784670830982680600,
+		"in_reply_to_status_id_str": "784670830982680576",
+		"in_reply_to_user_id": 1696420058,
+		"in_reply_to_user_id_str": "1696420058",
+		"in_reply_to_screen_name": "sayanghwa",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1052,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6268,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Oct 08 09:23:56 +0000 2016",
+		"id": 784685753276047400,
+		"id_str": "784685753276047360",
+		"text": "@aaaa5925 안 돼요",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aaaa5925",
+					"name": "동결",
+					"id": 707444412347981800,
+					"id_str": "707444412347981824",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 784683815679602700,
+		"in_reply_to_status_id_str": "784683815679602688",
+		"in_reply_to_user_id": 707444412347981800,
+		"in_reply_to_user_id_str": "707444412347981824",
+		"in_reply_to_screen_name": "aaaa5925",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1052,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6268,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Oct 08 07:02:14 +0000 2016",
 		"id": 784650093039194100,
 		"id_str": "784650093039194112",
