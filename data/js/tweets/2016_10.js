@@ -1,6 +1,4708 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sun Oct 09 15:11:38 +0000 2016",
+		"id": 785135639725428700,
+		"id_str": "785135639725428736",
+		"text": "RT @historia9110: 논파된지 40년이나 된 주장을 2012년에 나오는 책에 쓰는 것도 모자라서 그 주장을 근거로 다윈과 맑스를 연결시켜버리는 부분에서 가라타니 고진은 역시나 읽기에 위험한 사상가라는 생각을 하게 되었다. 딱히 그가 위대해…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "historia9110",
+					"name": "햄벨스",
+					"id": 630907747,
+					"id_str": "630907747",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6358,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 29 02:05:11 +0000 2015",
+			"id": 615340204333727700,
+			"id_str": "615340204333727744",
+			"text": "논파된지 40년이나 된 주장을 2012년에 나오는 책에 쓰는 것도 모자라서 그 주장을 근거로 다윈과 맑스를 연결시켜버리는 부분에서 가라타니 고진은 역시나 읽기에 위험한 사상가라는 생각을 하게 되었다. 딱히 그가 위대해서가 아니라 읽으면 잘못될까봐..",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+			"in_reply_to_status_id": 615339680037376000,
+			"in_reply_to_status_id_str": "615339680037376000",
+			"in_reply_to_user_id": 630907747,
+			"in_reply_to_user_id_str": "630907747",
+			"in_reply_to_screen_name": "historia9110",
+			"user": {
+				"id": 630907747,
+				"id_str": "630907747",
+				"name": "햄벨스",
+				"screen_name": "historia9110",
+				"location": "쳇바퀴",
+				"description": "",
+				"url": "https://t.co/sepArh5Mkd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sepArh5Mkd",
+								"expanded_url": "http://ask.fm/historia9108",
+								"display_url": "ask.fm/historia9108",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2355,
+				"friends_count": 444,
+				"listed_count": 82,
+				"created_at": "Mon Jul 09 08:15:48 +0000 2012",
+				"favourites_count": 743,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 125321,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/630907747/1475960050",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Oct 09 15:11:35 +0000 2016",
+		"id": 785135628220444700,
+		"id_str": "785135628220444672",
+		"text": "RT @historia9110: 1970년대 후반에 이 편지는 맑스가 아니라 에이블링에게 보내진 것이라는 점이 밝혀져 맑스가 자본론을 다윈에게 헌장하려 했다는 주장은 그 근거를 잃었기 때문. 한국에서 나온 연구로는 임지현의 석사학위 논문인 \"다윈과…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "historia9110",
+					"name": "햄벨스",
+					"id": 630907747,
+					"id_str": "630907747",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6358,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 29 02:03:06 +0000 2015",
+			"id": 615339680037376000,
+			"id_str": "615339680037376000",
+			"text": "1970년대 후반에 이 편지는 맑스가 아니라 에이블링에게 보내진 것이라는 점이 밝혀져 맑스가 자본론을 다윈에게 헌장하려 했다는 주장은 그 근거를 잃었기 때문. 한국에서 나온 연구로는 임지현의 석사학위 논문인 \"다윈과 마르크스\"(1983)을 참고..",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+			"in_reply_to_status_id": 615339384900968400,
+			"in_reply_to_status_id_str": "615339384900968448",
+			"in_reply_to_user_id": 630907747,
+			"in_reply_to_user_id_str": "630907747",
+			"in_reply_to_screen_name": "historia9110",
+			"user": {
+				"id": 630907747,
+				"id_str": "630907747",
+				"name": "햄벨스",
+				"screen_name": "historia9110",
+				"location": "쳇바퀴",
+				"description": "",
+				"url": "https://t.co/sepArh5Mkd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sepArh5Mkd",
+								"expanded_url": "http://ask.fm/historia9108",
+								"display_url": "ask.fm/historia9108",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2355,
+				"friends_count": 444,
+				"listed_count": 82,
+				"created_at": "Mon Jul 09 08:15:48 +0000 2012",
+				"favourites_count": 743,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 125321,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/630907747/1475960050",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Oct 09 15:11:19 +0000 2016",
+		"id": 785135561472299000,
+		"id_str": "785135561472299008",
+		"text": "RT @historia9110: 맑스가 다윈의 &lt;종의 기원&gt;을 읽고 감동해 자본론의 일부를 그에게 헌정하려 했다는 주장은 수신인 불명의 \"Dear Sir\"로 시작되는 다윈의 1880년 10월 13일자 편지를 맑스에게 보낸 것으로 단정하는 연구 결과…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "historia9110",
+					"name": "햄벨스",
+					"id": 630907747,
+					"id_str": "630907747",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6358,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 29 02:01:56 +0000 2015",
+			"id": 615339384900968400,
+			"id_str": "615339384900968448",
+			"text": "맑스가 다윈의 &lt;종의 기원&gt;을 읽고 감동해 자본론의 일부를 그에게 헌정하려 했다는 주장은 수신인 불명의 \"Dear Sir\"로 시작되는 다윈의 1880년 10월 13일자 편지를 맑스에게 보낸 것으로 단정하는 연구 결과 때문에 나왔는데 사실무근이다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+			"in_reply_to_status_id": 615338806300926000,
+			"in_reply_to_status_id_str": "615338806300925952",
+			"in_reply_to_user_id": 630907747,
+			"in_reply_to_user_id_str": "630907747",
+			"in_reply_to_screen_name": "historia9110",
+			"user": {
+				"id": 630907747,
+				"id_str": "630907747",
+				"name": "햄벨스",
+				"screen_name": "historia9110",
+				"location": "쳇바퀴",
+				"description": "",
+				"url": "https://t.co/sepArh5Mkd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sepArh5Mkd",
+								"expanded_url": "http://ask.fm/historia9108",
+								"display_url": "ask.fm/historia9108",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2355,
+				"friends_count": 444,
+				"listed_count": 82,
+				"created_at": "Mon Jul 09 08:15:48 +0000 2012",
+				"favourites_count": 743,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 125321,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/630907747/1475960050",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Oct 09 15:11:14 +0000 2016",
+		"id": 785135538579738600,
+		"id_str": "785135538579738628",
+		"text": "RT @historia9110: \"다윈의 획기적 의의는 우연성을 근저에 두고 모든 목적성을 거부했다는 데에 있다. (...) 다윈과 동시대에 이오니아 자연철학의 문제에 주목한 사상가가 있다. &lt;자본론&gt;을 다윈에게 헌정한 마르크스다.\" -가라타니 고진…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "historia9110",
+					"name": "햄벨스",
+					"id": 630907747,
+					"id_str": "630907747",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6358,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 29 01:59:38 +0000 2015",
+			"id": 615338806300926000,
+			"id_str": "615338806300925952",
+			"text": "\"다윈의 획기적 의의는 우연성을 근저에 두고 모든 목적성을 거부했다는 데에 있다. (...) 다윈과 동시대에 이오니아 자연철학의 문제에 주목한 사상가가 있다. &lt;자본론&gt;을 다윈에게 헌정한 마르크스다.\" -가라타니 고진. 고진의 문제는 이같은 사실왜곡.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 630907747,
+				"id_str": "630907747",
+				"name": "햄벨스",
+				"screen_name": "historia9110",
+				"location": "쳇바퀴",
+				"description": "",
+				"url": "https://t.co/sepArh5Mkd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sepArh5Mkd",
+								"expanded_url": "http://ask.fm/historia9108",
+								"display_url": "ask.fm/historia9108",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2355,
+				"friends_count": 444,
+				"listed_count": 82,
+				"created_at": "Mon Jul 09 08:15:48 +0000 2012",
+				"favourites_count": 743,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 125321,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/630907747/1475960050",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Oct 09 15:11:05 +0000 2016",
+		"id": 785135503188209700,
+		"id_str": "785135503188209664",
+		"text": "RT @historia9110: 특히 맑스와 헤겔에 대한 해석은 공부를 하면 할수록 더더욱이나 자의적이고 왜곡되었다는 생각을 많이 하게 된다. 그의 책을 읽을수록 그런 생각이 강해져서 그에게 굉장히 비판적인 입장으로 바뀌었고, 페북에서도 여러 번이나…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "historia9110",
+					"name": "햄벨스",
+					"id": 630907747,
+					"id_str": "630907747",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6358,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 16 04:32:16 +0000 2015",
+			"id": 610666177371762700,
+			"id_str": "610666177371762689",
+			"text": "특히 맑스와 헤겔에 대한 해석은 공부를 하면 할수록 더더욱이나 자의적이고 왜곡되었다는 생각을 많이 하게 된다. 그의 책을 읽을수록 그런 생각이 강해져서 그에게 굉장히 비판적인 입장으로 바뀌었고, 페북에서도 여러 번이나 강하게 비판했다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+			"in_reply_to_status_id": 610665896693137400,
+			"in_reply_to_status_id_str": "610665896693137408",
+			"in_reply_to_user_id": 630907747,
+			"in_reply_to_user_id_str": "630907747",
+			"in_reply_to_screen_name": "historia9110",
+			"user": {
+				"id": 630907747,
+				"id_str": "630907747",
+				"name": "햄벨스",
+				"screen_name": "historia9110",
+				"location": "쳇바퀴",
+				"description": "",
+				"url": "https://t.co/sepArh5Mkd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sepArh5Mkd",
+								"expanded_url": "http://ask.fm/historia9108",
+								"display_url": "ask.fm/historia9108",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2355,
+				"friends_count": 444,
+				"listed_count": 82,
+				"created_at": "Mon Jul 09 08:15:48 +0000 2012",
+				"favourites_count": 743,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 125321,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/630907747/1475960050",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Oct 09 15:11:02 +0000 2016",
+		"id": 785135491569954800,
+		"id_str": "785135491569954817",
+		"text": "RT @historia9110: 가라타니의 최대 장점이자 단점은 그의 책 한 권을 읽으면 수십명의 사상가에 대해 다 안 것 같은 기분이 든다는 것이다. 처음에는 호의적이었지만 막상 그가 인용하는 이들의 저서를 읽기 시작하면서 그의 요약이 매우 자의적…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "historia9110",
+					"name": "햄벨스",
+					"id": 630907747,
+					"id_str": "630907747",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6358,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 16 04:31:10 +0000 2015",
+			"id": 610665896693137400,
+			"id_str": "610665896693137408",
+			"text": "가라타니의 최대 장점이자 단점은 그의 책 한 권을 읽으면 수십명의 사상가에 대해 다 안 것 같은 기분이 든다는 것이다. 처음에는 호의적이었지만 막상 그가 인용하는 이들의 저서를 읽기 시작하면서 그의 요약이 매우 자의적이라는 생각을 하게 됐다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+			"in_reply_to_status_id": 610665649258528800,
+			"in_reply_to_status_id_str": "610665649258528768",
+			"in_reply_to_user_id": 630907747,
+			"in_reply_to_user_id_str": "630907747",
+			"in_reply_to_screen_name": "historia9110",
+			"user": {
+				"id": 630907747,
+				"id_str": "630907747",
+				"name": "햄벨스",
+				"screen_name": "historia9110",
+				"location": "쳇바퀴",
+				"description": "",
+				"url": "https://t.co/sepArh5Mkd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sepArh5Mkd",
+								"expanded_url": "http://ask.fm/historia9108",
+								"display_url": "ask.fm/historia9108",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2355,
+				"friends_count": 444,
+				"listed_count": 82,
+				"created_at": "Mon Jul 09 08:15:48 +0000 2012",
+				"favourites_count": 743,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 125321,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/630907747/1475960050",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Oct 09 15:10:36 +0000 2016",
+		"id": 785135381188530200,
+		"id_str": "785135381188530176",
+		"text": "RT @historia9110: 나는 가라타니가 아시아적 어쩌고 하는 것에서 진짜 정 떨어지던데.. 그거 맑스가 같잖은 헤겔 흉내내느라 만든 것인데 그걸 그대로 사용하나.. 후기 맑스는 그런 말하지 않습니다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "historia9110",
+					"name": "햄벨스",
+					"id": 630907747,
+					"id_str": "630907747",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6358,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 11 09:35:06 +0000 2015",
+			"id": 575590764144554000,
+			"id_str": "575590764144553986",
+			"text": "나는 가라타니가 아시아적 어쩌고 하는 것에서 진짜 정 떨어지던데.. 그거 맑스가 같잖은 헤겔 흉내내느라 만든 것인데 그걸 그대로 사용하나.. 후기 맑스는 그런 말하지 않습니다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 630907747,
+				"id_str": "630907747",
+				"name": "햄벨스",
+				"screen_name": "historia9110",
+				"location": "쳇바퀴",
+				"description": "",
+				"url": "https://t.co/sepArh5Mkd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sepArh5Mkd",
+								"expanded_url": "http://ask.fm/historia9108",
+								"display_url": "ask.fm/historia9108",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2355,
+				"friends_count": 444,
+				"listed_count": 82,
+				"created_at": "Mon Jul 09 08:15:48 +0000 2012",
+				"favourites_count": 743,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 125321,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/630907747/1475960050",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Oct 09 15:10:21 +0000 2016",
+		"id": 785135318403985400,
+		"id_str": "785135318403985412",
+		"text": "RT @historia9110: 사전도 사후의 구분은 의미가 없다. 모든 것은 다 사후적이다. 그렇기에 미네르바의 부엉이는 황혼녘에 날아가는 것이다. 남은 것은 분석 뿐이다. 우리에게 남은 것은 분석밖에 없다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "historia9110",
+					"name": "햄벨스",
+					"id": 630907747,
+					"id_str": "630907747",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6358,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 16 03:47:54 +0000 2015",
+			"id": 567168467690733600,
+			"id_str": "567168467690733568",
+			"text": "사전도 사후의 구분은 의미가 없다. 모든 것은 다 사후적이다. 그렇기에 미네르바의 부엉이는 황혼녘에 날아가는 것이다. 남은 것은 분석 뿐이다. 우리에게 남은 것은 분석밖에 없다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+			"in_reply_to_status_id": 567168156930543600,
+			"in_reply_to_status_id_str": "567168156930543617",
+			"in_reply_to_user_id": 630907747,
+			"in_reply_to_user_id_str": "630907747",
+			"in_reply_to_screen_name": "historia9110",
+			"user": {
+				"id": 630907747,
+				"id_str": "630907747",
+				"name": "햄벨스",
+				"screen_name": "historia9110",
+				"location": "쳇바퀴",
+				"description": "",
+				"url": "https://t.co/sepArh5Mkd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sepArh5Mkd",
+								"expanded_url": "http://ask.fm/historia9108",
+								"display_url": "ask.fm/historia9108",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2355,
+				"friends_count": 444,
+				"listed_count": 82,
+				"created_at": "Mon Jul 09 08:15:48 +0000 2012",
+				"favourites_count": 743,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 125321,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/630907747/1475960050",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Oct 09 15:10:19 +0000 2016",
+		"id": 785135308903813100,
+		"id_str": "785135308903813120",
+		"text": "RT @historia9110: 사전도 사후의 입장이라는 말이다. 맑스가 브뤼메르18일에서 보여줬던 변증법적 인식이 바로 그 좋은 예라 할 수 있다. 그는 사태가 일어난 직후, 사후적으로 사건을 인식했지만 보나파르티즘의 몰락을 정확하게 인식했고 역사…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "historia9110",
+					"name": "햄벨스",
+					"id": 630907747,
+					"id_str": "630907747",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6358,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 16 03:46:40 +0000 2015",
+			"id": 567168156930543600,
+			"id_str": "567168156930543617",
+			"text": "사전도 사후의 입장이라는 말이다. 맑스가 브뤼메르18일에서 보여줬던 변증법적 인식이 바로 그 좋은 예라 할 수 있다. 그는 사태가 일어난 직후, 사후적으로 사건을 인식했지만 보나파르티즘의 몰락을 정확하게 인식했고 역사는 그의 말대로 이뤄졌다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+			"in_reply_to_status_id": 567167798304964600,
+			"in_reply_to_status_id_str": "567167798304964608",
+			"in_reply_to_user_id": 630907747,
+			"in_reply_to_user_id_str": "630907747",
+			"in_reply_to_screen_name": "historia9110",
+			"user": {
+				"id": 630907747,
+				"id_str": "630907747",
+				"name": "햄벨스",
+				"screen_name": "historia9110",
+				"location": "쳇바퀴",
+				"description": "",
+				"url": "https://t.co/sepArh5Mkd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sepArh5Mkd",
+								"expanded_url": "http://ask.fm/historia9108",
+								"display_url": "ask.fm/historia9108",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2355,
+				"friends_count": 444,
+				"listed_count": 82,
+				"created_at": "Mon Jul 09 08:15:48 +0000 2012",
+				"favourites_count": 743,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 125321,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/630907747/1475960050",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Oct 09 15:10:14 +0000 2016",
+		"id": 785135286284005400,
+		"id_str": "785135286284005381",
+		"text": "RT @historia9110: 헤겔이 미네르바의 부엉이는 황혼녘에 날아오른다 했던 것은 단순히 사후적인 입장에서 모든 것을 알 수 있다는 말이 아니다. 사후적인 입장에서 볼 때에서야 비로소 사전적인 것도 드러난다는 것이다. 이것이 변증법이다. 그렇…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "historia9110",
+					"name": "햄벨스",
+					"id": 630907747,
+					"id_str": "630907747",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6358,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 16 03:45:15 +0000 2015",
+			"id": 567167798304964600,
+			"id_str": "567167798304964608",
+			"text": "헤겔이 미네르바의 부엉이는 황혼녘에 날아오른다 했던 것은 단순히 사후적인 입장에서 모든 것을 알 수 있다는 말이 아니다. 사후적인 입장에서 볼 때에서야 비로소 사전적인 것도 드러난다는 것이다. 이것이 변증법이다. 그렇게 될 수밖에 없는 모순을 인식한다",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+			"in_reply_to_status_id": 567167510189862900,
+			"in_reply_to_status_id_str": "567167510189862912",
+			"in_reply_to_user_id": 630907747,
+			"in_reply_to_user_id_str": "630907747",
+			"in_reply_to_screen_name": "historia9110",
+			"user": {
+				"id": 630907747,
+				"id_str": "630907747",
+				"name": "햄벨스",
+				"screen_name": "historia9110",
+				"location": "쳇바퀴",
+				"description": "",
+				"url": "https://t.co/sepArh5Mkd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sepArh5Mkd",
+								"expanded_url": "http://ask.fm/historia9108",
+								"display_url": "ask.fm/historia9108",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2355,
+				"friends_count": 444,
+				"listed_count": 82,
+				"created_at": "Mon Jul 09 08:15:48 +0000 2012",
+				"favourites_count": 743,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 125321,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/630907747/1475960050",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Oct 09 15:10:05 +0000 2016",
+		"id": 785135252045869000,
+		"id_str": "785135252045869056",
+		"text": "RT @historia9110: 가라타니 고진은 사전과 사후로 나눠서 사전에 입장에 서는 것에 대해 논하는데 그렇게 주장하는 것은 그가 그만큼 관념론적인 사람이라는 것과 변증법에 대해 잘 모른다는 증거밖에 되지 않는다. 사전과 사후라는 구분 자체가…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "historia9110",
+					"name": "햄벨스",
+					"id": 630907747,
+					"id_str": "630907747",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6358,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 16 03:44:06 +0000 2015",
+			"id": 567167510189862900,
+			"id_str": "567167510189862912",
+			"text": "가라타니 고진은 사전과 사후로 나눠서 사전에 입장에 서는 것에 대해 논하는데 그렇게 주장하는 것은 그가 그만큼 관념론적인 사람이라는 것과 변증법에 대해 잘 모른다는 증거밖에 되지 않는다. 사전과 사후라는 구분 자체가 의미없다. 모든 것은 사후적이다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 630907747,
+				"id_str": "630907747",
+				"name": "햄벨스",
+				"screen_name": "historia9110",
+				"location": "쳇바퀴",
+				"description": "",
+				"url": "https://t.co/sepArh5Mkd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sepArh5Mkd",
+								"expanded_url": "http://ask.fm/historia9108",
+								"display_url": "ask.fm/historia9108",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2355,
+				"friends_count": 444,
+				"listed_count": 82,
+				"created_at": "Mon Jul 09 08:15:48 +0000 2012",
+				"favourites_count": 743,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 125321,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/630907747/1475960050",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Oct 09 15:09:45 +0000 2016",
+		"id": 785135167719387100,
+		"id_str": "785135167719387136",
+		"text": "RT @historia9110: @starbucksmugcup 프레시안 글은 꽤나 공정하게 잘 썼다고 생각해.형이 까는 어떤 분 때문에 좀 웃겨서 그렇지..근데 형도 그만 어그로 끌어요ㅋㅋㅋ또 알티당할라ㅋㅋㅋㅋ하튼 가라타니가 뛰어나다고는 생각했지만…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "historia9110",
+					"name": "햄벨스",
+					"id": 630907747,
+					"id_str": "630907747",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6358,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 03 11:08:04 +0000 2014",
+			"id": 440443484869115900,
+			"id_str": "440443484869115904",
+			"text": "@starbucksmugcup 프레시안 글은 꽤나 공정하게 잘 썼다고 생각해.형이 까는 어떤 분 때문에 좀 웃겨서 그렇지..근데 형도 그만 어그로 끌어요ㅋㅋㅋ또 알티당할라ㅋㅋㅋㅋ하튼 가라타니가 뛰어나다고는 생각했지만 윤리21보고 정말 반할 것 같음ㅋㅋ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+			"in_reply_to_status_id": 440443130739834900,
+			"in_reply_to_status_id_str": "440443130739834880",
+			"in_reply_to_user_id": 100139397,
+			"in_reply_to_user_id_str": "100139397",
+			"in_reply_to_screen_name": "nightlighthouse",
+			"user": {
+				"id": 630907747,
+				"id_str": "630907747",
+				"name": "햄벨스",
+				"screen_name": "historia9110",
+				"location": "쳇바퀴",
+				"description": "",
+				"url": "https://t.co/sepArh5Mkd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sepArh5Mkd",
+								"expanded_url": "http://ask.fm/historia9108",
+								"display_url": "ask.fm/historia9108",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2355,
+				"friends_count": 444,
+				"listed_count": 82,
+				"created_at": "Mon Jul 09 08:15:48 +0000 2012",
+				"favourites_count": 743,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 125321,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/630907747/1475960050",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Oct 09 15:09:39 +0000 2016",
+		"id": 785135142918500400,
+		"id_str": "785135142918500352",
+		"text": "RT @historia9110: 와다 하루키나 가라타니 고진 그리고 나카무라 사토루 같은 분들을 보면 대체 일본 학계의 깊이는 어느정도인가 가늠할 수가 없을만큼 깊지 않은가 하는 생각이 듭니다.세계 전체에 대해 이런 수준에서 말할 수 있는 학자가 한…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "historia9110",
+					"name": "햄벨스",
+					"id": 630907747,
+					"id_str": "630907747",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6358,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 24 14:04:42 +0000 2014",
+			"id": 437951223094710300,
+			"id_str": "437951223094710272",
+			"text": "와다 하루키나 가라타니 고진 그리고 나카무라 사토루 같은 분들을 보면 대체 일본 학계의 깊이는 어느정도인가 가늠할 수가 없을만큼 깊지 않은가 하는 생각이 듭니다.세계 전체에 대해 이런 수준에서 말할 수 있는 학자가 한국에는 몇이나 될지..",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 630907747,
+				"id_str": "630907747",
+				"name": "햄벨스",
+				"screen_name": "historia9110",
+				"location": "쳇바퀴",
+				"description": "",
+				"url": "https://t.co/sepArh5Mkd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sepArh5Mkd",
+								"expanded_url": "http://ask.fm/historia9108",
+								"display_url": "ask.fm/historia9108",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2355,
+				"friends_count": 444,
+				"listed_count": 82,
+				"created_at": "Mon Jul 09 08:15:48 +0000 2012",
+				"favourites_count": 743,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 125321,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/630907747/1475960050",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Oct 09 15:09:32 +0000 2016",
+		"id": 785135112614613000,
+		"id_str": "785135112614612992",
+		"text": "RT @historia9110: 지금 읽고 있는 가라타니 고진의 책.읽다가 자신은 칸트 사상의 자장 안에 있다는 담담한 고백에 왠지 감동.고진정도 되는 학자가 이렇게 솔직할 줄이야. http://t.co/GmNk83fd1K",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "historia9110",
+					"name": "햄벨스",
+					"id": 630907747,
+					"id_str": "630907747",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 413600711201792000,
+					"id_str": "413600711201792000",
+					"indices": [
+						102,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/Bb1np84IIAAII_J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Bb1np84IIAAII_J.jpg",
+					"url": "http://t.co/GmNk83fd1K",
+					"display_url": "pic.twitter.com/GmNk83fd1K",
+					"expanded_url": "http://twitter.com/historia9110/status/413600711348588544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 463,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 752,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 817,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 413600711348588540,
+					"source_status_id_str": "413600711348588544",
+					"source_user_id": 630907747,
+					"source_user_id_str": "630907747"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 413600711201792000,
+					"id_str": "413600711201792000",
+					"indices": [
+						102,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/Bb1np84IIAAII_J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Bb1np84IIAAII_J.jpg",
+					"url": "http://t.co/GmNk83fd1K",
+					"display_url": "pic.twitter.com/GmNk83fd1K",
+					"expanded_url": "http://twitter.com/historia9110/status/413600711348588544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 463,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 752,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 817,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 413600711348588540,
+					"source_status_id_str": "413600711348588544",
+					"source_user_id": 630907747,
+					"source_user_id_str": "630907747"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6358,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Dec 19 09:24:28 +0000 2013",
+			"id": 413600711348588540,
+			"id_str": "413600711348588544",
+			"text": "지금 읽고 있는 가라타니 고진의 책.읽다가 자신은 칸트 사상의 자장 안에 있다는 담담한 고백에 왠지 감동.고진정도 되는 학자가 이렇게 솔직할 줄이야. http://t.co/GmNk83fd1K",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 413600711201792000,
+						"id_str": "413600711201792000",
+						"indices": [
+							84,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/Bb1np84IIAAII_J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Bb1np84IIAAII_J.jpg",
+						"url": "http://t.co/GmNk83fd1K",
+						"display_url": "pic.twitter.com/GmNk83fd1K",
+						"expanded_url": "http://twitter.com/historia9110/status/413600711348588544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 463,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 752,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 817,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 413600711201792000,
+						"id_str": "413600711201792000",
+						"indices": [
+							84,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/Bb1np84IIAAII_J.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Bb1np84IIAAII_J.jpg",
+						"url": "http://t.co/GmNk83fd1K",
+						"display_url": "pic.twitter.com/GmNk83fd1K",
+						"expanded_url": "http://twitter.com/historia9110/status/413600711348588544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 463,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 752,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 817,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 630907747,
+				"id_str": "630907747",
+				"name": "햄벨스",
+				"screen_name": "historia9110",
+				"location": "쳇바퀴",
+				"description": "",
+				"url": "https://t.co/sepArh5Mkd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sepArh5Mkd",
+								"expanded_url": "http://ask.fm/historia9108",
+								"display_url": "ask.fm/historia9108",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2355,
+				"friends_count": 444,
+				"listed_count": 82,
+				"created_at": "Mon Jul 09 08:15:48 +0000 2012",
+				"favourites_count": 743,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 125321,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/630907747/1475960050",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Oct 09 15:09:25 +0000 2016",
+		"id": 785135081115443200,
+		"id_str": "785135081115443200",
+		"text": "RT @historia9110: 가라타니 고진은 자기가 칸트 사상의 자장 안에 있다고 하는데 웬만큼 뚫려있다고 해야하나 비어있다 해야하나 하튼 웬만한 사람이 쉽게 할 수 있는 얘기가 아니다.그저 앵무새처럼 얘기하는 이들도 저렇게 얘기를 안 하는데..…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "historia9110",
+					"name": "햄벨스",
+					"id": 630907747,
+					"id_str": "630907747",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6358,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 15 10:40:26 +0000 2013",
+			"id": 412170276818808800,
+			"id_str": "412170276818808832",
+			"text": "가라타니 고진은 자기가 칸트 사상의 자장 안에 있다고 하는데 웬만큼 뚫려있다고 해야하나 비어있다 해야하나 하튼 웬만한 사람이 쉽게 할 수 있는 얘기가 아니다.그저 앵무새처럼 얘기하는 이들도 저렇게 얘기를 안 하는데..본받아야지.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 630907747,
+				"id_str": "630907747",
+				"name": "햄벨스",
+				"screen_name": "historia9110",
+				"location": "쳇바퀴",
+				"description": "",
+				"url": "https://t.co/sepArh5Mkd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sepArh5Mkd",
+								"expanded_url": "http://ask.fm/historia9108",
+								"display_url": "ask.fm/historia9108",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2355,
+				"friends_count": 444,
+				"listed_count": 82,
+				"created_at": "Mon Jul 09 08:15:48 +0000 2012",
+				"favourites_count": 743,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 125321,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/630907747/1475960050",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Oct 09 15:09:17 +0000 2016",
+		"id": 785135049595195400,
+		"id_str": "785135049595195392",
+		"text": "RT @historia9110: 가라타니 고진은 참 소중하다.그를 무시했던 지난 날의 내 무식함이 부끄러워 말꺼내기도 민망하다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "historia9110",
+					"name": "햄벨스",
+					"id": 630907747,
+					"id_str": "630907747",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6358,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 17 15:08:09 +0000 2013",
+			"id": 402090788735045600,
+			"id_str": "402090788735045632",
+			"text": "가라타니 고진은 참 소중하다.그를 무시했던 지난 날의 내 무식함이 부끄러워 말꺼내기도 민망하다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 630907747,
+				"id_str": "630907747",
+				"name": "햄벨스",
+				"screen_name": "historia9110",
+				"location": "쳇바퀴",
+				"description": "",
+				"url": "https://t.co/sepArh5Mkd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sepArh5Mkd",
+								"expanded_url": "http://ask.fm/historia9108",
+								"display_url": "ask.fm/historia9108",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2355,
+				"friends_count": 444,
+				"listed_count": 82,
+				"created_at": "Mon Jul 09 08:15:48 +0000 2012",
+				"favourites_count": 743,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 125321,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/630907747/1475960050",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Oct 09 14:52:22 +0000 2016",
+		"id": 785130792137523200,
+		"id_str": "785130792137523200",
+		"text": "RT @historia9110: 지가 어디서 뭘 보고 그런 생각을 한 건지를 말하지 않으니까 검증도 안되고 다 자기가 생각해낸게 되는데 지적 사기꾼이지..",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "historia9110",
+					"name": "햄벨스",
+					"id": 630907747,
+					"id_str": "630907747",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6358,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 05 00:42:54 +0000 2016",
+			"id": 783467464210329600,
+			"id_str": "783467464210329600",
+			"text": "지가 어디서 뭘 보고 그런 생각을 한 건지를 말하지 않으니까 검증도 안되고 다 자기가 생각해낸게 되는데 지적 사기꾼이지..",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 630907747,
+				"id_str": "630907747",
+				"name": "햄벨스",
+				"screen_name": "historia9110",
+				"location": "쳇바퀴",
+				"description": "",
+				"url": "https://t.co/sepArh5Mkd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sepArh5Mkd",
+								"expanded_url": "http://ask.fm/historia9108",
+								"display_url": "ask.fm/historia9108",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2355,
+				"friends_count": 444,
+				"listed_count": 82,
+				"created_at": "Mon Jul 09 08:15:48 +0000 2012",
+				"favourites_count": 743,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 125321,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/630907747/1475960050",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Oct 09 14:52:16 +0000 2016",
+		"id": 785130765994463200,
+		"id_str": "785130765994463232",
+		"text": "RT @historia9110: 무슨 국가는 다른 국가에 대해서 국가로 정립됐다고 맑스•엥겔스 비판하는 것도 헤겔의 국가론 파트에 다 나온가임.. 그것도 존나 조잡해 헤겔이 그것만 말한 줄 아냐..",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "historia9110",
+					"name": "햄벨스",
+					"id": 630907747,
+					"id_str": "630907747",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6358,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 05 00:40:19 +0000 2016",
+			"id": 783466816643342300,
+			"id_str": "783466816643342336",
+			"text": "무슨 국가는 다른 국가에 대해서 국가로 정립됐다고 맑스•엥겔스 비판하는 것도 헤겔의 국가론 파트에 다 나온가임.. 그것도 존나 조잡해 헤겔이 그것만 말한 줄 아냐..",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 783466533678833700,
+			"in_reply_to_status_id_str": "783466533678833664",
+			"in_reply_to_user_id": 630907747,
+			"in_reply_to_user_id_str": "630907747",
+			"in_reply_to_screen_name": "historia9110",
+			"user": {
+				"id": 630907747,
+				"id_str": "630907747",
+				"name": "햄벨스",
+				"screen_name": "historia9110",
+				"location": "쳇바퀴",
+				"description": "",
+				"url": "https://t.co/sepArh5Mkd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sepArh5Mkd",
+								"expanded_url": "http://ask.fm/historia9108",
+								"display_url": "ask.fm/historia9108",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2355,
+				"friends_count": 444,
+				"listed_count": 82,
+				"created_at": "Mon Jul 09 08:15:48 +0000 2012",
+				"favourites_count": 743,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 125321,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/630907747/1475960050",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Oct 09 14:52:10 +0000 2016",
+		"id": 785130739926872000,
+		"id_str": "785130739926872064",
+		"text": "RT @historia9110: 가라타니 고진은 그냥 헤겔의 조잡한 아류. &lt;법철학&gt; 읽어보면 가라타니가 말한 거 다 나옴. 그 &lt;윤리21&gt;에서 구조주의가 맞는데 윤리는 자유롭다는 의식 어쩌고 하는거 그냥 헤겔 법철학에서 국가 파트 표절한거임. 그것…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "historia9110",
+					"name": "햄벨스",
+					"id": 630907747,
+					"id_str": "630907747",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6358,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 05 00:39:12 +0000 2016",
+			"id": 783466533678833700,
+			"id_str": "783466533678833664",
+			"text": "가라타니 고진은 그냥 헤겔의 조잡한 아류. &lt;법철학&gt; 읽어보면 가라타니가 말한 거 다 나옴. 그 &lt;윤리21&gt;에서 구조주의가 맞는데 윤리는 자유롭다는 의식 어쩌고 하는거 그냥 헤겔 법철학에서 국가 파트 표절한거임. 그것도 조잡하게.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 630907747,
+				"id_str": "630907747",
+				"name": "햄벨스",
+				"screen_name": "historia9110",
+				"location": "쳇바퀴",
+				"description": "",
+				"url": "https://t.co/sepArh5Mkd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sepArh5Mkd",
+								"expanded_url": "http://ask.fm/historia9108",
+								"display_url": "ask.fm/historia9108",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2355,
+				"friends_count": 444,
+				"listed_count": 82,
+				"created_at": "Mon Jul 09 08:15:48 +0000 2012",
+				"favourites_count": 743,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 125321,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/630907747/1475960050",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Oct 09 14:52:04 +0000 2016",
+		"id": 785130716434604000,
+		"id_str": "785130716434604032",
+		"text": "RT @historia9110: RT 이런 거 보면 가라타니 너무 병신 같음.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "historia9110",
+					"name": "햄벨스",
+					"id": 630907747,
+					"id_str": "630907747",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6358,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 05 00:35:31 +0000 2016",
+			"id": 783465605252849700,
+			"id_str": "783465605252849664",
+			"text": "RT 이런 거 보면 가라타니 너무 병신 같음.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 630907747,
+				"id_str": "630907747",
+				"name": "햄벨스",
+				"screen_name": "historia9110",
+				"location": "쳇바퀴",
+				"description": "",
+				"url": "https://t.co/sepArh5Mkd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sepArh5Mkd",
+								"expanded_url": "http://ask.fm/historia9108",
+								"display_url": "ask.fm/historia9108",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2355,
+				"friends_count": 444,
+				"listed_count": 82,
+				"created_at": "Mon Jul 09 08:15:48 +0000 2012",
+				"favourites_count": 743,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 125321,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784921332228120580/cB45_r_2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/630907747/1475960050",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Oct 09 14:52:02 +0000 2016",
+		"id": 785130708503191600,
+		"id_str": "785130708503191553",
+		"text": "RT @Kojin_bot: 나아가 헤겔적 원근법을 비판한 사람으로 마르크스를 들지 않을 수 없다. 헤겔이 계층적 발전의 &lt;원인&gt;을 대립이나 모순에서 발견한 것에 대해, 마르크스는 그 대립이나 모순이 언제나 &lt;결과&gt;(끝=목적)쪽에서 본 것에 지나지 않…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kojin_bot",
+					"name": "길 가는 사람 봇",
+					"id": 519578969,
+					"id_str": "519578969",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6358,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 29 04:38:33 +0000 2016",
+			"id": 781352442227155000,
+			"id_str": "781352442227154945",
+			"text": "나아가 헤겔적 원근법을 비판한 사람으로 마르크스를 들지 않을 수 없다. 헤겔이 계층적 발전의 &lt;원인&gt;을 대립이나 모순에서 발견한 것에 대해, 마르크스는 그 대립이나 모순이 언제나 &lt;결과&gt;(끝=목적)쪽에서 본 것에 지나지 않는다고 지적한다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 519578969,
+				"id_str": "519578969",
+				"name": "길 가는 사람 봇",
+				"screen_name": "Kojin_bot",
+				"location": "",
+				"description": "말글같음(언문일치)의 날",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4982,
+				"friends_count": 147,
+				"listed_count": 159,
+				"created_at": "Fri Mar 09 15:35:52 +0000 2012",
+				"favourites_count": 363,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 21413,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/786035293/f4a7a05728d68a1b14537db4b27d5f1e.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/786035293/f4a7a05728d68a1b14537db4b27d5f1e.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/751023532633493505/P5WiSOfP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/751023532633493505/P5WiSOfP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/519578969/1467893102",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Oct 09 14:39:28 +0000 2016",
+		"id": 785127544299266000,
+		"id_str": "785127544299266048",
+		"text": "RT @niver_dg: 이거어덕하지... https://t.co/EESEeAayWe",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "niver_dg",
+					"name": "니버 /호오",
+					"id": 782966253350588400,
+					"id_str": "782966253350588416",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 783256500554772500,
+					"id_str": "783256500554772480",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/Ct6voyuVMAA5gT-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ct6voyuVMAA5gT-.jpg",
+					"url": "https://t.co/EESEeAayWe",
+					"display_url": "pic.twitter.com/EESEeAayWe",
+					"expanded_url": "https://twitter.com/niver_dg/status/783256514689507328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 289,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 164,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 493,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 783256514689507300,
+					"source_status_id_str": "783256514689507328",
+					"source_user_id": 782966253350588400,
+					"source_user_id_str": "782966253350588416"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 783256500554772500,
+					"id_str": "783256500554772480",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/Ct6voyuVMAA5gT-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ct6voyuVMAA5gT-.jpg",
+					"url": "https://t.co/EESEeAayWe",
+					"display_url": "pic.twitter.com/EESEeAayWe",
+					"expanded_url": "https://twitter.com/niver_dg/status/783256514689507328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 289,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 164,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 493,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 783256514689507300,
+					"source_status_id_str": "783256514689507328",
+					"source_user_id": 782966253350588400,
+					"source_user_id_str": "782966253350588416"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6358,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 04 10:44:39 +0000 2016",
+			"id": 783256514689507300,
+			"id_str": "783256514689507328",
+			"text": "이거어덕하지... https://t.co/EESEeAayWe",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 783256500554772500,
+						"id_str": "783256500554772480",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/Ct6voyuVMAA5gT-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ct6voyuVMAA5gT-.jpg",
+						"url": "https://t.co/EESEeAayWe",
+						"display_url": "pic.twitter.com/EESEeAayWe",
+						"expanded_url": "https://twitter.com/niver_dg/status/783256514689507328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 289,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 164,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 493,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 783256500554772500,
+						"id_str": "783256500554772480",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/Ct6voyuVMAA5gT-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ct6voyuVMAA5gT-.jpg",
+						"url": "https://t.co/EESEeAayWe",
+						"display_url": "pic.twitter.com/EESEeAayWe",
+						"expanded_url": "https://twitter.com/niver_dg/status/783256514689507328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 289,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 164,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 493,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 782966253350588400,
+				"id_str": "782966253350588416",
+				"name": "니버 /호오",
+				"screen_name": "niver_dg",
+				"location": "",
+				"description": "1/2차→hxh&단간",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20,
+				"friends_count": 21,
+				"listed_count": 0,
+				"created_at": "Mon Oct 03 15:31:16 +0000 2016",
+				"favourites_count": 87,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 229,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/782966693710602240/YIyWrc1c_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/782966693710602240/YIyWrc1c_normal.jpg",
+				"profile_link_color": "2B7BB9",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8748,
+			"favorite_count": 1041,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8748,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Oct 09 14:35:10 +0000 2016",
+		"id": 785126461560590300,
+		"id_str": "785126461560590337",
+		"text": "RT @estima7: \"연구는 않고 권력싸움만… 폐쇄적 한국工大, 그들만의 리그\" https://t.co/Zsm0MEbQZa 조선일보 공대시리즈. 한국공대에 있다가 본국으로 복귀한 외국인 교수 7명 인터뷰. https://t.co/q6Pyg5AipB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "estima7",
+					"name": "임정욱 / Jungwook Lim",
+					"id": 14060875,
+					"id_str": "14060875",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Zsm0MEbQZa",
+					"expanded_url": "http://news.chosun.com/site/data/html_dir/2016/10/08/2016100800279.html",
+					"display_url": "news.chosun.com/site/data/html…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 784527498428244000,
+					"id_str": "784527498428243969",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CuMzmmxXYAEvYtg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuMzmmxXYAEvYtg.jpg",
+					"url": "https://t.co/q6Pyg5AipB",
+					"display_url": "pic.twitter.com/q6Pyg5AipB",
+					"expanded_url": "https://twitter.com/estima7/status/784527507328471041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1194,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1194,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 284,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 784527507328471000,
+					"source_status_id_str": "784527507328471041",
+					"source_user_id": 14060875,
+					"source_user_id_str": "14060875"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 784527498428244000,
+					"id_str": "784527498428243969",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CuMzmmxXYAEvYtg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuMzmmxXYAEvYtg.jpg",
+					"url": "https://t.co/q6Pyg5AipB",
+					"display_url": "pic.twitter.com/q6Pyg5AipB",
+					"expanded_url": "https://twitter.com/estima7/status/784527507328471041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1194,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1194,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 284,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 784527507328471000,
+					"source_status_id_str": "784527507328471041",
+					"source_user_id": 14060875,
+					"source_user_id_str": "14060875"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6358,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 07 22:55:08 +0000 2016",
+			"id": 784527507328471000,
+			"id_str": "784527507328471041",
+			"text": "\"연구는 않고 권력싸움만… 폐쇄적 한국工大, 그들만의 리그\" https://t.co/Zsm0MEbQZa 조선일보 공대시리즈. 한국공대에 있다가 본국으로 복귀한 외국인 교수 7명 인터뷰. https://t.co/q6Pyg5AipB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Zsm0MEbQZa",
+						"expanded_url": "http://news.chosun.com/site/data/html_dir/2016/10/08/2016100800279.html",
+						"display_url": "news.chosun.com/site/data/html…",
+						"indices": [
+							34,
+							57
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 784527498428244000,
+						"id_str": "784527498428243969",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/CuMzmmxXYAEvYtg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuMzmmxXYAEvYtg.jpg",
+						"url": "https://t.co/q6Pyg5AipB",
+						"display_url": "pic.twitter.com/q6Pyg5AipB",
+						"expanded_url": "https://twitter.com/estima7/status/784527507328471041/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1194,
+								"h": 498,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1194,
+								"h": 498,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 284,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 784527498428244000,
+						"id_str": "784527498428243969",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/CuMzmmxXYAEvYtg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuMzmmxXYAEvYtg.jpg",
+						"url": "https://t.co/q6Pyg5AipB",
+						"display_url": "pic.twitter.com/q6Pyg5AipB",
+						"expanded_url": "https://twitter.com/estima7/status/784527507328471041/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1194,
+								"h": 498,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1194,
+								"h": 498,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 284,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14060875,
+				"id_str": "14060875",
+				"name": "임정욱 / Jungwook Lim",
+				"screen_name": "estima7",
+				"location": "Seoul",
+				"description": "Managing Director of Startup Alliance in Korea /ex Daum/Former Lycos Inc CEO/Former Journalist/Silicon Valley",
+				"url": "http://t.co/PJSFlo6CLe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/PJSFlo6CLe",
+								"expanded_url": "http://EstimaStory.com",
+								"display_url": "EstimaStory.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 313729,
+				"friends_count": 2194,
+				"listed_count": 5111,
+				"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+				"favourites_count": 2357,
+				"utc_offset": 32400,
+				"time_zone": "Asia/Seoul",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 56821,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/531336222195478528/7qTvKgF9_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/531336222195478528/7qTvKgF9_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1412516151",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 557,
+			"favorite_count": 183,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 557,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Oct 09 14:20:25 +0000 2016",
+		"id": 785122749454790700,
+		"id_str": "785122749454790656",
+		"text": "RT @avecalice: 몇년전 일본의 일부 젊은이들이 태국 등지에서 소토코모리를 한다는 논문을 읽은 적이 있는데 이건 히키코모리를 일본에서 하면 티가 나니까 죽어라 아르바이트 등으로 돈을 벌어 태국같은 물가가 싼 나라에 간 다음 거기서 히키코모리…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "avecalice",
+					"name": "Kimmy",
+					"id": 107911969,
+					"id_str": "107911969",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6358,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 09 03:17:13 +0000 2016",
+			"id": 784955851513606100,
+			"id_str": "784955851513606144",
+			"text": "몇년전 일본의 일부 젊은이들이 태국 등지에서 소토코모리를 한다는 논문을 읽은 적이 있는데 이건 히키코모리를 일본에서 하면 티가 나니까 죽어라 아르바이트 등으로 돈을 벌어 태국같은 물가가 싼 나라에 간 다음 거기서 히키코모리함--;; 관광같은 거 당연히",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 784955409970802700,
+			"in_reply_to_status_id_str": "784955409970802688",
+			"in_reply_to_user_id": 107911969,
+			"in_reply_to_user_id_str": "107911969",
+			"in_reply_to_screen_name": "avecalice",
+			"user": {
+				"id": 107911969,
+				"id_str": "107911969",
+				"name": "Kimmy",
+				"screen_name": "avecalice",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 999,
+				"friends_count": 317,
+				"listed_count": 10,
+				"created_at": "Sun Jan 24 05:04:21 +0000 2010",
+				"favourites_count": 4798,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18945,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/778572352233705472/SvuFK4Fy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/778572352233705472/SvuFK4Fy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/107911969/1474451453",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 61,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Oct 09 11:13:17 +0000 2016",
 		"id": 785075659961794600,
 		"id_str": "785075659961794561",
