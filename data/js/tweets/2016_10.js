@@ -1,6 +1,974 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Mon Oct 10 12:56:23 +0000 2016",
+		"id": 785463990897881100,
+		"id_str": "785463990897881094",
+		"text": "문예적인, 너무나 문예적인 - 아쿠타가와 류노스케 문예론 원제 文芸的な、余りに文芸的な (1931년)\nhttps://t.co/zswxoMkziQ\n\n이쪽에서 문제의 '진정성'이 나왔다는데, 서구에서도 진정성 담론이 형성되기 전이라 어리둥절한 상태.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zswxoMkziQ",
+					"expanded_url": "http://aladin.co.kr/shop/wproduct.aspx?itemid=86523852",
+					"display_url": "aladin.co.kr/shop/wproduct.…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 785142053810253800,
+		"in_reply_to_status_id_str": "785142053810253829",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1056,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6384,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Mon Oct 10 12:51:45 +0000 2016",
+		"id": 785462826533986300,
+		"id_str": "785462826533986305",
+		"text": "RT @niemandsrose_: 이건 남의 집 앤데 너무 잘생겨서 https://t.co/puxdKGO3NW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "niemandsrose_",
+					"name": "양갱",
+					"id": 139913040,
+					"id_str": "139913040",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 785266398444474400,
+					"id_str": "785266398444474368",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CuXToP1VUAAuVMp.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CuXToP1VUAAuVMp.jpg",
+					"url": "https://t.co/puxdKGO3NW",
+					"display_url": "pic.twitter.com/puxdKGO3NW",
+					"expanded_url": "https://twitter.com/niemandsrose_/status/785266548281790464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 378,
+							"h": 426,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 378,
+							"h": 426,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 785266548281790500,
+					"source_status_id_str": "785266548281790464",
+					"source_user_id": 139913040,
+					"source_user_id_str": "139913040"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 785266398444474400,
+					"id_str": "785266398444474368",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CuXToP1VUAAuVMp.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CuXToP1VUAAuVMp.jpg",
+					"url": "https://t.co/puxdKGO3NW",
+					"display_url": "pic.twitter.com/puxdKGO3NW",
+					"expanded_url": "https://twitter.com/niemandsrose_/status/785266548281790464/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 378,
+							"h": 426,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 378,
+							"h": 426,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 785266548281790500,
+					"source_status_id_str": "785266548281790464",
+					"source_user_id": 139913040,
+					"source_user_id_str": "139913040",
+					"video_info": {
+						"aspect_ratio": [
+							63,
+							71
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/CuXToP1VUAAuVMp.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1056,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6384,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 09 23:51:49 +0000 2016",
+			"id": 785266548281790500,
+			"id_str": "785266548281790464",
+			"text": "이건 남의 집 앤데 너무 잘생겨서 https://t.co/puxdKGO3NW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 785266398444474400,
+						"id_str": "785266398444474368",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CuXToP1VUAAuVMp.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CuXToP1VUAAuVMp.jpg",
+						"url": "https://t.co/puxdKGO3NW",
+						"display_url": "pic.twitter.com/puxdKGO3NW",
+						"expanded_url": "https://twitter.com/niemandsrose_/status/785266548281790464/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 378,
+								"h": 426,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 378,
+								"h": 426,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 785266398444474400,
+						"id_str": "785266398444474368",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CuXToP1VUAAuVMp.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CuXToP1VUAAuVMp.jpg",
+						"url": "https://t.co/puxdKGO3NW",
+						"display_url": "pic.twitter.com/puxdKGO3NW",
+						"expanded_url": "https://twitter.com/niemandsrose_/status/785266548281790464/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 378,
+								"h": 426,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 378,
+								"h": 426,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								63,
+								71
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://pbs.twimg.com/tweet_video/CuXToP1VUAAuVMp.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 785258762231685100,
+			"in_reply_to_status_id_str": "785258762231685120",
+			"in_reply_to_user_id": 139913040,
+			"in_reply_to_user_id_str": "139913040",
+			"in_reply_to_screen_name": "niemandsrose_",
+			"user": {
+				"id": 139913040,
+				"id_str": "139913040",
+				"name": "양갱",
+				"screen_name": "niemandsrose_",
+				"location": "apologia pro vita sua",
+				"description": "전방위 잡덕 임상심리 수련생. 여러가지를 좋아합니다. 덕계는 @milchpudding_",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1678,
+				"friends_count": 409,
+				"listed_count": 21,
+				"created_at": "Tue May 04 01:32:15 +0000 2010",
+				"favourites_count": 11928,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 72034,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/764349377036947457/oy_858QQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/764349377036947457/oy_858QQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/139913040/1449810077",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Oct 10 12:28:27 +0000 2016",
+		"id": 785456962980843500,
+		"id_str": "785456962980843520",
+		"text": "@dvddog @Bloomers_Suki 제크 오렌지맛을 살 https://t.co/38eEGhgJiR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dvddog",
+					"name": "데이비드 댕댕이",
+					"id": 3138788114,
+					"id_str": "3138788114",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "Bloomers_Suki",
+					"name": "씁",
+					"id": 220722651,
+					"id_str": "220722651",
+					"indices": [
+						8,
+						22
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 785456930579808300,
+					"id_str": "785456930579808256",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/CuaA6rWUAAAq61M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuaA6rWUAAAq61M.jpg",
+					"url": "https://t.co/38eEGhgJiR",
+					"display_url": "pic.twitter.com/38eEGhgJiR",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/785456962980843520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 785456930579808300,
+					"id_str": "785456930579808256",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/CuaA6rWUAAAq61M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuaA6rWUAAAq61M.jpg",
+					"url": "https://t.co/38eEGhgJiR",
+					"display_url": "pic.twitter.com/38eEGhgJiR",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/785456962980843520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 785441994512269300,
+		"in_reply_to_status_id_str": "785441994512269312",
+		"in_reply_to_user_id": 3138788114,
+		"in_reply_to_user_id_str": "3138788114",
+		"in_reply_to_screen_name": "dvddog",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1056,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6384,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Oct 10 12:24:48 +0000 2016",
+		"id": 785456043337715700,
+		"id_str": "785456043337715712",
+		"text": "RT @Pleasure54: '이나바'라는 업체에서 나온 츄~루 라는 고양이용 간식이 있는데, 아무리 경각심이 강한 길냥이도 유혹 할 수 있다는 말에 길냥에게 시험해봤더니 이거 뭔가 위험한게 들어있는게 아닌가 싶은 표정이었다고 http://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Pleasure54",
+					"name": "₩9",
+					"id": 155061670,
+					"id_str": "155061670",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1056,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6384,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun May 24 16:38:28 +0000 2015",
+			"id": 602514007174598700,
+			"id_str": "602514007174598656",
+			"text": "'이나바'라는 업체에서 나온 츄~루 라는 고양이용 간식이 있는데, 아무리 경각심이 강한 길냥이도 유혹 할 수 있다는 말에 길냥에게 시험해봤더니 이거 뭔가 위험한게 들어있는게 아닌가 싶은 표정이었다고 http://t.co/KA9uCRsHLC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 601438108232454100,
+						"id_str": "601438108232454144",
+						"indices": [
+							111,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/CFi8xduUEAAx5Xx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CFi8xduUEAAx5Xx.jpg",
+						"url": "http://t.co/KA9uCRsHLC",
+						"display_url": "pic.twitter.com/KA9uCRsHLC",
+						"expanded_url": "http://twitter.com/sivaprod/status/601438108333117440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 1025,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 601438108333117400,
+						"source_status_id_str": "601438108333117440",
+						"source_user_id": 86045196,
+						"source_user_id_str": "86045196"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 601438108232454100,
+						"id_str": "601438108232454144",
+						"indices": [
+							111,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/CFi8xduUEAAx5Xx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CFi8xduUEAAx5Xx.jpg",
+						"url": "http://t.co/KA9uCRsHLC",
+						"display_url": "pic.twitter.com/KA9uCRsHLC",
+						"expanded_url": "http://twitter.com/sivaprod/status/601438108333117440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 1025,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 340,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 601438108333117400,
+						"source_status_id_str": "601438108333117440",
+						"source_user_id": 86045196,
+						"source_user_id_str": "86045196"
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 155061670,
+				"id_str": "155061670",
+				"name": "₩9",
+				"screen_name": "Pleasure54",
+				"location": "2.5D",
+				"description": "야구 개막하면 폭트함 주의(⚾LG Twins, SoftBank) / 일반인은 주의 / 유해함 / ガルパンはいいぞ！",
+				"url": "https://t.co/sCeMTCvdBe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sCeMTCvdBe",
+								"expanded_url": "http://ask.fm/Pleasure54",
+								"display_url": "ask.fm/Pleasure54",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6241,
+				"friends_count": 795,
+				"listed_count": 118,
+				"created_at": "Sun Jun 13 01:16:26 +0000 2010",
+				"favourites_count": 19818,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 315480,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/505019326328352768/4SYqebR8.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/505019326328352768/4SYqebR8.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784752526184681472/D8A9swNH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784752526184681472/D8A9swNH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/155061670/1475766725",
+				"profile_link_color": "02207A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5495,
+			"favorite_count": 2035,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5495,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Oct 10 12:22:46 +0000 2016",
+		"id": 785455530395377700,
+		"id_str": "785455530395377664",
+		"text": "https://t.co/wT8VjkDsSb\n\n아마존에 누락된 도서 정보도 전부 있어서 편리한 사이트네요. 오래 전에 절판된 책 소개, 목차 등. 연관/연상 검색도 가능하고. 아마존은 왜 이렇게 엉성한지 모르겠어요.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wT8VjkDsSb",
+					"expanded_url": "http://webcatplus.nii.ac.jp/#",
+					"display_url": "webcatplus.nii.ac.jp/#",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "K_K",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "A Room of One's Own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1056,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6384,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/764399824590348288/MO_0ThO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1471081989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Oct 10 08:28:06 +0000 2016",
 		"id": 785396476063076400,
 		"id_str": "785396476063076352",
