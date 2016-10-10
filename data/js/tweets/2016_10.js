@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Mon Oct 10 19:55:03 +0000 2016",
+		"id": 785569354108678100,
+		"id_str": "785569354108678145",
+		"text": "RT @st_disegno: 세리 보고서들은 2013년 이전에 이미 완연한 질적 저하를 보여주셨고. 한 시대의 조용한 종언. https://t.co/vaVnJET28U",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "st_disegno",
+					"name": "임범묵 AKA 이정우 AKA 임근준",
+					"id": 373345221,
+					"id_str": "373345221",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 785562054211928000,
+					"id_str": "785562054211928065",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/CubghrZUAAEI6hm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CubghrZUAAEI6hm.jpg",
+					"url": "https://t.co/vaVnJET28U",
+					"display_url": "pic.twitter.com/vaVnJET28U",
+					"expanded_url": "https://twitter.com/st_disegno/status/785562062764187648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1156,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 677,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 384,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 785562062764187600,
+					"source_status_id_str": "785562062764187648",
+					"source_user_id": 373345221,
+					"source_user_id_str": "373345221"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 785562054211928000,
+					"id_str": "785562054211928065",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/CubghrZUAAEI6hm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CubghrZUAAEI6hm.jpg",
+					"url": "https://t.co/vaVnJET28U",
+					"display_url": "pic.twitter.com/vaVnJET28U",
+					"expanded_url": "https://twitter.com/st_disegno/status/785562062764187648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1156,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 677,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 384,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 785562062764187600,
+					"source_status_id_str": "785562062764187648",
+					"source_user_id": 373345221,
+					"source_user_id_str": "373345221"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1056,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6392,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 10 19:26:05 +0000 2016",
+			"id": 785562062764187600,
+			"id_str": "785562062764187648",
+			"text": "세리 보고서들은 2013년 이전에 이미 완연한 질적 저하를 보여주셨고. 한 시대의 조용한 종언. https://t.co/vaVnJET28U",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 785562054211928000,
+						"id_str": "785562054211928065",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/CubghrZUAAEI6hm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CubghrZUAAEI6hm.jpg",
+						"url": "https://t.co/vaVnJET28U",
+						"display_url": "pic.twitter.com/vaVnJET28U",
+						"expanded_url": "https://twitter.com/st_disegno/status/785562062764187648/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1156,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 677,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 384,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 785562054211928000,
+						"id_str": "785562054211928065",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/CubghrZUAAEI6hm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CubghrZUAAEI6hm.jpg",
+						"url": "https://t.co/vaVnJET28U",
+						"display_url": "pic.twitter.com/vaVnJET28U",
+						"expanded_url": "https://twitter.com/st_disegno/status/785562062764187648/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1156,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 677,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 384,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 373345221,
+				"id_str": "373345221",
+				"name": "임범묵 AKA 이정우 AKA 임근준",
+				"screen_name": "st_disegno",
+				"location": "crazyseoul",
+				"description": "미술·디자인 평론가 ☄ _ 95년부터 00년까지 LGBT운동가로 활동했고, 이후 계간 공예와 문화 편집장, 한국미술연구소/시공아트 편집장, 월간 아트인컬처 편집장 등으로 일했다. / [현대미술의 끝: 좀비 모던 시대의 예술 생존법](가제)을 출간 준비 중.",
+				"url": "https://t.co/H5gf9iSua0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H5gf9iSua0",
+								"expanded_url": "http://chungwoo.egloos.com",
+								"display_url": "chungwoo.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19721,
+				"friends_count": 6670,
+				"listed_count": 302,
+				"created_at": "Wed Sep 14 12:25:03 +0000 2011",
+				"favourites_count": 0,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 45797,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/713775883400699904/u8qF_2Bu.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/713775883400699904/u8qF_2Bu.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/705318659187568644/rmY77dcv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/705318659187568644/rmY77dcv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/373345221/1473974862",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Oct 10 16:33:57 +0000 2016",
 		"id": 785518742927122400,
 		"id_str": "785518742927122433",
