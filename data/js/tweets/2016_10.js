@@ -1,6 +1,1328 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Mon Oct 10 13:44:11 +0000 2016",
+		"id": 785476022187601900,
+		"id_str": "785476022187601920",
+		"text": "RT @isao1976: 한국 70년대 나치 미소녀 장교 만화 https://t.co/nyq6dGDXbL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "isao1976",
+					"name": "KIM HUN/일본어 번역 의뢰 환영",
+					"id": 229356553,
+					"id_str": "229356553",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nyq6dGDXbL",
+					"expanded_url": "http://eldlan.egloos.com/6053733",
+					"display_url": "eldlan.egloos.com/6053733",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1056,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6388,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 10 08:30:40 +0000 2016",
+			"id": 785397123005059100,
+			"id_str": "785397123005059073",
+			"text": "한국 70년대 나치 미소녀 장교 만화 https://t.co/nyq6dGDXbL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nyq6dGDXbL",
+						"expanded_url": "http://eldlan.egloos.com/6053733",
+						"display_url": "eldlan.egloos.com/6053733",
+						"indices": [
+							21,
+							44
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 229356553,
+				"id_str": "229356553",
+				"name": "KIM HUN/일본어 번역 의뢰 환영",
+				"screen_name": "isao1976",
+				"location": "드림랜드 ",
+				"description": "일본어를 한국어로 번역합니다/ isao의 IT,게임번역소를 운영/ 역서:게임 크리에이터를 꿈꾸는 사람을 위한 게임/기획/개발, 켈트신화사전,북유럽신화사전,크툴루 신화사전, 팩맨의 게임학,SF사전,오브젝티브-C 핸드북,소셜게임과 게이미피케이션으로 승부하라",
+				"url": "https://t.co/f1h9oOTunO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/f1h9oOTunO",
+								"expanded_url": "http://www.aladin.co.kr/author/wauthor_product.aspx?AuthorSearch=@2391395",
+								"display_url": "aladin.co.kr/author/wauthor…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1242,
+				"friends_count": 951,
+				"listed_count": 35,
+				"created_at": "Wed Dec 22 05:52:05 +0000 2010",
+				"favourites_count": 4993,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30483,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "4F0606",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/461184168882212864/JcCEXK2j.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/461184168882212864/JcCEXK2j.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/492702327887761408/DtkOjWUr_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/492702327887761408/DtkOjWUr_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/229356553/1441929320",
+				"profile_link_color": "EB7D07",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 168,
+			"favorite_count": 47,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 168,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Oct 10 13:37:18 +0000 2016",
+		"id": 785474288623038500,
+		"id_str": "785474288623038464",
+		"text": "RT @in_other_word: 이 해시태그를 눌렀다가 두 여성의 안전과 행복을 빌고 나도 가고싶다, 돌아오지 말라는 메시지를 쓰는 사우디 여성들을 발견하고 😢울었다. https://t.co/4NNM7UwBp2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "in_other_word",
+					"name": "Sumi🍟",
+					"id": 131837739,
+					"id_str": "131837739",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 784938457638383600,
+					"id_str": "784938457638383616",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/CuSpXlIUMAAAU8k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuSpXlIUMAAAU8k.jpg",
+					"url": "https://t.co/4NNM7UwBp2",
+					"display_url": "pic.twitter.com/4NNM7UwBp2",
+					"expanded_url": "https://twitter.com/in_other_word/status/784938468778442752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 639,
+							"h": 811,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 639,
+							"h": 811,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 784938468778442800,
+					"source_status_id_str": "784938468778442752",
+					"source_user_id": 131837739,
+					"source_user_id_str": "131837739"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 784938457638383600,
+					"id_str": "784938457638383616",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/CuSpXlIUMAAAU8k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuSpXlIUMAAAU8k.jpg",
+					"url": "https://t.co/4NNM7UwBp2",
+					"display_url": "pic.twitter.com/4NNM7UwBp2",
+					"expanded_url": "https://twitter.com/in_other_word/status/784938468778442752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 639,
+							"h": 811,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 639,
+							"h": 811,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 784938468778442800,
+					"source_status_id_str": "784938468778442752",
+					"source_user_id": 131837739,
+					"source_user_id_str": "131837739"
+				},
+				{
+					"id": 784938457487454200,
+					"id_str": "784938457487454208",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/CuSpXkkVMAASFqL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuSpXkkVMAASFqL.jpg",
+					"url": "https://t.co/4NNM7UwBp2",
+					"display_url": "pic.twitter.com/4NNM7UwBp2",
+					"expanded_url": "https://twitter.com/in_other_word/status/784938468778442752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 639,
+							"h": 783,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 639,
+							"h": 783,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 555,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 784938468778442800,
+					"source_status_id_str": "784938468778442752",
+					"source_user_id": 131837739,
+					"source_user_id_str": "131837739"
+				},
+				{
+					"id": 784938457487376400,
+					"id_str": "784938457487376384",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/CuSpXkkUAAAbM_t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuSpXkkUAAAbM_t.jpg",
+					"url": "https://t.co/4NNM7UwBp2",
+					"display_url": "pic.twitter.com/4NNM7UwBp2",
+					"expanded_url": "https://twitter.com/in_other_word/status/784938468778442752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 542,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 639,
+							"h": 801,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 639,
+							"h": 801,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 784938468778442800,
+					"source_status_id_str": "784938468778442752",
+					"source_user_id": 131837739,
+					"source_user_id_str": "131837739"
+				},
+				{
+					"id": 784938457491583000,
+					"id_str": "784938457491582976",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/CuSpXklUMAAable.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuSpXklUMAAable.jpg",
+					"url": "https://t.co/4NNM7UwBp2",
+					"display_url": "pic.twitter.com/4NNM7UwBp2",
+					"expanded_url": "https://twitter.com/in_other_word/status/784938468778442752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 635,
+							"h": 825,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 635,
+							"h": 825,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 784938468778442800,
+					"source_status_id_str": "784938468778442752",
+					"source_user_id": 131837739,
+					"source_user_id_str": "131837739"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1056,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6388,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 09 02:08:09 +0000 2016",
+			"id": 784938468778442800,
+			"id_str": "784938468778442752",
+			"text": "이 해시태그를 눌렀다가 두 여성의 안전과 행복을 빌고 나도 가고싶다, 돌아오지 말라는 메시지를 쓰는 사우디 여성들을 발견하고 😢울었다. https://t.co/4NNM7UwBp2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 784938457638383600,
+						"id_str": "784938457638383616",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/CuSpXlIUMAAAU8k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuSpXlIUMAAAU8k.jpg",
+						"url": "https://t.co/4NNM7UwBp2",
+						"display_url": "pic.twitter.com/4NNM7UwBp2",
+						"expanded_url": "https://twitter.com/in_other_word/status/784938468778442752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 639,
+								"h": 811,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 639,
+								"h": 811,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 536,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 784938457638383600,
+						"id_str": "784938457638383616",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/CuSpXlIUMAAAU8k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuSpXlIUMAAAU8k.jpg",
+						"url": "https://t.co/4NNM7UwBp2",
+						"display_url": "pic.twitter.com/4NNM7UwBp2",
+						"expanded_url": "https://twitter.com/in_other_word/status/784938468778442752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 639,
+								"h": 811,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 639,
+								"h": 811,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 536,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 784938457487454200,
+						"id_str": "784938457487454208",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/CuSpXkkVMAASFqL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuSpXkkVMAASFqL.jpg",
+						"url": "https://t.co/4NNM7UwBp2",
+						"display_url": "pic.twitter.com/4NNM7UwBp2",
+						"expanded_url": "https://twitter.com/in_other_word/status/784938468778442752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 639,
+								"h": 783,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 639,
+								"h": 783,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 555,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 784938457487376400,
+						"id_str": "784938457487376384",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/CuSpXkkUAAAbM_t.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuSpXkkUAAAbM_t.jpg",
+						"url": "https://t.co/4NNM7UwBp2",
+						"display_url": "pic.twitter.com/4NNM7UwBp2",
+						"expanded_url": "https://twitter.com/in_other_word/status/784938468778442752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 542,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 639,
+								"h": 801,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 639,
+								"h": 801,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 784938457491583000,
+						"id_str": "784938457491582976",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/CuSpXklUMAAable.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuSpXklUMAAable.jpg",
+						"url": "https://t.co/4NNM7UwBp2",
+						"display_url": "pic.twitter.com/4NNM7UwBp2",
+						"expanded_url": "https://twitter.com/in_other_word/status/784938468778442752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 523,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 635,
+								"h": 825,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 635,
+								"h": 825,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 131837739,
+				"id_str": "131837739",
+				"name": "Sumi🍟",
+				"screen_name": "in_other_word",
+				"location": "",
+				"description": "구몬 ... @sumitater",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4063,
+				"friends_count": 540,
+				"listed_count": 73,
+				"created_at": "Sun Apr 11 13:53:51 +0000 2010",
+				"favourites_count": 5210,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 27135,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/785369503731363840/KbCofy02_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/785369503731363840/KbCofy02_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/131837739/1476081828",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 513,
+			"favorite_count": 94,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 513,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Oct 10 13:37:14 +0000 2016",
+		"id": 785474270533005300,
+		"id_str": "785474270533005312",
+		"text": "RT @criancafirme: 지금 전 세계 트랜드에 #هروب_فتاتين_الي_كورياٍ 라는 해시태그가 나오는데, 사우디아라비아의 20대 여성 대학생 두 명이 부모 몰래 한국으로 출국했다는 뉴스 같다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "هروب_فتاتين_الي_كورياٍ",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "criancafirme",
+					"name": "단아 Dana",
+					"id": 3052108698,
+					"id_str": "3052108698",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1056,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6388,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 08 11:08:58 +0000 2016",
+			"id": 784712182537650200,
+			"id_str": "784712182537650176",
+			"text": "지금 전 세계 트랜드에 #هروب_فتاتين_الي_كورياٍ 라는 해시태그가 나오는데, 사우디아라비아의 20대 여성 대학생 두 명이 부모 몰래 한국으로 출국했다는 뉴스 같다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "هروب_فتاتين_الي_كورياٍ",
+						"indices": [
+							13,
+							36
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3052108698,
+				"id_str": "3052108698",
+				"name": "단아 Dana",
+				"screen_name": "criancafirme",
+				"location": "Lusitânia",
+				"description": "O mar sempre me deixava inebriada.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1780,
+				"friends_count": 508,
+				"listed_count": 35,
+				"created_at": "Sun Mar 01 09:25:59 +0000 2015",
+				"favourites_count": 1086,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 857,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/728837919360745472/_fLBbBAw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/728837919360745472/_fLBbBAw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3052108698/1437534491",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1176,
+			"favorite_count": 88,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1176,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Oct 10 13:37:10 +0000 2016",
+		"id": 785474254007509000,
+		"id_str": "785474254007508992",
+		"text": "RT @yonhaptweet: \"한국문화에 빠져\" 사우디 여대생 2명 몰래 출국 https://t.co/kzWBD7ObjE #사우디 https://t.co/UtA3XDjYQP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사우디",
+					"indices": [
+						69,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yonhaptweet",
+					"name": "연합뉴스",
+					"id": 147451838,
+					"id_str": "147451838",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kzWBD7ObjE",
+					"expanded_url": "http://ow.ly/1tiR3050Dyv",
+					"display_url": "ow.ly/1tiR3050Dyv",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 785263186568212500,
+					"id_str": "785263186568212484",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/CuXQtSqW8AQpSUg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuXQtSqW8AQpSUg.jpg",
+					"url": "https://t.co/UtA3XDjYQP",
+					"display_url": "pic.twitter.com/UtA3XDjYQP",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/785263188845666304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 785263188845666300,
+					"source_status_id_str": "785263188845666304",
+					"source_user_id": 147451838,
+					"source_user_id_str": "147451838"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 785263186568212500,
+					"id_str": "785263186568212484",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/CuXQtSqW8AQpSUg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuXQtSqW8AQpSUg.jpg",
+					"url": "https://t.co/UtA3XDjYQP",
+					"display_url": "pic.twitter.com/UtA3XDjYQP",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/785263188845666304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 785263188845666300,
+					"source_status_id_str": "785263188845666304",
+					"source_user_id": 147451838,
+					"source_user_id_str": "147451838"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1056,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6388,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 09 23:38:28 +0000 2016",
+			"id": 785263188845666300,
+			"id_str": "785263188845666304",
+			"text": "\"한국문화에 빠져\" 사우디 여대생 2명 몰래 출국 https://t.co/kzWBD7ObjE #사우디 https://t.co/UtA3XDjYQP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "사우디",
+						"indices": [
+							52,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kzWBD7ObjE",
+						"expanded_url": "http://ow.ly/1tiR3050Dyv",
+						"display_url": "ow.ly/1tiR3050Dyv",
+						"indices": [
+							28,
+							51
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 785263186568212500,
+						"id_str": "785263186568212484",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/CuXQtSqW8AQpSUg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuXQtSqW8AQpSUg.jpg",
+						"url": "https://t.co/UtA3XDjYQP",
+						"display_url": "pic.twitter.com/UtA3XDjYQP",
+						"expanded_url": "https://twitter.com/yonhaptweet/status/785263188845666304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 785263186568212500,
+						"id_str": "785263186568212484",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/CuXQtSqW8AQpSUg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuXQtSqW8AQpSUg.jpg",
+						"url": "https://t.co/UtA3XDjYQP",
+						"display_url": "pic.twitter.com/UtA3XDjYQP",
+						"expanded_url": "https://twitter.com/yonhaptweet/status/785263188845666304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 147451838,
+				"id_str": "147451838",
+				"name": "연합뉴스",
+				"screen_name": "yonhaptweet",
+				"location": "대한민국 서울",
+				"description": "[홈피] http://t.co/gHNvfKkBkF \n연합뉴스는 1년 365일, 하루 24시간 국내외 취재망을 가동해 제작한 신속·정확한 기사를 전국의 신문·방송, 정부 부처, 공공기관, 일반기업, 포털 등 국내는 물론 해외에도 널리 공급하는 '대한민국 뉴스의 총본산' 입니다.",
+				"url": "http://t.co/F5rmnA27RN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/F5rmnA27RN",
+								"expanded_url": "http://yonhapnews.co.kr/",
+								"display_url": "yonhapnews.co.kr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/gHNvfKkBkF",
+								"expanded_url": "http://www.yonhapnews.co.kr",
+								"display_url": "yonhapnews.co.kr",
+								"indices": [
+									5,
+									27
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 314112,
+				"friends_count": 82947,
+				"listed_count": 4801,
+				"created_at": "Mon May 24 05:08:01 +0000 2010",
+				"favourites_count": 6,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 107451,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1463968560",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Oct 10 12:56:23 +0000 2016",
 		"id": 785463990897881100,
 		"id_str": "785463990897881094",
