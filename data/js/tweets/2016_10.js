@@ -1,6 +1,195 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Tue Oct 11 10:19:43 +0000 2016",
+		"id": 785786954092679200,
+		"id_str": "785786954092679168",
+		"text": "루리웹에서 엑박 뜨는 거 대응할 방법 없나요? 독립하고 나서 이미지 서버 운용을 어떻게 하는 건지 (부들부들)\nhttps://t.co/7PT1WydTfj",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7PT1WydTfj",
+					"expanded_url": "https://twitter.com/Belserious/status/785480239820316672",
+					"display_url": "twitter.com/Belserious/sta…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1056,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6397,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 785480239820316700,
+		"quoted_status_id_str": "785480239820316672",
+		"quoted_status": {
+			"created_at": "Mon Oct 10 14:00:57 +0000 2016",
+			"id": 785480239820316700,
+			"id_str": "785480239820316672",
+			"text": "[걸즈앤판처]데일리 판처! https://t.co/uIspQlegnf \n\n계란계란 그림체 너무 정감가게 잘 어울린다 ㅋㅋㅋ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uIspQlegnf",
+						"expanded_url": "http://bbs.ruliweb.com/family/212/board/1010/read/30570873",
+						"display_url": "bbs.ruliweb.com/family/212/boa…",
+						"indices": [
+							15,
+							38
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 125652036,
+				"id_str": "125652036",
+				"name": "베르셀",
+				"screen_name": "Belserious",
+				"location": "헤스티아 파밀리아",
+				"description": "PS4, PS3, PS Vita, 3DS, PC // 게임기가 있으면 뭐해 돈이 없는데 // 상세 미정",
+				"url": "https://t.co/UeGd3Y3oLe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UeGd3Y3oLe",
+								"expanded_url": "http://danmachi.com",
+								"display_url": "danmachi.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 833,
+				"friends_count": 939,
+				"listed_count": 25,
+				"created_at": "Tue Mar 23 13:03:16 +0000 2010",
+				"favourites_count": 6413,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 122715,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/622661035388895232/OW6dAblO.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/622661035388895232/OW6dAblO.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784361693002338305/WLV7OtLB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784361693002338305/WLV7OtLB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/125652036/1469460128",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 89,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Oct 11 10:04:50 +0000 2016",
 		"id": 785783207211905000,
 		"id_str": "785783207211905024",
