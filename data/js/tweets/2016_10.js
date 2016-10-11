@@ -1,6 +1,596 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Tue Oct 11 15:53:26 +0000 2016",
+		"id": 785870934842323000,
+		"id_str": "785870934842322944",
+		"text": "RT @debirth: 번역) 나라(奈良)의 사슴은 외국인들하고는 엄청 잘 놀면서 일본인은 소 닭보듯 한다는데 정말인가요? https://t.co/2BOgBpvHi4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debirth",
+					"name": "SeaBlue",
+					"id": 225040295,
+					"id_str": "225040295",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 784935033077321700,
+					"id_str": "784935033077321728",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/CuSmQPpVUAAZ0ST.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuSmQPpVUAAZ0ST.jpg",
+					"url": "https://t.co/2BOgBpvHi4",
+					"display_url": "pic.twitter.com/2BOgBpvHi4",
+					"expanded_url": "https://twitter.com/sawakosawa3/status/784935087032848384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 467,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 467,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 467,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 784935087032848400,
+					"source_status_id_str": "784935087032848384",
+					"source_user_id": 418076020,
+					"source_user_id_str": "418076020"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 784935033077321700,
+					"id_str": "784935033077321728",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/CuSmQPpVUAAZ0ST.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuSmQPpVUAAZ0ST.jpg",
+					"url": "https://t.co/2BOgBpvHi4",
+					"display_url": "pic.twitter.com/2BOgBpvHi4",
+					"expanded_url": "https://twitter.com/sawakosawa3/status/784935087032848384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 467,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 467,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 467,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 784935087032848400,
+					"source_status_id_str": "784935087032848384",
+					"source_user_id": 418076020,
+					"source_user_id_str": "418076020"
+				},
+				{
+					"id": 784935038714470400,
+					"id_str": "784935038714470401",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/CuSmQkpVYAExNCl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuSmQkpVYAExNCl.jpg",
+					"url": "https://t.co/2BOgBpvHi4",
+					"display_url": "pic.twitter.com/2BOgBpvHi4",
+					"expanded_url": "https://twitter.com/sawakosawa3/status/784935087032848384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 784935087032848400,
+					"source_status_id_str": "784935087032848384",
+					"source_user_id": 418076020,
+					"source_user_id_str": "418076020"
+				},
+				{
+					"id": 784935045714710500,
+					"id_str": "784935045714710528",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/CuSmQ-uUkAAb3gb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuSmQ-uUkAAb3gb.jpg",
+					"url": "https://t.co/2BOgBpvHi4",
+					"display_url": "pic.twitter.com/2BOgBpvHi4",
+					"expanded_url": "https://twitter.com/sawakosawa3/status/784935087032848384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 479,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 479,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 479,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 784935087032848400,
+					"source_status_id_str": "784935087032848384",
+					"source_user_id": 418076020,
+					"source_user_id_str": "418076020"
+				},
+				{
+					"id": 784935051855142900,
+					"id_str": "784935051855142912",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/CuSmRVmUIAAkcDK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuSmRVmUIAAkcDK.jpg",
+					"url": "https://t.co/2BOgBpvHi4",
+					"display_url": "pic.twitter.com/2BOgBpvHi4",
+					"expanded_url": "https://twitter.com/sawakosawa3/status/784935087032848384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 317,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 317,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 317,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 784935087032848400,
+					"source_status_id_str": "784935087032848384",
+					"source_user_id": 418076020,
+					"source_user_id_str": "418076020"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1055,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6397,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 10 06:41:17 +0000 2016",
+			"id": 785369593430675500,
+			"id_str": "785369593430675456",
+			"text": "번역) 나라(奈良)의 사슴은 외국인들하고는 엄청 잘 놀면서 일본인은 소 닭보듯 한다는데 정말인가요? https://t.co/2BOgBpvHi4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 784935033077321700,
+						"id_str": "784935033077321728",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/CuSmQPpVUAAZ0ST.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuSmQPpVUAAZ0ST.jpg",
+						"url": "https://t.co/2BOgBpvHi4",
+						"display_url": "pic.twitter.com/2BOgBpvHi4",
+						"expanded_url": "https://twitter.com/sawakosawa3/status/784935087032848384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 467,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 467,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 467,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 784935087032848400,
+						"source_status_id_str": "784935087032848384",
+						"source_user_id": 418076020,
+						"source_user_id_str": "418076020"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 784935033077321700,
+						"id_str": "784935033077321728",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/CuSmQPpVUAAZ0ST.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuSmQPpVUAAZ0ST.jpg",
+						"url": "https://t.co/2BOgBpvHi4",
+						"display_url": "pic.twitter.com/2BOgBpvHi4",
+						"expanded_url": "https://twitter.com/sawakosawa3/status/784935087032848384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 467,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 467,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 467,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 784935087032848400,
+						"source_status_id_str": "784935087032848384",
+						"source_user_id": 418076020,
+						"source_user_id_str": "418076020"
+					},
+					{
+						"id": 784935038714470400,
+						"id_str": "784935038714470401",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/CuSmQkpVYAExNCl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuSmQkpVYAExNCl.jpg",
+						"url": "https://t.co/2BOgBpvHi4",
+						"display_url": "pic.twitter.com/2BOgBpvHi4",
+						"expanded_url": "https://twitter.com/sawakosawa3/status/784935087032848384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 784935087032848400,
+						"source_status_id_str": "784935087032848384",
+						"source_user_id": 418076020,
+						"source_user_id_str": "418076020"
+					},
+					{
+						"id": 784935045714710500,
+						"id_str": "784935045714710528",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/CuSmQ-uUkAAb3gb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuSmQ-uUkAAb3gb.jpg",
+						"url": "https://t.co/2BOgBpvHi4",
+						"display_url": "pic.twitter.com/2BOgBpvHi4",
+						"expanded_url": "https://twitter.com/sawakosawa3/status/784935087032848384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 479,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 479,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 479,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 784935087032848400,
+						"source_status_id_str": "784935087032848384",
+						"source_user_id": 418076020,
+						"source_user_id_str": "418076020"
+					},
+					{
+						"id": 784935051855142900,
+						"id_str": "784935051855142912",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/CuSmRVmUIAAkcDK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuSmRVmUIAAkcDK.jpg",
+						"url": "https://t.co/2BOgBpvHi4",
+						"display_url": "pic.twitter.com/2BOgBpvHi4",
+						"expanded_url": "https://twitter.com/sawakosawa3/status/784935087032848384/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 317,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 317,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 317,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 784935087032848400,
+						"source_status_id_str": "784935087032848384",
+						"source_user_id": 418076020,
+						"source_user_id_str": "418076020"
+					}
+				]
+			},
+			"source": "<a href=\"http://twipple.jp/\" rel=\"nofollow\">ついっぷる　</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 225040295,
+				"id_str": "225040295",
+				"name": "SeaBlue",
+				"screen_name": "debirth",
+				"location": "三咲市三咲町白犬塚",
+				"description": "Z1000&Ninja250",
+				"url": "http://t.co/QXV7PGgM5h",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/QXV7PGgM5h",
+								"expanded_url": "http://fightforjustice.info",
+								"display_url": "fightforjustice.info",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3687,
+				"friends_count": 88,
+				"listed_count": 45,
+				"created_at": "Fri Dec 10 14:30:21 +0000 2010",
+				"favourites_count": 444,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34508,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/180121881/Untitled-4.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/180121881/Untitled-4.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3759071188/a98ca3c8c679f04b0fa11a8475ed5c74_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3759071188/a98ca3c8c679f04b0fa11a8475ed5c74_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/225040295/1399741670",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2551,
+			"favorite_count": 457,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2551,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Oct 11 13:30:52 +0000 2016",
 		"id": 785835057269268500,
 		"id_str": "785835057269268480",
