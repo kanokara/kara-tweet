@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Wed Oct 12 17:08:45 +0000 2016",
+		"id": 786252279175184400,
+		"id_str": "786252279175184384",
+		"text": "RT @grnpwdr: 드디어 다 정리했다! 일본 직구에 대해서 정리한 글입니다. 직구 시 준비물들이나 배대지 가입법, 결제수단, 주문 취소에 대처하는 법 등을 적어놓았습니다.\nhttps://t.co/ufbdWM8GtR https://t.co/5iq…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "grnpwdr",
+					"name": "초록가루",
+					"id": 2272983139,
+					"id_str": "2272983139",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ufbdWM8GtR",
+					"expanded_url": "http://grnpwdr.postype.com/post/185608/",
+					"display_url": "grnpwdr.postype.com/post/185608/",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1054,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6440,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 31 09:20:21 +0000 2016",
+			"id": 770914108698878000,
+			"id_str": "770914108698877953",
+			"text": "드디어 다 정리했다! 일본 직구에 대해서 정리한 글입니다. 직구 시 준비물들이나 배대지 가입법, 결제수단, 주문 취소에 대처하는 법 등을 적어놓았습니다.\nhttps://t.co/ufbdWM8GtR https://t.co/5iqKiABRJR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ufbdWM8GtR",
+						"expanded_url": "http://grnpwdr.postype.com/post/185608/",
+						"display_url": "grnpwdr.postype.com/post/185608/",
+						"indices": [
+							86,
+							109
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 770914103581814800,
+						"id_str": "770914103581814784",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/CrLWSvBVMAAkoqO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CrLWSvBVMAAkoqO.jpg",
+						"url": "https://t.co/5iqKiABRJR",
+						"display_url": "pic.twitter.com/5iqKiABRJR",
+						"expanded_url": "https://twitter.com/grnpwdr/status/770914108698877953/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 734,
+								"h": 619,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 573,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 734,
+								"h": 619,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 770914103581814800,
+						"id_str": "770914103581814784",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/CrLWSvBVMAAkoqO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CrLWSvBVMAAkoqO.jpg",
+						"url": "https://t.co/5iqKiABRJR",
+						"display_url": "pic.twitter.com/5iqKiABRJR",
+						"expanded_url": "https://twitter.com/grnpwdr/status/770914108698877953/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 734,
+								"h": 619,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 573,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 734,
+								"h": 619,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2272983139,
+				"id_str": "2272983139",
+				"name": "초록가루",
+				"screen_name": "grnpwdr",
+				"location": "",
+				"description": "러브라이브+죠죠+보컬로이드+오소마츠상/대학생/햄스터짤 리트윗을 많이 하긴 하지만 햄짤봇은 아닙니다/FUB free/오소마츠 연성계는 이쪽  @powdermatsu/인장은 이카선배",
+				"url": "https://t.co/fKSBYL0SIv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fKSBYL0SIv",
+								"expanded_url": "http://www.postype.com/blog/grnpwdr/posts",
+								"display_url": "postype.com/blog/grnpwdr/p…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 72,
+				"friends_count": 144,
+				"listed_count": 2,
+				"created_at": "Thu Jan 02 12:58:20 +0000 2014",
+				"favourites_count": 12023,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30267,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/723883347835949060/VJA5jqlX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/723883347835949060/VJA5jqlX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2272983139/1427900589",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7912,
+			"favorite_count": 7773,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7912,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Oct 12 11:22:43 +0000 2016",
 		"id": 786165195445903400,
 		"id_str": "786165195445903362",
