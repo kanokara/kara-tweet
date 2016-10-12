@@ -1,6 +1,647 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Wed Oct 12 10:53:03 +0000 2016",
+		"id": 786157731665227800,
+		"id_str": "786157731665227776",
+		"text": "아무튼 전쟁에도 윤리가 존재한다며 아즈마의 현실인식을 비판하던 분이 법이 전제하는 윤리성을 감지하지 못하고 공적/사적 폭력으로 이해하시는 것도... 그래서 해킹이란 얘기를 한 것.\nhttps://t.co/mExdZk5IKF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mExdZk5IKF",
+					"expanded_url": "https://twitter.com/mizasquare/status/786142453241786368",
+					"display_url": "twitter.com/mizasquare/sta…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 786154570439274500,
+		"in_reply_to_status_id_str": "786154570439274497",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1054,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6442,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 786142453241786400,
+		"quoted_status_id_str": "786142453241786368",
+		"quoted_status": {
+			"created_at": "Wed Oct 12 09:52:21 +0000 2016",
+			"id": 786142453241786400,
+			"id_str": "786142453241786368",
+			"text": "@dvddog 머 개인 윤리적으론 그렇게 생각할 수 있는데 위-법할 가능성이 높네용..\n제7조 (동물학대 등의 금지) ① 누구든지 동물에 대하여 다음 각 호의 행위를 하여서는 아니 된다. &lt;개정 2008.2.29&gt;",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dvddog",
+						"name": "데이비드 댕댕이",
+						"id": 3138788114,
+						"id_str": "3138788114",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 786139450371747800,
+			"in_reply_to_status_id_str": "786139450371747840",
+			"in_reply_to_user_id": 3138788114,
+			"in_reply_to_user_id_str": "3138788114",
+			"in_reply_to_screen_name": "dvddog",
+			"user": {
+				"id": 203930125,
+				"id_str": "203930125",
+				"name": "미자",
+				"screen_name": "mizasquare",
+				"location": "346프로덕션",
+				"description": "~~~새로운 빛을 맞으러 가자~~~",
+				"url": "https://t.co/totQOwItE4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/totQOwItE4",
+								"expanded_url": "http://mizasquare.net",
+								"display_url": "mizasquare.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 361,
+				"friends_count": 543,
+				"listed_count": 12,
+				"created_at": "Sun Oct 17 14:36:03 +0000 2010",
+				"favourites_count": 6469,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 51916,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "241616",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/452013083565637632/uSjS4-pZ.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/452013083565637632/uSjS4-pZ.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/785171569739825152/YV1zRi_X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/785171569739825152/YV1zRi_X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/203930125/1472998341",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Oct 12 10:40:30 +0000 2016",
+		"id": 786154570439274500,
+		"id_str": "786154570439274497",
+		"text": "착한 척한다고 판단하고 거기에 반사적으로 위악을 부리는 게 디씨나 일베나 아주 몹쓸 병. 어떤 선함이 자립할 수 없는 현실적 조건이 있다고 하면 (현실적 조건을 수용한) 다른 선함을 대안으로 제시하거나 그 선함의 문제를 환기하는 것이면 충분해요.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1054,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6442,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Oct 12 10:31:55 +0000 2016",
+		"id": 786152410079109100,
+		"id_str": "786152410079109124",
+		"text": "꼭 측은지심을 갖지 않는다고 해도 생명에 헛됨이 없이 유용하게 쓰는 것이 공양이라는 건 비문명화된 사회도 아네요. 비단 불교적 세계관이 아니라 본디 '카니발'이란 그러한 것이고, 여기에 위악을 부리는 건 심술일 뿐이에요.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 786147083824672800,
+		"in_reply_to_status_id_str": "786147083824672768",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1054,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6442,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Oct 12 10:17:26 +0000 2016",
+		"id": 786148768353706000,
+		"id_str": "786148768353705984",
+		"text": "오페와는 격이 다른 유쾌함 (정론)\nhttps://t.co/2YrWGyZp2o",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2YrWGyZp2o",
+					"expanded_url": "https://twitter.com/Bloomers_Suki/status/786138740192268288",
+					"display_url": "twitter.com/Bloomers_Suki/…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1054,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6442,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 786138740192268300,
+		"quoted_status_id_str": "786138740192268288",
+		"quoted_status": {
+			"created_at": "Wed Oct 12 09:37:36 +0000 2016",
+			"id": 786138740192268300,
+			"id_str": "786138740192268288",
+			"text": "( ͡° ͜ʖ ͡°) #たわわチャレンジ https://t.co/0wXllicLJp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "たわわチャレンジ",
+						"indices": [
+							12,
+							21
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 786138090733760500,
+						"id_str": "786138090733760512",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/786138090733760512/pu/img/hpe0cY65U1tY-oGN.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/786138090733760512/pu/img/hpe0cY65U1tY-oGN.jpg",
+						"url": "https://t.co/0wXllicLJp",
+						"display_url": "pic.twitter.com/0wXllicLJp",
+						"expanded_url": "https://twitter.com/Meidocafe/status/786138740192268288/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 786138090733760500,
+						"id_str": "786138090733760512",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/786138090733760512/pu/img/hpe0cY65U1tY-oGN.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/786138090733760512/pu/img/hpe0cY65U1tY-oGN.jpg",
+						"url": "https://t.co/0wXllicLJp",
+						"display_url": "pic.twitter.com/0wXllicLJp",
+						"expanded_url": "https://twitter.com/Meidocafe/status/786138740192268288/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 7600,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/786138090733760512/pu/vid/320x180/Z1KOCJB40XcDpJEH.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/786138090733760512/pu/vid/1280x720/G5zadRAsQRvY4Wbf.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/786138090733760512/pu/pl/SU_1wwXV0BLs9uiw.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/786138090733760512/pu/vid/640x360/DXTh8vnh_43uu1Aj.mp4"
+								},
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/786138090733760512/pu/pl/SU_1wwXV0BLs9uiw.mpd"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 127615553,
+				"id_str": "127615553",
+				"name": "Melonpan🔞",
+				"screen_name": "Meidocafe",
+				"location": "Bern, Schweiz",
+				"description": "⚠ R-18 NSFW Account! スイス人の変態紳士 (๑¯⌓¯๑) 200% Gay? ♀ Ich mag Brot, Dynamit, Kartoffeln, Cosplay, DFCs, Animu, JRPGs, Hentai & Strümpfe. PSN: SeifukuShoujo ( ❛ ◡❛)",
+				"url": "https://t.co/gVVgjqEXSF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gVVgjqEXSF",
+								"expanded_url": "https://www.youtube.com/c/Melonpan",
+								"display_url": "youtube.com/c/Melonpan",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 52767,
+				"friends_count": 53,
+				"listed_count": 436,
+				"created_at": "Mon Mar 29 19:10:36 +0000 2010",
+				"favourites_count": 28188,
+				"utc_offset": -7200,
+				"time_zone": "Greenland",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 60329,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFDFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/320770154/yt22.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/320770154/yt22.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/773233128680919040/6QmkDqbw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/773233128680919040/6QmkDqbw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/127615553/1475840648",
+				"profile_link_color": "CC00C5",
+				"profile_sidebar_border_color": "FFF8AD",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 781,
+			"favorite_count": 613,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Oct 12 10:10:45 +0000 2016",
 		"id": 786147083824672800,
 		"id_str": "786147083824672768",
