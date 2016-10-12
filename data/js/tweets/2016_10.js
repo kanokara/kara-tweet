@@ -1,6 +1,843 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Wed Oct 12 07:12:16 +0000 2016",
+		"id": 786102169279860700,
+		"id_str": "786102169279860736",
+		"text": "RT @Natsunokori: 트위터 의사소통 4신기.\n\n이 4가지 패턴으로 진행됨. https://t.co/TtVNxZOeD7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Natsunokori",
+					"name": "Thanako",
+					"id": 1969146632,
+					"id_str": "1969146632",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 785785764034379800,
+					"id_str": "785785764034379776",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/Cuer_TbUAAAS-Pf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cuer_TbUAAAS-Pf.jpg",
+					"url": "https://t.co/TtVNxZOeD7",
+					"display_url": "pic.twitter.com/TtVNxZOeD7",
+					"expanded_url": "https://twitter.com/Natsunokori/status/785785787350519812/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 785785787350519800,
+					"source_status_id_str": "785785787350519812",
+					"source_user_id": 1969146632,
+					"source_user_id_str": "1969146632"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 785785764034379800,
+					"id_str": "785785764034379776",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/Cuer_TbUAAAS-Pf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cuer_TbUAAAS-Pf.jpg",
+					"url": "https://t.co/TtVNxZOeD7",
+					"display_url": "pic.twitter.com/TtVNxZOeD7",
+					"expanded_url": "https://twitter.com/Natsunokori/status/785785787350519812/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 785785787350519800,
+					"source_status_id_str": "785785787350519812",
+					"source_user_id": 1969146632,
+					"source_user_id_str": "1969146632"
+				},
+				{
+					"id": 785785768409116700,
+					"id_str": "785785768409116674",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/Cuer_juVMAIJaES.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cuer_juVMAIJaES.jpg",
+					"url": "https://t.co/TtVNxZOeD7",
+					"display_url": "pic.twitter.com/TtVNxZOeD7",
+					"expanded_url": "https://twitter.com/Natsunokori/status/785785787350519812/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 785785787350519800,
+					"source_status_id_str": "785785787350519812",
+					"source_user_id": 1969146632,
+					"source_user_id_str": "1969146632"
+				},
+				{
+					"id": 785785772586651600,
+					"id_str": "785785772586651649",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/Cuer_zSVUAEhelc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cuer_zSVUAEhelc.jpg",
+					"url": "https://t.co/TtVNxZOeD7",
+					"display_url": "pic.twitter.com/TtVNxZOeD7",
+					"expanded_url": "https://twitter.com/Natsunokori/status/785785787350519812/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 785785787350519800,
+					"source_status_id_str": "785785787350519812",
+					"source_user_id": 1969146632,
+					"source_user_id_str": "1969146632"
+				},
+				{
+					"id": 785785777724624900,
+					"id_str": "785785777724624896",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/CuesAGbUkAATL7o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuesAGbUkAATL7o.jpg",
+					"url": "https://t.co/TtVNxZOeD7",
+					"display_url": "pic.twitter.com/TtVNxZOeD7",
+					"expanded_url": "https://twitter.com/Natsunokori/status/785785787350519812/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 530,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 662,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 850,
+							"h": 662,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 785785787350519800,
+					"source_status_id_str": "785785787350519812",
+					"source_user_id": 1969146632,
+					"source_user_id_str": "1969146632"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1054,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6433,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 11 10:15:05 +0000 2016",
+			"id": 785785787350519800,
+			"id_str": "785785787350519812",
+			"text": "트위터 의사소통 4신기.\n\n이 4가지 패턴으로 진행됨. https://t.co/TtVNxZOeD7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 785785764034379800,
+						"id_str": "785785764034379776",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/Cuer_TbUAAAS-Pf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cuer_TbUAAAS-Pf.jpg",
+						"url": "https://t.co/TtVNxZOeD7",
+						"display_url": "pic.twitter.com/TtVNxZOeD7",
+						"expanded_url": "https://twitter.com/Natsunokori/status/785785787350519812/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 785785764034379800,
+						"id_str": "785785764034379776",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/Cuer_TbUAAAS-Pf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cuer_TbUAAAS-Pf.jpg",
+						"url": "https://t.co/TtVNxZOeD7",
+						"display_url": "pic.twitter.com/TtVNxZOeD7",
+						"expanded_url": "https://twitter.com/Natsunokori/status/785785787350519812/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 785785768409116700,
+						"id_str": "785785768409116674",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/Cuer_juVMAIJaES.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cuer_juVMAIJaES.jpg",
+						"url": "https://t.co/TtVNxZOeD7",
+						"display_url": "pic.twitter.com/TtVNxZOeD7",
+						"expanded_url": "https://twitter.com/Natsunokori/status/785785787350519812/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 785785772586651600,
+						"id_str": "785785772586651649",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/Cuer_zSVUAEhelc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cuer_zSVUAEhelc.jpg",
+						"url": "https://t.co/TtVNxZOeD7",
+						"display_url": "pic.twitter.com/TtVNxZOeD7",
+						"expanded_url": "https://twitter.com/Natsunokori/status/785785787350519812/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 785785777724624900,
+						"id_str": "785785777724624896",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/CuesAGbUkAATL7o.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuesAGbUkAATL7o.jpg",
+						"url": "https://t.co/TtVNxZOeD7",
+						"display_url": "pic.twitter.com/TtVNxZOeD7",
+						"expanded_url": "https://twitter.com/Natsunokori/status/785785787350519812/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 530,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 850,
+								"h": 662,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 850,
+								"h": 662,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1969146632,
+				"id_str": "1969146632",
+				"name": "Thanako",
+				"screen_name": "Natsunokori",
+				"location": "Thanatos#3363",
+				"description": "섀도우 버스, 하스스톤, 야겜, 오버워치 좋아합니다.",
+				"url": "https://t.co/4slhISyzik",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4slhISyzik",
+								"expanded_url": "http://thanako.tistory.com/",
+								"display_url": "thanako.tistory.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 282,
+				"friends_count": 283,
+				"listed_count": 3,
+				"created_at": "Fri Oct 18 16:06:59 +0000 2013",
+				"favourites_count": 133,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 41065,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/429453409486241792/VpfcKs-O_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/429453409486241792/VpfcKs-O_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1969146632/1391226283",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFF8AD",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 128,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 128,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Oct 12 07:05:55 +0000 2016",
+		"id": 786100570511773700,
+		"id_str": "786100570511773696",
+		"text": "RT @LawBeast: 지금 치카게 같은 타입은 '중2병'으로 분류되지만 당시는 '미스틱'으로 분류되었습니다. 오컬트 캐릭터가 컨셉잡는 게 아니라 진짜로 신비한 캐릭터로 받아들여지던 시기였지요. 그래서 상당히 인기가 많았고 유사 캐릭터도 꽤 있었습…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LawBeast",
+					"name": "LawBeast/일하는 중",
+					"id": 1913591612,
+					"id_str": "1913591612",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1054,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6433,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 11 17:34:13 +0000 2016",
+			"id": 785896297014317000,
+			"id_str": "785896297014317057",
+			"text": "지금 치카게 같은 타입은 '중2병'으로 분류되지만 당시는 '미스틱'으로 분류되었습니다. 오컬트 캐릭터가 컨셉잡는 게 아니라 진짜로 신비한 캐릭터로 받아들여지던 시기였지요. 그래서 상당히 인기가 많았고 유사… https://t.co/GD8fpDHaql",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GD8fpDHaql",
+						"expanded_url": "https://twitter.com/i/web/status/785896297014317057",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1913591612,
+				"id_str": "1913591612",
+				"name": "LawBeast/일하는 중",
+				"screen_name": "LawBeast",
+				"location": "",
+				"description": "변호사. 작가. 불행소녀는 지지 않아!(라노벨) 포춘 하모니(모바일게임) 만들었습니다. 송무와 창작으로 매일을 바쁘게 보내며 월급과 인세의 행복을 누리고 있습니다. lawbeast0@naver.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8401,
+				"friends_count": 539,
+				"listed_count": 91,
+				"created_at": "Sat Sep 28 08:38:36 +0000 2013",
+				"favourites_count": 648,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 33258,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/650259445272834048/Cpz2QlbN.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/650259445272834048/Cpz2QlbN.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715833299160145920/vI47XB-4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715833299160145920/vI47XB-4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1913591612/1459518497",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 785892239713054700,
+			"quoted_status_id_str": "785892239713054721",
+			"quoted_status": {
+				"created_at": "Tue Oct 11 17:18:05 +0000 2016",
+				"id": 785892239713054700,
+				"id_str": "785892239713054721",
+				"text": "시스프리 리얼타임으로 본 아조시들 없나 저 치카게가 왜 인기 1위인지 이해를 못하겠는데...",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1706580540,
+					"id_str": "1706580540",
+					"name": "쵸비",
+					"screen_name": "chobi_chu",
+					"location": "",
+					"description": "[CHoBi/ちょび] 櫻井浩美、あやちーとミンゴス大好き 好きなのを描きます contact:chobi.mingosu@gmail.com　　　　　　 グラブル: @vira_chu",
+					"url": "https://t.co/0bpwCjn3Su",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/0bpwCjn3Su",
+									"expanded_url": "http://pixiv.me/malo29",
+									"display_url": "pixiv.me/malo29",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3298,
+					"friends_count": 579,
+					"listed_count": 72,
+					"created_at": "Wed Aug 28 07:46:49 +0000 2013",
+					"favourites_count": 11761,
+					"utc_offset": 32400,
+					"time_zone": "Seoul",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 62263,
+					"lang": "ko",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "98D1FC",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/659281938180534272/MwUJjekF.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/659281938180534272/MwUJjekF.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/786067873269776385/sRjcf7Jf_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/786067873269776385/sRjcf7Jf_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1706580540/1470899507",
+					"profile_link_color": "7584E6",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "A49A9E",
+					"profile_text_color": "5B7075",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "ko"
+			},
+			"retweet_count": 81,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 785892239713054700,
+		"quoted_status_id_str": "785892239713054721",
+		"retweet_count": 81,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Oct 12 01:49:55 +0000 2016",
 		"id": 786021046788829200,
 		"id_str": "786021046788829184",
