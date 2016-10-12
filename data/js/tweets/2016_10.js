@@ -1,6 +1,358 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Wed Oct 12 08:30:07 +0000 2016",
+		"id": 786121761104339000,
+		"id_str": "786121761104338944",
+		"text": "RT @mirugi_jp: 드왕고가 현재 '나로우계' 소설 중 어떤 것이 출판에 걸맞는지를 판단하는 AI를 개발 중.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mirugi_jp",
+					"name": "mirugi／宣政佑（そん・じょんう）",
+					"id": 134540200,
+					"id_str": "134540200",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1054,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6437,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 12 08:24:26 +0000 2016",
+			"id": 786120327344513000,
+			"id_str": "786120327344513024",
+			"text": "드왕고가 현재 '나로우계' 소설 중 어떤 것이 출판에 걸맞는지를 판단하는 AI를 개발 중.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 786110597658251300,
+			"in_reply_to_status_id_str": "786110597658251264",
+			"in_reply_to_user_id": 134540200,
+			"in_reply_to_user_id_str": "134540200",
+			"in_reply_to_screen_name": "mirugi_jp",
+			"user": {
+				"id": 134540200,
+				"id_str": "134540200",
+				"name": "mirugi／宣政佑（そん・じょんう）",
+				"screen_name": "mirugi_jp",
+				"location": "Gyeonggi-do, Korea",
+				"description": "宣政佑（そん・じょんう＝Seon, Jeong-U）：韓国の漫画・アニメコラムニスト。最近は漫画『ブレイクエイジ』（馬頭ちーめい）韓国語版企画＆国際契約仲介。『ストーリーメーカー』『キャラクターメーカー』『物語の体操』など翻訳。『TOBIO Critiques ♯2』日本語寄稿。 『エロマンガ・スタディーズ』翻訳中。",
+				"url": "https://t.co/cdmSuu7Z8P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cdmSuu7Z8P",
+								"expanded_url": "http://d.hatena.ne.jp/mirugi/about/",
+								"display_url": "d.hatena.ne.jp/mirugi/about/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1538,
+				"friends_count": 559,
+				"listed_count": 66,
+				"created_at": "Sun Apr 18 18:32:17 +0000 2010",
+				"favourites_count": 57,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22804,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/445031047/20090528comicpop22.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/445031047/20090528comicpop22.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/484724499892277250/GsieKQT4_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/484724499892277250/GsieKQT4_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/134540200/1438002304",
+				"profile_link_color": "B40B43",
+				"profile_sidebar_border_color": "CC3366",
+				"profile_sidebar_fill_color": "E5507E",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Oct 12 08:22:39 +0000 2016",
+		"id": 786119878973337600,
+		"id_str": "786119878973337601",
+		"text": "RT @hazuma: ゼロ年代批評というのは、結果的には（これはまったく揶揄でも批判でもなく）、宇野常寛氏ひとりにメジャーデビューを用意できたていどで、それ以外はまともなプレイヤーも読者も作れなかった残念な運動なのだと思う。ぼくはカフェ経営で日々それを身にしみているので、なん…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hazuma",
+					"name": "東浩紀",
+					"id": 9449612,
+					"id_str": "9449612",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1054,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6437,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 22 10:43:27 +0000 2015",
+			"id": 579594228579205100,
+			"id_str": "579594228579205120",
+			"text": "ゼロ年代批評というのは、結果的には（これはまったく揶揄でも批判でもなく）、宇野常寛氏ひとりにメジャーデビューを用意できたていどで、それ以外はまともなプレイヤーも読者も作れなかった残念な運動なのだと思う。ぼくはカフェ経営で日々それを身にしみているので、なんとか立て直したいわけです。",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9449612,
+				"id_str": "9449612",
+				"name": "東浩紀",
+				"screen_name": "hazuma",
+				"location": "東京、五反田",
+				"description": "ちょっとやる気でてきたでござる。メールは会社にください。英語アカウント @hazuma_en",
+				"url": "https://t.co/pAEd9EkIK7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pAEd9EkIK7",
+								"expanded_url": "http://genron-tomonokai.com/",
+								"display_url": "genron-tomonokai.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 170705,
+				"friends_count": 194,
+				"listed_count": 11289,
+				"created_at": "Mon Oct 15 06:00:32 +0000 2007",
+				"favourites_count": 377,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 97315,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/217398863/_robotkun3.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/217398863/_robotkun3.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3381711564/5843b8e273ea640628a8fecac2a5b349_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3381711564/5843b8e273ea640628a8fecac2a5b349_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9449612/1447330836",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 37,
+			"favorite_count": 65,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Wed Oct 12 07:49:12 +0000 2016",
 		"id": 786111462955749400,
 		"id_str": "786111462955749376",
