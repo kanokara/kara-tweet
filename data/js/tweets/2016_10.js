@@ -1,6 +1,487 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Thu Oct 13 20:22:07 +0000 2016",
+		"id": 786663326445019100,
+		"id_str": "786663326445019137",
+		"text": "RT @Kairi_Info_Kr: 그와중에 일전에 몇번이나 이야기가 나왔던 괴밀아 VR이.............. https://t.co/nzC1XvWHAG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kairi_Info_Kr",
+					"name": "괴밀아 정보봇",
+					"id": 2964809820,
+					"id_str": "2964809820",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 771343780452589600,
+					"id_str": "771343780452589568",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/CrRdFOGVYAAtyrJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CrRdFOGVYAAtyrJ.jpg",
+					"url": "https://t.co/nzC1XvWHAG",
+					"display_url": "pic.twitter.com/nzC1XvWHAG",
+					"expanded_url": "https://twitter.com/Kairi_Info_Kr/status/771343905023340544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 771343905023340500,
+					"source_status_id_str": "771343905023340544",
+					"source_user_id": 2964809820,
+					"source_user_id_str": "2964809820"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 771343780452589600,
+					"id_str": "771343780452589568",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/CrRdFOGVYAAtyrJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CrRdFOGVYAAtyrJ.jpg",
+					"url": "https://t.co/nzC1XvWHAG",
+					"display_url": "pic.twitter.com/nzC1XvWHAG",
+					"expanded_url": "https://twitter.com/Kairi_Info_Kr/status/771343905023340544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 771343905023340500,
+					"source_status_id_str": "771343905023340544",
+					"source_user_id": 2964809820,
+					"source_user_id_str": "2964809820"
+				},
+				{
+					"id": 771343780532281300,
+					"id_str": "771343780532281344",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/CrRdFOZVYAAYFCq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CrRdFOZVYAAYFCq.jpg",
+					"url": "https://t.co/nzC1XvWHAG",
+					"display_url": "pic.twitter.com/nzC1XvWHAG",
+					"expanded_url": "https://twitter.com/Kairi_Info_Kr/status/771343905023340544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 616,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 409,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 616,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 771343905023340500,
+					"source_status_id_str": "771343905023340544",
+					"source_user_id": 2964809820,
+					"source_user_id_str": "2964809820"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 75,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1051,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6477,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 01 13:48:12 +0000 2016",
+			"id": 771343905023340500,
+			"id_str": "771343905023340544",
+			"text": "그와중에 일전에 몇번이나 이야기가 나왔던 괴밀아 VR이.............. https://t.co/nzC1XvWHAG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 771343780452589600,
+						"id_str": "771343780452589568",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/CrRdFOGVYAAtyrJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CrRdFOGVYAAtyrJ.jpg",
+						"url": "https://t.co/nzC1XvWHAG",
+						"display_url": "pic.twitter.com/nzC1XvWHAG",
+						"expanded_url": "https://twitter.com/Kairi_Info_Kr/status/771343905023340544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 771343780452589600,
+						"id_str": "771343780452589568",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/CrRdFOGVYAAtyrJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CrRdFOGVYAAtyrJ.jpg",
+						"url": "https://t.co/nzC1XvWHAG",
+						"display_url": "pic.twitter.com/nzC1XvWHAG",
+						"expanded_url": "https://twitter.com/Kairi_Info_Kr/status/771343905023340544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 771343780532281300,
+						"id_str": "771343780532281344",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/CrRdFOZVYAAYFCq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CrRdFOZVYAAYFCq.jpg",
+						"url": "https://t.co/nzC1XvWHAG",
+						"display_url": "pic.twitter.com/nzC1XvWHAG",
+						"expanded_url": "https://twitter.com/Kairi_Info_Kr/status/771343905023340544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 616,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 409,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 616,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2964809820,
+				"id_str": "2964809820",
+				"name": "괴밀아 정보봇",
+				"screen_name": "Kairi_Info_Kr",
+				"location": "훈련성 어딘가에서",
+				"description": "괴밀아에 대한 정보를 다루고 있습니다. 2+1명의 관리자가 가끔씩 농담도 합니다. 해치지 않아요",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1065,
+				"friends_count": 3,
+				"listed_count": 7,
+				"created_at": "Thu Jan 08 03:24:09 +0000 2015",
+				"favourites_count": 8,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11503,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/716076801756307456/8rSChMPQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/716076801756307456/8rSChMPQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2964809820/1473864578",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Oct 13 20:18:15 +0000 2016",
+		"id": 786662355140829200,
+		"id_str": "786662355140829184",
+		"text": "VR이 발달할수록 이야기의 전면적인 쇠퇴/변용이 가시권에 들어오는 것 같아서 불안.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 786659672719822800,
+		"in_reply_to_status_id_str": "786659672719822848",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 75,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1051,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6477,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Oct 13 20:07:36 +0000 2016",
 		"id": 786659672719822800,
 		"id_str": "786659672719822848",
