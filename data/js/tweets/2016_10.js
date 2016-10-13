@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Thu Oct 13 02:41:01 +0000 2016",
+		"id": 786396293438464000,
+		"id_str": "786396293438464000",
+		"text": "RT @philoelectroray: 출판사의 납세/회계 업무를 원활하게 할 윈도우 탑재 랩탑을 하나 구매했습니다. 생각보다 저렴하군요. 한성컴퓨터의 &lt;가젯북&gt;, 지마켓에서 219,000원에 판매 중입니다. https://t.co/hrXmCzPn3J",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "philoelectroray",
+					"name": "전기가오리",
+					"id": 753464137263394800,
+					"id_str": "753464137263394816",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 786375715918745600,
+					"id_str": "786375715918745600",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/CunEjBdUkAAfOer.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CunEjBdUkAAfOer.jpg",
+					"url": "https://t.co/hrXmCzPn3J",
+					"display_url": "pic.twitter.com/hrXmCzPn3J",
+					"expanded_url": "https://twitter.com/philoelectroray/status/786375731844493313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 786375731844493300,
+					"source_status_id_str": "786375731844493313",
+					"source_user_id": 753464137263394800,
+					"source_user_id_str": "753464137263394816"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 786375715918745600,
+					"id_str": "786375715918745600",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/CunEjBdUkAAfOer.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CunEjBdUkAAfOer.jpg",
+					"url": "https://t.co/hrXmCzPn3J",
+					"display_url": "pic.twitter.com/hrXmCzPn3J",
+					"expanded_url": "https://twitter.com/philoelectroray/status/786375731844493313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 786375731844493300,
+					"source_status_id_str": "786375731844493313",
+					"source_user_id": 753464137263394800,
+					"source_user_id_str": "753464137263394816"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 75,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1050,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6445,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 13 01:19:19 +0000 2016",
+			"id": 786375731844493300,
+			"id_str": "786375731844493313",
+			"text": "출판사의 납세/회계 업무를 원활하게 할 윈도우 탑재 랩탑을 하나 구매했습니다. 생각보다 저렴하군요. 한성컴퓨터의 &lt;가젯북&gt;, 지마켓에서 219,000원에 판매 중입니다. https://t.co/hrXmCzPn3J",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 786375715918745600,
+						"id_str": "786375715918745600",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/CunEjBdUkAAfOer.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CunEjBdUkAAfOer.jpg",
+						"url": "https://t.co/hrXmCzPn3J",
+						"display_url": "pic.twitter.com/hrXmCzPn3J",
+						"expanded_url": "https://twitter.com/philoelectroray/status/786375731844493313/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 786375715918745600,
+						"id_str": "786375715918745600",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/CunEjBdUkAAfOer.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CunEjBdUkAAfOer.jpg",
+						"url": "https://t.co/hrXmCzPn3J",
+						"display_url": "pic.twitter.com/hrXmCzPn3J",
+						"expanded_url": "https://twitter.com/philoelectroray/status/786375731844493313/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 753464137263394800,
+				"id_str": "753464137263394816",
+				"name": "전기가오리",
+				"screen_name": "philoelectroray",
+				"location": "Seoul, Republic of Korea",
+				"description": "서양 철학을 함께 공부하고 관련 문헌을 번역 출판하는 출판사 '전기가오리'입니다. 코헨의 「아리스토텔레스의 형이상학」을 첫 책으로 출간했습니다. 공부 모임에 대한 문의도 늘 환영합니다.",
+				"url": "https://t.co/1BhBXzn9bH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1BhBXzn9bH",
+								"expanded_url": "http://philo-electro-ray.org",
+								"display_url": "philo-electro-ray.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 568,
+				"friends_count": 548,
+				"listed_count": 5,
+				"created_at": "Thu Jul 14 05:40:23 +0000 2016",
+				"favourites_count": 0,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 226,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/758822289446055938/VTeex9ZO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/758822289446055938/VTeex9ZO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/753464137263394816/1471322076",
+				"profile_link_color": "2B7BB9",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Oct 12 23:24:46 +0000 2016",
 		"id": 786346903722012700,
 		"id_str": "786346903722012672",
