@@ -1,6 +1,608 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sat Oct 15 01:57:16 +0000 2016",
+		"id": 787110059121647600,
+		"id_str": "787110059121647617",
+		"text": "RT @mi_ku: NHK 월드\n\n일본어 첫걸음\n\nhttps://t.co/3R3sznClD3\n\n백합 성분이 가득해서 보기 좋다 https://t.co/SpvADjbRs7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mi_ku",
+					"name": "'유시'tic; Nine",
+					"id": 48946191,
+					"id_str": "48946191",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3R3sznClD3",
+					"expanded_url": "http://www.nhk.or.jp/lesson/korean/learn/list/",
+					"display_url": "nhk.or.jp/lesson/korean/…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 786910946199347200,
+					"id_str": "786910946199347200",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/CuurVhoUIAA2OVB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuurVhoUIAA2OVB.jpg",
+					"url": "https://t.co/SpvADjbRs7",
+					"display_url": "pic.twitter.com/SpvADjbRs7",
+					"expanded_url": "https://twitter.com/mi_ku/status/786911169936187397/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 315,
+							"h": 227,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 315,
+							"h": 227,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 315,
+							"h": 227,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 786911169936187400,
+					"source_status_id_str": "786911169936187397",
+					"source_user_id": 48946191,
+					"source_user_id_str": "48946191"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 786910946199347200,
+					"id_str": "786910946199347200",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/CuurVhoUIAA2OVB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuurVhoUIAA2OVB.jpg",
+					"url": "https://t.co/SpvADjbRs7",
+					"display_url": "pic.twitter.com/SpvADjbRs7",
+					"expanded_url": "https://twitter.com/mi_ku/status/786911169936187397/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 315,
+							"h": 227,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 315,
+							"h": 227,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 315,
+							"h": 227,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 786911169936187400,
+					"source_status_id_str": "786911169936187397",
+					"source_user_id": 48946191,
+					"source_user_id_str": "48946191"
+				},
+				{
+					"id": 786911004269568000,
+					"id_str": "786911004269568002",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/CuurY59VYAIV6Mc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuurY59VYAIV6Mc.jpg",
+					"url": "https://t.co/SpvADjbRs7",
+					"display_url": "pic.twitter.com/SpvADjbRs7",
+					"expanded_url": "https://twitter.com/mi_ku/status/786911169936187397/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 310,
+							"h": 243,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 310,
+							"h": 243,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 310,
+							"h": 243,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 786911169936187400,
+					"source_status_id_str": "786911169936187397",
+					"source_user_id": 48946191,
+					"source_user_id_str": "48946191"
+				},
+				{
+					"id": 786911090693197800,
+					"id_str": "786911090693197824",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/Cuurd76VUAAPSZJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cuurd76VUAAPSZJ.jpg",
+					"url": "https://t.co/SpvADjbRs7",
+					"display_url": "pic.twitter.com/SpvADjbRs7",
+					"expanded_url": "https://twitter.com/mi_ku/status/786911169936187397/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 313,
+							"h": 232,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 313,
+							"h": 232,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 313,
+							"h": 232,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 786911169936187400,
+					"source_status_id_str": "786911169936187397",
+					"source_user_id": 48946191,
+					"source_user_id_str": "48946191"
+				},
+				{
+					"id": 786911146603270100,
+					"id_str": "786911146603270145",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/CuurhMMVUAEYwMf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuurhMMVUAEYwMf.jpg",
+					"url": "https://t.co/SpvADjbRs7",
+					"display_url": "pic.twitter.com/SpvADjbRs7",
+					"expanded_url": "https://twitter.com/mi_ku/status/786911169936187397/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 325,
+							"h": 255,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 325,
+							"h": 255,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 325,
+							"h": 255,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 786911169936187400,
+					"source_status_id_str": "786911169936187397",
+					"source_user_id": 48946191,
+					"source_user_id_str": "48946191"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1051,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6508,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 14 12:46:57 +0000 2016",
+			"id": 786911169936187400,
+			"id_str": "786911169936187397",
+			"text": "NHK 월드\n\n일본어 첫걸음\n\nhttps://t.co/3R3sznClD3\n\n백합 성분이 가득해서 보기 좋다 https://t.co/SpvADjbRs7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3R3sznClD3",
+						"expanded_url": "http://www.nhk.or.jp/lesson/korean/learn/list/",
+						"display_url": "nhk.or.jp/lesson/korean/…",
+						"indices": [
+							17,
+							40
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 786910946199347200,
+						"id_str": "786910946199347200",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/CuurVhoUIAA2OVB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuurVhoUIAA2OVB.jpg",
+						"url": "https://t.co/SpvADjbRs7",
+						"display_url": "pic.twitter.com/SpvADjbRs7",
+						"expanded_url": "https://twitter.com/mi_ku/status/786911169936187397/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 315,
+								"h": 227,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 315,
+								"h": 227,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 315,
+								"h": 227,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 786910946199347200,
+						"id_str": "786910946199347200",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/CuurVhoUIAA2OVB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuurVhoUIAA2OVB.jpg",
+						"url": "https://t.co/SpvADjbRs7",
+						"display_url": "pic.twitter.com/SpvADjbRs7",
+						"expanded_url": "https://twitter.com/mi_ku/status/786911169936187397/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 315,
+								"h": 227,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 315,
+								"h": 227,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 315,
+								"h": 227,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 786911004269568000,
+						"id_str": "786911004269568002",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/CuurY59VYAIV6Mc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuurY59VYAIV6Mc.jpg",
+						"url": "https://t.co/SpvADjbRs7",
+						"display_url": "pic.twitter.com/SpvADjbRs7",
+						"expanded_url": "https://twitter.com/mi_ku/status/786911169936187397/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 310,
+								"h": 243,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 310,
+								"h": 243,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 310,
+								"h": 243,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 786911090693197800,
+						"id_str": "786911090693197824",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/Cuurd76VUAAPSZJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cuurd76VUAAPSZJ.jpg",
+						"url": "https://t.co/SpvADjbRs7",
+						"display_url": "pic.twitter.com/SpvADjbRs7",
+						"expanded_url": "https://twitter.com/mi_ku/status/786911169936187397/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 313,
+								"h": 232,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 313,
+								"h": 232,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 313,
+								"h": 232,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 786911146603270100,
+						"id_str": "786911146603270145",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/media/CuurhMMVUAEYwMf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CuurhMMVUAEYwMf.jpg",
+						"url": "https://t.co/SpvADjbRs7",
+						"display_url": "pic.twitter.com/SpvADjbRs7",
+						"expanded_url": "https://twitter.com/mi_ku/status/786911169936187397/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 325,
+								"h": 255,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 325,
+								"h": 255,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 325,
+								"h": 255,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 48946191,
+				"id_str": "48946191",
+				"name": "'유시'tic; Nine",
+				"screen_name": "mi_ku",
+				"location": "나는 오늘도 훌륭하게 귀엽고 사랑스러운 쓰레기다",
+				"description": "트윗 수 많습니다. 메인트윗 꼭 봐주세요. /고수후레/파오후 /남자 /사진본인 / 그림그림 / 게임함 / 140자 연애소설 [#강의실 , #교실 , #자기야 , #악당과_꼬마 , #건전한_서큐버스 #마비썰 ] dmsdbtl@gmail.com / https://t.co/0gMNpLkJbr",
+				"url": "https://t.co/RlBMNn3pZL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RlBMNn3pZL",
+								"expanded_url": "http://johnsu.deviantart.com/art/Halfne-Miku-Studio-396850314",
+								"display_url": "johnsu.deviantart.com/art/Halfne-Mik…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/0gMNpLkJbr",
+								"expanded_url": "http://ask.fm/miku509",
+								"display_url": "ask.fm/miku509",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2043,
+				"friends_count": 2288,
+				"listed_count": 37,
+				"created_at": "Sat Jun 20 06:37:07 +0000 2009",
+				"favourites_count": 4192,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 424382,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/785072457690419200/zeWVK3tt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/785072457690419200/zeWVK3tt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/48946191/1466939325",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 146,
+			"favorite_count": 79,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 146,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Oct 15 01:12:56 +0000 2016",
 		"id": 787098903162163200,
 		"id_str": "787098903162163201",
