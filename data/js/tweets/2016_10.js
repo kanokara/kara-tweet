@@ -1,6 +1,1679 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sat Oct 15 13:52:15 +0000 2016",
+		"id": 787289989071540200,
+		"id_str": "787289989071540224",
+		"text": "공무원 조직이 방만하다고 해서 어설프게 성과급제 도입한다는 건 시장과 국가 제도를 구분 못하는 처사고.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 787289286051627000,
+		"in_reply_to_status_id_str": "787289286051627009",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1052,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6541,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Oct 15 13:49:27 +0000 2016",
+		"id": 787289286051627000,
+		"id_str": "787289286051627009",
+		"text": "공산주의 붕괴의 이유를 조별과제의 예를 들어 개인에게로 돌리는 건 외환위기가 개인들의 사치와 향락으로 인해 찾아왔다는 것과 다를 바 없죠.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1052,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6541,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Oct 15 13:32:56 +0000 2016",
+		"id": 787285127982297100,
+		"id_str": "787285127982297088",
+		"text": "RT @Biddunggi: 이 영상들을 같은 맥락이라고 지적한 이유는 무언가에 대한 형식과 절차가 공허한 껍데기라는 느낌을 받았기 때문이다. 형식과 절차가 철저하지만 그것이 만들어진 목적을 위해서가 아니라 사회의 평온을 유지하기 위한 미봉책이라는 느…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Biddunggi",
+					"name": "비둥기",
+					"id": 197488852,
+					"id_str": "197488852",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1052,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6541,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 15 11:20:05 +0000 2016",
+			"id": 787251698293051400,
+			"id_str": "787251698293051392",
+			"text": "이 영상들을 같은 맥락이라고 지적한 이유는 무언가에 대한 형식과 절차가 공허한 껍데기라는 느낌을 받았기 때문이다. 형식과 절차가 철저하지만 그것이 만들어진 목적을 위해서가 아니라 사회의 평온을 유지하기 위한 미봉책이라는 느낌.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 787249832121380900,
+			"in_reply_to_status_id_str": "787249832121380864",
+			"in_reply_to_user_id": 197488852,
+			"in_reply_to_user_id_str": "197488852",
+			"in_reply_to_screen_name": "Biddunggi",
+			"user": {
+				"id": 197488852,
+				"id_str": "197488852",
+				"name": "비둥기",
+				"screen_name": "Biddunggi",
+				"location": "Neutral",
+				"description": "장래희망은 미모리 스즈코입니다. (프사는 @MADCAT135 님이 그려주셨습니다)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1128,
+				"friends_count": 391,
+				"listed_count": 58,
+				"created_at": "Fri Oct 01 16:51:45 +0000 2010",
+				"favourites_count": 965,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 218505,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000156194652/-mUxhabD.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000156194652/-mUxhabD.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/757956479986970624/jQ6bspSf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/757956479986970624/jQ6bspSf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/197488852/1443659382",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E5507E",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Oct 15 13:32:52 +0000 2016",
+		"id": 787285111989411800,
+		"id_str": "787285111989411840",
+		"text": "RT @Biddunggi: 이건 신분증 제시요구를 거부했을 때 경관이 사람을 교묘하게 쓰러트리고 \"사람이 쓰러졌다\"며 응급상황을 선언한 뒤 정신이 있어 완강히 거부하는데도 맥박을 잰다며 안주머니에서 신분증을 꺼내 신분을 확인하는 수법 https://…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Biddunggi",
+					"name": "비둥기",
+					"id": 197488852,
+					"id_str": "197488852",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1052,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6541,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 15 11:12:41 +0000 2016",
+			"id": 787249832121380900,
+			"id_str": "787249832121380864",
+			"text": "이건 신분증 제시요구를 거부했을 때 경관이 사람을 교묘하게 쓰러트리고 \"사람이 쓰러졌다\"며 응급상황을 선언한 뒤 정신이 있어 완강히 거부하는데도 맥박을 잰다며 안주머니에서 신분증을 꺼내 신분을 확인하는 수법 https://t.co/P8IiaHJCyh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/P8IiaHJCyh",
+						"expanded_url": "https://twitter.com/Bulldog_noh8/status/770164331338006528",
+						"display_url": "twitter.com/Bulldog_noh8/s…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 787246639425556500,
+			"in_reply_to_status_id_str": "787246639425556480",
+			"in_reply_to_user_id": 197488852,
+			"in_reply_to_user_id_str": "197488852",
+			"in_reply_to_screen_name": "Biddunggi",
+			"user": {
+				"id": 197488852,
+				"id_str": "197488852",
+				"name": "비둥기",
+				"screen_name": "Biddunggi",
+				"location": "Neutral",
+				"description": "장래희망은 미모리 스즈코입니다. (프사는 @MADCAT135 님이 그려주셨습니다)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1128,
+				"friends_count": 391,
+				"listed_count": 58,
+				"created_at": "Fri Oct 01 16:51:45 +0000 2010",
+				"favourites_count": 965,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 218505,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000156194652/-mUxhabD.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000156194652/-mUxhabD.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/757956479986970624/jQ6bspSf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/757956479986970624/jQ6bspSf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/197488852/1443659382",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E5507E",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 770164331338006500,
+			"quoted_status_id_str": "770164331338006528",
+			"quoted_status": {
+				"created_at": "Mon Aug 29 07:41:00 +0000 2016",
+				"id": 770164331338006500,
+				"id_str": "770164331338006528",
+				"text": "これが、公安が、倒れて頭を打った（というか「倒して」「頭を打たせた」）人間の胸ポケットから、どさくさ紛れに身分証や手帳を抜こうとするところ。\nこのシーンも とても貴重。この現場の公安は所持品押収の令状を持っていなかったから。 https://t.co/kRPEWWgzeZ",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 770163132975026200,
+							"id_str": "770163132975026176",
+							"indices": [
+								113,
+								136
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/770163132975026176/pu/img/Uur5ts8O_d7UvH7h.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/770163132975026176/pu/img/Uur5ts8O_d7UvH7h.jpg",
+							"url": "https://t.co/kRPEWWgzeZ",
+							"display_url": "pic.twitter.com/kRPEWWgzeZ",
+							"expanded_url": "https://twitter.com/Bulldog_noh8/status/770164331338006528/video/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 600,
+									"h": 338,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 191,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1024,
+									"h": 576,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 770163132975026200,
+							"id_str": "770163132975026176",
+							"indices": [
+								113,
+								136
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/770163132975026176/pu/img/Uur5ts8O_d7UvH7h.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/770163132975026176/pu/img/Uur5ts8O_d7UvH7h.jpg",
+							"url": "https://t.co/kRPEWWgzeZ",
+							"display_url": "pic.twitter.com/kRPEWWgzeZ",
+							"expanded_url": "https://twitter.com/Bulldog_noh8/status/770164331338006528/video/1",
+							"type": "video",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 600,
+									"h": 338,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 340,
+									"h": 191,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1024,
+									"h": 576,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									16,
+									9
+								],
+								"duration_millis": 44945,
+								"variants": [
+									{
+										"content_type": "application/dash+xml",
+										"url": "https://video.twimg.com/ext_tw_video/770163132975026176/pu/pl/XACc_ae43Mq1nJz8.mpd"
+									},
+									{
+										"bitrate": 2176000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/770163132975026176/pu/vid/1280x720/pg3iWgKCq9HHR1A1.mp4"
+									},
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/ext_tw_video/770163132975026176/pu/pl/XACc_ae43Mq1nJz8.m3u8"
+									},
+									{
+										"bitrate": 320000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/770163132975026176/pu/vid/320x180/xDbJhba2FUiHnR2z.mp4"
+									},
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/770163132975026176/pu/vid/640x360/6PHUuBlhNM3FFs9L.mp4"
+									}
+								]
+							},
+							"additional_media_info": {
+								"monetizable": false
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": 769516828347379700,
+				"in_reply_to_status_id_str": "769516828347379716",
+				"in_reply_to_user_id": 3307659637,
+				"in_reply_to_user_id_str": "3307659637",
+				"in_reply_to_screen_name": "Bulldog_noh8",
+				"user": {
+					"id": 3307659637,
+					"id_str": "3307659637",
+					"name": "ブルドッグ",
+					"screen_name": "Bulldog_noh8",
+					"location": "東京都 千代田区",
+					"description": "Akira Kanda. 写真を撮りに行くのが趣味です。署名の件ではみなさんお世話になりました！",
+					"url": "http://t.co/IME2WPNRpH",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/IME2WPNRpH",
+									"expanded_url": "http://bulldog-noh8.tumblr.com/",
+									"display_url": "bulldog-noh8.tumblr.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 2598,
+					"friends_count": 439,
+					"listed_count": 60,
+					"created_at": "Thu Aug 06 08:11:03 +0000 2015",
+					"favourites_count": 427,
+					"utc_offset": 32400,
+					"time_zone": "Tokyo",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 8532,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/629204206130311168/kWi5akzi_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/629204206130311168/kWi5akzi_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/3307659637/1438849668",
+					"profile_link_color": "89C9FA",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1171,
+				"favorite_count": 495,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "ja"
+			},
+			"retweet_count": 53,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 770164331338006500,
+		"quoted_status_id_str": "770164331338006528",
+		"retweet_count": 53,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Oct 15 13:32:49 +0000 2016",
+		"id": 787285098437615600,
+		"id_str": "787285098437615616",
+		"text": "RT @Biddunggi: 올빼미님 트윗 RT하기 전에 RT한 동영상도 같은 맥락에서 해석될 수 있다고 생각. 일본 경찰관이 옴진리교 신자를 체포하고 싶은데 영장이 없어서 체포할 수 없을 때 일부러 용의자에게 다가가 쓰러지는 척 해서 공무집행 방해로…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Biddunggi",
+					"name": "비둥기",
+					"id": 197488852,
+					"id_str": "197488852",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1052,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6541,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 15 10:57:48 +0000 2016",
+			"id": 787246087442538500,
+			"id_str": "787246087442538496",
+			"text": "올빼미님 트윗 RT하기 전에 RT한 동영상도 같은 맥락에서 해석될 수 있다고 생각. 일본 경찰관이 옴진리교 신자를 체포하고 싶은데 영장이 없어서 체포할 수 없을 때 일부러 용의자에게 다가가 쓰러지는 척 해서 공무집행 방해로 체포하는 것.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 197488852,
+				"id_str": "197488852",
+				"name": "비둥기",
+				"screen_name": "Biddunggi",
+				"location": "Neutral",
+				"description": "장래희망은 미모리 스즈코입니다. (프사는 @MADCAT135 님이 그려주셨습니다)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1128,
+				"friends_count": 391,
+				"listed_count": 58,
+				"created_at": "Fri Oct 01 16:51:45 +0000 2010",
+				"favourites_count": 965,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 218505,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000156194652/-mUxhabD.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000156194652/-mUxhabD.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/757956479986970624/jQ6bspSf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/757956479986970624/jQ6bspSf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/197488852/1443659382",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E5507E",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Oct 15 13:30:43 +0000 2016",
+		"id": 787284572601880600,
+		"id_str": "787284572601880576",
+		"text": "RT @Bulldog_noh8: 該当のシーンはYoutubeにアップされてますね→ https://t.co/qMCdZxYFeH このドキュメンタリー自体は大きめのTSUTAYAなどでレンタルできます👌 RT @waaldpeace5: お邪魔します。YOUTUBEなどに…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bulldog_noh8",
+					"name": "ブルドッグ",
+					"id": 3307659637,
+					"id_str": "3307659637",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "waaldpeace5",
+					"name": "waaldpeace5",
+					"id": 756262200,
+					"id_str": "756262200",
+					"indices": [
+						108,
+						120
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qMCdZxYFeH",
+					"expanded_url": "https://youtu.be/6C-vFbO7rIg",
+					"display_url": "youtu.be/6C-vFbO7rIg",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1052,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6541,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 30 06:55:00 +0000 2016",
+			"id": 770515143578878000,
+			"id_str": "770515143578877952",
+			"text": "該当のシーンはYoutubeにアップされてますね→ https://t.co/qMCdZxYFeH このドキュメンタリー自体は大きめのTSUTAYAなどでレンタルできます👌 RT @waaldpeace5: お邪魔します。YOUTUBEなどにこの動画ありますか？",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "waaldpeace5",
+						"name": "waaldpeace5",
+						"id": 756262200,
+						"id_str": "756262200",
+						"indices": [
+							90,
+							102
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/qMCdZxYFeH",
+						"expanded_url": "https://youtu.be/6C-vFbO7rIg",
+						"display_url": "youtu.be/6C-vFbO7rIg",
+						"indices": [
+							26,
+							49
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 770480474712076300,
+			"in_reply_to_status_id_str": "770480474712076288",
+			"in_reply_to_user_id": 756262200,
+			"in_reply_to_user_id_str": "756262200",
+			"in_reply_to_screen_name": "waaldpeace5",
+			"user": {
+				"id": 3307659637,
+				"id_str": "3307659637",
+				"name": "ブルドッグ",
+				"screen_name": "Bulldog_noh8",
+				"location": "東京都 千代田区",
+				"description": "Akira Kanda. 写真を撮りに行くのが趣味です。署名の件ではみなさんお世話になりました！",
+				"url": "http://t.co/IME2WPNRpH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/IME2WPNRpH",
+								"expanded_url": "http://bulldog-noh8.tumblr.com/",
+								"display_url": "bulldog-noh8.tumblr.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2598,
+				"friends_count": 439,
+				"listed_count": 60,
+				"created_at": "Thu Aug 06 08:11:03 +0000 2015",
+				"favourites_count": 427,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8532,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/629204206130311168/kWi5akzi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/629204206130311168/kWi5akzi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3307659637/1438849668",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Sat Oct 15 13:30:19 +0000 2016",
+		"id": 787284471640764400,
+		"id_str": "787284471640764416",
+		"text": "RT @Bulldog_noh8: これが、公安が、倒れて頭を打った（というか「倒して」「頭を打たせた」）人間の胸ポケットから、どさくさ紛れに身分証や手帳を抜こうとするところ。\nこのシーンも とても貴重。この現場の公安は所持品押収の令状を持っていなかったから。 https://…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bulldog_noh8",
+					"name": "ブルドッグ",
+					"id": 3307659637,
+					"id_str": "3307659637",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1052,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6541,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 29 07:41:00 +0000 2016",
+			"id": 770164331338006500,
+			"id_str": "770164331338006528",
+			"text": "これが、公安が、倒れて頭を打った（というか「倒して」「頭を打たせた」）人間の胸ポケットから、どさくさ紛れに身分証や手帳を抜こうとするところ。\nこのシーンも とても貴重。この現場の公安は所持品押収の令状を持っていなかったから。 https://t.co/kRPEWWgzeZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 770163132975026200,
+						"id_str": "770163132975026176",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/770163132975026176/pu/img/Uur5ts8O_d7UvH7h.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/770163132975026176/pu/img/Uur5ts8O_d7UvH7h.jpg",
+						"url": "https://t.co/kRPEWWgzeZ",
+						"display_url": "pic.twitter.com/kRPEWWgzeZ",
+						"expanded_url": "https://twitter.com/Bulldog_noh8/status/770164331338006528/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 770163132975026200,
+						"id_str": "770163132975026176",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/770163132975026176/pu/img/Uur5ts8O_d7UvH7h.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/770163132975026176/pu/img/Uur5ts8O_d7UvH7h.jpg",
+						"url": "https://t.co/kRPEWWgzeZ",
+						"display_url": "pic.twitter.com/kRPEWWgzeZ",
+						"expanded_url": "https://twitter.com/Bulldog_noh8/status/770164331338006528/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 44945,
+							"variants": [
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/770163132975026176/pu/pl/XACc_ae43Mq1nJz8.mpd"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/770163132975026176/pu/vid/1280x720/pg3iWgKCq9HHR1A1.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/770163132975026176/pu/pl/XACc_ae43Mq1nJz8.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/770163132975026176/pu/vid/320x180/xDbJhba2FUiHnR2z.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/770163132975026176/pu/vid/640x360/6PHUuBlhNM3FFs9L.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 769516828347379700,
+			"in_reply_to_status_id_str": "769516828347379716",
+			"in_reply_to_user_id": 3307659637,
+			"in_reply_to_user_id_str": "3307659637",
+			"in_reply_to_screen_name": "Bulldog_noh8",
+			"user": {
+				"id": 3307659637,
+				"id_str": "3307659637",
+				"name": "ブルドッグ",
+				"screen_name": "Bulldog_noh8",
+				"location": "東京都 千代田区",
+				"description": "Akira Kanda. 写真を撮りに行くのが趣味です。署名の件ではみなさんお世話になりました！",
+				"url": "http://t.co/IME2WPNRpH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/IME2WPNRpH",
+								"expanded_url": "http://bulldog-noh8.tumblr.com/",
+								"display_url": "bulldog-noh8.tumblr.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2598,
+				"friends_count": 439,
+				"listed_count": 60,
+				"created_at": "Thu Aug 06 08:11:03 +0000 2015",
+				"favourites_count": 427,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8532,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/629204206130311168/kWi5akzi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/629204206130311168/kWi5akzi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3307659637/1438849668",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1171,
+			"favorite_count": 495,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1171,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Sat Oct 15 13:30:15 +0000 2016",
+		"id": 787284454863614000,
+		"id_str": "787284454863613952",
+		"text": "RT @Bulldog_noh8: 【転び公妨（警察が逮捕したい相手の前で勝手に転んで逮捕）】が歴史上 一番キレイに撮れてるのはコレ。\n森達也監督がオウム信者を追うドキュメンタリーを撮ってて、偶然 撮れたシーン。現場の公安は森監督を身内の撮影班だと勘違いしてた。奇跡。 http…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bulldog_noh8",
+					"name": "ブルドッグ",
+					"id": 3307659637,
+					"id_str": "3307659637",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1052,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6541,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 27 12:48:03 +0000 2016",
+			"id": 769516828347379700,
+			"id_str": "769516828347379716",
+			"text": "【転び公妨（警察が逮捕したい相手の前で勝手に転んで逮捕）】が歴史上 一番キレイに撮れてるのはコレ。\n森達也監督がオウム信者を追うドキュメンタリーを撮ってて、偶然 撮れたシーン。現場の公安は森監督を身内の撮影班だと勘違いしてた。奇跡。 https://t.co/OTd3GxovYp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 769513072348115000,
+						"id_str": "769513072348114944",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/769513072348114944/pu/img/3Nl3h2EIcBMwkMRY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/769513072348114944/pu/img/3Nl3h2EIcBMwkMRY.jpg",
+						"url": "https://t.co/OTd3GxovYp",
+						"display_url": "pic.twitter.com/OTd3GxovYp",
+						"expanded_url": "https://twitter.com/Bulldog_noh8/status/769516828347379716/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 769513072348115000,
+						"id_str": "769513072348114944",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/769513072348114944/pu/img/3Nl3h2EIcBMwkMRY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/769513072348114944/pu/img/3Nl3h2EIcBMwkMRY.jpg",
+						"url": "https://t.co/OTd3GxovYp",
+						"display_url": "pic.twitter.com/OTd3GxovYp",
+						"expanded_url": "https://twitter.com/Bulldog_noh8/status/769516828347379716/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 37504,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/769513072348114944/pu/vid/320x180/7CZt1QdZSpgMFr3_.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/769513072348114944/pu/pl/7_pL8aDc2ig2kr7_.m3u8"
+								},
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/769513072348114944/pu/pl/7_pL8aDc2ig2kr7_.mpd"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/769513072348114944/pu/vid/1280x720/Q4V37sb7HRB1rti_.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/769513072348114944/pu/vid/640x360/fXSVoGX7_Nav9urO.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3307659637,
+				"id_str": "3307659637",
+				"name": "ブルドッグ",
+				"screen_name": "Bulldog_noh8",
+				"location": "東京都 千代田区",
+				"description": "Akira Kanda. 写真を撮りに行くのが趣味です。署名の件ではみなさんお世話になりました！",
+				"url": "http://t.co/IME2WPNRpH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/IME2WPNRpH",
+								"expanded_url": "http://bulldog-noh8.tumblr.com/",
+								"display_url": "bulldog-noh8.tumblr.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2598,
+				"friends_count": 439,
+				"listed_count": 60,
+				"created_at": "Thu Aug 06 08:11:03 +0000 2015",
+				"favourites_count": 427,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8532,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/629204206130311168/kWi5akzi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/629204206130311168/kWi5akzi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3307659637/1438849668",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3959,
+			"favorite_count": 3096,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3959,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Sat Oct 15 13:12:03 +0000 2016",
 		"id": 787279874851352600,
 		"id_str": "787279874851352576",
