@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sun Oct 16 22:05:55 +0000 2016",
+		"id": 787776614717198300,
+		"id_str": "787776614717198336",
+		"text": "착상 전 유전자 진단으로 아기의 성별을 택할 수가 있었네요. 처음 안 사실.\nhttps://t.co/tJAagWuc0Y",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tJAagWuc0Y",
+					"expanded_url": "https://twitter.com/atmostbeautiful/status/787249807077150725",
+					"display_url": "twitter.com/atmostbeautifu…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 75,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1052,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6635,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 787249807077150700,
+		"quoted_status_id_str": "787249807077150725",
+		"quoted_status": {
+			"created_at": "Sat Oct 15 11:12:35 +0000 2016",
+			"id": 787249807077150700,
+			"id_str": "787249807077150725",
+			"text": "남아선호는 역전된 지 오래. 남자도 딸 좋아하고 입양 커플도 여아 선호. 인공수정도 압도적으로 딸 택한다. 말썽 많은 사내보다 순한 딸 당당히 키우는 게 낫단다. 아이는 잘못 없다. 사회와 부모의 통념이 문제 https://t.co/0ORqEWpmub",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0ORqEWpmub",
+						"expanded_url": "http://www.nytimes.com/2016/10/14/well/family/the-fear-of-having-a-son.html?smprod=nytcore-iphone&smid=nytcore-iphone-share",
+						"display_url": "nytimes.com/2016/10/14/wel…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27725896,
+				"id_str": "27725896",
+				"name": "Journey",
+				"screen_name": "atmostbeautiful",
+				"location": "Seoul",
+				"description": "writer & curator @ bookclub origin / music book movie yoga piano travel wise man & wild nature / Life is a wonder / REM, at my most beautiful",
+				"url": "https://t.co/MzklD4fR8k",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MzklD4fR8k",
+								"expanded_url": "http://1boon.kakao.com/bookclub",
+								"display_url": "1boon.kakao.com/bookclub",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11173,
+				"friends_count": 2538,
+				"listed_count": 273,
+				"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+				"favourites_count": 0,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10075,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/477628839162437632/9svDXzHR_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/477628839162437632/9svDXzHR_normal.jpeg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 70,
+			"favorite_count": 59,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Oct 16 17:18:30 +0000 2016",
 		"id": 787704283722428400,
 		"id_str": "787704283722428416",
