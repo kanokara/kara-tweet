@@ -1,6 +1,660 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Tue Oct 18 05:03:01 +0000 2016",
+		"id": 788243967984795600,
+		"id_str": "788243967984795649",
+		"text": "RT @TigA_LOL: 문중부터 리리에타로 이어지는 성인남성오타쿠의 미성년자 성착취중 성인남성오타쿠쪽의 심리를 죽창으로 찌르는것 들고와봄 2006년책이라 절판이 뻔하기에 영업하기 죄송하나 중딩때 표지에 낚여서 산 것이 다행일정도로 친절하게 탈덕도움…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TigA_LOL",
+					"name": "TigA#3816 [티가]",
+					"id": 1593357210,
+					"id_str": "1593357210",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 75,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1054,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6738,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 17 13:47:15 +0000 2016",
+			"id": 788013509611180000,
+			"id_str": "788013509611180037",
+			"text": "문중부터 리리에타로 이어지는 성인남성오타쿠의 미성년자 성착취중 성인남성오타쿠쪽의 심리를 죽창으로 찌르는것 들고와봄 2006년책이라 절판이 뻔하기에 영업하기 죄송하나 중딩때 표지에 낚여서 산 것이 다행일정도로… https://t.co/5TyEjZx4A3",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5TyEjZx4A3",
+						"expanded_url": "https://twitter.com/i/web/status/788013509611180037",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1593357210,
+				"id_str": "1593357210",
+				"name": "TigA#3816 [티가]",
+				"screen_name": "TigA_LOL",
+				"location": "창천의 이슈가르드  ",
+				"description": "위도트레 로드랫/#ROXWINS Smeb 몬헌, 롤, 파판 베히모스,오버워치 등/블언팔 자유/맞팔원하시면 멘션/무멘션=구독팔(구독팔 싫으시면 블언블해주세요)/훌게파지만 소비러/분야무관알티많아요/ 프사 @RAKUROBIT 님 커미션 썰계@TigA_ss 파판계 @Trachyn_ff14kr",
+				"url": "https://t.co/jBlt1ZNPUI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jBlt1ZNPUI",
+								"expanded_url": "http://blog.naver.com/atomjenny",
+								"display_url": "blog.naver.com/atomjenny",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 242,
+				"friends_count": 399,
+				"listed_count": 11,
+				"created_at": "Sun Jul 14 13:26:04 +0000 2013",
+				"favourites_count": 6668,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 124814,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/699445558889414656/l8LBMVgh_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/699445558889414656/l8LBMVgh_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1593357210/1453803940",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Oct 18 04:59:41 +0000 2016",
+		"id": 788243130571034600,
+		"id_str": "788243130571034625",
+		"text": "RT @saonabe: とりあえず先に進めているけど。\n違和感を取り除けずにいる。 https://t.co/DTBEmhsLRD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "saonabe",
+					"name": "Shao／もっと力が欲しいか？欲しい！！",
+					"id": 267102464,
+					"id_str": "267102464",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 787634574889144300,
+					"id_str": "787634574889144320",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/787634574889144320/pu/img/fKb_H_qQq6DbdZ_n.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/787634574889144320/pu/img/fKb_H_qQq6DbdZ_n.jpg",
+					"url": "https://t.co/DTBEmhsLRD",
+					"display_url": "pic.twitter.com/DTBEmhsLRD",
+					"expanded_url": "https://twitter.com/saonabe/status/787634807182204928/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 787634807182204900,
+					"source_status_id_str": "787634807182204928",
+					"source_user_id": 267102464,
+					"source_user_id_str": "267102464"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 787634574889144300,
+					"id_str": "787634574889144320",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/787634574889144320/pu/img/fKb_H_qQq6DbdZ_n.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/787634574889144320/pu/img/fKb_H_qQq6DbdZ_n.jpg",
+					"url": "https://t.co/DTBEmhsLRD",
+					"display_url": "pic.twitter.com/DTBEmhsLRD",
+					"expanded_url": "https://twitter.com/saonabe/status/787634807182204928/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 787634807182204900,
+					"source_status_id_str": "787634807182204928",
+					"source_user_id": 267102464,
+					"source_user_id_str": "267102464",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 12267,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/787634574889144320/pu/pl/rKUWtS6FgvCa5Xsp.m3u8"
+							},
+							{
+								"content_type": "application/dash+xml",
+								"url": "https://video.twimg.com/ext_tw_video/787634574889144320/pu/pl/rKUWtS6FgvCa5Xsp.mpd"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/787634574889144320/pu/vid/320x180/UBuTjYKuDlMzR3T0.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/787634574889144320/pu/vid/640x360/UdvOGf2GnU3SxrmK.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 267102464,
+							"id_str": "267102464",
+							"name": "Shao／もっと力が欲しいか？欲しい！！",
+							"screen_name": "saonabe",
+							"location": "",
+							"description": "MMDラブライブで活動中。ラブライバーとしてはわりと新参。花陽と善子がお気に入り。現在Cutie Panther、SUMMER CHANCE、青空Jumping Heartの３本を製作中。ああ、力が欲しい。MMDモデルはたむたむす～る、かさつん式を使用してます。",
+							"url": "https://t.co/piyNVpIve8",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/piyNVpIve8",
+											"expanded_url": "http://www.nicovideo.jp/user/10505173/video",
+											"display_url": "nicovideo.jp/user/10505173/…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 99,
+							"friends_count": 39,
+							"listed_count": 4,
+							"created_at": "Wed Mar 16 10:07:29 +0000 2011",
+							"favourites_count": 852,
+							"utc_offset": 32400,
+							"time_zone": "Tokyo",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 1396,
+							"lang": "ja",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/699898582401310720/3DEyZAUH_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/699898582401310720/3DEyZAUH_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/267102464/1474200393",
+							"profile_link_color": "1B95E0",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 75,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1054,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6738,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 16 12:42:26 +0000 2016",
+			"id": 787634807182204900,
+			"id_str": "787634807182204928",
+			"text": "とりあえず先に進めているけど。\n違和感を取り除けずにいる。 https://t.co/DTBEmhsLRD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 787634574889144300,
+						"id_str": "787634574889144320",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/787634574889144320/pu/img/fKb_H_qQq6DbdZ_n.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/787634574889144320/pu/img/fKb_H_qQq6DbdZ_n.jpg",
+						"url": "https://t.co/DTBEmhsLRD",
+						"display_url": "pic.twitter.com/DTBEmhsLRD",
+						"expanded_url": "https://twitter.com/saonabe/status/787634807182204928/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 787634574889144300,
+						"id_str": "787634574889144320",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/787634574889144320/pu/img/fKb_H_qQq6DbdZ_n.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/787634574889144320/pu/img/fKb_H_qQq6DbdZ_n.jpg",
+						"url": "https://t.co/DTBEmhsLRD",
+						"display_url": "pic.twitter.com/DTBEmhsLRD",
+						"expanded_url": "https://twitter.com/saonabe/status/787634807182204928/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 12267,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/787634574889144320/pu/pl/rKUWtS6FgvCa5Xsp.m3u8"
+								},
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/787634574889144320/pu/pl/rKUWtS6FgvCa5Xsp.mpd"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/787634574889144320/pu/vid/320x180/UBuTjYKuDlMzR3T0.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/787634574889144320/pu/vid/640x360/UdvOGf2GnU3SxrmK.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 267102464,
+				"id_str": "267102464",
+				"name": "Shao／もっと力が欲しいか？欲しい！！",
+				"screen_name": "saonabe",
+				"location": "",
+				"description": "MMDラブライブで活動中。ラブライバーとしてはわりと新参。花陽と善子がお気に入り。現在Cutie Panther、SUMMER CHANCE、青空Jumping Heartの３本を製作中。ああ、力が欲しい。MMDモデルはたむたむす～る、かさつん式を使用してます。",
+				"url": "https://t.co/piyNVpIve8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/piyNVpIve8",
+								"expanded_url": "http://www.nicovideo.jp/user/10505173/video",
+								"display_url": "nicovideo.jp/user/10505173/…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 99,
+				"friends_count": 39,
+				"listed_count": 4,
+				"created_at": "Wed Mar 16 10:07:29 +0000 2011",
+				"favourites_count": 852,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1396,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/699898582401310720/3DEyZAUH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/699898582401310720/3DEyZAUH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/267102464/1474200393",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 931,
+			"favorite_count": 1144,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 931,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Tue Oct 18 03:15:34 +0000 2016",
 		"id": 788216925692186600,
 		"id_str": "788216925692186624",
