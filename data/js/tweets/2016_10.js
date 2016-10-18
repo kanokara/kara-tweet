@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Tue Oct 18 05:18:41 +0000 2016",
+		"id": 788247912560025600,
+		"id_str": "788247912560025600",
+		"text": "RT @genbun: 이들이 '지식인' 포지션을 취할 수 있는 이유는 학계로부터 인준을 받고, 이게 잘 나가던 시절에는 꽤나 큰 영향력을 발휘하기 때문. 그리고 어쨌든 책이 많이 팔리기 때문에 언급이 많아지고, 많은 언급은 +피드백으로 말에 지적인…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "genbun",
+					"name": "Barde",
+					"id": 3192223305,
+					"id_str": "3192223305",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 75,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1054,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6740,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 14 21:23:03 +0000 2016",
+			"id": 742829731947503600,
+			"id_str": "742829731947503616",
+			"text": "이들이 '지식인' 포지션을 취할 수 있는 이유는 학계로부터 인준을 받고, 이게 잘 나가던 시절에는 꽤나 큰 영향력을 발휘하기 때문. 그리고 어쨌든 책이 많이 팔리기 때문에 언급이 많아지고, 많은 언급은 +피드백으로 말에 지적인 권위를 부여해 준다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 742829232527528000,
+			"in_reply_to_status_id_str": "742829232527527937",
+			"in_reply_to_user_id": 3192223305,
+			"in_reply_to_user_id_str": "3192223305",
+			"in_reply_to_screen_name": "genbun",
+			"user": {
+				"id": 3192223305,
+				"id_str": "3192223305",
+				"name": "Barde",
+				"screen_name": "genbun",
+				"location": "",
+				"description": "Stella by Starlight.",
+				"url": "https://t.co/5rpcwCJXye",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5rpcwCJXye",
+								"expanded_url": "http://barde.egloos.com",
+								"display_url": "barde.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 150,
+				"friends_count": 52,
+				"listed_count": 8,
+				"created_at": "Tue Apr 21 20:06:47 +0000 2015",
+				"favourites_count": 2155,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 31888,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/748525279316836352/I3W80Uwu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/748525279316836352/I3W80Uwu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3192223305/1474479669",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Oct 18 05:18:40 +0000 2016",
+		"id": 788247904888639500,
+		"id_str": "788247904888639488",
+		"text": "RT @genbun: 활황에 자유보수주의자들이 이득을 취하는 메커니즘은 다음과 같음: 아무말 대잔치를 벌인다 -&gt; 헛소리지만 사람들이 책을 사 준다 -&gt; 책이 많이 팔린다 -&gt; 많이 팔린다는 이유로 권위를 얻는다 -&gt; 다음 책을 준비한다 -&gt; 무한반…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "genbun",
+					"name": "Barde",
+					"id": 3192223305,
+					"id_str": "3192223305",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 75,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1054,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6740,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 14 21:21:04 +0000 2016",
+			"id": 742829232527528000,
+			"id_str": "742829232527527937",
+			"text": "활황에 자유보수주의자들이 이득을 취하는 메커니즘은 다음과 같음: 아무말 대잔치를 벌인다 -&gt; 헛소리지만 사람들이 책을 사 준다 -&gt; 책이 많이 팔린다 -&gt; 많이 팔린다는 이유로 권위를 얻는다 -&gt; 다음 책을 준비한다 -&gt; 무한반복 결국 경제상황의 문제",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 742828811318755300,
+			"in_reply_to_status_id_str": "742828811318755328",
+			"in_reply_to_user_id": 3192223305,
+			"in_reply_to_user_id_str": "3192223305",
+			"in_reply_to_screen_name": "genbun",
+			"user": {
+				"id": 3192223305,
+				"id_str": "3192223305",
+				"name": "Barde",
+				"screen_name": "genbun",
+				"location": "",
+				"description": "Stella by Starlight.",
+				"url": "https://t.co/5rpcwCJXye",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5rpcwCJXye",
+								"expanded_url": "http://barde.egloos.com",
+								"display_url": "barde.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 150,
+				"friends_count": 52,
+				"listed_count": 8,
+				"created_at": "Tue Apr 21 20:06:47 +0000 2015",
+				"favourites_count": 2155,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 31888,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/748525279316836352/I3W80Uwu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/748525279316836352/I3W80Uwu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3192223305/1474479669",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Oct 18 05:03:01 +0000 2016",
 		"id": 788243967984795600,
 		"id_str": "788243967984795649",
