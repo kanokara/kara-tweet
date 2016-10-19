@@ -1,6 +1,1236 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Wed Oct 19 20:55:36 +0000 2016",
+		"id": 788846082713264100,
+		"id_str": "788846082713264129",
+		"text": "RT @aimhilljoe: @capymaras @Crunchyroll it's a short animation from a-1 pictures on collaboration with Porter Robinson",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aimhilljoe",
+					"name": "amper&and",
+					"id": 2524925767,
+					"id_str": "2524925767",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "capymaras",
+					"name": "mara",
+					"id": 786798075918430200,
+					"id_str": "786798075918430208",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "Crunchyroll",
+					"name": "🎃 Crunchyroll",
+					"id": 28023330,
+					"id_str": "28023330",
+					"indices": [
+						27,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1053,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6803,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 19 00:49:23 +0000 2016",
+			"id": 788542527976583200,
+			"id_str": "788542527976583168",
+			"text": "@capymaras @Crunchyroll it's a short animation from a-1 pictures on collaboration with Porter Robinson",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "capymaras",
+						"name": "mara",
+						"id": 786798075918430200,
+						"id_str": "786798075918430208",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "Crunchyroll",
+						"name": "🎃 Crunchyroll",
+						"id": 28023330,
+						"id_str": "28023330",
+						"indices": [
+							11,
+							23
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 788542313123360800,
+			"in_reply_to_status_id_str": "788542313123360768",
+			"in_reply_to_user_id": 786798075918430200,
+			"in_reply_to_user_id_str": "786798075918430208",
+			"in_reply_to_screen_name": "capymaras",
+			"user": {
+				"id": 2524925767,
+				"id_str": "2524925767",
+				"name": "amper&and",
+				"screen_name": "aimhilljoe",
+				"location": "",
+				"description": "AimnWhte™",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24,
+				"friends_count": 131,
+				"listed_count": 0,
+				"created_at": "Mon May 26 12:22:55 +0000 2014",
+				"favourites_count": 1244,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/749802533850263552/e2Vgk54r_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/749802533850263552/e2Vgk54r_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2524925767/1476464716",
+				"profile_link_color": "94D487",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 19 20:55:31 +0000 2016",
+		"id": 788846058872803300,
+		"id_str": "788846058872803328",
+		"text": "RT @Crunchyroll: 🌸 Sleepy Rin appreciation post. https://t.co/PvverWfUkp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Crunchyroll",
+					"name": "🎃 Crunchyroll",
+					"id": 28023330,
+					"id_str": "28023330",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 788541966044627000,
+					"id_str": "788541966044626944",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/CvF2vYCUAAAdHmV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvF2vYCUAAAdHmV.jpg",
+					"url": "https://t.co/PvverWfUkp",
+					"display_url": "pic.twitter.com/PvverWfUkp",
+					"expanded_url": "https://twitter.com/Crunchyroll/status/788542090502217728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1272,
+							"h": 711,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 788542090502217700,
+					"source_status_id_str": "788542090502217728",
+					"source_user_id": 28023330,
+					"source_user_id_str": "28023330"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 788541966044627000,
+					"id_str": "788541966044626944",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/CvF2vYCUAAAdHmV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvF2vYCUAAAdHmV.jpg",
+					"url": "https://t.co/PvverWfUkp",
+					"display_url": "pic.twitter.com/PvverWfUkp",
+					"expanded_url": "https://twitter.com/Crunchyroll/status/788542090502217728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1272,
+							"h": 711,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 788542090502217700,
+					"source_status_id_str": "788542090502217728",
+					"source_user_id": 28023330,
+					"source_user_id_str": "28023330"
+				},
+				{
+					"id": 788541966048821200,
+					"id_str": "788541966048821249",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/CvF2vYDUAAEKvbp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvF2vYDUAAEKvbp.jpg",
+					"url": "https://t.co/PvverWfUkp",
+					"display_url": "pic.twitter.com/PvverWfUkp",
+					"expanded_url": "https://twitter.com/Crunchyroll/status/788542090502217728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1272,
+							"h": 708,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 668,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 788542090502217700,
+					"source_status_id_str": "788542090502217728",
+					"source_user_id": 28023330,
+					"source_user_id_str": "28023330"
+				},
+				{
+					"id": 788541966082412500,
+					"id_str": "788541966082412545",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/CvF2vYLUkAE4WHl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvF2vYLUkAE4WHl.jpg",
+					"url": "https://t.co/PvverWfUkp",
+					"display_url": "pic.twitter.com/PvverWfUkp",
+					"expanded_url": "https://twitter.com/Crunchyroll/status/788542090502217728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1275,
+							"h": 711,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 669,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 788542090502217700,
+					"source_status_id_str": "788542090502217728",
+					"source_user_id": 28023330,
+					"source_user_id_str": "28023330"
+				},
+				{
+					"id": 788541966061477900,
+					"id_str": "788541966061477888",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/CvF2vYGVIAAJb4s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvF2vYGVIAAJb4s.jpg",
+					"url": "https://t.co/PvverWfUkp",
+					"display_url": "pic.twitter.com/PvverWfUkp",
+					"expanded_url": "https://twitter.com/Crunchyroll/status/788542090502217728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1276,
+							"h": 714,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 788542090502217700,
+					"source_status_id_str": "788542090502217728",
+					"source_user_id": 28023330,
+					"source_user_id_str": "28023330"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1053,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6803,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 19 00:47:39 +0000 2016",
+			"id": 788542090502217700,
+			"id_str": "788542090502217728",
+			"text": "🌸 Sleepy Rin appreciation post. https://t.co/PvverWfUkp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 788541966044627000,
+						"id_str": "788541966044626944",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/CvF2vYCUAAAdHmV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvF2vYCUAAAdHmV.jpg",
+						"url": "https://t.co/PvverWfUkp",
+						"display_url": "pic.twitter.com/PvverWfUkp",
+						"expanded_url": "https://twitter.com/Crunchyroll/status/788542090502217728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1272,
+								"h": 711,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 671,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 380,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 788541966044627000,
+						"id_str": "788541966044626944",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/CvF2vYCUAAAdHmV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvF2vYCUAAAdHmV.jpg",
+						"url": "https://t.co/PvverWfUkp",
+						"display_url": "pic.twitter.com/PvverWfUkp",
+						"expanded_url": "https://twitter.com/Crunchyroll/status/788542090502217728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1272,
+								"h": 711,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 671,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 380,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 788541966048821200,
+						"id_str": "788541966048821249",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/CvF2vYDUAAEKvbp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvF2vYDUAAEKvbp.jpg",
+						"url": "https://t.co/PvverWfUkp",
+						"display_url": "pic.twitter.com/PvverWfUkp",
+						"expanded_url": "https://twitter.com/Crunchyroll/status/788542090502217728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1272,
+								"h": 708,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 668,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 378,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 788541966082412500,
+						"id_str": "788541966082412545",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/CvF2vYLUkAE4WHl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvF2vYLUkAE4WHl.jpg",
+						"url": "https://t.co/PvverWfUkp",
+						"display_url": "pic.twitter.com/PvverWfUkp",
+						"expanded_url": "https://twitter.com/Crunchyroll/status/788542090502217728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1275,
+								"h": 711,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 669,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 379,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 788541966061477900,
+						"id_str": "788541966061477888",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/CvF2vYGVIAAJb4s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvF2vYGVIAAJb4s.jpg",
+						"url": "https://t.co/PvverWfUkp",
+						"display_url": "pic.twitter.com/PvverWfUkp",
+						"expanded_url": "https://twitter.com/Crunchyroll/status/788542090502217728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1276,
+								"h": 714,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 671,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28023330,
+				"id_str": "28023330",
+				"name": "🎃 Crunchyroll",
+				"screen_name": "Crunchyroll",
+				"location": "San Francisco, CA",
+				"description": "✨Everything Anime! Enjoy your favorite anime & manga at the speed of Japan ~ Karamatsu Girl ⭐️",
+				"url": "https://t.co/cJVGYXJKgy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cJVGYXJKgy",
+								"expanded_url": "http://www.crunchyroll.com",
+								"display_url": "crunchyroll.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 350012,
+				"friends_count": 145,
+				"listed_count": 2062,
+				"created_at": "Wed Apr 01 01:55:52 +0000 2009",
+				"favourites_count": 9193,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 67921,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "16C4EF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433327201035894784/wfX9zjvs.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433327201035894784/wfX9zjvs.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/788072292131622912/GUGBLIEA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/788072292131622912/GUGBLIEA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28023330/1476726158",
+				"profile_link_color": "FA8E1B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 484,
+			"favorite_count": 1278,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 484,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Oct 19 19:32:02 +0000 2016",
+		"id": 788825052942704600,
+		"id_str": "788825052942704640",
+		"text": "@linaza_lina 큐트?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "linaza_lina",
+					"name": "리나사⭐",
+					"id": 760682012722147300,
+					"id_str": "760682012722147332",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 788763301911998500,
+		"in_reply_to_status_id_str": "788763301911998464",
+		"in_reply_to_user_id": 760682012722147300,
+		"in_reply_to_user_id_str": "760682012722147332",
+		"in_reply_to_screen_name": "linaza_lina",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1053,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6803,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Oct 19 19:18:19 +0000 2016",
+		"id": 788821598266544100,
+		"id_str": "788821598266544128",
+		"text": "RT @SaschaNaz: 수천리트윗된 병신트윗에 사람들이 동의를 위해 리트윗한것인지 아니면 병신이라고 까고있는것인지 쉽게 알 수있는 사이트\n\n여러분도 써보세요! https://t.co/vNBPpJEzXi https://t.co/fj9uXqjKEO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SaschaNaz",
+					"name": "카가미 사샤 로지라이트",
+					"id": 174828497,
+					"id_str": "174828497",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vNBPpJEzXi",
+					"expanded_url": "https://retweets.azurewebsites.net/Share?id=788678483266330627,788723677030342657,788723589411241984,788723516535296002,788723381528952832,788723423161614337,788723446381441024,788723351837564928,788723791023136768,788723429763526656,788723216114081792,788723230819307520,788723108760870912,788723169242718208,788723191107551237,788723078456942592,788723029320736768,788723615738900481,788723635733139457,788723004226154496,788723106231627777,788722981979643905,788722885992914944,788722761514430465,788722937205432320,788723055270899716,788722866887942150,788722707294584834,788722599115182080,788722742203777024,788722843076800512,788723287547273216,788722447503593473,788722549077123072,788722551753089029,788722320256806912,788722196818505729,788722249486381056,788721991884771328,788722057064308738,788721846354968576,788721827275153408,788721876667334656,788721880777621506,788721763878248448,788721691941740545,788721608651186177,788721411359543297,788721689995513856,788723362407120896,788722179663802368,788721380690829313,788722848265142272,788721820656467968,788721107427729410,788720998749122561,788720944504197120,788721887329169412,788720989836148737,788720985620910080,788720665381646336,788720881992216576,788720393737506816,788720372166250496,788720655327858688,788720326532145154,788720671450771458,788722357032456193,788720612080443393,788720194122240000,788720026933092356,788719978027507714,788720005428895744,788720281946771457,788720467519561728,788719962860822529,788719384374022144",
+					"display_url": "retweets.azurewebsites.net/Share?id=78867…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 788726036926124000,
+					"id_str": "788726036926124033",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/CvIeJtgVUAEP6rB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvIeJtgVUAEP6rB.jpg",
+					"url": "https://t.co/fj9uXqjKEO",
+					"display_url": "pic.twitter.com/fj9uXqjKEO",
+					"expanded_url": "https://twitter.com/SaschaNaz/status/788726047130869760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 665,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 746,
+							"h": 763,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 746,
+							"h": 763,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 788726047130869800,
+					"source_status_id_str": "788726047130869760",
+					"source_user_id": 174828497,
+					"source_user_id_str": "174828497"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 788726036926124000,
+					"id_str": "788726036926124033",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/CvIeJtgVUAEP6rB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvIeJtgVUAEP6rB.jpg",
+					"url": "https://t.co/fj9uXqjKEO",
+					"display_url": "pic.twitter.com/fj9uXqjKEO",
+					"expanded_url": "https://twitter.com/SaschaNaz/status/788726047130869760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 665,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 746,
+							"h": 763,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 746,
+							"h": 763,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 788726047130869800,
+					"source_status_id_str": "788726047130869760",
+					"source_user_id": 174828497,
+					"source_user_id_str": "174828497"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1053,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6803,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 19 12:58:38 +0000 2016",
+			"id": 788726047130869800,
+			"id_str": "788726047130869760",
+			"text": "수천리트윗된 병신트윗에 사람들이 동의를 위해 리트윗한것인지 아니면 병신이라고 까고있는것인지 쉽게 알 수있는 사이트\n\n여러분도 써보세요! https://t.co/vNBPpJEzXi https://t.co/fj9uXqjKEO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vNBPpJEzXi",
+						"expanded_url": "https://retweets.azurewebsites.net/Share?id=788678483266330627,788723677030342657,788723589411241984,788723516535296002,788723381528952832,788723423161614337,788723446381441024,788723351837564928,788723791023136768,788723429763526656,788723216114081792,788723230819307520,788723108760870912,788723169242718208,788723191107551237,788723078456942592,788723029320736768,788723615738900481,788723635733139457,788723004226154496,788723106231627777,788722981979643905,788722885992914944,788722761514430465,788722937205432320,788723055270899716,788722866887942150,788722707294584834,788722599115182080,788722742203777024,788722843076800512,788723287547273216,788722447503593473,788722549077123072,788722551753089029,788722320256806912,788722196818505729,788722249486381056,788721991884771328,788722057064308738,788721846354968576,788721827275153408,788721876667334656,788721880777621506,788721763878248448,788721691941740545,788721608651186177,788721411359543297,788721689995513856,788723362407120896,788722179663802368,788721380690829313,788722848265142272,788721820656467968,788721107427729410,788720998749122561,788720944504197120,788721887329169412,788720989836148737,788720985620910080,788720665381646336,788720881992216576,788720393737506816,788720372166250496,788720655327858688,788720326532145154,788720671450771458,788722357032456193,788720612080443393,788720194122240000,788720026933092356,788719978027507714,788720005428895744,788720281946771457,788720467519561728,788719962860822529,788719384374022144",
+						"display_url": "retweets.azurewebsites.net/Share?id=78867…",
+						"indices": [
+							76,
+							99
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 788726036926124000,
+						"id_str": "788726036926124033",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/CvIeJtgVUAEP6rB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvIeJtgVUAEP6rB.jpg",
+						"url": "https://t.co/fj9uXqjKEO",
+						"display_url": "pic.twitter.com/fj9uXqjKEO",
+						"expanded_url": "https://twitter.com/SaschaNaz/status/788726047130869760/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 665,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 746,
+								"h": 763,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 746,
+								"h": 763,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 788726036926124000,
+						"id_str": "788726036926124033",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/CvIeJtgVUAEP6rB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvIeJtgVUAEP6rB.jpg",
+						"url": "https://t.co/fj9uXqjKEO",
+						"display_url": "pic.twitter.com/fj9uXqjKEO",
+						"expanded_url": "https://twitter.com/SaschaNaz/status/788726047130869760/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 665,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 746,
+								"h": 763,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 746,
+								"h": 763,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://cyberkagami.wordpress.com\" rel=\"nofollow\">oauth sign</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 174828497,
+				"id_str": "174828497",
+				"name": "카가미 사샤 로지라이트",
+				"screen_name": "SaschaNaz",
+				"location": "나조타마",
+				"description": "마법소녀 마도카 마기카 @SaschaAkemi / IT @SaschaFlav / 아이마스 / 데레스테 / 마비노기 / 엘소드 / 클로저스 / TypeScript / Windows Insider / Windows Mobile / 짧은 인생 보고 싶지 않은 건 그때그때 언팔 합시다",
+				"url": "http://t.co/dm9nxTLsHI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/dm9nxTLsHI",
+								"expanded_url": "http://saschanaz.wordpress.com/",
+								"display_url": "saschanaz.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1244,
+				"friends_count": 1029,
+				"listed_count": 79,
+				"created_at": "Wed Aug 04 22:56:27 +0000 2010",
+				"favourites_count": 19258,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 393713,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/309950202/BlackRockShooter.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/309950202/BlackRockShooter.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/477887874549837824/xbTwK3Ns_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/477887874549837824/xbTwK3Ns_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/174828497/1348328149",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EEC2FF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 67,
+			"favorite_count": 32,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Oct 19 10:40:02 +0000 2016",
 		"id": 788691169613971500,
 		"id_str": "788691169613971456",
