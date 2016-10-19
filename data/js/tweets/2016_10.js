@@ -1,6 +1,660 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Wed Oct 19 06:09:40 +0000 2016",
+		"id": 788623129623011300,
+		"id_str": "788623129623011329",
+		"text": "RT @djuna01: 얼마 전까지 당연한 '우리'라고 생각했던 사람이 이런 사건의 가해자였다고 밝혀졌습니다.이건 아주 무서운 일입니다. 남으로 내치면서 끝낼 수 있는 일이 아니죠. @chickenmukgusip",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "djuna01",
+					"name": "djuna",
+					"id": 151807455,
+					"id_str": "151807455",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "chickenmukgusip",
+					"name": "꽝",
+					"id": 757907342822301700,
+					"id_str": "757907342822301697",
+					"indices": [
+						102,
+						118
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1054,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6783,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 19 04:39:05 +0000 2016",
+			"id": 788600334704861200,
+			"id_str": "788600334704861184",
+			"text": "얼마 전까지 당연한 '우리'라고 생각했던 사람이 이런 사건의 가해자였다고 밝혀졌습니다.이건 아주 무서운 일입니다. 남으로 내치면서 끝낼 수 있는 일이 아니죠. @chickenmukgusip",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "chickenmukgusip",
+						"name": "꽝",
+						"id": 757907342822301700,
+						"id_str": "757907342822301697",
+						"indices": [
+							89,
+							105
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 788596992599531500,
+			"in_reply_to_status_id_str": "788596992599531522",
+			"in_reply_to_user_id": 151807455,
+			"in_reply_to_user_id_str": "151807455",
+			"in_reply_to_screen_name": "djuna01",
+			"user": {
+				"id": 151807455,
+				"id_str": "151807455",
+				"name": "djuna",
+				"screen_name": "djuna01",
+				"location": "South Korea",
+				"description": "[아직은 신이 아니야], [가능한 꿈의 공간들], [아퀼라의 그림자], [끝내주는 책], [SF영화], [큐피드], [성호 삼촌의 범죄], [구부전], [안개와 더러운 공기 속에서], [마지막 테스트], [추억충]",
+				"url": "https://t.co/hO1XEzYVfJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hO1XEzYVfJ",
+								"expanded_url": "http://djuna.kr",
+								"display_url": "djuna.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 73679,
+				"friends_count": 217,
+				"listed_count": 713,
+				"created_at": "Fri Jun 04 08:44:20 +0000 2010",
+				"favourites_count": 910,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 150666,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F2F5",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675683406/d2f7442bedcf6c6b16ca01b22ce77948.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675683406/d2f7442bedcf6c6b16ca01b22ce77948.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/682900176076324864/Gx4VFc2j_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/682900176076324864/Gx4VFc2j_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/151807455/1451754740",
+				"profile_link_color": "464A5C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FB274A",
+				"profile_text_color": "DB6955",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 40,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Oct 19 06:03:05 +0000 2016",
+		"id": 788621470536695800,
+		"id_str": "788621470536695810",
+		"text": "다만 직접적으로 진영을 겨냥하면 반발이 심할 거 같으니까 못하고 있는 거고...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 788621248586711000,
+		"in_reply_to_status_id_str": "788621248586711040",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1054,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6783,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Oct 19 06:02:12 +0000 2016",
+		"id": 788621248586711000,
+		"id_str": "788621248586711040",
+		"text": "지금 듀나 씨가 '물타기'하고 있다고 페미니즘 진영에서 욕을 먹고 있는데, 다시 잘 보니까 '우리'가 지칭하는 건 다름아닌 자신을 포함한 페미니즘 진영인 듯. 우리 사회 전체로 비화하는 게 아니라.\nhttps://t.co/KdmD22cw8J",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KdmD22cw8J",
+					"expanded_url": "https://twitter.com/metamongbites/status/788583212851142656",
+					"display_url": "twitter.com/metamongbites/…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 788576282300735500,
+		"in_reply_to_status_id_str": "788576282300735488",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1054,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6783,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 788583212851142700,
+		"quoted_status_id_str": "788583212851142656",
+		"quoted_status": {
+			"created_at": "Wed Oct 19 03:31:03 +0000 2016",
+			"id": 788583212851142700,
+			"id_str": "788583212851142656",
+			"text": "아니 듀나분.... '이자혜의 언행에 긍정적인 반응을 보이고 그의 창작물을 소비하면서 그를 인기 작가로 만들어 피해자가 목소리를 내지 못하로 참게 만드는 분위기를 만든 우리들의 책임이다'라고 구체적으로 쓰시라고...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1275212413,
+				"id_str": "1275212413",
+				"name": "METALMONG (멘션 잘 못봄)",
+				"screen_name": "metamongbites",
+				"location": "누워서 메탈하는 사람",
+				"description": "혐오스런 인간들을 볼래? → https://t.co/lmqkf0s0WH…",
+				"url": "https://t.co/VrY0ogszS9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VrY0ogszS9",
+								"expanded_url": "http://lazytitaniumball.blogspot.com",
+								"display_url": "lazytitaniumball.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/lmqkf0s0WH",
+								"expanded_url": "http://docs.google.com/document/d/1Zz",
+								"display_url": "docs.google.com/document/d/1Zz",
+								"indices": [
+									16,
+									39
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2145,
+				"friends_count": 507,
+				"listed_count": 20,
+				"created_at": "Sun Mar 17 15:07:27 +0000 2013",
+				"favourites_count": 7260,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 85533,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/786548142040678400/RIMslX0R_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/786548142040678400/RIMslX0R_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1275212413/1472637519",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Oct 19 06:00:11 +0000 2016",
+		"id": 788620742099341300,
+		"id_str": "788620742099341312",
+		"text": "RT @metamongbites: 아니 듀나분.... '이자혜의 언행에 긍정적인 반응을 보이고 그의 창작물을 소비하면서 그를 인기 작가로 만들어 피해자가 목소리를 내지 못하로 참게 만드는 분위기를 만든 우리들의 책임이다'라고 구체적으로 쓰시라고...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "metamongbites",
+					"name": "METALMONG (멘션 잘 못봄)",
+					"id": 1275212413,
+					"id_str": "1275212413",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1054,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6783,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 19 03:31:03 +0000 2016",
+			"id": 788583212851142700,
+			"id_str": "788583212851142656",
+			"text": "아니 듀나분.... '이자혜의 언행에 긍정적인 반응을 보이고 그의 창작물을 소비하면서 그를 인기 작가로 만들어 피해자가 목소리를 내지 못하로 참게 만드는 분위기를 만든 우리들의 책임이다'라고 구체적으로 쓰시라고...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1275212413,
+				"id_str": "1275212413",
+				"name": "METALMONG (멘션 잘 못봄)",
+				"screen_name": "metamongbites",
+				"location": "누워서 메탈하는 사람",
+				"description": "혐오스런 인간들을 볼래? → https://t.co/lmqkf0s0WH…",
+				"url": "https://t.co/VrY0ogszS9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VrY0ogszS9",
+								"expanded_url": "http://lazytitaniumball.blogspot.com",
+								"display_url": "lazytitaniumball.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/lmqkf0s0WH",
+								"expanded_url": "http://docs.google.com/document/d/1Zz",
+								"display_url": "docs.google.com/document/d/1Zz",
+								"indices": [
+									16,
+									39
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2145,
+				"friends_count": 507,
+				"listed_count": 20,
+				"created_at": "Sun Mar 17 15:07:27 +0000 2013",
+				"favourites_count": 7260,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 85533,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/786548142040678400/RIMslX0R_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/786548142040678400/RIMslX0R_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1275212413/1472637519",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Oct 19 03:24:54 +0000 2016",
 		"id": 788581665819865100,
 		"id_str": "788581665819865089",
