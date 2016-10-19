@@ -1,6 +1,170 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Wed Oct 19 21:29:39 +0000 2016",
+		"id": 788854652003426300,
+		"id_str": "788854652003426304",
+		"text": "山本七平, 『‘空氣’の硏究』, 東京:文藝春秋, 1977. #공기의_연구 https://t.co/iEfMnQHgQk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공기의_연구",
+					"indices": [
+						32,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 788854462383206400,
+					"id_str": "788854462383206400",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/CvKS9DnVMAAc0Nt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvKS9DnVMAAc0Nt.jpg",
+					"url": "https://t.co/iEfMnQHgQk",
+					"display_url": "pic.twitter.com/iEfMnQHgQk",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/788854652003426304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 476,
+							"h": 349,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 476,
+							"h": 349,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 476,
+							"h": 349,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 788854462383206400,
+					"id_str": "788854462383206400",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/CvKS9DnVMAAc0Nt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvKS9DnVMAAc0Nt.jpg",
+					"url": "https://t.co/iEfMnQHgQk",
+					"display_url": "pic.twitter.com/iEfMnQHgQk",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/788854652003426304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 476,
+							"h": 349,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 476,
+							"h": 349,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 476,
+							"h": 349,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1053,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6804,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Wed Oct 19 20:55:36 +0000 2016",
 		"id": 788846082713264100,
 		"id_str": "788846082713264129",
