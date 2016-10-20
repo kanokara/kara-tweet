@@ -1,6 +1,806 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Thu Oct 20 01:59:02 +0000 2016",
+		"id": 788922442622181400,
+		"id_str": "788922442622181376",
+		"text": "RT @desertcockkiry: 강용석이 망한 이유 https://t.co/z8eWZ9sEHk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "desertcockkiry",
+					"name": "사막을 건너는 코끼리",
+					"id": 3160218590,
+					"id_str": "3160218590",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 788627523991208000,
+					"id_str": "788627523991207936",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/CvHEjgOXgAAke-Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvHEjgOXgAAke-Z.jpg",
+					"url": "https://t.co/z8eWZ9sEHk",
+					"display_url": "pic.twitter.com/z8eWZ9sEHk",
+					"expanded_url": "https://twitter.com/desertcockkiry/status/788627538092388352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 535,
+							"h": 258,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 535,
+							"h": 258,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 535,
+							"h": 258,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 788627538092388400,
+					"source_status_id_str": "788627538092388352",
+					"source_user_id": 3160218590,
+					"source_user_id_str": "3160218590"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 788627523991208000,
+					"id_str": "788627523991207936",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/CvHEjgOXgAAke-Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvHEjgOXgAAke-Z.jpg",
+					"url": "https://t.co/z8eWZ9sEHk",
+					"display_url": "pic.twitter.com/z8eWZ9sEHk",
+					"expanded_url": "https://twitter.com/desertcockkiry/status/788627538092388352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 535,
+							"h": 258,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 535,
+							"h": 258,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 535,
+							"h": 258,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 788627538092388400,
+					"source_status_id_str": "788627538092388352",
+					"source_user_id": 3160218590,
+					"source_user_id_str": "3160218590"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1053,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6812,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 19 06:27:11 +0000 2016",
+			"id": 788627538092388400,
+			"id_str": "788627538092388352",
+			"text": "강용석이 망한 이유 https://t.co/z8eWZ9sEHk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 788627523991208000,
+						"id_str": "788627523991207936",
+						"indices": [
+							11,
+							34
+						],
+						"media_url": "http://pbs.twimg.com/media/CvHEjgOXgAAke-Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvHEjgOXgAAke-Z.jpg",
+						"url": "https://t.co/z8eWZ9sEHk",
+						"display_url": "pic.twitter.com/z8eWZ9sEHk",
+						"expanded_url": "https://twitter.com/desertcockkiry/status/788627538092388352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 535,
+								"h": 258,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 535,
+								"h": 258,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 535,
+								"h": 258,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 788627523991208000,
+						"id_str": "788627523991207936",
+						"indices": [
+							11,
+							34
+						],
+						"media_url": "http://pbs.twimg.com/media/CvHEjgOXgAAke-Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvHEjgOXgAAke-Z.jpg",
+						"url": "https://t.co/z8eWZ9sEHk",
+						"display_url": "pic.twitter.com/z8eWZ9sEHk",
+						"expanded_url": "https://twitter.com/desertcockkiry/status/788627538092388352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 535,
+								"h": 258,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 535,
+								"h": 258,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 535,
+								"h": 258,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3160218590,
+				"id_str": "3160218590",
+				"name": "사막을 건너는 코끼리",
+				"screen_name": "desertcockkiry",
+				"location": "",
+				"description": "걷고 또 걷다보면",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4031,
+				"friends_count": 218,
+				"listed_count": 46,
+				"created_at": "Thu Apr 16 22:18:53 +0000 2015",
+				"favourites_count": 140,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1743,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DD2E44",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/704929275791732736/X40vrw_x_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/704929275791732736/X40vrw_x_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3160218590/1429289835",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 346,
+			"favorite_count": 83,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 346,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Oct 20 01:24:35 +0000 2016",
+		"id": 788913772949676000,
+		"id_str": "788913772949676032",
+		"text": "RT @kyunghyang: 지지율이 최저치를 찍어도 '지도력'이 여전한 이유. 여당 내에서도 \"공권력으로 유지되는 정권\"이라는 비판이 나온다. #공포정치는북한이아니라여기있었네 https://t.co/9nHZD2J1L3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공포정치는북한이아니라여기있었네",
+					"indices": [
+						81,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kyunghyang",
+					"name": "경향신문",
+					"id": 118720645,
+					"id_str": "118720645",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9nHZD2J1L3",
+					"expanded_url": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201610182244005&code=910100",
+					"display_url": "news.khan.co.kr/kh_news/khan_a…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1053,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6812,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 19 04:56:41 +0000 2016",
+			"id": 788604762526711800,
+			"id_str": "788604762526711809",
+			"text": "지지율이 최저치를 찍어도 '지도력'이 여전한 이유. 여당 내에서도 \"공권력으로 유지되는 정권\"이라는 비판이 나온다. #공포정치는북한이아니라여기있었네 https://t.co/9nHZD2J1L3",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "공포정치는북한이아니라여기있었네",
+						"indices": [
+							65,
+							82
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9nHZD2J1L3",
+						"expanded_url": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201610182244005&code=910100",
+						"display_url": "news.khan.co.kr/kh_news/khan_a…",
+						"indices": [
+							83,
+							106
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 118720645,
+				"id_str": "118720645",
+				"name": "경향신문",
+				"screen_name": "kyunghyang",
+				"location": "seoul",
+				"description": "경향신문의 뉴스를 새롭게 읽는 공간! 경향신문 공식 트위터 담당자 '향이'가 매일 실시간으로 소식을 전해드립니다. '향이'가 누구인지 궁금하시다면? 클릭! http://t.co/mGgY0Kae6e",
+				"url": "http://t.co/QZ93FMXTWW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/QZ93FMXTWW",
+								"expanded_url": "http://www.khan.co.kr/",
+								"display_url": "khan.co.kr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/mGgY0Kae6e",
+								"expanded_url": "http://khross.khan.kr/336",
+								"display_url": "khross.khan.kr/336",
+								"indices": [
+									87,
+									109
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 640799,
+				"friends_count": 93260,
+				"listed_count": 6961,
+				"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+				"favourites_count": 56,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 50808,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F5FA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/588256198740152320/JJ1fYa5Z.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/588256198740152320/JJ1fYa5Z.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/721856699208830976/YpLhr-Oj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/721856699208830976/YpLhr-Oj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1451697097",
+				"profile_link_color": "07B6EB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 304,
+			"favorite_count": 86,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 304,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Oct 20 01:17:53 +0000 2016",
+		"id": 788912088886280200,
+		"id_str": "788912088886280193",
+		"text": "RT @ddanziabba: \"박 대표가 긴급한 현안이 생기면 전화를 거는 외부 그룹이 있는 것 같은데 누구인지는 나도 모르겠다. 정치권 분들 같지는 않고..\" \n \n↑ \n그게 누군지 이제야 확실히 알 것 같다. https://t.co/jw0GmrY…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ddanziabba",
+					"name": "피고지고",
+					"id": 1032396980,
+					"id_str": "1032396980",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1053,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6812,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 19 09:14:31 +0000 2016",
+			"id": 788669648346624000,
+			"id_str": "788669648346624000",
+			"text": "\"박 대표가 긴급한 현안이 생기면 전화를 거는 외부 그룹이 있는 것 같은데 누구인지는 나도 모르겠다. 정치권 분들 같지는 않고..\" \n \n↑ \n그게 누군지 이제야 확실히 알 것 같다. https://t.co/jw0GmrYs4H",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 788669625693147100,
+						"id_str": "788669625693147136",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/CvHq2JSUkAA8rae.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvHq2JSUkAA8rae.jpg",
+						"url": "https://t.co/jw0GmrYs4H",
+						"display_url": "pic.twitter.com/jw0GmrYs4H",
+						"expanded_url": "https://twitter.com/ddanziabba/status/788669648346624000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 737,
+								"h": 855,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 586,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 737,
+								"h": 855,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 788669625693147100,
+						"id_str": "788669625693147136",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/CvHq2JSUkAA8rae.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvHq2JSUkAA8rae.jpg",
+						"url": "https://t.co/jw0GmrYs4H",
+						"display_url": "pic.twitter.com/jw0GmrYs4H",
+						"expanded_url": "https://twitter.com/ddanziabba/status/788669648346624000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 737,
+								"h": 855,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 586,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 737,
+								"h": 855,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1032396980,
+				"id_str": "1032396980",
+				"name": "피고지고",
+				"screen_name": "ddanziabba",
+				"location": "",
+				"description": "달팽이처럼 걸어, 담쟁이처럼 넘어..",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26490,
+				"friends_count": 14743,
+				"listed_count": 146,
+				"created_at": "Mon Dec 24 10:37:56 +0000 2012",
+				"favourites_count": 72,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15763,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/597025124345196544/kVkrcpOt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/597025124345196544/kVkrcpOt_normal.jpg",
+				"profile_link_color": "A6A6A6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 280,
+			"favorite_count": 78,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 280,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Oct 20 01:12:25 +0000 2016",
 		"id": 788910713439793200,
 		"id_str": "788910713439793152",
