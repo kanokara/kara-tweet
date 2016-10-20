@@ -1,6 +1,537 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Thu Oct 20 01:12:25 +0000 2016",
+		"id": 788910713439793200,
+		"id_str": "788910713439793152",
+		"text": "노정태 씨의 주술적 리얼리즘은 재평가되어야....\nhttps://t.co/UhqqiINonK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UhqqiINonK",
+					"expanded_url": "https://twitter.com/Bloomers_Suki/status/788904278958059520",
+					"display_url": "twitter.com/Bloomers_Suki/…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1053,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6809,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 788904278958059500,
+		"quoted_status_id_str": "788904278958059520",
+		"quoted_status": {
+			"created_at": "Thu Oct 20 00:46:51 +0000 2016",
+			"id": 788904278958059500,
+			"id_str": "788904278958059520",
+			"text": "대통령은 샤머니즘으로 나라를 통치하고, 유력한 차기 대선주자는 히말라야에서 자아를 찾고 앉았고, 한물 간 자칭잠룡은 만덕산의 권유로 속세에 복귀하고... 아 쫌 제발 쫌 그만 좀 쫌",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 788903617440780300,
+			"in_reply_to_status_id_str": "788903617440780289",
+			"in_reply_to_user_id": 3235646006,
+			"in_reply_to_user_id_str": "3235646006",
+			"in_reply_to_screen_name": "NyaNyaNyangC",
+			"user": {
+				"id": 3235646006,
+				"id_str": "3235646006",
+				"name": "재고폭사 냥냥씨",
+				"screen_name": "NyaNyaNyangC",
+				"location": "통조림",
+				"description": "당신 눈에는 이상해 뵈겠지만 내게도 다 생각이 있어.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 629,
+				"friends_count": 526,
+				"listed_count": 13,
+				"created_at": "Thu Jun 04 03:14:06 +0000 2015",
+				"favourites_count": 1267,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 27161,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/739836693935620096/FrsXSXoI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/739836693935620096/FrsXSXoI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3235646006/1459901264",
+				"profile_link_color": "DD4460",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Oct 20 01:05:17 +0000 2016",
+		"id": 788908915559772200,
+		"id_str": "788908915559772160",
+		"text": "RT @Kotaku: Drama over music video inflames argument about what anime is: https://t.co/AvMVukss7G https://t.co/r4XBBCnNjo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kotaku",
+					"name": "Kotaku",
+					"id": 11928542,
+					"id_str": "11928542",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AvMVukss7G",
+					"expanded_url": "http://bit.ly/2elUXXX",
+					"display_url": "bit.ly/2elUXXX",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 788789134420799500,
+					"id_str": "788789134420799488",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/CvJXid_W8AAlp7E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvJXid_W8AAlp7E.jpg",
+					"url": "https://t.co/r4XBBCnNjo",
+					"display_url": "pic.twitter.com/r4XBBCnNjo",
+					"expanded_url": "https://twitter.com/Kotaku/status/788789137260314624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 430,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 430,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 788789137260314600,
+					"source_status_id_str": "788789137260314624",
+					"source_user_id": 11928542,
+					"source_user_id_str": "11928542"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 788789134420799500,
+					"id_str": "788789134420799488",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/CvJXid_W8AAlp7E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvJXid_W8AAlp7E.jpg",
+					"url": "https://t.co/r4XBBCnNjo",
+					"display_url": "pic.twitter.com/r4XBBCnNjo",
+					"expanded_url": "https://twitter.com/Kotaku/status/788789137260314624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 430,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 430,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 788789137260314600,
+					"source_status_id_str": "788789137260314624",
+					"source_user_id": 11928542,
+					"source_user_id_str": "11928542"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1053,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6809,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 19 17:09:19 +0000 2016",
+			"id": 788789137260314600,
+			"id_str": "788789137260314624",
+			"text": "Drama over music video inflames argument about what anime is: https://t.co/AvMVukss7G https://t.co/r4XBBCnNjo",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AvMVukss7G",
+						"expanded_url": "http://bit.ly/2elUXXX",
+						"display_url": "bit.ly/2elUXXX",
+						"indices": [
+							62,
+							85
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 788789134420799500,
+						"id_str": "788789134420799488",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/CvJXid_W8AAlp7E.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvJXid_W8AAlp7E.jpg",
+						"url": "https://t.co/r4XBBCnNjo",
+						"display_url": "pic.twitter.com/r4XBBCnNjo",
+						"expanded_url": "https://twitter.com/Kotaku/status/788789137260314624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 366,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 430,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 430,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 788789134420799500,
+						"id_str": "788789134420799488",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/CvJXid_W8AAlp7E.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvJXid_W8AAlp7E.jpg",
+						"url": "https://t.co/r4XBBCnNjo",
+						"display_url": "pic.twitter.com/r4XBBCnNjo",
+						"expanded_url": "https://twitter.com/Kotaku/status/788789137260314624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 366,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 430,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 430,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 11928542,
+				"id_str": "11928542",
+				"name": "Kotaku",
+				"screen_name": "Kotaku",
+				"location": "",
+				"description": "The Gamer's Guide",
+				"url": "http://t.co/OD5OpBJUMH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/OD5OpBJUMH",
+								"expanded_url": "http://kotaku.com",
+								"display_url": "kotaku.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1294676,
+				"friends_count": 53,
+				"listed_count": 12306,
+				"created_at": "Mon Jan 07 04:09:59 +0000 2008",
+				"favourites_count": 14,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 51021,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFF9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/590507751819841536/m8cKEBI0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/590507751819841536/m8cKEBI0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11928542/1379688617",
+				"profile_link_color": "E21B5A",
+				"profile_sidebar_border_color": "C2D13D",
+				"profile_sidebar_fill_color": "C2D13D",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 53,
+			"favorite_count": 144,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 19 23:16:14 +0000 2016",
 		"id": 788881473541509100,
 		"id_str": "788881473541509120",
