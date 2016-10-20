@@ -1,6 +1,1235 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Thu Oct 20 14:14:19 +0000 2016",
+		"id": 789107483881017300,
+		"id_str": "789107483881017345",
+		"text": "부의 유산으로써 동의. \nhttps://t.co/snZprGk411",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/snZprGk411",
+					"expanded_url": "https://twitter.com/lapizverde/status/788958176955686913",
+					"display_url": "twitter.com/lapizverde/sta…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1053,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6862,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 788958176955686900,
+		"quoted_status_id_str": "788958176955686913",
+		"quoted_status": {
+			"created_at": "Thu Oct 20 04:21:02 +0000 2016",
+			"id": 788958176955686900,
+			"id_str": "788958176955686913",
+			"text": "덮어놓고 가버리면 간편하지만 그래선 안됨. 이자혜 작가와 그의 창작물을 경유한 '페미니즘적' 사회 분석의 틀은 분명히 있었음. 이자혜 작가가 성폭력 가해자로 밝혀진 이후에 더 이상 유효하게 사용하긴 힘들겠지만 적어도 그 유산에 대해선 꾸준히 논해봐야.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 788957780589748200,
+			"in_reply_to_status_id_str": "788957780589748224",
+			"in_reply_to_user_id": 81642527,
+			"in_reply_to_user_id_str": "81642527",
+			"in_reply_to_screen_name": "lapizverde",
+			"user": {
+				"id": 81642527,
+				"id_str": "81642527",
+				"name": "원뿔",
+				"screen_name": "lapizverde",
+				"location": "",
+				"description": "In your mind they do. In your mind.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3330,
+				"friends_count": 183,
+				"listed_count": 82,
+				"created_at": "Sun Oct 11 17:30:55 +0000 2009",
+				"favourites_count": 74126,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 59708,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/666218915/297bfd5756661fc113c9f35c2fef0f74.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/666218915/297bfd5756661fc113c9f35c2fef0f74.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/728856651747364864/mdpi90bf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/728856651747364864/mdpi90bf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/81642527/1437796249",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 130,
+			"favorite_count": 62,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Oct 20 14:10:05 +0000 2016",
+		"id": 789106416028033000,
+		"id_str": "789106416028033028",
+		"text": "\"그 사례의 맥락이 제거되는 순간 의미는 사라진다.\"",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 789106334557888500,
+		"in_reply_to_status_id_str": "789106334557888512",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1053,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6862,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Oct 20 14:09:45 +0000 2016",
+		"id": 789106334557888500,
+		"id_str": "789106334557888512",
+		"text": "\"사례연구는 흥미롭지만, 곤혹스럽다. 사례연구에서 제시하는 다양한 방식은 해당기업에만 최적화되어 있을 가능성이 높다. 그래서 사례연구는 요란한 방식으로 재인용된 후 적용되지 못하고 버려진다. ‘사례’라는 특수상황이 보편적 ‘이론’이 되지않기 때문이다\"",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1053,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6862,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Oct 20 13:45:38 +0000 2016",
+		"id": 789100263323816000,
+		"id_str": "789100263323815938",
+		"text": "만물의 공식 https://t.co/7gkd1VmfmJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 789100084747046900,
+					"id_str": "789100084747046912",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/CvNyWKOUEAApS_l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvNyWKOUEAApS_l.jpg",
+					"url": "https://t.co/7gkd1VmfmJ",
+					"display_url": "pic.twitter.com/7gkd1VmfmJ",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/789100263323815938/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 358,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 358,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 789100084747046900,
+					"id_str": "789100084747046912",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/CvNyWKOUEAApS_l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvNyWKOUEAApS_l.jpg",
+					"url": "https://t.co/7gkd1VmfmJ",
+					"display_url": "pic.twitter.com/7gkd1VmfmJ",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/789100263323815938/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 358,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 338,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 358,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1053,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6862,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Oct 20 13:23:46 +0000 2016",
+		"id": 789094761260908500,
+		"id_str": "789094761260908544",
+		"text": "RT @eshikiro: 가아끔씩 터지는, 동인계 창작자-감상자 간의 갑질 사건은 이런 동인의 특성을 잊고 눈에 보이는 거래만을 주목하기 때문이 아닌가, 라는 생각도 가끔 들고요.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eshikiro",
+					"name": "【망각/마녀】K̨ir͞o͟s̀aki",
+					"id": 3007969784,
+					"id_str": "3007969784",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1053,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6862,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 19 07:37:58 +0000 2016",
+			"id": 711094346968227800,
+			"id_str": "711094346968227840",
+			"text": "가아끔씩 터지는, 동인계 창작자-감상자 간의 갑질 사건은 이런 동인의 특성을 잊고 눈에 보이는 거래만을 주목하기 때문이 아닌가, 라는 생각도 가끔 들고요.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+			"in_reply_to_status_id": 711092994636587000,
+			"in_reply_to_status_id_str": "711092994636587008",
+			"in_reply_to_user_id": 3007969784,
+			"in_reply_to_user_id_str": "3007969784",
+			"in_reply_to_screen_name": "eshikiro",
+			"user": {
+				"id": 3007969784,
+				"id_str": "3007969784",
+				"name": "【망각/마녀】K̨ir͞o͟s̀aki",
+				"screen_name": "eshikiro",
+				"location": "구글플레이스토어 ▷ 망각/마녀",
+				"description": "絵を描きます。ジャンルごった煮で色々呟いてます。長谷部ちゃんなでなで。FRBはご自由にどうぞ。그림 그립니다. 잡덕입니다. 「망각/마녀」@codegraytw 그렸습니다. FRB free.【pixiv】https://t.co/Ex0E7ztisX【仕事依頼 / 작업문의】Gmail：sepherlutz",
+				"url": "https://t.co/TjDpTM1N2v",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TjDpTM1N2v",
+								"expanded_url": "http://eshikiro.tumblr.com",
+								"display_url": "eshikiro.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Ex0E7ztisX",
+								"expanded_url": "http://pixiv.me/eshikiro",
+								"display_url": "pixiv.me/eshikiro",
+								"indices": [
+									105,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 281,
+				"friends_count": 440,
+				"listed_count": 7,
+				"created_at": "Mon Feb 02 13:09:07 +0000 2015",
+				"favourites_count": 440,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9961,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/658806520260390912/Q_vgGLTM.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/658806520260390912/Q_vgGLTM.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/778099134838472704/yxUrwepS_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/778099134838472704/yxUrwepS_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3007969784/1459472498",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 148,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 148,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Oct 20 13:23:44 +0000 2016",
+		"id": 789094752205410300,
+		"id_str": "789094752205410304",
+		"text": "RT @eshikiro: 동인지를 \"판매\"한다고 하지 않고 \"배포\"한다고 하는 것도, \"소비러\"라 흔히 불리는 동인계 사람들을 \"고객\"이라 부르지 않는 것도, \"동인계는 창작자와 감상자가 함께 만들어가는 것\"이라는 정의?도 여기에서 유래한 것.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eshikiro",
+					"name": "【망각/마녀】K̨ir͞o͟s̀aki",
+					"id": 3007969784,
+					"id_str": "3007969784",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1053,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6862,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 19 07:32:36 +0000 2016",
+			"id": 711092994636587000,
+			"id_str": "711092994636587008",
+			"text": "동인지를 \"판매\"한다고 하지 않고 \"배포\"한다고 하는 것도, \"소비러\"라 흔히 불리는 동인계 사람들을 \"고객\"이라 부르지 않는 것도, \"동인계는 창작자와 감상자가 함께 만들어가는 것\"이라는 정의?도 여기에서 유래한 것.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+			"in_reply_to_status_id": 711091909498765300,
+			"in_reply_to_status_id_str": "711091909498765312",
+			"in_reply_to_user_id": 3007969784,
+			"in_reply_to_user_id_str": "3007969784",
+			"in_reply_to_screen_name": "eshikiro",
+			"user": {
+				"id": 3007969784,
+				"id_str": "3007969784",
+				"name": "【망각/마녀】K̨ir͞o͟s̀aki",
+				"screen_name": "eshikiro",
+				"location": "구글플레이스토어 ▷ 망각/마녀",
+				"description": "絵を描きます。ジャンルごった煮で色々呟いてます。長谷部ちゃんなでなで。FRBはご自由にどうぞ。그림 그립니다. 잡덕입니다. 「망각/마녀」@codegraytw 그렸습니다. FRB free.【pixiv】https://t.co/Ex0E7ztisX【仕事依頼 / 작업문의】Gmail：sepherlutz",
+				"url": "https://t.co/TjDpTM1N2v",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TjDpTM1N2v",
+								"expanded_url": "http://eshikiro.tumblr.com",
+								"display_url": "eshikiro.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Ex0E7ztisX",
+								"expanded_url": "http://pixiv.me/eshikiro",
+								"display_url": "pixiv.me/eshikiro",
+								"indices": [
+									105,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 281,
+				"friends_count": 440,
+				"listed_count": 7,
+				"created_at": "Mon Feb 02 13:09:07 +0000 2015",
+				"favourites_count": 440,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9961,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/658806520260390912/Q_vgGLTM.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/658806520260390912/Q_vgGLTM.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/778099134838472704/yxUrwepS_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/778099134838472704/yxUrwepS_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3007969784/1459472498",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 287,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 287,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Oct 20 13:23:42 +0000 2016",
+		"id": 789094742986412000,
+		"id_str": "789094742986412034",
+		"text": "RT @eshikiro: 그래서, 서클 멤버 외의 사람이 동인지를 가지려 할 때엔, \"서클의 유지와 동인지 제작에 참여했다면 지불했어야 하는 비용\"을 돈으로 냈는데, 이것이 \"반포가격\"이라 불리는 그 금액입니다. (당연히 저 \"비용\"은 인쇄비부터 노…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eshikiro",
+					"name": "【망각/마녀】K̨ir͞o͟s̀aki",
+					"id": 3007969784,
+					"id_str": "3007969784",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1053,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6862,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 19 07:28:17 +0000 2016",
+			"id": 711091909498765300,
+			"id_str": "711091909498765312",
+			"text": "그래서, 서클 멤버 외의 사람이 동인지를 가지려 할 때엔, \"서클의 유지와 동인지 제작에 참여했다면 지불했어야 하는 비용\"을 돈으로 냈는데, 이것이 \"반포가격\"이라 불리는 그 금액입니다. (당연히 저 \"비용\"은 인쇄비부터 노동까지 모두 포함합니다)",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+			"in_reply_to_status_id": 711090448589131800,
+			"in_reply_to_status_id_str": "711090448589131776",
+			"in_reply_to_user_id": 3007969784,
+			"in_reply_to_user_id_str": "3007969784",
+			"in_reply_to_screen_name": "eshikiro",
+			"user": {
+				"id": 3007969784,
+				"id_str": "3007969784",
+				"name": "【망각/마녀】K̨ir͞o͟s̀aki",
+				"screen_name": "eshikiro",
+				"location": "구글플레이스토어 ▷ 망각/마녀",
+				"description": "絵を描きます。ジャンルごった煮で色々呟いてます。長谷部ちゃんなでなで。FRBはご自由にどうぞ。그림 그립니다. 잡덕입니다. 「망각/마녀」@codegraytw 그렸습니다. FRB free.【pixiv】https://t.co/Ex0E7ztisX【仕事依頼 / 작업문의】Gmail：sepherlutz",
+				"url": "https://t.co/TjDpTM1N2v",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TjDpTM1N2v",
+								"expanded_url": "http://eshikiro.tumblr.com",
+								"display_url": "eshikiro.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Ex0E7ztisX",
+								"expanded_url": "http://pixiv.me/eshikiro",
+								"display_url": "pixiv.me/eshikiro",
+								"indices": [
+									105,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 281,
+				"friends_count": 440,
+				"listed_count": 7,
+				"created_at": "Mon Feb 02 13:09:07 +0000 2015",
+				"favourites_count": 440,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9961,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/658806520260390912/Q_vgGLTM.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/658806520260390912/Q_vgGLTM.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/778099134838472704/yxUrwepS_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/778099134838472704/yxUrwepS_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3007969784/1459472498",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 310,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 310,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Oct 20 13:23:03 +0000 2016",
+		"id": 789094583057526800,
+		"id_str": "789094583057526784",
+		"text": "RT @eshikiro: 예전에 본, 일본에서 동인지 값을 \"판매가격\"이라 쓰지 않고 \"반포가격頒布価格\"이라 쓰는 것에 대한 이야기. 원래라면 \"동인지\"는 같이 창작하는 동인서클 내의 사람들끼리 나눠가지는 것으로, 서클 바깥의 사람은 구할 수 없는…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eshikiro",
+					"name": "【망각/마녀】K̨ir͞o͟s̀aki",
+					"id": 3007969784,
+					"id_str": "3007969784",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1053,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6862,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 19 07:22:29 +0000 2016",
+			"id": 711090448589131800,
+			"id_str": "711090448589131776",
+			"text": "예전에 본, 일본에서 동인지 값을 \"판매가격\"이라 쓰지 않고 \"반포가격頒布価格\"이라 쓰는 것에 대한 이야기. 원래라면 \"동인지\"는 같이 창작하는 동인서클 내의 사람들끼리 나눠가지는 것으로, 서클 바깥의 사람은 구할 수 없는 물건이었다 합니다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3007969784,
+				"id_str": "3007969784",
+				"name": "【망각/마녀】K̨ir͞o͟s̀aki",
+				"screen_name": "eshikiro",
+				"location": "구글플레이스토어 ▷ 망각/마녀",
+				"description": "絵を描きます。ジャンルごった煮で色々呟いてます。長谷部ちゃんなでなで。FRBはご自由にどうぞ。그림 그립니다. 잡덕입니다. 「망각/마녀」@codegraytw 그렸습니다. FRB free.【pixiv】https://t.co/Ex0E7ztisX【仕事依頼 / 작업문의】Gmail：sepherlutz",
+				"url": "https://t.co/TjDpTM1N2v",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TjDpTM1N2v",
+								"expanded_url": "http://eshikiro.tumblr.com",
+								"display_url": "eshikiro.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Ex0E7ztisX",
+								"expanded_url": "http://pixiv.me/eshikiro",
+								"display_url": "pixiv.me/eshikiro",
+								"indices": [
+									105,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 281,
+				"friends_count": 440,
+				"listed_count": 7,
+				"created_at": "Mon Feb 02 13:09:07 +0000 2015",
+				"favourites_count": 440,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9961,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/658806520260390912/Q_vgGLTM.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/658806520260390912/Q_vgGLTM.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/778099134838472704/yxUrwepS_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/778099134838472704/yxUrwepS_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3007969784/1459472498",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 392,
+			"favorite_count": 50,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 392,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Oct 20 13:07:13 +0000 2016",
 		"id": 789090598170918900,
 		"id_str": "789090598170918913",
