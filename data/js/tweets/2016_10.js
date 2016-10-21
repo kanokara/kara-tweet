@@ -1,6 +1,186 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Fri Oct 21 15:14:53 +0000 2016",
+		"id": 789485114665209900,
+		"id_str": "789485114665209857",
+		"text": "상기되는 것들이 많아서 살짝 소름. 의식화된 신호가 아니라, 무의식적인 교환이었을 것이란 점에서 더욱.\nhttps://t.co/3kmJqbkaUS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3kmJqbkaUS",
+					"expanded_url": "https://twitter.com/dvddog/status/789481943725318147",
+					"display_url": "twitter.com/dvddog/status/…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1053,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6942,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 789481943725318100,
+		"quoted_status_id_str": "789481943725318147",
+		"quoted_status": {
+			"created_at": "Fri Oct 21 15:02:17 +0000 2016",
+			"id": 789481943725318100,
+			"id_str": "789481943725318147",
+			"text": "그건 단순한 물음이라기보다는 '너도 나랑 같은 그룹이지?'란 신호였기 때문이었다. 그 전까지 아무렇지 않게 얘기하던 것이 다르게 읽히는 순간. 누가 너 혼자 깨끗하려고 하는 치사한 놈이라고 하더라도, \"그래도 나는 하지 않았\"다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 789480155219566600,
+			"in_reply_to_status_id_str": "789480155219566592",
+			"in_reply_to_user_id": 3138788114,
+			"in_reply_to_user_id_str": "3138788114",
+			"in_reply_to_screen_name": "dvddog",
+			"user": {
+				"id": 3138788114,
+				"id_str": "3138788114",
+				"name": "데이비드 댕댕이",
+				"screen_name": "dvddog",
+				"location": "세이셸",
+				"description": "개점휴업 희망중",
+				"url": "https://t.co/9mpfiKtEof",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9mpfiKtEof",
+								"expanded_url": "http://noobcoela.egloos.com/",
+								"display_url": "noobcoela.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 355,
+				"friends_count": 80,
+				"listed_count": 15,
+				"created_at": "Sat Apr 04 10:07:10 +0000 2015",
+				"favourites_count": 617,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 95551,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3138788114/1447160790",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Oct 21 15:12:58 +0000 2016",
 		"id": 789484632123125800,
 		"id_str": "789484632123125761",
