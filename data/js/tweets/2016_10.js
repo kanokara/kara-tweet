@@ -1,6 +1,184 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Fri Oct 21 01:33:13 +0000 2016",
+		"id": 789278332919480300,
+		"id_str": "789278332919480320",
+		"text": "RT @izemag: 방탄소년단을 위시한 최근 세대 아이돌은 과거처럼 우연히 해외에서 인기를 얻거나, 국내에서 정상의 위치에 오른 후 해외로 진출한다는 과거의 방식을 따르지 않는다. 그들에게는 유튜브와 스트리밍, SNS와 인터넷이 데뷔 때부터 주어졌…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "izemag",
+					"name": "ize magazine",
+					"id": 1447965822,
+					"id_str": "1447965822",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1053,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6878,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 20 00:21:28 +0000 2016",
+			"id": 788897889187536900,
+			"id_str": "788897889187536896",
+			"text": "방탄소년단을 위시한 최근 세대 아이돌은 과거처럼 우연히 해외에서 인기를 얻거나, 국내에서 정상의 위치에 오른 후 해외로 진출한다는 과거의 방식을 따르지 않는다. 그들에게는 유튜브와 스트리밍, SNS와 인터넷이 데뷔 때부터 주어졌다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 788897414207844400,
+			"in_reply_to_status_id_str": "788897414207844356",
+			"in_reply_to_user_id": 1447965822,
+			"in_reply_to_user_id_str": "1447965822",
+			"in_reply_to_screen_name": "izemag",
+			"user": {
+				"id": 1447965822,
+				"id_str": "1447965822",
+				"name": "ize magazine",
+				"screen_name": "izemag",
+				"location": "",
+				"description": "웹 매거진 [아이즈]입니다.",
+				"url": "https://t.co/SGz4w9fK0U",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SGz4w9fK0U",
+								"expanded_url": "http://www.ize.co.kr",
+								"display_url": "ize.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39668,
+				"friends_count": 8,
+				"listed_count": 349,
+				"created_at": "Wed May 22 04:54:50 +0000 2013",
+				"favourites_count": 6,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8500,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/669374674485178368/78FTe192_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/669374674485178368/78FTe192_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1447965822/1469609488",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 383,
+			"favorite_count": 405,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 383,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Oct 21 00:50:52 +0000 2016",
 		"id": 789267675457347600,
 		"id_str": "789267675457347584",
