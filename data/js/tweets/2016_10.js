@@ -1,6 +1,184 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Fri Oct 21 12:49:40 +0000 2016",
+		"id": 789448569157673000,
+		"id_str": "789448569157672961",
+		"text": "RT @SharoUser: 자존감 낮은 어린 여자와 그거 이용해먹는 늙은 남자라는 구도가 그 표현형만 바뀔 뿐 거의 모든 판에서 똑같이 반복되고 있는데 여기서 씹타쿠 문화의 여성혐오가 원인이라고 지목한 사람들은 좀 부끄러워해야 하지 않나 ㅎ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SharoUser",
+					"name": "샤유",
+					"id": 122990721,
+					"id_str": "122990721",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1053,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6927,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 21 03:44:21 +0000 2016",
+			"id": 789311332977745900,
+			"id_str": "789311332977745920",
+			"text": "자존감 낮은 어린 여자와 그거 이용해먹는 늙은 남자라는 구도가 그 표현형만 바뀔 뿐 거의 모든 판에서 똑같이 반복되고 있는데 여기서 씹타쿠 문화의 여성혐오가 원인이라고 지목한 사람들은 좀 부끄러워해야 하지 않나 ㅎ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 789310448742993900,
+			"in_reply_to_status_id_str": "789310448742993920",
+			"in_reply_to_user_id": 122990721,
+			"in_reply_to_user_id_str": "122990721",
+			"in_reply_to_screen_name": "SharoUser",
+			"user": {
+				"id": 122990721,
+				"id_str": "122990721",
+				"name": "샤유",
+				"screen_name": "SharoUser",
+				"location": "신전기 월드",
+				"description": "싸구려 대중문화의 신봉자",
+				"url": "https://t.co/MWUT2HeRuM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MWUT2HeRuM",
+								"expanded_url": "http://shau-notebook.postype.com",
+								"display_url": "shau-notebook.postype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 392,
+				"friends_count": 305,
+				"listed_count": 10,
+				"created_at": "Sun Mar 14 16:06:40 +0000 2010",
+				"favourites_count": 87,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 60786,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715916878758023169/nigskTVa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715916878758023169/nigskTVa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/122990721/1472271089",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 55,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Oct 21 11:58:56 +0000 2016",
 		"id": 789435801864069100,
 		"id_str": "789435801864069120",
