@@ -1,6 +1,184 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Fri Oct 21 17:11:42 +0000 2016",
+		"id": 789514512793612300,
+		"id_str": "789514512793612288",
+		"text": "RT @st_disegno: 자신이 정의의 심판자쯤 된다고 착각해서 분에 못이겨 여기저기 들이박는 사람들, 실제로는 사건에 감정을 투사해 이슈 소비자로 행동하며 건설적 담론화의 가능성을 황폐화시키고 있음을 깨닫기 바란다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "st_disegno",
+					"name": "임범묵 AKA 이정우 AKA 임근준",
+					"id": 373345221,
+					"id_str": "373345221",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1053,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6943,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 21 17:05:33 +0000 2016",
+			"id": 789512961366777900,
+			"id_str": "789512961366777856",
+			"text": "자신이 정의의 심판자쯤 된다고 착각해서 분에 못이겨 여기저기 들이박는 사람들, 실제로는 사건에 감정을 투사해 이슈 소비자로 행동하며 건설적 담론화의 가능성을 황폐화시키고 있음을 깨닫기 바란다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 373345221,
+				"id_str": "373345221",
+				"name": "임범묵 AKA 이정우 AKA 임근준",
+				"screen_name": "st_disegno",
+				"location": "crazyseoul",
+				"description": "미술·디자인 평론가 ☄ _ 95년부터 00년까지 LGBT운동가로 활동했고, 이후 계간 공예와 문화 편집장, 한국미술연구소/시공아트 편집장, 월간 아트인컬처 편집장 등으로 일했다. / [현대미술의 끝: 좀비 모던 시대의 예술 생존법](가제)을 출간 준비 중.",
+				"url": "https://t.co/H5gf9iSua0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H5gf9iSua0",
+								"expanded_url": "http://chungwoo.egloos.com",
+								"display_url": "chungwoo.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19878,
+				"friends_count": 6697,
+				"listed_count": 302,
+				"created_at": "Wed Sep 14 12:25:03 +0000 2011",
+				"favourites_count": 0,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 46828,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/713775883400699904/u8qF_2Bu.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/713775883400699904/u8qF_2Bu.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/705318659187568644/rmY77dcv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/705318659187568644/rmY77dcv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/373345221/1473974862",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Oct 21 15:14:53 +0000 2016",
 		"id": 789485114665209900,
 		"id_str": "789485114665209857",
