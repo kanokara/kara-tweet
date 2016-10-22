@@ -1,6 +1,841 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Sat Oct 22 01:55:13 +0000 2016",
+		"id": 789646259862712300,
+		"id_str": "789646259862712321",
+		"text": "RT @Drdkh_: 이맛헬 https://t.co/N7KfGf4lpG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Drdkh_",
+					"name": "Silmaluomi",
+					"id": 398472310,
+					"id_str": "398472310",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 789613868100169700,
+					"id_str": "789613868100169728",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/CvVFoSXVMAAsRAu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvVFoSXVMAAsRAu.jpg",
+					"url": "https://t.co/N7KfGf4lpG",
+					"display_url": "pic.twitter.com/N7KfGf4lpG",
+					"expanded_url": "https://twitter.com/Drdkh_/status/789613875842867200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 789613875842867200,
+					"source_status_id_str": "789613875842867200",
+					"source_user_id": 398472310,
+					"source_user_id_str": "398472310"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 789613868100169700,
+					"id_str": "789613868100169728",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/CvVFoSXVMAAsRAu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CvVFoSXVMAAsRAu.jpg",
+					"url": "https://t.co/N7KfGf4lpG",
+					"display_url": "pic.twitter.com/N7KfGf4lpG",
+					"expanded_url": "https://twitter.com/Drdkh_/status/789613875842867200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 789613875842867200,
+					"source_status_id_str": "789613875842867200",
+					"source_user_id": 398472310,
+					"source_user_id_str": "398472310"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1053,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6945,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 21 23:46:32 +0000 2016",
+			"id": 789613875842867200,
+			"id_str": "789613875842867200",
+			"text": "이맛헬 https://t.co/N7KfGf4lpG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 789613868100169700,
+						"id_str": "789613868100169728",
+						"indices": [
+							4,
+							27
+						],
+						"media_url": "http://pbs.twimg.com/media/CvVFoSXVMAAsRAu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvVFoSXVMAAsRAu.jpg",
+						"url": "https://t.co/N7KfGf4lpG",
+						"display_url": "pic.twitter.com/N7KfGf4lpG",
+						"expanded_url": "https://twitter.com/Drdkh_/status/789613875842867200/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 789613868100169700,
+						"id_str": "789613868100169728",
+						"indices": [
+							4,
+							27
+						],
+						"media_url": "http://pbs.twimg.com/media/CvVFoSXVMAAsRAu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CvVFoSXVMAAsRAu.jpg",
+						"url": "https://t.co/N7KfGf4lpG",
+						"display_url": "pic.twitter.com/N7KfGf4lpG",
+						"expanded_url": "https://twitter.com/Drdkh_/status/789613875842867200/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 398472310,
+				"id_str": "398472310",
+				"name": "Silmaluomi",
+				"screen_name": "Drdkh_",
+				"location": "Somewhere along the highway",
+				"description": "Mind the Gap / 돌겜 황금수집가, 불타는 군단에 맞서는 고대의 와라버지 / 호칭은 씰님이라고 하면 좋아합니다.",
+				"url": "https://t.co/FOhD43AROR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FOhD43AROR",
+								"expanded_url": "http://silmaluomi.tumblr.com/",
+								"display_url": "silmaluomi.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 641,
+				"friends_count": 65,
+				"listed_count": 15,
+				"created_at": "Wed Oct 26 03:18:09 +0000 2011",
+				"favourites_count": 242,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 150605,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "001329",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453547115835187201/Er3Fgh7S.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/453547115835187201/Er3Fgh7S.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/789144679853928452/AnAKvvwW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/789144679853928452/AnAKvvwW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/398472310/1460022602",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "000B17",
+				"profile_text_color": "448668",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Oct 22 01:51:41 +0000 2016",
+		"id": 789645370141704200,
+		"id_str": "789645370141704192",
+		"text": "RT @shibanyan: 受信料の件はこれでチャラですね #NAOMIの部屋 https://t.co/sDkSFjalWe",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NAOMIの部屋",
+					"indices": [
+						31,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shibanyan",
+					"name": "しばにゃん",
+					"id": 2919318426,
+					"id_str": "2919318426",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 789508828878377000,
+					"id_str": "789508828878376960",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/789508828878376960/pu/img/EVQA3Lb9xzbdyodE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/789508828878376960/pu/img/EVQA3Lb9xzbdyodE.jpg",
+					"url": "https://t.co/sDkSFjalWe",
+					"display_url": "pic.twitter.com/sDkSFjalWe",
+					"expanded_url": "https://twitter.com/shibanyan/status/789509300615917568/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 789509300615917600,
+					"source_status_id_str": "789509300615917568",
+					"source_user_id": 2919318426,
+					"source_user_id_str": "2919318426"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 789508828878377000,
+					"id_str": "789508828878376960",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/789508828878376960/pu/img/EVQA3Lb9xzbdyodE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/789508828878376960/pu/img/EVQA3Lb9xzbdyodE.jpg",
+					"url": "https://t.co/sDkSFjalWe",
+					"display_url": "pic.twitter.com/sDkSFjalWe",
+					"expanded_url": "https://twitter.com/shibanyan/status/789509300615917568/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 789509300615917600,
+					"source_status_id_str": "789509300615917568",
+					"source_user_id": 2919318426,
+					"source_user_id_str": "2919318426",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 102833,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/789508828878376960/pu/vid/1280x720/YrGuwdRPfIzXrsmO.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/789508828878376960/pu/vid/320x180/9hkTZclRjOW6nxnm.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/789508828878376960/pu/pl/JNIvhD7FnJOdzovv.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/789508828878376960/pu/vid/640x360/ccyX3ZL5RCxFIeEa.mp4"
+							},
+							{
+								"content_type": "application/dash+xml",
+								"url": "https://video.twimg.com/ext_tw_video/789508828878376960/pu/pl/JNIvhD7FnJOdzovv.mpd"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2919318426,
+							"id_str": "2919318426",
+							"name": "しばにゃん",
+							"screen_name": "shibanyan",
+							"location": "JKが戦車で撃ち合いしてる街の難民キャンプ",
+							"description": "TV・アニメ実況、煽り画像収集家。ロード乗ったりピアノ弾いたりもする。 (非常用垢→@shibanyan_1)",
+							"url": "https://t.co/BB5yC1S10m",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/BB5yC1S10m",
+											"expanded_url": "http://togetter.com/id/shibanyan",
+											"display_url": "togetter.com/id/shibanyan",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 5516,
+							"friends_count": 5259,
+							"listed_count": 51,
+							"created_at": "Fri Dec 05 07:16:42 +0000 2014",
+							"favourites_count": 32768,
+							"utc_offset": 32400,
+							"time_zone": "Tokyo",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 28993,
+							"lang": "ja",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/786558780720844800/hanmJ1KP_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/786558780720844800/hanmJ1KP_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2919318426/1473904379",
+							"profile_link_color": "1B95E0",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1053,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6945,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 21 16:51:00 +0000 2016",
+			"id": 789509300615917600,
+			"id_str": "789509300615917568",
+			"text": "受信料の件はこれでチャラですね #NAOMIの部屋 https://t.co/sDkSFjalWe",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NAOMIの部屋",
+						"indices": [
+							16,
+							25
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 789508828878377000,
+						"id_str": "789508828878376960",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/789508828878376960/pu/img/EVQA3Lb9xzbdyodE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/789508828878376960/pu/img/EVQA3Lb9xzbdyodE.jpg",
+						"url": "https://t.co/sDkSFjalWe",
+						"display_url": "pic.twitter.com/sDkSFjalWe",
+						"expanded_url": "https://twitter.com/shibanyan/status/789509300615917568/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 789508828878377000,
+						"id_str": "789508828878376960",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/789508828878376960/pu/img/EVQA3Lb9xzbdyodE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/789508828878376960/pu/img/EVQA3Lb9xzbdyodE.jpg",
+						"url": "https://t.co/sDkSFjalWe",
+						"display_url": "pic.twitter.com/sDkSFjalWe",
+						"expanded_url": "https://twitter.com/shibanyan/status/789509300615917568/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 102833,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/789508828878376960/pu/vid/1280x720/YrGuwdRPfIzXrsmO.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/789508828878376960/pu/vid/320x180/9hkTZclRjOW6nxnm.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/789508828878376960/pu/pl/JNIvhD7FnJOdzovv.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/789508828878376960/pu/vid/640x360/ccyX3ZL5RCxFIeEa.mp4"
+								},
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/789508828878376960/pu/pl/JNIvhD7FnJOdzovv.mpd"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2919318426,
+				"id_str": "2919318426",
+				"name": "しばにゃん",
+				"screen_name": "shibanyan",
+				"location": "JKが戦車で撃ち合いしてる街の難民キャンプ",
+				"description": "TV・アニメ実況、煽り画像収集家。ロード乗ったりピアノ弾いたりもする。 (非常用垢→@shibanyan_1)",
+				"url": "https://t.co/BB5yC1S10m",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BB5yC1S10m",
+								"expanded_url": "http://togetter.com/id/shibanyan",
+								"display_url": "togetter.com/id/shibanyan",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5516,
+				"friends_count": 5259,
+				"listed_count": 51,
+				"created_at": "Fri Dec 05 07:16:42 +0000 2014",
+				"favourites_count": 32768,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 28993,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/786558780720844800/hanmJ1KP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/786558780720844800/hanmJ1KP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2919318426/1473904379",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2761,
+			"favorite_count": 3495,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2761,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Fri Oct 21 17:11:42 +0000 2016",
 		"id": 789514512793612300,
 		"id_str": "789514512793612288",
