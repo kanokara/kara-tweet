@@ -1,6 +1,1304 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Tue Nov 01 15:36:43 +0000 2016",
+		"id": 793476875716694000,
+		"id_str": "793476875716694016",
+		"text": "RT @twirebox: 얼마전에는 《조선신보》인터네트홈페지에 박근혜의 《의혹의 7시간》행적과 관련한 충격적인 글이 실리였다.\n그에 의하면 박근혜는 그 7시간동안 《보톡스》라는 주사를 맞았다고 한다. 《보톡스》는 주름살을 없애는 근육수축주사로서...…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "twirebox",
+					"name": "와이어박스",
+					"id": 46648355,
+					"id_str": "46648355",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1042,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7140,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 01 00:57:08 +0000 2016",
+			"id": 793255519959982100,
+			"id_str": "793255519959982080",
+			"text": "얼마전에는 《조선신보》인터네트홈페지에 박근혜의 《의혹의 7시간》행적과 관련한 충격적인 글이 실리였다.\n그에 의하면 박근혜는 그 7시간동안 《보톡스》라는 주사를 맞았다고 한다. 《보톡스》는 주름살을 없애는 근육수축주사로서... 원문에 이렇게 나와있음",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 793255408685027300,
+			"in_reply_to_status_id_str": "793255408685027328",
+			"in_reply_to_user_id": 46648355,
+			"in_reply_to_user_id_str": "46648355",
+			"in_reply_to_screen_name": "twirebox",
+			"user": {
+				"id": 46648355,
+				"id_str": "46648355",
+				"name": "와이어박스",
+				"screen_name": "twirebox",
+				"location": "대한민국 마포구",
+				"description": "슈가슈가 많이 드시고 진료실에서 만나요.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2214,
+				"friends_count": 1578,
+				"listed_count": 45,
+				"created_at": "Fri Jun 12 13:16:25 +0000 2009",
+				"favourites_count": 1085,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 45484,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/588336879386296321/2A0zJMbz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/588336879386296321/2A0zJMbz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/46648355/1429105417",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Nov 01 15:36:41 +0000 2016",
+		"id": 793476866518626300,
+		"id_str": "793476866518626304",
+		"text": "RT @twirebox: 북한에서 박근혜 보톡스를 알고있었다는 듯이 돌고있길래 찾아보니, 우리민족끼리에서도 조선일보 홈페이지에 올라온 글을 가지고 그냥 인용하는 것이었을 뿐. 누군가 조선일보 게시판에다가 쓸 글이 시작이었나보다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "twirebox",
+					"name": "와이어박스",
+					"id": 46648355,
+					"id_str": "46648355",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1042,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7140,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 01 00:56:42 +0000 2016",
+			"id": 793255408685027300,
+			"id_str": "793255408685027328",
+			"text": "북한에서 박근혜 보톡스를 알고있었다는 듯이 돌고있길래 찾아보니, 우리민족끼리에서도 조선일보 홈페이지에 올라온 글을 가지고 그냥 인용하는 것이었을 뿐. 누군가 조선일보 게시판에다가 쓸 글이 시작이었나보다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 46648355,
+				"id_str": "46648355",
+				"name": "와이어박스",
+				"screen_name": "twirebox",
+				"location": "대한민국 마포구",
+				"description": "슈가슈가 많이 드시고 진료실에서 만나요.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2214,
+				"friends_count": 1578,
+				"listed_count": 45,
+				"created_at": "Fri Jun 12 13:16:25 +0000 2009",
+				"favourites_count": 1085,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 45484,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/588336879386296321/2A0zJMbz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/588336879386296321/2A0zJMbz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/46648355/1429105417",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Nov 01 15:26:18 +0000 2016",
+		"id": 793474252179578900,
+		"id_str": "793474252179578880",
+		"text": "미치겠다 진짜.\nhttps://t.co/q2160gvj1W",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q2160gvj1W",
+					"expanded_url": "https://twitter.com/woochick/status/792960089791483906",
+					"display_url": "twitter.com/woochick/statu…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1042,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7140,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 792960089791483900,
+		"quoted_status_id_str": "792960089791483906",
+		"quoted_status": {
+			"created_at": "Mon Oct 31 05:23:12 +0000 2016",
+			"id": 792960089791483900,
+			"id_str": "792960089791483906",
+			"text": "박근혜 세월호 7시간 김정은이 가르쳐줬는데 아무도 안믿었음... https://t.co/AcAzJ528dw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 792960063430283300,
+						"id_str": "792960063430283264",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/media/CwEo-fXVUAAnddU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CwEo-fXVUAAnddU.jpg",
+						"url": "https://t.co/AcAzJ528dw",
+						"display_url": "pic.twitter.com/AcAzJ528dw",
+						"expanded_url": "https://twitter.com/woochick/status/792960089791483906/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 558,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 680,
+								"h": 829,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 680,
+								"h": 829,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 792960063430283300,
+						"id_str": "792960063430283264",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/media/CwEo-fXVUAAnddU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CwEo-fXVUAAnddU.jpg",
+						"url": "https://t.co/AcAzJ528dw",
+						"display_url": "pic.twitter.com/AcAzJ528dw",
+						"expanded_url": "https://twitter.com/woochick/status/792960089791483906/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 558,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 680,
+								"h": 829,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 680,
+								"h": 829,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 792960076352852000,
+						"id_str": "792960076352851968",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/media/CwEo_PgUEAA_hJt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CwEo_PgUEAA_hJt.jpg",
+						"url": "https://t.co/AcAzJ528dw",
+						"display_url": "pic.twitter.com/AcAzJ528dw",
+						"expanded_url": "https://twitter.com/woochick/status/792960089791483906/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 696,
+								"h": 543,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 696,
+								"h": 543,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 531,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 63066773,
+				"id_str": "63066773",
+				"name": "춰",
+				"screen_name": "woochick",
+				"location": "덕우주",
+				"description": "부채깎는 노인",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 941,
+				"friends_count": 174,
+				"listed_count": 24,
+				"created_at": "Wed Aug 05 07:45:08 +0000 2009",
+				"favourites_count": 776,
+				"utc_offset": 32400,
+				"time_zone": "Osaka",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30450,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B6B6B6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/109554783/sw.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/109554783/sw.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/443256328933224448/jRUVCpD7_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/443256328933224448/jRUVCpD7_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63066773/1394723610",
+				"profile_link_color": "FFBB00",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "BF0000",
+				"profile_text_color": "4D3339",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17802,
+			"favorite_count": 1943,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Nov 01 15:25:58 +0000 2016",
+		"id": 793474167664316400,
+		"id_str": "793474167664316416",
+		"text": "RT @SlRlbot: (주- 여러분 단독이 쉴새없이 쏟아지고 있지만, 이 단독만은 꼭 보셨으면 합니다. 박근혜 대통령이 '세월호 참사 다음날'에 최순실 딸 정유라의 대학 들어갈 스펙을 위해 체육개혁을 지시한 내용입니다.) https://t.co/d…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SlRlbot",
+					"name": "최순실뉴스봇",
+					"id": 790347505321910300,
+					"id_str": "790347505321910272",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1042,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7140,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 01 07:48:36 +0000 2016",
+			"id": 793359068609916900,
+			"id_str": "793359068609916928",
+			"text": "(주- 여러분 단독이 쉴새없이 쏟아지고 있지만, 이 단독만은 꼭 보셨으면 합니다. 박근혜 대통령이 '세월호 참사 다음날'에 최순실 딸 정유라의 대학 들어갈 스펙을 위해 체육개혁을 지시한 내용입니다.) https://t.co/dFuGChV1Ri",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 793359054966054900,
+						"id_str": "793359054966054912",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/CwKT22qXYAAyjdh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CwKT22qXYAAyjdh.jpg",
+						"url": "https://t.co/dFuGChV1Ri",
+						"display_url": "pic.twitter.com/dFuGChV1Ri",
+						"expanded_url": "https://twitter.com/SlRlbot/status/793359068609916928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1272,
+								"h": 714,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 793359054966054900,
+						"id_str": "793359054966054912",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/CwKT22qXYAAyjdh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CwKT22qXYAAyjdh.jpg",
+						"url": "https://t.co/dFuGChV1Ri",
+						"display_url": "pic.twitter.com/dFuGChV1Ri",
+						"expanded_url": "https://twitter.com/SlRlbot/status/793359068609916928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1272,
+								"h": 714,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 793359063056724000,
+						"id_str": "793359063056723968",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/media/CwKT3UzVMAAke2Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CwKT3UzVMAAke2Q.jpg",
+						"url": "https://t.co/dFuGChV1Ri",
+						"display_url": "pic.twitter.com/dFuGChV1Ri",
+						"expanded_url": "https://twitter.com/SlRlbot/status/793359068609916928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1272,
+								"h": 714,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.wallaceandgromit.com\" rel=\"nofollow\">Gromitweet for iOS</a>",
+			"in_reply_to_status_id": 793356298066669600,
+			"in_reply_to_status_id_str": "793356298066669568",
+			"in_reply_to_user_id": 790347505321910300,
+			"in_reply_to_user_id_str": "790347505321910272",
+			"in_reply_to_screen_name": "SlRlbot",
+			"user": {
+				"id": 790347505321910300,
+				"id_str": "790347505321910272",
+				"name": "최순실뉴스봇",
+				"screen_name": "SlRlbot",
+				"location": "Uiwang-si, Republic of Korea",
+				"description": "당분간 최순실 의혹 관련 뉴스를 중심으로 큐레이팅합니다. 단독 기사가 빠르게 올라옵니다. 수만 가지 비리를 여기에서 확인하세요. 최순실봇 (@GH_PARK)이 아닙니다. '주요·정리 기사'는 마음통에서 확인하세요.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3630,
+				"friends_count": 4,
+				"listed_count": 37,
+				"created_at": "Mon Oct 24 00:21:44 +0000 2016",
+				"favourites_count": 9,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 453,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/792211613096955904/E0wqhH_S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/792211613096955904/E0wqhH_S_normal.jpg",
+				"profile_link_color": "2B7BB9",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5387,
+			"favorite_count": 457,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5387,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Nov 01 15:25:44 +0000 2016",
+		"id": 793474109065666600,
+		"id_str": "793474109065666560",
+		"text": "RT @woochick: 박근혜 세월호 7시간 김정은이 가르쳐줬는데 아무도 안믿었음... https://t.co/AcAzJ528dw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "woochick",
+					"name": "춰",
+					"id": 63066773,
+					"id_str": "63066773",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 792960063430283300,
+					"id_str": "792960063430283264",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/CwEo-fXVUAAnddU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CwEo-fXVUAAnddU.jpg",
+					"url": "https://t.co/AcAzJ528dw",
+					"display_url": "pic.twitter.com/AcAzJ528dw",
+					"expanded_url": "https://twitter.com/woochick/status/792960089791483906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 558,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 680,
+							"h": 829,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 829,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 792960089791483900,
+					"source_status_id_str": "792960089791483906",
+					"source_user_id": 63066773,
+					"source_user_id_str": "63066773"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 792960063430283300,
+					"id_str": "792960063430283264",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/CwEo-fXVUAAnddU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CwEo-fXVUAAnddU.jpg",
+					"url": "https://t.co/AcAzJ528dw",
+					"display_url": "pic.twitter.com/AcAzJ528dw",
+					"expanded_url": "https://twitter.com/woochick/status/792960089791483906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 558,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 680,
+							"h": 829,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 829,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 792960089791483900,
+					"source_status_id_str": "792960089791483906",
+					"source_user_id": 63066773,
+					"source_user_id_str": "63066773"
+				},
+				{
+					"id": 792960076352852000,
+					"id_str": "792960076352851968",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/CwEo_PgUEAA_hJt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CwEo_PgUEAA_hJt.jpg",
+					"url": "https://t.co/AcAzJ528dw",
+					"display_url": "pic.twitter.com/AcAzJ528dw",
+					"expanded_url": "https://twitter.com/woochick/status/792960089791483906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 696,
+							"h": 543,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 696,
+							"h": 543,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 531,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 792960089791483900,
+					"source_status_id_str": "792960089791483906",
+					"source_user_id": 63066773,
+					"source_user_id_str": "63066773"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1042,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7140,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 31 05:23:12 +0000 2016",
+			"id": 792960089791483900,
+			"id_str": "792960089791483906",
+			"text": "박근혜 세월호 7시간 김정은이 가르쳐줬는데 아무도 안믿었음... https://t.co/AcAzJ528dw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 792960063430283300,
+						"id_str": "792960063430283264",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/media/CwEo-fXVUAAnddU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CwEo-fXVUAAnddU.jpg",
+						"url": "https://t.co/AcAzJ528dw",
+						"display_url": "pic.twitter.com/AcAzJ528dw",
+						"expanded_url": "https://twitter.com/woochick/status/792960089791483906/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 558,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 680,
+								"h": 829,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 680,
+								"h": 829,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 792960063430283300,
+						"id_str": "792960063430283264",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/media/CwEo-fXVUAAnddU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CwEo-fXVUAAnddU.jpg",
+						"url": "https://t.co/AcAzJ528dw",
+						"display_url": "pic.twitter.com/AcAzJ528dw",
+						"expanded_url": "https://twitter.com/woochick/status/792960089791483906/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 558,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 680,
+								"h": 829,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 680,
+								"h": 829,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 792960076352852000,
+						"id_str": "792960076352851968",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/media/CwEo_PgUEAA_hJt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CwEo_PgUEAA_hJt.jpg",
+						"url": "https://t.co/AcAzJ528dw",
+						"display_url": "pic.twitter.com/AcAzJ528dw",
+						"expanded_url": "https://twitter.com/woochick/status/792960089791483906/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 696,
+								"h": 543,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 696,
+								"h": 543,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 531,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 63066773,
+				"id_str": "63066773",
+				"name": "춰",
+				"screen_name": "woochick",
+				"location": "덕우주",
+				"description": "부채깎는 노인",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 941,
+				"friends_count": 174,
+				"listed_count": 24,
+				"created_at": "Wed Aug 05 07:45:08 +0000 2009",
+				"favourites_count": 776,
+				"utc_offset": 32400,
+				"time_zone": "Osaka",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30450,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B6B6B6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/109554783/sw.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/109554783/sw.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/443256328933224448/jRUVCpD7_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/443256328933224448/jRUVCpD7_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63066773/1394723610",
+				"profile_link_color": "FFBB00",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "BF0000",
+				"profile_text_color": "4D3339",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17802,
+			"favorite_count": 1943,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17802,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Nov 01 13:42:27 +0000 2016",
 		"id": 793448116552818700,
 		"id_str": "793448116552818688",
