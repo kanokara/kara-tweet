@@ -1,6 +1,436 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Wed Nov 02 11:32:24 +0000 2016",
+		"id": 793777778915024900,
+		"id_str": "793777778915024898",
+		"text": "RT @metafujo: 리워드 4.  소책자 «한국 1차 BL 동인 연보»\n폐쇄적 온라인 네트워킹을 기반으로 운영-유지되어 잘 드러나지 못했던 오리지널 1차 BL판의 후죠시 역사를 ‘성인동’을 중심으로 살펴본다.\n후원하러가기 &gt;&gt; https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "metafujo",
+					"name": "메타후조",
+					"id": 757652666403074000,
+					"id_str": "757652666403074048",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7144,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 02 11:12:44 +0000 2016",
+			"id": 793772829212676100,
+			"id_str": "793772829212676096",
+			"text": "리워드 4.  소책자 «한국 1차 BL 동인 연보»\n폐쇄적 온라인 네트워킹을 기반으로 운영-유지되어 잘 드러나지 못했던 오리지널 1차 BL판의 후죠시 역사를 ‘성인동’을 중심으로 살펴본다.\n후원하러가기 &gt;&gt;… https://t.co/9ywZGE036y",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9ywZGE036y",
+						"expanded_url": "https://twitter.com/i/web/status/793772829212676096",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							123,
+							146
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 793771895313174500,
+			"in_reply_to_status_id_str": "793771895313174532",
+			"in_reply_to_user_id": 757652666403074000,
+			"in_reply_to_user_id_str": "757652666403074048",
+			"in_reply_to_screen_name": "metafujo",
+			"user": {
+				"id": 757652666403074000,
+				"id_str": "757652666403074048",
+				"name": "메타후조",
+				"screen_name": "metafujo",
+				"location": "",
+				"description": "비정기 독립잡지 «메타후조» 공식 계정입니다.\n대표자 연락처 metafujoshi@gmail.com",
+				"url": "https://t.co/LHA075agVv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LHA075agVv",
+								"expanded_url": "http://metafujo.com",
+								"display_url": "metafujo.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1441,
+				"friends_count": 0,
+				"listed_count": 8,
+				"created_at": "Mon Jul 25 19:04:07 +0000 2016",
+				"favourites_count": 1125,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 25,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/764668532214763522/pVCzurc8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/764668532214763522/pVCzurc8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/757652666403074048/1471031026",
+				"profile_link_color": "2B7BB9",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 47,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 02 11:31:42 +0000 2016",
+		"id": 793777603295326200,
+		"id_str": "793777603295326208",
+		"text": "AKB48이나 그 자매 그룹들은 '오합지졸 모임', '일관된 컨셉이 없는 그룹'이란 이미지 때문에 그다지 관심이 없었는데, 노기자카46이나 그 자매그룹은 3D임에도 드물게도 취향권에 적중. 다만 아이돌 팬을 할 만큼 열성이 있는 건 아니라 지켜보기만.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7144,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 02 11:24:31 +0000 2016",
+		"id": 793775791926501400,
+		"id_str": "793775791926501376",
+		"text": "갑자기 찾아본 이유가, 딴 게 아니라 나치 논란이 보도돼서... '제복', '집단', '군무' 같은 키워드가 컨셉인 그룹이라서, 딱히 놀랄 일도 아니지만 바로 그 점이 취향 적중이네요 (... #케야키자카46 https://t.co/HIvZdZrfiN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "케야키자카46",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 793775172238970900,
+					"id_str": "793775172238970880",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CwQOUETUEAACIgq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CwQOUETUEAACIgq.jpg",
+					"url": "https://t.co/HIvZdZrfiN",
+					"display_url": "pic.twitter.com/HIvZdZrfiN",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/793775791926501376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 716,
+							"h": 619,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 716,
+							"h": 619,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 588,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 793775172238970900,
+					"id_str": "793775172238970880",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/CwQOUETUEAACIgq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CwQOUETUEAACIgq.jpg",
+					"url": "https://t.co/HIvZdZrfiN",
+					"display_url": "pic.twitter.com/HIvZdZrfiN",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/793775791926501376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 716,
+							"h": 619,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 716,
+							"h": 619,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 588,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 793773108834345000,
+		"in_reply_to_status_id_str": "793773108834344960",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7144,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Nov 02 11:13:51 +0000 2016",
 		"id": 793773108834345000,
 		"id_str": "793773108834344960",
