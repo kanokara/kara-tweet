@@ -1,6 +1,3016 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Wed Nov 02 19:13:15 +0000 2016",
+		"id": 793893752330854400,
+		"id_str": "793893752330854401",
+		"text": "그들은 다양한 형태의 낭만주의와 개인주의를 지지한다. 또한 이들은 마르크스주의를 세계를 이해하기 위한, 그리고 세계 안에 내재한 질서를 발견하기 위한 최후의 체계적인 시도, 즉 형이상학으로 보고 있다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 793893577201840100,
+		"in_reply_to_status_id_str": "793893577201840129",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7177,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 02 19:12:33 +0000 2016",
+		"id": 793893577201840100,
+		"id_str": "793893577201840129",
+		"text": "3)사회 전반적인 추세가 획일성을 강요하고 있다는 점을 인식하고 그 경향을 비판했다. 4)주체성과 ‘소사(小史)’를 중시했다. 그 결과 반정치적인 개인을 내세운다. 이들은 인간 사회는 영원히 그리고 본래 억압적이라 믿는다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 793893439725264900,
+		"in_reply_to_status_id_str": "793893439725264897",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7177,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 02 19:12:00 +0000 2016",
+		"id": 793893439725264900,
+		"id_str": "793893439725264897",
+		"text": "\"주로 ‘1968년의 산물’인 포스트구조주의자들은 1)니체와 마찬가지로 체계에 반감을 가졌다. 그들의 적은 모든 형태의 정합적 믿음의 체계였다. 2)역사를 진보로 보는 헤겔적인 견해에 반대하였다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7177,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 02 19:05:10 +0000 2016",
+		"id": 793891718055678000,
+		"id_str": "793891718055677952",
+		"text": "RT @ssuerm: \"칸트가 초월적이라는 형용사 대신 선험적이란 말을 쓴 것은 세계의 실재성에 관한 한, 우리가 감각하는 이 세계 말고 다른 세계는 설사 있다손 치더라도 우리에게는 전혀 상관이 없다는 사실을 깨달은 결과였다.\"\nhttps://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ssuerm",
+					"name": "쓺(2P)",
+					"id": 183620602,
+					"id_str": "183620602",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7177,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 28 07:32:31 +0000 2016",
+			"id": 692611192603299800,
+			"id_str": "692611192603299842",
+			"text": "\"칸트가 초월적이라는 형용사 대신 선험적이란 말을 쓴 것은 세계의 실재성에 관한 한, 우리가 감각하는 이 세계 말고 다른 세계는 설사 있다손 치더라도 우리에게는 전혀 상관이 없다는 사실을 깨달은 결과였다.\"\nhttps://t.co/x3iOUrzypX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/x3iOUrzypX",
+						"expanded_url": "http://m.pressian.com/m/m_article.html?no=94704",
+						"display_url": "m.pressian.com/m/m_article.ht…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 183620602,
+				"id_str": "183620602",
+				"name": "쓺(2P)",
+				"screen_name": "ssuerm",
+				"location": "제3신동경시",
+				"description": "안락의자 평론가",
+				"url": "https://t.co/jPeFFLXlNb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jPeFFLXlNb",
+								"expanded_url": "http://painfulness.wordpress.com/",
+								"display_url": "painfulness.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5739,
+				"friends_count": 4703,
+				"listed_count": 85,
+				"created_at": "Fri Aug 27 13:25:27 +0000 2010",
+				"favourites_count": 26655,
+				"utc_offset": 0,
+				"time_zone": "UTC",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 193814,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/183620602/1404570056",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 02 19:02:12 +0000 2016",
+		"id": 793890972711067600,
+		"id_str": "793890972711067648",
+		"text": "RT @ssuerm: 그런 의미에서 일베는 \"속물의 정치\"의 시대가 용해된 지점을 앞당겨 보여주는 중요한 참고자료이다. 이들은 말하자면 계몽의 극한=종언을 알리는 나팔수이며, 초월성의 추락을 위해 투구하는 역설적 전위다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ssuerm",
+					"name": "쓺(2P)",
+					"id": 183620602,
+					"id_str": "183620602",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7177,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 28 14:55:22 +0000 2015",
+			"id": 581831955987230700,
+			"id_str": "581831955987230720",
+			"text": "그런 의미에서 일베는 \"속물의 정치\"의 시대가 용해된 지점을 앞당겨 보여주는 중요한 참고자료이다. 이들은 말하자면 계몽의 극한=종언을 알리는 나팔수이며, 초월성의 추락을 위해 투구하는 역설적 전위다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 581831027712266200,
+			"in_reply_to_status_id_str": "581831027712266240",
+			"in_reply_to_user_id": 183620602,
+			"in_reply_to_user_id_str": "183620602",
+			"in_reply_to_screen_name": "ssuerm",
+			"user": {
+				"id": 183620602,
+				"id_str": "183620602",
+				"name": "쓺(2P)",
+				"screen_name": "ssuerm",
+				"location": "제3신동경시",
+				"description": "안락의자 평론가",
+				"url": "https://t.co/jPeFFLXlNb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jPeFFLXlNb",
+								"expanded_url": "http://painfulness.wordpress.com/",
+								"display_url": "painfulness.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5739,
+				"friends_count": 4703,
+				"listed_count": 85,
+				"created_at": "Fri Aug 27 13:25:27 +0000 2010",
+				"favourites_count": 26655,
+				"utc_offset": 0,
+				"time_zone": "UTC",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 193814,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/183620602/1404570056",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 02 19:02:09 +0000 2016",
+		"id": 793890960346214400,
+		"id_str": "793890960346214400",
+		"text": "RT @ssuerm: 일베의 행동 기제는 언제나 모든 것을 상대화의 지평 속에 내던진다는 것에 있다. 이들에게 초월적 타자란 언제든지 더럽혀질 수 있는 허약한 것에 불과하다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ssuerm",
+					"name": "쓺(2P)",
+					"id": 183620602,
+					"id_str": "183620602",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7177,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 28 14:50:52 +0000 2015",
+			"id": 581830820362588200,
+			"id_str": "581830820362588161",
+			"text": "일베의 행동 기제는 언제나 모든 것을 상대화의 지평 속에 내던진다는 것에 있다. 이들에게 초월적 타자란 언제든지 더럽혀질 수 있는 허약한 것에 불과하다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 581830262826352600,
+			"in_reply_to_status_id_str": "581830262826352640",
+			"in_reply_to_user_id": 183620602,
+			"in_reply_to_user_id_str": "183620602",
+			"in_reply_to_screen_name": "ssuerm",
+			"user": {
+				"id": 183620602,
+				"id_str": "183620602",
+				"name": "쓺(2P)",
+				"screen_name": "ssuerm",
+				"location": "제3신동경시",
+				"description": "안락의자 평론가",
+				"url": "https://t.co/jPeFFLXlNb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jPeFFLXlNb",
+								"expanded_url": "http://painfulness.wordpress.com/",
+								"display_url": "painfulness.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5739,
+				"friends_count": 4703,
+				"listed_count": 85,
+				"created_at": "Fri Aug 27 13:25:27 +0000 2010",
+				"favourites_count": 26655,
+				"utc_offset": 0,
+				"time_zone": "UTC",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 193814,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/183620602/1404570056",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 02 19:02:07 +0000 2016",
+		"id": 793890951328518100,
+		"id_str": "793890951328518144",
+		"text": "RT @ssuerm: 이들에게 모든 것은 '지엽적인 사실'에 불과하다. 일베는 적극적으로 모든 초월론적 타자를 끌어내려 자신들과 동류인 내재적 타자, 특히 그 이상성을 상실하고 단지 모방가능성만을 간직한 \"병신\"으로 만들고자 한다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ssuerm",
+					"name": "쓺(2P)",
+					"id": 183620602,
+					"id_str": "183620602",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7177,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 28 14:48:39 +0000 2015",
+			"id": 581830262826352600,
+			"id_str": "581830262826352640",
+			"text": "이들에게 모든 것은 '지엽적인 사실'에 불과하다. 일베는 적극적으로 모든 초월론적 타자를 끌어내려 자신들과 동류인 내재적 타자, 특히 그 이상성을 상실하고 단지 모방가능성만을 간직한 \"병신\"으로 만들고자 한다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 581829932743016400,
+			"in_reply_to_status_id_str": "581829932743016448",
+			"in_reply_to_user_id": 183620602,
+			"in_reply_to_user_id_str": "183620602",
+			"in_reply_to_screen_name": "ssuerm",
+			"user": {
+				"id": 183620602,
+				"id_str": "183620602",
+				"name": "쓺(2P)",
+				"screen_name": "ssuerm",
+				"location": "제3신동경시",
+				"description": "안락의자 평론가",
+				"url": "https://t.co/jPeFFLXlNb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jPeFFLXlNb",
+								"expanded_url": "http://painfulness.wordpress.com/",
+								"display_url": "painfulness.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5739,
+				"friends_count": 4703,
+				"listed_count": 85,
+				"created_at": "Fri Aug 27 13:25:27 +0000 2010",
+				"favourites_count": 26655,
+				"utc_offset": 0,
+				"time_zone": "UTC",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 193814,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/183620602/1404570056",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 02 19:00:07 +0000 2016",
+		"id": 793890449010208800,
+		"id_str": "793890449010208768",
+		"text": "RT @ssuerm: 이 가설엔 나름의 근거가 있다. 이를 설명하기 위해선 '자기정체성(동일성)'의 문제로 돌아가야만 한다. 간단히 말해, 자기계발 주체는 이미 허구성이 드러난 성장서사에 온 힘을 다해 몰입하며, 그를 통해 리얼리티를 붙든다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ssuerm",
+					"name": "쓺(2P)",
+					"id": 183620602,
+					"id_str": "183620602",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7177,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 27 17:37:34 +0000 2015",
+			"id": 581510384235888600,
+			"id_str": "581510384235888640",
+			"text": "이 가설엔 나름의 근거가 있다. 이를 설명하기 위해선 '자기정체성(동일성)'의 문제로 돌아가야만 한다. 간단히 말해, 자기계발 주체는 이미 허구성이 드러난 성장서사에 온 힘을 다해 몰입하며, 그를 통해 리얼리티를 붙든다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 581487513090445300,
+			"in_reply_to_status_id_str": "581487513090445312",
+			"in_reply_to_user_id": 183620602,
+			"in_reply_to_user_id_str": "183620602",
+			"in_reply_to_screen_name": "ssuerm",
+			"user": {
+				"id": 183620602,
+				"id_str": "183620602",
+				"name": "쓺(2P)",
+				"screen_name": "ssuerm",
+				"location": "제3신동경시",
+				"description": "안락의자 평론가",
+				"url": "https://t.co/jPeFFLXlNb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jPeFFLXlNb",
+								"expanded_url": "http://painfulness.wordpress.com/",
+								"display_url": "painfulness.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5739,
+				"friends_count": 4703,
+				"listed_count": 85,
+				"created_at": "Fri Aug 27 13:25:27 +0000 2010",
+				"favourites_count": 26655,
+				"utc_offset": 0,
+				"time_zone": "UTC",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 193814,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/183620602/1404570056",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 02 18:59:50 +0000 2016",
+		"id": 793890376335491100,
+		"id_str": "793890376335491072",
+		"text": "RT @ssuerm: 그렇다면 한국에서는 오히려 현실로의 도피가 '성과주체', 혹은 '자기계발 주체'라는 양상으로 드러난 것이 아닐까 http://t.co/WmW6hqJYWi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ssuerm",
+					"name": "쓺(2P)",
+					"id": 183620602,
+					"id_str": "183620602",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 581487511525965800,
+					"id_str": "581487511525965824",
+					"indices": [
+						75,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/CBHbz5XUwAAFgEg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CBHbz5XUwAAFgEg.jpg",
+					"url": "http://t.co/WmW6hqJYWi",
+					"display_url": "pic.twitter.com/WmW6hqJYWi",
+					"expanded_url": "https://twitter.com/ssuerm/status/581487513090445312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 520,
+							"h": 358,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 234,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 520,
+							"h": 358,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 581487513090445300,
+					"source_status_id_str": "581487513090445312",
+					"source_user_id": 183620602,
+					"source_user_id_str": "183620602"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 581487511525965800,
+					"id_str": "581487511525965824",
+					"indices": [
+						75,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/CBHbz5XUwAAFgEg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CBHbz5XUwAAFgEg.jpg",
+					"url": "http://t.co/WmW6hqJYWi",
+					"display_url": "pic.twitter.com/WmW6hqJYWi",
+					"expanded_url": "https://twitter.com/ssuerm/status/581487513090445312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 520,
+							"h": 358,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 234,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 520,
+							"h": 358,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 581487513090445300,
+					"source_status_id_str": "581487513090445312",
+					"source_user_id": 183620602,
+					"source_user_id_str": "183620602"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7177,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 27 16:06:41 +0000 2015",
+			"id": 581487513090445300,
+			"id_str": "581487513090445312",
+			"text": "그렇다면 한국에서는 오히려 현실로의 도피가 '성과주체', 혹은 '자기계발 주체'라는 양상으로 드러난 것이 아닐까 http://t.co/WmW6hqJYWi",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 581487511525965800,
+						"id_str": "581487511525965824",
+						"indices": [
+							63,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/CBHbz5XUwAAFgEg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CBHbz5XUwAAFgEg.jpg",
+						"url": "http://t.co/WmW6hqJYWi",
+						"display_url": "pic.twitter.com/WmW6hqJYWi",
+						"expanded_url": "https://twitter.com/ssuerm/status/581487513090445312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 520,
+								"h": 358,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 234,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 520,
+								"h": 358,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 581487511525965800,
+						"id_str": "581487511525965824",
+						"indices": [
+							63,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/CBHbz5XUwAAFgEg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CBHbz5XUwAAFgEg.jpg",
+						"url": "http://t.co/WmW6hqJYWi",
+						"display_url": "pic.twitter.com/WmW6hqJYWi",
+						"expanded_url": "https://twitter.com/ssuerm/status/581487513090445312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 520,
+								"h": 358,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 234,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 520,
+								"h": 358,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 581486814327746600,
+			"in_reply_to_status_id_str": "581486814327746560",
+			"in_reply_to_user_id": 183620602,
+			"in_reply_to_user_id_str": "183620602",
+			"in_reply_to_screen_name": "ssuerm",
+			"user": {
+				"id": 183620602,
+				"id_str": "183620602",
+				"name": "쓺(2P)",
+				"screen_name": "ssuerm",
+				"location": "제3신동경시",
+				"description": "안락의자 평론가",
+				"url": "https://t.co/jPeFFLXlNb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jPeFFLXlNb",
+								"expanded_url": "http://painfulness.wordpress.com/",
+								"display_url": "painfulness.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5739,
+				"friends_count": 4703,
+				"listed_count": 85,
+				"created_at": "Fri Aug 27 13:25:27 +0000 2010",
+				"favourites_count": 26655,
+				"utc_offset": 0,
+				"time_zone": "UTC",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 193814,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/183620602/1404570056",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 02 18:59:45 +0000 2016",
+		"id": 793890358002188300,
+		"id_str": "793890358002188288",
+		"text": "RT @ssuerm: 이는 편입을 욕망하지 않기를 선택한 사토리세대, 그리하여 방해받지 않고 한없이 해방적 순간들에 잠겨 우회적으로 체제에 회수당하는 오타쿠-주체와는 다른 지점이다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ssuerm",
+					"name": "쓺(2P)",
+					"id": 183620602,
+					"id_str": "183620602",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7177,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 27 16:03:54 +0000 2015",
+			"id": 581486814327746600,
+			"id_str": "581486814327746560",
+			"text": "이는 편입을 욕망하지 않기를 선택한 사토리세대, 그리하여 방해받지 않고 한없이 해방적 순간들에 잠겨 우회적으로 체제에 회수당하는 오타쿠-주체와는 다른 지점이다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 581486253079564300,
+			"in_reply_to_status_id_str": "581486253079564288",
+			"in_reply_to_user_id": 183620602,
+			"in_reply_to_user_id_str": "183620602",
+			"in_reply_to_screen_name": "ssuerm",
+			"user": {
+				"id": 183620602,
+				"id_str": "183620602",
+				"name": "쓺(2P)",
+				"screen_name": "ssuerm",
+				"location": "제3신동경시",
+				"description": "안락의자 평론가",
+				"url": "https://t.co/jPeFFLXlNb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jPeFFLXlNb",
+								"expanded_url": "http://painfulness.wordpress.com/",
+								"display_url": "painfulness.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5739,
+				"friends_count": 4703,
+				"listed_count": 85,
+				"created_at": "Fri Aug 27 13:25:27 +0000 2010",
+				"favourites_count": 26655,
+				"utc_offset": 0,
+				"time_zone": "UTC",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 193814,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/183620602/1404570056",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 02 18:59:42 +0000 2016",
+		"id": 793890342940454900,
+		"id_str": "793890342940454912",
+		"text": "RT @ssuerm: 따라서 잉여들이 가상에 몰입할 때, 그 몰입은 불현듯 깨지고 현실의 방해를 받는다. 해방은 그저 순간에 불과하다. 실제로 잉여-주체는 여전히 편입을 욕망하는, 하지만 그것이 좌절된 주체이기 때문이다.\n(http://t.co/TA…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ssuerm",
+					"name": "쓺(2P)",
+					"id": 183620602,
+					"id_str": "183620602",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7177,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 27 16:01:40 +0000 2015",
+			"id": 581486253079564300,
+			"id_str": "581486253079564288",
+			"text": "따라서 잉여들이 가상에 몰입할 때, 그 몰입은 불현듯 깨지고 현실의 방해를 받는다. 해방은 그저 순간에 불과하다. 실제로 잉여-주체는 여전히 편입을 욕망하는, 하지만 그것이 좌절된 주체이기 때문이다.\n(http://t.co/TA94tuJMS4)",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "http://t.co/TA94tuJMS4",
+						"expanded_url": "http://m.pressian.com/m/m_article.html?no=69415",
+						"display_url": "m.pressian.com/m/m_article.ht…",
+						"indices": [
+							113,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 581484609357025300,
+			"in_reply_to_status_id_str": "581484609357025280",
+			"in_reply_to_user_id": 183620602,
+			"in_reply_to_user_id_str": "183620602",
+			"in_reply_to_screen_name": "ssuerm",
+			"user": {
+				"id": 183620602,
+				"id_str": "183620602",
+				"name": "쓺(2P)",
+				"screen_name": "ssuerm",
+				"location": "제3신동경시",
+				"description": "안락의자 평론가",
+				"url": "https://t.co/jPeFFLXlNb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jPeFFLXlNb",
+								"expanded_url": "http://painfulness.wordpress.com/",
+								"display_url": "painfulness.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5739,
+				"friends_count": 4703,
+				"listed_count": 85,
+				"created_at": "Fri Aug 27 13:25:27 +0000 2010",
+				"favourites_count": 26655,
+				"utc_offset": 0,
+				"time_zone": "UTC",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 193814,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/183620602/1404570056",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 02 18:58:25 +0000 2016",
+		"id": 793890021535166500,
+		"id_str": "793890021535166464",
+		"text": "RT @ssuerm: 두 주체는 모두 일반적으로는 무의미해보이는 것에 이상할 정도로 몰입하며, 심지어 그것을 자기정체성(동일성)의 근원으로 삼는다. 동시에 그것과 일정한 거리감을 두고 그 간극을 향유한다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ssuerm",
+					"name": "쓺(2P)",
+					"id": 183620602,
+					"id_str": "183620602",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7177,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 27 14:30:48 +0000 2015",
+			"id": 581463382529704000,
+			"id_str": "581463382529703936",
+			"text": "두 주체는 모두 일반적으로는 무의미해보이는 것에 이상할 정도로 몰입하며, 심지어 그것을 자기정체성(동일성)의 근원으로 삼는다. 동시에 그것과 일정한 거리감을 두고 그 간극을 향유한다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 581462563046617100,
+			"in_reply_to_status_id_str": "581462563046617088",
+			"in_reply_to_user_id": 183620602,
+			"in_reply_to_user_id_str": "183620602",
+			"in_reply_to_screen_name": "ssuerm",
+			"user": {
+				"id": 183620602,
+				"id_str": "183620602",
+				"name": "쓺(2P)",
+				"screen_name": "ssuerm",
+				"location": "제3신동경시",
+				"description": "안락의자 평론가",
+				"url": "https://t.co/jPeFFLXlNb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jPeFFLXlNb",
+								"expanded_url": "http://painfulness.wordpress.com/",
+								"display_url": "painfulness.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5739,
+				"friends_count": 4703,
+				"listed_count": 85,
+				"created_at": "Fri Aug 27 13:25:27 +0000 2010",
+				"favourites_count": 26655,
+				"utc_offset": 0,
+				"time_zone": "UTC",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 193814,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/183620602/1404570056",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 02 18:58:22 +0000 2016",
+		"id": 793890009845608400,
+		"id_str": "793890009845608448",
+		"text": "RT @ssuerm: 다소 막연해 보이는 이 기대감을 현실화시키기 위해서라도 김수환 씨가 그다지 철저하게 분석해내지 못한 오타쿠와 잉여의 비교를 각각 따로 다시 검토해볼 필요가 있다. 내가 보기에 \"몰입과 이화\"라는 키워드만 두고 보면 두 주체는 그…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ssuerm",
+					"name": "쓺(2P)",
+					"id": 183620602,
+					"id_str": "183620602",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7177,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 27 14:27:32 +0000 2015",
+			"id": 581462563046617100,
+			"id_str": "581462563046617088",
+			"text": "다소 막연해 보이는 이 기대감을 현실화시키기 위해서라도 김수환 씨가 그다지 철저하게 분석해내지 못한 오타쿠와 잉여의 비교를 각각 따로 다시 검토해볼 필요가 있다. 내가 보기에 \"몰입과 이화\"라는 키워드만 두고 보면 두 주체는 그다지 다르지 않다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 581460839388950500,
+			"in_reply_to_status_id_str": "581460839388950528",
+			"in_reply_to_user_id": 183620602,
+			"in_reply_to_user_id_str": "183620602",
+			"in_reply_to_screen_name": "ssuerm",
+			"user": {
+				"id": 183620602,
+				"id_str": "183620602",
+				"name": "쓺(2P)",
+				"screen_name": "ssuerm",
+				"location": "제3신동경시",
+				"description": "안락의자 평론가",
+				"url": "https://t.co/jPeFFLXlNb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jPeFFLXlNb",
+								"expanded_url": "http://painfulness.wordpress.com/",
+								"display_url": "painfulness.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5739,
+				"friends_count": 4703,
+				"listed_count": 85,
+				"created_at": "Fri Aug 27 13:25:27 +0000 2010",
+				"favourites_count": 26655,
+				"utc_offset": 0,
+				"time_zone": "UTC",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 193814,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/183620602/1404570056",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 02 18:57:58 +0000 2016",
+		"id": 793889909392023600,
+		"id_str": "793889909392023552",
+		"text": "RT @ssuerm: 오사와 마사치에 따르면 오타쿠란 다음과 같은 특징을 가진다. \"의미 있는 것에는 무관심하고 무의미해 보이는 것에 몰두\"하며, 동시에 \"자신의 관심 영역에 속하는 정보임에도 불구하고 때로는 심한 냉소적 반응을 보이며 거리를 두는…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ssuerm",
+					"name": "쓺(2P)",
+					"id": 183620602,
+					"id_str": "183620602",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7177,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 27 14:13:15 +0000 2015",
+			"id": 581458968930717700,
+			"id_str": "581458968930717696",
+			"text": "오사와 마사치에 따르면 오타쿠란 다음과 같은 특징을 가진다. \"의미 있는 것에는 무관심하고 무의미해 보이는 것에 몰두\"하며, 동시에 \"자신의 관심 영역에 속하는 정보임에도 불구하고 때로는 심한 냉소적 반응을 보이며 거리를 두는 태도를 취하는 점\".",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 581343099307192300,
+			"in_reply_to_status_id_str": "581343099307192320",
+			"in_reply_to_user_id": 183620602,
+			"in_reply_to_user_id_str": "183620602",
+			"in_reply_to_screen_name": "ssuerm",
+			"user": {
+				"id": 183620602,
+				"id_str": "183620602",
+				"name": "쓺(2P)",
+				"screen_name": "ssuerm",
+				"location": "제3신동경시",
+				"description": "안락의자 평론가",
+				"url": "https://t.co/jPeFFLXlNb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jPeFFLXlNb",
+								"expanded_url": "http://painfulness.wordpress.com/",
+								"display_url": "painfulness.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5739,
+				"friends_count": 4703,
+				"listed_count": 85,
+				"created_at": "Fri Aug 27 13:25:27 +0000 2010",
+				"favourites_count": 26655,
+				"utc_offset": 0,
+				"time_zone": "UTC",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 193814,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/183620602/1404570056",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 02 18:57:41 +0000 2016",
+		"id": 793889838466408400,
+		"id_str": "793889838466408448",
+		"text": "RT @ssuerm: 실제로 '냉소'라는 키워드를 놓고 본다면 오타쿠 주체 역시 '시니시즘'의 적자다. \"철저한 시니시즘의 자세\"(https://t.co/ZFUyFWS9ih)야말로 오타쿠의 특징이기도 한 것. 동시에 그들은 \"무관심하고 무의미해보이는…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ssuerm",
+					"name": "쓺(2P)",
+					"id": 183620602,
+					"id_str": "183620602",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZFUyFWS9ih",
+					"expanded_url": "https://books.google.co.kr/books?id=aOMcAwAAQBAJ&pg=PA254#v=onepage&q&f=false",
+					"display_url": "books.google.co.kr/books?id=aOMcA…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7177,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Mar 26 15:25:25 +0000 2015",
+			"id": 581114740073615400,
+			"id_str": "581114740073615362",
+			"text": "실제로 '냉소'라는 키워드를 놓고 본다면 오타쿠 주체 역시 '시니시즘'의 적자다. \"철저한 시니시즘의 자세\"(https://t.co/ZFUyFWS9ih)야말로 오타쿠의 특징이기도 한 것. 동시에 그들은 \"무관심하고 무의미해보이는 것에 몰두\"한다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZFUyFWS9ih",
+						"expanded_url": "https://books.google.co.kr/books?id=aOMcAwAAQBAJ&pg=PA254#v=onepage&q&f=false",
+						"display_url": "books.google.co.kr/books?id=aOMcA…",
+						"indices": [
+							61,
+							84
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 581113402644279300,
+			"in_reply_to_status_id_str": "581113402644279297",
+			"in_reply_to_user_id": 183620602,
+			"in_reply_to_user_id_str": "183620602",
+			"in_reply_to_screen_name": "ssuerm",
+			"user": {
+				"id": 183620602,
+				"id_str": "183620602",
+				"name": "쓺(2P)",
+				"screen_name": "ssuerm",
+				"location": "제3신동경시",
+				"description": "안락의자 평론가",
+				"url": "https://t.co/jPeFFLXlNb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jPeFFLXlNb",
+								"expanded_url": "http://painfulness.wordpress.com/",
+								"display_url": "painfulness.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5739,
+				"friends_count": 4703,
+				"listed_count": 85,
+				"created_at": "Fri Aug 27 13:25:27 +0000 2010",
+				"favourites_count": 26655,
+				"utc_offset": 0,
+				"time_zone": "UTC",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 193814,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/183620602/1404570056",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 02 18:57:21 +0000 2016",
+		"id": 793889751275229200,
+		"id_str": "793889751275229184",
+		"text": "RT @ssuerm: 요약하자면 오타쿠-주체=데이터베이스 소비 주체(아즈마 히로키)=몰입이라면, 잉여-주체=이화, 즉 \"온 힘을 다해 감정이입에 저항\"한다는 것이다. 이 \"자기투영적 형태의 냉소\"가 20대, 혹은 청년 세대의 언어로 말해지는 '탁월함…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ssuerm",
+					"name": "쓺(2P)",
+					"id": 183620602,
+					"id_str": "183620602",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7177,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Mar 26 15:20:06 +0000 2015",
+			"id": 581113402644279300,
+			"id_str": "581113402644279297",
+			"text": "요약하자면 오타쿠-주체=데이터베이스 소비 주체(아즈마 히로키)=몰입이라면, 잉여-주체=이화, 즉 \"온 힘을 다해 감정이입에 저항\"한다는 것이다. 이 \"자기투영적 형태의 냉소\"가 20대, 혹은 청년 세대의 언어로 말해지는 '탁월함'으로 여겨졌던 것.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 581112426579378200,
+			"in_reply_to_status_id_str": "581112426579378177",
+			"in_reply_to_user_id": 183620602,
+			"in_reply_to_user_id_str": "183620602",
+			"in_reply_to_screen_name": "ssuerm",
+			"user": {
+				"id": 183620602,
+				"id_str": "183620602",
+				"name": "쓺(2P)",
+				"screen_name": "ssuerm",
+				"location": "제3신동경시",
+				"description": "안락의자 평론가",
+				"url": "https://t.co/jPeFFLXlNb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jPeFFLXlNb",
+								"expanded_url": "http://painfulness.wordpress.com/",
+								"display_url": "painfulness.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5739,
+				"friends_count": 4703,
+				"listed_count": 85,
+				"created_at": "Fri Aug 27 13:25:27 +0000 2010",
+				"favourites_count": 26655,
+				"utc_offset": 0,
+				"time_zone": "UTC",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 193814,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/183620602/1404570056",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 02 18:57:17 +0000 2016",
+		"id": 793889735122923500,
+		"id_str": "793889735122923520",
+		"text": "RT @ssuerm: 김수환 씨의 처음 글에서 병맛 웹툰은 \"냉소와 유희의 힘\"으로 다뤄진다. 여기서 한국의 잉여-주체와 일본의 오타쿠-주체를 비교하며, 그 차이를 \"텍스트를 대하는 감정적 태도, 즉 '몰입 대 이화'로 갈리는 화용론적 태도\"로 분석…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ssuerm",
+					"name": "쓺(2P)",
+					"id": 183620602,
+					"id_str": "183620602",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7177,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Mar 26 15:16:13 +0000 2015",
+			"id": 581112426579378200,
+			"id_str": "581112426579378177",
+			"text": "김수환 씨의 처음 글에서 병맛 웹툰은 \"냉소와 유희의 힘\"으로 다뤄진다. 여기서 한국의 잉여-주체와 일본의 오타쿠-주체를 비교하며, 그 차이를 \"텍스트를 대하는 감정적 태도, 즉 '몰입 대 이화'로 갈리는 화용론적 태도\"로 분석한다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 581111004634988500,
+			"in_reply_to_status_id_str": "581111004634988544",
+			"in_reply_to_user_id": 183620602,
+			"in_reply_to_user_id_str": "183620602",
+			"in_reply_to_screen_name": "ssuerm",
+			"user": {
+				"id": 183620602,
+				"id_str": "183620602",
+				"name": "쓺(2P)",
+				"screen_name": "ssuerm",
+				"location": "제3신동경시",
+				"description": "안락의자 평론가",
+				"url": "https://t.co/jPeFFLXlNb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jPeFFLXlNb",
+								"expanded_url": "http://painfulness.wordpress.com/",
+								"display_url": "painfulness.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5739,
+				"friends_count": 4703,
+				"listed_count": 85,
+				"created_at": "Fri Aug 27 13:25:27 +0000 2010",
+				"favourites_count": 26655,
+				"utc_offset": 0,
+				"time_zone": "UTC",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 193814,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/698378625402277888/-JIpoSie.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/693780097648623616/rkAjcM05_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/183620602/1404570056",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 02 18:54:04 +0000 2016",
+		"id": 793888925613903900,
+		"id_str": "793888925613903873",
+		"text": "생각해보면 리오타르에게서 그랜드 / 마스터 / 메타 내러티브가 혼용되고, 특히 마스터 내러티브는 구조주의적 (초월적) 원형을, 그리고 메타 내러티브는 거대서사와 동의어로 취급되면서도 때때로 '초월'로써(도) 소서사를 포섭한 것이 간과되고 있는 듯.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 793874556641390600,
+		"in_reply_to_status_id_str": "793874556641390592",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7177,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Nov 02 17:56:58 +0000 2016",
 		"id": 793874556641390600,
 		"id_str": "793874556641390592",
