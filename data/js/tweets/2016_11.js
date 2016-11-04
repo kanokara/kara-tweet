@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Fri Nov 04 07:59:24 +0000 2016",
+		"id": 794448949364944900,
+		"id_str": "794448949364944896",
+		"text": "RT @philoelectroray: 전기가오리가 약속했던 온라인 해설 강의가 유튜브(https://t.co/TKhXnh6sel)에 올라왔습니다. 스탠퍼드 철학백과의 항목인 &lt;아리스토텔레스의 형이상학&gt;(https://t.co/K42m19Sy2t),…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "philoelectroray",
+					"name": "전기가오리",
+					"id": 753464137263394800,
+					"id_str": "753464137263394816",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TKhXnh6sel",
+					"expanded_url": "https://youtu.be/bwdO24xGq9E",
+					"display_url": "youtu.be/bwdO24xGq9E",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/K42m19Sy2t",
+					"expanded_url": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92818312",
+					"display_url": "aladin.co.kr/shop/wproduct.…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1047,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7244,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 04 06:58:40 +0000 2016",
+			"id": 794433665405100000,
+			"id_str": "794433665405100032",
+			"text": "전기가오리가 약속했던 온라인 해설 강의가 유튜브(https://t.co/TKhXnh6sel)에 올라왔습니다. 스탠퍼드 철학백과의 항목인 &lt;아리스토텔레스의 형이상학&gt;(https://t.co/K42m19Sy2t), 첫 번째 절을 설명하였습니다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TKhXnh6sel",
+						"expanded_url": "https://youtu.be/bwdO24xGq9E",
+						"display_url": "youtu.be/bwdO24xGq9E",
+						"indices": [
+							27,
+							50
+						]
+					},
+					{
+						"url": "https://t.co/K42m19Sy2t",
+						"expanded_url": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92818312",
+						"display_url": "aladin.co.kr/shop/wproduct.…",
+						"indices": [
+							98,
+							121
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 753464137263394800,
+				"id_str": "753464137263394816",
+				"name": "전기가오리",
+				"screen_name": "philoelectroray",
+				"location": "Seoul, Republic of Korea",
+				"description": "서양 철학을 함께 공부하고 관련 문헌을 번역 출판하는 출판사 '전기가오리'입니다. 코헨의 「아리스토텔레스의 형이상학」과 칸트의 「1765-1766년 겨울학기 강의공고」를 출간했습니다. 공부 모임에 대한 문의도 늘 환영합니다.",
+				"url": "https://t.co/1BhBXzn9bH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1BhBXzn9bH",
+								"expanded_url": "http://philo-electro-ray.org",
+								"display_url": "philo-electro-ray.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 637,
+				"friends_count": 609,
+				"listed_count": 5,
+				"created_at": "Thu Jul 14 05:40:23 +0000 2016",
+				"favourites_count": 0,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 302,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/758822289446055938/VTeex9ZO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/758822289446055938/VTeex9ZO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/753464137263394816/1471322076",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Nov 04 05:38:51 +0000 2016",
 		"id": 794413580825133000,
 		"id_str": "794413580825133056",
