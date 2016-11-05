@@ -1,6 +1,565 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sat Nov 05 02:17:02 +0000 2016",
+		"id": 794725180039786500,
+		"id_str": "794725180039786496",
+		"text": "RT @ianlvcs: CJ이미경이 물러나게 되고 이재현이 구속된 이유가 영화 변호인이 결정적이었다고ㅋㅋㅋ아 너무 천박하고 토나오네 증말 https://t.co/Pt5VvlU373",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ianlvcs",
+					"name": "y",
+					"id": 1316557902,
+					"id_str": "1316557902",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 794502411649847300,
+					"id_str": "794502411649847297",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/Cwaju-OUkAERlDq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cwaju-OUkAERlDq.jpg",
+					"url": "https://t.co/Pt5VvlU373",
+					"display_url": "pic.twitter.com/Pt5VvlU373",
+					"expanded_url": "https://twitter.com/ianlvcs/status/794502618361888768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1062,
+							"h": 1502,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 794502618361888800,
+					"source_status_id_str": "794502618361888768",
+					"source_user_id": 1316557902,
+					"source_user_id_str": "1316557902"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 794502411649847300,
+					"id_str": "794502411649847297",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/Cwaju-OUkAERlDq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cwaju-OUkAERlDq.jpg",
+					"url": "https://t.co/Pt5VvlU373",
+					"display_url": "pic.twitter.com/Pt5VvlU373",
+					"expanded_url": "https://twitter.com/ianlvcs/status/794502618361888768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1062,
+							"h": 1502,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 794502618361888800,
+					"source_status_id_str": "794502618361888768",
+					"source_user_id": 1316557902,
+					"source_user_id_str": "1316557902"
+				},
+				{
+					"id": 794502469980065800,
+					"id_str": "794502469980065792",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/CwajyXhVEAAFko-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CwajyXhVEAAFko-.jpg",
+					"url": "https://t.co/Pt5VvlU373",
+					"display_url": "pic.twitter.com/Pt5VvlU373",
+					"expanded_url": "https://twitter.com/ianlvcs/status/794502618361888768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1074,
+							"h": 1481,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 493,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 870,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 794502618361888800,
+					"source_status_id_str": "794502618361888768",
+					"source_user_id": 1316557902,
+					"source_user_id_str": "1316557902"
+				},
+				{
+					"id": 794502502636847100,
+					"id_str": "794502502636847104",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/Cwaj0RLUAAApXAC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cwaj0RLUAAApXAC.jpg",
+					"url": "https://t.co/Pt5VvlU373",
+					"display_url": "pic.twitter.com/Pt5VvlU373",
+					"expanded_url": "https://twitter.com/ianlvcs/status/794502618361888768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 531,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1075,
+							"h": 1376,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 938,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 794502618361888800,
+					"source_status_id_str": "794502618361888768",
+					"source_user_id": 1316557902,
+					"source_user_id_str": "1316557902"
+				},
+				{
+					"id": 794502602289352700,
+					"id_str": "794502602289352705",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/Cwaj6EaUkAE8w_P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cwaj6EaUkAE8w_P.jpg",
+					"url": "https://t.co/Pt5VvlU373",
+					"display_url": "pic.twitter.com/Pt5VvlU373",
+					"expanded_url": "https://twitter.com/ianlvcs/status/794502618361888768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 947,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1073,
+							"h": 1360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 537,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 794502618361888800,
+					"source_status_id_str": "794502618361888768",
+					"source_user_id": 1316557902,
+					"source_user_id_str": "1316557902"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1047,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7249,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 04 11:32:40 +0000 2016",
+			"id": 794502618361888800,
+			"id_str": "794502618361888768",
+			"text": "CJ이미경이 물러나게 되고 이재현이 구속된 이유가 영화 변호인이 결정적이었다고ㅋㅋㅋ아 너무 천박하고 토나오네 증말 https://t.co/Pt5VvlU373",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 794502411649847300,
+						"id_str": "794502411649847297",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/Cwaju-OUkAERlDq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cwaju-OUkAERlDq.jpg",
+						"url": "https://t.co/Pt5VvlU373",
+						"display_url": "pic.twitter.com/Pt5VvlU373",
+						"expanded_url": "https://twitter.com/ianlvcs/status/794502618361888768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1062,
+								"h": 1502,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 848,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 794502411649847300,
+						"id_str": "794502411649847297",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/Cwaju-OUkAERlDq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cwaju-OUkAERlDq.jpg",
+						"url": "https://t.co/Pt5VvlU373",
+						"display_url": "pic.twitter.com/Pt5VvlU373",
+						"expanded_url": "https://twitter.com/ianlvcs/status/794502618361888768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1062,
+								"h": 1502,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 848,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 794502469980065800,
+						"id_str": "794502469980065792",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/CwajyXhVEAAFko-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CwajyXhVEAAFko-.jpg",
+						"url": "https://t.co/Pt5VvlU373",
+						"display_url": "pic.twitter.com/Pt5VvlU373",
+						"expanded_url": "https://twitter.com/ianlvcs/status/794502618361888768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1074,
+								"h": 1481,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 493,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 870,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 794502502636847100,
+						"id_str": "794502502636847104",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/Cwaj0RLUAAApXAC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cwaj0RLUAAApXAC.jpg",
+						"url": "https://t.co/Pt5VvlU373",
+						"display_url": "pic.twitter.com/Pt5VvlU373",
+						"expanded_url": "https://twitter.com/ianlvcs/status/794502618361888768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 531,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1075,
+								"h": 1376,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 938,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 794502602289352700,
+						"id_str": "794502602289352705",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/Cwaj6EaUkAE8w_P.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cwaj6EaUkAE8w_P.jpg",
+						"url": "https://t.co/Pt5VvlU373",
+						"display_url": "pic.twitter.com/Pt5VvlU373",
+						"expanded_url": "https://twitter.com/ianlvcs/status/794502618361888768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 947,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1073,
+								"h": 1360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 537,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1316557902,
+				"id_str": "1316557902",
+				"name": "y",
+				"screen_name": "ianlvcs",
+				"location": "#Visca el Barça #C'mon City ",
+				"description": "강아지4마리 맛집 FC바르셀로나",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1035,
+				"friends_count": 1297,
+				"listed_count": 6,
+				"created_at": "Sat Mar 30 14:43:11 +0000 2013",
+				"favourites_count": 8069,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 48280,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/776756168186138624/U6EBX6Mk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/776756168186138624/U6EBX6Mk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1316557902/1458493163",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1762,
+			"favorite_count": 274,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1762,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Nov 04 15:01:19 +0000 2016",
 		"id": 794555128447541200,
 		"id_str": "794555128447541248",
