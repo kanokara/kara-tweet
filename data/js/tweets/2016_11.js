@@ -1,6 +1,511 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Wed Nov 09 07:14:18 +0000 2016",
+		"id": 796249539183185900,
+		"id_str": "796249539183185921",
+		"text": "어떻게 지난 시대에는 '정의'를 향해 전진할 수 있었던 것인지, 그 쟁취의 역사를 되새겨야.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7304,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 09 07:13:17 +0000 2016",
+		"id": 796249282684731400,
+		"id_str": "796249282684731392",
+		"text": "RT @Jeddal_yail0: 빈자들이 트럼프 찍었다는 말은 어디서 나왔습니까?\n이미지는 CNN 조사(https://t.co/HWaOpbI1jG). https://t.co/xnDAoD79gW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jeddal_yail0",
+					"name": "잿달",
+					"id": 148675718,
+					"id_str": "148675718",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HWaOpbI1jG",
+					"expanded_url": "http://edition.cnn.com/election/results/exit-polls/national/president",
+					"display_url": "edition.cnn.com/election/resul…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 796233444514594800,
+					"id_str": "796233444514594816",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/CwzKGWKUAAAiLlf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CwzKGWKUAAAiLlf.jpg",
+					"url": "https://t.co/xnDAoD79gW",
+					"display_url": "pic.twitter.com/xnDAoD79gW",
+					"expanded_url": "https://twitter.com/Jeddal_yail0/status/796233522180538369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 298,
+							"h": 376,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 298,
+							"h": 376,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 298,
+							"h": 376,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 796233522180538400,
+					"source_status_id_str": "796233522180538369",
+					"source_user_id": 148675718,
+					"source_user_id_str": "148675718"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 796233444514594800,
+					"id_str": "796233444514594816",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/CwzKGWKUAAAiLlf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CwzKGWKUAAAiLlf.jpg",
+					"url": "https://t.co/xnDAoD79gW",
+					"display_url": "pic.twitter.com/xnDAoD79gW",
+					"expanded_url": "https://twitter.com/Jeddal_yail0/status/796233522180538369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 298,
+							"h": 376,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 298,
+							"h": 376,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 298,
+							"h": 376,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 796233522180538400,
+					"source_status_id_str": "796233522180538369",
+					"source_user_id": 148675718,
+					"source_user_id_str": "148675718"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7304,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 09 06:10:39 +0000 2016",
+			"id": 796233522180538400,
+			"id_str": "796233522180538369",
+			"text": "빈자들이 트럼프 찍었다는 말은 어디서 나왔습니까?\n이미지는 CNN 조사(https://t.co/HWaOpbI1jG). https://t.co/xnDAoD79gW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HWaOpbI1jG",
+						"expanded_url": "http://edition.cnn.com/election/results/exit-polls/national/president",
+						"display_url": "edition.cnn.com/election/resul…",
+						"indices": [
+							40,
+							63
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 796233444514594800,
+						"id_str": "796233444514594816",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/CwzKGWKUAAAiLlf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CwzKGWKUAAAiLlf.jpg",
+						"url": "https://t.co/xnDAoD79gW",
+						"display_url": "pic.twitter.com/xnDAoD79gW",
+						"expanded_url": "https://twitter.com/Jeddal_yail0/status/796233522180538369/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 298,
+								"h": 376,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 298,
+								"h": 376,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 298,
+								"h": 376,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 796233444514594800,
+						"id_str": "796233444514594816",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/CwzKGWKUAAAiLlf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CwzKGWKUAAAiLlf.jpg",
+						"url": "https://t.co/xnDAoD79gW",
+						"display_url": "pic.twitter.com/xnDAoD79gW",
+						"expanded_url": "https://twitter.com/Jeddal_yail0/status/796233522180538369/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 298,
+								"h": 376,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 298,
+								"h": 376,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 298,
+								"h": 376,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 148675718,
+				"id_str": "148675718",
+				"name": "잿달",
+				"screen_name": "Jeddal_yail0",
+				"location": "Now at South Korea",
+				"description": "헤더는 선물받은 그림을 사용했습니다. はる犬님 고마워요.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 551,
+				"friends_count": 295,
+				"listed_count": 33,
+				"created_at": "Thu May 27 09:27:33 +0000 2010",
+				"favourites_count": 4329,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 139994,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/749532732103856128/3UinwZAT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/749532732103856128/3UinwZAT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/148675718/1401330086",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 90,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 90,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 09 06:45:05 +0000 2016",
+		"id": 796242187302252500,
+		"id_str": "796242187302252544",
+		"text": "트럼프 대통령에 대해선 크게 걱정하지 않지만, 인류에 대한 좌절감이 크네요.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7304,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Nov 09 06:04:23 +0000 2016",
 		"id": 796231945331933200,
 		"id_str": "796231945331933184",
