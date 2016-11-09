@@ -1,6 +1,1238 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Wed Nov 09 11:48:21 +0000 2016",
+		"id": 796318504995549200,
+		"id_str": "796318504995549184",
+		"text": "RT @NyaNyaNyangC: RT) 'MB는 기업인 출신이라 기성 정치 여의도 정치를 깨고 경제를 잘 굴릴 것이다'라는 논리를 2016년에도 보고 있어야겠냐. 우리 프론티어라니깐?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NyaNyaNyangC",
+					"name": "WASP 냥냥씨",
+					"id": 3235646006,
+					"id_str": "3235646006",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7321,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 09 08:49:53 +0000 2016",
+			"id": 796273592560283600,
+			"id_str": "796273592560283650",
+			"text": "RT) 'MB는 기업인 출신이라 기성 정치 여의도 정치를 깨고 경제를 잘 굴릴 것이다'라는 논리를 2016년에도 보고 있어야겠냐. 우리 프론티어라니깐?",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3235646006,
+				"id_str": "3235646006",
+				"name": "WASP 냥냥씨",
+				"screen_name": "NyaNyaNyangC",
+				"location": "명예합중국",
+				"description": "명예백인입니다. 저는 황상을 까지 않았읍니다. 트럼프 만세.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 677,
+				"friends_count": 524,
+				"listed_count": 16,
+				"created_at": "Thu Jun 04 03:14:06 +0000 2015",
+				"favourites_count": 1352,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28240,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/739836693935620096/FrsXSXoI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/739836693935620096/FrsXSXoI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3235646006/1459901264",
+				"profile_link_color": "DD4460",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 64,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 09 11:45:09 +0000 2016",
+		"id": 796317701723463700,
+		"id_str": "796317701723463680",
+		"text": "RT @chico_fajita: 정청래라던지... https://t.co/ds805kxLk0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chico_fajita",
+					"name": "맛있는 파히타",
+					"id": 1162272626,
+					"id_str": "1162272626",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ds805kxLk0",
+					"expanded_url": "https://twitter.com/ssaribi/status/796255287141203969",
+					"display_url": "twitter.com/ssaribi/status…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7321,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 09 11:05:08 +0000 2016",
+			"id": 796307630788513800,
+			"id_str": "796307630788513792",
+			"text": "정청래라던지... https://t.co/ds805kxLk0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ds805kxLk0",
+						"expanded_url": "https://twitter.com/ssaribi/status/796255287141203969",
+						"display_url": "twitter.com/ssaribi/status…",
+						"indices": [
+							10,
+							33
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 796307185634418700,
+			"in_reply_to_status_id_str": "796307185634418688",
+			"in_reply_to_user_id": 1162272626,
+			"in_reply_to_user_id_str": "1162272626",
+			"in_reply_to_screen_name": "chico_fajita",
+			"user": {
+				"id": 1162272626,
+				"id_str": "1162272626",
+				"name": "맛있는 파히타",
+				"screen_name": "chico_fajita",
+				"location": "",
+				"description": "아이돌을 좋아합니다.",
+				"url": "https://t.co/sBAQFlSRWR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sBAQFlSRWR",
+								"expanded_url": "http://chicofajita.tumblr.com",
+								"display_url": "chicofajita.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 702,
+				"friends_count": 330,
+				"listed_count": 21,
+				"created_at": "Sat Feb 09 07:39:24 +0000 2013",
+				"favourites_count": 1588,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 52899,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/786385744809951232/lR0Irmdh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/786385744809951232/lR0Irmdh_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 796255287141204000,
+			"quoted_status_id_str": "796255287141203969",
+			"quoted_status": {
+				"created_at": "Wed Nov 09 07:37:08 +0000 2016",
+				"id": 796255287141204000,
+				"id_str": "796255287141203969",
+				"text": "&lt;미국에서 민란이 발생했다.&gt;아웃사이더 민란군이 백악관을 점령했다. 제도권 주류사회의 카르텔을 민초들이 균열을 냈고 트럼프가 그 중심에 섰다. 주류 언론의 트럼프 죽이기도 통하지 않았다. 트럼프 자서전 \"거래의 기술\"로 보면 그는 철저한 이익중심자다.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 64301672,
+					"id_str": "64301672",
+					"name": "정청래와 더불어민주당",
+					"screen_name": "ssaribi",
+					"location": "서울시 마포(을)",
+					"description": "17대, 19대 국회의원. 취미는 함께 노래하기, 식성은 청국장 보리 비빔밥,  망원동, 상암동, 성산동, 연남동, 서강동, 서교동, 합정동 등 홍대일대를 지역 기반으로 하는  3더이즘과 4쾌이즘의 창시자. 자칭 SNS 전문가. 마포스타일 대한민국 얼짱 정치인.",
+					"url": "https://t.co/cd8pd436dm",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/cd8pd436dm",
+									"expanded_url": "http://www.mapopower.or.kr/",
+									"display_url": "mapopower.or.kr",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 286422,
+					"friends_count": 260708,
+					"listed_count": 2640,
+					"created_at": "Mon Aug 10 01:15:51 +0000 2009",
+					"favourites_count": 42,
+					"utc_offset": 32400,
+					"time_zone": "Seoul",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 9903,
+					"lang": "ko",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/583757647/czrtb63pi8ekveo6heq2.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/583757647/czrtb63pi8ekveo6heq2.jpeg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/778928250965798913/aB_XmjMo_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/778928250965798913/aB_XmjMo_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/64301672/1478676161",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 461,
+				"favorite_count": 226,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "ko"
+			},
+			"retweet_count": 4,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 796255287141204000,
+		"quoted_status_id_str": "796255287141203969",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 09 11:45:03 +0000 2016",
+		"id": 796317675983016000,
+		"id_str": "796317675983015936",
+		"text": "RT @chico_fajita: 이재명이라던지... https://t.co/St44SUwESK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chico_fajita",
+					"name": "맛있는 파히타",
+					"id": 1162272626,
+					"id_str": "1162272626",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/St44SUwESK",
+					"expanded_url": "https://twitter.com/Jaemyung_Lee/status/796272502963982336",
+					"display_url": "twitter.com/Jaemyung_Lee/s…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7321,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 09 11:03:22 +0000 2016",
+			"id": 796307185634418700,
+			"id_str": "796307185634418688",
+			"text": "이재명이라던지... https://t.co/St44SUwESK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/St44SUwESK",
+						"expanded_url": "https://twitter.com/Jaemyung_Lee/status/796272502963982336",
+						"display_url": "twitter.com/Jaemyung_Lee/s…",
+						"indices": [
+							11,
+							34
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 796306632829374500,
+			"in_reply_to_status_id_str": "796306632829374466",
+			"in_reply_to_user_id": 1162272626,
+			"in_reply_to_user_id_str": "1162272626",
+			"in_reply_to_screen_name": "chico_fajita",
+			"user": {
+				"id": 1162272626,
+				"id_str": "1162272626",
+				"name": "맛있는 파히타",
+				"screen_name": "chico_fajita",
+				"location": "",
+				"description": "아이돌을 좋아합니다.",
+				"url": "https://t.co/sBAQFlSRWR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sBAQFlSRWR",
+								"expanded_url": "http://chicofajita.tumblr.com",
+								"display_url": "chicofajita.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 702,
+				"friends_count": 330,
+				"listed_count": 21,
+				"created_at": "Sat Feb 09 07:39:24 +0000 2013",
+				"favourites_count": 1588,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 52899,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/786385744809951232/lR0Irmdh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/786385744809951232/lR0Irmdh_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 796272502963982300,
+			"quoted_status_id_str": "796272502963982336",
+			"quoted_status": {
+				"created_at": "Wed Nov 09 08:45:33 +0000 2016",
+				"id": 796272502963982300,
+				"id_str": "796272502963982336",
+				"text": "이재명 \"트럼프 승리, 기득 정치세력-정치인 탄핵\" https://t.co/NvpLFyJ5I4",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/NvpLFyJ5I4",
+							"expanded_url": "http://www.viewsnnews.com/article?q=138054",
+							"display_url": "viewsnnews.com/article?q=1380…",
+							"indices": [
+								29,
+								52
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 106379129,
+					"id_str": "106379129",
+					"name": "이재명 성남시장",
+					"screen_name": "Jaemyung_Lee",
+					"location": "경기도/성남/",
+					"description": "소년공출신/산재사고로 장애ㅡ병역면제/ 중ᆞ고 검정고시/28회사법시험 합격, 군사정권의 판검사 임용 거부 인권변호사 선택/시민운동으로 구속 1회, 수배1회/기회공평한 사회 만드는게 꿈/중앙대법대/경북 안동출생/ ljm631000@nate.com",
+					"url": "https://t.co/3rMbtQitQv",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/3rMbtQitQv",
+									"expanded_url": "http://blog.naver.com/jaemyunglee",
+									"display_url": "blog.naver.com/jaemyunglee",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 299241,
+					"friends_count": 301948,
+					"listed_count": 2734,
+					"created_at": "Tue Jan 19 10:59:13 +0000 2010",
+					"favourites_count": 71,
+					"utc_offset": 32400,
+					"time_zone": "Seoul",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 54776,
+					"lang": "ko",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "FFFFFF",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/188526210/bg1.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/188526210/bg1.jpg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/705398477132464128/kzklsDAO_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/705398477132464128/kzklsDAO_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/106379129/1412924253",
+					"profile_link_color": "557A74",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "F0FFF4",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 262,
+				"favorite_count": 174,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "ko"
+			},
+			"retweet_count": 5,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 796272502963982300,
+		"quoted_status_id_str": "796272502963982336",
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 09 11:45:00 +0000 2016",
+		"id": 796317663102238700,
+		"id_str": "796317663102238721",
+		"text": "RT @chico_fajita: 안철수라던지... https://t.co/VteQGYGVTT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chico_fajita",
+					"name": "맛있는 파히타",
+					"id": 1162272626,
+					"id_str": "1162272626",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VteQGYGVTT",
+					"expanded_url": "https://twitter.com/peopleparty21/status/796269989338615808",
+					"display_url": "twitter.com/peopleparty21/…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7321,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 09 11:01:10 +0000 2016",
+			"id": 796306632829374500,
+			"id_str": "796306632829374466",
+			"text": "안철수라던지... https://t.co/VteQGYGVTT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VteQGYGVTT",
+						"expanded_url": "https://twitter.com/peopleparty21/status/796269989338615808",
+						"display_url": "twitter.com/peopleparty21/…",
+						"indices": [
+							10,
+							33
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 796305880539021300,
+			"in_reply_to_status_id_str": "796305880539021312",
+			"in_reply_to_user_id": 1162272626,
+			"in_reply_to_user_id_str": "1162272626",
+			"in_reply_to_screen_name": "chico_fajita",
+			"user": {
+				"id": 1162272626,
+				"id_str": "1162272626",
+				"name": "맛있는 파히타",
+				"screen_name": "chico_fajita",
+				"location": "",
+				"description": "아이돌을 좋아합니다.",
+				"url": "https://t.co/sBAQFlSRWR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sBAQFlSRWR",
+								"expanded_url": "http://chicofajita.tumblr.com",
+								"display_url": "chicofajita.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 702,
+				"friends_count": 330,
+				"listed_count": 21,
+				"created_at": "Sat Feb 09 07:39:24 +0000 2013",
+				"favourites_count": 1588,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 52899,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/786385744809951232/lR0Irmdh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/786385744809951232/lR0Irmdh_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 796269989338615800,
+			"quoted_status_id_str": "796269989338615808",
+			"quoted_status": {
+				"created_at": "Wed Nov 09 08:35:34 +0000 2016",
+				"id": 796269989338615800,
+				"id_str": "796269989338615808",
+				"text": "[논평]워싱턴정치의 아웃사이더였던 트럼프 당선인의 승리는 기존 정치권에 반성을 촉구하는 강력한 메시지다. 팍팍한 삶과 희망 없는 미래에 아우성치고 있는 미국국민들이 민생과 괴리 돼 기득권이 되어 버린 낡은 정치를 심판한 것이다.-손금주 수석대변인",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 4748189845,
+					"id_str": "4748189845",
+					"name": "국민의당",
+					"screen_name": "peopleparty21",
+					"location": "",
+					"description": "국민의당 공식 트위터 계정",
+					"url": "https://t.co/tkxntGggzE",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/tkxntGggzE",
+									"expanded_url": "http://www.people21.kr",
+									"display_url": "people21.kr",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 16464,
+					"friends_count": 4886,
+					"listed_count": 74,
+					"created_at": "Tue Jan 12 12:31:38 +0000 2016",
+					"favourites_count": 2352,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 1856,
+					"lang": "ko",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/756066216486109185/gzMGjMlU_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/756066216486109185/gzMGjMlU_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/4748189845/1475127613",
+					"profile_link_color": "ABB8C2",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 834,
+				"favorite_count": 45,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "ko"
+			},
+			"retweet_count": 7,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 796269989338615800,
+		"quoted_status_id_str": "796269989338615808",
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 09 11:44:56 +0000 2016",
+		"id": 796317646790606800,
+		"id_str": "796317646790606848",
+		"text": "RT @chico_fajita: 이떄다 싶어서 내가 한국의 트럼프다 하는 인간들을 모두 기억해두고 10년간 놀림감을 삼아야 합니다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chico_fajita",
+					"name": "맛있는 파히타",
+					"id": 1162272626,
+					"id_str": "1162272626",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7321,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 09 10:58:11 +0000 2016",
+			"id": 796305880539021300,
+			"id_str": "796305880539021312",
+			"text": "이떄다 싶어서 내가 한국의 트럼프다 하는 인간들을 모두 기억해두고 10년간 놀림감을 삼아야 합니다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1162272626,
+				"id_str": "1162272626",
+				"name": "맛있는 파히타",
+				"screen_name": "chico_fajita",
+				"location": "",
+				"description": "아이돌을 좋아합니다.",
+				"url": "https://t.co/sBAQFlSRWR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sBAQFlSRWR",
+								"expanded_url": "http://chicofajita.tumblr.com",
+								"display_url": "chicofajita.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 702,
+				"friends_count": 330,
+				"listed_count": 21,
+				"created_at": "Sat Feb 09 07:39:24 +0000 2013",
+				"favourites_count": 1588,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 52899,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/786385744809951232/lR0Irmdh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/786385744809951232/lR0Irmdh_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Nov 09 08:42:50 +0000 2016",
 		"id": 796271821825806300,
 		"id_str": "796271821825806336",
