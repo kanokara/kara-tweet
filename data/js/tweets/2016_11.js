@@ -1,6 +1,1512 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Wed Nov 09 15:53:34 +0000 2016",
+		"id": 796380216004182000,
+		"id_str": "796380216004182016",
+		"text": "사회적 압력이 작용하게 하기 위해서 어쩌면 비밀투표는 폐기하고 공개투표를 해야하는 것은 아닐까.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 796367193042624500,
+		"in_reply_to_status_id_str": "796367193042624512",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7359,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 09 15:22:24 +0000 2016",
+		"id": 796372372118876200,
+		"id_str": "796372372118876160",
+		"text": "RT @ObserverofCity: 인상적인 것은 기존 유명 대도시의 내국인 유출을 압도할 만큼 많은 외국인이 유입되었다는 점. \n\n지도/도표\nhttps://t.co/AujZXxzFH5 https://t.co/L2mLz8iwR2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ObserverofCity",
+					"name": "도시목격자",
+					"id": 180738205,
+					"id_str": "180738205",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AujZXxzFH5",
+					"expanded_url": "http://www.citylab.com/politics/2014/04/2-very-different-migrations-driving-growth-us-cities/8873/",
+					"display_url": "citylab.com/politics/2014/…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 796320107563810800,
+					"id_str": "796320107563810816",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/Cw0Y6zLXgAA2PuE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cw0Y6zLXgAA2PuE.jpg",
+					"url": "https://t.co/L2mLz8iwR2",
+					"display_url": "pic.twitter.com/L2mLz8iwR2",
+					"expanded_url": "https://twitter.com/ObserverofCity/status/796320455229587457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 841,
+							"h": 609,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 841,
+							"h": 609,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 796320455229587500,
+					"source_status_id_str": "796320455229587457",
+					"source_user_id": 180738205,
+					"source_user_id_str": "180738205"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 796320107563810800,
+					"id_str": "796320107563810816",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/Cw0Y6zLXgAA2PuE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cw0Y6zLXgAA2PuE.jpg",
+					"url": "https://t.co/L2mLz8iwR2",
+					"display_url": "pic.twitter.com/L2mLz8iwR2",
+					"expanded_url": "https://twitter.com/ObserverofCity/status/796320455229587457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 841,
+							"h": 609,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 841,
+							"h": 609,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 796320455229587500,
+					"source_status_id_str": "796320455229587457",
+					"source_user_id": 180738205,
+					"source_user_id_str": "180738205"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7359,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 09 11:56:06 +0000 2016",
+			"id": 796320455229587500,
+			"id_str": "796320455229587457",
+			"text": "인상적인 것은 기존 유명 대도시의 내국인 유출을 압도할 만큼 많은 외국인이 유입되었다는 점. \n\n지도/도표\nhttps://t.co/AujZXxzFH5 https://t.co/L2mLz8iwR2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AujZXxzFH5",
+						"expanded_url": "http://www.citylab.com/politics/2014/04/2-very-different-migrations-driving-growth-us-cities/8873/",
+						"display_url": "citylab.com/politics/2014/…",
+						"indices": [
+							60,
+							83
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 796320107563810800,
+						"id_str": "796320107563810816",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/Cw0Y6zLXgAA2PuE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cw0Y6zLXgAA2PuE.jpg",
+						"url": "https://t.co/L2mLz8iwR2",
+						"display_url": "pic.twitter.com/L2mLz8iwR2",
+						"expanded_url": "https://twitter.com/ObserverofCity/status/796320455229587457/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 841,
+								"h": 609,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 841,
+								"h": 609,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 492,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 796320107563810800,
+						"id_str": "796320107563810816",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/Cw0Y6zLXgAA2PuE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cw0Y6zLXgAA2PuE.jpg",
+						"url": "https://t.co/L2mLz8iwR2",
+						"display_url": "pic.twitter.com/L2mLz8iwR2",
+						"expanded_url": "https://twitter.com/ObserverofCity/status/796320455229587457/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 841,
+								"h": 609,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 841,
+								"h": 609,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 492,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 796319940827562000,
+			"in_reply_to_status_id_str": "796319940827561984",
+			"in_reply_to_user_id": 180738205,
+			"in_reply_to_user_id_str": "180738205",
+			"in_reply_to_screen_name": "ObserverofCity",
+			"user": {
+				"id": 180738205,
+				"id_str": "180738205",
+				"name": "도시목격자",
+				"screen_name": "ObserverofCity",
+				"location": "Berlin, Deutschland",
+				"description": "베를린 거주민.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1113,
+				"friends_count": 218,
+				"listed_count": 31,
+				"created_at": "Fri Aug 20 10:33:25 +0000 2010",
+				"favourites_count": 1511,
+				"utc_offset": 3600,
+				"time_zone": "Bern",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 598,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/583705806748561408/-yFy7Y3C_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/583705806748561408/-yFy7Y3C_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/180738205/1425594872",
+				"profile_link_color": "131516",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 09 15:22:13 +0000 2016",
+		"id": 796372326157721600,
+		"id_str": "796372326157721602",
+		"text": "RT @ObserverofCity: 계속 layer on/off 해가면서 비교해보고 있는데, 심지어 진한 빨강색의 트럼프 우세 지역 내에서도 연분홍/탁한 분홍색으로 상대적으로 트럼프 투표가 낮은 지역은 어김없이 야간 위성지도에서 불빛이 상대적으로 많…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ObserverofCity",
+					"name": "도시목격자",
+					"id": 180738205,
+					"id_str": "180738205",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7359,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 09 11:25:17 +0000 2016",
+			"id": 796312701815423000,
+			"id_str": "796312701815422976",
+			"text": "계속 layer on/off 해가면서 비교해보고 있는데, 심지어 진한 빨강색의 트럼프 우세 지역 내에서도 연분홍/탁한 분홍색으로 상대적으로 트럼프 투표가 낮은 지역은 어김없이 야간 위성지도에서 불빛이 상대적으로 많이 노출된 도시화 지역.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 796311144243855400,
+			"in_reply_to_status_id_str": "796311144243855361",
+			"in_reply_to_user_id": 180738205,
+			"in_reply_to_user_id_str": "180738205",
+			"in_reply_to_screen_name": "ObserverofCity",
+			"user": {
+				"id": 180738205,
+				"id_str": "180738205",
+				"name": "도시목격자",
+				"screen_name": "ObserverofCity",
+				"location": "Berlin, Deutschland",
+				"description": "베를린 거주민.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1113,
+				"friends_count": 218,
+				"listed_count": 31,
+				"created_at": "Fri Aug 20 10:33:25 +0000 2010",
+				"favourites_count": 1511,
+				"utc_offset": 3600,
+				"time_zone": "Bern",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 598,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/583705806748561408/-yFy7Y3C_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/583705806748561408/-yFy7Y3C_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/180738205/1425594872",
+				"profile_link_color": "131516",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 45,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 09 15:22:08 +0000 2016",
+		"id": 796372306419269600,
+		"id_str": "796372306419269632",
+		"text": "RT @ObserverofCity: 1. County 레벨에서 투표 결과\n2. 미국 야간 위성 지도\n3. 2를 1 위에 50% 투명도로 곂침. \n\n비교해보시길! East Coast의 푸른색 (도시) 라인이 너무 선명하게 보이는 것 너무 감동적이면서도…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ObserverofCity",
+					"name": "도시목격자",
+					"id": 180738205,
+					"id_str": "180738205",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7359,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 09 11:19:06 +0000 2016",
+			"id": 796311144243855400,
+			"id_str": "796311144243855361",
+			"text": "1. County 레벨에서 투표 결과\n2. 미국 야간 위성 지도\n3. 2를 1 위에 50% 투명도로 곂침. \n\n비교해보시길! East Coast의 푸른색 (도시) 라인이 너무 선명하게 보이는 것 너무 감동적… https://t.co/tWYCXMQRpp",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tWYCXMQRpp",
+						"expanded_url": "https://twitter.com/i/web/status/796311144243855361",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 796308563891200000,
+			"in_reply_to_status_id_str": "796308563891200000",
+			"in_reply_to_user_id": 180738205,
+			"in_reply_to_user_id_str": "180738205",
+			"in_reply_to_screen_name": "ObserverofCity",
+			"user": {
+				"id": 180738205,
+				"id_str": "180738205",
+				"name": "도시목격자",
+				"screen_name": "ObserverofCity",
+				"location": "Berlin, Deutschland",
+				"description": "베를린 거주민.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1113,
+				"friends_count": 218,
+				"listed_count": 31,
+				"created_at": "Fri Aug 20 10:33:25 +0000 2010",
+				"favourites_count": 1511,
+				"utc_offset": 3600,
+				"time_zone": "Bern",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 598,
+				"lang": "de",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/583705806748561408/-yFy7Y3C_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/583705806748561408/-yFy7Y3C_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/180738205/1425594872",
+				"profile_link_color": "131516",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 355,
+			"favorite_count": 84,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 355,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 09 15:18:52 +0000 2016",
+		"id": 796371483605880800,
+		"id_str": "796371483605880833",
+		"text": "RT @nekizlab: RT) 강준만 선생님의 좀 말도 안 되는 것 같은 생산력은 많은 부분 '스크랩북 만들기'에서 출발하는데요, 음.… 원노트나 에버노트도 없던 시절 사람치고는 진짜 대단하달까 뭐 그런 생각이 들어요. 현대에 와서는 큰 의미 자체…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nekizlab",
+					"name": "Nekizlab",
+					"id": 129115028,
+					"id_str": "129115028",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7359,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 09 14:13:38 +0000 2016",
+			"id": 796355068677091300,
+			"id_str": "796355068677091328",
+			"text": "RT) 강준만 선생님의 좀 말도 안 되는 것 같은 생산력은 많은 부분 '스크랩북 만들기'에서 출발하는데요, 음.… 원노트나 에버노트도 없던 시절 사람치고는 진짜 대단하달까 뭐 그런 생각이 들어요. 현대에 와서는 큰 의미 자체는 없어지긴 했지만.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 129115028,
+				"id_str": "129115028",
+				"name": "Nekizlab",
+				"screen_name": "nekizlab",
+				"location": "Seoul, Korea",
+				"description": "독서가입니다.\r\n진짜임.",
+				"url": "http://t.co/DfkULcqh7M",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/DfkULcqh7M",
+								"expanded_url": "http://www.nekizlab.com/",
+								"display_url": "nekizlab.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1092,
+				"friends_count": 290,
+				"listed_count": 30,
+				"created_at": "Sat Apr 03 06:31:10 +0000 2010",
+				"favourites_count": 138093,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 139225,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/577242021787652096/ns09OTWm.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/577242021787652096/ns09OTWm.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/577243935996702720/mx0uvSNR_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/577243935996702720/mx0uvSNR_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/129115028/1426460110",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 09 15:14:40 +0000 2016",
+		"id": 796370428331556900,
+		"id_str": "796370428331556865",
+		"text": "RT @wwnnyr: 사람의 인성은 상대방에게 하는 사소한 행동 하나에서 판단되기도 한다...... https://t.co/jbH8aXNAvS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wwnnyr",
+					"name": "⚡️七ㅅㅣ찌",
+					"id": 773899020993491000,
+					"id_str": "773899020993490945",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 796332181568135200,
+					"id_str": "796332181568135168",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/Cw0j5mWUoAAiAPf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cw0j5mWUoAAiAPf.jpg",
+					"url": "https://t.co/jbH8aXNAvS",
+					"display_url": "pic.twitter.com/jbH8aXNAvS",
+					"expanded_url": "https://twitter.com/wwnnyr/status/796332202023784448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 437,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 796332202023784400,
+					"source_status_id_str": "796332202023784448",
+					"source_user_id": 773899020993491000,
+					"source_user_id_str": "773899020993490945"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 796332181568135200,
+					"id_str": "796332181568135168",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/Cw0j5mWUoAAiAPf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cw0j5mWUoAAiAPf.jpg",
+					"url": "https://t.co/jbH8aXNAvS",
+					"display_url": "pic.twitter.com/jbH8aXNAvS",
+					"expanded_url": "https://twitter.com/wwnnyr/status/796332202023784448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 437,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 796332202023784400,
+					"source_status_id_str": "796332202023784448",
+					"source_user_id": 773899020993491000,
+					"source_user_id_str": "773899020993490945"
+				},
+				{
+					"id": 796332181635231700,
+					"id_str": "796332181635231744",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/Cw0j5mmUcAAPtkr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cw0j5mmUcAAPtkr.jpg",
+					"url": "https://t.co/jbH8aXNAvS",
+					"display_url": "pic.twitter.com/jbH8aXNAvS",
+					"expanded_url": "https://twitter.com/wwnnyr/status/796332202023784448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 560,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 315,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 560,
+							"h": 315,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 796332202023784400,
+					"source_status_id_str": "796332202023784448",
+					"source_user_id": 773899020993491000,
+					"source_user_id_str": "773899020993490945"
+				},
+				{
+					"id": 796332181589082100,
+					"id_str": "796332181589082113",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/Cw0j5mbUQAEGz_N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cw0j5mbUQAEGz_N.jpg",
+					"url": "https://t.co/jbH8aXNAvS",
+					"display_url": "pic.twitter.com/jbH8aXNAvS",
+					"expanded_url": "https://twitter.com/wwnnyr/status/796332202023784448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 796332202023784400,
+					"source_status_id_str": "796332202023784448",
+					"source_user_id": 773899020993491000,
+					"source_user_id_str": "773899020993490945"
+				},
+				{
+					"id": 796332181568110600,
+					"id_str": "796332181568110592",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/Cw0j5mWUQAAIXSv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cw0j5mWUQAAIXSv.jpg",
+					"url": "https://t.co/jbH8aXNAvS",
+					"display_url": "pic.twitter.com/jbH8aXNAvS",
+					"expanded_url": "https://twitter.com/wwnnyr/status/796332202023784448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 318,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 318,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 318,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 796332202023784400,
+					"source_status_id_str": "796332202023784448",
+					"source_user_id": 773899020993491000,
+					"source_user_id_str": "773899020993490945"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7359,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 09 12:42:46 +0000 2016",
+			"id": 796332202023784400,
+			"id_str": "796332202023784448",
+			"text": "사람의 인성은 상대방에게 하는 사소한 행동 하나에서 판단되기도 한다...... https://t.co/jbH8aXNAvS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 796332181568135200,
+						"id_str": "796332181568135168",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/Cw0j5mWUoAAiAPf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cw0j5mWUoAAiAPf.jpg",
+						"url": "https://t.co/jbH8aXNAvS",
+						"display_url": "pic.twitter.com/jbH8aXNAvS",
+						"expanded_url": "https://twitter.com/wwnnyr/status/796332202023784448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 700,
+								"h": 450,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 437,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 700,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 796332181568135200,
+						"id_str": "796332181568135168",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/Cw0j5mWUoAAiAPf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cw0j5mWUoAAiAPf.jpg",
+						"url": "https://t.co/jbH8aXNAvS",
+						"display_url": "pic.twitter.com/jbH8aXNAvS",
+						"expanded_url": "https://twitter.com/wwnnyr/status/796332202023784448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 700,
+								"h": 450,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 437,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 700,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 796332181635231700,
+						"id_str": "796332181635231744",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/Cw0j5mmUcAAPtkr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cw0j5mmUcAAPtkr.jpg",
+						"url": "https://t.co/jbH8aXNAvS",
+						"display_url": "pic.twitter.com/jbH8aXNAvS",
+						"expanded_url": "https://twitter.com/wwnnyr/status/796332202023784448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 560,
+								"h": 315,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 560,
+								"h": 315,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 560,
+								"h": 315,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 796332181589082100,
+						"id_str": "796332181589082113",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/Cw0j5mbUQAEGz_N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cw0j5mbUQAEGz_N.jpg",
+						"url": "https://t.co/jbH8aXNAvS",
+						"display_url": "pic.twitter.com/jbH8aXNAvS",
+						"expanded_url": "https://twitter.com/wwnnyr/status/796332202023784448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 700,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 389,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 796332181568110600,
+						"id_str": "796332181568110592",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/Cw0j5mWUQAAIXSv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cw0j5mWUQAAIXSv.jpg",
+						"url": "https://t.co/jbH8aXNAvS",
+						"display_url": "pic.twitter.com/jbH8aXNAvS",
+						"expanded_url": "https://twitter.com/wwnnyr/status/796332202023784448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 600,
+								"h": 318,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 318,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 318,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 773899020993491000,
+				"id_str": "773899020993490945",
+				"name": "⚡️七ㅅㅣ찌",
+				"screen_name": "wwnnyr",
+				"location": "",
+				"description": "HQNL / FUB FREE / 성덕 / 유온아",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 141,
+				"friends_count": 190,
+				"listed_count": 1,
+				"created_at": "Thu Sep 08 15:01:19 +0000 2016",
+				"favourites_count": 538,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 785,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/790879934948401153/ihjC2HE__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/790879934948401153/ihjC2HE__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/773899020993490945/1477396270",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11588,
+			"favorite_count": 1703,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11588,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Nov 09 15:12:55 +0000 2016",
 		"id": 796369985639546900,
 		"id_str": "796369985639546880",
