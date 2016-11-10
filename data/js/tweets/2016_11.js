@@ -1,6 +1,185 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Thu Nov 10 06:43:09 +0000 2016",
+		"id": 796604086791635000,
+		"id_str": "796604086791634944",
+		"text": "미야다이 신지는 이 와중에 정신줄 놓았네요.\nhttps://t.co/UXi0smvL24",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UXi0smvL24",
+					"expanded_url": "https://twitter.com/miyadai/status/796272871681224704",
+					"display_url": "twitter.com/miyadai/status…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1047,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7364,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 796272871681224700,
+		"quoted_status_id_str": "796272871681224704",
+		"quoted_status": {
+			"created_at": "Wed Nov 09 08:47:01 +0000 2016",
+			"id": 796272871681224700,
+			"id_str": "796272871681224704",
+			"text": "9月21日ゲンロンで東浩紀氏に述べた通り、トランプの当選を強く望み、マル激で申し上げてきた通りそうなると思っていました。今回の結果を歓迎します。トランプが良い大統領になるからではない。どのみちこのままスムースに進まないグローバル化以降の歴史の推転を早めるからです。祝トランプ当選！",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 68548879,
+				"id_str": "68548879",
+				"name": "宮台真司",
+				"screen_name": "miyadai",
+				"location": "東京都世田谷区",
+				"description": "社会学者 sociologist\r\n首都大学東京教授　Professor,Tokyo Metropolitan University",
+				"url": "http://t.co/nB6CrQdlZb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/nB6CrQdlZb",
+								"expanded_url": "http://www.miyadai.com",
+								"display_url": "miyadai.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 117763,
+				"friends_count": 317,
+				"listed_count": 8486,
+				"created_at": "Mon Aug 24 23:53:20 +0000 2009",
+				"favourites_count": 204,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 43871,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/344513261571030171/1a6db11804288234213c68bc63fcb444_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/344513261571030171/1a6db11804288234213c68bc63fcb444_normal.jpeg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 678,
+			"favorite_count": 635,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ja"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Nov 10 05:24:01 +0000 2016",
 		"id": 796584175373578200,
 		"id_str": "796584175373578240",
