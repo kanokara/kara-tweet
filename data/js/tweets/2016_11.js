@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Thu Nov 10 19:26:31 +0000 2016",
+		"id": 796796196761137200,
+		"id_str": "796796196761137152",
+		"text": "RT @WeProtest2016: 기사에 나온 동시다발시위 아이디어를 현실화하기 위해 대학생들이 모여 &lt;숨은주권찾기&gt;를 만들었습니다! \n현 시국과 관련하여 정권에 목소리 내고 싶은 모든 사람들과 함께하고자합니다. 함께 외쳐요 #박근혜퇴진\nhttps:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박근혜퇴진",
+					"indices": [
+						132,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WeProtest2016",
+					"name": "숨은주권찾기",
+					"id": 796409536605089800,
+					"id_str": "796409536605089792",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1047,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7378,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 10 18:54:46 +0000 2016",
+			"id": 796788205525663700,
+			"id_str": "796788205525663744",
+			"text": "기사에 나온 동시다발시위 아이디어를 현실화하기 위해 대학생들이 모여 &lt;숨은주권찾기&gt;를 만들었습니다! \n현 시국과 관련하여 정권에 목소리 내고 싶은 모든 사람들과 함께하고자합니다. 함께 외쳐요 #박근혜퇴진\nhttps://t.co/T4cd4Qf2Bc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "박근혜퇴진",
+						"indices": [
+							113,
+							119
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/T4cd4Qf2Bc",
+						"expanded_url": "http://v.media.daum.net/v/20161031132626555",
+						"display_url": "v.media.daum.net/v/201610311326…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 796409536605089800,
+				"id_str": "796409536605089792",
+				"name": "숨은주권찾기",
+				"screen_name": "WeProtest2016",
+				"location": "대한민국 서울",
+				"description": "11월 15일 저녁 7시 신촌, 대학로, 강남, 청량리에서 박근혜 퇴진을 위해 동시다발시위를 진행하는 대학생모임입니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12,
+				"friends_count": 0,
+				"listed_count": 0,
+				"created_at": "Wed Nov 09 17:50:04 +0000 2016",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/796765213001293824/G3VZ5ddP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/796765213001293824/G3VZ5ddP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/796409536605089792/1478714543",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Nov 10 19:04:25 +0000 2016",
 		"id": 796790633411145700,
 		"id_str": "796790633411145730",
