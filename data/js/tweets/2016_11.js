@@ -1,6 +1,455 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Thu Nov 10 19:04:25 +0000 2016",
+		"id": 796790633411145700,
+		"id_str": "796790633411145730",
+		"text": "[MV] PARK SI YEON(박시연) _ Thought of You(그리움만 쌓이네) https://t.co/pVrCBzfgB8\n\n박기영 - 그리움만 쌓이네 [열린음악회 1121회]\nhttps://t.co/UxDxqFsxfi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pVrCBzfgB8",
+					"expanded_url": "https://youtu.be/2sr7u6wP9uk",
+					"display_url": "youtu.be/2sr7u6wP9uk",
+					"indices": [
+						50,
+						73
+					]
+				},
+				{
+					"url": "https://t.co/UxDxqFsxfi",
+					"expanded_url": "https://youtu.be/S7955XCmUns",
+					"display_url": "youtu.be/S7955XCmUns",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1047,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7377,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Nov 10 19:03:36 +0000 2016",
+		"id": 796790428603269100,
+		"id_str": "796790428603269120",
+		"text": "RT @llamadva: 아무리 봐도 이분은 트럼프 치하에서 했으면 베프먹거나 웬수되거나 둘중 하나일텐데 아마 베프먹었을듯. 아니 GM 디트로이트 공장에 한국대통령이 오는거 지금봐도 이해가 안됨 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/KwYxLLq…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "llamadva",
+					"name": "Llamadva",
+					"id": 1510642711,
+					"id_str": "1510642711",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1047,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7377,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 10 18:13:42 +0000 2016",
+			"id": 796777869384876000,
+			"id_str": "796777869384876033",
+			"text": "아무리 봐도 이분은 트럼프 치하에서 했으면 베프먹거나 웬수되거나 둘중 하나일텐데 아마 베프먹었을듯. 아니 GM 디트로이트 공장에 한국대통령이 오는거 지금봐도 이해가 안됨 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/KwYxLLqt0p",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 796777849424212000,
+						"id_str": "796777849424211968",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/Cw65O4fUcAAtj9x.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cw65O4fUcAAtj9x.jpg",
+						"url": "https://t.co/KwYxLLqt0p",
+						"display_url": "pic.twitter.com/KwYxLLqt0p",
+						"expanded_url": "https://twitter.com/llamadva/status/796777869384876033/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 580,
+								"h": 406,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 580,
+								"h": 406,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 580,
+								"h": 406,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 796777849424212000,
+						"id_str": "796777849424211968",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/Cw65O4fUcAAtj9x.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cw65O4fUcAAtj9x.jpg",
+						"url": "https://t.co/KwYxLLqt0p",
+						"display_url": "pic.twitter.com/KwYxLLqt0p",
+						"expanded_url": "https://twitter.com/llamadva/status/796777869384876033/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 580,
+								"h": 406,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 580,
+								"h": 406,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 580,
+								"h": 406,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 796777854717395000,
+						"id_str": "796777854717394944",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/Cw65PMNUAAAmFQp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cw65PMNUAAAmFQp.jpg",
+						"url": "https://t.co/KwYxLLqt0p",
+						"display_url": "pic.twitter.com/KwYxLLqt0p",
+						"expanded_url": "https://twitter.com/llamadva/status/796777869384876033/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 482,
+								"h": 348,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 482,
+								"h": 348,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 482,
+								"h": 348,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 796777860761423900,
+						"id_str": "796777860761423872",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/Cw65PiuUkAAk2rO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cw65PiuUkAAk2rO.jpg",
+						"url": "https://t.co/KwYxLLqt0p",
+						"display_url": "pic.twitter.com/KwYxLLqt0p",
+						"expanded_url": "https://twitter.com/llamadva/status/796777869384876033/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 323,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 323,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 323,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 796777865538715600,
+						"id_str": "796777865538715648",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/Cw65P0hUQAAs1Go.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cw65P0hUQAAs1Go.jpg",
+						"url": "https://t.co/KwYxLLqt0p",
+						"display_url": "pic.twitter.com/KwYxLLqt0p",
+						"expanded_url": "https://twitter.com/llamadva/status/796777869384876033/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 500,
+								"h": 333,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 333,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 333,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1510642711,
+				"id_str": "1510642711",
+				"name": "Llamadva",
+				"screen_name": "llamadva",
+				"location": "공화국 남반구",
+				"description": "Frauen Volleyball(F of Hyundai E&C #7)// Overwatch (Zenyatta, LÚCIO, D.va)//Idorumaster Cinderella Projekt Sternenlicht Bühne// Garupan",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3658,
+				"friends_count": 2616,
+				"listed_count": 81,
+				"created_at": "Wed Jun 12 14:05:18 +0000 2013",
+				"favourites_count": 307,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11242,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/787157140242706433/_jmYY7ta_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/787157140242706433/_jmYY7ta_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1510642711/1476898429",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Nov 10 17:53:43 +0000 2016",
 		"id": 796772841936941000,
 		"id_str": "796772841936941056",
