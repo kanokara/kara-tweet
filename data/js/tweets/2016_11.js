@@ -1,6 +1,384 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Thu Nov 10 14:51:02 +0000 2016",
+		"id": 796726869424906200,
+		"id_str": "796726869424906240",
+		"text": "RT @bodhian1: 백인 부유층들이 트럼프에게 승리를 띄웠다(가디언) https://t.co/2ExhFBTNIk\n\n성별과 상관없이 모든 백인들이, 그리고 교육수준과 나이를 막론하고 모두 공화당으로 돌아섰다는 가디언지 기사.\n\n최소한 좌파도 상황…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bodhian1",
+					"name": "Bodhian Kim",
+					"id": 74121512,
+					"id_str": "74121512",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2ExhFBTNIk",
+					"expanded_url": "https://goo.gl/jEYKYx",
+					"display_url": "goo.gl/jEYKYx",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1047,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7368,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 10 08:30:16 +0000 2016",
+			"id": 796631043843485700,
+			"id_str": "796631043843485696",
+			"text": "백인 부유층들이 트럼프에게 승리를 띄웠다(가디언) https://t.co/2ExhFBTNIk\n\n성별과 상관없이 모든 백인들이, 그리고 교육수준과 나이를 막론하고 모두 공화당으로 돌아섰다는 가디언지 기사.\n\n최소한 좌파도 상황파악은 제대로 해야한다오.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2ExhFBTNIk",
+						"expanded_url": "https://goo.gl/jEYKYx",
+						"display_url": "goo.gl/jEYKYx",
+						"indices": [
+							28,
+							51
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 74121512,
+				"id_str": "74121512",
+				"name": "Bodhian Kim",
+				"screen_name": "bodhian1",
+				"location": "London.UK",
+				"description": "Before you can change the world, you must realize that you, yourself, are part of it. You can't stand outside looking in.",
+				"url": "http://t.co/cW3xW5LNUb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/cW3xW5LNUb",
+								"expanded_url": "http://bodhian.tumblr.com",
+								"display_url": "bodhian.tumblr.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4606,
+				"friends_count": 573,
+				"listed_count": 202,
+				"created_at": "Mon Sep 14 09:58:17 +0000 2009",
+				"favourites_count": 814,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13115,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/573723870869385216/NB1g4kBF.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/573723870869385216/NB1g4kBF.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2498998824/gnhgk9n1djzybu0dx8hz_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2498998824/gnhgk9n1djzybu0dx8hz_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/74121512/1461573537",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 102,
+			"favorite_count": 38,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 102,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Nov 10 14:50:34 +0000 2016",
+		"id": 796726751195844600,
+		"id_str": "796726751195844608",
+		"text": "RT @bodhian1: 이런 지지성향의 실제 투표결과 뿐 아니라 여론조사 내내, 일관적으로 보여주는 신호였고 대부분 다 알고 있는 사실이었다. 그런데도 불구하고 힐러리를 찍으면 '나는 쿨한 고학력 중산층이네요' 하는 트루먼쑈의 하고 있었던 것 뿐이…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bodhian1",
+					"name": "Bodhian Kim",
+					"id": 74121512,
+					"id_str": "74121512",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1047,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7368,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 10 04:12:01 +0000 2016",
+			"id": 796566052910075900,
+			"id_str": "796566052910075906",
+			"text": "이런 지지성향의 실제 투표결과 뿐 아니라 여론조사 내내, 일관적으로 보여주는 신호였고 대부분 다 알고 있는 사실이었다. 그런데도 불구하고 힐러리를 찍으면 '나는 쿨한 고학력 중산층이네요' 하는 트루먼쑈의 하고 있었던 것 뿐이다. 그것도 조선인들이..",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 796565216901365800,
+			"in_reply_to_status_id_str": "796565216901365761",
+			"in_reply_to_user_id": 74121512,
+			"in_reply_to_user_id_str": "74121512",
+			"in_reply_to_screen_name": "bodhian1",
+			"user": {
+				"id": 74121512,
+				"id_str": "74121512",
+				"name": "Bodhian Kim",
+				"screen_name": "bodhian1",
+				"location": "London.UK",
+				"description": "Before you can change the world, you must realize that you, yourself, are part of it. You can't stand outside looking in.",
+				"url": "http://t.co/cW3xW5LNUb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/cW3xW5LNUb",
+								"expanded_url": "http://bodhian.tumblr.com",
+								"display_url": "bodhian.tumblr.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4606,
+				"friends_count": 573,
+				"listed_count": 202,
+				"created_at": "Mon Sep 14 09:58:17 +0000 2009",
+				"favourites_count": 814,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13115,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/573723870869385216/NB1g4kBF.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/573723870869385216/NB1g4kBF.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2498998824/gnhgk9n1djzybu0dx8hz_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2498998824/gnhgk9n1djzybu0dx8hz_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/74121512/1461573537",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Nov 10 10:31:27 +0000 2016",
 		"id": 796661542599045100,
 		"id_str": "796661542599045120",
