@@ -1,6 +1,849 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Fri Nov 11 16:42:26 +0000 2016",
+		"id": 797117291519352800,
+		"id_str": "797117291519352832",
+		"text": "10년도 더 전에 보고서 잊고 있었는데, 《던전 디펜스》에 상당부분 영향을 주지 않았을까 싶네요.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 797114527057743900,
+		"in_reply_to_status_id_str": "797114527057743872",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7374,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Nov 11 16:31:27 +0000 2016",
+		"id": 797114527057743900,
+		"id_str": "797114527057743872",
+		"text": "아, 《의룡》",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 797114012806713300,
+		"in_reply_to_status_id_str": "797114012806713345",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7374,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Nov 11 16:29:24 +0000 2016",
+		"id": 797114012806713300,
+		"id_str": "797114012806713345",
+		"text": "제목 아시는 분 계세요? 이미지 검색해도 딱히 안 나오네요.\nhttps://t.co/zZqjaNYdJm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zZqjaNYdJm",
+					"expanded_url": "https://twitter.com/sub_plot/status/778538241100091393",
+					"display_url": "twitter.com/sub_plot/statu…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7374,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 778538241100091400,
+		"quoted_status_id_str": "778538241100091393",
+		"quoted_status": {
+			"created_at": "Wed Sep 21 10:15:55 +0000 2016",
+			"id": 778538241100091400,
+			"id_str": "778538241100091393",
+			"text": "\"남자는 친구들 사이에서도 권력관계와 서열을 따지나요?\" \"딱히 남자에게만 국한된 문제는 아니라고 봅니다만 당연하죠.\" https://t.co/llHBbRfKUu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 778538182769991700,
+						"id_str": "778538182769991681",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/Cs3sWjQVYAEJ7p_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cs3sWjQVYAEJ7p_.jpg",
+						"url": "https://t.co/llHBbRfKUu",
+						"display_url": "pic.twitter.com/llHBbRfKUu",
+						"expanded_url": "https://twitter.com/sub_plot/status/778538241100091393/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 612,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 612,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 612,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 778538182769991700,
+						"id_str": "778538182769991681",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/Cs3sWjQVYAEJ7p_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cs3sWjQVYAEJ7p_.jpg",
+						"url": "https://t.co/llHBbRfKUu",
+						"display_url": "pic.twitter.com/llHBbRfKUu",
+						"expanded_url": "https://twitter.com/sub_plot/status/778538241100091393/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 612,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 612,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 612,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 778538197982687200,
+						"id_str": "778538197982687232",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/Cs3sXb7UsAAKIKU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cs3sXb7UsAAKIKU.jpg",
+						"url": "https://t.co/llHBbRfKUu",
+						"display_url": "pic.twitter.com/llHBbRfKUu",
+						"expanded_url": "https://twitter.com/sub_plot/status/778538241100091393/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 598,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 598,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 598,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 315583544,
+				"id_str": "315583544",
+				"name": "피어스 호th론",
+				"screen_name": "sub_plot",
+				"location": "",
+				"description": "say your father",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10882,
+				"friends_count": 5017,
+				"listed_count": 169,
+				"created_at": "Sun Jun 12 03:34:43 +0000 2011",
+				"favourites_count": 422997,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9038,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/377204898/you_make_me_feel_so_bad_by_electricblanket.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/377204898/you_make_me_feel_so_bad_by_electricblanket.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/543864389233692672/Iv92TTlQ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/543864389233692672/Iv92TTlQ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/315583544/1356864547",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 42,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Nov 11 16:27:10 +0000 2016",
+		"id": 797113449620729900,
+		"id_str": "797113449620729856",
+		"text": "RT @sub_plot: \"남자는 친구들 사이에서도 권력관계와 서열을 따지나요?\" \"딱히 남자에게만 국한된 문제는 아니라고 봅니다만 당연하죠.\" https://t.co/llHBbRfKUu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sub_plot",
+					"name": "피어스 호th론",
+					"id": 315583544,
+					"id_str": "315583544",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 778538182769991700,
+					"id_str": "778538182769991681",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Cs3sWjQVYAEJ7p_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cs3sWjQVYAEJ7p_.jpg",
+					"url": "https://t.co/llHBbRfKUu",
+					"display_url": "pic.twitter.com/llHBbRfKUu",
+					"expanded_url": "https://twitter.com/sub_plot/status/778538241100091393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 612,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 612,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 612,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 778538241100091400,
+					"source_status_id_str": "778538241100091393",
+					"source_user_id": 315583544,
+					"source_user_id_str": "315583544"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 778538182769991700,
+					"id_str": "778538182769991681",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Cs3sWjQVYAEJ7p_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cs3sWjQVYAEJ7p_.jpg",
+					"url": "https://t.co/llHBbRfKUu",
+					"display_url": "pic.twitter.com/llHBbRfKUu",
+					"expanded_url": "https://twitter.com/sub_plot/status/778538241100091393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 612,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 612,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 612,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 778538241100091400,
+					"source_status_id_str": "778538241100091393",
+					"source_user_id": 315583544,
+					"source_user_id_str": "315583544"
+				},
+				{
+					"id": 778538197982687200,
+					"id_str": "778538197982687232",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Cs3sXb7UsAAKIKU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cs3sXb7UsAAKIKU.jpg",
+					"url": "https://t.co/llHBbRfKUu",
+					"display_url": "pic.twitter.com/llHBbRfKUu",
+					"expanded_url": "https://twitter.com/sub_plot/status/778538241100091393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 598,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 598,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 598,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 778538241100091400,
+					"source_status_id_str": "778538241100091393",
+					"source_user_id": 315583544,
+					"source_user_id_str": "315583544"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7374,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Sep 21 10:15:55 +0000 2016",
+			"id": 778538241100091400,
+			"id_str": "778538241100091393",
+			"text": "\"남자는 친구들 사이에서도 권력관계와 서열을 따지나요?\" \"딱히 남자에게만 국한된 문제는 아니라고 봅니다만 당연하죠.\" https://t.co/llHBbRfKUu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 778538182769991700,
+						"id_str": "778538182769991681",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/Cs3sWjQVYAEJ7p_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cs3sWjQVYAEJ7p_.jpg",
+						"url": "https://t.co/llHBbRfKUu",
+						"display_url": "pic.twitter.com/llHBbRfKUu",
+						"expanded_url": "https://twitter.com/sub_plot/status/778538241100091393/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 612,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 612,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 612,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 778538182769991700,
+						"id_str": "778538182769991681",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/Cs3sWjQVYAEJ7p_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cs3sWjQVYAEJ7p_.jpg",
+						"url": "https://t.co/llHBbRfKUu",
+						"display_url": "pic.twitter.com/llHBbRfKUu",
+						"expanded_url": "https://twitter.com/sub_plot/status/778538241100091393/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 612,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 612,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 612,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 778538197982687200,
+						"id_str": "778538197982687232",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/Cs3sXb7UsAAKIKU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cs3sXb7UsAAKIKU.jpg",
+						"url": "https://t.co/llHBbRfKUu",
+						"display_url": "pic.twitter.com/llHBbRfKUu",
+						"expanded_url": "https://twitter.com/sub_plot/status/778538241100091393/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 598,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 598,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 598,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 315583544,
+				"id_str": "315583544",
+				"name": "피어스 호th론",
+				"screen_name": "sub_plot",
+				"location": "",
+				"description": "say your father",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10882,
+				"friends_count": 5017,
+				"listed_count": 169,
+				"created_at": "Sun Jun 12 03:34:43 +0000 2011",
+				"favourites_count": 422997,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9038,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/377204898/you_make_me_feel_so_bad_by_electricblanket.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/377204898/you_make_me_feel_so_bad_by_electricblanket.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/543864389233692672/Iv92TTlQ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/543864389233692672/Iv92TTlQ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/315583544/1356864547",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 42,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Nov 11 16:10:53 +0000 2016",
 		"id": 797109352725262300,
 		"id_str": "797109352725262336",
