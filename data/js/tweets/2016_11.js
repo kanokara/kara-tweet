@@ -1,6 +1,1154 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Fri Nov 11 05:07:33 +0000 2016",
+		"id": 796942419711303700,
+		"id_str": "796942419711303681",
+		"text": "RT @Hatezu: 본인도 진짜 당선될 줄 몰랐던 거 아닐까 https://t.co/sfHQ4yCh9a",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hatezu",
+					"name": "링고보이",
+					"id": 262206262,
+					"id_str": "262206262",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 796937257630302200,
+					"id_str": "796937257630302208",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/Cw9KNqVUAAAHLc0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cw9KNqVUAAAHLc0.jpg",
+					"url": "https://t.co/sfHQ4yCh9a",
+					"display_url": "pic.twitter.com/sfHQ4yCh9a",
+					"expanded_url": "https://twitter.com/Hatezu/status/796937284931063808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 624,
+							"h": 351,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 624,
+							"h": 351,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 624,
+							"h": 351,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 796937284931063800,
+					"source_status_id_str": "796937284931063808",
+					"source_user_id": 262206262,
+					"source_user_id_str": "262206262"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 796937257630302200,
+					"id_str": "796937257630302208",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/Cw9KNqVUAAAHLc0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cw9KNqVUAAAHLc0.jpg",
+					"url": "https://t.co/sfHQ4yCh9a",
+					"display_url": "pic.twitter.com/sfHQ4yCh9a",
+					"expanded_url": "https://twitter.com/Hatezu/status/796937284931063808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 624,
+							"h": 351,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 624,
+							"h": 351,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 624,
+							"h": 351,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 796937284931063800,
+					"source_status_id_str": "796937284931063808",
+					"source_user_id": 262206262,
+					"source_user_id_str": "262206262"
+				},
+				{
+					"id": 796937257626148900,
+					"id_str": "796937257626148864",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/Cw9KNqUUoAA016G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cw9KNqUUoAA016G.jpg",
+					"url": "https://t.co/sfHQ4yCh9a",
+					"display_url": "pic.twitter.com/sfHQ4yCh9a",
+					"expanded_url": "https://twitter.com/Hatezu/status/796937284931063808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 560,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 560,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 796937284931063800,
+					"source_status_id_str": "796937284931063808",
+					"source_user_id": 262206262,
+					"source_user_id_str": "262206262"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7363,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 11 04:47:09 +0000 2016",
+			"id": 796937284931063800,
+			"id_str": "796937284931063808",
+			"text": "본인도 진짜 당선될 줄 몰랐던 거 아닐까 https://t.co/sfHQ4yCh9a",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 796937257630302200,
+						"id_str": "796937257630302208",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/Cw9KNqVUAAAHLc0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cw9KNqVUAAAHLc0.jpg",
+						"url": "https://t.co/sfHQ4yCh9a",
+						"display_url": "pic.twitter.com/sfHQ4yCh9a",
+						"expanded_url": "https://twitter.com/Hatezu/status/796937284931063808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 624,
+								"h": 351,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 624,
+								"h": 351,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 624,
+								"h": 351,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 796937257630302200,
+						"id_str": "796937257630302208",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/Cw9KNqVUAAAHLc0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cw9KNqVUAAAHLc0.jpg",
+						"url": "https://t.co/sfHQ4yCh9a",
+						"display_url": "pic.twitter.com/sfHQ4yCh9a",
+						"expanded_url": "https://twitter.com/Hatezu/status/796937284931063808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 624,
+								"h": 351,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 624,
+								"h": 351,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 624,
+								"h": 351,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 796937257626148900,
+						"id_str": "796937257626148864",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/Cw9KNqUUoAA016G.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cw9KNqUUoAA016G.jpg",
+						"url": "https://t.co/sfHQ4yCh9a",
+						"display_url": "pic.twitter.com/sfHQ4yCh9a",
+						"expanded_url": "https://twitter.com/Hatezu/status/796937284931063808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 560,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 560,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 262206262,
+				"id_str": "262206262",
+				"name": "링고보이",
+				"screen_name": "Hatezu",
+				"location": "here, there and everywhere",
+				"description": "내내 많이 버소서",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2005,
+				"friends_count": 98,
+				"listed_count": 40,
+				"created_at": "Mon Mar 07 15:51:40 +0000 2011",
+				"favourites_count": 5142,
+				"utc_offset": 28800,
+				"time_zone": "Beijing",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 66131,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "214252",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/727955044331487232/eSYgapGg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/727955044331487232/eSYgapGg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/262206262/1421034237",
+				"profile_link_color": "3D1866",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 171,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 171,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Nov 11 04:39:39 +0000 2016",
+		"id": 796935396638634000,
+		"id_str": "796935396638633988",
+		"text": "RT @KarisNote: 그러고보니 00년대 중후반부엔 카논의 붕어빵, 샤나의 메론빵, 럭키스타의 초코소라빵 같이 먹는걸로 포인트를 주는 케이스가 제법 있었던거 같은데 요즘은 아예 안 보이네. 의외로 클로저스에서 케릭터마다 먹을걸로 포인트를 준게…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KarisNote",
+					"name": "시마다류 전차도 수련생 Karis",
+					"id": 633966669,
+					"id_str": "633966669",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7363,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 25 05:48:49 +0000 2016",
+			"id": 691497931950534700,
+			"id_str": "691497931950534656",
+			"text": "그러고보니 00년대 중후반부엔 카논의 붕어빵, 샤나의 메론빵, 럭키스타의 초코소라빵 같이 먹는걸로 포인트를 주는 케이스가 제법 있었던거 같은데 요즘은 아예 안 보이네. 의외로 클로저스에서 케릭터마다 먹을걸로 포인트를 준게 특이한 느낌이 될 정도...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 633966669,
+				"id_str": "633966669",
+				"name": "시마다류 전차도 수련생 Karis",
+				"screen_name": "KarisNote",
+				"location": "",
+				"description": "Type-Moon l KIA Tigers l OVERWARCH l Anime l G & P l ClosersㅣLove Live!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 185,
+				"friends_count": 349,
+				"listed_count": 5,
+				"created_at": "Thu Jul 12 17:07:50 +0000 2012",
+				"favourites_count": 1608,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 44905,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/763069508374306817/TSGvpyEk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/763069508374306817/TSGvpyEk_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Nov 11 04:34:19 +0000 2016",
+		"id": 796934055635755000,
+		"id_str": "796934055635755008",
+		"text": "RT @hypar2k1: 미국에서 갑자기 붕어빵 붐이 일고있어서 대체 그 이유가 뭔지 원인을 하나하나씩 밟아나가다보니 \"카논\" 애니메이션판이 모든것의 원흉이라는 사실이 밝혀져서 전일본이 경악중 https://t.co/ozmgNqh2kW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hypar2k1",
+					"name": "Hyemioppa（야키니쿠의 요정)",
+					"id": 34244214,
+					"id_str": "34244214",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 796899701505212400,
+					"id_str": "796899701505212416",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Cw8oDm3VQAAH_HO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cw8oDm3VQAAH_HO.jpg",
+					"url": "https://t.co/ozmgNqh2kW",
+					"display_url": "pic.twitter.com/ozmgNqh2kW",
+					"expanded_url": "https://twitter.com/hypar2k1/status/796899710300585984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 261,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 153,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 86,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 796899710300586000,
+					"source_status_id_str": "796899710300585984",
+					"source_user_id": 34244214,
+					"source_user_id_str": "34244214"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 796899701505212400,
+					"id_str": "796899701505212416",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Cw8oDm3VQAAH_HO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cw8oDm3VQAAH_HO.jpg",
+					"url": "https://t.co/ozmgNqh2kW",
+					"display_url": "pic.twitter.com/ozmgNqh2kW",
+					"expanded_url": "https://twitter.com/hypar2k1/status/796899710300585984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 261,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 153,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 86,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 796899710300586000,
+					"source_status_id_str": "796899710300585984",
+					"source_user_id": 34244214,
+					"source_user_id_str": "34244214"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7363,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 11 02:17:51 +0000 2016",
+			"id": 796899710300586000,
+			"id_str": "796899710300585984",
+			"text": "미국에서 갑자기 붕어빵 붐이 일고있어서 대체 그 이유가 뭔지 원인을 하나하나씩 밟아나가다보니 \"카논\" 애니메이션판이 모든것의 원흉이라는 사실이 밝혀져서 전일본이 경악중 https://t.co/ozmgNqh2kW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 796899701505212400,
+						"id_str": "796899701505212416",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/Cw8oDm3VQAAH_HO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cw8oDm3VQAAH_HO.jpg",
+						"url": "https://t.co/ozmgNqh2kW",
+						"display_url": "pic.twitter.com/ozmgNqh2kW",
+						"expanded_url": "https://twitter.com/hypar2k1/status/796899710300585984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 261,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 153,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 86,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 796899701505212400,
+						"id_str": "796899701505212416",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/Cw8oDm3VQAAH_HO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cw8oDm3VQAAH_HO.jpg",
+						"url": "https://t.co/ozmgNqh2kW",
+						"display_url": "pic.twitter.com/ozmgNqh2kW",
+						"expanded_url": "https://twitter.com/hypar2k1/status/796899710300585984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 261,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 153,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 86,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34244214,
+				"id_str": "34244214",
+				"name": "Hyemioppa（야키니쿠의 요정)",
+				"screen_name": "hypar2k1",
+				"location": "Saitama, Japan",
+				"description": "저를 찾아오시면 야키니쿠를 사드립니다. 프리랜스 게임디자이너/디렉터. 여러 회사를 떠돌면서 용병으로 활약중. フリーのゲームデザイナーやディレクターやってます。ご用件ある方は　hypar@hotmail.comまで",
+				"url": "https://t.co/ZZTcxLyKmo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZZTcxLyKmo",
+								"expanded_url": "https://www.linkedin.com/pub/chisu-lee/36/460/434",
+								"display_url": "linkedin.com/pub/chisu-lee/…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1345,
+				"friends_count": 477,
+				"listed_count": 38,
+				"created_at": "Wed Apr 22 11:21:35 +0000 2009",
+				"favourites_count": 1252,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 63327,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/506744440292003840/9UdNTN4a.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/506744440292003840/9UdNTN4a.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/789705717041078273/0sdKOSS8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/789705717041078273/0sdKOSS8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34244214/1475551446",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "f7c22e0cf7b3af2b",
+				"url": "https://api.twitter.com/1.1/geo/id/f7c22e0cf7b3af2b.json",
+				"place_type": "city",
+				"name": "渋谷区",
+				"full_name": "東京 渋谷区",
+				"country_code": "JP",
+				"country": "일본",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								139.661368,
+								35.641564
+							],
+							[
+								139.723884,
+								35.641564
+							],
+							[
+								139.723884,
+								35.692138
+							],
+							[
+								139.661368,
+								35.692138
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 362,
+			"favorite_count": 32,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 362,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Nov 11 04:29:11 +0000 2016",
+		"id": 796932761671987200,
+		"id_str": "796932761671987202",
+		"text": "RT @arvidonline: https://t.co/euKrTHSJt8 반대파 진지 조용히 무너뜨린 오바마의 전략\n\n지금 상대를 그냥 '개새끼' 로 생각하는 사람들에게 좀 보여주고 싶다. 맨날 오바마 연설 쩔어요.같은거 말고 이런거도 좀 봤으면 좋…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "arvidonline",
+					"name": "Steam Dragon",
+					"id": 178328503,
+					"id_str": "178328503",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/euKrTHSJt8",
+					"expanded_url": "http://www.sisain.kr/23813",
+					"display_url": "sisain.kr/23813",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7363,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 10 11:05:38 +0000 2016",
+			"id": 796670144835686400,
+			"id_str": "796670144835686400",
+			"text": "https://t.co/euKrTHSJt8 반대파 진지 조용히 무너뜨린 오바마의 전략\n\n지금 상대를 그냥 '개새끼' 로 생각하는 사람들에게 좀 보여주고 싶다. 맨날 오바마 연설 쩔어요.같은거 말고 이런거도 좀 봤으면 좋겠음.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/euKrTHSJt8",
+						"expanded_url": "http://www.sisain.kr/23813",
+						"display_url": "sisain.kr/23813",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 178328503,
+				"id_str": "178328503",
+				"name": "Steam Dragon",
+				"screen_name": "arvidonline",
+				"location": "Earth",
+				"description": "모에가 하트를 꿰뚫으면 가슴 크기는 거유든 빈유든 상관 없다. \\n실직예정 \\n일단 게임 프로그래머\\n동방,걸판",
+				"url": "https://t.co/VenIx2cEfj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VenIx2cEfj",
+								"expanded_url": "http://lab.nolgoit.net/",
+								"display_url": "lab.nolgoit.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 241,
+				"friends_count": 237,
+				"listed_count": 15,
+				"created_at": "Sat Aug 14 13:30:14 +0000 2010",
+				"favourites_count": 18289,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 64226,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/764272282592096256/7ALSVqt8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/764272282592096256/7ALSVqt8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/178328503/1432269886",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 262,
+			"favorite_count": 176,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 262,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Nov 10 19:26:31 +0000 2016",
 		"id": 796796196761137200,
 		"id_str": "796796196761137152",
