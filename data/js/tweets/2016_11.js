@@ -1,6 +1,414 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Fri Nov 11 10:20:50 +0000 2016",
+		"id": 797021258214875100,
+		"id_str": "797021258214875200",
+		"text": "RT @himelcone07: 이시각 최후의 5% https://t.co/LoIER2xk2G",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "himelcone07",
+					"name": "히멜P",
+					"id": 2688498558,
+					"id_str": "2688498558",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 796986663809400800,
+					"id_str": "796986663809400832",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/Cw93JesVQAA3vzJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cw93JesVQAA3vzJ.jpg",
+					"url": "https://t.co/LoIER2xk2G",
+					"display_url": "pic.twitter.com/LoIER2xk2G",
+					"expanded_url": "https://twitter.com/himelcone07/status/796986686706044928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 586,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1035,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1439,
+							"h": 1669,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 796986686706044900,
+					"source_status_id_str": "796986686706044928",
+					"source_user_id": 2688498558,
+					"source_user_id_str": "2688498558"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 796986663809400800,
+					"id_str": "796986663809400832",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/Cw93JesVQAA3vzJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cw93JesVQAA3vzJ.jpg",
+					"url": "https://t.co/LoIER2xk2G",
+					"display_url": "pic.twitter.com/LoIER2xk2G",
+					"expanded_url": "https://twitter.com/himelcone07/status/796986686706044928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 586,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1035,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1439,
+							"h": 1669,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 796986686706044900,
+					"source_status_id_str": "796986686706044928",
+					"source_user_id": 2688498558,
+					"source_user_id_str": "2688498558"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7365,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 11 08:03:28 +0000 2016",
+			"id": 796986686706044900,
+			"id_str": "796986686706044928",
+			"text": "이시각 최후의 5% https://t.co/LoIER2xk2G",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 796986663809400800,
+						"id_str": "796986663809400832",
+						"indices": [
+							11,
+							34
+						],
+						"media_url": "http://pbs.twimg.com/media/Cw93JesVQAA3vzJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cw93JesVQAA3vzJ.jpg",
+						"url": "https://t.co/LoIER2xk2G",
+						"display_url": "pic.twitter.com/LoIER2xk2G",
+						"expanded_url": "https://twitter.com/himelcone07/status/796986686706044928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 586,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1035,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1439,
+								"h": 1669,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 796986663809400800,
+						"id_str": "796986663809400832",
+						"indices": [
+							11,
+							34
+						],
+						"media_url": "http://pbs.twimg.com/media/Cw93JesVQAA3vzJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cw93JesVQAA3vzJ.jpg",
+						"url": "https://t.co/LoIER2xk2G",
+						"display_url": "pic.twitter.com/LoIER2xk2G",
+						"expanded_url": "https://twitter.com/himelcone07/status/796986686706044928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 586,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1035,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1439,
+								"h": 1669,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2688498558,
+				"id_str": "2688498558",
+				"name": "히멜P",
+				"screen_name": "himelcone07",
+				"location": "안산시",
+				"description": "아이돌마스터의 키쿠치 마코토를 사랑합니다./밀리마스 나오P/사이마스 S.E.M/레트로게임 시사 역사 지리 어학 서브컬쳐전반 이것저것 // 단발 스포츠계 보이시는 진리입니다.\nEng/日本語/汉语/漢語OK",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 588,
+				"friends_count": 412,
+				"listed_count": 16,
+				"created_at": "Mon Jul 28 22:39:51 +0000 2014",
+				"favourites_count": 7838,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 78090,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "19508A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/790929120632840192/h1SNs1hR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/790929120632840192/h1SNs1hR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2688498558/1468001214",
+				"profile_link_color": "160829",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 510,
+			"favorite_count": 40,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 510,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Nov 11 10:20:25 +0000 2016",
+		"id": 797021153676038100,
+		"id_str": "797021153676038144",
+		"text": "지금 지지율에서 새누리당 쪼개지면 국민의 당하고 정의당 사이즈 정당이 각각 생기는 거네요. 박근혜 골수 지지자 5%가 정치 지형상에선 역으로 도움이 될 수도 있을 듯.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7365,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Nov 11 05:07:33 +0000 2016",
 		"id": 796942419711303700,
 		"id_str": "796942419711303681",
