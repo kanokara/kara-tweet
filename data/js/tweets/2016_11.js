@@ -1,6 +1,693 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sat Nov 12 04:09:51 +0000 2016",
+		"id": 797290286556684300,
+		"id_str": "797290286556684288",
+		"text": "이 시각 아즈마. https://t.co/kRDviWs2mB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kRDviWs2mB",
+					"expanded_url": "https://twitter.com/hazuma/status/797276758936428544",
+					"display_url": "twitter.com/hazuma/status/…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1035,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7385,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 797276758936428500,
+		"quoted_status_id_str": "797276758936428544",
+		"quoted_status": {
+			"created_at": "Sat Nov 12 03:16:06 +0000 2016",
+			"id": 797276758936428500,
+			"id_str": "797276758936428544",
+			"text": "というかこれは女性の団体のようだ。ただし演説者は男性。屋台も出ている。すごい熱気。大音量で歌も流れてる。 https://t.co/zqBB33eeZh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 797276707459694600,
+						"id_str": "797276707459694592",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/CxB-8PfUAAACoNs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxB-8PfUAAACoNs.jpg",
+						"url": "https://t.co/zqBB33eeZh",
+						"display_url": "pic.twitter.com/zqBB33eeZh",
+						"expanded_url": "https://twitter.com/hazuma/status/797276758936428544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 797276707459694600,
+						"id_str": "797276707459694592",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/CxB-8PfUAAACoNs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxB-8PfUAAACoNs.jpg",
+						"url": "https://t.co/zqBB33eeZh",
+						"display_url": "pic.twitter.com/zqBB33eeZh",
+						"expanded_url": "https://twitter.com/hazuma/status/797276758936428544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 797276707459711000,
+						"id_str": "797276707459710976",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/CxB-8PfUQAAhZGy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxB-8PfUQAAhZGy.jpg",
+						"url": "https://t.co/zqBB33eeZh",
+						"display_url": "pic.twitter.com/zqBB33eeZh",
+						"expanded_url": "https://twitter.com/hazuma/status/797276758936428544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 797276707459776500,
+						"id_str": "797276707459776517",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/CxB-8PfVQAU6-Fv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxB-8PfVQAU6-Fv.jpg",
+						"url": "https://t.co/zqBB33eeZh",
+						"display_url": "pic.twitter.com/zqBB33eeZh",
+						"expanded_url": "https://twitter.com/hazuma/status/797276758936428544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9449612,
+				"id_str": "9449612",
+				"name": "東浩紀",
+				"screen_name": "hazuma",
+				"location": "東京、五反田",
+				"description": "ちょっとやる気でてきたでござる。メールは会社にください。英語アカウント @hazuma_en",
+				"url": "https://t.co/pAEd9EkIK7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pAEd9EkIK7",
+								"expanded_url": "http://genron-tomonokai.com/",
+								"display_url": "genron-tomonokai.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 171960,
+				"friends_count": 191,
+				"listed_count": 11284,
+				"created_at": "Mon Oct 15 06:00:32 +0000 2007",
+				"favourites_count": 379,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 98011,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/217398863/_robotkun3.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/217398863/_robotkun3.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3381711564/5843b8e273ea640628a8fecac2a5b349_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3381711564/5843b8e273ea640628a8fecac2a5b349_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9449612/1447330836",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Nov 12 03:16:17 +0000 2016",
+		"id": 797276803366723600,
+		"id_str": "797276803366723584",
+		"text": "RT @shinkai35: じっさいゼロ年代批評華やかなりしころは「まったく新奇な話してもダメ。人々がうすうす思っていたことをうまく表現した批評が勝つ」みたいなことが堂々と言われていた。それ、「新しい考えを知るために本を読む」という視点が全くない考えなんだが……",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shinkai35",
+					"name": "しんかい３８（山川賢一）",
+					"id": 135142222,
+					"id_str": "135142222",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1035,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7385,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 12 03:15:12 +0000 2016",
+			"id": 797276533396095000,
+			"id_str": "797276533396094977",
+			"text": "じっさいゼロ年代批評華やかなりしころは「まったく新奇な話してもダメ。人々がうすうす思っていたことをうまく表現した批評が勝つ」みたいなことが堂々と言われていた。それ、「新しい考えを知るために本を読む」という視点が全くない考えなんだが……",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 797274690553253900,
+			"in_reply_to_status_id_str": "797274690553253888",
+			"in_reply_to_user_id": 135142222,
+			"in_reply_to_user_id_str": "135142222",
+			"in_reply_to_screen_name": "shinkai35",
+			"user": {
+				"id": 135142222,
+				"id_str": "135142222",
+				"name": "しんかい３８（山川賢一）",
+				"screen_name": "shinkai35",
+				"location": "アトカタモナイノ国",
+				"description": "三葉虫はカブトガニとダンゴムシを足して二で割ったような海生の節足動物",
+				"url": "http://t.co/3dOWXFDzVp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/3dOWXFDzVp",
+								"expanded_url": "http://yamakawa1977.blogspot.jp/",
+								"display_url": "yamakawa1977.blogspot.jp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4278,
+				"friends_count": 1378,
+				"listed_count": 351,
+				"created_at": "Tue Apr 20 13:08:34 +0000 2010",
+				"favourites_count": 8776,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 63219,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/854498626/c55fd7d22ef2a822604c31bdb81b92b4.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/854498626/c55fd7d22ef2a822604c31bdb81b92b4.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/541458010275471360/AJaO0KaT_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/541458010275471360/AJaO0KaT_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/135142222/1367140930",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Sat Nov 12 03:16:01 +0000 2016",
+		"id": 797276735288930300,
+		"id_str": "797276735288930304",
+		"text": "RT @shinkai35: ある種の批評が\n\nオタクはあほ→動物化\n若者は世間知らず→セカイ系\n\nのように、世間の先入観（正誤は問わず）をそれっぽい用語で言いかえて拡散させるゲームでしかないことを嘆かわしく思っていたが、結局それが一番有利なミーム戦略なのでネットでも同じことが…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shinkai35",
+					"name": "しんかい３８（山川賢一）",
+					"id": 135142222,
+					"id_str": "135142222",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1035,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7385,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 12 03:07:53 +0000 2016",
+			"id": 797274690553253900,
+			"id_str": "797274690553253888",
+			"text": "ある種の批評が\n\nオタクはあほ→動物化\n若者は世間知らず→セカイ系\n\nのように、世間の先入観（正誤は問わず）をそれっぽい用語で言いかえて拡散させるゲームでしかないことを嘆かわしく思っていたが、結局それが一番有利なミーム戦略なのでネットでも同じことが繰り返されるのか。",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 135142222,
+				"id_str": "135142222",
+				"name": "しんかい３８（山川賢一）",
+				"screen_name": "shinkai35",
+				"location": "アトカタモナイノ国",
+				"description": "三葉虫はカブトガニとダンゴムシを足して二で割ったような海生の節足動物",
+				"url": "http://t.co/3dOWXFDzVp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/3dOWXFDzVp",
+								"expanded_url": "http://yamakawa1977.blogspot.jp/",
+								"display_url": "yamakawa1977.blogspot.jp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4278,
+				"friends_count": 1378,
+				"listed_count": 351,
+				"created_at": "Tue Apr 20 13:08:34 +0000 2010",
+				"favourites_count": 8776,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 63219,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/854498626/c55fd7d22ef2a822604c31bdb81b92b4.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/854498626/c55fd7d22ef2a822604c31bdb81b92b4.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/541458010275471360/AJaO0KaT_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/541458010275471360/AJaO0KaT_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/135142222/1367140930",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Sat Nov 12 03:08:21 +0000 2016",
 		"id": 797274809801396200,
 		"id_str": "797274809801396224",
