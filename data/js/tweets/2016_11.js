@@ -1,6 +1,987 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sat Nov 12 09:18:24 +0000 2016",
+		"id": 797367932254752800,
+		"id_str": "797367932254752768",
+		"text": "RT @macmorning01: \"번역자가 이국어에 대한 문화와 정체성을 이해하고 출발어와 도착어의 차이를 인지하는 상태에서 자신이 올바르다고 믿는 단어를 선택하는 한 번역자는 사라지지 않을 수 있다.\" 마음산책 출간. https://t.co/Aht…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "macmorning01",
+					"name": "루리루리",
+					"id": 335767073,
+					"id_str": "335767073",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1035,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7415,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 12 01:23:34 +0000 2016",
+			"id": 797248440174379000,
+			"id_str": "797248440174379008",
+			"text": "\"번역자가 이국어에 대한 문화와 정체성을 이해하고 출발어와 도착어의 차이를 인지하는 상태에서 자신이 올바르다고 믿는 단어를 선택하는 한 번역자는 사라지지 않을 수 있다.\" 마음산책 출간. https://t.co/AhtDRnSKIS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 797248427209814000,
+						"id_str": "797248427209814016",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/CxBlOHWUcAAHVj0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxBlOHWUcAAHVj0.jpg",
+						"url": "https://t.co/AhtDRnSKIS",
+						"display_url": "pic.twitter.com/AhtDRnSKIS",
+						"expanded_url": "https://twitter.com/macmorning01/status/797248440174379008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 797248427209814000,
+						"id_str": "797248427209814016",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/CxBlOHWUcAAHVj0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxBlOHWUcAAHVj0.jpg",
+						"url": "https://t.co/AhtDRnSKIS",
+						"display_url": "pic.twitter.com/AhtDRnSKIS",
+						"expanded_url": "https://twitter.com/macmorning01/status/797248440174379008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 797248113362620400,
+			"in_reply_to_status_id_str": "797248113362620416",
+			"in_reply_to_user_id": 335767073,
+			"in_reply_to_user_id_str": "335767073",
+			"in_reply_to_screen_name": "macmorning01",
+			"user": {
+				"id": 335767073,
+				"id_str": "335767073",
+				"name": "루리루리",
+				"screen_name": "macmorning01",
+				"location": "",
+				"description": "노재머",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7489,
+				"friends_count": 225,
+				"listed_count": 131,
+				"created_at": "Fri Jul 15 06:09:10 +0000 2011",
+				"favourites_count": 2766,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39660,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/783689367940243456/neW1_1SP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/783689367940243456/neW1_1SP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/335767073/1469580120",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 84,
+			"favorite_count": 39,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Nov 12 09:18:14 +0000 2016",
+		"id": 797367891314163700,
+		"id_str": "797367891314163712",
+		"text": "RT @macmorning01: 오늘 신문에 소개된 김남주 씨의 &lt;사라지는 번역가들&gt;. \"번역자가 받을 수 있는 최상의 찬사가 번역이 번역 같지 않다는 것인가...작품을 재구성하는 데 적극적이었다 해도 (번역자는) 결국 '투명한 필터'가 되어 사라져…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "macmorning01",
+					"name": "루리루리",
+					"id": 335767073,
+					"id_str": "335767073",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1035,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7415,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 12 01:22:17 +0000 2016",
+			"id": 797248113362620400,
+			"id_str": "797248113362620416",
+			"text": "오늘 신문에 소개된 김남주 씨의 &lt;사라지는 번역가들&gt;. \"번역자가 받을 수 있는 최상의 찬사가 번역이 번역 같지 않다는 것인가...작품을 재구성하는 데 적극적이었다 해도 (번역자는) 결국 '투명한 필터'가 되어 사라져야 하는가\"",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 335767073,
+				"id_str": "335767073",
+				"name": "루리루리",
+				"screen_name": "macmorning01",
+				"location": "",
+				"description": "노재머",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7489,
+				"friends_count": 225,
+				"listed_count": 131,
+				"created_at": "Fri Jul 15 06:09:10 +0000 2011",
+				"favourites_count": 2766,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39660,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/783689367940243456/neW1_1SP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/783689367940243456/neW1_1SP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/335767073/1469580120",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 58,
+			"favorite_count": 31,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Nov 12 09:16:39 +0000 2016",
+		"id": 797367491999580200,
+		"id_str": "797367491999580160",
+		"text": "RT @hazuma: いまから小一時間前のソウル。講演会場の美術館の周り（北村）は、デモ阻止のため道を封鎖する警官とそのせいで彷徨う韓服を着た観光客が入り乱れて、じつに非現実的というか、ポストモダン的な光景が展開していた。 https://t.co/PbEhgxyxXx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hazuma",
+					"name": "東浩紀",
+					"id": 9449612,
+					"id_str": "9449612",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 797359860287295500,
+					"id_str": "797359860287295488",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/CxDKkX6UUAAg7DS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxDKkX6UUAAg7DS.jpg",
+					"url": "https://t.co/PbEhgxyxXx",
+					"display_url": "pic.twitter.com/PbEhgxyxXx",
+					"expanded_url": "https://twitter.com/hazuma/status/797359891459416064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 797359891459416000,
+					"source_status_id_str": "797359891459416064",
+					"source_user_id": 9449612,
+					"source_user_id_str": "9449612"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 797359860287295500,
+					"id_str": "797359860287295488",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/CxDKkX6UUAAg7DS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxDKkX6UUAAg7DS.jpg",
+					"url": "https://t.co/PbEhgxyxXx",
+					"display_url": "pic.twitter.com/PbEhgxyxXx",
+					"expanded_url": "https://twitter.com/hazuma/status/797359891459416064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 797359891459416000,
+					"source_status_id_str": "797359891459416064",
+					"source_user_id": 9449612,
+					"source_user_id_str": "9449612"
+				},
+				{
+					"id": 797359860291510300,
+					"id_str": "797359860291510273",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/CxDKkX7UoAEhYGt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxDKkX7UoAEhYGt.jpg",
+					"url": "https://t.co/PbEhgxyxXx",
+					"display_url": "pic.twitter.com/PbEhgxyxXx",
+					"expanded_url": "https://twitter.com/hazuma/status/797359891459416064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 797359891459416000,
+					"source_status_id_str": "797359891459416064",
+					"source_user_id": 9449612,
+					"source_user_id_str": "9449612"
+				},
+				{
+					"id": 797359860287275000,
+					"id_str": "797359860287275009",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/CxDKkX6UAAEy9bw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxDKkX6UAAEy9bw.jpg",
+					"url": "https://t.co/PbEhgxyxXx",
+					"display_url": "pic.twitter.com/PbEhgxyxXx",
+					"expanded_url": "https://twitter.com/hazuma/status/797359891459416064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 797359891459416000,
+					"source_status_id_str": "797359891459416064",
+					"source_user_id": 9449612,
+					"source_user_id_str": "9449612"
+				},
+				{
+					"id": 797359860287348700,
+					"id_str": "797359860287348740",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/CxDKkX6VIAQocAl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxDKkX6VIAQocAl.jpg",
+					"url": "https://t.co/PbEhgxyxXx",
+					"display_url": "pic.twitter.com/PbEhgxyxXx",
+					"expanded_url": "https://twitter.com/hazuma/status/797359891459416064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 797359891459416000,
+					"source_status_id_str": "797359891459416064",
+					"source_user_id": 9449612,
+					"source_user_id_str": "9449612"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1035,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7415,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785478724632182787/GfOxU5Sf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1476107939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 12 08:46:27 +0000 2016",
+			"id": 797359891459416000,
+			"id_str": "797359891459416064",
+			"text": "いまから小一時間前のソウル。講演会場の美術館の周り（北村）は、デモ阻止のため道を封鎖する警官とそのせいで彷徨う韓服を着た観光客が入り乱れて、じつに非現実的というか、ポストモダン的な光景が展開していた。 https://t.co/PbEhgxyxXx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 797359860287295500,
+						"id_str": "797359860287295488",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/CxDKkX6UUAAg7DS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxDKkX6UUAAg7DS.jpg",
+						"url": "https://t.co/PbEhgxyxXx",
+						"display_url": "pic.twitter.com/PbEhgxyxXx",
+						"expanded_url": "https://twitter.com/hazuma/status/797359891459416064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 797359860287295500,
+						"id_str": "797359860287295488",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/CxDKkX6UUAAg7DS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxDKkX6UUAAg7DS.jpg",
+						"url": "https://t.co/PbEhgxyxXx",
+						"display_url": "pic.twitter.com/PbEhgxyxXx",
+						"expanded_url": "https://twitter.com/hazuma/status/797359891459416064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 797359860291510300,
+						"id_str": "797359860291510273",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/CxDKkX7UoAEhYGt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxDKkX7UoAEhYGt.jpg",
+						"url": "https://t.co/PbEhgxyxXx",
+						"display_url": "pic.twitter.com/PbEhgxyxXx",
+						"expanded_url": "https://twitter.com/hazuma/status/797359891459416064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 797359860287275000,
+						"id_str": "797359860287275009",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/CxDKkX6UAAEy9bw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxDKkX6UAAEy9bw.jpg",
+						"url": "https://t.co/PbEhgxyxXx",
+						"display_url": "pic.twitter.com/PbEhgxyxXx",
+						"expanded_url": "https://twitter.com/hazuma/status/797359891459416064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 797359860287348700,
+						"id_str": "797359860287348740",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/CxDKkX6VIAQocAl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxDKkX6VIAQocAl.jpg",
+						"url": "https://t.co/PbEhgxyxXx",
+						"display_url": "pic.twitter.com/PbEhgxyxXx",
+						"expanded_url": "https://twitter.com/hazuma/status/797359891459416064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9449612,
+				"id_str": "9449612",
+				"name": "東浩紀",
+				"screen_name": "hazuma",
+				"location": "東京、五反田",
+				"description": "ちょっとやる気でてきたでござる。メールは会社にください。英語アカウント @hazuma_en",
+				"url": "https://t.co/pAEd9EkIK7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pAEd9EkIK7",
+								"expanded_url": "http://genron-tomonokai.com/",
+								"display_url": "genron-tomonokai.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 171977,
+				"friends_count": 191,
+				"listed_count": 11284,
+				"created_at": "Mon Oct 15 06:00:32 +0000 2007",
+				"favourites_count": 379,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 98019,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/217398863/_robotkun3.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/217398863/_robotkun3.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3381711564/5843b8e273ea640628a8fecac2a5b349_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3381711564/5843b8e273ea640628a8fecac2a5b349_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9449612/1447330836",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 52,
+			"favorite_count": 36,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Sat Nov 12 09:13:06 +0000 2016",
 		"id": 797366599732719600,
 		"id_str": "797366599732719617",
