@@ -1,6 +1,2785 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Mon Nov 14 11:09:19 +0000 2016",
+		"id": 798120622383472600,
+		"id_str": "798120622383472641",
+		"text": "RT @o0068900o: 대체 청와대의 기분이 예민한거랑 영장도 없이 가택수색하는거랑 무슨 상관이야 청와대 기분이 나쁘면 그래도 된다는 거야??",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "o0068900o",
+					"name": "하지만",
+					"id": 3825108613,
+					"id_str": "3825108613",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1037,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7491,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/797887905528102912/K6mVuYIC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/797887905528102912/K6mVuYIC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479066306",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 14 08:35:02 +0000 2016",
+			"id": 798081796302716900,
+			"id_str": "798081796302716928",
+			"text": "대체 청와대의 기분이 예민한거랑 영장도 없이 가택수색하는거랑 무슨 상관이야 청와대 기분이 나쁘면 그래도 된다는 거야??",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3825108613,
+				"id_str": "3825108613",
+				"name": "하지만",
+				"screen_name": "o0068900o",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 227,
+				"friends_count": 654,
+				"listed_count": 3,
+				"created_at": "Thu Oct 08 12:03:51 +0000 2015",
+				"favourites_count": 4382,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1250,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EEEEEE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/657168149322711040/SPW68HNw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/657168149322711040/SPW68HNw_normal.jpg",
+				"profile_link_color": "FF7545",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4720,
+			"favorite_count": 239,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4720,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Nov 14 11:09:17 +0000 2016",
+		"id": 798120616196902900,
+		"id_str": "798120616196902912",
+		"text": "RT @sumichip0426: 신고나 경찰 전화까지는 해프닝이겠지만 영장 없이 가택 수색이라니 이건 말도 안 되는 공권력 남용이고 반드시 공론화시켜야 하는 문제다",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sumichip0426",
+					"name": "구름",
+					"id": 724913606870077400,
+					"id_str": "724913606870077440",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1037,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7491,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/797887905528102912/K6mVuYIC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/797887905528102912/K6mVuYIC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479066306",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 14 08:52:32 +0000 2016",
+			"id": 798086201588596700,
+			"id_str": "798086201588596736",
+			"text": "신고나 경찰 전화까지는 해프닝이겠지만 영장 없이 가택 수색이라니 이건 말도 안 되는 공권력 남용이고 반드시 공론화시켜야 하는 문제다",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 724913606870077400,
+				"id_str": "724913606870077440",
+				"name": "구름",
+				"screen_name": "sumichip0426",
+				"location": "",
+				"description": "스토니 파는 구름입니다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 263,
+				"friends_count": 100,
+				"listed_count": 7,
+				"created_at": "Tue Apr 26 10:50:46 +0000 2016",
+				"favourites_count": 1581,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4864,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/792671670444011521/CuBm3DB0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/792671670444011521/CuBm3DB0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/724913606870077440/1462792815",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1723,
+			"favorite_count": 90,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1723,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Nov 14 10:59:40 +0000 2016",
+		"id": 798118194254745600,
+		"id_str": "798118194254745600",
+		"text": "RT @fuyu_bari: 달마과장 농담이 아니라 리얼이었어 https://t.co/wlTvePGyM0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fuyu_bari",
+					"name": "김겨울",
+					"id": 4662024872,
+					"id_str": "4662024872",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 798082717988421600,
+					"id_str": "798082717988421632",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/CxNcAOsUAAAineV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxNcAOsUAAAineV.jpg",
+					"url": "https://t.co/wlTvePGyM0",
+					"display_url": "pic.twitter.com/wlTvePGyM0",
+					"expanded_url": "https://twitter.com/fuyu_bari/status/798082734803427328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 493,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 639,
+							"h": 882,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 639,
+							"h": 882,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 798082734803427300,
+					"source_status_id_str": "798082734803427328",
+					"source_user_id": 4662024872,
+					"source_user_id_str": "4662024872"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 798082717988421600,
+					"id_str": "798082717988421632",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/CxNcAOsUAAAineV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxNcAOsUAAAineV.jpg",
+					"url": "https://t.co/wlTvePGyM0",
+					"display_url": "pic.twitter.com/wlTvePGyM0",
+					"expanded_url": "https://twitter.com/fuyu_bari/status/798082734803427328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 493,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 639,
+							"h": 882,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 639,
+							"h": 882,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 798082734803427300,
+					"source_status_id_str": "798082734803427328",
+					"source_user_id": 4662024872,
+					"source_user_id_str": "4662024872"
+				},
+				{
+					"id": 798082717988458500,
+					"id_str": "798082717988458496",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/CxNcAOsUkAAbGXR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxNcAOsUkAAbGXR.jpg",
+					"url": "https://t.co/wlTvePGyM0",
+					"display_url": "pic.twitter.com/wlTvePGyM0",
+					"expanded_url": "https://twitter.com/fuyu_bari/status/798082734803427328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 461,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 639,
+							"h": 943,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 639,
+							"h": 943,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 798082734803427300,
+					"source_status_id_str": "798082734803427328",
+					"source_user_id": 4662024872,
+					"source_user_id_str": "4662024872"
+				},
+				{
+					"id": 798082718001049600,
+					"id_str": "798082718001049600",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/CxNcAOvUsAACjuo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxNcAOvUsAACjuo.jpg",
+					"url": "https://t.co/wlTvePGyM0",
+					"display_url": "pic.twitter.com/wlTvePGyM0",
+					"expanded_url": "https://twitter.com/fuyu_bari/status/798082734803427328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 639,
+							"h": 902,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 639,
+							"h": 902,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 798082734803427300,
+					"source_status_id_str": "798082734803427328",
+					"source_user_id": 4662024872,
+					"source_user_id_str": "4662024872"
+				},
+				{
+					"id": 798082718001004500,
+					"id_str": "798082718001004544",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/CxNcAOvUAAA0Bxx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxNcAOvUAAA0Bxx.jpg",
+					"url": "https://t.co/wlTvePGyM0",
+					"display_url": "pic.twitter.com/wlTvePGyM0",
+					"expanded_url": "https://twitter.com/fuyu_bari/status/798082734803427328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 806,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 540,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 806,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 798082734803427300,
+					"source_status_id_str": "798082734803427328",
+					"source_user_id": 4662024872,
+					"source_user_id_str": "4662024872"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1037,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7491,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/797887905528102912/K6mVuYIC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/797887905528102912/K6mVuYIC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479066306",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 14 08:38:46 +0000 2016",
+			"id": 798082734803427300,
+			"id_str": "798082734803427328",
+			"text": "달마과장 농담이 아니라 리얼이었어 https://t.co/wlTvePGyM0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 798082717988421600,
+						"id_str": "798082717988421632",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/CxNcAOsUAAAineV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxNcAOsUAAAineV.jpg",
+						"url": "https://t.co/wlTvePGyM0",
+						"display_url": "pic.twitter.com/wlTvePGyM0",
+						"expanded_url": "https://twitter.com/fuyu_bari/status/798082734803427328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 493,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 639,
+								"h": 882,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 639,
+								"h": 882,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 798082717988421600,
+						"id_str": "798082717988421632",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/CxNcAOsUAAAineV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxNcAOsUAAAineV.jpg",
+						"url": "https://t.co/wlTvePGyM0",
+						"display_url": "pic.twitter.com/wlTvePGyM0",
+						"expanded_url": "https://twitter.com/fuyu_bari/status/798082734803427328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 493,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 639,
+								"h": 882,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 639,
+								"h": 882,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 798082717988458500,
+						"id_str": "798082717988458496",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/CxNcAOsUkAAbGXR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxNcAOsUkAAbGXR.jpg",
+						"url": "https://t.co/wlTvePGyM0",
+						"display_url": "pic.twitter.com/wlTvePGyM0",
+						"expanded_url": "https://twitter.com/fuyu_bari/status/798082734803427328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 461,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 639,
+								"h": 943,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 639,
+								"h": 943,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 798082718001049600,
+						"id_str": "798082718001049600",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/CxNcAOvUsAACjuo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxNcAOvUsAACjuo.jpg",
+						"url": "https://t.co/wlTvePGyM0",
+						"display_url": "pic.twitter.com/wlTvePGyM0",
+						"expanded_url": "https://twitter.com/fuyu_bari/status/798082734803427328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 639,
+								"h": 902,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 482,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 639,
+								"h": 902,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 798082718001004500,
+						"id_str": "798082718001004544",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/CxNcAOvUAAA0Bxx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxNcAOvUAAA0Bxx.jpg",
+						"url": "https://t.co/wlTvePGyM0",
+						"display_url": "pic.twitter.com/wlTvePGyM0",
+						"expanded_url": "https://twitter.com/fuyu_bari/status/798082734803427328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 806,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 540,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 806,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4662024872,
+				"id_str": "4662024872",
+				"name": "김겨울",
+				"screen_name": "fuyu_bari",
+				"location": "잠시 팔로우중인 사람의 알람만 받음",
+				"description": "나의 무한한 혁명에게",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 664,
+				"friends_count": 140,
+				"listed_count": 5,
+				"created_at": "Sun Dec 27 15:30:07 +0000 2015",
+				"favourites_count": 6232,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16525,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798115338952937473/MbGPJP5C_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798115338952937473/MbGPJP5C_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4662024872/1477410774",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5618,
+			"favorite_count": 411,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5618,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Nov 14 10:48:57 +0000 2016",
+		"id": 798115498927923200,
+		"id_str": "798115498927923200",
+		"text": "RT @yangseoryu_: 1. 다짜고자 저에게 전화를 건 점 2. 정식 서문 공문 협조 요청도 아닌 전화로 개인정보를 요구한점 3. 안남고양이님의 본명을 모르기에 개인정보를 특정할 수 없다고 하자 뱃지공구를 하신 불특정다수 모두의 개인정보를 계…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yangseoryu_",
+					"name": "안남 리볼버 공장 양서류",
+					"id": 782637364086583300,
+					"id_str": "782637364086583297",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1037,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7491,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/797887905528102912/K6mVuYIC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/797887905528102912/K6mVuYIC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479066306",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 14 08:15:57 +0000 2016",
+			"id": 798076992566358000,
+			"id_str": "798076992566358016",
+			"text": "1. 다짜고자 저에게 전화를 건 점 2. 정식 서문 공문 협조 요청도 아닌 전화로 개인정보를 요구한점 3. 안남고양이님의 본명을 모르기에 개인정보를 특정할 수 없다고 하자 뱃지공구를 하신 불특정다수 모두의 개인정보를 계속해서 강압적으로 요구한 점",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 798076533340409900,
+			"in_reply_to_status_id_str": "798076533340409856",
+			"in_reply_to_user_id": 782637364086583300,
+			"in_reply_to_user_id_str": "782637364086583297",
+			"in_reply_to_screen_name": "yangseoryu_",
+			"user": {
+				"id": 782637364086583300,
+				"id_str": "782637364086583297",
+				"name": "안남 리볼버 공장 양서류",
+				"screen_name": "yangseoryu_",
+				"location": "부자동네",
+				"description": "발이 시려워 꿩!",
+				"url": "https://t.co/DSUIA2baal",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DSUIA2baal",
+								"expanded_url": "http://blog.naver.com/taemin0304",
+								"display_url": "blog.naver.com/taemin0304",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 448,
+				"friends_count": 326,
+				"listed_count": 6,
+				"created_at": "Sun Oct 02 17:44:23 +0000 2016",
+				"favourites_count": 69,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9588,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798108572592705536/PJ8nCbv8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798108572592705536/PJ8nCbv8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/782637364086583297/1478052431",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6596,
+			"favorite_count": 258,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6596,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Nov 14 10:48:47 +0000 2016",
+		"id": 798115454661201900,
+		"id_str": "798115454661201921",
+		"text": "RT @yangseoryu_: 저도 적습니다. 오늘 2016년 11월 14일 오후 1시 49분 저의 개인핸드폰으로 모경 수사과 모수사관이 전화가 왔습니다. 다급하게 안남고양이라는 닉네임을 가진 사람의 연락처를 찾는다며 저에게 그 사람과 물품 거래를…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yangseoryu_",
+					"name": "안남 리볼버 공장 양서류",
+					"id": 782637364086583300,
+					"id_str": "782637364086583297",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1037,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7491,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/797887905528102912/K6mVuYIC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/797887905528102912/K6mVuYIC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479066306",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 14 08:09:02 +0000 2016",
+			"id": 798075253276610600,
+			"id_str": "798075253276610560",
+			"text": "저도 적습니다. 오늘 2016년 11월 14일 오후 1시 49분 저의 개인핸드폰으로 모경 수사과 모수사관이 전화가 왔습니다. 다급하게 안남고양이라는 닉네임을 가진 사람의 연락처를 찾는다며 저에게 그 사람과 물품 거래를 한 적이 있다는 것을 알고 있",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 782637364086583300,
+				"id_str": "782637364086583297",
+				"name": "안남 리볼버 공장 양서류",
+				"screen_name": "yangseoryu_",
+				"location": "부자동네",
+				"description": "발이 시려워 꿩!",
+				"url": "https://t.co/DSUIA2baal",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DSUIA2baal",
+								"expanded_url": "http://blog.naver.com/taemin0304",
+								"display_url": "blog.naver.com/taemin0304",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 448,
+				"friends_count": 326,
+				"listed_count": 6,
+				"created_at": "Sun Oct 02 17:44:23 +0000 2016",
+				"favourites_count": 69,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9588,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798108572592705536/PJ8nCbv8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798108572592705536/PJ8nCbv8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/782637364086583297/1478052431",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8657,
+			"favorite_count": 349,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8657,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Nov 14 10:48:38 +0000 2016",
+		"id": 798115416325296100,
+		"id_str": "798115416325296128",
+		"text": "RT @rodroddl: @rodroddl 지금 청와대가 굉장히 예민한 상황이라 제가 총기와 청와대를 언급해서 위에서 강력하게 조사하라는 명령을 받았다는 말만하고 확인 다 했고 문제 없는 부분 확인했으니 그만 가겠다고 가버린 상황입니다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rodroddl",
+					"name": "안남고양이",
+					"id": 148587563,
+					"id_str": "148587563",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "rodroddl",
+					"name": "안남고양이",
+					"id": 148587563,
+					"id_str": "148587563",
+					"indices": [
+						14,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1037,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7491,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/797887905528102912/K6mVuYIC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/797887905528102912/K6mVuYIC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479066306",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 14 08:16:06 +0000 2016",
+			"id": 798077033301450800,
+			"id_str": "798077033301450752",
+			"text": "@rodroddl 지금 청와대가 굉장히 예민한 상황이라 제가 총기와 청와대를 언급해서 위에서 강력하게 조사하라는 명령을 받았다는 말만하고 확인 다 했고 문제 없는 부분 확인했으니 그만 가겠다고 가버린 상황입니다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rodroddl",
+						"name": "안남고양이",
+						"id": 148587563,
+						"id_str": "148587563",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 798076467733090300,
+			"in_reply_to_status_id_str": "798076467733090304",
+			"in_reply_to_user_id": 148587563,
+			"in_reply_to_user_id_str": "148587563",
+			"in_reply_to_screen_name": "rodroddl",
+			"user": {
+				"id": 148587563,
+				"id_str": "148587563",
+				"name": "안남고양이",
+				"screen_name": "rodroddl",
+				"location": "퀵폭력 행복도시 안남",
+				"description": "안남의 밤 D -6",
+				"url": "https://t.co/XYKAzmtqTk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XYKAzmtqTk",
+								"expanded_url": "http://iannam.net/",
+								"display_url": "iannam.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1567,
+				"friends_count": 2672,
+				"listed_count": 10,
+				"created_at": "Thu May 27 02:43:38 +0000 2010",
+				"favourites_count": 4919,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 45837,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793079334302916609/0pI1UEOv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793079334302916609/0pI1UEOv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/148587563/1413223457",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8120,
+			"favorite_count": 282,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8120,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Nov 14 10:48:35 +0000 2016",
+		"id": 798115405990498300,
+		"id_str": "798115405990498305",
+		"text": "RT @rodroddl: @rodroddl 트위터 계정과 인터넷 검색내역 다 뒤지고 집에 온 택배들까지 다 뜯어보았습니다.전부 사진으로 채증해갔고 일단은 확인이 되었으니 돌아간다고 하고 간 상태입니다.제가 영장없이 막 쳐들어오고 집을 뒤지는게 정당하…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rodroddl",
+					"name": "안남고양이",
+					"id": 148587563,
+					"id_str": "148587563",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "rodroddl",
+					"name": "안남고양이",
+					"id": 148587563,
+					"id_str": "148587563",
+					"indices": [
+						14,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1037,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7491,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/797887905528102912/K6mVuYIC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/797887905528102912/K6mVuYIC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479066306",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 14 08:13:52 +0000 2016",
+			"id": 798076467733090300,
+			"id_str": "798076467733090304",
+			"text": "@rodroddl 트위터 계정과 인터넷 검색내역 다 뒤지고 집에 온 택배들까지 다 뜯어보았습니다.전부 사진으로 채증해갔고 일단은 확인이 되었으니 돌아간다고 하고 간 상태입니다.제가 영장없이 막 쳐들어오고 집을 뒤지는게 정당하냐 항의 했지만",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rodroddl",
+						"name": "안남고양이",
+						"id": 148587563,
+						"id_str": "148587563",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 798075929138344000,
+			"in_reply_to_status_id_str": "798075929138343936",
+			"in_reply_to_user_id": 148587563,
+			"in_reply_to_user_id_str": "148587563",
+			"in_reply_to_screen_name": "rodroddl",
+			"user": {
+				"id": 148587563,
+				"id_str": "148587563",
+				"name": "안남고양이",
+				"screen_name": "rodroddl",
+				"location": "퀵폭력 행복도시 안남",
+				"description": "안남의 밤 D -6",
+				"url": "https://t.co/XYKAzmtqTk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XYKAzmtqTk",
+								"expanded_url": "http://iannam.net/",
+								"display_url": "iannam.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1567,
+				"friends_count": 2672,
+				"listed_count": 10,
+				"created_at": "Thu May 27 02:43:38 +0000 2010",
+				"favourites_count": 4919,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 45837,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793079334302916609/0pI1UEOv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793079334302916609/0pI1UEOv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/148587563/1413223457",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7723,
+			"favorite_count": 270,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7723,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Nov 14 10:48:32 +0000 2016",
+		"id": 798115391910264800,
+		"id_str": "798115391910264832",
+		"text": "RT @rodroddl: @rodroddl 경찰분 말로는 지금 총기발언에 청와대언급해서 완전 뒤집어졌다고 많은 경찰이 출동했다고 합니다.이게 진짜 말이나 되는 상황인지 미치겠습니다..........",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rodroddl",
+					"name": "안남고양이",
+					"id": 148587563,
+					"id_str": "148587563",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "rodroddl",
+					"name": "안남고양이",
+					"id": 148587563,
+					"id_str": "148587563",
+					"indices": [
+						14,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1037,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7491,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/797887905528102912/K6mVuYIC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/797887905528102912/K6mVuYIC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479066306",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 14 07:41:14 +0000 2016",
+			"id": 798068258343522300,
+			"id_str": "798068258343522304",
+			"text": "@rodroddl 경찰분 말로는 지금 총기발언에 청와대언급해서 완전 뒤집어졌다고 많은 경찰이 출동했다고 합니다.이게 진짜 말이나 되는 상황인지 미치겠습니다..........",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rodroddl",
+						"name": "안남고양이",
+						"id": 148587563,
+						"id_str": "148587563",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 798067678988537900,
+			"in_reply_to_status_id_str": "798067678988537856",
+			"in_reply_to_user_id": 148587563,
+			"in_reply_to_user_id_str": "148587563",
+			"in_reply_to_screen_name": "rodroddl",
+			"user": {
+				"id": 148587563,
+				"id_str": "148587563",
+				"name": "안남고양이",
+				"screen_name": "rodroddl",
+				"location": "퀵폭력 행복도시 안남",
+				"description": "안남의 밤 D -6",
+				"url": "https://t.co/XYKAzmtqTk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XYKAzmtqTk",
+								"expanded_url": "http://iannam.net/",
+								"display_url": "iannam.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1567,
+				"friends_count": 2672,
+				"listed_count": 10,
+				"created_at": "Thu May 27 02:43:38 +0000 2010",
+				"favourites_count": 4919,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 45837,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793079334302916609/0pI1UEOv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793079334302916609/0pI1UEOv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/148587563/1413223457",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9284,
+			"favorite_count": 299,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9284,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Nov 14 10:48:12 +0000 2016",
+		"id": 798115307390844900,
+		"id_str": "798115307390844929",
+		"text": "RT @rodroddl: @rodroddl 실제 거주지에 다락방이 있냐는 질문부터 리볼버를 소지하고 있냐 어떤 의도로 글을 올렸냐며 심도있는 질문을 하심 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ나는 다락방이 없고 빌라에 살고 더더욱 리볼버도 없다고 말했고 신상을 제…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rodroddl",
+					"name": "안남고양이",
+					"id": 148587563,
+					"id_str": "148587563",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "rodroddl",
+					"name": "안남고양이",
+					"id": 148587563,
+					"id_str": "148587563",
+					"indices": [
+						14,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1037,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7491,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/797887905528102912/K6mVuYIC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/797887905528102912/K6mVuYIC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479066306",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 14 05:30:21 +0000 2016",
+			"id": 798035317659832300,
+			"id_str": "798035317659832320",
+			"text": "@rodroddl 실제 거주지에 다락방이 있냐는 질문부터 리볼버를 소지하고 있냐 어떤 의도로 글을 올렸냐며 심도있는 질문을 하심 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ나는 다락방이 없고 빌라에 살고 더더욱 리볼버도 없다고 말했고 신상을 제공함",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rodroddl",
+						"name": "안남고양이",
+						"id": 148587563,
+						"id_str": "148587563",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 798034910149623800,
+			"in_reply_to_status_id_str": "798034910149623808",
+			"in_reply_to_user_id": 148587563,
+			"in_reply_to_user_id_str": "148587563",
+			"in_reply_to_screen_name": "rodroddl",
+			"user": {
+				"id": 148587563,
+				"id_str": "148587563",
+				"name": "안남고양이",
+				"screen_name": "rodroddl",
+				"location": "퀵폭력 행복도시 안남",
+				"description": "안남의 밤 D -6",
+				"url": "https://t.co/XYKAzmtqTk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XYKAzmtqTk",
+								"expanded_url": "http://iannam.net/",
+								"display_url": "iannam.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1567,
+				"friends_count": 2672,
+				"listed_count": 10,
+				"created_at": "Thu May 27 02:43:38 +0000 2010",
+				"favourites_count": 4919,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 45837,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793079334302916609/0pI1UEOv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793079334302916609/0pI1UEOv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/148587563/1413223457",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3952,
+			"favorite_count": 126,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3952,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Nov 14 10:48:08 +0000 2016",
+		"id": 798115293889339400,
+		"id_str": "798115293889339392",
+		"text": "RT @rodroddl: 와 ㅋㅋㅋㅋㅋㅋ리볼버 글 누가 신고해서 사이버수사대에서 연락옴 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ미치겠다\nhttps://t.co/YH48cYL25L",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rodroddl",
+					"name": "안남고양이",
+					"id": 148587563,
+					"id_str": "148587563",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YH48cYL25L",
+					"expanded_url": "https://twitter.com/rodroddl/status/797831996667899904",
+					"display_url": "twitter.com/rodroddl/statu…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1037,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7491,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/797887905528102912/K6mVuYIC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/797887905528102912/K6mVuYIC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479066306",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 14 05:26:48 +0000 2016",
+			"id": 798034424587685900,
+			"id_str": "798034424587685888",
+			"text": "와 ㅋㅋㅋㅋㅋㅋ리볼버 글 누가 신고해서 사이버수사대에서 연락옴 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ미치겠다\nhttps://t.co/YH48cYL25L",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YH48cYL25L",
+						"expanded_url": "https://twitter.com/rodroddl/status/797831996667899904",
+						"display_url": "twitter.com/rodroddl/statu…",
+						"indices": [
+							65,
+							88
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 148587563,
+				"id_str": "148587563",
+				"name": "안남고양이",
+				"screen_name": "rodroddl",
+				"location": "퀵폭력 행복도시 안남",
+				"description": "안남의 밤 D -6",
+				"url": "https://t.co/XYKAzmtqTk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XYKAzmtqTk",
+								"expanded_url": "http://iannam.net/",
+								"display_url": "iannam.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1567,
+				"friends_count": 2672,
+				"listed_count": 10,
+				"created_at": "Thu May 27 02:43:38 +0000 2010",
+				"favourites_count": 4919,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 45837,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793079334302916609/0pI1UEOv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793079334302916609/0pI1UEOv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/148587563/1413223457",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 797831996667899900,
+			"quoted_status_id_str": "797831996667899904",
+			"quoted_status": {
+				"created_at": "Sun Nov 13 16:02:25 +0000 2016",
+				"id": 797831996667899900,
+				"id_str": "797831996667899904",
+				"text": "와 진짜 다락방 상자에 숨겨놓은 리볼버 들고 청와대 가고싶다. https://t.co/TMLwi4QG5v",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 797831990812676100,
+							"id_str": "797831990812676097",
+							"indices": [
+								35,
+								58
+							],
+							"media_url": "http://pbs.twimg.com/media/CxJ39_LVEAEHgv0.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CxJ39_LVEAEHgv0.jpg",
+							"url": "https://t.co/TMLwi4QG5v",
+							"display_url": "pic.twitter.com/TMLwi4QG5v",
+							"expanded_url": "https://twitter.com/rodroddl/status/797831996667899904/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 680,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 843,
+									"h": 843,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 843,
+									"h": 843,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 797831990812676100,
+							"id_str": "797831990812676097",
+							"indices": [
+								35,
+								58
+							],
+							"media_url": "http://pbs.twimg.com/media/CxJ39_LVEAEHgv0.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/CxJ39_LVEAEHgv0.jpg",
+							"url": "https://t.co/TMLwi4QG5v",
+							"display_url": "pic.twitter.com/TMLwi4QG5v",
+							"expanded_url": "https://twitter.com/rodroddl/status/797831996667899904/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 680,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 843,
+									"h": 843,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 843,
+									"h": 843,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 148587563,
+					"id_str": "148587563",
+					"name": "안남고양이",
+					"screen_name": "rodroddl",
+					"location": "퀵폭력 행복도시 안남",
+					"description": "안남의 밤 D -6",
+					"url": "https://t.co/XYKAzmtqTk",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/XYKAzmtqTk",
+									"expanded_url": "http://iannam.net/",
+									"display_url": "iannam.net",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1567,
+					"friends_count": 2672,
+					"listed_count": 10,
+					"created_at": "Thu May 27 02:43:38 +0000 2010",
+					"favourites_count": 4919,
+					"utc_offset": 32400,
+					"time_zone": "Seoul",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 45837,
+					"lang": "ko",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/793079334302916609/0pI1UEOv_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/793079334302916609/0pI1UEOv_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/148587563/1413223457",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 11114,
+				"favorite_count": 994,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "ko"
+			},
+			"retweet_count": 12229,
+			"favorite_count": 581,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 797831996667899900,
+		"quoted_status_id_str": "797831996667899904",
+		"retweet_count": 12229,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Nov 14 10:42:08 +0000 2016",
+		"id": 798113783684051000,
+		"id_str": "798113783684050944",
+		"text": "RT @thorough_bass: 이 사람들은... https://t.co/1W80Y5AjPA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thorough_bass",
+					"name": "노트",
+					"id": 705313855258259500,
+					"id_str": "705313855258259456",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 798062876770476000,
+					"id_str": "798062876770476032",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CxNJ9UZUoAAETfm.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CxNJ9UZUoAAETfm.jpg",
+					"url": "https://t.co/1W80Y5AjPA",
+					"display_url": "pic.twitter.com/1W80Y5AjPA",
+					"expanded_url": "https://twitter.com/thorough_bass/status/798062963814871041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 798062963814871000,
+					"source_status_id_str": "798062963814871041",
+					"source_user_id": 705313855258259500,
+					"source_user_id_str": "705313855258259456"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 798062876770476000,
+					"id_str": "798062876770476032",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CxNJ9UZUoAAETfm.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CxNJ9UZUoAAETfm.jpg",
+					"url": "https://t.co/1W80Y5AjPA",
+					"display_url": "pic.twitter.com/1W80Y5AjPA",
+					"expanded_url": "https://twitter.com/thorough_bass/status/798062963814871041/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 798062963814871000,
+					"source_status_id_str": "798062963814871041",
+					"source_user_id": 705313855258259500,
+					"source_user_id_str": "705313855258259456",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://pbs.twimg.com/tweet_video/CxNJ9UZUoAAETfm.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1037,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7491,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/797887905528102912/K6mVuYIC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/797887905528102912/K6mVuYIC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479066306",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Nov 14 07:20:12 +0000 2016",
+			"id": 798062963814871000,
+			"id_str": "798062963814871041",
+			"text": "이 사람들은... https://t.co/1W80Y5AjPA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 798062876770476000,
+						"id_str": "798062876770476032",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CxNJ9UZUoAAETfm.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CxNJ9UZUoAAETfm.jpg",
+						"url": "https://t.co/1W80Y5AjPA",
+						"display_url": "pic.twitter.com/1W80Y5AjPA",
+						"expanded_url": "https://twitter.com/thorough_bass/status/798062963814871041/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 798062876770476000,
+						"id_str": "798062876770476032",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CxNJ9UZUoAAETfm.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CxNJ9UZUoAAETfm.jpg",
+						"url": "https://t.co/1W80Y5AjPA",
+						"display_url": "pic.twitter.com/1W80Y5AjPA",
+						"expanded_url": "https://twitter.com/thorough_bass/status/798062963814871041/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://pbs.twimg.com/tweet_video/CxNJ9UZUoAAETfm.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 705313855258259500,
+				"id_str": "705313855258259456",
+				"name": "노트",
+				"screen_name": "thorough_bass",
+				"location": "",
+				"description": "러브라이브! & 러브라이브! 선샤인!! 이야기용 계정.\n감상문은 여기에 → https://t.co/WyB1xvBvfj",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/WyB1xvBvfj",
+								"expanded_url": "http://partialive.tistory.com",
+								"display_url": "partialive.tistory.com",
+								"indices": [
+									42,
+									65
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 463,
+				"friends_count": 0,
+				"listed_count": 4,
+				"created_at": "Thu Mar 03 08:48:22 +0000 2016",
+				"favourites_count": 23,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7287,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+				"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_6_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": true,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Nov 14 08:31:41 +0000 2016",
 		"id": 798080953490866200,
 		"id_str": "798080953490866176",
