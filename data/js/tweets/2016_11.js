@@ -1,6 +1,565 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Tue Nov 15 05:49:44 +0000 2016",
+		"id": 798402586126729200,
+		"id_str": "798402586126729217",
+		"text": "RT @RayRose__: 자취하는 여대생!!! https://t.co/fjcZSUJiSJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RayRose__",
+					"name": "레이로제",
+					"id": 425049306,
+					"id_str": "425049306",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 798397112732053500,
+					"id_str": "798397112732053504",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/CxR58aYXcAAWmce.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxR58aYXcAAWmce.jpg",
+					"url": "https://t.co/fjcZSUJiSJ",
+					"display_url": "pic.twitter.com/fjcZSUJiSJ",
+					"expanded_url": "https://twitter.com/RayRose__/status/798397216469712896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 877,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 877,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 798397216469712900,
+					"source_status_id_str": "798397216469712896",
+					"source_user_id": 425049306,
+					"source_user_id_str": "425049306"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 798397112732053500,
+					"id_str": "798397112732053504",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/CxR58aYXcAAWmce.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxR58aYXcAAWmce.jpg",
+					"url": "https://t.co/fjcZSUJiSJ",
+					"display_url": "pic.twitter.com/fjcZSUJiSJ",
+					"expanded_url": "https://twitter.com/RayRose__/status/798397216469712896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 877,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 877,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 798397216469712900,
+					"source_status_id_str": "798397216469712896",
+					"source_user_id": 425049306,
+					"source_user_id_str": "425049306"
+				},
+				{
+					"id": 798397121812725800,
+					"id_str": "798397121812725760",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/CxR588NXgAAOLLP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxR588NXgAAOLLP.jpg",
+					"url": "https://t.co/fjcZSUJiSJ",
+					"display_url": "pic.twitter.com/fjcZSUJiSJ",
+					"expanded_url": "https://twitter.com/RayRose__/status/798397216469712896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 620,
+							"h": 877,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 877,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 798397216469712900,
+					"source_status_id_str": "798397216469712896",
+					"source_user_id": 425049306,
+					"source_user_id_str": "425049306"
+				},
+				{
+					"id": 798397128779370500,
+					"id_str": "798397128779370496",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/CxR59WKWEAAkD9c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxR59WKWEAAkD9c.jpg",
+					"url": "https://t.co/fjcZSUJiSJ",
+					"display_url": "pic.twitter.com/fjcZSUJiSJ",
+					"expanded_url": "https://twitter.com/RayRose__/status/798397216469712896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 620,
+							"h": 877,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 877,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 798397216469712900,
+					"source_status_id_str": "798397216469712896",
+					"source_user_id": 425049306,
+					"source_user_id_str": "425049306"
+				},
+				{
+					"id": 798397135284801500,
+					"id_str": "798397135284801536",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/CxR59uZXEAANiJ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxR59uZXEAANiJ1.jpg",
+					"url": "https://t.co/fjcZSUJiSJ",
+					"display_url": "pic.twitter.com/fjcZSUJiSJ",
+					"expanded_url": "https://twitter.com/RayRose__/status/798397216469712896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 620,
+							"h": 877,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 877,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 798397216469712900,
+					"source_status_id_str": "798397216469712896",
+					"source_user_id": 425049306,
+					"source_user_id_str": "425049306"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1037,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7526,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/797887905528102912/K6mVuYIC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/797887905528102912/K6mVuYIC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479066306",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 15 05:28:24 +0000 2016",
+			"id": 798397216469712900,
+			"id_str": "798397216469712896",
+			"text": "자취하는 여대생!!! https://t.co/fjcZSUJiSJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 798397112732053500,
+						"id_str": "798397112732053504",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/CxR58aYXcAAWmce.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxR58aYXcAAWmce.jpg",
+						"url": "https://t.co/fjcZSUJiSJ",
+						"display_url": "pic.twitter.com/fjcZSUJiSJ",
+						"expanded_url": "https://twitter.com/RayRose__/status/798397216469712896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 620,
+								"h": 877,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 620,
+								"h": 877,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 798397112732053500,
+						"id_str": "798397112732053504",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/CxR58aYXcAAWmce.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxR58aYXcAAWmce.jpg",
+						"url": "https://t.co/fjcZSUJiSJ",
+						"display_url": "pic.twitter.com/fjcZSUJiSJ",
+						"expanded_url": "https://twitter.com/RayRose__/status/798397216469712896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 620,
+								"h": 877,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 620,
+								"h": 877,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 798397121812725800,
+						"id_str": "798397121812725760",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/CxR588NXgAAOLLP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxR588NXgAAOLLP.jpg",
+						"url": "https://t.co/fjcZSUJiSJ",
+						"display_url": "pic.twitter.com/fjcZSUJiSJ",
+						"expanded_url": "https://twitter.com/RayRose__/status/798397216469712896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 620,
+								"h": 877,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 620,
+								"h": 877,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 798397128779370500,
+						"id_str": "798397128779370496",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/CxR59WKWEAAkD9c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxR59WKWEAAkD9c.jpg",
+						"url": "https://t.co/fjcZSUJiSJ",
+						"display_url": "pic.twitter.com/fjcZSUJiSJ",
+						"expanded_url": "https://twitter.com/RayRose__/status/798397216469712896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 620,
+								"h": 877,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 620,
+								"h": 877,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 798397135284801500,
+						"id_str": "798397135284801536",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/CxR59uZXEAANiJ1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxR59uZXEAANiJ1.jpg",
+						"url": "https://t.co/fjcZSUJiSJ",
+						"display_url": "pic.twitter.com/fjcZSUJiSJ",
+						"expanded_url": "https://twitter.com/RayRose__/status/798397216469712896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 620,
+								"h": 877,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 620,
+								"h": 877,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 425049306,
+				"id_str": "425049306",
+				"name": "레이로제",
+				"screen_name": "RayRose__",
+				"location": "",
+				"description": "여우 꼬리 살랑살랑",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1212,
+				"friends_count": 336,
+				"listed_count": 14,
+				"created_at": "Wed Nov 30 13:59:02 +0000 2011",
+				"favourites_count": 1138,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 146686,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/780285224/d7b1e84ad8ce38a908b99e3bad5d8f96.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/780285224/d7b1e84ad8ce38a908b99e3bad5d8f96.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/797434296042536960/6VwrYvtu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/797434296042536960/6VwrYvtu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/425049306/1478904500",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 419,
+			"favorite_count": 114,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 419,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Nov 15 05:09:22 +0000 2016",
 		"id": 798392427094638600,
 		"id_str": "798392427094638594",
