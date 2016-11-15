@@ -1,6 +1,470 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Tue Nov 15 17:04:26 +0000 2016",
+		"id": 798572378867368000,
+		"id_str": "798572378867367937",
+		"text": "RT @llamadva: [영상] 대국민 약속 뒤집고 조사 거부 들어간 대통령 https://t.co/8f5YmmJ8Hg 생각해보니 여왕폐하 또 통수침 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "llamadva",
+					"name": "Llamadva",
+					"id": 1510642711,
+					"id_str": "1510642711",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8f5YmmJ8Hg",
+					"expanded_url": "http://m.news.naver.com/read.nhn?mode=LSD&mid=sec&sid1=100&oid=079&aid=0002895259",
+					"display_url": "m.news.naver.com/read.nhn?mode=…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1037,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7575,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 15 16:23:36 +0000 2016",
+			"id": 798562104445845500,
+			"id_str": "798562104445845509",
+			"text": "[영상] 대국민 약속 뒤집고 조사 거부 들어간 대통령 https://t.co/8f5YmmJ8Hg 생각해보니 여왕폐하 또 통수침 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8f5YmmJ8Hg",
+						"expanded_url": "http://m.news.naver.com/read.nhn?mode=LSD&mid=sec&sid1=100&oid=079&aid=0002895259",
+						"display_url": "m.news.naver.com/read.nhn?mode=…",
+						"indices": [
+							30,
+							53
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1510642711,
+				"id_str": "1510642711",
+				"name": "Llamadva",
+				"screen_name": "llamadva",
+				"location": "공화국 남반구",
+				"description": "Frauen Volleyball(F of Hyundai E&C #7)// Overwatch (D.va)//Idorumaster Cinderella Projekt Sternenlicht Bühne// Garupan",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3729,
+				"friends_count": 2618,
+				"listed_count": 83,
+				"created_at": "Wed Jun 12 14:05:18 +0000 2013",
+				"favourites_count": 310,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12106,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/787157140242706433/_jmYY7ta_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/787157140242706433/_jmYY7ta_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1510642711/1476898429",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 50,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Nov 15 16:37:06 +0000 2016",
+		"id": 798565500204630000,
+		"id_str": "798565500204630016",
+		"text": "Onitsuka Chihiro鬼束千尋－ Gekkou月光 (HQ Audio) https://t.co/C0BhrNVVsJ @YouTube 님이 공유",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/C0BhrNVVsJ",
+					"expanded_url": "https://youtu.be/a1c7mISrh2Q",
+					"display_url": "youtu.be/a1c7mISrh2Q",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1037,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7575,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Tue Nov 15 16:36:23 +0000 2016",
+		"id": 798565318515826700,
+		"id_str": "798565318515826688",
+		"text": "의혹 하나하나가 여태까지의 정권이라면 나라가 뒤집힐 스케일인데, 어떻게 매일같이 쏟아지는지...\nhttps://t.co/CHymFMYOcU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CHymFMYOcU",
+					"expanded_url": "https://twitter.com/hye0127/status/796316555076255744",
+					"display_url": "twitter.com/hye0127/status…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1037,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7575,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 796316555076255700,
+		"quoted_status_id_str": "796316555076255744",
+		"quoted_status": {
+			"created_at": "Wed Nov 09 11:40:36 +0000 2016",
+			"id": 796316555076255700,
+			"id_str": "796316555076255744",
+			"text": "문제는 여기에서 그치지 않음. 차병원 연구소에서 대통령이 정부 6개부처 업무 보고를 받고 그자리에서 차병원의 사업을 지원하는 발언을 함. 정부는 차병원에 2024년까지 192억원을 지원하기로 되어있음.\n정말… https://t.co/FvgLdRoT9W",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FvgLdRoT9W",
+						"expanded_url": "https://twitter.com/i/web/status/796316555076255744",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 796315541371617300,
+			"in_reply_to_status_id_str": "796315541371617281",
+			"in_reply_to_user_id": 427378275,
+			"in_reply_to_user_id_str": "427378275",
+			"in_reply_to_screen_name": "hye0127",
+			"user": {
+				"id": 427378275,
+				"id_str": "427378275",
+				"name": "ㄹ혜퇴진+새누리 해체 기원형 혜현🎗",
+				"screen_name": "hye0127",
+				"location": "",
+				"description": "여행 좋아하고 술 좋아하고 사람 좋아하는...사람이 중심에 있고 상식이 통하는 이땅이 되길 바라는 그저 작은 한 사람.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7055,
+				"friends_count": 389,
+				"listed_count": 106,
+				"created_at": "Sat Dec 03 13:10:01 +0000 2011",
+				"favourites_count": 451,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 88387,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/721178278577328128/Jeu03Khi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/721178278577328128/Jeu03Khi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/427378275/1401549896",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 78,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Nov 15 16:13:15 +0000 2016",
 		"id": 798559496645685200,
 		"id_str": "798559496645685248",
