@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Tue Nov 15 02:08:46 +0000 2016",
+		"id": 798346978593640400,
+		"id_str": "798346978593640449",
+		"text": "RT @BioBRIC: #BRIC [참고문헌에 관한 알찬 정보 4가지] 참고문헌 소개 방법에 대해 ③ https://t.co/D7jWLNTA63",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BRIC",
+					"indices": [
+						13,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BioBRIC",
+					"name": "BRIC",
+					"id": 185941794,
+					"id_str": "185941794",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/D7jWLNTA63",
+					"expanded_url": "http://www.ibric.org/myboard/read.php?Board=news&id=277589",
+					"display_url": "ibric.org/myboard/read.p…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1037,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7524,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/797887905528102912/K6mVuYIC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/797887905528102912/K6mVuYIC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479066306",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 15 00:38:40 +0000 2016",
+			"id": 798324301795471400,
+			"id_str": "798324301795471360",
+			"text": "#BRIC [참고문헌에 관한 알찬 정보 4가지] 참고문헌 소개 방법에 대해 ③ https://t.co/D7jWLNTA63",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BRIC",
+						"indices": [
+							0,
+							5
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/D7jWLNTA63",
+						"expanded_url": "http://www.ibric.org/myboard/read.php?Board=news&id=277589",
+						"display_url": "ibric.org/myboard/read.p…",
+						"indices": [
+							44,
+							67
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 185941794,
+				"id_str": "185941794",
+				"name": "BRIC",
+				"screen_name": "BioBRIC",
+				"location": "korea",
+				"description": "생물학연구정보센터(이하 BRIC, 브릭)는 국내・외 바이오관련 전문정보들을 종합적・체계적으로 수집, 가공, 정리하여 데이터베이스화 하고 인터넷을 통해 연구자들에게 제공",
+				"url": "http://t.co/86QpnHrT38",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/86QpnHrT38",
+								"expanded_url": "http://www.ibric.org/",
+								"display_url": "ibric.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 697,
+				"friends_count": 158,
+				"listed_count": 33,
+				"created_at": "Thu Sep 02 05:42:20 +0000 2010",
+				"favourites_count": 0,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3054,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1649367175/lego_1_normal.gif",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1649367175/lego_1_normal.gif",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Nov 14 19:25:36 +0000 2016",
 		"id": 798245516538572800,
 		"id_str": "798245516538572800",
