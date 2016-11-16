@@ -1,6 +1,435 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Wed Nov 16 14:26:56 +0000 2016",
+		"id": 798895131386474500,
+		"id_str": "798895131386474499",
+		"text": "음모병자란 평이 있는데, 적어도 저 트윗은 충분히 그럴 법한 게...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7658,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 16 14:25:27 +0000 2016",
+		"id": 798894755069317100,
+		"id_str": "798894755069317120",
+		"text": "RT @ChiC_hi: 사랑하는 팔로워 여러분 @forfreedomof &lt;-얘 리트윗하는 걸 그만둬주시기 바랍니다 제가 빡치거든요 https://t.co/dZSvXHUmd1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChiC_hi",
+					"name": "ChiChi",
+					"id": 142254915,
+					"id_str": "142254915",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "forfreedomof",
+					"name": "Falco Auditore",
+					"id": 419246587,
+					"id_str": "419246587",
+					"indices": [
+						26,
+						39
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 798870353535582200,
+					"id_str": "798870353535582208",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/CxYoWpwUQAAiu1h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxYoWpwUQAAiu1h.jpg",
+					"url": "https://t.co/dZSvXHUmd1",
+					"display_url": "pic.twitter.com/dZSvXHUmd1",
+					"expanded_url": "http://twitter.com/ChiC_hi/status/798870365170585600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 606,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 718,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 718,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 798870365170585600,
+					"source_status_id_str": "798870365170585600",
+					"source_user_id": 142254915,
+					"source_user_id_str": "142254915"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 798870353535582200,
+					"id_str": "798870353535582208",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/CxYoWpwUQAAiu1h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxYoWpwUQAAiu1h.jpg",
+					"url": "https://t.co/dZSvXHUmd1",
+					"display_url": "pic.twitter.com/dZSvXHUmd1",
+					"expanded_url": "http://twitter.com/ChiC_hi/status/798870365170585600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 606,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 718,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 718,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 798870365170585600,
+					"source_status_id_str": "798870365170585600",
+					"source_user_id": 142254915,
+					"source_user_id_str": "142254915"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7658,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 16 12:48:32 +0000 2016",
+			"id": 798870365170585600,
+			"id_str": "798870365170585600",
+			"text": "사랑하는 팔로워 여러분 @forfreedomof &lt;-얘 리트윗하는 걸 그만둬주시기 바랍니다 제가 빡치거든요 https://t.co/dZSvXHUmd1",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "forfreedomof",
+						"name": "Falco Auditore",
+						"id": 419246587,
+						"id_str": "419246587",
+						"indices": [
+							13,
+							26
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 798870353535582200,
+						"id_str": "798870353535582208",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/CxYoWpwUQAAiu1h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxYoWpwUQAAiu1h.jpg",
+						"url": "https://t.co/dZSvXHUmd1",
+						"display_url": "pic.twitter.com/dZSvXHUmd1",
+						"expanded_url": "http://twitter.com/ChiC_hi/status/798870365170585600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 606,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 718,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 718,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 798870353535582200,
+						"id_str": "798870353535582208",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/CxYoWpwUQAAiu1h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxYoWpwUQAAiu1h.jpg",
+						"url": "https://t.co/dZSvXHUmd1",
+						"display_url": "pic.twitter.com/dZSvXHUmd1",
+						"expanded_url": "http://twitter.com/ChiC_hi/status/798870365170585600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 606,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 718,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 718,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 142254915,
+				"id_str": "142254915",
+				"name": "ChiChi",
+				"screen_name": "ChiC_hi",
+				"location": "FF14 리바이어선 치치언니/나전암용몽소흑음",
+				"description": "브리튼 신민의 긍지는 꺾이지 않는다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 789,
+				"friends_count": 339,
+				"listed_count": 27,
+				"created_at": "Mon May 10 11:31:44 +0000 2010",
+				"favourites_count": 9772,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 212472,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/795737785520963585/5BCFqsJN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/795737785520963585/5BCFqsJN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/142254915/1479079259",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Nov 16 13:55:04 +0000 2016",
 		"id": 798887111826935800,
 		"id_str": "798887111826935811",
