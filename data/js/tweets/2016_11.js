@@ -1,6 +1,1618 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Wed Nov 16 06:08:28 +0000 2016",
+		"id": 798769688201179100,
+		"id_str": "798769688201179139",
+		"text": "픽사, '색의 과학' 무료 온라인 강의 공개 https://t.co/28Hp7LbABo @bloter_news 님이 공유",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bloter_news",
+					"name": "블로터",
+					"id": 123416413,
+					"id_str": "123416413",
+					"indices": [
+						49,
+						61
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/28Hp7LbABo",
+					"expanded_url": "http://www.bloter.net/archives/267411",
+					"display_url": "bloter.net/archives/267411",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1038,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7603,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 16 05:38:11 +0000 2016",
+		"id": 798762067884806100,
+		"id_str": "798762067884806144",
+		"text": "RT @rave0206: NMT의 신경망 학습은 SMT의 번역 모델 학습에 비해 굉장히 많은 양의 데이터를 요구합니다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rave0206",
+					"name": "기루",
+					"id": 262549776,
+					"id_str": "262549776",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1038,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7603,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 16 05:09:52 +0000 2016",
+			"id": 798754941569417200,
+			"id_str": "798754941569417216",
+			"text": "NMT의 신경망 학습은 SMT의 번역 모델 학습에 비해 굉장히 많은 양의 데이터를 요구합니다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 262549776,
+				"id_str": "262549776",
+				"name": "기루",
+				"screen_name": "rave0206",
+				"location": "undefined",
+				"description": "CSE-NLP | 특덕 | #6어절SF | TRPG | 비즈 작품 | 헤더: 다시마(@Dasima_LHS)님 | LINE: rave0206",
+				"url": "https://t.co/8K54m8FeOZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8K54m8FeOZ",
+								"expanded_url": "http://gmirage.tistory.com",
+								"display_url": "gmirage.tistory.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 141,
+				"friends_count": 215,
+				"listed_count": 5,
+				"created_at": "Tue Mar 08 07:53:16 +0000 2011",
+				"favourites_count": 2123,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34499,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/788796047640317952/QEjjvUKR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/788796047640317952/QEjjvUKR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/262549776/1477676405",
+				"profile_link_color": "006400",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 16 05:38:08 +0000 2016",
+		"id": 798762051711578100,
+		"id_str": "798762051711578112",
+		"text": "RT @rave0206: RT :: 그 일정 분량의 구조화된 데이터 구축이 문제가 되는 경우가 대부분이지만....",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rave0206",
+					"name": "기루",
+					"id": 262549776,
+					"id_str": "262549776",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1038,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7603,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 16 05:07:52 +0000 2016",
+			"id": 798754437867016200,
+			"id_str": "798754437867016192",
+			"text": "RT :: 그 일정 분량의 구조화된 데이터 구축이 문제가 되는 경우가 대부분이지만....",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 262549776,
+				"id_str": "262549776",
+				"name": "기루",
+				"screen_name": "rave0206",
+				"location": "undefined",
+				"description": "CSE-NLP | 특덕 | #6어절SF | TRPG | 비즈 작품 | 헤더: 다시마(@Dasima_LHS)님 | LINE: rave0206",
+				"url": "https://t.co/8K54m8FeOZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8K54m8FeOZ",
+								"expanded_url": "http://gmirage.tistory.com",
+								"display_url": "gmirage.tistory.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 141,
+				"friends_count": 215,
+				"listed_count": 5,
+				"created_at": "Tue Mar 08 07:53:16 +0000 2011",
+				"favourites_count": 2123,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34499,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/788796047640317952/QEjjvUKR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/788796047640317952/QEjjvUKR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/262549776/1477676405",
+				"profile_link_color": "006400",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 16 05:35:35 +0000 2016",
+		"id": 798761410138280000,
+		"id_str": "798761410138279937",
+		"text": "RT @cfr0g: 번역등의 비용이 줄어든다는 이야기는, 오픈소스같은 방식으로 소수의 사람들이 언어를 새로 만드는 것도 점점 가능해진다는 이야기로 연결될듯.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cfr0g",
+					"name": "괴골 [개물]",
+					"id": 54579208,
+					"id_str": "54579208",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1038,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7603,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 16 05:26:17 +0000 2016",
+			"id": 798759072229048300,
+			"id_str": "798759072229048320",
+			"text": "번역등의 비용이 줄어든다는 이야기는, 오픈소스같은 방식으로 소수의 사람들이 언어를 새로 만드는 것도 점점 가능해진다는 이야기로 연결될듯.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 798757582433198100,
+			"in_reply_to_status_id_str": "798757582433198083",
+			"in_reply_to_user_id": 54579208,
+			"in_reply_to_user_id_str": "54579208",
+			"in_reply_to_screen_name": "cfr0g",
+			"user": {
+				"id": 54579208,
+				"id_str": "54579208",
+				"name": "괴골 [개물]",
+				"screen_name": "cfr0g",
+				"location": "",
+				"description": "데이터나 과학 이야기 가끔.",
+				"url": "https://t.co/bkAeD9tAxc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bkAeD9tAxc",
+								"expanded_url": "http://cfr0g.wordpress.com",
+								"display_url": "cfr0g.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3827,
+				"friends_count": 174,
+				"listed_count": 138,
+				"created_at": "Tue Jul 07 15:30:26 +0000 2009",
+				"favourites_count": 712,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 48413,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "195679",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/477110846183583744/A6_VgTSY.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/477110846183583744/A6_VgTSY.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/611844983897788416/VuOfzKXp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/611844983897788416/VuOfzKXp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54579208/1402586925",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 16 05:35:30 +0000 2016",
+		"id": 798761389997199400,
+		"id_str": "798761389997199360",
+		"text": "RT @cfr0g: 1.발음이나 표기법에 예외나 어려움이 없고 2. 문법이 아주 쉽고 직관적인 언어를 인공적으로 디자인한 후에,  번역기를 통해 서서히 전파시키는 방법을 쓴다면 어쩌면 꽤 성공적으로 정착시킬수도 있을것 같단 생각이 든다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cfr0g",
+					"name": "괴골 [개물]",
+					"id": 54579208,
+					"id_str": "54579208",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1038,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7603,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 16 05:20:22 +0000 2016",
+			"id": 798757582433198100,
+			"id_str": "798757582433198083",
+			"text": "1.발음이나 표기법에 예외나 어려움이 없고 2. 문법이 아주 쉽고 직관적인 언어를 인공적으로 디자인한 후에,  번역기를 통해 서서히 전파시키는 방법을 쓴다면 어쩌면 꽤 성공적으로 정착시킬수도 있을것 같단 생각이 든다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 798757080324710400,
+			"in_reply_to_status_id_str": "798757080324710400",
+			"in_reply_to_user_id": 54579208,
+			"in_reply_to_user_id_str": "54579208",
+			"in_reply_to_screen_name": "cfr0g",
+			"user": {
+				"id": 54579208,
+				"id_str": "54579208",
+				"name": "괴골 [개물]",
+				"screen_name": "cfr0g",
+				"location": "",
+				"description": "데이터나 과학 이야기 가끔.",
+				"url": "https://t.co/bkAeD9tAxc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bkAeD9tAxc",
+								"expanded_url": "http://cfr0g.wordpress.com",
+								"display_url": "cfr0g.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3827,
+				"friends_count": 174,
+				"listed_count": 138,
+				"created_at": "Tue Jul 07 15:30:26 +0000 2009",
+				"favourites_count": 712,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 48413,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "195679",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/477110846183583744/A6_VgTSY.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/477110846183583744/A6_VgTSY.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/611844983897788416/VuOfzKXp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/611844983897788416/VuOfzKXp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54579208/1402586925",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 16 05:35:24 +0000 2016",
+		"id": 798761364785221600,
+		"id_str": "798761364785221632",
+		"text": "RT @cfr0g: 자연발생언어가 아닌 인공언어의 최대단점은, 초기학습비용을 감수할만한 언어구사자를 찾기 어렵기 때문에 사용인구를 쉽게 늘릴수 없다는 점이었다.  하지만 번역기의 도움을 얻는다면 초기비용을 꽤 낮출수 있지 않을까 생각함.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cfr0g",
+					"name": "괴골 [개물]",
+					"id": 54579208,
+					"id_str": "54579208",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1038,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7603,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 16 05:18:22 +0000 2016",
+			"id": 798757080324710400,
+			"id_str": "798757080324710400",
+			"text": "자연발생언어가 아닌 인공언어의 최대단점은, 초기학습비용을 감수할만한 언어구사자를 찾기 어렵기 때문에 사용인구를 쉽게 늘릴수 없다는 점이었다.  하지만 번역기의 도움을 얻는다면 초기비용을 꽤 낮출수 있지 않을까 생각함.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 798753012470583300,
+			"in_reply_to_status_id_str": "798753012470583296",
+			"in_reply_to_user_id": 54579208,
+			"in_reply_to_user_id_str": "54579208",
+			"in_reply_to_screen_name": "cfr0g",
+			"user": {
+				"id": 54579208,
+				"id_str": "54579208",
+				"name": "괴골 [개물]",
+				"screen_name": "cfr0g",
+				"location": "",
+				"description": "데이터나 과학 이야기 가끔.",
+				"url": "https://t.co/bkAeD9tAxc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bkAeD9tAxc",
+								"expanded_url": "http://cfr0g.wordpress.com",
+								"display_url": "cfr0g.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3827,
+				"friends_count": 174,
+				"listed_count": 138,
+				"created_at": "Tue Jul 07 15:30:26 +0000 2009",
+				"favourites_count": 712,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 48413,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "195679",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/477110846183583744/A6_VgTSY.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/477110846183583744/A6_VgTSY.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/611844983897788416/VuOfzKXp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/611844983897788416/VuOfzKXp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54579208/1402586925",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 16 05:30:28 +0000 2016",
+		"id": 798760125670395900,
+		"id_str": "798760125670395905",
+		"text": "RT @Magi_co: 노무현 시대에 젊은 애들까지 했던 말이 '보수가 낫지 않냐? 노무현 무능해'  같은 얘기였으니 진짜 이새끼들이 자기들 비집권기에도 얼마나 기득권 지랄을 했는지 아직도 이가 갈린다. 그래서 이명박은 그지랄을 하고도 '노무현보다…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Magi_co",
+					"name": "Pade_11월에도 다우닝가 고별전",
+					"id": 307389351,
+					"id_str": "307389351",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1038,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7603,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 15 10:19:44 +0000 2016",
+			"id": 798470530865053700,
+			"id_str": "798470530865053700",
+			"text": "노무현 시대에 젊은 애들까지 했던 말이 '보수가 낫지 않냐? 노무현 무능해'  같은 얘기였으니 진짜 이새끼들이 자기들 비집권기에도 얼마나 기득권 지랄을 했는지 아직도 이가 갈린다. 그래서 이명박은 그지랄을 하고도 '노무현보다 낫다'는 말을 들었지.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 798469794538266600,
+			"in_reply_to_status_id_str": "798469794538266624",
+			"in_reply_to_user_id": 307389351,
+			"in_reply_to_user_id_str": "307389351",
+			"in_reply_to_screen_name": "Magi_co",
+			"user": {
+				"id": 307389351,
+				"id_str": "307389351",
+				"name": "Pade_11월에도 다우닝가 고별전",
+				"screen_name": "Magi_co",
+				"location": "전뇌코어",
+				"description": "저는 전뇌공간에 살고 있읍니다. 어차피 네트워크에서 논쟁 논증 따위 무의미하므로 개소리다 싶으면 무시하십시오. 논쟁을 원하시는 멘션은 가볍게 스루합니다. 버퍼 메모리가 후달리거든요. 게임 만들었고, 만들고 있고, 밥집 하는 인공지능입니다. \n#튜링_테스트_통과",
+				"url": "https://t.co/yAI2TimVz9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yAI2TimVz9",
+								"expanded_url": "http://idiot.nerd.net",
+								"display_url": "idiot.nerd.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4399,
+				"friends_count": 1025,
+				"listed_count": 102,
+				"created_at": "Sun May 29 15:07:18 +0000 2011",
+				"favourites_count": 1400,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 150212,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/701530876/2a14b862c62b2ebfa2393fd20f3851a5.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/701530876/2a14b862c62b2ebfa2393fd20f3851a5.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/752172230906290176/lLLgt8Yo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/752172230906290176/lLLgt8Yo_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 61,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 16 05:30:23 +0000 2016",
+		"id": 798760101888684000,
+		"id_str": "798760101888684036",
+		"text": "RT @Magi_co: 정권 바뀌기 전에도 털고, 바뀐 뒤에는 진짜 한 15년 탈탈 털어서 뿌리를 뽑아야 한다. 김대중 노무현 때 어중간하게 과거 화해한다고 하고 정파적 존중한다고 해서 덜 죽여 놨더니 저새끼들이 콘크리트 지지층의 힘으로 부활해서 한…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Magi_co",
+					"name": "Pade_11월에도 다우닝가 고별전",
+					"id": 307389351,
+					"id_str": "307389351",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1038,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7603,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 15 10:16:48 +0000 2016",
+			"id": 798469794538266600,
+			"id_str": "798469794538266624",
+			"text": "정권 바뀌기 전에도 털고, 바뀐 뒤에는 진짜 한 15년 탈탈 털어서 뿌리를 뽑아야 한다. 김대중 노무현 때 어중간하게 과거 화해한다고 하고 정파적 존중한다고 해서 덜 죽여 놨더니 저새끼들이 콘크리트 지지층의 힘으로 부활해서 한 짓이...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 798469560806445000,
+			"in_reply_to_status_id_str": "798469560806445056",
+			"in_reply_to_user_id": 307389351,
+			"in_reply_to_user_id_str": "307389351",
+			"in_reply_to_screen_name": "Magi_co",
+			"user": {
+				"id": 307389351,
+				"id_str": "307389351",
+				"name": "Pade_11월에도 다우닝가 고별전",
+				"screen_name": "Magi_co",
+				"location": "전뇌코어",
+				"description": "저는 전뇌공간에 살고 있읍니다. 어차피 네트워크에서 논쟁 논증 따위 무의미하므로 개소리다 싶으면 무시하십시오. 논쟁을 원하시는 멘션은 가볍게 스루합니다. 버퍼 메모리가 후달리거든요. 게임 만들었고, 만들고 있고, 밥집 하는 인공지능입니다. \n#튜링_테스트_통과",
+				"url": "https://t.co/yAI2TimVz9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yAI2TimVz9",
+								"expanded_url": "http://idiot.nerd.net",
+								"display_url": "idiot.nerd.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4399,
+				"friends_count": 1025,
+				"listed_count": 102,
+				"created_at": "Sun May 29 15:07:18 +0000 2011",
+				"favourites_count": 1400,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 150212,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/701530876/2a14b862c62b2ebfa2393fd20f3851a5.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/701530876/2a14b862c62b2ebfa2393fd20f3851a5.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/752172230906290176/lLLgt8Yo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/752172230906290176/lLLgt8Yo_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 121,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 121,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 16 05:24:31 +0000 2016",
+		"id": 798758626391228400,
+		"id_str": "798758626391228416",
+		"text": "흔히 전공 서적이 원서로 읽기 더 쉬운 면이 있다고 하는데, 지금 인공지능 번역도 그런 면이 있는 거 같네요.\nhttps://t.co/spGGC9Mg81",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/spGGC9Mg81",
+					"expanded_url": "https://twitter.com/DungeonKim/status/798711114024423425",
+					"display_url": "twitter.com/DungeonKim/sta…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1038,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7603,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 798711114024423400,
+		"quoted_status_id_str": "798711114024423425",
+		"quoted_status": {
+			"created_at": "Wed Nov 16 02:15:43 +0000 2016",
+			"id": 798711114024423400,
+			"id_str": "798711114024423425",
+			"text": "열심히 영어공부하던 사람들 보면 제가 늘 그랬습니다. 구글신이 다 해결해주실꺼야. 라고...  내 평생 영어공부 안하고 버틴 보람을 오늘 느낀다!\nhttps://t.co/6FlaWrkBeu https://t.co/esrpURnXQ9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6FlaWrkBeu",
+						"expanded_url": "http://www.itcle.com/2016/11/16/%EA%B5%AC%EA%B8%80-%EB%B2%88%EC%97%AD-%ED%95%9C%EA%B5%AD%EC%96%B4-%ED%8F%AC%ED%95%A8-9%EA%B0%9C-%EC%96%B8%EC%96%B4%EB%93%A4%EC%97%90-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%8B%A0%EA%B2%BD%EA%B8%B0%EA%B3%84/",
+						"display_url": "itcle.com/2016/11/16/%EA…",
+						"indices": [
+							82,
+							105
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 798710503346290700,
+						"id_str": "798710503346290688",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/CxWW-JZUQAAPIKN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxWW-JZUQAAPIKN.jpg",
+						"url": "https://t.co/esrpURnXQ9",
+						"display_url": "pic.twitter.com/esrpURnXQ9",
+						"expanded_url": "https://twitter.com/DungeonKim/status/798711114024423425/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 429,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 243,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1240,
+								"h": 443,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 798710503346290700,
+						"id_str": "798710503346290688",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/CxWW-JZUQAAPIKN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxWW-JZUQAAPIKN.jpg",
+						"url": "https://t.co/esrpURnXQ9",
+						"display_url": "pic.twitter.com/esrpURnXQ9",
+						"expanded_url": "https://twitter.com/DungeonKim/status/798711114024423425/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 429,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 243,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1240,
+								"h": 443,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 90841134,
+				"id_str": "90841134",
+				"name": "데브캣 나크",
+				"screen_name": "DungeonKim",
+				"location": "",
+				"description": "김동건/넥슨 데브캣 스튜디오 PD/마비노기 시리즈 개발/게임,개발,TV,아이돌,애니,만화,영화 기타 잡덕/귀여운 고양이 사진 전파/러블리너스",
+				"url": "https://t.co/jnppc2VFCo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jnppc2VFCo",
+								"expanded_url": "http://devcat.nexon.com/",
+								"display_url": "devcat.nexon.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5260,
+				"friends_count": 353,
+				"listed_count": 124,
+				"created_at": "Wed Nov 18 10:16:54 +0000 2009",
+				"favourites_count": 2640,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7060,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/687909847178715136/gVo0voBd_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/687909847178715136/gVo0voBd_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/90841134/1448244498",
+				"profile_link_color": "0090FF",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 328,
+			"favorite_count": 96,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Nov 16 05:09:20 +0000 2016",
 		"id": 798754804218531800,
 		"id_str": "798754804218531840",
