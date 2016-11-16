@@ -1,6 +1,739 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Wed Nov 16 04:12:55 +0000 2016",
+		"id": 798740606679797800,
+		"id_str": "798740606679797760",
+		"text": "RT @flyhendrixfly_: 계급정치와 젠더정치와 모든 정체성의 정치학에 기반을 둔 운동은 '안전'에 모든 힘을 쓰다가, 조만간 '게토'와 '게이티드 커뮤니티' 사이에서 헤매게 될 것이다. 나름 '가까웠던' 과거의 동지 모두를 상대하기 싫다…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "flyhendrixfly_",
+					"name": "헨집사 a.k.a. 헨드릭스",
+					"id": 2821627776,
+					"id_str": "2821627776",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1038,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7585,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 16 03:25:50 +0000 2016",
+			"id": 798728759046066200,
+			"id_str": "798728759046066176",
+			"text": "계급정치와 젠더정치와 모든 정체성의 정치학에 기반을 둔 운동은 '안전'에 모든 힘을 쓰다가, 조만간 '게토'와 '게이티드 커뮤니티' 사이에서 헤매게 될 것이다. 나름 '가까웠던' 과거의 동지 모두를 상대하기 싫다 버리고 원거리에서 조롱하다 적으로 돌림",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 798727905324847100,
+			"in_reply_to_status_id_str": "798727905324847104",
+			"in_reply_to_user_id": 2821627776,
+			"in_reply_to_user_id_str": "2821627776",
+			"in_reply_to_screen_name": "flyhendrixfly_",
+			"user": {
+				"id": 2821627776,
+				"id_str": "2821627776",
+				"name": "헨집사 a.k.a. 헨드릭스",
+				"screen_name": "flyhendrixfly_",
+				"location": "신촌 사대문안 그리고 ㄱㅈㄷ",
+				"description": "데이터와 친해지는 중",
+				"url": "https://t.co/rqVYkzoqnC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rqVYkzoqnC",
+								"expanded_url": "http://flyhendrixfly.net",
+								"display_url": "flyhendrixfly.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2547,
+				"friends_count": 466,
+				"listed_count": 81,
+				"created_at": "Sat Sep 20 11:04:46 +0000 2014",
+				"favourites_count": 1988,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16872,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/769904349359190017/-yFMhqPy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/769904349359190017/-yFMhqPy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2821627776/1472394477",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 16 04:12:50 +0000 2016",
+		"id": 798740588778532900,
+		"id_str": "798740588778532865",
+		"text": "RT @flyhendrixfly_: '함께 살 권리'가 '떨어져 살 권리'에게 밀리기 시작하는 게 2010년대의 정치라고 생각한다. 안전이별은 이슈지만, 안전한 결합과 공존에 대해서는 프레임을 만들지 못한다. 인종과 젠더와 계급이 분리되고 모두 다른…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "flyhendrixfly_",
+					"name": "헨집사 a.k.a. 헨드릭스",
+					"id": 2821627776,
+					"id_str": "2821627776",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1038,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7585,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 16 03:22:26 +0000 2016",
+			"id": 798727905324847100,
+			"id_str": "798727905324847104",
+			"text": "'함께 살 권리'가 '떨어져 살 권리'에게 밀리기 시작하는 게 2010년대의 정치라고 생각한다. 안전이별은 이슈지만, 안전한 결합과 공존에 대해서는 프레임을 만들지 못한다. 인종과 젠더와 계급이 분리되고 모두 다른 장소에 살 때, 민주주의는 가능할까?",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 798727405699379200,
+			"in_reply_to_status_id_str": "798727405699379200",
+			"in_reply_to_user_id": 2821627776,
+			"in_reply_to_user_id_str": "2821627776",
+			"in_reply_to_screen_name": "flyhendrixfly_",
+			"user": {
+				"id": 2821627776,
+				"id_str": "2821627776",
+				"name": "헨집사 a.k.a. 헨드릭스",
+				"screen_name": "flyhendrixfly_",
+				"location": "신촌 사대문안 그리고 ㄱㅈㄷ",
+				"description": "데이터와 친해지는 중",
+				"url": "https://t.co/rqVYkzoqnC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rqVYkzoqnC",
+								"expanded_url": "http://flyhendrixfly.net",
+								"display_url": "flyhendrixfly.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2547,
+				"friends_count": 466,
+				"listed_count": 81,
+				"created_at": "Sat Sep 20 11:04:46 +0000 2014",
+				"favourites_count": 1988,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16872,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/769904349359190017/-yFMhqPy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/769904349359190017/-yFMhqPy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2821627776/1472394477",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 16 04:12:45 +0000 2016",
+		"id": 798740564430573600,
+		"id_str": "798740564430573568",
+		"text": "RT @flyhendrixfly_: 1960년대 흑인민권운동은 'we together'에 관한 이야기였다. 버스에 같이 앉고 식당에서 같이 밥을 먹을 권리. 그런데 현재의 정치는 떨어져 지낼 권리에 대해서는 말하되, 서로 불편한 사람들이 함께 모여…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "flyhendrixfly_",
+					"name": "헨집사 a.k.a. 헨드릭스",
+					"id": 2821627776,
+					"id_str": "2821627776",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1038,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7585,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 16 03:20:27 +0000 2016",
+			"id": 798727405699379200,
+			"id_str": "798727405699379200",
+			"text": "1960년대 흑인민권운동은 'we together'에 관한 이야기였다. 버스에 같이 앉고 식당에서 같이 밥을 먹을 권리. 그런데 현재의 정치는 떨어져 지낼 권리에 대해서는 말하되, 서로 불편한 사람들이 함께 모여 불편을 푸는 것을 회피하거나 혐오한다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 798724882716426200,
+			"in_reply_to_status_id_str": "798724882716426240",
+			"in_reply_to_user_id": 2821627776,
+			"in_reply_to_user_id_str": "2821627776",
+			"in_reply_to_screen_name": "flyhendrixfly_",
+			"user": {
+				"id": 2821627776,
+				"id_str": "2821627776",
+				"name": "헨집사 a.k.a. 헨드릭스",
+				"screen_name": "flyhendrixfly_",
+				"location": "신촌 사대문안 그리고 ㄱㅈㄷ",
+				"description": "데이터와 친해지는 중",
+				"url": "https://t.co/rqVYkzoqnC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rqVYkzoqnC",
+								"expanded_url": "http://flyhendrixfly.net",
+								"display_url": "flyhendrixfly.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2547,
+				"friends_count": 466,
+				"listed_count": 81,
+				"created_at": "Sat Sep 20 11:04:46 +0000 2014",
+				"favourites_count": 1988,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16872,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/769904349359190017/-yFMhqPy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/769904349359190017/-yFMhqPy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2821627776/1472394477",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Nov 16 03:22:08 +0000 2016",
+		"id": 798727827189137400,
+		"id_str": "798727827189137409",
+		"text": "RT @doskharaas: 괭장히 위험한 가설이 머리에서 만들어지고 있다. 사진은 수전 그린필드의 &lt;마인드 체인지&gt;. 이 책의 캡쳐한 부분과 줄리언 제인스의 &lt;의식의 진화&gt;와 월터 옹의 &lt;구술문화와 문자문화&gt;가 결합된 위험한 가설이 태어나고 았다.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "doskharaas",
+					"name": "손 지상",
+					"id": 187070498,
+					"id_str": "187070498",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1038,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7585,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 13 14:15:58 +0000 2016",
+			"id": 797805206847115300,
+			"id_str": "797805206847115264",
+			"text": "괭장히 위험한 가설이 머리에서 만들어지고 있다. 사진은 수전 그린필드의 &lt;마인드 체인지&gt;. 이 책의 캡쳐한 부분과 줄리언 제인스의 &lt;의식의 진화&gt;와 월터 옹의 &lt;구술문화와 문자문화&gt;가 결합된 위험한 가설이… https://t.co/04jFrLKV9K",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/04jFrLKV9K",
+						"expanded_url": "https://twitter.com/i/web/status/797805206847115264",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							134,
+							157
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 187070498,
+				"id_str": "187070498",
+				"name": "손 지상",
+				"screen_name": "doskharaas",
+				"location": "전이공간",
+				"description": "원고의뢰: kaiju@naver.com / [데스매치로 속죄하라 - 국회의사당 학살사건], [스쿨 하프보일드], [그대와의 거리, 일만킬로미터], 작법서 [스토리 트레이닝] 이론편, 실전편, 단편소설편을 썼습니다 / 구입가능 저작목록 https://t.co/MetnBIHaen",
+				"url": "https://t.co/MetnBIHaen",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MetnBIHaen",
+								"expanded_url": "http://goo.gl/qdjBJY",
+								"display_url": "goo.gl/qdjBJY",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/MetnBIHaen",
+								"expanded_url": "http://goo.gl/qdjBJY",
+								"display_url": "goo.gl/qdjBJY",
+								"indices": [
+									131,
+									154
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1592,
+				"friends_count": 773,
+				"listed_count": 46,
+				"created_at": "Sun Sep 05 04:57:43 +0000 2010",
+				"favourites_count": 8969,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 104143,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/783651162675261441/-e4BuV1n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/783651162675261441/-e4BuV1n_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/187070498/1475229627",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Nov 15 19:09:31 +0000 2016",
 		"id": 798603858058440700,
 		"id_str": "798603858058440705",
