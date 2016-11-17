@@ -1,6 +1,2825 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Thu Nov 17 04:12:17 +0000 2016",
+		"id": 799102836625653800,
+		"id_str": "799102836625653760",
+		"text": "@dvddog @sayanghwa 저도 직접적으로 그렇단 게 아니라, 보다 상위차원인, '이어짐'을 말한 거네요. 댕댕이 님도 이 말씀 아닌가요?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dvddog",
+					"name": "데이비드 댕댕이",
+					"id": 3138788114,
+					"id_str": "3138788114",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "sayanghwa",
+					"name": "햇살 속의 레이먼드",
+					"id": 1696420058,
+					"id_str": "1696420058",
+					"indices": [
+						8,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 799102014571487200,
+		"in_reply_to_status_id_str": "799102014571487232",
+		"in_reply_to_user_id": 3138788114,
+		"in_reply_to_user_id_str": "3138788114",
+		"in_reply_to_screen_name": "dvddog",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7693,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Nov 17 04:12:16 +0000 2016",
+		"id": 799102830313226200,
+		"id_str": "799102830313226240",
+		"text": "RT @dvddog: @EmptyKnK @sayanghwa 아, 아니... 이 부분은, 뭐랄까, 타인의 의지를 존중하거나 받아들이려는 형태로 그려진 적이 없어. 그렇게 나오는 건 딱 하나 메탈기어 솔리드 4 소설판뿐임. 희망은 메탈기어에 '가탁'하고…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dvddog",
+					"name": "데이비드 댕댕이",
+					"id": 3138788114,
+					"id_str": "3138788114",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "EmptyKnK",
+					"name": "Solitude",
+					"id": 3255599052,
+					"id_str": "3255599052",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"screen_name": "sayanghwa",
+					"name": "햇살 속의 레이먼드",
+					"id": 1696420058,
+					"id_str": "1696420058",
+					"indices": [
+						22,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7693,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 17 04:09:01 +0000 2016",
+			"id": 799102014571487200,
+			"id_str": "799102014571487232",
+			"text": "@EmptyKnK @sayanghwa 아, 아니... 이 부분은, 뭐랄까, 타인의 의지를 존중하거나 받아들이려는 형태로 그려진 적이 없어. 그렇게 나오는 건 딱 하나 메탈기어 솔리드 4 소설판뿐임. 희망은 메탈기어에 '가탁'하고 있는 게 아닐지?",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EmptyKnK",
+						"name": "Solitude",
+						"id": 3255599052,
+						"id_str": "3255599052",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "sayanghwa",
+						"name": "햇살 속의 레이먼드",
+						"id": 1696420058,
+						"id_str": "1696420058",
+						"indices": [
+							10,
+							20
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 799101622995431400,
+			"in_reply_to_status_id_str": "799101622995431425",
+			"in_reply_to_user_id": 3255599052,
+			"in_reply_to_user_id_str": "3255599052",
+			"in_reply_to_screen_name": "EmptyKnK",
+			"user": {
+				"id": 3138788114,
+				"id_str": "3138788114",
+				"name": "데이비드 댕댕이",
+				"screen_name": "dvddog",
+				"location": "세이셸",
+				"description": "개점휴업 희망중",
+				"url": "https://t.co/9mpfiKtEof",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9mpfiKtEof",
+								"expanded_url": "http://noobcoela.egloos.com/",
+								"display_url": "noobcoela.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 370,
+				"friends_count": 82,
+				"listed_count": 17,
+				"created_at": "Sat Apr 04 10:07:10 +0000 2015",
+				"favourites_count": 778,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 100530,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3138788114/1447160790",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Nov 17 04:10:27 +0000 2016",
+		"id": 799102376502145000,
+		"id_str": "799102376502145024",
+		"text": "@dvddog @sayanghwa '영원한 몰락'은 아웃사이더로서 저 역시 지니고 있는 '열망'이지만 거기에 반하는 게 올바른 윤리죠. 이걸 윤리화하는 건 옴진리교를 비롯한 다른 이들의 실수를 거듭하는 것. 이 '거듭'을 그렇게 생각하면 어떡하나요.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dvddog",
+					"name": "데이비드 댕댕이",
+					"id": 3138788114,
+					"id_str": "3138788114",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "sayanghwa",
+					"name": "햇살 속의 레이먼드",
+					"id": 1696420058,
+					"id_str": "1696420058",
+					"indices": [
+						8,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 799101622995431400,
+		"in_reply_to_status_id_str": "799101622995431425",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7693,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Nov 17 04:07:28 +0000 2016",
+		"id": 799101622995431400,
+		"id_str": "799101622995431425",
+		"text": "@dvddog @sayanghwa 저는 당연히 받았다고 봤는데, 여하튼 무슨 말씀인지 납득했어요. '학살'과 '계승'이란 두 모티프가 그의 안에서는 하나로 여겨졌다는 거네요. 하지만 그건 더 큰 문제라고 봐요. 열망과 윤리의 결합이고.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dvddog",
+					"name": "데이비드 댕댕이",
+					"id": 3138788114,
+					"id_str": "3138788114",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "sayanghwa",
+					"name": "햇살 속의 레이먼드",
+					"id": 1696420058,
+					"id_str": "1696420058",
+					"indices": [
+						8,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 799099706328522800,
+		"in_reply_to_status_id_str": "799099706328522752",
+		"in_reply_to_user_id": 3138788114,
+		"in_reply_to_user_id_str": "3138788114",
+		"in_reply_to_screen_name": "dvddog",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7693,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Nov 17 04:04:40 +0000 2016",
+		"id": 799100921644924900,
+		"id_str": "799100921644924928",
+		"text": "RT @dvddog: @EmptyKnK @sayanghwa \"몇 년 뒤인가, 몇십 년 뒤인가, 몇 백 년 뒤인가 알 수 없지만, 어쨌거나 많은 사람들의 목숨이 없어진 뒤에.\"\n\n이건 에필로그에서 학살문법에 셰퍼드가 영향을 받은 것인가? 하는 이중트릭…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dvddog",
+					"name": "데이비드 댕댕이",
+					"id": 3138788114,
+					"id_str": "3138788114",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "EmptyKnK",
+					"name": "Solitude",
+					"id": 3255599052,
+					"id_str": "3255599052",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"screen_name": "sayanghwa",
+					"name": "햇살 속의 레이먼드",
+					"id": 1696420058,
+					"id_str": "1696420058",
+					"indices": [
+						22,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7693,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 17 03:59:51 +0000 2016",
+			"id": 799099706328522800,
+			"id_str": "799099706328522752",
+			"text": "@EmptyKnK @sayanghwa \"몇 년 뒤인가, 몇십 년 뒤인가, 몇 백 년 뒤인가 알 수 없지만, 어쨌거나 많은 사람들의 목숨이 없어진 뒤에.\"\n\n이건 에필로그에서 학살문법에 셰퍼드가 영향을 받은 것인가? 하는 이중트릭으로 이어짐...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EmptyKnK",
+						"name": "Solitude",
+						"id": 3255599052,
+						"id_str": "3255599052",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "sayanghwa",
+						"name": "햇살 속의 레이먼드",
+						"id": 1696420058,
+						"id_str": "1696420058",
+						"indices": [
+							10,
+							20
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 799099535423197200,
+			"in_reply_to_status_id_str": "799099535423197184",
+			"in_reply_to_user_id": 3138788114,
+			"in_reply_to_user_id_str": "3138788114",
+			"in_reply_to_screen_name": "dvddog",
+			"user": {
+				"id": 3138788114,
+				"id_str": "3138788114",
+				"name": "데이비드 댕댕이",
+				"screen_name": "dvddog",
+				"location": "세이셸",
+				"description": "개점휴업 희망중",
+				"url": "https://t.co/9mpfiKtEof",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9mpfiKtEof",
+								"expanded_url": "http://noobcoela.egloos.com/",
+								"display_url": "noobcoela.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 370,
+				"friends_count": 82,
+				"listed_count": 17,
+				"created_at": "Sat Apr 04 10:07:10 +0000 2015",
+				"favourites_count": 778,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 100530,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3138788114/1447160790",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Nov 17 04:04:38 +0000 2016",
+		"id": 799100909607206900,
+		"id_str": "799100909607206912",
+		"text": "RT @dvddog: @EmptyKnK @sayanghwa \" 그보다도 생존을 위한 툴의 하나에 지나지 않는다, 라고 생각할 때, 그것을 조정하는 것도 있으리라고. 그러니까, 그 세계도 차분해질 때 즈음 차분해지겠지요.\"",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dvddog",
+					"name": "데이비드 댕댕이",
+					"id": 3138788114,
+					"id_str": "3138788114",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "EmptyKnK",
+					"name": "Solitude",
+					"id": 3255599052,
+					"id_str": "3255599052",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"screen_name": "sayanghwa",
+					"name": "햇살 속의 레이먼드",
+					"id": 1696420058,
+					"id_str": "1696420058",
+					"indices": [
+						22,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7693,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 17 03:59:10 +0000 2016",
+			"id": 799099535423197200,
+			"id_str": "799099535423197184",
+			"text": "@EmptyKnK @sayanghwa \" 그보다도 생존을 위한 툴의 하나에 지나지 않는다, 라고 생각할 때, 그것을 조정하는 것도 있으리라고. 그러니까, 그 세계도 차분해질 때 즈음 차분해지겠지요.\"",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EmptyKnK",
+						"name": "Solitude",
+						"id": 3255599052,
+						"id_str": "3255599052",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "sayanghwa",
+						"name": "햇살 속의 레이먼드",
+						"id": 1696420058,
+						"id_str": "1696420058",
+						"indices": [
+							10,
+							20
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 799099485427089400,
+			"in_reply_to_status_id_str": "799099485427089408",
+			"in_reply_to_user_id": 3138788114,
+			"in_reply_to_user_id_str": "3138788114",
+			"in_reply_to_screen_name": "dvddog",
+			"user": {
+				"id": 3138788114,
+				"id_str": "3138788114",
+				"name": "데이비드 댕댕이",
+				"screen_name": "dvddog",
+				"location": "세이셸",
+				"description": "개점휴업 희망중",
+				"url": "https://t.co/9mpfiKtEof",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9mpfiKtEof",
+								"expanded_url": "http://noobcoela.egloos.com/",
+								"display_url": "noobcoela.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 370,
+				"friends_count": 82,
+				"listed_count": 17,
+				"created_at": "Sat Apr 04 10:07:10 +0000 2015",
+				"favourites_count": 778,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 100530,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3138788114/1447160790",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Nov 17 04:04:33 +0000 2016",
+		"id": 799100891533951000,
+		"id_str": "799100891533950976",
+		"text": "RT @dvddog: @EmptyKnK @sayanghwa \"처음부터 해독제가 어쩌고 할 이야기가 아닙니다. 문법자체가 어떠한 상황의 해독제로써 있으니까요. 이성이란 것은 절대적인 무언가가 아니라, 어디까지나 진화의 과정에서 태어났다,\"",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dvddog",
+					"name": "데이비드 댕댕이",
+					"id": 3138788114,
+					"id_str": "3138788114",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "EmptyKnK",
+					"name": "Solitude",
+					"id": 3255599052,
+					"id_str": "3255599052",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"screen_name": "sayanghwa",
+					"name": "햇살 속의 레이먼드",
+					"id": 1696420058,
+					"id_str": "1696420058",
+					"indices": [
+						22,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7693,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 17 03:58:58 +0000 2016",
+			"id": 799099485427089400,
+			"id_str": "799099485427089408",
+			"text": "@EmptyKnK @sayanghwa \"처음부터 해독제가 어쩌고 할 이야기가 아닙니다. 문법자체가 어떠한 상황의 해독제로써 있으니까요. 이성이란 것은 절대적인 무언가가 아니라, 어디까지나 진화의 과정에서 태어났다,\"",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EmptyKnK",
+						"name": "Solitude",
+						"id": 3255599052,
+						"id_str": "3255599052",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "sayanghwa",
+						"name": "햇살 속의 레이먼드",
+						"id": 1696420058,
+						"id_str": "1696420058",
+						"indices": [
+							10,
+							20
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 799099308997939200,
+			"in_reply_to_status_id_str": "799099308997939200",
+			"in_reply_to_user_id": 3138788114,
+			"in_reply_to_user_id_str": "3138788114",
+			"in_reply_to_screen_name": "dvddog",
+			"user": {
+				"id": 3138788114,
+				"id_str": "3138788114",
+				"name": "데이비드 댕댕이",
+				"screen_name": "dvddog",
+				"location": "세이셸",
+				"description": "개점휴업 희망중",
+				"url": "https://t.co/9mpfiKtEof",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9mpfiKtEof",
+								"expanded_url": "http://noobcoela.egloos.com/",
+								"display_url": "noobcoela.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 370,
+				"friends_count": 82,
+				"listed_count": 17,
+				"created_at": "Sat Apr 04 10:07:10 +0000 2015",
+				"favourites_count": 778,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 100530,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3138788114/1447160790",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Nov 17 04:04:31 +0000 2016",
+		"id": 799100880284831700,
+		"id_str": "799100880284831745",
+		"text": "RT @dvddog: @EmptyKnK @sayanghwa 학살문법 자체가 인구 과밀도에 의해 발생함. 반대로 말하면 인구 과밀도란 환경이 충분하지 않으면 발동불가능. 이 점은 일부러 흐릿하게 처리했는데, 인터뷰에선 정확히 언급함.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dvddog",
+					"name": "데이비드 댕댕이",
+					"id": 3138788114,
+					"id_str": "3138788114",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "EmptyKnK",
+					"name": "Solitude",
+					"id": 3255599052,
+					"id_str": "3255599052",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"screen_name": "sayanghwa",
+					"name": "햇살 속의 레이먼드",
+					"id": 1696420058,
+					"id_str": "1696420058",
+					"indices": [
+						22,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7693,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 17 03:58:16 +0000 2016",
+			"id": 799099308997939200,
+			"id_str": "799099308997939200",
+			"text": "@EmptyKnK @sayanghwa 학살문법 자체가 인구 과밀도에 의해 발생함. 반대로 말하면 인구 과밀도란 환경이 충분하지 않으면 발동불가능. 이 점은 일부러 흐릿하게 처리했는데, 인터뷰에선 정확히 언급함.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EmptyKnK",
+						"name": "Solitude",
+						"id": 3255599052,
+						"id_str": "3255599052",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "sayanghwa",
+						"name": "햇살 속의 레이먼드",
+						"id": 1696420058,
+						"id_str": "1696420058",
+						"indices": [
+							10,
+							20
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 799099015589568500,
+			"in_reply_to_status_id_str": "799099015589568512",
+			"in_reply_to_user_id": 3255599052,
+			"in_reply_to_user_id_str": "3255599052",
+			"in_reply_to_screen_name": "EmptyKnK",
+			"user": {
+				"id": 3138788114,
+				"id_str": "3138788114",
+				"name": "데이비드 댕댕이",
+				"screen_name": "dvddog",
+				"location": "세이셸",
+				"description": "개점휴업 희망중",
+				"url": "https://t.co/9mpfiKtEof",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9mpfiKtEof",
+								"expanded_url": "http://noobcoela.egloos.com/",
+								"display_url": "noobcoela.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 370,
+				"friends_count": 82,
+				"listed_count": 17,
+				"created_at": "Sat Apr 04 10:07:10 +0000 2015",
+				"favourites_count": 778,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 100530,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3138788114/1447160790",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Nov 17 04:04:26 +0000 2016",
+		"id": 799100861100081200,
+		"id_str": "799100861100081152",
+		"text": "RT @dvddog: @EmptyKnK @sayanghwa 중단편인 &lt;from nothing with love&gt;같은 경우도 대표적인 게, 결국 카피에 카피를 거듭한 결과 007(가칭)의 '자아'나 '내면'은 상실되었지만, 그래도 007(가칭)&amp;그의…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dvddog",
+					"name": "데이비드 댕댕이",
+					"id": 3138788114,
+					"id_str": "3138788114",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "EmptyKnK",
+					"name": "Solitude",
+					"id": 3255599052,
+					"id_str": "3255599052",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"screen_name": "sayanghwa",
+					"name": "햇살 속의 레이먼드",
+					"id": 1696420058,
+					"id_str": "1696420058",
+					"indices": [
+						22,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7693,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 17 03:56:04 +0000 2016",
+			"id": 799098756184449000,
+			"id_str": "799098756184449024",
+			"text": "@EmptyKnK @sayanghwa 중단편인 &lt;from nothing with love&gt;같은 경우도 대표적인 게, 결국 카피에 카피를 거듭한 결과 007(가칭)의 '자아'나 '내면'은 상실되었지만, 그래도 007(가칭)&amp;그의 일기는 계속 존속함.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EmptyKnK",
+						"name": "Solitude",
+						"id": 3255599052,
+						"id_str": "3255599052",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "sayanghwa",
+						"name": "햇살 속의 레이먼드",
+						"id": 1696420058,
+						"id_str": "1696420058",
+						"indices": [
+							10,
+							20
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 799098227391725600,
+			"in_reply_to_status_id_str": "799098227391725569",
+			"in_reply_to_user_id": 3138788114,
+			"in_reply_to_user_id_str": "3138788114",
+			"in_reply_to_screen_name": "dvddog",
+			"user": {
+				"id": 3138788114,
+				"id_str": "3138788114",
+				"name": "데이비드 댕댕이",
+				"screen_name": "dvddog",
+				"location": "세이셸",
+				"description": "개점휴업 희망중",
+				"url": "https://t.co/9mpfiKtEof",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9mpfiKtEof",
+								"expanded_url": "http://noobcoela.egloos.com/",
+								"display_url": "noobcoela.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 370,
+				"friends_count": 82,
+				"listed_count": 17,
+				"created_at": "Sat Apr 04 10:07:10 +0000 2015",
+				"favourites_count": 778,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 100530,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3138788114/1447160790",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Nov 17 04:04:23 +0000 2016",
+		"id": 799100847481233400,
+		"id_str": "799100847481233408",
+		"text": "RT @dvddog: @EmptyKnK @sayanghwa 제로로 돌아가지 않는다는 게 핵심포인트임. 그러고 나서 새로운 지평이 펼쳐지거나 인류가 멸망하는 게 아니라 '계속 유지됨'. 학살기관도 인류가 줄어들면 다시 학살문법이 멈추게 되어 있는 거잖…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dvddog",
+					"name": "데이비드 댕댕이",
+					"id": 3138788114,
+					"id_str": "3138788114",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "EmptyKnK",
+					"name": "Solitude",
+					"id": 3255599052,
+					"id_str": "3255599052",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"screen_name": "sayanghwa",
+					"name": "햇살 속의 레이먼드",
+					"id": 1696420058,
+					"id_str": "1696420058",
+					"indices": [
+						22,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7693,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 17 03:53:58 +0000 2016",
+			"id": 799098227391725600,
+			"id_str": "799098227391725569",
+			"text": "@EmptyKnK @sayanghwa 제로로 돌아가지 않는다는 게 핵심포인트임. 그러고 나서 새로운 지평이 펼쳐지거나 인류가 멸망하는 게 아니라 '계속 유지됨'. 학살기관도 인류가 줄어들면 다시 학살문법이 멈추게 되어 있는 거잖아?",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EmptyKnK",
+						"name": "Solitude",
+						"id": 3255599052,
+						"id_str": "3255599052",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"screen_name": "sayanghwa",
+						"name": "햇살 속의 레이먼드",
+						"id": 1696420058,
+						"id_str": "1696420058",
+						"indices": [
+							10,
+							20
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 799097732354838500,
+			"in_reply_to_status_id_str": "799097732354838529",
+			"in_reply_to_user_id": 3255599052,
+			"in_reply_to_user_id_str": "3255599052",
+			"in_reply_to_screen_name": "EmptyKnK",
+			"user": {
+				"id": 3138788114,
+				"id_str": "3138788114",
+				"name": "데이비드 댕댕이",
+				"screen_name": "dvddog",
+				"location": "세이셸",
+				"description": "개점휴업 희망중",
+				"url": "https://t.co/9mpfiKtEof",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9mpfiKtEof",
+								"expanded_url": "http://noobcoela.egloos.com/",
+								"display_url": "noobcoela.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 370,
+				"friends_count": 82,
+				"listed_count": 17,
+				"created_at": "Sat Apr 04 10:07:10 +0000 2015",
+				"favourites_count": 778,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 100530,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3138788114/1447160790",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Nov 17 03:57:06 +0000 2016",
+		"id": 799099015589568500,
+		"id_str": "799099015589568512",
+		"text": "@dvddog @sayanghwa 그런 설정이 작중에 있었나요?  // 설사 그렇다 하더라도 학살을 택하고 마는 이상 방향성을 극복하진 못한 거라 봐요.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dvddog",
+					"name": "데이비드 댕댕이",
+					"id": 3138788114,
+					"id_str": "3138788114",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "sayanghwa",
+					"name": "햇살 속의 레이먼드",
+					"id": 1696420058,
+					"id_str": "1696420058",
+					"indices": [
+						8,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 799098227391725600,
+		"in_reply_to_status_id_str": "799098227391725569",
+		"in_reply_to_user_id": 3138788114,
+		"in_reply_to_user_id_str": "3138788114",
+		"in_reply_to_screen_name": "dvddog",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7693,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Nov 17 03:52:00 +0000 2016",
+		"id": 799097732354838500,
+		"id_str": "799097732354838529",
+		"text": "@dvddog @sayanghwa 저는 공의 경계만 평가하는 거예요. 그리고 어느 부분에서 이토의 윤리가 있었다고 생각하시는 건지 모르겠어요. 매 엔딩마다 결국은 극복에 실패하고 제로로 돌아가는 결말을 선택하지 않았나요, 이토는.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dvddog",
+					"name": "데이비드 댕댕이",
+					"id": 3138788114,
+					"id_str": "3138788114",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "sayanghwa",
+					"name": "햇살 속의 레이먼드",
+					"id": 1696420058,
+					"id_str": "1696420058",
+					"indices": [
+						8,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 799095416700534800,
+		"in_reply_to_status_id_str": "799095416700534784",
+		"in_reply_to_user_id": 3138788114,
+		"in_reply_to_user_id_str": "3138788114",
+		"in_reply_to_screen_name": "dvddog",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7693,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Nov 17 03:50:38 +0000 2016",
+		"id": 799097389894156300,
+		"id_str": "799097389894156293",
+		"text": "RT @dvddog: @EmptyKnK 아, 풀어서 설명하면 '세계가 파멸하기를 바라는 욕망'보다도 '계속해서 파멸해나가는데도, 고리가 닫혀서 제로로 돌아가지도 않는' 상태를 그려보고자 했던 게 야심 아닌가 싶음...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dvddog",
+					"name": "데이비드 댕댕이",
+					"id": 3138788114,
+					"id_str": "3138788114",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "EmptyKnK",
+					"name": "Solitude",
+					"id": 3255599052,
+					"id_str": "3255599052",
+					"indices": [
+						12,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7693,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 17 03:30:14 +0000 2016",
+			"id": 799092253150982100,
+			"id_str": "799092253150982144",
+			"text": "@EmptyKnK 아, 풀어서 설명하면 '세계가 파멸하기를 바라는 욕망'보다도 '계속해서 파멸해나가는데도, 고리가 닫혀서 제로로 돌아가지도 않는' 상태를 그려보고자 했던 게 야심 아닌가 싶음...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EmptyKnK",
+						"name": "Solitude",
+						"id": 3255599052,
+						"id_str": "3255599052",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 799091564723044400,
+			"in_reply_to_status_id_str": "799091564723044352",
+			"in_reply_to_user_id": 3138788114,
+			"in_reply_to_user_id_str": "3138788114",
+			"in_reply_to_screen_name": "dvddog",
+			"user": {
+				"id": 3138788114,
+				"id_str": "3138788114",
+				"name": "데이비드 댕댕이",
+				"screen_name": "dvddog",
+				"location": "세이셸",
+				"description": "개점휴업 희망중",
+				"url": "https://t.co/9mpfiKtEof",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9mpfiKtEof",
+								"expanded_url": "http://noobcoela.egloos.com/",
+								"display_url": "noobcoela.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 370,
+				"friends_count": 82,
+				"listed_count": 17,
+				"created_at": "Sat Apr 04 10:07:10 +0000 2015",
+				"favourites_count": 778,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 100530,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3138788114/1447160790",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Nov 17 03:50:35 +0000 2016",
+		"id": 799097374865924100,
+		"id_str": "799097374865924096",
+		"text": "RT @dvddog: @EmptyKnK 그게 한계라면 한계겠지만... 여하간 세계를 파멸시키는 욕망이라기보다는 '지속가능한 파산'(?)을 그려보겠다는 쪽에 더 초점이 맞춰져 있지 않나 싶긴 함. 딱 거기까지란 점에선 한계라는 걸 동의하지만.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dvddog",
+					"name": "데이비드 댕댕이",
+					"id": 3138788114,
+					"id_str": "3138788114",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "EmptyKnK",
+					"name": "Solitude",
+					"id": 3255599052,
+					"id_str": "3255599052",
+					"indices": [
+						12,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7693,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 17 03:27:30 +0000 2016",
+			"id": 799091564723044400,
+			"id_str": "799091564723044352",
+			"text": "@EmptyKnK 그게 한계라면 한계겠지만... 여하간 세계를 파멸시키는 욕망이라기보다는 '지속가능한 파산'(?)을 그려보겠다는 쪽에 더 초점이 맞춰져 있지 않나 싶긴 함. 딱 거기까지란 점에선 한계라는 걸 동의하지만.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EmptyKnK",
+						"name": "Solitude",
+						"id": 3255599052,
+						"id_str": "3255599052",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 799091084638855200,
+			"in_reply_to_status_id_str": "799091084638855168",
+			"in_reply_to_user_id": 3138788114,
+			"in_reply_to_user_id_str": "3138788114",
+			"in_reply_to_screen_name": "dvddog",
+			"user": {
+				"id": 3138788114,
+				"id_str": "3138788114",
+				"name": "데이비드 댕댕이",
+				"screen_name": "dvddog",
+				"location": "세이셸",
+				"description": "개점휴업 희망중",
+				"url": "https://t.co/9mpfiKtEof",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9mpfiKtEof",
+								"expanded_url": "http://noobcoela.egloos.com/",
+								"display_url": "noobcoela.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 370,
+				"friends_count": 82,
+				"listed_count": 17,
+				"created_at": "Sat Apr 04 10:07:10 +0000 2015",
+				"favourites_count": 778,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 100530,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3138788114/1447160790",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Nov 17 03:50:31 +0000 2016",
+		"id": 799097358675943400,
+		"id_str": "799097358675943425",
+		"text": "RT @dvddog: @EmptyKnK 어떤 열망이라기보다는 윤리라고 보는데, 그 이전까지 계승이니 어쩌니 죽은자에 대한 애도니 하는 얘기가 에세이나 칼럼에선 잔뜩 나오는데 정작 '자기 작품'에선 한 번도 그 얘기를 안 하거든. 그게 나오는 건 메기…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dvddog",
+					"name": "데이비드 댕댕이",
+					"id": 3138788114,
+					"id_str": "3138788114",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "EmptyKnK",
+					"name": "Solitude",
+					"id": 3255599052,
+					"id_str": "3255599052",
+					"indices": [
+						12,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7693,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 17 03:25:35 +0000 2016",
+			"id": 799091084638855200,
+			"id_str": "799091084638855168",
+			"text": "@EmptyKnK 어떤 열망이라기보다는 윤리라고 보는데, 그 이전까지 계승이니 어쩌니 죽은자에 대한 애도니 하는 얘기가 에세이나 칼럼에선 잔뜩 나오는데 정작 '자기 작품'에선 한 번도 그 얘기를 안 하거든. 그게 나오는 건 메기솔4 노벨라이즈뿐이고.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EmptyKnK",
+						"name": "Solitude",
+						"id": 3255599052,
+						"id_str": "3255599052",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 799090236689039400,
+			"in_reply_to_status_id_str": "799090236689039361",
+			"in_reply_to_user_id": 3138788114,
+			"in_reply_to_user_id_str": "3138788114",
+			"in_reply_to_screen_name": "dvddog",
+			"user": {
+				"id": 3138788114,
+				"id_str": "3138788114",
+				"name": "데이비드 댕댕이",
+				"screen_name": "dvddog",
+				"location": "세이셸",
+				"description": "개점휴업 희망중",
+				"url": "https://t.co/9mpfiKtEof",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9mpfiKtEof",
+								"expanded_url": "http://noobcoela.egloos.com/",
+								"display_url": "noobcoela.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 370,
+				"friends_count": 82,
+				"listed_count": 17,
+				"created_at": "Sat Apr 04 10:07:10 +0000 2015",
+				"favourites_count": 778,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 100530,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3138788114/1447160790",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Nov 17 03:50:28 +0000 2016",
+		"id": 799097346478903300,
+		"id_str": "799097346478903296",
+		"text": "RT @dvddog: @EmptyKnK  굳이 따지면 '타일러 더든을 극복해야 한다' 아니려나. 미아하가 옛날에 했던 그 망상(모든 질서의 파괴)을 그대로 읊을 때 투안이 '중 세라피를 받아야 한다'(=저년을 정신병원에 쳐넣어야해)라고 반응하기도 했…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dvddog",
+					"name": "데이비드 댕댕이",
+					"id": 3138788114,
+					"id_str": "3138788114",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "EmptyKnK",
+					"name": "Solitude",
+					"id": 3255599052,
+					"id_str": "3255599052",
+					"indices": [
+						12,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7693,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 17 03:22:13 +0000 2016",
+			"id": 799090236689039400,
+			"id_str": "799090236689039361",
+			"text": "@EmptyKnK  굳이 따지면 '타일러 더든을 극복해야 한다' 아니려나. 미아하가 옛날에 했던 그 망상(모든 질서의 파괴)을 그대로 읊을 때 투안이 '중 세라피를 받아야 한다'(=저년을 정신병원에 쳐넣어야해)라고 반응하기도 했으니까.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EmptyKnK",
+						"name": "Solitude",
+						"id": 3255599052,
+						"id_str": "3255599052",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 799080535964323800,
+			"in_reply_to_status_id_str": "799080535964323840",
+			"in_reply_to_user_id": 3255599052,
+			"in_reply_to_user_id_str": "3255599052",
+			"in_reply_to_screen_name": "EmptyKnK",
+			"user": {
+				"id": 3138788114,
+				"id_str": "3138788114",
+				"name": "데이비드 댕댕이",
+				"screen_name": "dvddog",
+				"location": "세이셸",
+				"description": "개점휴업 희망중",
+				"url": "https://t.co/9mpfiKtEof",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9mpfiKtEof",
+								"expanded_url": "http://noobcoela.egloos.com/",
+								"display_url": "noobcoela.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 370,
+				"friends_count": 82,
+				"listed_count": 17,
+				"created_at": "Sat Apr 04 10:07:10 +0000 2015",
+				"favourites_count": 778,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 100530,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3138788114/1447160790",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Nov 17 03:08:33 +0000 2016",
 		"id": 799086797221335000,
 		"id_str": "799086797221335040",
