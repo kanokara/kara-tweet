@@ -1,6 +1,390 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Thu Nov 17 10:08:15 +0000 2016",
+		"id": 799192418939596800,
+		"id_str": "799192418939596800",
+		"text": "RT @ckomock: 空の境界は間違いなく素晴らしい作品だけど難しいとかグロいとかじゃなくて単純に人を選ぶ作品だと思うので見たい人が見たらいいし興味のない人に無理やり見せてうまくいくとは思えない　だから無理な布教は絶対しない…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ckomock",
+					"name": "おひたし熱郎@3日目東シ41b",
+					"id": 524726774,
+					"id_str": "524726774",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7730,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 17 10:05:04 +0000 2016",
+			"id": 799191617420673000,
+			"id_str": "799191617420673024",
+			"text": "空の境界は間違いなく素晴らしい作品だけど難しいとかグロいとかじゃなくて単純に人を選ぶ作品だと思うので見たい人が見たらいいし興味のない人に無理やり見せてうまくいくとは思えない　だから無理な布教は絶対しない…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.softama.com/\" rel=\"nofollow\">ツイタマ</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 524726774,
+				"id_str": "524726774",
+				"name": "おひたし熱郎@3日目東シ41b",
+				"screen_name": "ckomock",
+				"location": "メメント・モリ",
+				"description": "絵を描いたりしてます。FGOのオルガマリー所長が好き うちのカルデアも好き   現在来年の1月以降のお仕事募集中です。商業、同人、個人共にご連絡はこちらまで→cjcj0w0@gmail.com hp【https://t.co/bDquYyrvgn】 pixiv【https://t.co/UehFBpnrYo】",
+				"url": "https://t.co/oEJqtHe6gs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oEJqtHe6gs",
+								"expanded_url": "http://noukouenikki.blog.fc2.com/",
+								"display_url": "noukouenikki.blog.fc2.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/bDquYyrvgn",
+								"expanded_url": "http://urx.red/xX1P",
+								"display_url": "urx.red/xX1P",
+								"indices": [
+									100,
+									123
+								]
+							},
+							{
+								"url": "https://t.co/UehFBpnrYo",
+								"expanded_url": "http://p.tl/m/5161845",
+								"display_url": "p.tl/m/5161845",
+								"indices": [
+									131,
+									154
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 17788,
+				"friends_count": 1733,
+				"listed_count": 339,
+				"created_at": "Wed Mar 14 21:02:23 +0000 2012",
+				"favourites_count": 3189,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 58166,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0E1FB5",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181917993/MMbjGiIR.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181917993/MMbjGiIR.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/781822035429240832/IWaFMzyF_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/781822035429240832/IWaFMzyF_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/524726774/1464416182",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Thu Nov 17 09:43:27 +0000 2016",
+		"id": 799186177353842700,
+		"id_str": "799186177353842688",
+		"text": "@sayanghwa 전체 소설 중에서도 20~30% 비중을 차지하니까...\nhttps://t.co/Pj6bbudw60",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sayanghwa",
+					"name": "햇살 속의 레이먼드",
+					"id": 1696420058,
+					"id_str": "1696420058",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Pj6bbudw60",
+					"expanded_url": "http://lightnovel.kr/index.php?mid=pickup&page=5&document_srl=420127",
+					"display_url": "lightnovel.kr/index.php?mid=…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 799184700057096200,
+		"in_reply_to_status_id_str": "799184700057096192",
+		"in_reply_to_user_id": 1696420058,
+		"in_reply_to_user_id_str": "1696420058",
+		"in_reply_to_screen_name": "sayanghwa",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7730,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Nov 17 09:15:32 +0000 2016",
+		"id": 799179152444170200,
+		"id_str": "799179152444170240",
+		"text": "@sayanghwa 전부터 생각한 건데, 10대 여성 독자를 위한 장르가 국내 소설계에서 소실한 감이 있어요. 본질적인 문제는 오히려 이쪽.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sayanghwa",
+					"name": "햇살 속의 레이먼드",
+					"id": 1696420058,
+					"id_str": "1696420058",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 799178295476531200,
+		"in_reply_to_status_id_str": "799178295476531201",
+		"in_reply_to_user_id": 1696420058,
+		"in_reply_to_user_id_str": "1696420058",
+		"in_reply_to_screen_name": "sayanghwa",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7730,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Nov 17 09:11:28 +0000 2016",
 		"id": 799178128811651100,
 		"id_str": "799178128811651073",
