@@ -1,6 +1,920 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Thu Nov 17 07:51:20 +0000 2016",
+		"id": 799157960672833500,
+		"id_str": "799157960672833537",
+		"text": "RT @chico_fajita: 일전에도 이야기했는데 아이돌이 관객을 보면 매력이 떨어진다능...팬들은 아이돌을 보고, 아이돌은 저 멀리 있는 피안의 존재를 꿈꿔야 하는거라 이거다...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chico_fajita",
+					"name": "맛있는 파히타",
+					"id": 1162272626,
+					"id_str": "1162272626",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7721,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 17 07:48:23 +0000 2016",
+			"id": 799157221422604300,
+			"id_str": "799157221422604288",
+			"text": "일전에도 이야기했는데 아이돌이 관객을 보면 매력이 떨어진다능...팬들은 아이돌을 보고, 아이돌은 저 멀리 있는 피안의 존재를 꿈꿔야 하는거라 이거다...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1162272626,
+				"id_str": "1162272626",
+				"name": "맛있는 파히타",
+				"screen_name": "chico_fajita",
+				"location": "",
+				"description": "아이돌을 좋아합니다.",
+				"url": "https://t.co/sBAQFlSRWR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sBAQFlSRWR",
+								"expanded_url": "http://chicofajita.tumblr.com",
+								"display_url": "chicofajita.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 710,
+				"friends_count": 329,
+				"listed_count": 23,
+				"created_at": "Sat Feb 09 07:39:24 +0000 2013",
+				"favourites_count": 1593,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 53456,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/786385744809951232/lR0Irmdh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/786385744809951232/lR0Irmdh_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Nov 17 07:26:18 +0000 2016",
+		"id": 799151664376578000,
+		"id_str": "799151664376578049",
+		"text": "RT @dasidoro: 박근혜의 버티기는 제1야당의 선도 역할 실패가 주원인이다. 처음부터 단호하게 퇴로를 차단하고 정문으로 밀고 들어가는 전략이었어야 했다. 자폭 아니면 항복, 이 선택지만을 주고 굽혀들어오도록 했어야 함에도 자진하여 퇴로를 열어…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dasidoro",
+					"name": "저너머",
+					"id": 2697117031,
+					"id_str": "2697117031",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7721,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 16 14:57:53 +0000 2016",
+			"id": 798902921140146200,
+			"id_str": "798902921140146176",
+			"text": "박근혜의 버티기는 제1야당의 선도 역할 실패가 주원인이다. 처음부터 단호하게 퇴로를 차단하고 정문으로 밀고 들어가는 전략이었어야 했다. 자폭 아니면 항복, 이 선택지만을 주고 굽혀들어오도록 했어야 함에도 자진하여 퇴로를 열어준 더민주도 응징해야 한다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2697117031,
+				"id_str": "2697117031",
+				"name": "저너머",
+				"screen_name": "dasidoro",
+				"location": "hic et nunc/Seoul, Korea",
+				"description": "시계, 시한부 계정입니다. 쓸 것이 있으면 쓸 것이며...",
+				"url": "https://t.co/6pAMeFO39s",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6pAMeFO39s",
+								"expanded_url": "http://page.is/dasidoro",
+								"display_url": "page.is/dasidoro",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3987,
+				"friends_count": 188,
+				"listed_count": 45,
+				"created_at": "Fri Aug 01 02:15:05 +0000 2014",
+				"favourites_count": 16329,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 50001,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/573372275228987393/g8Nh3PY2_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/573372275228987393/g8Nh3PY2_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2697117031/1476853951",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 52,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Nov 17 07:23:26 +0000 2016",
+		"id": 799150942205538300,
+		"id_str": "799150942205538304",
+		"text": "RT @Song_Younghoon: 7. 이는 좋게 말해 '정치적 상상력의 빈곤'이고, 적나라하게 말하면 당리당략의 산물이다. 탄핵반대론자들에게 묻는다. 법사위원장이 여당 소속인 것이 정말 문제면 야당이 지금부터 헌법재판소법ㆍ국회법 개정안을 발의해두…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Song_Younghoon",
+					"name": "송영훈",
+					"id": 213196686,
+					"id_str": "213196686",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7721,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 16 05:35:49 +0000 2016",
+			"id": 798761468904685600,
+			"id_str": "798761468904685569",
+			"text": "7. 이는 좋게 말해 '정치적 상상력의 빈곤'이고, 적나라하게 말하면 당리당략의 산물이다. 탄핵반대론자들에게 묻는다. 법사위원장이 여당 소속인 것이 정말 문제면 야당이 지금부터 헌법재판소법ㆍ국회법 개정안을 발의해두면 되지 않나? 못할 이유는 무엇인가?",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 798761231209201700,
+			"in_reply_to_status_id_str": "798761231209201664",
+			"in_reply_to_user_id": 213196686,
+			"in_reply_to_user_id_str": "213196686",
+			"in_reply_to_screen_name": "Song_Younghoon",
+			"user": {
+				"id": 213196686,
+				"id_str": "213196686",
+				"name": "송영훈",
+				"screen_name": "Song_Younghoon",
+				"location": "사무실, 법원, 검찰청, 경찰서, 회의실, 그리고 현장",
+				"description": "변호사 / 트윗의 내용은 전적으로 개인의 생각이며 소속 법인과는 무관합니다. / 현재 지지하는 정당 없음. 무당파.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3108,
+				"friends_count": 423,
+				"listed_count": 95,
+				"created_at": "Mon Nov 08 07:19:59 +0000 2010",
+				"favourites_count": 1426,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10092,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3112800287/e752fcb5d0f1bd04325d5b346ad05af5_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3112800287/e752fcb5d0f1bd04325d5b346ad05af5_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 156,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 156,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Nov 17 07:23:22 +0000 2016",
+		"id": 799150922655940600,
+		"id_str": "799150922655940608",
+		"text": "RT @Song_Younghoon: 6. 이번 박근혜 퇴진 정국에서 이해하기 어려운 점 중 하나는, 국회가 그 권한을 적극적으로 행사할 생각은 않고, 학자들이나 지지자들을 동원하여 어떻게든 '할 수 없다'는 논리를 생산하면서 문제를 회피하는 양상을…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Song_Younghoon",
+					"name": "송영훈",
+					"id": 213196686,
+					"id_str": "213196686",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7721,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 16 05:34:52 +0000 2016",
+			"id": 798761231209201700,
+			"id_str": "798761231209201664",
+			"text": "6. 이번 박근혜 퇴진 정국에서 이해하기 어려운 점 중 하나는, 국회가 그 권한을 적극적으로 행사할 생각은 않고, 학자들이나 지지자들을 동원하여 어떻게든 '할 수 없다'는 논리를 생산하면서 문제를 회피하는 양상을 보이고 있다는 점이다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 798761045254774800,
+			"in_reply_to_status_id_str": "798761045254774784",
+			"in_reply_to_user_id": 213196686,
+			"in_reply_to_user_id_str": "213196686",
+			"in_reply_to_screen_name": "Song_Younghoon",
+			"user": {
+				"id": 213196686,
+				"id_str": "213196686",
+				"name": "송영훈",
+				"screen_name": "Song_Younghoon",
+				"location": "사무실, 법원, 검찰청, 경찰서, 회의실, 그리고 현장",
+				"description": "변호사 / 트윗의 내용은 전적으로 개인의 생각이며 소속 법인과는 무관합니다. / 현재 지지하는 정당 없음. 무당파.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3108,
+				"friends_count": 423,
+				"listed_count": 95,
+				"created_at": "Mon Nov 08 07:19:59 +0000 2010",
+				"favourites_count": 1426,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10092,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3112800287/e752fcb5d0f1bd04325d5b346ad05af5_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3112800287/e752fcb5d0f1bd04325d5b346ad05af5_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 196,
+			"favorite_count": 45,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 196,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Nov 17 07:16:14 +0000 2016",
+		"id": 799149129288925200,
+		"id_str": "799149129288925184",
+		"text": "RT @JinJumong: @QuoVadisKorea 코미, 이중잣대 논란..\"러 해킹배후 성명엔 선거 이유로 불참\nhttps://t.co/kCBXiUo6fb\n\"CNBC \"결국 국토안보부·국가정보국만 '러시아 배후 지목' 공동성명",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JinJumong",
+					"name": "상지니",
+					"id": 409199164,
+					"id_str": "409199164",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "QuoVadisKorea",
+					"name": "姜 存 Kang Zon (姜成宗)",
+					"id": 77055084,
+					"id_str": "77055084",
+					"indices": [
+						15,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kCBXiUo6fb",
+					"expanded_url": "http://media.daum.net/foreign/all/newsview?newsid=20161102005103995",
+					"display_url": "media.daum.net/foreign/all/ne…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7721,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 01 22:35:52 +0000 2016",
+			"id": 793582355130691600,
+			"id_str": "793582355130691584",
+			"text": "@QuoVadisKorea 코미, 이중잣대 논란..\"러 해킹배후 성명엔 선거 이유로 불참\nhttps://t.co/kCBXiUo6fb\n\"CNBC \"결국 국토안보부·국가정보국만 '러시아 배후 지목' 공동성명",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "QuoVadisKorea",
+						"name": "姜 存 Kang Zon (姜成宗)",
+						"id": 77055084,
+						"id_str": "77055084",
+						"indices": [
+							0,
+							14
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/kCBXiUo6fb",
+						"expanded_url": "http://media.daum.net/foreign/all/newsview?newsid=20161102005103995",
+						"display_url": "media.daum.net/foreign/all/ne…",
+						"indices": [
+							50,
+							73
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 77055084,
+			"in_reply_to_user_id_str": "77055084",
+			"in_reply_to_screen_name": "QuoVadisKorea",
+			"user": {
+				"id": 409199164,
+				"id_str": "409199164",
+				"name": "상지니",
+				"screen_name": "JinJumong",
+				"location": "",
+				"description": "페이스북주소:  https://t.co/fTz90BcpFd",
+				"url": "http://t.co/ABlpOdqRrS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ABlpOdqRrS",
+								"expanded_url": "http://twtkr.com/JinJumong",
+								"display_url": "twtkr.com/JinJumong",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/fTz90BcpFd",
+								"expanded_url": "https://www.facebook.com/jin85yahwen",
+								"display_url": "facebook.com/jin85yahwen",
+								"indices": [
+									9,
+									32
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3588,
+				"friends_count": 3298,
+				"listed_count": 24,
+				"created_at": "Thu Nov 10 12:10:10 +0000 2011",
+				"favourites_count": 1171,
+				"utc_offset": -14400,
+				"time_zone": "Caracas",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 53917,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/794550186945060864/WCupWDlm.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/794550186945060864/WCupWDlm.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/797902541879013376/5gbnEx7a_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/797902541879013376/5gbnEx7a_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/409199164/1478241500",
+				"profile_link_color": "B40B43",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Nov 17 07:13:58 +0000 2016",
 		"id": 799148560616783900,
 		"id_str": "799148560616783872",
