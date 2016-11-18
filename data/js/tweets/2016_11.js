@@ -1,6 +1,534 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Fri Nov 18 06:56:27 +0000 2016",
+		"id": 799506537123344400,
+		"id_str": "799506537123344384",
+		"text": "RT @preongas: 공수교대 작가 저 아닙니다. @mindctrlkim 이분이에요. 저는 아이언메이든 팀이 구성될 때 같이 일해보자고 제안을 받았지만 당시 &lt;별에 노래를&gt; 작업중이었고, 다른 사람을 소개해줄 수 밖에 없었습니다. 다만 친분으로…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "preongas",
+					"name": "신소음",
+					"id": 106385143,
+					"id_str": "106385143",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "mindctrlkim",
+					"name": "조기한",
+					"id": 701806280726347800,
+					"id_str": "701806280726347776",
+					"indices": [
+						30,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7749,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 10 15:51:36 +0000 2016",
+			"id": 741296767682023400,
+			"id_str": "741296767682023424",
+			"text": "공수교대 작가 저 아닙니다. @mindctrlkim 이분이에요. 저는 아이언메이든 팀이 구성될 때 같이 일해보자고 제안을 받았지만 당시 &lt;별에 노래를&gt; 작업중이었고, 다른 사람을 소개해줄 수 밖에 없었습니다. 다만 친분으로 개발에 조금 참여는 했어요.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mindctrlkim",
+						"name": "조기한",
+						"id": 701806280726347800,
+						"id_str": "701806280726347776",
+						"indices": [
+							16,
+							28
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 106385143,
+				"id_str": "106385143",
+				"name": "신소음",
+				"screen_name": "preongas",
+				"location": "",
+				"description": "싸이보그 소설가 Z",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 711,
+				"friends_count": 186,
+				"listed_count": 11,
+				"created_at": "Tue Jan 19 11:31:37 +0000 2010",
+				"favourites_count": 83,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 43203,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2BA664",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/91587944/__.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/91587944/__.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/668688318666682368/LYtXkGZe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/668688318666682368/LYtXkGZe_normal.jpg",
+				"profile_link_color": "2D826D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Nov 18 06:55:26 +0000 2016",
+		"id": 799506282629791700,
+		"id_str": "799506282629791744",
+		"text": "카넬이나 신소음이 언급되는 걸로 봐서 시드노벨 작가진 중 한 명인 듯?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 799505680214401000,
+		"in_reply_to_status_id_str": "799505680214401024",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7749,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Nov 18 06:53:02 +0000 2016",
+		"id": 799505680214401000,
+		"id_str": "799505680214401024",
+		"text": "조기밍 @갤문학 모음집 | 글쓴이 조기탄@mindctrlkim\nhttps://t.co/EShhPcqKqD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mindctrlkim",
+					"name": "조기한",
+					"id": 701806280726347800,
+					"id_str": "701806280726347776",
+					"indices": [
+						22,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EShhPcqKqD",
+					"expanded_url": "http://gall.dcinside.com/board/view/?id=idolmaster&no=1645374",
+					"display_url": "gall.dcinside.com/board/view/?id…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7749,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Nov 18 06:48:53 +0000 2016",
+		"id": 799504635803435000,
+		"id_str": "799504635803435009",
+		"text": "@sayanghwa 누구세요? https://t.co/VO2pm38D8X",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sayanghwa",
+					"name": "햇살 속의 레이먼드",
+					"id": 1696420058,
+					"id_str": "1696420058",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 799504610490806300,
+					"id_str": "799504610490806272",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/CxhpNRCXcAAG_U5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxhpNRCXcAAG_U5.jpg",
+					"url": "https://t.co/VO2pm38D8X",
+					"display_url": "pic.twitter.com/VO2pm38D8X",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/799504635803435009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 189,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 189,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 189,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 799504610490806300,
+					"id_str": "799504610490806272",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/CxhpNRCXcAAG_U5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxhpNRCXcAAG_U5.jpg",
+					"url": "https://t.co/VO2pm38D8X",
+					"display_url": "pic.twitter.com/VO2pm38D8X",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/799504635803435009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 189,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 189,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 189,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 799502432078299100,
+		"in_reply_to_status_id_str": "799502432078299137",
+		"in_reply_to_user_id": 1696420058,
+		"in_reply_to_user_id_str": "1696420058",
+		"in_reply_to_screen_name": "sayanghwa",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7749,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Nov 18 06:03:07 +0000 2016",
 		"id": 799493116332015600,
 		"id_str": "799493116332015616",
