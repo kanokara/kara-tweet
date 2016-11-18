@@ -1,6 +1,456 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Fri Nov 18 11:48:19 +0000 2016",
+		"id": 799579987720294400,
+		"id_str": "799579987720294404",
+		"text": "RT @oiun461: @Nahe_3 마에님!! 생일축하드려요!! https://t.co/DKC92jCkV0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oiun461",
+					"name": "yuyu",
+					"id": 717730120966885400,
+					"id_str": "717730120966885376",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "Nahe_3",
+					"name": "✨마에✨",
+					"id": 623731055,
+					"id_str": "623731055",
+					"indices": [
+						13,
+						20
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 793146291941351400,
+					"id_str": "793146291941351425",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/CwHSWaoVIAEnjHE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CwHSWaoVIAEnjHE.jpg",
+					"url": "https://t.co/DKC92jCkV0",
+					"display_url": "pic.twitter.com/DKC92jCkV0",
+					"expanded_url": "https://twitter.com/oiun461/status/793146308164919297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 555,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1023,
+							"h": 835,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1023,
+							"h": 835,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 793146308164919300,
+					"source_status_id_str": "793146308164919297",
+					"source_user_id": 717730120966885400,
+					"source_user_id_str": "717730120966885376"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 793146291941351400,
+					"id_str": "793146291941351425",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/CwHSWaoVIAEnjHE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CwHSWaoVIAEnjHE.jpg",
+					"url": "https://t.co/DKC92jCkV0",
+					"display_url": "pic.twitter.com/DKC92jCkV0",
+					"expanded_url": "https://twitter.com/oiun461/status/793146308164919297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 555,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1023,
+							"h": 835,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1023,
+							"h": 835,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 793146308164919300,
+					"source_status_id_str": "793146308164919297",
+					"source_user_id": 717730120966885400,
+					"source_user_id_str": "717730120966885376"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7759,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 31 17:43:10 +0000 2016",
+			"id": 793146308164919300,
+			"id_str": "793146308164919297",
+			"text": "@Nahe_3 마에님!! 생일축하드려요!! https://t.co/DKC92jCkV0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Nahe_3",
+						"name": "✨마에✨",
+						"id": 623731055,
+						"id_str": "623731055",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 793146291941351400,
+						"id_str": "793146291941351425",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/CwHSWaoVIAEnjHE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CwHSWaoVIAEnjHE.jpg",
+						"url": "https://t.co/DKC92jCkV0",
+						"display_url": "pic.twitter.com/DKC92jCkV0",
+						"expanded_url": "https://twitter.com/oiun461/status/793146308164919297/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 555,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1023,
+								"h": 835,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1023,
+								"h": 835,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 793146291941351400,
+						"id_str": "793146291941351425",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/CwHSWaoVIAEnjHE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CwHSWaoVIAEnjHE.jpg",
+						"url": "https://t.co/DKC92jCkV0",
+						"display_url": "pic.twitter.com/DKC92jCkV0",
+						"expanded_url": "https://twitter.com/oiun461/status/793146308164919297/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 555,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1023,
+								"h": 835,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1023,
+								"h": 835,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 623731055,
+			"in_reply_to_user_id_str": "623731055",
+			"in_reply_to_screen_name": "Nahe_3",
+			"user": {
+				"id": 717730120966885400,
+				"id_str": "717730120966885376",
+				"name": "yuyu",
+				"screen_name": "oiun461",
+				"location": "",
+				"description": "백합/fate위주 그림쟁이입니다.  최근엔 페그오에 빠져있습니다/日本語ok\n\nhttps://t.co/1qPanb92Ro",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1qPanb92Ro",
+								"expanded_url": "http://pixiv.me/oiun461",
+								"display_url": "pixiv.me/oiun461",
+								"indices": [
+									43,
+									66
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1369,
+				"friends_count": 30,
+				"listed_count": 30,
+				"created_at": "Wed Apr 06 15:06:10 +0000 2016",
+				"favourites_count": 3139,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3696,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/740580072357167104/P_yOxPTn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/740580072357167104/P_yOxPTn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/717730120966885376/1470475028",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Nov 18 11:42:03 +0000 2016",
+		"id": 799578411886788600,
+		"id_str": "799578411886788608",
+		"text": "@Bloomers_Suki 되팔렘도 못하는 선물을...!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bloomers_Suki",
+					"name": "씁",
+					"id": 220722651,
+					"id_str": "220722651",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 799575636243148800,
+		"in_reply_to_status_id_str": "799575636243148802",
+		"in_reply_to_user_id": 220722651,
+		"in_reply_to_user_id_str": "220722651",
+		"in_reply_to_screen_name": "Bloomers_Suki",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7759,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Nov 18 10:21:52 +0000 2016",
 		"id": 799558232578650100,
 		"id_str": "799558232578650113",
