@@ -1,6 +1,1973 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Fri Nov 18 17:00:40 +0000 2016",
+		"id": 799658596317347800,
+		"id_str": "799658596317347841",
+		"text": "RT @Imsi_isml: 시위 초심자를 위한 아주 간단한 튜토리얼 만화 https://t.co/Zw1aLb2mR2 \n아래 타래에도 올려둘게요~ https://t.co/DeU1dhB7G6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Imsi_isml",
+					"name": "임시",
+					"id": 799590277400776700,
+					"id_str": "799590277400776706",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Zw1aLb2mR2",
+					"expanded_url": "http://imgur.com/a/yFkie",
+					"display_url": "imgur.com/a/yFkie",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 799591930329907200,
+					"id_str": "799591930329907200",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Cxi4n8yVQAAqLcX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cxi4n8yVQAAqLcX.jpg",
+					"url": "https://t.co/DeU1dhB7G6",
+					"display_url": "pic.twitter.com/DeU1dhB7G6",
+					"expanded_url": "http://twitter.com/Imsi_isml/status/799591942866628608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 572,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 572,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 799591942866628600,
+					"source_status_id_str": "799591942866628608",
+					"source_user_id": 799590277400776700,
+					"source_user_id_str": "799590277400776706"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 799591930329907200,
+					"id_str": "799591930329907200",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Cxi4n8yVQAAqLcX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Cxi4n8yVQAAqLcX.jpg",
+					"url": "https://t.co/DeU1dhB7G6",
+					"display_url": "pic.twitter.com/DeU1dhB7G6",
+					"expanded_url": "http://twitter.com/Imsi_isml/status/799591942866628608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 572,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 572,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 799591942866628600,
+					"source_status_id_str": "799591942866628608",
+					"source_user_id": 799590277400776700,
+					"source_user_id_str": "799590277400776706"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1041,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7810,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 18 12:35:49 +0000 2016",
+			"id": 799591942866628600,
+			"id_str": "799591942866628608",
+			"text": "시위 초심자를 위한 아주 간단한 튜토리얼 만화 https://t.co/Zw1aLb2mR2 \n아래 타래에도 올려둘게요~ https://t.co/DeU1dhB7G6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Zw1aLb2mR2",
+						"expanded_url": "http://imgur.com/a/yFkie",
+						"display_url": "imgur.com/a/yFkie",
+						"indices": [
+							26,
+							49
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 799591930329907200,
+						"id_str": "799591930329907200",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/Cxi4n8yVQAAqLcX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cxi4n8yVQAAqLcX.jpg",
+						"url": "https://t.co/DeU1dhB7G6",
+						"display_url": "pic.twitter.com/DeU1dhB7G6",
+						"expanded_url": "http://twitter.com/Imsi_isml/status/799591942866628608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 572,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 572,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 486,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 799591930329907200,
+						"id_str": "799591930329907200",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/Cxi4n8yVQAAqLcX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cxi4n8yVQAAqLcX.jpg",
+						"url": "https://t.co/DeU1dhB7G6",
+						"display_url": "pic.twitter.com/DeU1dhB7G6",
+						"expanded_url": "http://twitter.com/Imsi_isml/status/799591942866628608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 572,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 572,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 486,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 799590277400776700,
+				"id_str": "799590277400776706",
+				"name": "임시",
+				"screen_name": "Imsi_isml",
+				"location": "",
+				"description": "그린걸 올리는 임시 / 팔로X 맞팔X 업로드만을 위한 계정입니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4,
+				"friends_count": 0,
+				"listed_count": 0,
+				"created_at": "Fri Nov 18 12:29:12 +0000 2016",
+				"favourites_count": 5,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/799590506678210560/yqx-oD1E_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/799590506678210560/yqx-oD1E_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2676,
+			"favorite_count": 755,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2676,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Nov 18 16:40:43 +0000 2016",
+		"id": 799653573319479300,
+		"id_str": "799653573319479300",
+		"text": "RT @Kim_Couque: 시위대를 평가하지 말고, 경찰을 평가해야 한다.\n진짜 너무 맞는 말이다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kim_Couque",
+					"name": "아무것도 하기 싫은 픽셀女 김쿠크",
+					"id": 3070846608,
+					"id_str": "3070846608",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1041,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7810,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 12 16:47:18 +0000 2016",
+			"id": 797480901663858700,
+			"id_str": "797480901663858688",
+			"text": "시위대를 평가하지 말고, 경찰을 평가해야 한다.\n진짜 너무 맞는 말이다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3070846608,
+				"id_str": "3070846608",
+				"name": "아무것도 하기 싫은 픽셀女 김쿠크",
+				"screen_name": "Kim_Couque",
+				"location": "",
+				"description": "오빠가 인정한 명문이대생 /  아무것도 안 하고 있지만 더 격렬하게 아무것도 안 하고 싶다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1209,
+				"friends_count": 87,
+				"listed_count": 10,
+				"created_at": "Tue Mar 10 06:37:00 +0000 2015",
+				"favourites_count": 679,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11856,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/775551590602113024/0e1tA6yq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/775551590602113024/0e1tA6yq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3070846608/1447056659",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2233,
+			"favorite_count": 306,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2233,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Nov 18 16:39:09 +0000 2016",
+		"id": 799653181420490800,
+		"id_str": "799653181420490752",
+		"text": "RT @mumpelchen_: 나라에서 진짜로 사람 죽일까봐 비폭력시위밖에 못 하는 거 너무 슬프지 않나. 나라에서 사람 죽이는 걸 이미 너무 많이 봐서 그 어떤 죽음도 더 감수할 수가 없다 나는",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mumpelchen_",
+					"name": "문。    펠",
+					"id": 228625450,
+					"id_str": "228625450",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1041,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7810,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 13 18:43:04 +0000 2016",
+			"id": 797872424695935000,
+			"id_str": "797872424695934977",
+			"text": "나라에서 진짜로 사람 죽일까봐 비폭력시위밖에 못 하는 거 너무 슬프지 않나. 나라에서 사람 죽이는 걸 이미 너무 많이 봐서 그 어떤 죽음도 더 감수할 수가 없다 나는",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 228625450,
+				"id_str": "228625450",
+				"name": "문。    펠",
+				"screen_name": "mumpelchen_",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1873,
+				"friends_count": 269,
+				"listed_count": 13,
+				"created_at": "Mon Dec 20 07:15:11 +0000 2010",
+				"favourites_count": 1583,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4124,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/641654517/af6q0m4mvii6gd8qxpxh.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/641654517/af6q0m4mvii6gd8qxpxh.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/755102050002665472/XN4NgZHK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/755102050002665472/XN4NgZHK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/228625450/1468863657",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1746,
+			"favorite_count": 187,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1746,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Nov 18 16:39:08 +0000 2016",
+		"id": 799653174575407100,
+		"id_str": "799653174575407104",
+		"text": "RT @cochlea1313: 전국민이 학습된 공포가 있다는게 놀라울 정도로 무서운 나라.. 눈에 띄는 행동을 하는 것, 내 견해를 적극적으로 말하지 못하는 것, 평화로운 시위를 해야만 하는 것..",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cochlea1313",
+					"name": "mio/뤂",
+					"id": 2697712436,
+					"id_str": "2697712436",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1041,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7810,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 13 18:05:50 +0000 2016",
+			"id": 797863054557913100,
+			"id_str": "797863054557913088",
+			"text": "전국민이 학습된 공포가 있다는게 놀라울 정도로 무서운 나라.. 눈에 띄는 행동을 하는 것, 내 견해를 적극적으로 말하지 못하는 것, 평화로운 시위를 해야만 하는 것..",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2697712436,
+				"id_str": "2697712436",
+				"name": "mio/뤂",
+				"screen_name": "cochlea1313",
+				"location": "tattooermio@gmail.com",
+				"description": "Kor/Eng *GROTESQUE* FUB FREE. please do not reupload/reproduct my works without permission. +contact cochlea1313@gmail.com",
+				"url": "https://t.co/QzgsKyyAJ4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QzgsKyyAJ4",
+								"expanded_url": "http://cargocollective.com/MioIm",
+								"display_url": "cargocollective.com/MioIm",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11417,
+				"friends_count": 105,
+				"listed_count": 175,
+				"created_at": "Fri Aug 01 08:19:34 +0000 2014",
+				"favourites_count": 3416,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8392,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/786978781172858880/_dkN3Q0P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/786978781172858880/_dkN3Q0P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2697712436/1474389552",
+				"profile_link_color": "964F4D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2875,
+			"favorite_count": 333,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2875,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Nov 18 16:38:22 +0000 2016",
+		"id": 799652981461262300,
+		"id_str": "799652981461262337",
+		"text": "RT @stingraykite: @CalineB16 @sangseek_kim @il_yo_ 일단 진압경찰 쪽수가 한국보다 너무 후달립니다... 역사와 전통의 경찰국가 한국이기때문에 쓸 수 있는 전술들이 있는거죠. 공짜의경도 있고...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stingraykite",
+					"name": "가오리연",
+					"id": 212043376,
+					"id_str": "212043376",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "CalineB16",
+					"name": "빕파카",
+					"id": 724728081131417600,
+					"id_str": "724728081131417601",
+					"indices": [
+						18,
+						28
+					]
+				},
+				{
+					"screen_name": "sangseek_kim",
+					"name": "致下野를원하는김 상⃢식",
+					"id": 248685731,
+					"id_str": "248685731",
+					"indices": [
+						29,
+						42
+					]
+				},
+				{
+					"screen_name": "il_yo_",
+					"name": "안남시 총기연맹",
+					"id": 454102718,
+					"id_str": "454102718",
+					"indices": [
+						43,
+						50
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1041,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7810,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 17 00:46:00 +0000 2016",
+			"id": 799050922420645900,
+			"id_str": "799050922420645888",
+			"text": "@CalineB16 @sangseek_kim @il_yo_ 일단 진압경찰 쪽수가 한국보다 너무 후달립니다... 역사와 전통의 경찰국가 한국이기때문에 쓸 수 있는 전술들이 있는거죠. 공짜의경도 있고...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CalineB16",
+						"name": "빕파카",
+						"id": 724728081131417600,
+						"id_str": "724728081131417601",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "sangseek_kim",
+						"name": "致下野를원하는김 상⃢식",
+						"id": 248685731,
+						"id_str": "248685731",
+						"indices": [
+							11,
+							24
+						]
+					},
+					{
+						"screen_name": "il_yo_",
+						"name": "안남시 총기연맹",
+						"id": 454102718,
+						"id_str": "454102718",
+						"indices": [
+							25,
+							32
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 798839521865396200,
+			"in_reply_to_status_id_str": "798839521865396224",
+			"in_reply_to_user_id": 724728081131417600,
+			"in_reply_to_user_id_str": "724728081131417601",
+			"in_reply_to_screen_name": "CalineB16",
+			"user": {
+				"id": 212043376,
+				"id_str": "212043376",
+				"name": "가오리연",
+				"screen_name": "stingraykite",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1277,
+				"friends_count": 232,
+				"listed_count": 55,
+				"created_at": "Fri Nov 05 00:00:47 +0000 2010",
+				"favourites_count": 480,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 52644,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/791920384199188480/c1z19Aan_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/791920384199188480/c1z19Aan_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Nov 18 16:38:12 +0000 2016",
+		"id": 799652940487065600,
+		"id_str": "799652940487065601",
+		"text": "RT @il_yo_: @CalineB16 이제부터 불란서 것들 제 앞에서 데모부심 부리면 우리는 국가랑 폭력으로 붙으면 죽는 건 시민이라는 걸 알 정도로 군사독재랑 과잉진압을 많이 겪었거든? 이라고 잘난 척하기 위해 과잉진압 단어 찾아봐야쓰겄습니다…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "il_yo_",
+					"name": "안남시 총기연맹",
+					"id": 454102718,
+					"id_str": "454102718",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "CalineB16",
+					"name": "빕파카",
+					"id": 724728081131417600,
+					"id_str": "724728081131417601",
+					"indices": [
+						12,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1041,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7810,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 16 10:58:11 +0000 2016",
+			"id": 798842596772565000,
+			"id_str": "798842596772564992",
+			"text": "@CalineB16 이제부터 불란서 것들 제 앞에서 데모부심 부리면 우리는 국가랑 폭력으로 붙으면 죽는 건 시민이라는 걸 알 정도로 군사독재랑 과잉진압을 많이 겪었거든? 이라고 잘난 척하기 위해 과잉진압 단어 찾아봐야쓰겄습니다 쒸익",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CalineB16",
+						"name": "빕파카",
+						"id": 724728081131417600,
+						"id_str": "724728081131417601",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 798842247026348000,
+			"in_reply_to_status_id_str": "798842247026348032",
+			"in_reply_to_user_id": 454102718,
+			"in_reply_to_user_id_str": "454102718",
+			"in_reply_to_screen_name": "il_yo_",
+			"user": {
+				"id": 454102718,
+				"id_str": "454102718",
+				"name": "안남시 총기연맹",
+				"screen_name": "il_yo_",
+				"location": "경기도 안남시 한서로 17",
+				"description": "안남시 총기연맹은 48만 안남 시민의 자립과 복지를 위한 다락방과 리볼버를 제공합니다. 시민을 위한 안남의 마중물이 되겠습니다.",
+				"url": "https://t.co/Da1ADW63gr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Da1ADW63gr",
+								"expanded_url": "http://iannam.net",
+								"display_url": "iannam.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4176,
+				"friends_count": 223,
+				"listed_count": 70,
+				"created_at": "Tue Jan 03 16:39:45 +0000 2012",
+				"favourites_count": 14953,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 86604,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/791367770797596672/YsVvaZFQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/791367770797596672/YsVvaZFQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/454102718/1468393656",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Nov 18 16:37:55 +0000 2016",
+		"id": 799652870391873500,
+		"id_str": "799652870391873536",
+		"text": "RT @il_yo_: @CalineB16 쌍차 공장 점거 때 경찰이 헬리콥터로 애시드 뿌렸다고 해주니까 뭐?! 이러면서 졸라 놀라길래 잠시 극동 야만 부심 부렸었는데 쒸익쒸익 뭐야 냅두는 나라에서 부순 걸로 자랑질한 거야? 야 우리는 경찰하구 그렇게…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "il_yo_",
+					"name": "안남시 총기연맹",
+					"id": 454102718,
+					"id_str": "454102718",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "CalineB16",
+					"name": "빕파카",
+					"id": 724728081131417600,
+					"id_str": "724728081131417601",
+					"indices": [
+						12,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1041,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7810,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 16 10:54:45 +0000 2016",
+			"id": 798841731361820700,
+			"id_str": "798841731361820672",
+			"text": "@CalineB16 쌍차 공장 점거 때 경찰이 헬리콥터로 애시드 뿌렸다고 해주니까 뭐?! 이러면서 졸라 놀라길래 잠시 극동 야만 부심 부렸었는데 쒸익쒸익 뭐야 냅두는 나라에서 부순 걸로 자랑질한 거야? 야 우리는 경찰하구 그렇게 싸우면 죽어!!!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CalineB16",
+						"name": "빕파카",
+						"id": 724728081131417600,
+						"id_str": "724728081131417601",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 798841474196459500,
+			"in_reply_to_status_id_str": "798841474196459522",
+			"in_reply_to_user_id": 724728081131417600,
+			"in_reply_to_user_id_str": "724728081131417601",
+			"in_reply_to_screen_name": "CalineB16",
+			"user": {
+				"id": 454102718,
+				"id_str": "454102718",
+				"name": "안남시 총기연맹",
+				"screen_name": "il_yo_",
+				"location": "경기도 안남시 한서로 17",
+				"description": "안남시 총기연맹은 48만 안남 시민의 자립과 복지를 위한 다락방과 리볼버를 제공합니다. 시민을 위한 안남의 마중물이 되겠습니다.",
+				"url": "https://t.co/Da1ADW63gr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Da1ADW63gr",
+								"expanded_url": "http://iannam.net",
+								"display_url": "iannam.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4176,
+				"friends_count": 223,
+				"listed_count": 70,
+				"created_at": "Tue Jan 03 16:39:45 +0000 2012",
+				"favourites_count": 14953,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 86604,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/791367770797596672/YsVvaZFQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/791367770797596672/YsVvaZFQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/454102718/1468393656",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Nov 18 16:37:52 +0000 2016",
+		"id": 799652857192423400,
+		"id_str": "799652857192423424",
+		"text": "RT @il_yo_: @CalineB16 걔네 경찰이 별로 안 독한가? 시위가 격화되면 경찰이 그만큼 대응하고 시위대도 대응하고 근데 국가폭력이 언제나 압도적이라 사람 뻑하면 죽어나가서 서로 좀 평화시위하자고 합의 본 나라 사람이라 잘 몰갯내오...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "il_yo_",
+					"name": "안남시 총기연맹",
+					"id": 454102718,
+					"id_str": "454102718",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "CalineB16",
+					"name": "빕파카",
+					"id": 724728081131417600,
+					"id_str": "724728081131417601",
+					"indices": [
+						12,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1041,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7810,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 16 10:51:23 +0000 2016",
+			"id": 798840886188593200,
+			"id_str": "798840886188593152",
+			"text": "@CalineB16 걔네 경찰이 별로 안 독한가? 시위가 격화되면 경찰이 그만큼 대응하고 시위대도 대응하고 근데 국가폭력이 언제나 압도적이라 사람 뻑하면 죽어나가서 서로 좀 평화시위하자고 합의 본 나라 사람이라 잘 몰갯내오...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CalineB16",
+						"name": "빕파카",
+						"id": 724728081131417600,
+						"id_str": "724728081131417601",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 798839521865396200,
+			"in_reply_to_status_id_str": "798839521865396224",
+			"in_reply_to_user_id": 724728081131417600,
+			"in_reply_to_user_id_str": "724728081131417601",
+			"in_reply_to_screen_name": "CalineB16",
+			"user": {
+				"id": 454102718,
+				"id_str": "454102718",
+				"name": "안남시 총기연맹",
+				"screen_name": "il_yo_",
+				"location": "경기도 안남시 한서로 17",
+				"description": "안남시 총기연맹은 48만 안남 시민의 자립과 복지를 위한 다락방과 리볼버를 제공합니다. 시민을 위한 안남의 마중물이 되겠습니다.",
+				"url": "https://t.co/Da1ADW63gr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Da1ADW63gr",
+								"expanded_url": "http://iannam.net",
+								"display_url": "iannam.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4176,
+				"friends_count": 223,
+				"listed_count": 70,
+				"created_at": "Tue Jan 03 16:39:45 +0000 2012",
+				"favourites_count": 14953,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 86604,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/791367770797596672/YsVvaZFQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/791367770797596672/YsVvaZFQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/454102718/1468393656",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Nov 18 16:31:38 +0000 2016",
+		"id": 799651286916350000,
+		"id_str": "799651286916349952",
+		"text": "RT @hanjulnews: 美 정치학 교수 “175만명 비폭력 시위하면 정권 무너져” https://t.co/ifMFkv7ANZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hanjulnews",
+					"name": "한줄뉴스",
+					"id": 298220307,
+					"id_str": "298220307",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ifMFkv7ANZ",
+					"expanded_url": "http://biz.heraldcorp.com/view.php?ud=20161115000846&pp=002",
+					"display_url": "biz.heraldcorp.com/view.php?ud=20…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1041,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7810,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 18 14:55:47 +0000 2016",
+			"id": 799627167629905900,
+			"id_str": "799627167629905920",
+			"text": "美 정치학 교수 “175만명 비폭력 시위하면 정권 무너져” https://t.co/ifMFkv7ANZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ifMFkv7ANZ",
+						"expanded_url": "http://biz.heraldcorp.com/view.php?ud=20161115000846&pp=002",
+						"display_url": "biz.heraldcorp.com/view.php?ud=20…",
+						"indices": [
+							33,
+							56
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 298220307,
+				"id_str": "298220307",
+				"name": "한줄뉴스",
+				"screen_name": "hanjulnews",
+				"location": "대한민국, 서울",
+				"description": "세상의 뉴스를 한 줄로 전한다. RT가 세상을 바꾼다. 미디어, 신문, 언론",
+				"url": "http://t.co/2QnynrNjNr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/2QnynrNjNr",
+								"expanded_url": "https://twitter.com/hanjulnews",
+								"display_url": "twitter.com/hanjulnews",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 70916,
+				"friends_count": 77609,
+				"listed_count": 696,
+				"created_at": "Fri May 13 22:56:11 +0000 2011",
+				"favourites_count": 103,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 25938,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/252951256/Untitled-3.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/252951256/Untitled-3.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1496467588/Untitled-2_bigger_normal.gif",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496467588/Untitled-2_bigger_normal.gif",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Nov 18 16:28:41 +0000 2016",
+		"id": 799650546810437600,
+		"id_str": "799650546810437632",
+		"text": "@sayanghwa 혼자서요?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sayanghwa",
+					"name": "햇살 속의 레이먼드",
+					"id": 1696420058,
+					"id_str": "1696420058",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 799623223885168600,
+		"in_reply_to_status_id_str": "799623223885168640",
+		"in_reply_to_user_id": 1696420058,
+		"in_reply_to_user_id_str": "1696420058",
+		"in_reply_to_screen_name": "sayanghwa",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1041,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7810,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Nov 18 15:57:58 +0000 2016",
 		"id": 799642816129314800,
 		"id_str": "799642816129314816",
