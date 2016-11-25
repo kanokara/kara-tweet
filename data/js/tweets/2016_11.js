@@ -1,6 +1,882 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Fri Nov 25 17:12:59 +0000 2016",
+		"id": 802198408551247900,
+		"id_str": "802198408551247872",
+		"text": "@lumir_lumi 루미르 님의 개인사도 좋아해요...!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lumir_lumi",
+					"name": "루미르",
+					"id": 760682012722147300,
+					"id_str": "760682012722147332",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": 802198199758766100,
+		"in_reply_to_status_id_str": "802198199758766080",
+		"in_reply_to_user_id": 760682012722147300,
+		"in_reply_to_user_id_str": "760682012722147332",
+		"in_reply_to_screen_name": "lumir_lumi",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1044,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7891,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Nov 25 17:10:49 +0000 2016",
+		"id": 802197865162383400,
+		"id_str": "802197865162383360",
+		"text": "@lumir_lumi 눈을 비비며 기다리고 있답니다!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lumir_lumi",
+					"name": "루미르",
+					"id": 760682012722147300,
+					"id_str": "760682012722147332",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": 802186027230056400,
+		"in_reply_to_status_id_str": "802186027230056448",
+		"in_reply_to_user_id": 760682012722147300,
+		"in_reply_to_user_id_str": "760682012722147332",
+		"in_reply_to_screen_name": "lumir_lumi",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1044,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7891,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Nov 25 16:28:33 +0000 2016",
+		"id": 802187226054393900,
+		"id_str": "802187226054393856",
+		"text": "@sayanghwa 읽은 지 워낙 오래돼서 (안 쓰던 뇌 부위가 활성화되며) 살짝 짜증스럽고 출처가 기억이 안 나긴 하는데, 그래서 김동인 이래로 그 일파가 권력을 잡으며 한국 문학계가 '순수문학'으로 경도되었을 거예요.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sayanghwa",
+					"name": "햇살 속의 레이먼드",
+					"id": 1696420058,
+					"id_str": "1696420058",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 802185391210053600,
+		"in_reply_to_status_id_str": "802185391210053632",
+		"in_reply_to_user_id": 1696420058,
+		"in_reply_to_user_id_str": "1696420058",
+		"in_reply_to_screen_name": "sayanghwa",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1044,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7891,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Nov 25 16:23:19 +0000 2016",
+		"id": 802185912008355800,
+		"id_str": "802185912008355840",
+		"text": "RT @clipstudiopaint: 【최대 60 %할인】Special Sale\n11월 24일(목) – 29일(화)\n이 기회를 놓치지 마세요!\nhttps://t.co/PrNGPu3S26 https://t.co/BeSuFp2vDI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "clipstudiopaint",
+					"name": "CLIP STUDIO PAINT",
+					"id": 1693158097,
+					"id_str": "1693158097",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PrNGPu3S26",
+					"expanded_url": "http://bit.ly/1OjdnkO",
+					"display_url": "bit.ly/1OjdnkO",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 802016853140738000,
+					"id_str": "802016853140738049",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/CyFXqBzVQAAsdnk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CyFXqBzVQAAsdnk.jpg",
+					"url": "https://t.co/BeSuFp2vDI",
+					"display_url": "pic.twitter.com/BeSuFp2vDI",
+					"expanded_url": "https://twitter.com/clipstudiopaint/status/802018608159211520/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 802018608159211500,
+					"source_status_id_str": "802018608159211520",
+					"source_user_id": 1693158097,
+					"source_user_id_str": "1693158097"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 802016853140738000,
+					"id_str": "802016853140738049",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/CyFXqBzVQAAsdnk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CyFXqBzVQAAsdnk.jpg",
+					"url": "https://t.co/BeSuFp2vDI",
+					"display_url": "pic.twitter.com/BeSuFp2vDI",
+					"expanded_url": "https://twitter.com/clipstudiopaint/status/802018608159211520/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 180,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 802018608159211500,
+					"source_status_id_str": "802018608159211520",
+					"source_user_id": 1693158097,
+					"source_user_id_str": "1693158097",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 47067,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/802016853140738049/vid/1280x720/nomTlpD6YGDQN8km.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/802016853140738049/vid/320x180/X1LotAuJi3SL4-eg.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/802016853140738049/vid/640x360/WXeXy8L-34fB7FKR.mp4"
+							},
+							{
+								"content_type": "application/dash+xml",
+								"url": "https://video.twimg.com/amplify_video/802016853140738049/pl/sQ8v_KZlzVFrtb9J.mpd"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/802016853140738049/pl/sQ8v_KZlzVFrtb9J.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 1693158097,
+							"id_str": "1693158097",
+							"name": "CLIP STUDIO PAINT",
+							"screen_name": "clipstudiopaint",
+							"location": "",
+							"description": "The Ultimate tool for Manga & Illustrations. Please contact https://t.co/r2utxq1647 for inquiries.",
+							"url": "http://t.co/VsulNMcY3r",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/VsulNMcY3r",
+											"expanded_url": "http://www.clipstudio.net/en/",
+											"display_url": "clipstudio.net/en/",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/r2utxq1647",
+											"expanded_url": "http://bit.ly/1F9YvAu",
+											"display_url": "bit.ly/1F9YvAu",
+											"indices": [
+												60,
+												83
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 30692,
+							"friends_count": 4875,
+							"listed_count": 179,
+							"created_at": "Fri Aug 23 07:14:59 +0000 2013",
+							"favourites_count": 645,
+							"utc_offset": 32400,
+							"time_zone": "Tokyo",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 918,
+							"lang": "ja",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "131516",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/378800000343701556/aed29f4d1f173fc74b33a7a0da7b2e92_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000343701556/aed29f4d1f173fc74b33a7a0da7b2e92_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1693158097/1476350336",
+							"profile_link_color": "009999",
+							"profile_sidebar_border_color": "EEEEEE",
+							"profile_sidebar_fill_color": "EFEFEF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1044,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7891,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 25 05:18:31 +0000 2016",
+			"id": 802018608159211500,
+			"id_str": "802018608159211520",
+			"text": "【최대 60 %할인】Special Sale\n11월 24일(목) – 29일(화)\n이 기회를 놓치지 마세요!\nhttps://t.co/PrNGPu3S26 https://t.co/BeSuFp2vDI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PrNGPu3S26",
+						"expanded_url": "http://bit.ly/1OjdnkO",
+						"display_url": "bit.ly/1OjdnkO",
+						"indices": [
+							59,
+							82
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 802016853140738000,
+						"id_str": "802016853140738049",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/CyFXqBzVQAAsdnk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CyFXqBzVQAAsdnk.jpg",
+						"url": "https://t.co/BeSuFp2vDI",
+						"display_url": "pic.twitter.com/BeSuFp2vDI",
+						"expanded_url": "https://twitter.com/clipstudiopaint/status/802018608159211520/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 320,
+								"h": 180,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 320,
+								"h": 180,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 320,
+								"h": 180,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 802016853140738000,
+						"id_str": "802016853140738049",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/CyFXqBzVQAAsdnk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CyFXqBzVQAAsdnk.jpg",
+						"url": "https://t.co/BeSuFp2vDI",
+						"display_url": "pic.twitter.com/BeSuFp2vDI",
+						"expanded_url": "https://twitter.com/clipstudiopaint/status/802018608159211520/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 320,
+								"h": 180,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 320,
+								"h": 180,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 320,
+								"h": 180,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 47067,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/802016853140738049/vid/1280x720/nomTlpD6YGDQN8km.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/802016853140738049/vid/320x180/X1LotAuJi3SL4-eg.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/802016853140738049/vid/640x360/WXeXy8L-34fB7FKR.mp4"
+								},
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/amplify_video/802016853140738049/pl/sQ8v_KZlzVFrtb9J.mpd"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/802016853140738049/pl/sQ8v_KZlzVFrtb9J.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1693158097,
+				"id_str": "1693158097",
+				"name": "CLIP STUDIO PAINT",
+				"screen_name": "clipstudiopaint",
+				"location": "",
+				"description": "The Ultimate tool for Manga & Illustrations. Please contact https://t.co/r2utxq1647 for inquiries.",
+				"url": "http://t.co/VsulNMcY3r",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/VsulNMcY3r",
+								"expanded_url": "http://www.clipstudio.net/en/",
+								"display_url": "clipstudio.net/en/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/r2utxq1647",
+								"expanded_url": "http://bit.ly/1F9YvAu",
+								"display_url": "bit.ly/1F9YvAu",
+								"indices": [
+									60,
+									83
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 30692,
+				"friends_count": 4875,
+				"listed_count": 179,
+				"created_at": "Fri Aug 23 07:14:59 +0000 2013",
+				"favourites_count": 645,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 918,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000343701556/aed29f4d1f173fc74b33a7a0da7b2e92_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000343701556/aed29f4d1f173fc74b33a7a0da7b2e92_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1693158097/1476350336",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1710,
+			"favorite_count": 964,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"scopes": {
+				"followers": false
+			},
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1710,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Nov 25 16:18:50 +0000 2016",
+		"id": 802184783669231600,
+		"id_str": "802184783669231616",
+		"text": "@sayanghwa 당시에 일제가 사회 비판적인 소설을 탄압한 결과로 남은 게 소위 통속 소설이라 할지라도, 다만 남은 게 통속 소설일 뿐이지 '남았다는 현상' 그 자체로 어떤 가치를 가리킨다고 보면 문제가 있죠.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sayanghwa",
+					"name": "햇살 속의 레이먼드",
+					"id": 1696420058,
+					"id_str": "1696420058",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 802183101375881200,
+		"in_reply_to_status_id_str": "802183101375881216",
+		"in_reply_to_user_id": 1696420058,
+		"in_reply_to_user_id_str": "1696420058",
+		"in_reply_to_screen_name": "sayanghwa",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1044,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7891,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Nov 25 16:05:03 +0000 2016",
 		"id": 802181311980924900,
 		"id_str": "802181311980924928",
