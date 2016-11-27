@@ -1,6 +1,1675 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sun Nov 27 18:10:33 +0000 2016",
+		"id": 802937670166949900,
+		"id_str": "802937670166949888",
+		"text": "&lt;새가 있는 풍경&gt; ~ &lt;이야기&gt;를 아웃레인지하다.\nhttps://t.co/5Ypco4ifO6\n\n이 글에서 오시이가 고민하는 문제는 역시 잘못된 문제 설정에 의거하는 것. 이런 접근은 우발성을 낳지 않고 (의도로 해석될) 노이즈를 낳을 뿐임.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5Ypco4ifO6",
+					"expanded_url": "http://egloos.zum.com/noobcoela/v/2525262",
+					"display_url": "egloos.zum.com/noobcoela/v/25…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": 802932862865412100,
+		"in_reply_to_status_id_str": "802932862865412096",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1042,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7921,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Nov 27 17:51:26 +0000 2016",
+		"id": 802932862865412100,
+		"id_str": "802932862865412096",
+		"text": "전혀 생각하지 못한 문맥의 연결을 찾아내는 것은 참신하나, 그 역으로 전혀 상관이 없는 문맥을 연결시킬 뿐인 비평은 타당성을 상실. 그렇기에 비평이 '재배치, 재배열, 재의미화 작업'이라고 말하기 위해선 언제나 단서가 붙어야 함을 유의해야.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 802931417717952500,
+		"in_reply_to_status_id_str": "802931417717952512",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1042,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7921,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Nov 27 17:45:42 +0000 2016",
+		"id": 802931417717952500,
+		"id_str": "802931417717952512",
+		"text": "작가가 의식하지 못한 사회 체계의 작용이 텍스트에 깃드는 것으로만 '의외의' 우발성이 창출되며, 알레고리가 설정된 것이 아닌 한, 비평의 유효성은 어디까지나 그 문맥이 맞닿은 사회 비평 / 장르 비평 / 환경 분석 등에 의한 것에 국한됨.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 802930065352851500,
+		"in_reply_to_status_id_str": "802930065352851456",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1042,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7921,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Nov 27 17:40:19 +0000 2016",
+		"id": 802930065352851500,
+		"id_str": "802930065352851456",
+		"text": "그러나 여전히 (평론뿐 아니라) 비평의 자율성이 텍스트의 함의 바깥에서도 유효한가는 의문.\nhttps://t.co/TQ49N4xg1E",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TQ49N4xg1E",
+					"expanded_url": "https://twitter.com/MarooinFriend/status/800960737464041472",
+					"display_url": "twitter.com/MarooinFriend/…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1042,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7921,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 800960737464041500,
+		"quoted_status_id_str": "800960737464041472",
+		"quoted_status": {
+			"created_at": "Tue Nov 22 07:14:55 +0000 2016",
+			"id": 800960737464041500,
+			"id_str": "800960737464041472",
+			"text": "어... 비평이 작가의 의도를 맞추는 거라고 생각한다면 그 장르는 존재 가치가 없는 겁니다... 수수께끼랑 다를 게 뭐가 있나요... 그리고 독자들이 묻기 전에 자기 창작 의도를 써놓으면 사실 끝나는 건데...\n\n비평은 재배치, 재배열, 재의미화 작업",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2842183651,
+				"id_str": "2842183651",
+				"name": "마루/승류",
+				"screen_name": "MarooinFriend",
+				"location": "",
+				"description": "대학원 노예\nhttps://t.co/BesglHr3TC",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/BesglHr3TC",
+								"expanded_url": "http://ask.fm/MarooinFriend",
+								"display_url": "ask.fm/MarooinFriend",
+								"indices": [
+									7,
+									30
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 323,
+				"friends_count": 722,
+				"listed_count": 4,
+				"created_at": "Mon Oct 06 08:47:28 +0000 2014",
+				"favourites_count": 2851,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7604,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/799669724346863616/uT68eESh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/799669724346863616/uT68eESh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2842183651/1418310907",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Nov 27 17:35:47 +0000 2016",
+		"id": 802928923033993200,
+		"id_str": "802928923033993216",
+		"text": "@sayanghwa 일주일 전 트윗이지만, 파워 문제일 가능성이 커요. 키고 얼마 안 돼서 꺼지는 경우가 잦으면 더욱. (경험자)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sayanghwa",
+					"name": "햇살 속의 레이먼드",
+					"id": 1696420058,
+					"id_str": "1696420058",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 801020403002916900,
+		"in_reply_to_status_id_str": "801020403002916865",
+		"in_reply_to_user_id": 1696420058,
+		"in_reply_to_user_id_str": "1696420058",
+		"in_reply_to_screen_name": "sayanghwa",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1042,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7921,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Nov 27 17:25:26 +0000 2016",
+		"id": 802926316815151100,
+		"id_str": "802926316815151104",
+		"text": "RT @femi_booksalon: 국가 안으로 ‘가족'이라는 윤리 개념이 들어와서 폭력적 정치권력을 자연적 질서로 위장한 것이죠. \n\n‘가족국가 이데올로기 안에서 페미니즘 운동은 이론적으로 불가능했다.’",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "femi_booksalon",
+					"name": "페미니스트 북클럽 & 살롱",
+					"id": 761899341053202400,
+					"id_str": "761899341053202433",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1042,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7921,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 27 04:49:18 +0000 2016",
+			"id": 802736030117810200,
+			"id_str": "802736030117810176",
+			"text": "국가 안으로 ‘가족'이라는 윤리 개념이 들어와서 폭력적 정치권력을 자연적 질서로 위장한 것이죠. \n\n‘가족국가 이데올로기 안에서 페미니즘 운동은 이론적으로 불가능했다.’",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 802735984538288100,
+			"in_reply_to_status_id_str": "802735984538288128",
+			"in_reply_to_user_id": 761899341053202400,
+			"in_reply_to_user_id_str": "761899341053202433",
+			"in_reply_to_screen_name": "femi_booksalon",
+			"user": {
+				"id": 761899341053202400,
+				"id_str": "761899341053202433",
+				"name": "페미니스트 북클럽 & 살롱",
+				"screen_name": "femi_booksalon",
+				"location": "",
+				"description": "‘페미니스트 북클럽 앤 살롱(FEMINIST Bookclub & Salon)’은 페미니즘 스터디 모임에서 접하기 어려운 이/공학계와 정치분야, 그리고 여전히 생소한 동아시아에서의 페미니즘을 집중적으로 알아보는 스터디 모임입니다. 기존 자료에 더해 자체 자료를 제작/공유합니다.",
+				"url": "https://t.co/1KUTG7gZZU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1KUTG7gZZU",
+								"expanded_url": "http://thepin.ch/life/m1nj/fem-salon-0",
+								"display_url": "thepin.ch/life/m1nj/fem-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 934,
+				"friends_count": 78,
+				"listed_count": 21,
+				"created_at": "Sat Aug 06 12:18:53 +0000 2016",
+				"favourites_count": 57,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 882,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/761917435695931392/3PDiz6ok_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/761917435695931392/3PDiz6ok_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/761899341053202433/1470763374",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Nov 27 17:25:23 +0000 2016",
+		"id": 802926304798482400,
+		"id_str": "802926304798482432",
+		"text": "RT @femi_booksalon: 동아시아를 천황 아래 속하는 가족 국가로 만들고자 했다. 여기서 가장은 천황이었다.\"\n\"제국주의 조칙(효, 애정, 화합, 겸손, 박애)에 쓰인 사회적 코드들은 국가가족의 가장인 천황과 연결된다.\"",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "femi_booksalon",
+					"name": "페미니스트 북클럽 & 살롱",
+					"id": 761899341053202400,
+					"id_str": "761899341053202433",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1042,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7921,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 27 04:49:07 +0000 2016",
+			"id": 802735984538288100,
+			"id_str": "802735984538288128",
+			"text": "동아시아를 천황 아래 속하는 가족 국가로 만들고자 했다. 여기서 가장은 천황이었다.\"\n\"제국주의 조칙(효, 애정, 화합, 겸손, 박애)에 쓰인 사회적 코드들은 국가가족의 가장인 천황과 연결된다.\"",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 802735865189404700,
+			"in_reply_to_status_id_str": "802735865189404672",
+			"in_reply_to_user_id": 761899341053202400,
+			"in_reply_to_user_id_str": "761899341053202433",
+			"in_reply_to_screen_name": "femi_booksalon",
+			"user": {
+				"id": 761899341053202400,
+				"id_str": "761899341053202433",
+				"name": "페미니스트 북클럽 & 살롱",
+				"screen_name": "femi_booksalon",
+				"location": "",
+				"description": "‘페미니스트 북클럽 앤 살롱(FEMINIST Bookclub & Salon)’은 페미니즘 스터디 모임에서 접하기 어려운 이/공학계와 정치분야, 그리고 여전히 생소한 동아시아에서의 페미니즘을 집중적으로 알아보는 스터디 모임입니다. 기존 자료에 더해 자체 자료를 제작/공유합니다.",
+				"url": "https://t.co/1KUTG7gZZU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1KUTG7gZZU",
+								"expanded_url": "http://thepin.ch/life/m1nj/fem-salon-0",
+								"display_url": "thepin.ch/life/m1nj/fem-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 934,
+				"friends_count": 78,
+				"listed_count": 21,
+				"created_at": "Sat Aug 06 12:18:53 +0000 2016",
+				"favourites_count": 57,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 882,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/761917435695931392/3PDiz6ok_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/761917435695931392/3PDiz6ok_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/761899341053202433/1470763374",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Nov 27 17:25:20 +0000 2016",
+		"id": 802926292974772200,
+		"id_str": "802926292974772224",
+		"text": "RT @femi_booksalon: 이를 위해 먼저 일본의 근대화 과정, 일본 국가 건설 정치학 중 천황제 하의 일본 근대화 시기 가족국가 이데올로기의 문제점을 돌아봤습니다. \"서구 외세로부터 자국을 방어하고 지키기 위해 어떤 이데올로기를 작동시켜야…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "femi_booksalon",
+					"name": "페미니스트 북클럽 & 살롱",
+					"id": 761899341053202400,
+					"id_str": "761899341053202433",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1042,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7921,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 27 04:48:39 +0000 2016",
+			"id": 802735865189404700,
+			"id_str": "802735865189404672",
+			"text": "이를 위해 먼저 일본의 근대화 과정, 일본 국가 건설 정치학 중 천황제 하의 일본 근대화 시기 가족국가 이데올로기의 문제점을 돌아봤습니다. \"서구 외세로부터 자국을 방어하고 지키기 위해 어떤 이데올로기를 작… https://t.co/s8gf55NVE5",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/s8gf55NVE5",
+						"expanded_url": "https://twitter.com/i/web/status/802735865189404672",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 802735255501185000,
+			"in_reply_to_status_id_str": "802735255501185026",
+			"in_reply_to_user_id": 761899341053202400,
+			"in_reply_to_user_id_str": "761899341053202433",
+			"in_reply_to_screen_name": "femi_booksalon",
+			"user": {
+				"id": 761899341053202400,
+				"id_str": "761899341053202433",
+				"name": "페미니스트 북클럽 & 살롱",
+				"screen_name": "femi_booksalon",
+				"location": "",
+				"description": "‘페미니스트 북클럽 앤 살롱(FEMINIST Bookclub & Salon)’은 페미니즘 스터디 모임에서 접하기 어려운 이/공학계와 정치분야, 그리고 여전히 생소한 동아시아에서의 페미니즘을 집중적으로 알아보는 스터디 모임입니다. 기존 자료에 더해 자체 자료를 제작/공유합니다.",
+				"url": "https://t.co/1KUTG7gZZU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1KUTG7gZZU",
+								"expanded_url": "http://thepin.ch/life/m1nj/fem-salon-0",
+								"display_url": "thepin.ch/life/m1nj/fem-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 934,
+				"friends_count": 78,
+				"listed_count": 21,
+				"created_at": "Sat Aug 06 12:18:53 +0000 2016",
+				"favourites_count": 57,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 882,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/761917435695931392/3PDiz6ok_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/761917435695931392/3PDiz6ok_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/761899341053202433/1470763374",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Nov 27 17:22:43 +0000 2016",
+		"id": 802925633021956100,
+		"id_str": "802925633021956096",
+		"text": "만갤 클러스터에서 시작된 연쇄 반응.\nhttps://t.co/lLYGGNTQdw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lLYGGNTQdw",
+					"expanded_url": "https://twitter.com/instiz/status/802526668111757313",
+					"display_url": "twitter.com/instiz/status/…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1042,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7921,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 802526668111757300,
+		"quoted_status_id_str": "802526668111757313",
+		"quoted_status": {
+			"created_at": "Sat Nov 26 14:57:22 +0000 2016",
+			"id": 802526668111757300,
+			"id_str": "802526668111757313",
+			"text": "성적 좋아도 도쿄대 꺼리는 日 여고생들 왜? https://t.co/BpqLvXxehn (범득님 글) https://t.co/ReeSteYo8Q",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BpqLvXxehn",
+						"expanded_url": "http://instiz.net/pt/4227333",
+						"display_url": "instiz.net/pt/4227333",
+						"indices": [
+							25,
+							48
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 802526660436201500,
+						"id_str": "802526660436201473",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/CyMlvuYUkAEGpqs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CyMlvuYUkAEGpqs.jpg",
+						"url": "https://t.co/ReeSteYo8Q",
+						"display_url": "pic.twitter.com/ReeSteYo8Q",
+						"expanded_url": "https://twitter.com/instiz/status/802526668111757313/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 672,
+								"h": 792,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 672,
+								"h": 792,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 577,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 802526660436201500,
+						"id_str": "802526660436201473",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/CyMlvuYUkAEGpqs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CyMlvuYUkAEGpqs.jpg",
+						"url": "https://t.co/ReeSteYo8Q",
+						"display_url": "pic.twitter.com/ReeSteYo8Q",
+						"expanded_url": "https://twitter.com/instiz/status/802526668111757313/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 672,
+								"h": 792,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 672,
+								"h": 792,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 577,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 802526660440440800,
+						"id_str": "802526660440440833",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/CyMlvuZVQAEz4Ae.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CyMlvuZVQAEz4Ae.jpg",
+						"url": "https://t.co/ReeSteYo8Q",
+						"display_url": "pic.twitter.com/ReeSteYo8Q",
+						"expanded_url": "https://twitter.com/instiz/status/802526668111757313/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 457,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 672,
+								"h": 1001,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 672,
+								"h": 1001,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 802526660440358900,
+						"id_str": "802526660440358912",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/CyMlvuZUAAA8eMG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CyMlvuZUAAA8eMG.jpg",
+						"url": "https://t.co/ReeSteYo8Q",
+						"display_url": "pic.twitter.com/ReeSteYo8Q",
+						"expanded_url": "https://twitter.com/instiz/status/802526668111757313/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 672,
+								"h": 516,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 672,
+								"h": 516,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 672,
+								"h": 516,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 184363884,
+				"id_str": "184363884",
+				"name": "인스티즈 연예소식",
+				"screen_name": "instiz",
+				"location": "많은 연예계 이슈가 여기서 시작!",
+				"description": "국내 최대의 연예오락 커뮤니티, 인스티즈",
+				"url": "https://t.co/kA7Yyj98FV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kA7Yyj98FV",
+								"expanded_url": "http://www.instiz.net",
+								"display_url": "instiz.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 625206,
+				"friends_count": 485576,
+				"listed_count": 731,
+				"created_at": "Sun Aug 29 10:43:08 +0000 2010",
+				"favourites_count": 2,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 42635,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000001380770/0b0611f726d7cbba57d61b8d37e1b82b.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000001380770/0b0611f726d7cbba57d61b8d37e1b82b.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715915266723459072/AcOy5qqp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715915266723459072/AcOy5qqp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/184363884/1459522481",
+				"profile_link_color": "0DAB57",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1813,
+			"favorite_count": 273,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Nov 27 17:19:17 +0000 2016",
+		"id": 802924771176390700,
+		"id_str": "802924771176390657",
+		"text": "RT @ongoingwithyou1: DJDOC '검열' 논란에 부쳐. 일단 '대중의 반발은 억압이 아니다'라는 프레임은 찬성하지 않는다. 밀의 &lt;자유론&gt;부터가 대중의 시선과 압력도 공권력 이상으로 자유를 억압하는 힘이 될 수 있다는 인식에서 동기를…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ongoingwithyou1",
+					"name": "미래",
+					"id": 3259851548,
+					"id_str": "3259851548",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1042,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7921,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 26 19:11:11 +0000 2016",
+			"id": 802590541074538500,
+			"id_str": "802590541074538496",
+			"text": "DJDOC '검열' 논란에 부쳐. 일단 '대중의 반발은 억압이 아니다'라는 프레임은 찬성하지 않는다. 밀의 &lt;자유론&gt;부터가 대중의 시선과 압력도 공권력 이상으로 자유를 억압하는 힘이 될 수 있다는 인식에서 동기를 얻어 쓴 책임.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3259851548,
+				"id_str": "3259851548",
+				"name": "미래",
+				"screen_name": "ongoingwithyou1",
+				"location": "",
+				"description": "사회주의자 / 논바이너리 / 성별주의, 에이블리즘, 나이주의, 인종주의, 약소민족에 대한 억압에 반대합니다 / 사회는 생태 위기를 진지하게 받아들여야 합니다. 종 번성권을 지지합니다",
+				"url": "https://t.co/lDlSGmhuea",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lDlSGmhuea",
+								"expanded_url": "http://anotherworld.kr",
+								"display_url": "anotherworld.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 252,
+				"friends_count": 228,
+				"listed_count": 1,
+				"created_at": "Mon Jun 29 11:36:08 +0000 2015",
+				"favourites_count": 1708,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8864,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/788438703043731456/_S950ebU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/788438703043731456/_S950ebU_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Nov 27 17:15:52 +0000 2016",
+		"id": 802923911281188900,
+		"id_str": "802923911281188864",
+		"text": "Chalili feat.N.U. - Echo (original PV) https://t.co/VCv6Umxx2F @YouTube 님이 공유",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						63,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VCv6Umxx2F",
+					"expanded_url": "https://youtu.be/y-OEpVT9Vsc",
+					"display_url": "youtu.be/y-OEpVT9Vsc",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 802921688388157400,
+		"in_reply_to_status_id_str": "802921688388157440",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1042,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7921,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Nov 27 17:07:02 +0000 2016",
 		"id": 802921688388157400,
 		"id_str": "802921688388157440",
