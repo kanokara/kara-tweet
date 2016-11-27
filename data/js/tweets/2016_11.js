@@ -1,6 +1,753 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Sun Nov 27 19:04:01 +0000 2016",
+		"id": 802951127897514000,
+		"id_str": "802951127897513984",
+		"text": "나(체계)는 상대(체계)를 얼마나 이해(하여 대상화)하고 있는가? 이해는 상대 안으로 들어가 그 의미를 파악하는 것. 내 안의 의미짓기는 곧 대상화. 한없이 상대에 가닿으려는 노력 없는 해석은 그렇기에 공허하다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": 802947902142169100,
+		"in_reply_to_status_id_str": "802947902142169088",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1042,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7925,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Nov 27 18:51:12 +0000 2016",
+		"id": 802947902142169100,
+		"id_str": "802947902142169088",
+		"text": "비평, 독해, 읽기의 무제한적 긍정을 유발하는 이론은 분명한 오독을 두고서도 그것을 '읽기의 다양성'이란 포장 아래 오독으로써 부인할 수 없게 만드는 결과를 초래. 개인(의 맥락/체계)적 감상/초점의 의미생산은 무한하나 그 의미가 모두 유효하진 않다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": 802942599161987100,
+		"in_reply_to_status_id_str": "802942599161987072",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1042,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7925,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Nov 27 18:33:17 +0000 2016",
+		"id": 802943392200036400,
+		"id_str": "802943392200036352",
+		"text": "RT @instiz: 샤오미에서 대한민국을 위해 신상품을 출시.jpg https://t.co/ZxUInHBYtY (000321님 글) https://t.co/MlUlW88T8a",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "instiz",
+					"name": "인스티즈 연예소식",
+					"id": 184363884,
+					"id_str": "184363884",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZxUInHBYtY",
+					"expanded_url": "http://instiz.net/pt/4227097",
+					"display_url": "instiz.net/pt/4227097",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 802526897410220000,
+					"id_str": "802526897410220032",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/CyMl9hLVIAAvHPS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CyMl9hLVIAAvHPS.jpg",
+					"url": "https://t.co/MlUlW88T8a",
+					"display_url": "pic.twitter.com/MlUlW88T8a",
+					"expanded_url": "https://twitter.com/instiz/status/802526908374126593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 658,
+							"h": 1211,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 652,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 369,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 802526908374126600,
+					"source_status_id_str": "802526908374126593",
+					"source_user_id": 184363884,
+					"source_user_id_str": "184363884"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 802526897410220000,
+					"id_str": "802526897410220032",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/CyMl9hLVIAAvHPS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CyMl9hLVIAAvHPS.jpg",
+					"url": "https://t.co/MlUlW88T8a",
+					"display_url": "pic.twitter.com/MlUlW88T8a",
+					"expanded_url": "https://twitter.com/instiz/status/802526908374126593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 658,
+							"h": 1211,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 652,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 369,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 802526908374126600,
+					"source_status_id_str": "802526908374126593",
+					"source_user_id": 184363884,
+					"source_user_id_str": "184363884"
+				},
+				{
+					"id": 802526897393414100,
+					"id_str": "802526897393414144",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/CyMl9hHUsAAphiX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CyMl9hHUsAAphiX.jpg",
+					"url": "https://t.co/MlUlW88T8a",
+					"display_url": "pic.twitter.com/MlUlW88T8a",
+					"expanded_url": "https://twitter.com/instiz/status/802526908374126593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 384,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 658,
+							"h": 1164,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 658,
+							"h": 1164,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 802526908374126600,
+					"source_status_id_str": "802526908374126593",
+					"source_user_id": 184363884,
+					"source_user_id_str": "184363884"
+				},
+				{
+					"id": 802526897368277000,
+					"id_str": "802526897368276992",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/CyMl9hBVIAAAPtn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CyMl9hBVIAAAPtn.jpg",
+					"url": "https://t.co/MlUlW88T8a",
+					"display_url": "pic.twitter.com/MlUlW88T8a",
+					"expanded_url": "https://twitter.com/instiz/status/802526908374126593/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 658,
+							"h": 927,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 658,
+							"h": 927,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 802526908374126600,
+					"source_status_id_str": "802526908374126593",
+					"source_user_id": 184363884,
+					"source_user_id_str": "184363884"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1042,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7925,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 26 14:58:19 +0000 2016",
+			"id": 802526908374126600,
+			"id_str": "802526908374126593",
+			"text": "샤오미에서 대한민국을 위해 신상품을 출시.jpg https://t.co/ZxUInHBYtY (000321님 글) https://t.co/MlUlW88T8a",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZxUInHBYtY",
+						"expanded_url": "http://instiz.net/pt/4227097",
+						"display_url": "instiz.net/pt/4227097",
+						"indices": [
+							27,
+							50
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 802526897410220000,
+						"id_str": "802526897410220032",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/CyMl9hLVIAAvHPS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CyMl9hLVIAAvHPS.jpg",
+						"url": "https://t.co/MlUlW88T8a",
+						"display_url": "pic.twitter.com/MlUlW88T8a",
+						"expanded_url": "https://twitter.com/instiz/status/802526908374126593/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 658,
+								"h": 1211,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 652,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 369,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 802526897410220000,
+						"id_str": "802526897410220032",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/CyMl9hLVIAAvHPS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CyMl9hLVIAAvHPS.jpg",
+						"url": "https://t.co/MlUlW88T8a",
+						"display_url": "pic.twitter.com/MlUlW88T8a",
+						"expanded_url": "https://twitter.com/instiz/status/802526908374126593/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 658,
+								"h": 1211,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 652,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 369,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 802526897393414100,
+						"id_str": "802526897393414144",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/CyMl9hHUsAAphiX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CyMl9hHUsAAphiX.jpg",
+						"url": "https://t.co/MlUlW88T8a",
+						"display_url": "pic.twitter.com/MlUlW88T8a",
+						"expanded_url": "https://twitter.com/instiz/status/802526908374126593/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 384,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 658,
+								"h": 1164,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 658,
+								"h": 1164,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 802526897368277000,
+						"id_str": "802526897368276992",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/CyMl9hBVIAAAPtn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CyMl9hBVIAAAPtn.jpg",
+						"url": "https://t.co/MlUlW88T8a",
+						"display_url": "pic.twitter.com/MlUlW88T8a",
+						"expanded_url": "https://twitter.com/instiz/status/802526908374126593/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 483,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 658,
+								"h": 927,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 658,
+								"h": 927,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 184363884,
+				"id_str": "184363884",
+				"name": "인스티즈 연예소식",
+				"screen_name": "instiz",
+				"location": "많은 연예계 이슈가 여기서 시작!",
+				"description": "국내 최대의 연예오락 커뮤니티, 인스티즈",
+				"url": "https://t.co/kA7Yyj98FV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kA7Yyj98FV",
+								"expanded_url": "http://www.instiz.net",
+								"display_url": "instiz.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 625217,
+				"friends_count": 485575,
+				"listed_count": 728,
+				"created_at": "Sun Aug 29 10:43:08 +0000 2010",
+				"favourites_count": 2,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 42635,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000001380770/0b0611f726d7cbba57d61b8d37e1b82b.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000001380770/0b0611f726d7cbba57d61b8d37e1b82b.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715915266723459072/AcOy5qqp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715915266723459072/AcOy5qqp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/184363884/1459522481",
+				"profile_link_color": "0DAB57",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10481,
+			"favorite_count": 2376,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10481,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Nov 27 18:30:08 +0000 2016",
+		"id": 802942599161987100,
+		"id_str": "802942599161987072",
+		"text": "비평의 자율성에 대한 순진한 전제 위에서 작품의 자율성을 사고하고, 매체, 이야기, 기호체계의 관계에 대한 사고 역시도 철저하지 못함. 당연하지만 딱히 오시이의 문제라기보다 신비평 이래로 논자들이 이 문제를 정교하게 다루지 못해 왔기 때문.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": 802937670166949900,
+		"in_reply_to_status_id_str": "802937670166949888",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1042,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7925,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Nov 27 18:10:33 +0000 2016",
 		"id": 802937670166949900,
 		"id_str": "802937670166949888",
