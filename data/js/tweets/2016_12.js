@@ -1,6 +1,1254 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sat Dec 03 11:10:13 +0000 2016",
+		"id": 805006219005960200,
+		"id_str": "805006219005960192",
+		"text": "@Bloomers_Suki 크리스마스 선물로 보내달라는 어필이 아닐까요...!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bloomers_Suki",
+					"name": "씁",
+					"id": 220722651,
+					"id_str": "220722651",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": 805005328240689200,
+		"in_reply_to_status_id_str": "805005328240689152",
+		"in_reply_to_user_id": 220722651,
+		"in_reply_to_user_id_str": "220722651",
+		"in_reply_to_screen_name": "Bloomers_Suki",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 58,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1040,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7994,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Dec 03 11:08:14 +0000 2016",
+		"id": 805005719300804600,
+		"id_str": "805005719300804608",
+		"text": "@dvddog 수리철학 같은 데서는 논의되었을 법한 사안 같기는 해요. 다만 그게 의무교육 과정에 적용될 정도로 나아갔다면 국내 일반인들도 귓동냥 정도는 충분히 했겠죠.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dvddog",
+					"name": "데이비드 댕댕이",
+					"id": 3138788114,
+					"id_str": "3138788114",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": 805004961889169400,
+		"in_reply_to_status_id_str": "805004961889169408",
+		"in_reply_to_user_id": 3138788114,
+		"in_reply_to_user_id_str": "3138788114",
+		"in_reply_to_screen_name": "dvddog",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 58,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1040,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7994,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Dec 03 11:03:59 +0000 2016",
+		"id": 805004648448815100,
+		"id_str": "805004648448815104",
+		"text": "정의가 바뀌었다는 주장인데, 따로 알아봐야겠지만 그대로 믿기는 어렵네요.\nhttps://t.co/bEMomX81JD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bEMomX81JD",
+					"expanded_url": "https://twitter.com/Vulpes_No9/status/804871382345469952",
+					"display_url": "twitter.com/Vulpes_No9/sta…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 58,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1040,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7994,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 804871382345470000,
+		"quoted_status_id_str": "804871382345469952",
+		"quoted_status": {
+			"created_at": "Sat Dec 03 02:14:25 +0000 2016",
+			"id": 804871382345470000,
+			"id_str": "804871382345469952",
+			"text": "@coredevil1 @suyani30 이미 선진국에서는 곱하기 기호의 의미가 좀 더 발전해버린겁니다. 오늘의 수학이나 내일의 수학이 어제의 수학과 느리지만 조금씩 달라지고 있는건데요, 이러한 발전이 저는 긍정적으로 느껴집니다...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "coredevil1",
+						"name": "더불어바라기",
+						"id": 704994514373455900,
+						"id_str": "704994514373455873",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"screen_name": "suyani30",
+						"name": "수야니씨 🕯🎗",
+						"id": 59064947,
+						"id_str": "59064947",
+						"indices": [
+							12,
+							21
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 804852764194967600,
+			"in_reply_to_status_id_str": "804852764194967552",
+			"in_reply_to_user_id": 704994514373455900,
+			"in_reply_to_user_id_str": "704994514373455873",
+			"in_reply_to_screen_name": "coredevil1",
+			"user": {
+				"id": 1049439446,
+				"id_str": "1049439446",
+				"name": "*꿈사냥꾼",
+				"screen_name": "Vulpes_No9",
+				"location": "",
+				"description": "배회한다... 당신의 꿈 언저리에서...",
+				"url": "http://t.co/DyEgfOlbop",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/DyEgfOlbop",
+								"expanded_url": "http://thelocus.egloos.com/",
+								"display_url": "thelocus.egloos.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18632,
+				"friends_count": 422,
+				"listed_count": 282,
+				"created_at": "Mon Dec 31 03:57:55 +0000 2012",
+				"favourites_count": 947,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15537,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3432727410/9764069e60b16866e96eb5fd9853871d_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3432727410/9764069e60b16866e96eb5fd9853871d_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1049439446/1467382250",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Dec 03 11:02:58 +0000 2016",
+		"id": 805004392340435000,
+		"id_str": "805004392340434944",
+		"text": "RT @booiljoung: @Vulpes_No9 @zedoring @coredevil1 @suyani30 5x3 = 3x5가 다르다는 얘기가 아니라 5x3을 풀어쓰라는 문제로 보입니다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "booiljoung",
+					"name": "Ted",
+					"id": 108540557,
+					"id_str": "108540557",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "Vulpes_No9",
+					"name": "*꿈사냥꾼",
+					"id": 1049439446,
+					"id_str": "1049439446",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "zedoring",
+					"name": "15세 재도링",
+					"id": 16928656,
+					"id_str": "16928656",
+					"indices": [
+						28,
+						37
+					]
+				},
+				{
+					"screen_name": "coredevil1",
+					"name": "더불어바라기",
+					"id": 704994514373455900,
+					"id_str": "704994514373455873",
+					"indices": [
+						38,
+						49
+					]
+				},
+				{
+					"screen_name": "suyani30",
+					"name": "수야니씨 🕯🎗",
+					"id": 59064947,
+					"id_str": "59064947",
+					"indices": [
+						50,
+						59
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 58,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1040,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7994,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 03 07:42:37 +0000 2016",
+			"id": 804953976311451600,
+			"id_str": "804953976311451648",
+			"text": "@Vulpes_No9 @zedoring @coredevil1 @suyani30 5x3 = 3x5가 다르다는 얘기가 아니라 5x3을 풀어쓰라는 문제로 보입니다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Vulpes_No9",
+						"name": "*꿈사냥꾼",
+						"id": 1049439446,
+						"id_str": "1049439446",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"screen_name": "zedoring",
+						"name": "15세 재도링",
+						"id": 16928656,
+						"id_str": "16928656",
+						"indices": [
+							12,
+							21
+						]
+					},
+					{
+						"screen_name": "coredevil1",
+						"name": "더불어바라기",
+						"id": 704994514373455900,
+						"id_str": "704994514373455873",
+						"indices": [
+							22,
+							33
+						]
+					},
+					{
+						"screen_name": "suyani30",
+						"name": "수야니씨 🕯🎗",
+						"id": 59064947,
+						"id_str": "59064947",
+						"indices": [
+							34,
+							43
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 804871382345470000,
+			"in_reply_to_status_id_str": "804871382345469952",
+			"in_reply_to_user_id": 1049439446,
+			"in_reply_to_user_id_str": "1049439446",
+			"in_reply_to_screen_name": "Vulpes_No9",
+			"user": {
+				"id": 108540557,
+				"id_str": "108540557",
+				"name": "Ted",
+				"screen_name": "booiljoung",
+				"location": "Our Galaxy",
+				"description": "S/W & Game Developer, Product Director, Founder, Pianist, Guitarist, May the Force be with You.",
+				"url": "https://t.co/UzIwl8ZGXO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UzIwl8ZGXO",
+								"expanded_url": "http://booiljoung.blogspot.kr",
+								"display_url": "booiljoung.blogspot.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1679,
+				"friends_count": 655,
+				"listed_count": 86,
+				"created_at": "Tue Jan 26 07:25:37 +0000 2010",
+				"favourites_count": 10913,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 36902,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF04D",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/575824257868922880/5aBhE4Yb.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/575824257868922880/5aBhE4Yb.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/690180461541261312/QH2X1mVS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/690180461541261312/QH2X1mVS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/108540557/1461060988",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Dec 03 11:00:50 +0000 2016",
+		"id": 805003857692528600,
+		"id_str": "805003857692528640",
+		"text": "RT @Vulpes_No9: 사진속 시험문제의 답안이 감점이 된 것은 Common Core Standard에서는 곱하기 기호의 의미를 'Groups of'이라고 정의하기 때문에, 5x3은 5 Groups of 3이 되기 때문입니다...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Vulpes_No9",
+					"name": "*꿈사냥꾼",
+					"id": 1049439446,
+					"id_str": "1049439446",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 58,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1040,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7994,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 02 14:15:38 +0000 2016",
+			"id": 804690494231978000,
+			"id_str": "804690494231977985",
+			"text": "사진속 시험문제의 답안이 감점이 된 것은 Common Core Standard에서는 곱하기 기호의 의미를 'Groups of'이라고 정의하기 때문에, 5x3은 5 Groups of 3이 되기 때문입니다...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 804679436729651200,
+			"in_reply_to_status_id_str": "804679436729651200",
+			"in_reply_to_user_id": 1049439446,
+			"in_reply_to_user_id_str": "1049439446",
+			"in_reply_to_screen_name": "Vulpes_No9",
+			"user": {
+				"id": 1049439446,
+				"id_str": "1049439446",
+				"name": "*꿈사냥꾼",
+				"screen_name": "Vulpes_No9",
+				"location": "",
+				"description": "배회한다... 당신의 꿈 언저리에서...",
+				"url": "http://t.co/DyEgfOlbop",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/DyEgfOlbop",
+								"expanded_url": "http://thelocus.egloos.com/",
+								"display_url": "thelocus.egloos.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18632,
+				"friends_count": 422,
+				"listed_count": 282,
+				"created_at": "Mon Dec 31 03:57:55 +0000 2012",
+				"favourites_count": 947,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15537,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3432727410/9764069e60b16866e96eb5fd9853871d_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3432727410/9764069e60b16866e96eb5fd9853871d_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1049439446/1467382250",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 191,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 191,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Dec 03 11:00:41 +0000 2016",
+		"id": 805003819062988800,
+		"id_str": "805003819062988800",
+		"text": "RT @Vulpes_No9: 수학에서 5x3=3x5 라는 등식은 참인가?...\n최근에는 그렇지 않다고 가르치는 교사들이 많다고 한다...계산한 결과는 같지만, 3이 5개인 것과 5가 3개인 것은 분명히 다른 메세지라는 것...\n수학은 놀라운 학문이다…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Vulpes_No9",
+					"name": "*꿈사냥꾼",
+					"id": 1049439446,
+					"id_str": "1049439446",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 58,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1040,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7994,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Dec 02 13:31:42 +0000 2016",
+			"id": 804679436729651200,
+			"id_str": "804679436729651200",
+			"text": "수학에서 5x3=3x5 라는 등식은 참인가?...\n최근에는 그렇지 않다고 가르치는 교사들이 많다고 한다...계산한 결과는 같지만, 3이 5개인 것과 5가 3개인 것은 분명히 다른 메세지라는 것...\n수학은… https://t.co/ZY4WANYlnq",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZY4WANYlnq",
+						"expanded_url": "https://twitter.com/i/web/status/804679436729651200",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1049439446,
+				"id_str": "1049439446",
+				"name": "*꿈사냥꾼",
+				"screen_name": "Vulpes_No9",
+				"location": "",
+				"description": "배회한다... 당신의 꿈 언저리에서...",
+				"url": "http://t.co/DyEgfOlbop",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/DyEgfOlbop",
+								"expanded_url": "http://thelocus.egloos.com/",
+								"display_url": "thelocus.egloos.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18632,
+				"friends_count": 422,
+				"listed_count": 282,
+				"created_at": "Mon Dec 31 03:57:55 +0000 2012",
+				"favourites_count": 947,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15537,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3432727410/9764069e60b16866e96eb5fd9853871d_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3432727410/9764069e60b16866e96eb5fd9853871d_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1049439446/1467382250",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3121,
+			"favorite_count": 461,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3121,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Dec 03 10:40:53 +0000 2016",
+		"id": 804998838029152300,
+		"id_str": "804998838029152256",
+		"text": "앱을 지워서 모르고 있었는데, 이 속도면 곧 1000RT 돌파...!\nhttps://t.co/JGjowxiQmf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JGjowxiQmf",
+					"expanded_url": "https://twitter.com/7cat_7/status/804939835530100739",
+					"display_url": "twitter.com/7cat_7/status/…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 58,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1040,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7994,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 804939835530100700,
+		"quoted_status_id_str": "804939835530100739",
+		"quoted_status": {
+			"created_at": "Sat Dec 03 06:46:26 +0000 2016",
+			"id": 804939835530100700,
+			"id_str": "804939835530100739",
+			"text": "정치인 분들도 선출직에 맞는 사회 의식을 보여주시길 바랍니다. https://t.co/T3tz2lWXwQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 804938784559071200,
+						"id_str": "804938784559071232",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/Cyu3j0-UAAAC0m5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cyu3j0-UAAAC0m5.jpg",
+						"url": "https://t.co/T3tz2lWXwQ",
+						"display_url": "pic.twitter.com/T3tz2lWXwQ",
+						"expanded_url": "https://twitter.com/7cat_7/status/804939835530100739/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 314,
+								"h": 290,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 314,
+								"h": 290,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 314,
+								"h": 290,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 804938784559071200,
+						"id_str": "804938784559071232",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/Cyu3j0-UAAAC0m5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cyu3j0-UAAAC0m5.jpg",
+						"url": "https://t.co/T3tz2lWXwQ",
+						"display_url": "pic.twitter.com/T3tz2lWXwQ",
+						"expanded_url": "https://twitter.com/7cat_7/status/804939835530100739/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 314,
+								"h": 290,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 314,
+								"h": 290,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 314,
+								"h": 290,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3010844863,
+				"id_str": "3010844863",
+				"name": "Cat.7",
+				"screen_name": "7cat_7",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11,
+				"friends_count": 14,
+				"listed_count": 0,
+				"created_at": "Fri Feb 06 04:11:05 +0000 2015",
+				"favourites_count": 25,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 114,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/572479594561679360/DlhNTjvv_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/572479594561679360/DlhNTjvv_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 818,
+			"favorite_count": 130,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Dec 03 07:49:42 +0000 2016",
 		"id": 804955758420901900,
 		"id_str": "804955758420901888",
