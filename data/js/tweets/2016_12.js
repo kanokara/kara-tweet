@@ -1,6 +1,404 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sun Dec 25 14:10:19 +0000 2016",
+		"id": 813024074158915600,
+		"id_str": "813024074158915584",
+		"text": "RT @Auntie_Hur: @phaents 반대로 말하자면 이 정도 작업이 이뤄질 만큼 대부분의 학계는 체계적으로 정리된 상태고 새로운 연구를 하는 사람들이 끼어들 자리가 많지 않다는 것이죠..(부스러기 주워먹는다고도 표현할 정도로",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Auntie_Hur",
+					"name": "허이모",
+					"id": 69004557,
+					"id_str": "69004557",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "phaents",
+					"name": "도로",
+					"id": 86291481,
+					"id_str": "86291481",
+					"indices": [
+						16,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8081,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 25 07:22:21 +0000 2016",
+			"id": 812921407092846600,
+			"id_str": "812921407092846592",
+			"text": "@phaents 반대로 말하자면 이 정도 작업이 이뤄질 만큼 대부분의 학계는 체계적으로 정리된 상태고 새로운 연구를 하는 사람들이 끼어들 자리가 많지 않다는 것이죠..(부스러기 주워먹는다고도 표현할 정도로",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "phaents",
+						"name": "도로",
+						"id": 86291481,
+						"id_str": "86291481",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 812920861111959600,
+			"in_reply_to_status_id_str": "812920861111959552",
+			"in_reply_to_user_id": 86291481,
+			"in_reply_to_user_id_str": "86291481",
+			"in_reply_to_screen_name": "phaents",
+			"user": {
+				"id": 69004557,
+				"id_str": "69004557",
+				"name": "허이모",
+				"screen_name": "Auntie_Hur",
+				"location": "Seoul, Republic of Korea",
+				"description": "QIS, QUV, YOURMANA",
+				"url": "https://t.co/pRInlQPSzm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pRInlQPSzm",
+								"expanded_url": "http://herimo.tistory.com",
+								"display_url": "herimo.tistory.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1353,
+				"friends_count": 616,
+				"listed_count": 18,
+				"created_at": "Wed Aug 26 15:03:34 +0000 2009",
+				"favourites_count": 3566,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 100137,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "1A2F3F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/619476449460785152/JZ6d9268.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/619476449460785152/JZ6d9268.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/805814299583098883/dhHOuof0_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/805814299583098883/dhHOuof0_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/69004557/1470579300",
+				"profile_link_color": "923935",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "D6C4A2",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Dec 25 14:09:58 +0000 2016",
+		"id": 813023985398972400,
+		"id_str": "813023985398972416",
+		"text": "RT @Auntie_Hur: @phaents 넹 각 학계는 이런 식의 백과사전을 써요. 브리태니커 같은 건 일반인 용이고 전문 연구엔 별 도움이 안 되죠. 용어 표준/표준 번역어를 참고할 때에는 조금 도움이 되지만요",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Auntie_Hur",
+					"name": "허이모",
+					"id": 69004557,
+					"id_str": "69004557",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "phaents",
+					"name": "도로",
+					"id": 86291481,
+					"id_str": "86291481",
+					"indices": [
+						16,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8081,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 25 07:17:11 +0000 2016",
+			"id": 812920109039697900,
+			"id_str": "812920109039697920",
+			"text": "@phaents 넹 각 학계는 이런 식의 백과사전을 써요. 브리태니커 같은 건 일반인 용이고 전문 연구엔 별 도움이 안 되죠. 용어 표준/표준 번역어를 참고할 때에는 조금 도움이 되지만요",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "phaents",
+						"name": "도로",
+						"id": 86291481,
+						"id_str": "86291481",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 812919425879769100,
+			"in_reply_to_status_id_str": "812919425879769088",
+			"in_reply_to_user_id": 86291481,
+			"in_reply_to_user_id_str": "86291481",
+			"in_reply_to_screen_name": "phaents",
+			"user": {
+				"id": 69004557,
+				"id_str": "69004557",
+				"name": "허이모",
+				"screen_name": "Auntie_Hur",
+				"location": "Seoul, Republic of Korea",
+				"description": "QIS, QUV, YOURMANA",
+				"url": "https://t.co/pRInlQPSzm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pRInlQPSzm",
+								"expanded_url": "http://herimo.tistory.com",
+								"display_url": "herimo.tistory.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1353,
+				"friends_count": 616,
+				"listed_count": 18,
+				"created_at": "Wed Aug 26 15:03:34 +0000 2009",
+				"favourites_count": 3566,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 100137,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "1A2F3F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/619476449460785152/JZ6d9268.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/619476449460785152/JZ6d9268.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/805814299583098883/dhHOuof0_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/805814299583098883/dhHOuof0_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/69004557/1470579300",
+				"profile_link_color": "923935",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "D6C4A2",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Dec 25 06:47:51 +0000 2016",
 		"id": 812912723486851100,
 		"id_str": "812912723486851072",
