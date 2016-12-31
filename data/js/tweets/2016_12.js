@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sat Dec 31 10:27:51 +0000 2016",
+		"id": 815142415270957000,
+		"id_str": "815142415270957056",
+		"text": "RT @Han_Kyudong: 그러면 정말로 \"잡지의 공식 입장\"이 될 것이다. 공식 입장이면 그 안에 개별 필진의 의향도 포함되어있을 것이므로 필진 개개인이 전혀 입을 열지 않아도 상관없다. 키배같은거 안해도 된다. 사람들은 잡지와만 이야기할 수…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Han_Kyudong",
+					"name": "한규동",
+					"id": 181199507,
+					"id_str": "181199507",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1025,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8107,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 31 04:15:30 +0000 2016",
+			"id": 815048712825114600,
+			"id_str": "815048712825114624",
+			"text": "그러면 정말로 \"잡지의 공식 입장\"이 될 것이다. 공식 입장이면 그 안에 개별 필진의 의향도 포함되어있을 것이므로 필진 개개인이 전혀 입을 열지 않아도 상관없다. 키배같은거 안해도 된다. 사람들은 잡지와만 이야기할 수 있다 그리고 그렇게 할 수 있음",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 815048308699721700,
+			"in_reply_to_status_id_str": "815048308699721728",
+			"in_reply_to_user_id": 181199507,
+			"in_reply_to_user_id_str": "181199507",
+			"in_reply_to_screen_name": "Han_Kyudong",
+			"user": {
+				"id": 181199507,
+				"id_str": "181199507",
+				"name": "한규동",
+				"screen_name": "Han_Kyudong",
+				"location": "",
+				"description": "내 토끼가 너무 예쁘다 | 남자 아니에요",
+				"url": "https://t.co/YkYtFbPFik",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YkYtFbPFik",
+								"expanded_url": "http://bunny-alex.tumblr.com/",
+								"display_url": "bunny-alex.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 42972,
+				"friends_count": 418,
+				"listed_count": 372,
+				"created_at": "Sat Aug 21 15:21:31 +0000 2010",
+				"favourites_count": 23078,
+				"utc_offset": 28800,
+				"time_zone": "Taipei",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 184587,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/278737195/ClioTeam1963MagritteLaReconnaiss-1.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/278737195/ClioTeam1963MagritteLaReconnaiss-1.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793291934571782145/0Tzi9pnO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793291934571782145/0Tzi9pnO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/181199507/1452859625",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 51,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Dec 31 10:27:49 +0000 2016",
+		"id": 815142409868714000,
+		"id_str": "815142409868713984",
+		"text": "RT @Han_Kyudong: 진짜로 이해가 안가는 행보이다. 이건 정말 너무 나쁜 대응임. 필진을 전혀 보호하지 않는 대응이다. 거칠게 말해서, 메타후조 계정이 모든 말을 다 대변 한다면, 필진들은 아무 말도 하지 않아도 괜찮다. 모든 것은 잡지를…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Han_Kyudong",
+					"name": "한규동",
+					"id": 181199507,
+					"id_str": "181199507",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1025,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8107,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 31 04:13:54 +0000 2016",
+			"id": 815048308699721700,
+			"id_str": "815048308699721728",
+			"text": "진짜로 이해가 안가는 행보이다. 이건 정말 너무 나쁜 대응임. 필진을 전혀 보호하지 않는 대응이다. 거칠게 말해서, 메타후조 계정이 모든 말을 다 대변 한다면, 필진들은 아무 말도 하지 않아도 괜찮다. 모든 것은 잡지를 통해서 이야기 되어도 상관없다",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 181199507,
+				"id_str": "181199507",
+				"name": "한규동",
+				"screen_name": "Han_Kyudong",
+				"location": "",
+				"description": "내 토끼가 너무 예쁘다 | 남자 아니에요",
+				"url": "https://t.co/YkYtFbPFik",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YkYtFbPFik",
+								"expanded_url": "http://bunny-alex.tumblr.com/",
+								"display_url": "bunny-alex.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 42972,
+				"friends_count": 418,
+				"listed_count": 372,
+				"created_at": "Sat Aug 21 15:21:31 +0000 2010",
+				"favourites_count": 23078,
+				"utc_offset": 28800,
+				"time_zone": "Taipei",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 184587,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/278737195/ClioTeam1963MagritteLaReconnaiss-1.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/278737195/ClioTeam1963MagritteLaReconnaiss-1.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793291934571782145/0Tzi9pnO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793291934571782145/0Tzi9pnO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/181199507/1452859625",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 80,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Dec 31 05:06:03 +0000 2016",
 		"id": 815061433662607400,
 		"id_str": "815061433662607361",
