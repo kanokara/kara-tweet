@@ -1,6 +1,727 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sat Dec 31 15:08:34 +0000 2016",
+		"id": 815213061074088000,
+		"id_str": "815213061074087936",
+		"text": "RT @Fate_SN_Anime: 1月10日発売のNewtype2月号はFate特集号！発売に先駆けて表紙を公開！#fate_sn_anime https://t.co/YwMtLpHwGn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "fate_sn_anime",
+					"indices": [
+						59,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Fate_SN_Anime",
+					"name": "Fate/stay night",
+					"id": 2483173622,
+					"id_str": "2483173622",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 815209828620464100,
+					"id_str": "815209828620464140",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/C1A1BRxUcAwZbfi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1A1BRxUcAwZbfi.jpg",
+					"url": "https://t.co/YwMtLpHwGn",
+					"display_url": "pic.twitter.com/YwMtLpHwGn",
+					"expanded_url": "https://twitter.com/Fate_SN_Anime/status/815209862531424256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 405,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 405,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 405,
+							"h": 512,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 815209862531424300,
+					"source_status_id_str": "815209862531424256",
+					"source_user_id": 2483173622,
+					"source_user_id_str": "2483173622"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 815209828620464100,
+					"id_str": "815209828620464140",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/C1A1BRxUcAwZbfi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1A1BRxUcAwZbfi.jpg",
+					"url": "https://t.co/YwMtLpHwGn",
+					"display_url": "pic.twitter.com/YwMtLpHwGn",
+					"expanded_url": "https://twitter.com/Fate_SN_Anime/status/815209862531424256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 405,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 405,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 405,
+							"h": 512,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 815209862531424300,
+					"source_status_id_str": "815209862531424256",
+					"source_user_id": 2483173622,
+					"source_user_id_str": "2483173622"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1025,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8111,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 31 14:55:51 +0000 2016",
+			"id": 815209862531424300,
+			"id_str": "815209862531424256",
+			"text": "1月10日発売のNewtype2月号はFate特集号！発売に先駆けて表紙を公開！#fate_sn_anime https://t.co/YwMtLpHwGn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "fate_sn_anime",
+						"indices": [
+							40,
+							54
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 815209828620464100,
+						"id_str": "815209828620464140",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/C1A1BRxUcAwZbfi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1A1BRxUcAwZbfi.jpg",
+						"url": "https://t.co/YwMtLpHwGn",
+						"display_url": "pic.twitter.com/YwMtLpHwGn",
+						"expanded_url": "https://twitter.com/Fate_SN_Anime/status/815209862531424256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 405,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 405,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 405,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 815209828620464100,
+						"id_str": "815209828620464140",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/C1A1BRxUcAwZbfi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1A1BRxUcAwZbfi.jpg",
+						"url": "https://t.co/YwMtLpHwGn",
+						"display_url": "pic.twitter.com/YwMtLpHwGn",
+						"expanded_url": "https://twitter.com/Fate_SN_Anime/status/815209862531424256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 405,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 405,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 405,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2483173622,
+				"id_str": "2483173622",
+				"name": "Fate/stay night",
+				"screen_name": "Fate_SN_Anime",
+				"location": "",
+				"description": "Project「Fate/stay night」公式アカウント。 公式ハッシュタグ⇒ #fate_sn_anime https://t.co/CUyTicm62S",
+				"url": "http://t.co/0ZJ3jw9gRJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/0ZJ3jw9gRJ",
+								"expanded_url": "http://www.fate-sn.com",
+								"display_url": "fate-sn.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/CUyTicm62S",
+								"expanded_url": "http://www.fate-sn.com/",
+								"display_url": "fate-sn.com",
+								"indices": [
+									58,
+									81
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 137138,
+				"friends_count": 0,
+				"listed_count": 2494,
+				"created_at": "Thu May 08 04:30:24 +0000 2014",
+				"favourites_count": 0,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1521,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/517948241002782720/q3WqBe32.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/517948241002782720/q3WqBe32.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/715122437873078273/_MnUOBRh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/715122437873078273/_MnUOBRh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2483173622/1459333439",
+				"profile_link_color": "692E85",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1982,
+			"favorite_count": 1751,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1982,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Sat Dec 31 15:08:13 +0000 2016",
+		"id": 815212975556431900,
+		"id_str": "815212975556431875",
+		"text": "RT @typemoon_news: https://t.co/PcXiqzEI2L TYPE-MOON 공식홈페이지에 신년맞이 타케우치 선생님의 원화가 올라왔습니다! https://t.co/HJJ6IKGNW3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "typemoon_news",
+					"name": "타입문 소식",
+					"id": 1264541467,
+					"id_str": "1264541467",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PcXiqzEI2L",
+					"expanded_url": "http://typemoon.com/news/2017/65Ia84",
+					"display_url": "typemoon.com/news/2017/65Ia…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 815212067372138500,
+					"id_str": "815212067372138497",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/C1A3DlxUAAE-eo3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1A3DlxUAAE-eo3.jpg",
+					"url": "https://t.co/HJJ6IKGNW3",
+					"display_url": "pic.twitter.com/HJJ6IKGNW3",
+					"expanded_url": "https://twitter.com/typemoon_news/status/815212079921569796/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 740,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 740,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 815212079921569800,
+					"source_status_id_str": "815212079921569796",
+					"source_user_id": 1264541467,
+					"source_user_id_str": "1264541467"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 815212067372138500,
+					"id_str": "815212067372138497",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/C1A3DlxUAAE-eo3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1A3DlxUAAE-eo3.jpg",
+					"url": "https://t.co/HJJ6IKGNW3",
+					"display_url": "pic.twitter.com/HJJ6IKGNW3",
+					"expanded_url": "https://twitter.com/typemoon_news/status/815212079921569796/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 740,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 740,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 815212079921569800,
+					"source_status_id_str": "815212079921569796",
+					"source_user_id": 1264541467,
+					"source_user_id_str": "1264541467"
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1025,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8111,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 31 15:04:40 +0000 2016",
+			"id": 815212079921569800,
+			"id_str": "815212079921569796",
+			"text": "https://t.co/PcXiqzEI2L TYPE-MOON 공식홈페이지에 신년맞이 타케우치 선생님의 원화가 올라왔습니다! https://t.co/HJJ6IKGNW3",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PcXiqzEI2L",
+						"expanded_url": "http://typemoon.com/news/2017/65Ia84",
+						"display_url": "typemoon.com/news/2017/65Ia…",
+						"indices": [
+							0,
+							23
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 815212067372138500,
+						"id_str": "815212067372138497",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/C1A3DlxUAAE-eo3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1A3DlxUAAE-eo3.jpg",
+						"url": "https://t.co/HJJ6IKGNW3",
+						"display_url": "pic.twitter.com/HJJ6IKGNW3",
+						"expanded_url": "https://twitter.com/typemoon_news/status/815212079921569796/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 459,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 740,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 740,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 815212067372138500,
+						"id_str": "815212067372138497",
+						"indices": [
+							69,
+							92
+						],
+						"media_url": "http://pbs.twimg.com/media/C1A3DlxUAAE-eo3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1A3DlxUAAE-eo3.jpg",
+						"url": "https://t.co/HJJ6IKGNW3",
+						"display_url": "pic.twitter.com/HJJ6IKGNW3",
+						"expanded_url": "https://twitter.com/typemoon_news/status/815212079921569796/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 459,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 740,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 740,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1264541467,
+				"id_str": "1264541467",
+				"name": "타입문 소식",
+				"screen_name": "typemoon_news",
+				"location": "",
+				"description": "타입문 관련 소식을 전하는 비공식 계정입니다. 소식을 번역&전달을 목적으로 운영합니다. 잘못된 정보나 추가해줬으면 좋을 정보는 맨션으로 주세요.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 284,
+				"friends_count": 93,
+				"listed_count": 9,
+				"created_at": "Wed Mar 13 13:58:38 +0000 2013",
+				"favourites_count": 233,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4623,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000100968252/7169b0098d8be54a4f167de1a7231ea7.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000100968252/7169b0098d8be54a4f167de1a7231ea7.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3374905339/f0197a2fc7ae42a537c78e24d8b27f91_normal.gif",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3374905339/f0197a2fc7ae42a537c78e24d8b27f91_normal.gif",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1264541467/1459172096",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 87,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Dec 31 13:18:36 +0000 2016",
 		"id": 815185387400216600,
 		"id_str": "815185387400216576",
