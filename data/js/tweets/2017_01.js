@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Sat Jan 07 13:56:20 +0000 2017",
+		"id": 817731597000507400,
+		"id_str": "817731597000507392",
+		"text": "가상화로 실감이 탈취된 오타쿠 컬쳐의 나쁜  버릇이라 생각하는데, 성범죄적 포르노의 맥락을 함부로 유머의 맥락으로 가져와서 그 위험성을 희석하지 않았으면 좋겠어요.\nhttps://t.co/Xe7ea3cHxX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Xe7ea3cHxX",
+					"expanded_url": "https://twitter.com/S_O_M_Harbor/status/817628125454401536",
+					"display_url": "twitter.com/S_O_M_Harbor/s…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1020,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8126,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 817628125454401500,
+		"quoted_status_id_str": "817628125454401536",
+		"quoted_status": {
+			"created_at": "Sat Jan 07 07:05:10 +0000 2017",
+			"id": 817628125454401500,
+			"id_str": "817628125454401536",
+			"text": "これしかないでしょう。 https://t.co/2hakml9iuu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 817628067124244500,
+						"id_str": "817628067124244481",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/C1jMZSNUcAEvI3z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1jMZSNUcAEvI3z.jpg",
+						"url": "https://t.co/2hakml9iuu",
+						"display_url": "pic.twitter.com/2hakml9iuu",
+						"expanded_url": "https://twitter.com/S_O_M_Harbor/status/817628125454401536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 612,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 900,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 817628067124244500,
+						"id_str": "817628067124244481",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/C1jMZSNUcAEvI3z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1jMZSNUcAEvI3z.jpg",
+						"url": "https://t.co/2hakml9iuu",
+						"display_url": "pic.twitter.com/2hakml9iuu",
+						"expanded_url": "https://twitter.com/S_O_M_Harbor/status/817628125454401536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 612,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 900,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2825403690,
+				"id_str": "2825403690",
+				"name": "Ray.Redeyesers",
+				"screen_name": "S_O_M_Harbor",
+				"location": "-8.666667,159.333333",
+				"description": "Can you talk about MURAKUMO with me.   Icon designed by @mer_dragon",
+				"url": "https://t.co/85GwuObvCD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/85GwuObvCD",
+								"expanded_url": "http://twpf.jp/S_O_M_Harbor",
+								"display_url": "twpf.jp/S_O_M_Harbor",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1015,
+				"friends_count": 2186,
+				"listed_count": 37,
+				"created_at": "Mon Sep 22 01:43:53 +0000 2014",
+				"favourites_count": 46114,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 95882,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/815877893024661505/XYdnK_xz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/815877893024661505/XYdnK_xz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2825403690/1483032969",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2132,
+			"favorite_count": 1368,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "ja"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Jan 07 11:32:41 +0000 2017",
 		"id": 817695446780952600,
 		"id_str": "817695446780952577",
