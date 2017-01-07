@@ -1,6 +1,1257 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Sat Jan 07 11:32:41 +0000 2017",
+		"id": 817695446780952600,
+		"id_str": "817695446780952577",
+		"text": "메타후조의 정체성 탐구가 주가 되는 건 알고 샀지만, 연구 방향성이 너무 사소하고 저와는 안 맞아서 보기 힘드네요.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 817690790579171300,
+		"in_reply_to_status_id_str": "817690790579171328",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1020,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8125,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jan 07 11:28:45 +0000 2017",
+		"id": 817694457168470000,
+		"id_str": "817694457168470017",
+		"text": "RT @_paper_bird_: 트위터에서 페미니스트면서 프로불편러질 하는 것들 중산층 이상에 대졸에 유학도 다녀온 식자층이라는 혐오 밈을 보면 나같은 지방대 중퇴에 유학은 꿈도 못꿨고 가진 것이 빚 뿐인 인간은 슬퍼진다. 그들은 학력은 혐오하는 척…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_paper_bird_",
+					"name": "야나",
+					"id": 2580690319,
+					"id_str": "2580690319",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1020,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8125,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 02 10:50:05 +0000 2017",
+			"id": 815872787843661800,
+			"id_str": "815872787843661824",
+			"text": "트위터에서 페미니스트면서 프로불편러질 하는 것들 중산층 이상에 대졸에 유학도 다녀온 식자층이라는 혐오 밈을 보면 나같은 지방대 중퇴에 유학은 꿈도 못꿨고 가진 것이 빚 뿐인 인간은 슬퍼진다. 그들은 학력은 혐오하는 척 숭배하고 지성은 경멸한다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2580690319,
+				"id_str": "2580690319",
+				"name": "야나",
+				"screen_name": "_paper_bird_",
+				"location": "",
+				"description": "메갈리아4 텀블벅 후원으로 인해 피해를 보신 분은 디엠으로 연락 부탁드립니다. 언제든지 돕겠습니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1052,
+				"friends_count": 194,
+				"listed_count": 13,
+				"created_at": "Sat Jun 21 16:02:34 +0000 2014",
+				"favourites_count": 4409,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 27119,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/784724900657324033/FbM8b9lJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/784724900657324033/FbM8b9lJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2580690319/1475927974",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3416,
+			"favorite_count": 720,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3416,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jan 07 11:27:01 +0000 2017",
+		"id": 817694022441386000,
+		"id_str": "817694022441385984",
+		"text": "RT @YiDam_Mimi: @Habbi_BG 안녕하세요! 공식적인 용어는 아니지만 일본의 임상심리사 우치다 토모아키가 그런 증상을 '공감성 수치' 라고 명명한 적이 있어요!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YiDam_Mimi",
+					"name": "이담✨",
+					"id": 3118152737,
+					"id_str": "3118152737",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "Habbi_BG",
+					"name": "🌱바경씨",
+					"id": 3120501950,
+					"id_str": "3120501950",
+					"indices": [
+						16,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1020,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8125,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 05 13:21:27 +0000 2017",
+			"id": 816998043643834400,
+			"id_str": "816998043643834368",
+			"text": "@Habbi_BG 안녕하세요! 공식적인 용어는 아니지만 일본의 임상심리사 우치다 토모아키가 그런 증상을 '공감성 수치' 라고 명명한 적이 있어요!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Habbi_BG",
+						"name": "🌱바경씨",
+						"id": 3120501950,
+						"id_str": "3120501950",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 816928147983638500,
+			"in_reply_to_status_id_str": "816928147983638528",
+			"in_reply_to_user_id": 3120501950,
+			"in_reply_to_user_id_str": "3120501950",
+			"in_reply_to_screen_name": "Habbi_BG",
+			"user": {
+				"id": 3118152737,
+				"id_str": "3118152737",
+				"name": "이담✨",
+				"screen_name": "YiDam_Mimi",
+				"location": "오마이걸 150326~♡ ",
+				"description": "옴마옴마옴마걸!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 436,
+				"friends_count": 262,
+				"listed_count": 23,
+				"created_at": "Thu Mar 26 11:17:50 +0000 2015",
+				"favourites_count": 829,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8387,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/779626851618533377/vHDh310K_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/779626851618533377/vHDh310K_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3118152737/1430625093",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 180,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 180,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jan 07 11:26:58 +0000 2017",
+		"id": 817694008721842200,
+		"id_str": "817694008721842177",
+		"text": "RT @Habbi_BG: 난 ㅋ ㅋ ㅋ 진짜 드라마나 애니나 등장인물이 괜히 부끄러운 상황 되면 진짜 못보겠어 아니 미쳐정말ㅋㅋㅋㅋㅋㅋㅋㅋ 괜히 일시정지하든가 도망치든가 둘 중 하나 꼭 하고 꺄핳하핳ㅎ핳 해야지 안하면 정신 나갈거같아",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Habbi_BG",
+					"name": "🌱바경씨",
+					"id": 3120501950,
+					"id_str": "3120501950",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1020,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8125,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 05 08:43:42 +0000 2017",
+			"id": 816928147983638500,
+			"id_str": "816928147983638528",
+			"text": "난 ㅋ ㅋ ㅋ 진짜 드라마나 애니나 등장인물이 괜히 부끄러운 상황 되면 진짜 못보겠어 아니 미쳐정말ㅋㅋㅋㅋㅋㅋㅋㅋ 괜히 일시정지하든가 도망치든가 둘 중 하나 꼭 하고 꺄핳하핳ㅎ핳 해야지 안하면 정신 나갈거같아",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3120501950,
+				"id_str": "3120501950",
+				"name": "🌱바경씨",
+				"screen_name": "Habbi_BG",
+				"location": "",
+				"description": "말 안해도 제가 귀엽다는건 알고있읍니다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 57,
+				"friends_count": 60,
+				"listed_count": 2,
+				"created_at": "Tue Mar 31 14:38:30 +0000 2015",
+				"favourites_count": 3218,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1006,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/814083081611005952/aFPnnMo0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/814083081611005952/aFPnnMo0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3120501950/1473610608",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7148,
+			"favorite_count": 756,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7148,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jan 07 11:26:36 +0000 2017",
+		"id": 817693916002558000,
+		"id_str": "817693916002557952",
+		"text": "RT @hamatoon: 만화가가 조심해야 할 혐오표현 (표현의 자유와 책임)\n작가로서 스스로도 도움이 될 것 같아서 공유합니다\nhttps://t.co/BMVQi6U6K2 (파일 다운로드) \nhttps://t.co/FhAeldnPSN https://…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hamatoon",
+					"name": "최인수 [하마탱]",
+					"id": 175145554,
+					"id_str": "175145554",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BMVQi6U6K2",
+					"expanded_url": "http://blog.naver.com/sisacartoon/220768852212",
+					"display_url": "blog.naver.com/sisacartoon/22…",
+					"indices": [
+						72,
+						95
+					]
+				},
+				{
+					"url": "https://t.co/FhAeldnPSN",
+					"expanded_url": "https://www.facebook.com/hamatoon",
+					"display_url": "facebook.com/hamatoon",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1020,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8125,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 22 06:03:44 +0000 2016",
+			"id": 756369117762900000,
+			"id_str": "756369117762899968",
+			"text": "만화가가 조심해야 할 혐오표현 (표현의 자유와 책임)\n작가로서 스스로도 도움이 될 것 같아서 공유합니다\nhttps://t.co/BMVQi6U6K2 (파일 다운로드) \nhttps://t.co/FhAeldnPSN https://t.co/O6HSdRrlyW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BMVQi6U6K2",
+						"expanded_url": "http://blog.naver.com/sisacartoon/220768852212",
+						"display_url": "blog.naver.com/sisacartoon/22…",
+						"indices": [
+							58,
+							81
+						]
+					},
+					{
+						"url": "https://t.co/FhAeldnPSN",
+						"expanded_url": "https://www.facebook.com/hamatoon",
+						"display_url": "facebook.com/hamatoon",
+						"indices": [
+							93,
+							116
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 756368337379000300,
+						"id_str": "756368337379000322",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/Cn8o_tTUAAI8y0r.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cn8o_tTUAAI8y0r.jpg",
+						"url": "https://t.co/O6HSdRrlyW",
+						"display_url": "pic.twitter.com/O6HSdRrlyW",
+						"expanded_url": "https://twitter.com/hamatoon/status/756369117762899968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 756368337379000300,
+						"id_str": "756368337379000322",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/Cn8o_tTUAAI8y0r.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Cn8o_tTUAAI8y0r.jpg",
+						"url": "https://t.co/O6HSdRrlyW",
+						"display_url": "pic.twitter.com/O6HSdRrlyW",
+						"expanded_url": "https://twitter.com/hamatoon/status/756369117762899968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 175145554,
+				"id_str": "175145554",
+				"name": "최인수 [하마탱]",
+				"screen_name": "hamatoon",
+				"location": "부산",
+				"description": "만화가, 강사 / https://t.co/FYLub4AJQX [뚜디앤쭈디]짜투리개그, [쌍남자], [만화로 쓰는 시], [일편단심 하여가], [아머라카노], [청춘은 아름다워?] 등.\nhttps://t.co/3oYKJ9680z",
+				"url": "https://t.co/Mlq0ggHgP6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Mlq0ggHgP6",
+								"expanded_url": "http://www.hamatoon.com",
+								"display_url": "hamatoon.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/FYLub4AJQX",
+								"expanded_url": "http://hamatoon.com",
+								"display_url": "hamatoon.com",
+								"indices": [
+									10,
+									33
+								]
+							},
+							{
+								"url": "https://t.co/3oYKJ9680z",
+								"expanded_url": "https://facebook.com/hamatoon",
+								"display_url": "facebook.com/hamatoon",
+								"indices": [
+									103,
+									126
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2209,
+				"friends_count": 1690,
+				"listed_count": 26,
+				"created_at": "Thu Aug 05 19:15:43 +0000 2010",
+				"favourites_count": 431,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2451,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1295699183/title-sum_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1295699183/title-sum_normal.jpg",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12988,
+			"favorite_count": 10001,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12988,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jan 07 11:22:56 +0000 2017",
+		"id": 817692994056777700,
+		"id_str": "817692994056777729",
+		"text": "RT @AmoLime: 인간탐구 https://t.co/lWSWcuBdWN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AmoLime",
+					"name": "아모라임",
+					"id": 1958594738,
+					"id_str": "1958594738",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 817325497432428500,
+					"id_str": "817325497432428544",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/C1e5NaRUUAAESg7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1e5NaRUUAAESg7.jpg",
+					"url": "https://t.co/lWSWcuBdWN",
+					"display_url": "pic.twitter.com/lWSWcuBdWN",
+					"expanded_url": "https://twitter.com/AmoLime/status/817325505653288961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 325,
+							"h": 965,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 325,
+							"h": 965,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 229,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 817325505653289000,
+					"source_status_id_str": "817325505653288961",
+					"source_user_id": 1958594738,
+					"source_user_id_str": "1958594738"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 817325497432428500,
+					"id_str": "817325497432428544",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/C1e5NaRUUAAESg7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1e5NaRUUAAESg7.jpg",
+					"url": "https://t.co/lWSWcuBdWN",
+					"display_url": "pic.twitter.com/lWSWcuBdWN",
+					"expanded_url": "https://twitter.com/AmoLime/status/817325505653288961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 325,
+							"h": 965,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 325,
+							"h": 965,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 229,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 817325505653289000,
+					"source_status_id_str": "817325505653288961",
+					"source_user_id": 1958594738,
+					"source_user_id_str": "1958594738"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1020,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8125,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 06 11:02:40 +0000 2017",
+			"id": 817325505653289000,
+			"id_str": "817325505653288961",
+			"text": "인간탐구 https://t.co/lWSWcuBdWN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 817325497432428500,
+						"id_str": "817325497432428544",
+						"indices": [
+							5,
+							28
+						],
+						"media_url": "http://pbs.twimg.com/media/C1e5NaRUUAAESg7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1e5NaRUUAAESg7.jpg",
+						"url": "https://t.co/lWSWcuBdWN",
+						"display_url": "pic.twitter.com/lWSWcuBdWN",
+						"expanded_url": "https://twitter.com/AmoLime/status/817325505653288961/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 325,
+								"h": 965,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 325,
+								"h": 965,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 229,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 817325497432428500,
+						"id_str": "817325497432428544",
+						"indices": [
+							5,
+							28
+						],
+						"media_url": "http://pbs.twimg.com/media/C1e5NaRUUAAESg7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1e5NaRUUAAESg7.jpg",
+						"url": "https://t.co/lWSWcuBdWN",
+						"display_url": "pic.twitter.com/lWSWcuBdWN",
+						"expanded_url": "https://twitter.com/AmoLime/status/817325505653288961/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 325,
+								"h": 965,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 325,
+								"h": 965,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 229,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1958594738,
+				"id_str": "1958594738",
+				"name": "아모라임",
+				"screen_name": "AmoLime",
+				"location": "연락용mail:amoraim@naver.com",
+				"description": "아모라임/동그리/동긜 편하게 불러주세요 잡다프리랜서",
+				"url": "https://t.co/XYy37780B9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XYy37780B9",
+								"expanded_url": "http://blog.naver.com/amoraim",
+								"display_url": "blog.naver.com/amoraim",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13279,
+				"friends_count": 599,
+				"listed_count": 178,
+				"created_at": "Sun Oct 13 12:14:12 +0000 2013",
+				"favourites_count": 7496,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11199,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/786221389464244224/8gz5B-mc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/786221389464244224/8gz5B-mc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1958594738/1476285173",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7072,
+			"favorite_count": 1735,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7072,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Jan 07 11:14:11 +0000 2017",
 		"id": 817690790579171300,
 		"id_str": "817690790579171328",
