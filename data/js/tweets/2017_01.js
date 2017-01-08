@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Sun Jan 08 10:15:05 +0000 2017",
+		"id": 818038308974362600,
+		"id_str": "818038308974362624",
+		"text": "RT @gekka_tcbn: #月花の韓国語\n-韓国語化した日本語[NEW]-\n・혼모노：ホンモノ（本物）。韓国語では「ヲタク」を揶揄する時の隠語として使用される。特に「君の名は」の韓国上映にあたり事前に日本で映画を見た一部ヲタクによる「非常識な行動の数々」を揶揄する言葉とし…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "月花の韓国語",
+					"indices": [
+						16,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gekka_tcbn",
+					"name": "Gekka",
+					"id": 3242816119,
+					"id_str": "3242816119",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 57,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1022,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8140,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 08 04:44:40 +0000 2017",
+			"id": 817955156742414300,
+			"id_str": "817955156742414336",
+			"text": "#月花の韓国語\n-韓国語化した日本語[NEW]-\n・혼모노：ホンモノ（本物）。韓国語では「ヲタク」を揶揄する時の隠語として使用される。特に「君の名は」の韓国上映にあたり事前に日本で映画を見た一部ヲタクによる「非常識な行動の数々」を揶揄する言葉として一般化しつつある。",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "月花の韓国語",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3242816119,
+				"id_str": "3242816119",
+				"name": "Gekka",
+				"screen_name": "gekka_tcbn",
+				"location": "Tokyo",
+				"description": "日本人/Japanese. Anonymously asking: https://t.co/biEjls3vz9",
+				"url": "https://t.co/TexlCNg3NR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TexlCNg3NR",
+								"expanded_url": "https://facebook.com/gekka.tj",
+								"display_url": "facebook.com/gekka.tj",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/biEjls3vz9",
+								"expanded_url": "http://ask.fm/gekka_tj",
+								"display_url": "ask.fm/gekka_tj",
+								"indices": [
+									34,
+									57
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3008,
+				"friends_count": 1301,
+				"listed_count": 16,
+				"created_at": "Fri Jun 12 00:46:58 +0000 2015",
+				"favourites_count": 30751,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 46857,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/817661934514253827/Q1-UyRqp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/817661934514253827/Q1-UyRqp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3242816119/1483780770",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 151,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 151,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Sun Jan 08 07:36:48 +0000 2017",
 		"id": 817998474532687900,
 		"id_str": "817998474532687873",
