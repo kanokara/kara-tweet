@@ -1,6 +1,448 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Sun Jan 15 06:54:03 +0000 2017",
+		"id": 820524432334565400,
+		"id_str": "820524432334565376",
+		"text": "RT @cat_bot_kr: 괴물이다냥!!!!! https://t.co/4zICquAkgS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cat_bot_kr",
+					"name": "고양이봇",
+					"id": 398657343,
+					"id_str": "398657343",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 665841312621396000,
+					"id_str": "665841312621395969",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CT2LJWOUAAEHm3q.png",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CT2LJWOUAAEHm3q.png",
+					"url": "https://t.co/4zICquAkgS",
+					"display_url": "pic.twitter.com/4zICquAkgS",
+					"expanded_url": "https://twitter.com/cat_bot_kr/status/665841314630529024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 192,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 282,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 282,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 665841314630529000,
+					"source_status_id_str": "665841314630529024",
+					"source_user_id": 398657343,
+					"source_user_id_str": "398657343"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 665841312621396000,
+					"id_str": "665841312621395969",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/CT2LJWOUAAEHm3q.png",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CT2LJWOUAAEHm3q.png",
+					"url": "https://t.co/4zICquAkgS",
+					"display_url": "pic.twitter.com/4zICquAkgS",
+					"expanded_url": "https://twitter.com/cat_bot_kr/status/665841314630529024/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 192,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 282,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 282,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 665841314630529000,
+					"source_status_id_str": "665841314630529024",
+					"source_user_id": 398657343,
+					"source_user_id_str": "398657343",
+					"video_info": {
+						"aspect_ratio": [
+							250,
+							141
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/CT2LJWOUAAEHm3q.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 58,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1025,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8167,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 14 14:09:07 +0000 2017",
+			"id": 820271531762688000,
+			"id_str": "820271531762688000",
+			"text": "괴물이다냥!!!!! https://t.co/4zICquAkgS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 665841312621396000,
+						"id_str": "665841312621395969",
+						"indices": [
+							11,
+							34
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CT2LJWOUAAEHm3q.png",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CT2LJWOUAAEHm3q.png",
+						"url": "https://t.co/4zICquAkgS",
+						"display_url": "pic.twitter.com/4zICquAkgS",
+						"expanded_url": "https://twitter.com/cat_bot_kr/status/665841314630529024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 192,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 282,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 282,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 665841314630529000,
+						"source_status_id_str": "665841314630529024",
+						"source_user_id": 398657343,
+						"source_user_id_str": "398657343"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 665841312621396000,
+						"id_str": "665841312621395969",
+						"indices": [
+							11,
+							34
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/CT2LJWOUAAEHm3q.png",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CT2LJWOUAAEHm3q.png",
+						"url": "https://t.co/4zICquAkgS",
+						"display_url": "pic.twitter.com/4zICquAkgS",
+						"expanded_url": "https://twitter.com/cat_bot_kr/status/665841314630529024/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 192,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 282,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 282,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 665841314630529000,
+						"source_status_id_str": "665841314630529024",
+						"source_user_id": 398657343,
+						"source_user_id_str": "398657343",
+						"video_info": {
+							"aspect_ratio": [
+								250,
+								141
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/CT2LJWOUAAEHm3q.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 398657343,
+				"id_str": "398657343",
+				"name": "고양이봇",
+				"screen_name": "cat_bot_kr",
+				"location": "캣타워 꼭대기",
+				"description": "고양이봇 / 아픈 고양이는 병원으로, 질문은 검색 먼저! / 입양관련 RT요청은 메인트윗 참조",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 229129,
+				"friends_count": 33823,
+				"listed_count": 730,
+				"created_at": "Wed Oct 26 11:07:59 +0000 2011",
+				"favourites_count": 65,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 36493,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/583283243375411201/tBhjAhJg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/583283243375411201/tBhjAhJg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/398657343/1420096423",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 249,
+			"favorite_count": 103,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 249,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Jan 15 06:46:32 +0000 2017",
+		"id": 820522539667443700,
+		"id_str": "820522539667443712",
+		"text": "타입문넷의 겸허견실 번역은 차라리 번역기어가 읽기 쉬울 정도로 처참... 도저히 머리에 들어오질 않아요.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 58,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1025,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8167,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Jan 15 06:14:09 +0000 2017",
 		"id": 820514390814265300,
 		"id_str": "820514390814265344",
