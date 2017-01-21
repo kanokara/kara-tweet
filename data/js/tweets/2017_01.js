@@ -1,6 +1,184 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Sat Jan 21 15:25:10 +0000 2017",
+		"id": 822827386291056600,
+		"id_str": "822827386291056640",
+		"text": "RT @debirth: '모노노케 히메'를 봤다. 대학생 시절에 봤을 때는 스토리도 제대로 없고 미야자키 하야오는 맨날 자연보호라는 틀에서 벗어나지를 못한다고 대차게 깠던 기억이 있는데, 지금 보니 스토리도 있고 주제도 자연보호가 아니다. 대학생 시…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debirth",
+					"name": "SeaBlue",
+					"id": 225040295,
+					"id_str": "225040295",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 59,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8191,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 21 12:53:44 +0000 2017",
+			"id": 822789275498385400,
+			"id_str": "822789275498385410",
+			"text": "'모노노케 히메'를 봤다. 대학생 시절에 봤을 때는 스토리도 제대로 없고 미야자키 하야오는 맨날 자연보호라는 틀에서 벗어나지를 못한다고 대차게 깠던 기억이 있는데, 지금 보니 스토리도 있고 주제도 자연보호가 아니다. 대학생 시절의 나는 뭘 본거냐;;;",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 225040295,
+				"id_str": "225040295",
+				"name": "SeaBlue",
+				"screen_name": "debirth",
+				"location": "三咲市三咲町白犬塚",
+				"description": "Z1000",
+				"url": "http://t.co/QXV7PGgM5h",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/QXV7PGgM5h",
+								"expanded_url": "http://fightforjustice.info",
+								"display_url": "fightforjustice.info",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4488,
+				"friends_count": 97,
+				"listed_count": 56,
+				"created_at": "Fri Dec 10 14:30:21 +0000 2010",
+				"favourites_count": 462,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 36533,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/180121881/Untitled-4.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/180121881/Untitled-4.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3759071188/a98ca3c8c679f04b0fa11a8475ed5c74_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3759071188/a98ca3c8c679f04b0fa11a8475ed5c74_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/225040295/1399741670",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Jan 21 15:09:44 +0000 2017",
 		"id": 822823498573721600,
 		"id_str": "822823498573721601",
