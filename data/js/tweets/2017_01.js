@@ -1,6 +1,186 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Sat Jan 21 08:21:02 +0000 2017",
+		"id": 822720647054770200,
+		"id_str": "822720647054770176",
+		"text": "이런 식으로 따지면 인접 문화권이라 해서 일본 문화 콘텐츠를 더 깊이 이해할 수 있으리란 인과도 증명해내기 어렵죠.\nhttps://t.co/LQDjnklrY5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LQDjnklrY5",
+					"expanded_url": "https://twitter.com/BlueFalcon47/status/822711265793449984",
+					"display_url": "twitter.com/BlueFalcon47/s…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 58,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8186,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 822711265793450000,
+		"quoted_status_id_str": "822711265793449984",
+		"quoted_status": {
+			"created_at": "Sat Jan 21 07:43:45 +0000 2017",
+			"id": 822711265793450000,
+			"id_str": "822711265793449984",
+			"text": "일본학 연구성과가 바로 아니메 비평 전반으로 연결된다는 인과를 성립시키기도 어렵고 실제로 관계가 관찰된다고 보기도 힘듦. 우리가 거부해야 하는 건 미국인의 시각이므로 일본을 전혀 이해하지 못하니 미국쪽 비평이 무가치하다는 독선만으로 제한해야 함.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 822709880804909000,
+			"in_reply_to_status_id_str": "822709880804909057",
+			"in_reply_to_user_id": 350340173,
+			"in_reply_to_user_id_str": "350340173",
+			"in_reply_to_screen_name": "BlueFalcon47",
+			"user": {
+				"id": 350340173,
+				"id_str": "350340173",
+				"name": "푸른매",
+				"screen_name": "BlueFalcon47",
+				"location": "헬프미 헬프미 아임온빅파이어",
+				"description": "“No. It's stupidity. Never underestimate the power of stupidity.” - W. Patrick Lang",
+				"url": "http://t.co/m3np4UckVX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/m3np4UckVX",
+								"expanded_url": "http://bluefalcon.egloos.com",
+								"display_url": "bluefalcon.egloos.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1102,
+				"friends_count": 249,
+				"listed_count": 33,
+				"created_at": "Sun Aug 07 16:22:05 +0000 2011",
+				"favourites_count": 10292,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 46155,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2524674091/xqm83uasmtr5s3vnitwf_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2524674091/xqm83uasmtr5s3vnitwf_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/350340173/1402068720",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Jan 21 05:20:01 +0000 2017",
 		"id": 822675095311110100,
 		"id_str": "822675095311110144",
