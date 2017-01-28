@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Sat Jan 28 02:51:49 +0000 2017",
+		"id": 825174511003779100,
+		"id_str": "825174511003779072",
+		"text": "RT @lycos_co_kr: 생각해보면 주류 언론들부터가 레퍼런스 안쓰거나 오용하는데 인터넷이 제대로된 레퍼런스 왜곡없이 쓰는게 정착될리가 없지않나 싶기도 함.\n\n예를 들자면 mbc에서 우는 ai 로봇이라고 기사 낸거 그거 사실은 로봇이 울면 인간…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lycos_co_kr",
+					"name": "〈",
+					"id": 114411840,
+					"id_str": "114411840",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1029,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8239,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 27 03:21:01 +0000 2017",
+			"id": 824819472892457000,
+			"id_str": "824819472892456961",
+			"text": "생각해보면 주류 언론들부터가 레퍼런스 안쓰거나 오용하는데 인터넷이 제대로된 레퍼런스 왜곡없이 쓰는게 정착될리가 없지않나 싶기도 함.\n\n예를 들자면 mbc에서 우는 ai 로봇이라고 기사 낸거 그거 사실은 로봇이 울면 인간이 어떻게 반응하는가 실험이던거",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 114411840,
+				"id_str": "114411840",
+				"name": "〈",
+				"screen_name": "lycos_co_kr",
+				"location": "seoul 〈 〉",
+				"description": "〈",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 799,
+				"friends_count": 620,
+				"listed_count": 0,
+				"created_at": "Mon Feb 15 09:33:05 +0000 2010",
+				"favourites_count": 802,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1902,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/737270969111171072/7We3iqFg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/737270969111171072/7We3iqFg_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jan 28 02:49:22 +0000 2017",
+		"id": 825173896085250000,
+		"id_str": "825173896085250048",
+		"text": "RT @MagmaChipmunk: https://t.co/YaZhmJu8jg\nPaintsChainer\n신경망 프레임워크, Chainer를 사용해 선화 자동 색칠을 학습하고 실행하는 서비스 입니다.\n투명픽셀이 없는 png와 jpg만 가능합니다.\n포인트…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MagmaChipmunk",
+					"name": "마그마다람쥐/マグマリス",
+					"id": 279515499,
+					"id_str": "279515499",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YaZhmJu8jg",
+					"expanded_url": "http://paintschainer.preferred.tech/",
+					"display_url": "paintschainer.preferred.tech",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1029,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8239,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 27 14:17:53 +0000 2017",
+			"id": 824984780450181100,
+			"id_str": "824984780450181120",
+			"text": "https://t.co/YaZhmJu8jg\nPaintsChainer\n신경망 프레임워크, Chainer를 사용해 선화 자동 색칠을 학습하고 실행하는 서비스 입니다.\n투명픽셀이 없는 png와 jpg만 가능합니다… https://t.co/hJdXEF1D0U",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YaZhmJu8jg",
+						"expanded_url": "http://paintschainer.preferred.tech/",
+						"display_url": "paintschainer.preferred.tech",
+						"indices": [
+							0,
+							23
+						]
+					},
+					{
+						"url": "https://t.co/hJdXEF1D0U",
+						"expanded_url": "https://twitter.com/i/web/status/824984780450181120",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 279515499,
+				"id_str": "279515499",
+				"name": "마그마다람쥐/マグマリス",
+				"screen_name": "MagmaChipmunk",
+				"location": "http://blog.naver.com/opining2",
+				"description": "https://t.co/sJ0Beue2ND ◀Profile◀ / ‼이 계정은 미성년자 팔로워를 받지 않습니다‼ / Please do not repost my Artworks",
+				"url": "https://t.co/XhVX8sSyYR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XhVX8sSyYR",
+								"expanded_url": "http://pixiv.me/opining1",
+								"display_url": "pixiv.me/opining1",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/sJ0Beue2ND",
+								"expanded_url": "http://twpf.jp/MagmaChipmunk",
+								"display_url": "twpf.jp/MagmaChipmunk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7821,
+				"friends_count": 4545,
+				"listed_count": 0,
+				"created_at": "Sat Apr 09 12:31:19 +0000 2011",
+				"favourites_count": 336,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 236496,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/676966607353171968/n8vPHcYj.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/676966607353171968/n8vPHcYj.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/583420426472198144/J6GWz5uL_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/583420426472198144/J6GWz5uL_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/279515499/1432699104",
+				"profile_link_color": "ABC7C5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2674,
+			"favorite_count": 1810,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2674,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Jan 28 01:37:18 +0000 2017",
 		"id": 825155761173098500,
 		"id_str": "825155761173098496",
