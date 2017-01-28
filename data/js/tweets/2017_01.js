@@ -1,6 +1,3360 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Sat Jan 28 00:48:29 +0000 2017",
+		"id": 825143476929040400,
+		"id_str": "825143476929040385",
+		"text": "RT @_bongbong9000: 이거 아무리봐도 내 웃음지뢰\n인생 힘들고 왜 살지 할 때 마다\n찾아본다\n\n전자 아이돌도 이렇게 열심히 사는데\n나도 힘내서 살아가자 https://t.co/tF61Kb70vs",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_bongbong9000",
+					"name": "다이어트 큐티걸 봉봉",
+					"id": 448593095,
+					"id_str": "448593095",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 824800837390082000,
+					"id_str": "824800837390082049",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/824800837390082049/pu/img/HNtpq-XKAQJ6WkEn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/824800837390082049/pu/img/HNtpq-XKAQJ6WkEn.jpg",
+					"url": "https://t.co/tF61Kb70vs",
+					"display_url": "pic.twitter.com/tF61Kb70vs",
+					"expanded_url": "https://twitter.com/_bongbong9000/status/824801925228945408/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 824801925228945400,
+					"source_status_id_str": "824801925228945408",
+					"source_user_id": 448593095,
+					"source_user_id_str": "448593095"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 824800837390082000,
+					"id_str": "824800837390082049",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/824800837390082049/pu/img/HNtpq-XKAQJ6WkEn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/824800837390082049/pu/img/HNtpq-XKAQJ6WkEn.jpg",
+					"url": "https://t.co/tF61Kb70vs",
+					"display_url": "pic.twitter.com/tF61Kb70vs",
+					"expanded_url": "https://twitter.com/_bongbong9000/status/824801925228945408/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 824801925228945400,
+					"source_status_id_str": "824801925228945408",
+					"source_user_id": 448593095,
+					"source_user_id_str": "448593095",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 128527,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/824800837390082049/pu/vid/320x180/N-PtyGLBDhXVDmYO.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/824800837390082049/pu/vid/1280x720/_yrcsaZaMLSJS8io.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/824800837390082049/pu/vid/640x360/a_ufCJASB15PcSs0.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/824800837390082049/pu/pl/Syuy9rVWxL3opvl9.m3u8"
+							},
+							{
+								"content_type": "application/dash+xml",
+								"url": "https://video.twimg.com/ext_tw_video/824800837390082049/pu/pl/Syuy9rVWxL3opvl9.mpd"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 448593095,
+							"id_str": "448593095",
+							"name": "다이어트 큐티걸 봉봉",
+							"screen_name": "_bongbong9000",
+							"location": "올라운더라 지뢰밭일지도 몰라요 주의하세요",
+							"description": "GL백합 좋아합니다. 팔로/언팔 프리 입니다. 저도 프리! 본진은 창작이나 투디 아이돌물 정말 좋아요. 올라운더 리버시블 입니다! 존잘님들 구독도 하는 계정입니다 연성 업로드 계정 @bong_text",
+							"url": "https://t.co/ZN123A0Dhb",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/ZN123A0Dhb",
+											"expanded_url": "http://bongbong90.cafe24.com/",
+											"display_url": "bongbong90.cafe24.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 448,
+							"friends_count": 166,
+							"listed_count": 6,
+							"created_at": "Wed Dec 28 05:05:26 +0000 2011",
+							"favourites_count": 6281,
+							"utc_offset": 32400,
+							"time_zone": "Seoul",
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 94344,
+							"lang": "ko",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "8B542B",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/571869634/6bvsnwyphj86tc7acm0r.png",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/571869634/6bvsnwyphj86tc7acm0r.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/806146459909255168/_kMSUfE__normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/806146459909255168/_kMSUfE__normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/448593095/1441607951",
+							"profile_link_color": "9D582E",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "EADEAA",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8235,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 27 02:11:17 +0000 2017",
+			"id": 824801925228945400,
+			"id_str": "824801925228945408",
+			"text": "이거 아무리봐도 내 웃음지뢰\n인생 힘들고 왜 살지 할 때 마다\n찾아본다\n\n전자 아이돌도 이렇게 열심히 사는데\n나도 힘내서 살아가자 https://t.co/tF61Kb70vs",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 824800837390082000,
+						"id_str": "824800837390082049",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/824800837390082049/pu/img/HNtpq-XKAQJ6WkEn.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/824800837390082049/pu/img/HNtpq-XKAQJ6WkEn.jpg",
+						"url": "https://t.co/tF61Kb70vs",
+						"display_url": "pic.twitter.com/tF61Kb70vs",
+						"expanded_url": "https://twitter.com/_bongbong9000/status/824801925228945408/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 824800837390082000,
+						"id_str": "824800837390082049",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/824800837390082049/pu/img/HNtpq-XKAQJ6WkEn.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/824800837390082049/pu/img/HNtpq-XKAQJ6WkEn.jpg",
+						"url": "https://t.co/tF61Kb70vs",
+						"display_url": "pic.twitter.com/tF61Kb70vs",
+						"expanded_url": "https://twitter.com/_bongbong9000/status/824801925228945408/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 128527,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/824800837390082049/pu/vid/320x180/N-PtyGLBDhXVDmYO.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/824800837390082049/pu/vid/1280x720/_yrcsaZaMLSJS8io.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/824800837390082049/pu/vid/640x360/a_ufCJASB15PcSs0.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/824800837390082049/pu/pl/Syuy9rVWxL3opvl9.m3u8"
+								},
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/824800837390082049/pu/pl/Syuy9rVWxL3opvl9.mpd"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 448593095,
+				"id_str": "448593095",
+				"name": "다이어트 큐티걸 봉봉",
+				"screen_name": "_bongbong9000",
+				"location": "올라운더라 지뢰밭일지도 몰라요 주의하세요",
+				"description": "GL백합 좋아합니다. 팔로/언팔 프리 입니다. 저도 프리! 본진은 창작이나 투디 아이돌물 정말 좋아요. 올라운더 리버시블 입니다! 존잘님들 구독도 하는 계정입니다 연성 업로드 계정 @bong_text",
+				"url": "https://t.co/ZN123A0Dhb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZN123A0Dhb",
+								"expanded_url": "http://bongbong90.cafe24.com/",
+								"display_url": "bongbong90.cafe24.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 448,
+				"friends_count": 166,
+				"listed_count": 6,
+				"created_at": "Wed Dec 28 05:05:26 +0000 2011",
+				"favourites_count": 6281,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 94344,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/571869634/6bvsnwyphj86tc7acm0r.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/571869634/6bvsnwyphj86tc7acm0r.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/806146459909255168/_kMSUfE__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/806146459909255168/_kMSUfE__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/448593095/1441607951",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1241,
+			"favorite_count": 347,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1241,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jan 28 00:44:44 +0000 2017",
+		"id": 825142532623462400,
+		"id_str": "825142532623462400",
+		"text": "RT @Marida_Nao: 국내 사우나근황\n춘천 효자동\n바위사우나 https://t.co/DjsIdGVMca",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Marida_Nao",
+					"name": "CruzP",
+					"id": 1540212936,
+					"id_str": "1540212936",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 824850006121214000,
+					"id_str": "824850006121213952",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/C3J0tdfVcAAyxw6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3J0tdfVcAAyxw6.jpg",
+					"url": "https://t.co/DjsIdGVMca",
+					"display_url": "pic.twitter.com/DjsIdGVMca",
+					"expanded_url": "https://twitter.com/Marida_Nao/status/824850033937747969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 850,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 648,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 810,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 824850033937748000,
+					"source_status_id_str": "824850033937747969",
+					"source_user_id": 1540212936,
+					"source_user_id_str": "1540212936"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 824850006121214000,
+					"id_str": "824850006121213952",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/C3J0tdfVcAAyxw6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3J0tdfVcAAyxw6.jpg",
+					"url": "https://t.co/DjsIdGVMca",
+					"display_url": "pic.twitter.com/DjsIdGVMca",
+					"expanded_url": "https://twitter.com/Marida_Nao/status/824850033937747969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 850,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 648,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 810,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 824850033937748000,
+					"source_status_id_str": "824850033937747969",
+					"source_user_id": 1540212936,
+					"source_user_id_str": "1540212936"
+				},
+				{
+					"id": 824850018561454100,
+					"id_str": "824850018561454080",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/C3J0uL1UcAAtpNN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3J0uL1UcAAtpNN.jpg",
+					"url": "https://t.co/DjsIdGVMca",
+					"display_url": "pic.twitter.com/DjsIdGVMca",
+					"expanded_url": "https://twitter.com/Marida_Nao/status/824850033937747969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 850,
+							"h": 684,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 547,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 684,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 824850033937748000,
+					"source_status_id_str": "824850033937747969",
+					"source_user_id": 1540212936,
+					"source_user_id_str": "1540212936"
+				},
+				{
+					"id": 824850022336323600,
+					"id_str": "824850022336323585",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/C3J0uZ5UYAEYFOF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3J0uZ5UYAEYFOF.jpg",
+					"url": "https://t.co/DjsIdGVMca",
+					"display_url": "pic.twitter.com/DjsIdGVMca",
+					"expanded_url": "https://twitter.com/Marida_Nao/status/824850033937747969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 850,
+							"h": 562,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 562,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 824850033937748000,
+					"source_status_id_str": "824850033937747969",
+					"source_user_id": 1540212936,
+					"source_user_id_str": "1540212936"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8235,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 27 05:22:27 +0000 2017",
+			"id": 824850033937748000,
+			"id_str": "824850033937747969",
+			"text": "국내 사우나근황\n춘천 효자동\n바위사우나 https://t.co/DjsIdGVMca",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 824850006121214000,
+						"id_str": "824850006121213952",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/C3J0tdfVcAAyxw6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3J0tdfVcAAyxw6.jpg",
+						"url": "https://t.co/DjsIdGVMca",
+						"display_url": "pic.twitter.com/DjsIdGVMca",
+						"expanded_url": "https://twitter.com/Marida_Nao/status/824850033937747969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 850,
+								"h": 810,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 648,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 850,
+								"h": 810,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 824850006121214000,
+						"id_str": "824850006121213952",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/C3J0tdfVcAAyxw6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3J0tdfVcAAyxw6.jpg",
+						"url": "https://t.co/DjsIdGVMca",
+						"display_url": "pic.twitter.com/DjsIdGVMca",
+						"expanded_url": "https://twitter.com/Marida_Nao/status/824850033937747969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 850,
+								"h": 810,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 648,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 850,
+								"h": 810,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 824850018561454100,
+						"id_str": "824850018561454080",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/C3J0uL1UcAAtpNN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3J0uL1UcAAtpNN.jpg",
+						"url": "https://t.co/DjsIdGVMca",
+						"display_url": "pic.twitter.com/DjsIdGVMca",
+						"expanded_url": "https://twitter.com/Marida_Nao/status/824850033937747969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 850,
+								"h": 684,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 547,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 850,
+								"h": 684,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 824850022336323600,
+						"id_str": "824850022336323585",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/C3J0uZ5UYAEYFOF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3J0uZ5UYAEYFOF.jpg",
+						"url": "https://t.co/DjsIdGVMca",
+						"display_url": "pic.twitter.com/DjsIdGVMca",
+						"expanded_url": "https://twitter.com/Marida_Nao/status/824850033937747969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 850,
+								"h": 562,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 450,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 850,
+								"h": 562,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1540212936,
+				"id_str": "1540212936",
+				"name": "CruzP",
+				"screen_name": "Marida_Nao",
+				"location": "",
+				"description": "데레마스(나오P)/ NEW GAME!(윤,히후미♡)  / 친해지기 쉬운 잡덕입니다! / 돈짤 알티 싫어합니다 / \n初音ミクProject Diva,VOCALOID(본진)/Ps4/PsVita/Overwatch : MaridaCruz#31703 / origin : MaridaCruz459",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 240,
+				"friends_count": 213,
+				"listed_count": 0,
+				"created_at": "Sun Jun 23 05:55:17 +0000 2013",
+				"favourites_count": 3197,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7455,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/825038071385034752/2DnXUY38_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/825038071385034752/2DnXUY38_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1540212936/1485539372",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 194,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 194,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jan 28 00:38:46 +0000 2017",
+		"id": 825141029489762300,
+		"id_str": "825141029489762304",
+		"text": "RT @sengisengi: いわゆる童貞を殺す服…すなわち萌え死にそうなほど可愛い服というのは、背中がら空きセーターや胸元に穴セーターのような股間を狙うエロいのより、こっちのような心臓をぶち抜くがごとき剛球ストレートなやつの方が僕は好きです https://t.co/mmp…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sengisengi",
+					"name": "国広仙戯@新刊４月１０日発売",
+					"id": 2320561585,
+					"id_str": "2320561585",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8235,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 27 05:46:39 +0000 2017",
+			"id": 824856124520226800,
+			"id_str": "824856124520226817",
+			"text": "いわゆる童貞を殺す服…すなわち萌え死にそうなほど可愛い服というのは、背中がら空きセーターや胸元に穴セーターのような股間を狙うエロいのより、こっちのような心臓をぶち抜くがごとき剛球ストレートなやつの方が僕は好きです https://t.co/mmptoJhagp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 824856106656636900,
+						"id_str": "824856106656636928",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/C3J6QjwUoAAtbvw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3J6QjwUoAAtbvw.jpg",
+						"url": "https://t.co/mmptoJhagp",
+						"display_url": "pic.twitter.com/mmptoJhagp",
+						"expanded_url": "https://twitter.com/sengisengi/status/824856124520226817/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 724,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 724,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 824856106656636900,
+						"id_str": "824856106656636928",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/C3J6QjwUoAAtbvw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3J6QjwUoAAtbvw.jpg",
+						"url": "https://t.co/mmptoJhagp",
+						"display_url": "pic.twitter.com/mmptoJhagp",
+						"expanded_url": "https://twitter.com/sengisengi/status/824856124520226817/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 724,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 724,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 824856113170440200,
+						"id_str": "824856113170440192",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/C3J6Q8BVYAAU12C.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3J6Q8BVYAAU12C.jpg",
+						"url": "https://t.co/mmptoJhagp",
+						"display_url": "pic.twitter.com/mmptoJhagp",
+						"expanded_url": "https://twitter.com/sengisengi/status/824856124520226817/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 724,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 724,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 824856117964529700,
+						"id_str": "824856117964529665",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/C3J6RN4VYAEl-b4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3J6RN4VYAEl-b4.jpg",
+						"url": "https://t.co/mmptoJhagp",
+						"display_url": "pic.twitter.com/mmptoJhagp",
+						"expanded_url": "https://twitter.com/sengisengi/status/824856124520226817/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 375,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 375,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 375,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 824856121798074400,
+						"id_str": "824856121798074368",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/C3J6RcKUoAAdaMA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3J6RcKUoAAdaMA.jpg",
+						"url": "https://t.co/mmptoJhagp",
+						"display_url": "pic.twitter.com/mmptoJhagp",
+						"expanded_url": "https://twitter.com/sengisengi/status/824856124520226817/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.softama.com/\" rel=\"nofollow\">ツイタマ for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2320561585,
+				"id_str": "2320561585",
+				"name": "国広仙戯@新刊４月１０日発売",
+				"screen_name": "sengisengi",
+				"location": "",
+				"description": "「仙戯」です。男です。小説書いています。「リワールド・フロンティア」発売中です。よろしくお願いします。",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 350,
+				"friends_count": 144,
+				"listed_count": 11,
+				"created_at": "Fri Jan 31 09:59:49 +0000 2014",
+				"favourites_count": 1067,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9357,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/565370999755927552/cWPx0UIk_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/565370999755927552/cWPx0UIk_normal.jpeg",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 250,
+			"favorite_count": 272,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 250,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Sat Jan 28 00:33:33 +0000 2017",
+		"id": 825139717385633800,
+		"id_str": "825139717385633796",
+		"text": "RT @L3V14TH4N1104: 사라짐, 그리고 더 나아가 시장의 붕괴)이 두개가 상충하는 모습을 보여준다는 것이다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "L3V14TH4N1104",
+					"name": "L3V14",
+					"id": 103580145,
+					"id_str": "103580145",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8235,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 27 12:37:33 +0000 2017",
+			"id": 824959529410453500,
+			"id_str": "824959529410453504",
+			"text": "사라짐, 그리고 더 나아가 시장의 붕괴)이 두개가 상충하는 모습을 보여준다는 것이다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 824959298363027500,
+			"in_reply_to_status_id_str": "824959298363027456",
+			"in_reply_to_user_id": 103580145,
+			"in_reply_to_user_id_str": "103580145",
+			"in_reply_to_screen_name": "L3V14TH4N1104",
+			"user": {
+				"id": 103580145,
+				"id_str": "103580145",
+				"name": "L3V14",
+				"screen_name": "L3V14TH4N1104",
+				"location": "Time and Space for bussiness. ",
+				"description": "I DIDN'T CHOOSE THE PUG LIFE, THE PUG LIFE CHOOSE ME. // Nin-gen Nooooo Nooooo Nin-gen //DA-ME-NIN-GEN",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 987,
+				"friends_count": 436,
+				"listed_count": 41,
+				"created_at": "Sun Jan 10 14:24:54 +0000 2010",
+				"favourites_count": 21635,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 181972,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0F0F0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181149565/zi4rCm5r.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181149565/zi4rCm5r.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/688940843357442048/wn53G-r9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/688940843357442048/wn53G-r9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/103580145/1418183586",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jan 28 00:33:32 +0000 2017",
+		"id": 825139711798808600,
+		"id_str": "825139711798808577",
+		"text": "RT @L3V14TH4N1104: 그것이 일련의 '결과물'을 만들어내고 있는 것이 노동의 종말이라는 개념이 아닐까. 아이러니 하게도 노동의 종말이 내리는 결론은 현대 자본주의가 만들어낸 정합적인 결론(극단적인 효율성의 추구)이자 자기 부정적인 모순(…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "L3V14TH4N1104",
+					"name": "L3V14",
+					"id": 103580145,
+					"id_str": "103580145",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8235,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 27 12:36:38 +0000 2017",
+			"id": 824959298363027500,
+			"id_str": "824959298363027456",
+			"text": "그것이 일련의 '결과물'을 만들어내고 있는 것이 노동의 종말이라는 개념이 아닐까. 아이러니 하게도 노동의 종말이 내리는 결론은 현대 자본주의가 만들어낸 정합적인 결론(극단적인 효율성의 추구)이자 자기 부정적인 모순(노동자와 임금의 부재, 구매력의&gt;&gt;",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 824958781758910500,
+			"in_reply_to_status_id_str": "824958781758910465",
+			"in_reply_to_user_id": 103580145,
+			"in_reply_to_user_id_str": "103580145",
+			"in_reply_to_screen_name": "L3V14TH4N1104",
+			"user": {
+				"id": 103580145,
+				"id_str": "103580145",
+				"name": "L3V14",
+				"screen_name": "L3V14TH4N1104",
+				"location": "Time and Space for bussiness. ",
+				"description": "I DIDN'T CHOOSE THE PUG LIFE, THE PUG LIFE CHOOSE ME. // Nin-gen Nooooo Nooooo Nin-gen //DA-ME-NIN-GEN",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 987,
+				"friends_count": 436,
+				"listed_count": 41,
+				"created_at": "Sun Jan 10 14:24:54 +0000 2010",
+				"favourites_count": 21635,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 181972,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0F0F0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181149565/zi4rCm5r.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181149565/zi4rCm5r.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/688940843357442048/wn53G-r9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/688940843357442048/wn53G-r9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/103580145/1418183586",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jan 28 00:33:30 +0000 2017",
+		"id": 825139705784188900,
+		"id_str": "825139705784188929",
+		"text": "RT @L3V14TH4N1104: 엄밀한 의미로 자본은 자가증식이란 속성을 충족하기 위해, 인간의 노동을 효율화하였듯이 업무와 생산, 프로세스의 효율화를 추구하였고 그것이 인간을 배제하는 방향(싼 인간을 쓰는 것이 아니라, 인간 자체를 제거하는 것)…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "L3V14TH4N1104",
+					"name": "L3V14",
+					"id": 103580145,
+					"id_str": "103580145",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8235,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 27 12:34:35 +0000 2017",
+			"id": 824958781758910500,
+			"id_str": "824958781758910465",
+			"text": "엄밀한 의미로 자본은 자가증식이란 속성을 충족하기 위해, 인간의 노동을 효율화하였듯이 업무와 생산, 프로세스의 효율화를 추구하였고 그것이 인간을 배제하는 방향(싼 인간을 쓰는 것이 아니라, 인간 자체를 제거하는 것)으로 나아가기 시작하였는데&gt;&gt;",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 103580145,
+				"id_str": "103580145",
+				"name": "L3V14",
+				"screen_name": "L3V14TH4N1104",
+				"location": "Time and Space for bussiness. ",
+				"description": "I DIDN'T CHOOSE THE PUG LIFE, THE PUG LIFE CHOOSE ME. // Nin-gen Nooooo Nooooo Nin-gen //DA-ME-NIN-GEN",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 987,
+				"friends_count": 436,
+				"listed_count": 41,
+				"created_at": "Sun Jan 10 14:24:54 +0000 2010",
+				"favourites_count": 21635,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 181972,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0F0F0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181149565/zi4rCm5r.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181149565/zi4rCm5r.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/688940843357442048/wn53G-r9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/688940843357442048/wn53G-r9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/103580145/1418183586",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jan 28 00:32:09 +0000 2017",
+		"id": 825139365861060600,
+		"id_str": "825139365861060608",
+		"text": "RT @L3V14TH4N1104: 즉, 저자는 이런 이야기를 하고 싶은 것 같은데, 근대 자본주의로 대변되는 부의 급격한 증가는 모든 생계를 위한 노동들을 공적영역으로 끌어올리고 계량화/통제화 하면서 가능해졌고, 이것이 노동의 필수불가결화로 이어졌다…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "L3V14TH4N1104",
+					"name": "L3V14",
+					"id": 103580145,
+					"id_str": "103580145",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8235,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 27 12:05:03 +0000 2017",
+			"id": 824951350031065100,
+			"id_str": "824951350031065088",
+			"text": "즉, 저자는 이런 이야기를 하고 싶은 것 같은데, 근대 자본주의로 대변되는 부의 급격한 증가는 모든 생계를 위한 노동들을 공적영역으로 끌어올리고 계량화/통제화 하면서 가능해졌고, 이것이 노동의 필수불가결화로 이어졌다. 이 이야기인듯.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 103580145,
+				"id_str": "103580145",
+				"name": "L3V14",
+				"screen_name": "L3V14TH4N1104",
+				"location": "Time and Space for bussiness. ",
+				"description": "I DIDN'T CHOOSE THE PUG LIFE, THE PUG LIFE CHOOSE ME. // Nin-gen Nooooo Nooooo Nin-gen //DA-ME-NIN-GEN",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 987,
+				"friends_count": 436,
+				"listed_count": 41,
+				"created_at": "Sun Jan 10 14:24:54 +0000 2010",
+				"favourites_count": 21635,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 181972,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0F0F0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181149565/zi4rCm5r.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181149565/zi4rCm5r.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/688940843357442048/wn53G-r9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/688940843357442048/wn53G-r9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/103580145/1418183586",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jan 28 00:30:41 +0000 2017",
+		"id": 825138996292485100,
+		"id_str": "825138996292485121",
+		"text": "RT @L3V14TH4N1104: 1. 노동 없는 미래\n\nhttps://t.co/bR3DZZbBnO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "L3V14TH4N1104",
+					"name": "L3V14",
+					"id": 103580145,
+					"id_str": "103580145",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bR3DZZbBnO",
+					"expanded_url": "https://twitter.com/i/moments/824945956890120193",
+					"display_url": "twitter.com/i/moments/8249…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8235,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 27 11:51:14 +0000 2017",
+			"id": 824947871451451400,
+			"id_str": "824947871451451393",
+			"text": "1. 노동 없는 미래\n\nhttps://t.co/bR3DZZbBnO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bR3DZZbBnO",
+						"expanded_url": "https://twitter.com/i/moments/824945956890120193",
+						"display_url": "twitter.com/i/moments/8249…",
+						"indices": [
+							13,
+							36
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 824947460850147300,
+			"in_reply_to_status_id_str": "824947460850147328",
+			"in_reply_to_user_id": 103580145,
+			"in_reply_to_user_id_str": "103580145",
+			"in_reply_to_screen_name": "L3V14TH4N1104",
+			"user": {
+				"id": 103580145,
+				"id_str": "103580145",
+				"name": "L3V14",
+				"screen_name": "L3V14TH4N1104",
+				"location": "Time and Space for bussiness. ",
+				"description": "I DIDN'T CHOOSE THE PUG LIFE, THE PUG LIFE CHOOSE ME. // Nin-gen Nooooo Nooooo Nin-gen //DA-ME-NIN-GEN",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 987,
+				"friends_count": 436,
+				"listed_count": 41,
+				"created_at": "Sun Jan 10 14:24:54 +0000 2010",
+				"favourites_count": 21635,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 181972,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0F0F0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181149565/zi4rCm5r.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181149565/zi4rCm5r.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/688940843357442048/wn53G-r9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/688940843357442048/wn53G-r9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/103580145/1418183586",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jan 28 00:30:36 +0000 2017",
+		"id": 825138974826041300,
+		"id_str": "825138974826041344",
+		"text": "RT @L3V14TH4N1104: @L3V14TH4N1104 님의 ⚡ 노동 없는 미래\n\nhttps://t.co/bR3DZZbBnO\n\n아직 정리 중 및 테스트 중",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "L3V14TH4N1104",
+					"name": "L3V14",
+					"id": 103580145,
+					"id_str": "103580145",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "L3V14TH4N1104",
+					"name": "L3V14",
+					"id": 103580145,
+					"id_str": "103580145",
+					"indices": [
+						19,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bR3DZZbBnO",
+					"expanded_url": "https://twitter.com/i/moments/824945956890120193",
+					"display_url": "twitter.com/i/moments/8249…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8235,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 27 11:47:47 +0000 2017",
+			"id": 824947006955151400,
+			"id_str": "824947006955151361",
+			"text": "@L3V14TH4N1104 님의 ⚡ 노동 없는 미래\n\nhttps://t.co/bR3DZZbBnO\n\n아직 정리 중 및 테스트 중",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "L3V14TH4N1104",
+						"name": "L3V14",
+						"id": 103580145,
+						"id_str": "103580145",
+						"indices": [
+							0,
+							14
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/bR3DZZbBnO",
+						"expanded_url": "https://twitter.com/i/moments/824945956890120193",
+						"display_url": "twitter.com/i/moments/8249…",
+						"indices": [
+							30,
+							53
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 103580145,
+			"in_reply_to_user_id_str": "103580145",
+			"in_reply_to_screen_name": "L3V14TH4N1104",
+			"user": {
+				"id": 103580145,
+				"id_str": "103580145",
+				"name": "L3V14",
+				"screen_name": "L3V14TH4N1104",
+				"location": "Time and Space for bussiness. ",
+				"description": "I DIDN'T CHOOSE THE PUG LIFE, THE PUG LIFE CHOOSE ME. // Nin-gen Nooooo Nooooo Nin-gen //DA-ME-NIN-GEN",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 987,
+				"friends_count": 436,
+				"listed_count": 41,
+				"created_at": "Sun Jan 10 14:24:54 +0000 2010",
+				"favourites_count": 21635,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 181972,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0F0F0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181149565/zi4rCm5r.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181149565/zi4rCm5r.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/688940843357442048/wn53G-r9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/688940843357442048/wn53G-r9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/103580145/1418183586",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jan 28 00:29:10 +0000 2017",
+		"id": 825138612127797200,
+		"id_str": "825138612127797248",
+		"text": "RT @L3V14TH4N1104: 노동의 개념이 가변적이고, 임금 노동자라는 개념 자체도 가변적이라면 기술적인 변화에 의해서 변화한다면 지금이야말로 가장 위험하고 가능성 있는 변곡점이라고도 생각할 수 있다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "L3V14TH4N1104",
+					"name": "L3V14",
+					"id": 103580145,
+					"id_str": "103580145",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8235,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 27 11:24:49 +0000 2017",
+			"id": 824941226902245400,
+			"id_str": "824941226902245376",
+			"text": "노동의 개념이 가변적이고, 임금 노동자라는 개념 자체도 가변적이라면 기술적인 변화에 의해서 변화한다면 지금이야말로 가장 위험하고 가능성 있는 변곡점이라고도 생각할 수 있다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 103580145,
+				"id_str": "103580145",
+				"name": "L3V14",
+				"screen_name": "L3V14TH4N1104",
+				"location": "Time and Space for bussiness. ",
+				"description": "I DIDN'T CHOOSE THE PUG LIFE, THE PUG LIFE CHOOSE ME. // Nin-gen Nooooo Nooooo Nin-gen //DA-ME-NIN-GEN",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 987,
+				"friends_count": 436,
+				"listed_count": 41,
+				"created_at": "Sun Jan 10 14:24:54 +0000 2010",
+				"favourites_count": 21635,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 181972,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0F0F0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181149565/zi4rCm5r.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181149565/zi4rCm5r.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/688940843357442048/wn53G-r9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/688940843357442048/wn53G-r9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/103580145/1418183586",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jan 28 00:29:00 +0000 2017",
+		"id": 825138571128500200,
+		"id_str": "825138571128500224",
+		"text": "RT @L3V14TH4N1104: 하지만 그 벡터라는 것은 이미 우리는 다 알고 있지 않나:물질적인 부와 거기서 비롯되는 권력, 그것을 재분배하는 정치, 생산하는 경제, 밑바탕이 되는 기술, 이걸로부터 정의되며 이들을 역으로 정의내리는 문화까지.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "L3V14TH4N1104",
+					"name": "L3V14",
+					"id": 103580145,
+					"id_str": "103580145",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8235,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 27 11:23:04 +0000 2017",
+			"id": 824940784805781500,
+			"id_str": "824940784805781504",
+			"text": "하지만 그 벡터라는 것은 이미 우리는 다 알고 있지 않나:물질적인 부와 거기서 비롯되는 권력, 그것을 재분배하는 정치, 생산하는 경제, 밑바탕이 되는 기술, 이걸로부터 정의되며 이들을 역으로 정의내리는 문화까지.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 103580145,
+				"id_str": "103580145",
+				"name": "L3V14",
+				"screen_name": "L3V14TH4N1104",
+				"location": "Time and Space for bussiness. ",
+				"description": "I DIDN'T CHOOSE THE PUG LIFE, THE PUG LIFE CHOOSE ME. // Nin-gen Nooooo Nooooo Nin-gen //DA-ME-NIN-GEN",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 987,
+				"friends_count": 436,
+				"listed_count": 41,
+				"created_at": "Sun Jan 10 14:24:54 +0000 2010",
+				"favourites_count": 21635,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 181972,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0F0F0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181149565/zi4rCm5r.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181149565/zi4rCm5r.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/688940843357442048/wn53G-r9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/688940843357442048/wn53G-r9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/103580145/1418183586",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jan 28 00:28:49 +0000 2017",
+		"id": 825138524760465400,
+		"id_str": "825138524760465412",
+		"text": "RT @L3V14TH4N1104: 그 주요한 '벡터'는 무엇인가에 대해서도 다뤄야 한다고 본다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "L3V14TH4N1104",
+					"name": "L3V14",
+					"id": 103580145,
+					"id_str": "103580145",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8235,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 27 11:21:42 +0000 2017",
+			"id": 824940440587636700,
+			"id_str": "824940440587636736",
+			"text": "그 주요한 '벡터'는 무엇인가에 대해서도 다뤄야 한다고 본다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 824940375877906400,
+			"in_reply_to_status_id_str": "824940375877906432",
+			"in_reply_to_user_id": 103580145,
+			"in_reply_to_user_id_str": "103580145",
+			"in_reply_to_screen_name": "L3V14TH4N1104",
+			"user": {
+				"id": 103580145,
+				"id_str": "103580145",
+				"name": "L3V14",
+				"screen_name": "L3V14TH4N1104",
+				"location": "Time and Space for bussiness. ",
+				"description": "I DIDN'T CHOOSE THE PUG LIFE, THE PUG LIFE CHOOSE ME. // Nin-gen Nooooo Nooooo Nin-gen //DA-ME-NIN-GEN",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 987,
+				"friends_count": 436,
+				"listed_count": 41,
+				"created_at": "Sun Jan 10 14:24:54 +0000 2010",
+				"favourites_count": 21635,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 181972,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0F0F0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181149565/zi4rCm5r.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181149565/zi4rCm5r.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/688940843357442048/wn53G-r9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/688940843357442048/wn53G-r9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/103580145/1418183586",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jan 28 00:28:48 +0000 2017",
+		"id": 825138519450464300,
+		"id_str": "825138519450464261",
+		"text": "RT @L3V14TH4N1104: 얼마나 유리되었고 혹은 어떻게 변화하였는지, 이런 부분을 집중적으로 다루었어야 하지 않았을까. 저자는 노동의 개념과 가치는 가변적이다 라는 이야기를 하는데 집중하고 있지만(물론 책 분량을 생각하면...), 그렇다면…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "L3V14TH4N1104",
+					"name": "L3V14",
+					"id": 103580145,
+					"id_str": "103580145",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8235,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 27 11:21:26 +0000 2017",
+			"id": 824940375877906400,
+			"id_str": "824940375877906432",
+			"text": "얼마나 유리되었고 혹은 어떻게 변화하였는지, 이런 부분을 집중적으로 다루었어야 하지 않았을까. 저자는 노동의 개념과 가치는 가변적이다 라는 이야기를 하는데 집중하고 있지만(물론 책 분량을 생각하면...), 그렇다면 노동의 개념을 가변적으로 만드는&gt;&gt;",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 824940101146783700,
+			"in_reply_to_status_id_str": "824940101146783744",
+			"in_reply_to_user_id": 103580145,
+			"in_reply_to_user_id_str": "103580145",
+			"in_reply_to_screen_name": "L3V14TH4N1104",
+			"user": {
+				"id": 103580145,
+				"id_str": "103580145",
+				"name": "L3V14",
+				"screen_name": "L3V14TH4N1104",
+				"location": "Time and Space for bussiness. ",
+				"description": "I DIDN'T CHOOSE THE PUG LIFE, THE PUG LIFE CHOOSE ME. // Nin-gen Nooooo Nooooo Nin-gen //DA-ME-NIN-GEN",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 987,
+				"friends_count": 436,
+				"listed_count": 41,
+				"created_at": "Sun Jan 10 14:24:54 +0000 2010",
+				"favourites_count": 21635,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 181972,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0F0F0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181149565/zi4rCm5r.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181149565/zi4rCm5r.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/688940843357442048/wn53G-r9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/688940843357442048/wn53G-r9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/103580145/1418183586",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jan 28 00:28:20 +0000 2017",
+		"id": 825138402257432600,
+		"id_str": "825138402257432576",
+		"text": "RT @L3V14TH4N1104: 왜 인간은 노동이 사라지는 미래를 두려워 하는가? 라는 질문에 대해서 '인간의 노동이 인간의 가치를 증명하기 때문'이라고 정의 내리는데, 이런저런 철학자들(한나 아렌트나 막스 베버)의 이야기를 인용해서 논지를 전개중.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "L3V14TH4N1104",
+					"name": "L3V14",
+					"id": 103580145,
+					"id_str": "103580145",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8235,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 27 11:16:41 +0000 2017",
+			"id": 824939180434133000,
+			"id_str": "824939180434132992",
+			"text": "왜 인간은 노동이 사라지는 미래를 두려워 하는가? 라는 질문에 대해서 '인간의 노동이 인간의 가치를 증명하기 때문'이라고 정의 내리는데, 이런저런 철학자들(한나 아렌트나 막스 베버)의 이야기를 인용해서 논지를 전개중.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 103580145,
+				"id_str": "103580145",
+				"name": "L3V14",
+				"screen_name": "L3V14TH4N1104",
+				"location": "Time and Space for bussiness. ",
+				"description": "I DIDN'T CHOOSE THE PUG LIFE, THE PUG LIFE CHOOSE ME. // Nin-gen Nooooo Nooooo Nin-gen //DA-ME-NIN-GEN",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 987,
+				"friends_count": 436,
+				"listed_count": 41,
+				"created_at": "Sun Jan 10 14:24:54 +0000 2010",
+				"favourites_count": 21635,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 181972,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0F0F0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181149565/zi4rCm5r.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181149565/zi4rCm5r.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/688940843357442048/wn53G-r9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/688940843357442048/wn53G-r9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/103580145/1418183586",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jan 28 00:28:18 +0000 2017",
+		"id": 825138395789852700,
+		"id_str": "825138395789852673",
+		"text": "RT @L3V14TH4N1104: 노동 없는 미래...진짜 아무 생각없이 집은 책인데 나쁘지 않은듯?",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "L3V14TH4N1104",
+					"name": "L3V14",
+					"id": 103580145,
+					"id_str": "103580145",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8235,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 27 11:15:35 +0000 2017",
+			"id": 824938900950900700,
+			"id_str": "824938900950900736",
+			"text": "노동 없는 미래...진짜 아무 생각없이 집은 책인데 나쁘지 않은듯?",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 103580145,
+				"id_str": "103580145",
+				"name": "L3V14",
+				"screen_name": "L3V14TH4N1104",
+				"location": "Time and Space for bussiness. ",
+				"description": "I DIDN'T CHOOSE THE PUG LIFE, THE PUG LIFE CHOOSE ME. // Nin-gen Nooooo Nooooo Nin-gen //DA-ME-NIN-GEN",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 987,
+				"friends_count": 436,
+				"listed_count": 41,
+				"created_at": "Sun Jan 10 14:24:54 +0000 2010",
+				"favourites_count": 21635,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 181972,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0F0F0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181149565/zi4rCm5r.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181149565/zi4rCm5r.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/688940843357442048/wn53G-r9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/688940843357442048/wn53G-r9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/103580145/1418183586",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Jan 22 16:19:14 +0000 2017",
 		"id": 823203376812802000,
 		"id_str": "823203376812802048",
