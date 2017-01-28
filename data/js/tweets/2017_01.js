@@ -1,6 +1,384 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Sat Jan 28 01:37:18 +0000 2017",
+		"id": 825155761173098500,
+		"id_str": "825155761173098496",
+		"text": "RT @ueberm_ensch: @nochhungrig 와 근데 드림캐쳐 진짜 쫌 대박인 거 같다 너무 입덕 되었다,.. 춤이랑 의상 너무 멋지고 노래도 좋아,.. 막 남성들 시선 겨냥하기 보다는 \"우리 엄청 멋있고 잘하지 않냐\" 같은 느낌이라 아주…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ueberm_ensch",
+					"name": "위범의 가운뎃손가락",
+					"id": 982859772,
+					"id_str": "982859772",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8237,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 24 14:52:06 +0000 2017",
+			"id": 823906224794013700,
+			"id_str": "823906224794013696",
+			"text": "@nochhungrig 와 근데 드림캐쳐 진짜 쫌 대박인 거 같다 너무 입덕 되었다,.. 춤이랑 의상 너무 멋지고 노래도 좋아,.. 막 남성들 시선 겨냥하기 보다는 \"우리 엄청 멋있고 잘하지 않냐\" 같은 느… https://t.co/TXv7CoKl4D",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TXv7CoKl4D",
+						"expanded_url": "https://twitter.com/i/web/status/823906224794013696",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 821908921447129100,
+			"in_reply_to_status_id_str": "821908921447129089",
+			"in_reply_to_user_id": 982859772,
+			"in_reply_to_user_id_str": "982859772",
+			"in_reply_to_screen_name": "ueberm_ensch",
+			"user": {
+				"id": 982859772,
+				"id_str": "982859772",
+				"name": "위범의 가운뎃손가락",
+				"screen_name": "ueberm_ensch",
+				"location": "In the middle of the fingers..",
+				"description": "내 가운데 손가락이,... 빻놈을 향해,..",
+				"url": "https://t.co/hEXzB9bfsM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hEXzB9bfsM",
+								"expanded_url": "http://ask.fm/askkkkmeanything",
+								"display_url": "ask.fm/askkkkmeanythi…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 235,
+				"friends_count": 386,
+				"listed_count": 0,
+				"created_at": "Sat Dec 01 16:24:45 +0000 2012",
+				"favourites_count": 1574,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7608,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/824322970570997760/LhfIWV1B_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/824322970570997760/LhfIWV1B_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/982859772/1485368887",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jan 28 01:37:14 +0000 2017",
+		"id": 825155741786992600,
+		"id_str": "825155741786992640",
+		"text": "RT @ueberm_ensch: 드림캐쳐 라는 신에 걸그룹이 나왔는데 컨셉이 &gt;악몽&lt;이라서 좀 흥미돋는다. 멤버 별로 각기 다른 악몽 맡고 있음 '좁은 공간에 갇히는 꿈', '높은 곳에서 떨어지는 꿈' 등.. 그룹이름은 드림캐쳐인데 멤버들은 악몽인…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ueberm_ensch",
+					"name": "위범의 가운뎃손가락",
+					"id": 982859772,
+					"id_str": "982859772",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8237,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 19 02:35:31 +0000 2017",
+			"id": 821908921447129100,
+			"id_str": "821908921447129089",
+			"text": "드림캐쳐 라는 신에 걸그룹이 나왔는데 컨셉이 &gt;악몽&lt;이라서 좀 흥미돋는다. 멤버 별로 각기 다른 악몽 맡고 있음 '좁은 공간에 갇히는 꿈', '높은 곳에서 떨어지는 꿈' 등.. 그룹이름은 드림캐쳐인데 멤버들… https://t.co/BxtCxQthvT",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BxtCxQthvT",
+						"expanded_url": "https://twitter.com/i/web/status/821908921447129089",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							123,
+							146
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 982859772,
+				"id_str": "982859772",
+				"name": "위범의 가운뎃손가락",
+				"screen_name": "ueberm_ensch",
+				"location": "In the middle of the fingers..",
+				"description": "내 가운데 손가락이,... 빻놈을 향해,..",
+				"url": "https://t.co/hEXzB9bfsM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hEXzB9bfsM",
+								"expanded_url": "http://ask.fm/askkkkmeanything",
+								"display_url": "ask.fm/askkkkmeanythi…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 235,
+				"friends_count": 386,
+				"listed_count": 0,
+				"created_at": "Sat Dec 01 16:24:45 +0000 2012",
+				"favourites_count": 1574,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7608,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/824322970570997760/LhfIWV1B_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/824322970570997760/LhfIWV1B_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/982859772/1485368887",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8152,
+			"favorite_count": 2725,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8152,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Jan 28 00:48:29 +0000 2017",
 		"id": 825143476929040400,
 		"id_str": "825143476929040385",
