@@ -1,6 +1,1682 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Sun Jan 29 03:01:34 +0000 2017",
+		"id": 825539352654606300,
+		"id_str": "825539352654606336",
+		"text": "RT @candle_daze: 나무위키에 달빠 옹호하는 문서 적어보셈 세상의 여론에 저항해서 새로운 목소리를 정론으로 만드는 일이 얼마나 고된지 느낄 수 있음 ㅋㅋ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "candle_daze",
+					"name": "메루메루",
+					"id": 3299262714,
+					"id_str": "3299262714",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8246,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 29 02:48:07 +0000 2017",
+			"id": 825535971164713000,
+			"id_str": "825535971164712960",
+			"text": "나무위키에 달빠 옹호하는 문서 적어보셈 세상의 여론에 저항해서 새로운 목소리를 정론으로 만드는 일이 얼마나 고된지 느낄 수 있음 ㅋㅋ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3299262714,
+				"id_str": "3299262714",
+				"name": "메루메루",
+				"screen_name": "candle_daze",
+				"location": "",
+				"description": "뽀야야",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 453,
+				"friends_count": 634,
+				"listed_count": 8,
+				"created_at": "Tue Jul 28 08:50:00 +0000 2015",
+				"favourites_count": 17113,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 48461,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/820152254342647808/kQtsYYwD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/820152254342647808/kQtsYYwD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3299262714/1467204037",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Jan 29 02:55:49 +0000 2017",
+		"id": 825537906966007800,
+		"id_str": "825537906966007808",
+		"text": "RT @dead_feminist: 트럼프의 무슬림 국가 입국금지 말이 안되는 이유가 막상 테러한 국가들은 냅두고 가만히 있던 이란 이라크 예맨 입국금지시킴;;;;; https://t.co/xWo43VwiAO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dead_feminist",
+					"name": "사랑하다 맞아죽은 여자",
+					"id": 706721927537102800,
+					"id_str": "706721927537102848",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 825505213976973300,
+					"id_str": "825505213976973313",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/C3TInk9UkAEcAqV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3TInk9UkAEcAqV.jpg",
+					"url": "https://t.co/xWo43VwiAO",
+					"display_url": "pic.twitter.com/xWo43VwiAO",
+					"expanded_url": "https://twitter.com/dead_feminist/status/825505221719650308/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 825505221719650300,
+					"source_status_id_str": "825505221719650308",
+					"source_user_id": 706721927537102800,
+					"source_user_id_str": "706721927537102848"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 825505213976973300,
+					"id_str": "825505213976973313",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/C3TInk9UkAEcAqV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3TInk9UkAEcAqV.jpg",
+					"url": "https://t.co/xWo43VwiAO",
+					"display_url": "pic.twitter.com/xWo43VwiAO",
+					"expanded_url": "https://twitter.com/dead_feminist/status/825505221719650308/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 825505221719650300,
+					"source_status_id_str": "825505221719650308",
+					"source_user_id": 706721927537102800,
+					"source_user_id_str": "706721927537102848"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8246,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 29 00:45:56 +0000 2017",
+			"id": 825505221719650300,
+			"id_str": "825505221719650308",
+			"text": "트럼프의 무슬림 국가 입국금지 말이 안되는 이유가 막상 테러한 국가들은 냅두고 가만히 있던 이란 이라크 예맨 입국금지시킴;;;;; https://t.co/xWo43VwiAO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 825505213976973300,
+						"id_str": "825505213976973313",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/C3TInk9UkAEcAqV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3TInk9UkAEcAqV.jpg",
+						"url": "https://t.co/xWo43VwiAO",
+						"display_url": "pic.twitter.com/xWo43VwiAO",
+						"expanded_url": "https://twitter.com/dead_feminist/status/825505221719650308/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 825505213976973300,
+						"id_str": "825505213976973313",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/media/C3TInk9UkAEcAqV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3TInk9UkAEcAqV.jpg",
+						"url": "https://t.co/xWo43VwiAO",
+						"display_url": "pic.twitter.com/xWo43VwiAO",
+						"expanded_url": "https://twitter.com/dead_feminist/status/825505221719650308/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 706721927537102800,
+				"id_str": "706721927537102848",
+				"name": "사랑하다 맞아죽은 여자",
+				"screen_name": "dead_feminist",
+				"location": "London, England",
+				"description": "데이트폭력 생존자, 다친 모든이들을 지지합니다. I am still alive after 2 years of violence from man / panromantic asexual polyamory / Feminist / RT많이해요 /",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 512,
+				"friends_count": 225,
+				"listed_count": 0,
+				"created_at": "Mon Mar 07 06:03:32 +0000 2016",
+				"favourites_count": 983,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1583,
+				"lang": "en-GB",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/780731187522183168/DJYFmF9d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/780731187522183168/DJYFmF9d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/706721927537102848/1474930194",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 789,
+			"favorite_count": 52,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 789,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Jan 29 02:51:13 +0000 2017",
+		"id": 825536750353207300,
+		"id_str": "825536750353207298",
+		"text": "RT @webern11: 트럼프의 무슬림 입국 금지에 사우디 아라비아는 포함 안 됨. 왜? 트럼프 회사가 비지니스하는 나라거든...근데 정작 9.11. 테러리스트들 대부분은 사우디 아라비아 국적이었음. 언론아 제발 이런 걸 부각하라고...진짜 갑갑하…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "webern11",
+					"name": "webern",
+					"id": 247817563,
+					"id_str": "247817563",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8246,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 28 16:59:58 +0000 2017",
+			"id": 825387957670522900,
+			"id_str": "825387957670522881",
+			"text": "트럼프의 무슬림 입국 금지에 사우디 아라비아는 포함 안 됨. 왜? 트럼프 회사가 비지니스하는 나라거든...근데 정작 9.11. 테러리스트들 대부분은 사우디 아라비아 국적이었음. 언론아 제발 이런 걸 부각하라고...진짜 갑갑하네.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 247817563,
+				"id_str": "247817563",
+				"name": "webern",
+				"screen_name": "webern11",
+				"location": "Omaha, NE",
+				"description": "nec spe, nec metu.",
+				"url": "https://t.co/L8TAVkEuZx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/L8TAVkEuZx",
+								"expanded_url": "http://thalamus.egloos.com",
+								"display_url": "thalamus.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 745,
+				"friends_count": 302,
+				"listed_count": 28,
+				"created_at": "Sat Feb 05 16:47:05 +0000 2011",
+				"favourites_count": 1006,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8099,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1235679318/laputa1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235679318/laputa1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/247817563/1373200372",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1689,
+			"favorite_count": 154,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1689,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Jan 29 02:47:07 +0000 2017",
+		"id": 825535719636504600,
+		"id_str": "825535719636504577",
+		"text": "RT @livet_morange: 7개국을 꼭 집어 입국금지를 때린 와중에 19명의 비행기 납치범 출신국 중 당당히 1위를 차지한 사우디 아라비아(16명)을 쏙 빼놓은 점이 너무나 미운것이다. 차라리 순수하기나하면.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "livet_morange",
+					"name": "Starboard",
+					"id": 3529199535,
+					"id_str": "3529199535",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8246,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 28 22:53:49 +0000 2017",
+			"id": 825477005319757800,
+			"id_str": "825477005319757824",
+			"text": "7개국을 꼭 집어 입국금지를 때린 와중에 19명의 비행기 납치범 출신국 중 당당히 1위를 차지한 사우디 아라비아(16명)을 쏙 빼놓은 점이 너무나 미운것이다. 차라리 순수하기나하면.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3529199535,
+				"id_str": "3529199535",
+				"name": "Starboard",
+				"screen_name": "livet_morange",
+				"location": "",
+				"description": "Double Double Toil and Trouble.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 58,
+				"friends_count": 100,
+				"listed_count": 0,
+				"created_at": "Thu Sep 03 02:00:59 +0000 2015",
+				"favourites_count": 2164,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1468,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/804894434001305600/Nyt6-Jn1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/804894434001305600/Nyt6-Jn1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3529199535/1480796519",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 222,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 222,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Jan 29 02:46:52 +0000 2017",
+		"id": 825535656445124600,
+		"id_str": "825535656445124608",
+		"text": "RT @AcJeen: 미국 행정법은 어떻게 생겨 먹었길래 특정국가 출신을 대통령이 콕 찍어 입국금지시키는 게 되지? 법령의 일반성 개나 줬나여..\n미국행정법 완전 나치라고 그랬던 겨스님 말씀 이제야 알겠고.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AcJeen",
+					"name": "吉次郞",
+					"id": 489068218,
+					"id_str": "489068218",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8246,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 28 22:38:51 +0000 2017",
+			"id": 825473241124737000,
+			"id_str": "825473241124737024",
+			"text": "미국 행정법은 어떻게 생겨 먹었길래 특정국가 출신을 대통령이 콕 찍어 입국금지시키는 게 되지? 법령의 일반성 개나 줬나여..\n미국행정법 완전 나치라고 그랬던 겨스님 말씀 이제야 알겠고.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 489068218,
+				"id_str": "489068218",
+				"name": "吉次郞",
+				"screen_name": "AcJeen",
+				"location": "",
+				"description": "인간이 이토록 슬픈데 주여, 바다가 너무 파랗습니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 679,
+				"friends_count": 169,
+				"listed_count": 16,
+				"created_at": "Sat Feb 11 04:35:20 +0000 2012",
+				"favourites_count": 1661,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 39671,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/773495441967034368/K4W5IQJm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/773495441967034368/K4W5IQJm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/489068218/1400661294",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 107,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 107,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Jan 29 02:45:30 +0000 2017",
+		"id": 825535311090372600,
+		"id_str": "825535311090372608",
+		"text": "RT @nizzzma: 어릴 때 읽었던 나니아 연대기에서 '물이 너무 맑아서 끝을 알 수 없는 바다의 깊이를 가늠하는 방법은 오직 바다 밑 바닥에 비친 배의 그림자의 크기 뿐이었다' 읽고 항상 그 장면을 평생 머릿 속에 그려왔는데\n그게 이제 뭔지 알…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nizzzma",
+					"name": "🌴🌺하와이에 있는 니즈마🌺🌴",
+					"id": 758379077887590400,
+					"id_str": "758379077887590400",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8246,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 27 09:43:32 +0000 2017",
+			"id": 824915737911324700,
+			"id_str": "824915737911324673",
+			"text": "어릴 때 읽었던 나니아 연대기에서 '물이 너무 맑아서 끝을 알 수 없는 바다의 깊이를 가늠하는 방법은 오직 바다 밑 바닥에 비친 배의 그림자의 크기 뿐이었다' 읽고 항상 그 장면을 평생 머릿 속에 그려왔는데… https://t.co/2WgKPaFh8z",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2WgKPaFh8z",
+						"expanded_url": "https://twitter.com/i/web/status/824915737911324673",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 758379077887590400,
+				"id_str": "758379077887590400",
+				"name": "🌴🌺하와이에 있는 니즈마🌺🌴",
+				"screen_name": "nizzzma",
+				"location": "천국에 가장 가까운 곳",
+				"description": "인셍 행복하다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1624,
+				"friends_count": 45,
+				"listed_count": 17,
+				"created_at": "Wed Jul 27 19:10:36 +0000 2016",
+				"favourites_count": 713,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 961,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/824778486405423104/UcehFZGb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/824778486405423104/UcehFZGb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/758379077887590400/1484984597",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11226,
+			"favorite_count": 4342,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11226,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Jan 29 02:43:34 +0000 2017",
+		"id": 825534824513286100,
+		"id_str": "825534824513286144",
+		"text": "RT @notbadfutures: 중2병을 바라보는 새로운 시각 https://t.co/GSmxP0zrCQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "notbadfutures",
+					"name": "불국영",
+					"id": 147776364,
+					"id_str": "147776364",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 824885757701558300,
+					"id_str": "824885757701558277",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/C3KVOegUkAUWgLl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3KVOegUkAUWgLl.jpg",
+					"url": "https://t.co/GSmxP0zrCQ",
+					"display_url": "pic.twitter.com/GSmxP0zrCQ",
+					"expanded_url": "https://twitter.com/notbadfutures/status/824885772947857409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 473,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1424,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 834,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 824885772947857400,
+					"source_status_id_str": "824885772947857409",
+					"source_user_id": 147776364,
+					"source_user_id_str": "147776364"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 824885757701558300,
+					"id_str": "824885757701558277",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/C3KVOegUkAUWgLl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3KVOegUkAUWgLl.jpg",
+					"url": "https://t.co/GSmxP0zrCQ",
+					"display_url": "pic.twitter.com/GSmxP0zrCQ",
+					"expanded_url": "https://twitter.com/notbadfutures/status/824885772947857409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 473,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1424,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 834,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 824885772947857400,
+					"source_status_id_str": "824885772947857409",
+					"source_user_id": 147776364,
+					"source_user_id_str": "147776364"
+				},
+				{
+					"id": 824885757697368000,
+					"id_str": "824885757697368064",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/C3KVOefUoAAPZAc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3KVOefUoAAPZAc.jpg",
+					"url": "https://t.co/GSmxP0zrCQ",
+					"display_url": "pic.twitter.com/GSmxP0zrCQ",
+					"expanded_url": "https://twitter.com/notbadfutures/status/824885772947857409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1312,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 769,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 436,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 824885772947857400,
+					"source_status_id_str": "824885772947857409",
+					"source_user_id": 147776364,
+					"source_user_id_str": "147776364"
+				},
+				{
+					"id": 824885757697355800,
+					"id_str": "824885757697355776",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/C3KVOefUcAAE-MW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3KVOefUcAAE-MW.jpg",
+					"url": "https://t.co/GSmxP0zrCQ",
+					"display_url": "pic.twitter.com/GSmxP0zrCQ",
+					"expanded_url": "https://twitter.com/notbadfutures/status/824885772947857409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1392,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 462,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 824885772947857400,
+					"source_status_id_str": "824885772947857409",
+					"source_user_id": 147776364,
+					"source_user_id_str": "147776364"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 60,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1028,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8246,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 27 07:44:28 +0000 2017",
+			"id": 824885772947857400,
+			"id_str": "824885772947857409",
+			"text": "중2병을 바라보는 새로운 시각 https://t.co/GSmxP0zrCQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 824885757701558300,
+						"id_str": "824885757701558277",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/C3KVOegUkAUWgLl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3KVOegUkAUWgLl.jpg",
+						"url": "https://t.co/GSmxP0zrCQ",
+						"display_url": "pic.twitter.com/GSmxP0zrCQ",
+						"expanded_url": "https://twitter.com/notbadfutures/status/824885772947857409/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 473,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1424,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 834,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 824885757701558300,
+						"id_str": "824885757701558277",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/C3KVOegUkAUWgLl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3KVOegUkAUWgLl.jpg",
+						"url": "https://t.co/GSmxP0zrCQ",
+						"display_url": "pic.twitter.com/GSmxP0zrCQ",
+						"expanded_url": "https://twitter.com/notbadfutures/status/824885772947857409/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 473,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1424,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 834,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 824885757697368000,
+						"id_str": "824885757697368064",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/C3KVOefUoAAPZAc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3KVOefUoAAPZAc.jpg",
+						"url": "https://t.co/GSmxP0zrCQ",
+						"display_url": "pic.twitter.com/GSmxP0zrCQ",
+						"expanded_url": "https://twitter.com/notbadfutures/status/824885772947857409/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1312,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 769,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 436,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 824885757697355800,
+						"id_str": "824885757697355776",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/C3KVOefUcAAE-MW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3KVOefUcAAE-MW.jpg",
+						"url": "https://t.co/GSmxP0zrCQ",
+						"display_url": "pic.twitter.com/GSmxP0zrCQ",
+						"expanded_url": "https://twitter.com/notbadfutures/status/824885772947857409/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1392,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 816,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 462,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 147776364,
+				"id_str": "147776364",
+				"name": "불국영",
+				"screen_name": "notbadfutures",
+				"location": "피망과토마토 망가bar",
+				"description": "괜찮은미래가있기에 / 안남시 중앙동 피망과토마토 망가bar /",
+				"url": "https://t.co/kP3mpUO7J3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kP3mpUO7J3",
+								"expanded_url": "http://sexualwords.tumblr.com",
+								"display_url": "sexualwords.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1056,
+				"friends_count": 503,
+				"listed_count": 20,
+				"created_at": "Tue May 25 01:15:13 +0000 2010",
+				"favourites_count": 1920,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 64082,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/175772762/sirdar-squiggle-super-chunky-603-funkadelic-3014139-150-1279119602000.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/175772762/sirdar-squiggle-super-chunky-603-funkadelic-3014139-150-1279119602000.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/820128631548542976/2Bn0eYEm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/820128631548542976/2Bn0eYEm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/147776364/1484124912",
+				"profile_link_color": "3D8250",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 798,
+			"favorite_count": 257,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 798,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Jan 29 01:34:37 +0000 2017",
 		"id": 825517474565091300,
 		"id_str": "825517474565091328",
