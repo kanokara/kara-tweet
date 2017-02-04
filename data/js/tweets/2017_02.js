@@ -1,6 +1,596 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sat Feb 04 13:23:58 +0000 2017",
+		"id": 827870312775635000,
+		"id_str": "827870312775634944",
+		"text": "RT @Luxuryseo: 날조트랩 NTR\n\n남친있는 여자애들끼리 \n백합 커플로 바람나는 스토리 https://t.co/molragGfbW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Luxuryseo",
+					"name": "ㅅㄹ@WONDER FLIGHT",
+					"id": 128495598,
+					"id_str": "128495598",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 827058882535059500,
+					"id_str": "827058882535059456",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/C3pNq_XVcAAe7ee.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3pNq_XVcAAe7ee.jpg",
+					"url": "https://t.co/molragGfbW",
+					"display_url": "pic.twitter.com/molragGfbW",
+					"expanded_url": "https://twitter.com/Luxuryseo/status/827059220067389440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 724,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 724,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 827059220067389400,
+					"source_status_id_str": "827059220067389440",
+					"source_user_id": 128495598,
+					"source_user_id_str": "128495598"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 827058882535059500,
+					"id_str": "827058882535059456",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/C3pNq_XVcAAe7ee.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C3pNq_XVcAAe7ee.jpg",
+					"url": "https://t.co/molragGfbW",
+					"display_url": "pic.twitter.com/molragGfbW",
+					"expanded_url": "https://twitter.com/Luxuryseo/status/827059220067389440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 724,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 724,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 827059220067389400,
+					"source_status_id_str": "827059220067389440",
+					"source_user_id": 128495598,
+					"source_user_id_str": "128495598"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 63,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1018,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8285,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 02 07:40:58 +0000 2017",
+			"id": 827059220067389400,
+			"id_str": "827059220067389440",
+			"text": "날조트랩 NTR\n\n남친있는 여자애들끼리 \n백합 커플로 바람나는 스토리 https://t.co/molragGfbW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 827058882535059500,
+						"id_str": "827058882535059456",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/C3pNq_XVcAAe7ee.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3pNq_XVcAAe7ee.jpg",
+						"url": "https://t.co/molragGfbW",
+						"display_url": "pic.twitter.com/molragGfbW",
+						"expanded_url": "https://twitter.com/Luxuryseo/status/827059220067389440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 724,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 724,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 470,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 827058882535059500,
+						"id_str": "827058882535059456",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/C3pNq_XVcAAe7ee.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C3pNq_XVcAAe7ee.jpg",
+						"url": "https://t.co/molragGfbW",
+						"display_url": "pic.twitter.com/molragGfbW",
+						"expanded_url": "https://twitter.com/Luxuryseo/status/827059220067389440/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 724,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 724,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 470,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 128495598,
+				"id_str": "128495598",
+				"name": "ㅅㄹ@WONDER FLIGHT",
+				"screen_name": "Luxuryseo",
+				"location": "seoul, south korea",
+				"description": "三森すずこ / milky holmes / lovelive(μ's only, 海未推し) / Starcraft2(race : terran)  / 가끔씩 라이브 축음기",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2065,
+				"friends_count": 979,
+				"listed_count": 42,
+				"created_at": "Thu Apr 01 08:46:24 +0000 2010",
+				"favourites_count": 7894,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 241291,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/826957085380194304/LNVo1L2r_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/826957085380194304/LNVo1L2r_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/128495598/1477578395",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 162,
+			"favorite_count": 79,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 162,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Feb 04 13:23:45 +0000 2017",
+		"id": 827870257263964200,
+		"id_str": "827870257263964160",
+		"text": "노인층과 청년층의 차이는 새끼캥거루 노릇을 할 가정이 있냐 없냐의 차이일 뿐이죠. \nhttps://t.co/bq31xYlyyz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bq31xYlyyz",
+					"expanded_url": "https://twitter.com/BlueFalcon47/status/827863572814327808",
+					"display_url": "twitter.com/BlueFalcon47/s…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 63,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1018,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8285,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 827863572814327800,
+		"quoted_status_id_str": "827863572814327808",
+		"quoted_status": {
+			"created_at": "Sat Feb 04 12:57:11 +0000 2017",
+			"id": 827863572814327800,
+			"id_str": "827863572814327808",
+			"text": "청년빈곤 참담 하는 얘기는 정말 트위터에서만 할 얘기고 한국 노인자살률은 너무 참담해서 이건 정말 무슨 수든 써봐야 하는 상황이 맞음. https://t.co/w1YEbaEmwX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 827863453595377700,
+						"id_str": "827863453595377665",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/C30pbMIUoAESPQr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C30pbMIUoAESPQr.jpg",
+						"url": "https://t.co/w1YEbaEmwX",
+						"display_url": "pic.twitter.com/w1YEbaEmwX",
+						"expanded_url": "https://twitter.com/BlueFalcon47/status/827863572814327808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 639,
+								"h": 473,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 639,
+								"h": 473,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 639,
+								"h": 473,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 827863453595377700,
+						"id_str": "827863453595377665",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/C30pbMIUoAESPQr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C30pbMIUoAESPQr.jpg",
+						"url": "https://t.co/w1YEbaEmwX",
+						"display_url": "pic.twitter.com/w1YEbaEmwX",
+						"expanded_url": "https://twitter.com/BlueFalcon47/status/827863572814327808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 639,
+								"h": 473,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 639,
+								"h": 473,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 639,
+								"h": 473,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 350340173,
+				"id_str": "350340173",
+				"name": "푸른매",
+				"screen_name": "BlueFalcon47",
+				"location": "헬프미 헬프미 아임온빅파이어",
+				"description": "“No. It's stupidity. Never underestimate the power of stupidity.” - W. Patrick Lang",
+				"url": "http://t.co/m3np4UckVX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/m3np4UckVX",
+								"expanded_url": "http://bluefalcon.egloos.com",
+								"display_url": "bluefalcon.egloos.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1107,
+				"friends_count": 248,
+				"listed_count": 35,
+				"created_at": "Sun Aug 07 16:22:05 +0000 2011",
+				"favourites_count": 10771,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 46866,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2524674091/xqm83uasmtr5s3vnitwf_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2524674091/xqm83uasmtr5s3vnitwf_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/350340173/1402068720",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 140,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Feb 04 11:29:13 +0000 2017",
 		"id": 827841436091510800,
 		"id_str": "827841436091510784",
