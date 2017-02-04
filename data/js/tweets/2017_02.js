@@ -1,6 +1,559 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sat Feb 04 18:32:27 +0000 2017",
+		"id": 827947946146664400,
+		"id_str": "827947946146664448",
+		"text": "신카이 마코토가 만든 감성을 자극하는 일본 애니메이션 CF들 https://t.co/5wbQFyWbp2 @YouTube 님이 공유\n\n처음 나오는 AC재팬 CM이 좋네요.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						58,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5wbQFyWbp2",
+					"expanded_url": "https://youtu.be/DnWHKNsS2ZI",
+					"display_url": "youtu.be/DnWHKNsS2ZI",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1018,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8343,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Feb 04 18:19:55 +0000 2017",
+		"id": 827944790520115200,
+		"id_str": "827944790520115200",
+		"text": "RT @MAEZIMAS: こちらも合わせてお読み頂ければ幸いです。　『虐殺器官』ラノベ漂流20年！「前島賢の本棚晒し」 - 電子書籍はeBookJapan https://t.co/EfQ6C0Ggf9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MAEZIMAS",
+					"name": "MAEJIMA Satoshi",
+					"id": 70865089,
+					"id_str": "70865089",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EfQ6C0Ggf9",
+					"expanded_url": "http://www.ebookjapan.jp/ebj/special/lv_column/index.asp?t=130327",
+					"display_url": "ebookjapan.jp/ebj/special/lv…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1018,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8343,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 01 15:11:49 +0000 2017",
+			"id": 826810292784885800,
+			"id_str": "826810292784885760",
+			"text": "こちらも合わせてお読み頂ければ幸いです。　『虐殺器官』ラノベ漂流20年！「前島賢の本棚晒し」 - 電子書籍はeBookJapan https://t.co/EfQ6C0Ggf9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EfQ6C0Ggf9",
+						"expanded_url": "http://www.ebookjapan.jp/ebj/special/lv_column/index.asp?t=130327",
+						"display_url": "ebookjapan.jp/ebj/special/lv…",
+						"indices": [
+							65,
+							88
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 826809145667973100,
+			"in_reply_to_status_id_str": "826809145667973120",
+			"in_reply_to_user_id": 70865089,
+			"in_reply_to_user_id_str": "70865089",
+			"in_reply_to_screen_name": "MAEZIMAS",
+			"user": {
+				"id": 70865089,
+				"id_str": "70865089",
+				"name": "MAEJIMA Satoshi",
+				"screen_name": "MAEZIMAS",
+				"location": "茨城県つくばみらい市",
+				"description": "前島賢：ライトノベル&ＳＦライター。\n連絡はmaexima*https://t.co/N8GNSmAmm4まで。著書「セカイ系とは何か」http://t.co/7hM86DZflZ  連載「前島賢の本棚晒し」  http://t.co/S8GMAd7ShA  大樹連司名義で小説も。amazonアソシエイト利用中。",
+				"url": "https://t.co/hXubMsb5Ui",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hXubMsb5Ui",
+								"expanded_url": "http://maezimas.hatenablog.com/",
+								"display_url": "maezimas.hatenablog.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/N8GNSmAmm4",
+								"expanded_url": "http://gmail.com",
+								"display_url": "gmail.com",
+								"indices": [
+									30,
+									53
+								]
+							},
+							{
+								"url": "http://t.co/7hM86DZflZ",
+								"expanded_url": "http://www.amazon.co.jp/dp/4061389688",
+								"display_url": "amazon.co.jp/dp/4061389688",
+								"indices": [
+									68,
+									90
+								]
+							},
+							{
+								"url": "http://t.co/S8GMAd7ShA",
+								"expanded_url": "http://www.ebookjapan.jp/ebj/special/lv_column.asp",
+								"display_url": "ebookjapan.jp/ebj/special/lv…",
+								"indices": [
+									106,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4531,
+				"friends_count": 592,
+				"listed_count": 413,
+				"created_at": "Wed Sep 02 02:57:04 +0000 2009",
+				"favourites_count": 3097,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15035,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/423764037/106564_2946865424_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/423764037/106564_2946865424_normal.jpg",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Sat Feb 04 18:19:51 +0000 2017",
+		"id": 827944773805830100,
+		"id_str": "827944773805830146",
+		"text": "RT @MAEZIMAS: ボンクラ青春ＳＦとしての『虐殺器官』　～以後とか以前とか最初に言い出したのは誰なのかしら？～（前島賢）｜前島賢｜note（ノート）  https://t.co/yWz4wb0F2u",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MAEZIMAS",
+					"name": "MAEJIMA Satoshi",
+					"id": 70865089,
+					"id_str": "70865089",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yWz4wb0F2u",
+					"expanded_url": "https://note.mu/maezimas/n/n0217032ae0b0",
+					"display_url": "note.mu/maezimas/n/n02…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1018,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8343,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 01 15:03:18 +0000 2017",
+			"id": 826808148228857900,
+			"id_str": "826808148228857856",
+			"text": "ボンクラ青春ＳＦとしての『虐殺器官』　～以後とか以前とか最初に言い出したのは誰なのかしら？～（前島賢）｜前島賢｜note（ノート）  https://t.co/yWz4wb0F2u",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/yWz4wb0F2u",
+						"expanded_url": "https://note.mu/maezimas/n/n0217032ae0b0",
+						"display_url": "note.mu/maezimas/n/n02…",
+						"indices": [
+							67,
+							90
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 70865089,
+				"id_str": "70865089",
+				"name": "MAEJIMA Satoshi",
+				"screen_name": "MAEZIMAS",
+				"location": "茨城県つくばみらい市",
+				"description": "前島賢：ライトノベル&ＳＦライター。\n連絡はmaexima*https://t.co/N8GNSmAmm4まで。著書「セカイ系とは何か」http://t.co/7hM86DZflZ  連載「前島賢の本棚晒し」  http://t.co/S8GMAd7ShA  大樹連司名義で小説も。amazonアソシエイト利用中。",
+				"url": "https://t.co/hXubMsb5Ui",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hXubMsb5Ui",
+								"expanded_url": "http://maezimas.hatenablog.com/",
+								"display_url": "maezimas.hatenablog.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/N8GNSmAmm4",
+								"expanded_url": "http://gmail.com",
+								"display_url": "gmail.com",
+								"indices": [
+									30,
+									53
+								]
+							},
+							{
+								"url": "http://t.co/7hM86DZflZ",
+								"expanded_url": "http://www.amazon.co.jp/dp/4061389688",
+								"display_url": "amazon.co.jp/dp/4061389688",
+								"indices": [
+									68,
+									90
+								]
+							},
+							{
+								"url": "http://t.co/S8GMAd7ShA",
+								"expanded_url": "http://www.ebookjapan.jp/ebj/special/lv_column.asp",
+								"display_url": "ebookjapan.jp/ebj/special/lv…",
+								"indices": [
+									106,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4531,
+				"friends_count": 592,
+				"listed_count": 413,
+				"created_at": "Wed Sep 02 02:57:04 +0000 2009",
+				"favourites_count": 3097,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15035,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/423764037/106564_2946865424_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/423764037/106564_2946865424_normal.jpg",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 120,
+			"favorite_count": 149,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 120,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Sat Feb 04 17:55:07 +0000 2017",
 		"id": 827938552189161500,
 		"id_str": "827938552189161473",
