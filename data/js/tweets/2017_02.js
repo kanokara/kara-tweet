@@ -1,6 +1,377 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sun Feb 05 11:06:14 +0000 2017",
+		"id": 828198039277875200,
+		"id_str": "828198039277875200",
+		"text": "경제민주화의 화두가 괜히 나온 게 아니죠. 안희정 씨도 그렇고, 어째서 시스템을 재설계하여 재분배하려 하지 않고 기존 예산=시스템 내에서 복지의 우선 순위를 책정하겠다는 것인지 이해되지 않아요.\nhttps://t.co/0PjJdTRn2Q",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0PjJdTRn2Q",
+					"expanded_url": "https://twitter.com/BlueFalcon47/status/827866081016492032",
+					"display_url": "twitter.com/BlueFalcon47/s…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1018,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8347,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 827866081016492000,
+		"quoted_status_id_str": "827866081016492032",
+		"quoted_status": {
+			"created_at": "Sat Feb 04 13:07:09 +0000 2017",
+			"id": 827866081016492000,
+			"id_str": "827866081016492032",
+			"text": "@Dr_Alpha_sloth 둘 다 심각하지만 둘 중 하나를 반드시 선택해야 한다면 노인빈곤이 먼저입니다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Dr_Alpha_sloth",
+						"name": "Alpha",
+						"id": 2793430901,
+						"id_str": "2793430901",
+						"indices": [
+							0,
+							15
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 827865876338720800,
+			"in_reply_to_status_id_str": "827865876338720769",
+			"in_reply_to_user_id": 2793430901,
+			"in_reply_to_user_id_str": "2793430901",
+			"in_reply_to_screen_name": "Dr_Alpha_sloth",
+			"user": {
+				"id": 350340173,
+				"id_str": "350340173",
+				"name": "푸른매",
+				"screen_name": "BlueFalcon47",
+				"location": "헬프미 헬프미 아임온빅파이어",
+				"description": "“No. It's stupidity. Never underestimate the power of stupidity.” - W. Patrick Lang",
+				"url": "http://t.co/m3np4UckVX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/m3np4UckVX",
+								"expanded_url": "http://bluefalcon.egloos.com",
+								"display_url": "bluefalcon.egloos.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1109,
+				"friends_count": 248,
+				"listed_count": 35,
+				"created_at": "Sun Aug 07 16:22:05 +0000 2011",
+				"favourites_count": 10809,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 46957,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2524674091/xqm83uasmtr5s3vnitwf_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2524674091/xqm83uasmtr5s3vnitwf_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/350340173/1402068720",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Feb 05 10:43:46 +0000 2017",
+		"id": 828192383829372900,
+		"id_str": "828192383829372929",
+		"text": "스스로를 소외하는 것.\nhttps://t.co/s8EjSD5hzk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s8EjSD5hzk",
+					"expanded_url": "https://twitter.com/Han_Kyudong/status/827783938458333184",
+					"display_url": "twitter.com/Han_Kyudong/st…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1018,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8347,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 827783938458333200,
+		"quoted_status_id_str": "827783938458333184",
+		"quoted_status": {
+			"created_at": "Sat Feb 04 07:40:45 +0000 2017",
+			"id": 827783938458333200,
+			"id_str": "827783938458333184",
+			"text": "사실 근데 나는 이 논의에 대해서 예전부터 생각이 크게 변한 것이 없어서 맨날 똑같은 소리를 반복하는 기분인데, 약자로 살면서 자신이 주입당한 것과 타고난 것을 구분하는 것은 정말로 힘든 일이죠. 내가 세상과 불화하는 것은 그냥 그대로 밀고 나가면 됨",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 181199507,
+				"id_str": "181199507",
+				"name": "한규동",
+				"screen_name": "Han_Kyudong",
+				"location": "",
+				"description": "내 토끼가 너무 예쁘다 | 남자 아니에요",
+				"url": "https://t.co/5yzQxtbPnx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5yzQxtbPnx",
+								"expanded_url": "http://han-kyudong.postype.com/",
+								"display_url": "han-kyudong.postype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44125,
+				"friends_count": 420,
+				"listed_count": 380,
+				"created_at": "Sat Aug 21 15:21:31 +0000 2010",
+				"favourites_count": 23823,
+				"utc_offset": 28800,
+				"time_zone": "Taipei",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 187496,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/278737195/ClioTeam1963MagritteLaReconnaiss-1.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/278737195/ClioTeam1963MagritteLaReconnaiss-1.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793291934571782145/0Tzi9pnO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793291934571782145/0Tzi9pnO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/181199507/1452859625",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 199,
+			"favorite_count": 115,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Feb 05 07:09:08 +0000 2017",
 		"id": 828138371520213000,
 		"id_str": "828138371520212994",
