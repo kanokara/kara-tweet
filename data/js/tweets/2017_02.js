@@ -1,6 +1,681 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sun Feb 05 07:09:08 +0000 2017",
+		"id": 828138371520213000,
+		"id_str": "828138371520212994",
+		"text": "RT @rikuriku912: 黒 https://t.co/9CM0q6FVv7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rikuriku912",
+					"name": "凪空りく",
+					"id": 3319896709,
+					"id_str": "3319896709",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 802873130263773200,
+					"id_str": "802873130263773185",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/CyRg27EUAAEKcpx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CyRg27EUAAEKcpx.jpg",
+					"url": "https://t.co/9CM0q6FVv7",
+					"display_url": "pic.twitter.com/9CM0q6FVv7",
+					"expanded_url": "https://twitter.com/rikuriku912/status/802873260853456896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 815,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 815,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 501,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 802873260853456900,
+					"source_status_id_str": "802873260853456896",
+					"source_user_id": 3319896709,
+					"source_user_id_str": "3319896709"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 802873130263773200,
+					"id_str": "802873130263773185",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/CyRg27EUAAEKcpx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CyRg27EUAAEKcpx.jpg",
+					"url": "https://t.co/9CM0q6FVv7",
+					"display_url": "pic.twitter.com/9CM0q6FVv7",
+					"expanded_url": "https://twitter.com/rikuriku912/status/802873260853456896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 815,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 815,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 501,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 802873260853456900,
+					"source_status_id_str": "802873260853456896",
+					"source_user_id": 3319896709,
+					"source_user_id_str": "3319896709"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1018,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8345,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 27 13:54:36 +0000 2016",
+			"id": 802873260853456900,
+			"id_str": "802873260853456896",
+			"text": "黒 https://t.co/9CM0q6FVv7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 802873130263773200,
+						"id_str": "802873130263773185",
+						"indices": [
+							2,
+							25
+						],
+						"media_url": "http://pbs.twimg.com/media/CyRg27EUAAEKcpx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CyRg27EUAAEKcpx.jpg",
+						"url": "https://t.co/9CM0q6FVv7",
+						"display_url": "pic.twitter.com/9CM0q6FVv7",
+						"expanded_url": "https://twitter.com/rikuriku912/status/802873260853456896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 815,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 815,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 501,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 802873130263773200,
+						"id_str": "802873130263773185",
+						"indices": [
+							2,
+							25
+						],
+						"media_url": "http://pbs.twimg.com/media/CyRg27EUAAEKcpx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CyRg27EUAAEKcpx.jpg",
+						"url": "https://t.co/9CM0q6FVv7",
+						"display_url": "pic.twitter.com/9CM0q6FVv7",
+						"expanded_url": "https://twitter.com/rikuriku912/status/802873260853456896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 600,
+								"h": 815,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 815,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 501,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3319896709,
+				"id_str": "3319896709",
+				"name": "凪空りく",
+				"screen_name": "rikuriku912",
+				"location": "いつか堂々と卯月Pを名乗りたい",
+				"description": "うづりん・NG。鍵垢(R18)@nagirikuoji912   スクスト（＠sukusuto_riku）無断転載禁止",
+				"url": "https://t.co/bAOaIijGLG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bAOaIijGLG",
+								"expanded_url": "http://pixiv.me/nagiriku912",
+								"display_url": "pixiv.me/nagiriku912",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18253,
+				"friends_count": 377,
+				"listed_count": 596,
+				"created_at": "Wed Aug 19 09:39:44 +0000 2015",
+				"favourites_count": 6627,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 27822,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/785313051306172417/AVfvJ9gE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/785313051306172417/AVfvJ9gE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3319896709/1473968551",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 603,
+			"favorite_count": 1273,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 603,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Sun Feb 05 07:08:37 +0000 2017",
+		"id": 828138239743533000,
+		"id_str": "828138239743533057",
+		"text": "RT @udurinP_desu: あいくるしい卯月 https://t.co/w1Fk9FXPvL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "udurinP_desu",
+					"name": "omsubi@ゆっくりネーム中",
+					"id": 759629770556485600,
+					"id_str": "759629770556485632",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 794699510073069600,
+					"id_str": "794699510073069568",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/CwdW_nEVEAAfgR6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CwdW_nEVEAAfgR6.jpg",
+					"url": "https://t.co/w1Fk9FXPvL",
+					"display_url": "pic.twitter.com/w1Fk9FXPvL",
+					"expanded_url": "https://twitter.com/udurinP_desu/status/794699546538278912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 875,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1493,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 496,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 794699546538278900,
+					"source_status_id_str": "794699546538278912",
+					"source_user_id": 759629770556485600,
+					"source_user_id_str": "759629770556485632"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 794699510073069600,
+					"id_str": "794699510073069568",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/CwdW_nEVEAAfgR6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CwdW_nEVEAAfgR6.jpg",
+					"url": "https://t.co/w1Fk9FXPvL",
+					"display_url": "pic.twitter.com/w1Fk9FXPvL",
+					"expanded_url": "https://twitter.com/udurinP_desu/status/794699546538278912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 875,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1493,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 496,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 794699546538278900,
+					"source_status_id_str": "794699546538278912",
+					"source_user_id": 759629770556485600,
+					"source_user_id_str": "759629770556485632"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1018,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8345,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Nov 05 00:35:11 +0000 2016",
+			"id": 794699546538278900,
+			"id_str": "794699546538278912",
+			"text": "あいくるしい卯月 https://t.co/w1Fk9FXPvL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 794699510073069600,
+						"id_str": "794699510073069568",
+						"indices": [
+							9,
+							32
+						],
+						"media_url": "http://pbs.twimg.com/media/CwdW_nEVEAAfgR6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CwdW_nEVEAAfgR6.jpg",
+						"url": "https://t.co/w1Fk9FXPvL",
+						"display_url": "pic.twitter.com/w1Fk9FXPvL",
+						"expanded_url": "https://twitter.com/udurinP_desu/status/794699546538278912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 875,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1493,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 496,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 794699510073069600,
+						"id_str": "794699510073069568",
+						"indices": [
+							9,
+							32
+						],
+						"media_url": "http://pbs.twimg.com/media/CwdW_nEVEAAfgR6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CwdW_nEVEAAfgR6.jpg",
+						"url": "https://t.co/w1Fk9FXPvL",
+						"display_url": "pic.twitter.com/w1Fk9FXPvL",
+						"expanded_url": "https://twitter.com/udurinP_desu/status/794699546538278912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 875,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1493,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 496,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 759629770556485600,
+				"id_str": "759629770556485632",
+				"name": "omsubi@ゆっくりネーム中",
+				"screen_name": "udurinP_desu",
+				"location": "洞窟の中でちゃんと生きてます",
+				"description": "百合、デレマス好きのうづりんPです。空リプ多め。基本うづりんですが色んなキャラ描きます(※転載等禁止です)あと無言フォローすみません…！",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2461,
+				"friends_count": 79,
+				"listed_count": 71,
+				"created_at": "Sun Jul 31 06:00:25 +0000 2016",
+				"favourites_count": 3172,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6657,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/825311808093245444/lAnbYDRU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/825311808093245444/lAnbYDRU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/759629770556485632/1469966128",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 840,
+			"favorite_count": 1535,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 840,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Sat Feb 04 18:32:27 +0000 2017",
 		"id": 827947946146664400,
 		"id_str": "827947946146664448",
