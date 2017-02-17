@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Fri Feb 17 14:20:35 +0000 2017",
+		"id": 832595602089324500,
+		"id_str": "832595602089324544",
+		"text": "RT @ckomock: #両儀式生誕祭2017　両儀家でおめでとう！ https://t.co/5L4x8Koz3C",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "両儀式生誕祭2017",
+					"indices": [
+						13,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ckomock",
+					"name": "おひたし熱郎@春コミ東あ82a",
+					"id": 524726774,
+					"id_str": "524726774",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 832595062320046100,
+					"id_str": "832595062320046080",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/C434zENUoAAlU-i.png",
+					"media_url_https": "https://pbs.twimg.com/media/C434zENUoAAlU-i.png",
+					"url": "https://t.co/5L4x8Koz3C",
+					"display_url": "pic.twitter.com/5L4x8Koz3C",
+					"expanded_url": "https://twitter.com/ckomock/status/832595190854488064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 805,
+							"h": 703,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 805,
+							"h": 703,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 594,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 832595190854488000,
+					"source_status_id_str": "832595190854488064",
+					"source_user_id": 524726774,
+					"source_user_id_str": "524726774"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 832595062320046100,
+					"id_str": "832595062320046080",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/C434zENUoAAlU-i.png",
+					"media_url_https": "https://pbs.twimg.com/media/C434zENUoAAlU-i.png",
+					"url": "https://t.co/5L4x8Koz3C",
+					"display_url": "pic.twitter.com/5L4x8Koz3C",
+					"expanded_url": "https://twitter.com/ckomock/status/832595190854488064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 805,
+							"h": 703,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 805,
+							"h": 703,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 594,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 832595190854488000,
+					"source_status_id_str": "832595190854488064",
+					"source_user_id": 524726774,
+					"source_user_id_str": "524726774"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 63,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1018,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8372,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 17 14:18:57 +0000 2017",
+			"id": 832595190854488000,
+			"id_str": "832595190854488064",
+			"text": "#両儀式生誕祭2017　両儀家でおめでとう！ https://t.co/5L4x8Koz3C",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "両儀式生誕祭2017",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 832595062320046100,
+						"id_str": "832595062320046080",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/C434zENUoAAlU-i.png",
+						"media_url_https": "https://pbs.twimg.com/media/C434zENUoAAlU-i.png",
+						"url": "https://t.co/5L4x8Koz3C",
+						"display_url": "pic.twitter.com/5L4x8Koz3C",
+						"expanded_url": "https://twitter.com/ckomock/status/832595190854488064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 805,
+								"h": 703,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 805,
+								"h": 703,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 594,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 832595062320046100,
+						"id_str": "832595062320046080",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/C434zENUoAAlU-i.png",
+						"media_url_https": "https://pbs.twimg.com/media/C434zENUoAAlU-i.png",
+						"url": "https://t.co/5L4x8Koz3C",
+						"display_url": "pic.twitter.com/5L4x8Koz3C",
+						"expanded_url": "https://twitter.com/ckomock/status/832595190854488064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 805,
+								"h": 703,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 805,
+								"h": 703,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 594,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 524726774,
+				"id_str": "524726774",
+				"name": "おひたし熱郎@春コミ東あ82a",
+				"screen_name": "ckomock",
+				"location": "メメント・モリ",
+				"description": "絵を描いたりしてます。FGOのオルガマリー所長が好き うちのカルデアも好き 現在納期が4月以降のお仕事募集中です。商業、同人、個人共にご連絡はこちらまで→cjcj0w0@gmail.com hp【https://t.co/bDquYyrvgn】 pixiv【https://t.co/UehFBpnrYo】",
+				"url": "https://t.co/oEJqtHe6gs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oEJqtHe6gs",
+								"expanded_url": "http://noukouenikki.blog.fc2.com/",
+								"display_url": "noukouenikki.blog.fc2.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/bDquYyrvgn",
+								"expanded_url": "http://urx.red/xX1P",
+								"display_url": "urx.red/xX1P",
+								"indices": [
+									98,
+									121
+								]
+							},
+							{
+								"url": "https://t.co/UehFBpnrYo",
+								"expanded_url": "http://p.tl/m/5161845",
+								"display_url": "p.tl/m/5161845",
+								"indices": [
+									129,
+									152
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 21434,
+				"friends_count": 1735,
+				"listed_count": 407,
+				"created_at": "Wed Mar 14 21:02:23 +0000 2012",
+				"favourites_count": 3707,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 62035,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0E1FB5",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181917993/MMbjGiIR.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181917993/MMbjGiIR.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/825720680691879936/mNmLI3wy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/825720680691879936/mNmLI3wy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/524726774/1464416182",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 291,
+			"favorite_count": 486,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 291,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Fri Feb 17 13:23:06 +0000 2017",
 		"id": 832581136098304000,
 		"id_str": "832581136098304000",
