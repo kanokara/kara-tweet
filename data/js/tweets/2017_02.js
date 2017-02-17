@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Fri Feb 17 15:47:50 +0000 2017",
+		"id": 832617559094501400,
+		"id_str": "832617559094501378",
+		"text": "RT @bodhian1: 진보라는 용어도 80년대 운동권들이 빨갱이 컴플렉스를 벗어나기 위해서, 만들어낸 의미불명의 조어에 지나지 않는다. 그 전에는 일본식으로 혁신이라는 말을 썼다. 그 전까지 한국에서 보수라는 뜻이 좋은 뜻으로 쓰이지 않았고, 혁…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bodhian1",
+					"name": "Bodhian Kim",
+					"id": 74121512,
+					"id_str": "74121512",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 63,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1018,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8374,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 04 06:13:08 +0000 2017",
+			"id": 827761892504399900,
+			"id_str": "827761892504399873",
+			"text": "진보라는 용어도 80년대 운동권들이 빨갱이 컴플렉스를 벗어나기 위해서, 만들어낸 의미불명의 조어에 지나지 않는다. 그 전에는 일본식으로 혁신이라는 말을 썼다. 그 전까지 한국에서 보수라는 뜻이 좋은 뜻으로 쓰이지 않았고, 혁신도 마찬가지였다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 827761153220571100,
+			"in_reply_to_status_id_str": "827761153220571145",
+			"in_reply_to_user_id": 74121512,
+			"in_reply_to_user_id_str": "74121512",
+			"in_reply_to_screen_name": "bodhian1",
+			"user": {
+				"id": 74121512,
+				"id_str": "74121512",
+				"name": "Bodhian Kim",
+				"screen_name": "bodhian1",
+				"location": "London.UK",
+				"description": "Before you can change the world, you must realize that you, yourself, are part of it. You can't stand outside looking in.",
+				"url": "http://t.co/cW3xW5LNUb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/cW3xW5LNUb",
+								"expanded_url": "http://bodhian.tumblr.com",
+								"display_url": "bodhian.tumblr.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4736,
+				"friends_count": 572,
+				"listed_count": 205,
+				"created_at": "Mon Sep 14 09:58:17 +0000 2009",
+				"favourites_count": 820,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13257,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/573723870869385216/NB1g4kBF.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/573723870869385216/NB1g4kBF.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2498998824/gnhgk9n1djzybu0dx8hz_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2498998824/gnhgk9n1djzybu0dx8hz_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/74121512/1461573537",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Feb 17 15:47:46 +0000 2017",
+		"id": 832617543378481200,
+		"id_str": "832617543378481153",
+		"text": "RT @bodhian1: 애들은 모르겠지만, 한국에서 보수와 진보라는 용어가 나온지는 얼마 되지 않는다. 정확히는 보수라는 말이 한국에서 유행하게 된 것은 3당 합당을 통해서 보수대연합이라는 용어가 나오기 시작하고나서부터이다. 한마디로 언론이 만들어…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bodhian1",
+					"name": "Bodhian Kim",
+					"id": 74121512,
+					"id_str": "74121512",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 63,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1018,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8374,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 04 06:10:12 +0000 2017",
+			"id": 827761153220571100,
+			"id_str": "827761153220571145",
+			"text": "애들은 모르겠지만, 한국에서 보수와 진보라는 용어가 나온지는 얼마 되지 않는다. 정확히는 보수라는 말이 한국에서 유행하게 된 것은 3당 합당을 통해서 보수대연합이라는 용어가 나오기 시작하고나서부터이다. 한마디로 언론이 만들어 냈을 뿐, 별 뜻은 없다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 74121512,
+				"id_str": "74121512",
+				"name": "Bodhian Kim",
+				"screen_name": "bodhian1",
+				"location": "London.UK",
+				"description": "Before you can change the world, you must realize that you, yourself, are part of it. You can't stand outside looking in.",
+				"url": "http://t.co/cW3xW5LNUb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/cW3xW5LNUb",
+								"expanded_url": "http://bodhian.tumblr.com",
+								"display_url": "bodhian.tumblr.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4736,
+				"friends_count": 572,
+				"listed_count": 205,
+				"created_at": "Mon Sep 14 09:58:17 +0000 2009",
+				"favourites_count": 820,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13257,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/573723870869385216/NB1g4kBF.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/573723870869385216/NB1g4kBF.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2498998824/gnhgk9n1djzybu0dx8hz_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2498998824/gnhgk9n1djzybu0dx8hz_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/74121512/1461573537",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Feb 17 14:20:35 +0000 2017",
 		"id": 832595602089324500,
 		"id_str": "832595602089324544",
