@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sat Feb 18 07:25:09 +0000 2017",
+		"id": 832853442624311300,
+		"id_str": "832853442624311296",
+		"text": "RT @rosinality: https://t.co/FZ05Ak7xVz '중국 고전이 마치 인생의 지혜가 담긴 것처럼 오도된 바람에...인륜은 바닥에 떨어지고 계략과 뒷통수를 중시하는 사회가 되었다고 분석' 한국에 삼국지 읽고 제갈량짓 하는 놈들 때…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rosinality",
+					"name": "Rosinality",
+					"id": 16838148,
+					"id_str": "16838148",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FZ05Ak7xVz",
+					"expanded_url": "http://www.clien.net/cs2/bbs/board.php?bo_table=park&wr_id=53092334&page=1",
+					"display_url": "clien.net/cs2/bbs/board.…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 63,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1018,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8384,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 18 02:51:54 +0000 2017",
+			"id": 832784680537583600,
+			"id_str": "832784680537583616",
+			"text": "https://t.co/FZ05Ak7xVz '중국 고전이 마치 인생의 지혜가 담긴 것처럼 오도된 바람에...인륜은 바닥에 떨어지고 계략과 뒷통수를 중시하는 사회가 되었다고 분석' 한국에 삼국지 읽고 제갈량짓 하는 놈들 때문에 잠깐 솔깃함.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FZ05Ak7xVz",
+						"expanded_url": "http://www.clien.net/cs2/bbs/board.php?bo_table=park&wr_id=53092334&page=1",
+						"display_url": "clien.net/cs2/bbs/board.…",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16838148,
+				"id_str": "16838148",
+				"name": "Rosinality",
+				"screen_name": "rosinality",
+				"location": "Seoul, Korea",
+				"description": "no side-effects",
+				"url": "http://t.co/LROBw9fzlA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/LROBw9fzlA",
+								"expanded_url": "http://ask.fm/kaleana",
+								"display_url": "ask.fm/kaleana",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1344,
+				"friends_count": 392,
+				"listed_count": 42,
+				"created_at": "Sat Oct 18 11:40:41 +0000 2008",
+				"favourites_count": 1034,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23112,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F2EEEF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/667849094/da3fab7196724d7e76cbf11ad5d56ad5.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/667849094/da3fab7196724d7e76cbf11ad5d56ad5.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/808564434704547840/E4c5lmU8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/808564434704547840/E4c5lmU8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16838148/1396962638",
+				"profile_link_color": "7B8894",
+				"profile_sidebar_border_color": "8BA7C4",
+				"profile_sidebar_fill_color": "FAFAFA",
+				"profile_text_color": "8F2E2E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Feb 18 04:26:48 +0000 2017",
 		"id": 832808560169922600,
 		"id_str": "832808560169922560",
