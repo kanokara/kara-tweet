@@ -1,6 +1,617 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sun Feb 26 17:05:03 +0000 2017",
+		"id": 835898486004584400,
+		"id_str": "835898486004584449",
+		"text": "일본 아이돌 문화의 완성! 도쿄 아이돌 페스티벌 https://t.co/mQPfR3mbZ6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mQPfR3mbZ6",
+					"expanded_url": "https://www.tokyobranch.net/archives/7207",
+					"display_url": "tokyobranch.net/archives/7207",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 63,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1017,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8528,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Feb 26 16:30:28 +0000 2017",
+		"id": 835889779631849500,
+		"id_str": "835889779631849472",
+		"text": "RT @Katy_48ss: 청춘 느낌 제대로 났던 후타리세죤뮤비에서 이부분 테치머리쓸어넘김-&gt; 노을지는 햇빛 완벽 https://t.co/aEknKOwfme",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Katy_48ss",
+					"name": "Katy",
+					"id": 514435435,
+					"id_str": "514435435",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 831700007988322300,
+					"id_str": "831700007988322305",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C4rKwC_VYAE95_-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C4rKwC_VYAE95_-.jpg",
+					"url": "https://t.co/aEknKOwfme",
+					"display_url": "pic.twitter.com/aEknKOwfme",
+					"expanded_url": "https://twitter.com/Katy_48ss/status/831700046689153024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 141,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 208,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 208,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 831700046689153000,
+					"source_status_id_str": "831700046689153024",
+					"source_user_id": 514435435,
+					"source_user_id_str": "514435435"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 831700007988322300,
+					"id_str": "831700007988322305",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C4rKwC_VYAE95_-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C4rKwC_VYAE95_-.jpg",
+					"url": "https://t.co/aEknKOwfme",
+					"display_url": "pic.twitter.com/aEknKOwfme",
+					"expanded_url": "https://twitter.com/Katy_48ss/status/831700046689153024/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 141,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 208,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 208,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 831700046689153000,
+					"source_status_id_str": "831700046689153024",
+					"source_user_id": 514435435,
+					"source_user_id_str": "514435435",
+					"video_info": {
+						"aspect_ratio": [
+							125,
+							52
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/C4rKwC_VYAE95_-.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 63,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1017,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8528,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 15 03:01:58 +0000 2017",
+			"id": 831700046689153000,
+			"id_str": "831700046689153024",
+			"text": "청춘 느낌 제대로 났던 후타리세죤뮤비에서 이부분 테치머리쓸어넘김-&gt; 노을지는 햇빛 완벽 https://t.co/aEknKOwfme",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 831700007988322300,
+						"id_str": "831700007988322305",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C4rKwC_VYAE95_-.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C4rKwC_VYAE95_-.jpg",
+						"url": "https://t.co/aEknKOwfme",
+						"display_url": "pic.twitter.com/aEknKOwfme",
+						"expanded_url": "https://twitter.com/Katy_48ss/status/831700046689153024/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 141,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 208,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 208,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 831700007988322300,
+						"id_str": "831700007988322305",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C4rKwC_VYAE95_-.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C4rKwC_VYAE95_-.jpg",
+						"url": "https://t.co/aEknKOwfme",
+						"display_url": "pic.twitter.com/aEknKOwfme",
+						"expanded_url": "https://twitter.com/Katy_48ss/status/831700046689153024/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 141,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 208,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 208,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								125,
+								52
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/C4rKwC_VYAE95_-.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 514435435,
+				"id_str": "514435435",
+				"name": "Katy",
+				"screen_name": "Katy_48ss",
+				"location": "",
+				"description": "AKB48G+坂道46 大島優子 銀魂 ア二メ /etc. 48그룹과 언덜길시리즈💫맞팔은 멘션주세요 韓国人ファンです 自由にフォローしてください💕",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 332,
+				"friends_count": 239,
+				"listed_count": 1,
+				"created_at": "Sun Mar 04 15:05:50 +0000 2012",
+				"favourites_count": 1283,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14156,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C4B7A1",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/777172928/e535c06c4c8dbe8a789b772c95f9fe66.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/777172928/e535c06c4c8dbe8a789b772c95f9fe66.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/834681362481246208/77K7QrSl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/834681362481246208/77K7QrSl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/514435435/1486612397",
+				"profile_link_color": "A19082",
+				"profile_sidebar_border_color": "9DAEB3",
+				"profile_sidebar_fill_color": "5F6F85",
+				"profile_text_color": "524249",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 228,
+			"favorite_count": 138,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 228,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Feb 26 16:18:31 +0000 2017",
+		"id": 835886772324270100,
+		"id_str": "835886772324270081",
+		"text": "https://t.co/hl4ekkbUBk https://t.co/cwROGlZBto",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hl4ekkbUBk",
+					"expanded_url": "https://namu.wiki/w/%E4%BA%8C%E4%BA%BA%E3%82%BB%E3%82%BE%E3%83%B3",
+					"display_url": "namu.wiki/w/%E4%BA%8C%E4…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 835886664937525200,
+					"id_str": "835886664937525248",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/C5mqfjgWUAAv8qh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5mqfjgWUAAv8qh.jpg",
+					"url": "https://t.co/cwROGlZBto",
+					"display_url": "pic.twitter.com/cwROGlZBto",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/835886772324270081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 638,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 362,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 638,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 835886664937525200,
+					"id_str": "835886664937525248",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/C5mqfjgWUAAv8qh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5mqfjgWUAAv8qh.jpg",
+					"url": "https://t.co/cwROGlZBto",
+					"display_url": "pic.twitter.com/cwROGlZBto",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/835886772324270081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 638,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 362,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 638,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 835884421244940300,
+		"in_reply_to_status_id_str": "835884421244940288",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 63,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1017,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8528,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sun Feb 26 16:09:10 +0000 2017",
 		"id": 835884421244940300,
 		"id_str": "835884421244940288",
