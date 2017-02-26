@@ -1,6 +1,567 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sun Feb 26 19:36:26 +0000 2017",
+		"id": 835936580783198200,
+		"id_str": "835936580783198212",
+		"text": "RT @dvddog: 심지어 경험적 작가의 의도를 배제하는 극단적 텍스트론으로 끝나 ㅋㅋㅋㅋ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dvddog",
+					"name": "데이비드 댕댕이",
+					"id": 3138788114,
+					"id_str": "3138788114",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 63,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1017,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8530,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 26 13:38:23 +0000 2017",
+			"id": 835846476618068000,
+			"id_str": "835846476618067970",
+			"text": "심지어 경험적 작가의 의도를 배제하는 극단적 텍스트론으로 끝나 ㅋㅋㅋㅋ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 835845305245417500,
+			"in_reply_to_status_id_str": "835845305245417472",
+			"in_reply_to_user_id": 3138788114,
+			"in_reply_to_user_id_str": "3138788114",
+			"in_reply_to_screen_name": "dvddog",
+			"user": {
+				"id": 3138788114,
+				"id_str": "3138788114",
+				"name": "데이비드 댕댕이",
+				"screen_name": "dvddog",
+				"location": "세이셸",
+				"description": "개점휴업 희망중",
+				"url": "https://t.co/9mpfiKtEof",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9mpfiKtEof",
+								"expanded_url": "http://noobcoela.egloos.com/",
+								"display_url": "noobcoela.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 426,
+				"friends_count": 92,
+				"listed_count": 17,
+				"created_at": "Sat Apr 04 10:07:10 +0000 2015",
+				"favourites_count": 1271,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 116965,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3138788114/1447160790",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Feb 26 19:36:20 +0000 2017",
+		"id": 835936556087197700,
+		"id_str": "835936556087197698",
+		"text": "RT @hatenablog: これがいま話題！\nけものフレンズ考察班 VS 哲学的ゾンビ - 本しゃぶり\nhttps://t.co/jFXv1dP4la https://t.co/k7IVSF4Hns",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hatenablog",
+					"name": "はてなブログ",
+					"id": 171432450,
+					"id_str": "171432450",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jFXv1dP4la",
+					"expanded_url": "http://honeshabri.hatenablog.com/entry/philosophical-friends",
+					"display_url": "honeshabri.hatenablog.com/entry/philosop…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 835833082888347600,
+					"id_str": "835833082888347648",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/C5l5wq0UYAADtnD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5l5wq0UYAADtnD.jpg",
+					"url": "https://t.co/k7IVSF4Hns",
+					"display_url": "pic.twitter.com/k7IVSF4Hns",
+					"expanded_url": "https://twitter.com/hatenablog/status/835833084629004288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 436,
+							"h": 209,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 436,
+							"h": 209,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 436,
+							"h": 209,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 835833084629004300,
+					"source_status_id_str": "835833084629004288",
+					"source_user_id": 171432450,
+					"source_user_id_str": "171432450"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 835833082888347600,
+					"id_str": "835833082888347648",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/C5l5wq0UYAADtnD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5l5wq0UYAADtnD.jpg",
+					"url": "https://t.co/k7IVSF4Hns",
+					"display_url": "pic.twitter.com/k7IVSF4Hns",
+					"expanded_url": "https://twitter.com/hatenablog/status/835833084629004288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 436,
+							"h": 209,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 436,
+							"h": 209,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 436,
+							"h": 209,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 835833084629004300,
+					"source_status_id_str": "835833084629004288",
+					"source_user_id": 171432450,
+					"source_user_id_str": "171432450"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 63,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1017,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8530,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 26 12:45:11 +0000 2017",
+			"id": 835833084629004300,
+			"id_str": "835833084629004288",
+			"text": "これがいま話題！\nけものフレンズ考察班 VS 哲学的ゾンビ - 本しゃぶり\nhttps://t.co/jFXv1dP4la https://t.co/k7IVSF4Hns",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jFXv1dP4la",
+						"expanded_url": "http://honeshabri.hatenablog.com/entry/philosophical-friends",
+						"display_url": "honeshabri.hatenablog.com/entry/philosop…",
+						"indices": [
+							38,
+							61
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 835833082888347600,
+						"id_str": "835833082888347648",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/C5l5wq0UYAADtnD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5l5wq0UYAADtnD.jpg",
+						"url": "https://t.co/k7IVSF4Hns",
+						"display_url": "pic.twitter.com/k7IVSF4Hns",
+						"expanded_url": "https://twitter.com/hatenablog/status/835833084629004288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 436,
+								"h": 209,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 436,
+								"h": 209,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 436,
+								"h": 209,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 835833082888347600,
+						"id_str": "835833082888347648",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/C5l5wq0UYAADtnD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5l5wq0UYAADtnD.jpg",
+						"url": "https://t.co/k7IVSF4Hns",
+						"display_url": "pic.twitter.com/k7IVSF4Hns",
+						"expanded_url": "https://twitter.com/hatenablog/status/835833084629004288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 436,
+								"h": 209,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 436,
+								"h": 209,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 436,
+								"h": 209,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hatena.ne.jp/guide/twitter\" rel=\"nofollow\">Hatena</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 171432450,
+				"id_str": "171432450",
+				"name": "はてなブログ",
+				"screen_name": "hatenablog",
+				"location": "京都",
+				"description": "はてなブログ公式アカウントです。おすすめ記事  https://t.co/TkuIEyM7EU  を自動ツイートしています。開発状況や、今週のお題もつぶやきます。 ご質問等は、お問い合わせフォーム https://t.co/I7LFmL3Mxl  をご利用ください。",
+				"url": "http://t.co/8rNWlej7qG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8rNWlej7qG",
+								"expanded_url": "http://hatenablog.com/",
+								"display_url": "hatenablog.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TkuIEyM7EU",
+								"expanded_url": "http://hatenablog.com/",
+								"display_url": "hatenablog.com",
+								"indices": [
+									24,
+									47
+								]
+							},
+							{
+								"url": "https://t.co/I7LFmL3Mxl",
+								"expanded_url": "http://htn.to/blogfaq",
+								"display_url": "htn.to/blogfaq",
+								"indices": [
+									99,
+									122
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 15814,
+				"friends_count": 1285,
+				"listed_count": 340,
+				"created_at": "Tue Jul 27 09:51:06 +0000 2010",
+				"favourites_count": 481,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 67001,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459168065599447042/r6WH6S0x.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459168065599447042/r6WH6S0x.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/832417572179939328/sMSK9Con_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/832417572179939328/sMSK9Con_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/171432450/1398308703",
+				"profile_link_color": "14AFD6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "454545",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Sun Feb 26 17:05:03 +0000 2017",
 		"id": 835898486004584400,
 		"id_str": "835898486004584449",
