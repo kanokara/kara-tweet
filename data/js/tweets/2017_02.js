@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sun Feb 26 14:13:14 +0000 2017",
+		"id": 835855244756156400,
+		"id_str": "835855244756156416",
+		"text": "RT @imme_M: 뭐야 이거 알티되네... 모에 데이터베이스와 캐릭터메이킹 관련해서 좀 더 자세히 전문이 읽고 싶으시면 제가 쓴 &lt;니시오이신은 왜 모에 캐릭터를 살해하는가?&gt;를 보시면 됩니다\nhttps://t.co/xkJlHhmejX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "imme_M",
+					"name": "말린 멬마",
+					"id": 3280312555,
+					"id_str": "3280312555",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xkJlHhmejX",
+					"expanded_url": "http://bbs.ruliweb.com/hobby/board/300075/read/21413416",
+					"display_url": "bbs.ruliweb.com/hobby/board/30…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 63,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1017,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8453,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 07 12:40:09 +0000 2017",
+			"id": 828946448565755900,
+			"id_str": "828946448565755904",
+			"text": "뭐야 이거 알티되네... 모에 데이터베이스와 캐릭터메이킹 관련해서 좀 더 자세히 전문이 읽고 싶으시면 제가 쓴 &lt;니시오이신은 왜 모에 캐릭터를 살해하는가?&gt;를 보시면 됩니다\nhttps://t.co/xkJlHhmejX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xkJlHhmejX",
+						"expanded_url": "http://bbs.ruliweb.com/hobby/board/300075/read/21413416",
+						"display_url": "bbs.ruliweb.com/hobby/board/30…",
+						"indices": [
+							103,
+							126
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 828875906294767600,
+			"in_reply_to_status_id_str": "828875906294767616",
+			"in_reply_to_user_id": 3280312555,
+			"in_reply_to_user_id_str": "3280312555",
+			"in_reply_to_screen_name": "imme_M",
+			"user": {
+				"id": 3280312555,
+				"id_str": "3280312555",
+				"name": "말린 멬마",
+				"screen_name": "imme_M",
+				"location": "",
+				"description": "그림쟁이/1차/2차-니시오이신, 문호스트레이독스",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 323,
+				"friends_count": 406,
+				"listed_count": 10,
+				"created_at": "Wed Jul 15 04:26:07 +0000 2015",
+				"favourites_count": 21799,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 44438,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/815185069757169664/HtFN0ns8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/815185069757169664/HtFN0ns8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3280312555/1480048778",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 293,
+			"favorite_count": 177,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 293,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Feb 26 07:11:05 +0000 2017",
 		"id": 835749005845942300,
 		"id_str": "835749005845942273",
