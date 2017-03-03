@@ -1,6 +1,991 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Fri Mar 03 04:22:22 +0000 2017",
+		"id": 837518489850019800,
+		"id_str": "837518489850019841",
+		"text": "RT @ComicGao: '~는 거르고 본다' / '닥치고 ~~' / '믿고 보는 ~~' 식의 인터넷 어법은 무언가를 강조하기 위해 늘 있어 왔지만 사고 구조의 단편을 드러낸다고도 생각한다.\n\n \"인생, 이것만 알면 만사 OK\" 라는 식의 해법과 같…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ComicGao",
+					"name": "가오",
+					"id": 2353358851,
+					"id_str": "2353358851",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1016,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8576,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Mar 02 03:19:29 +0000 2017",
+			"id": 837140276602810400,
+			"id_str": "837140276602810368",
+			"text": "'~는 거르고 본다' / '닥치고 ~~' / '믿고 보는 ~~' 식의 인터넷 어법은 무언가를 강조하기 위해 늘 있어 왔지만 사고 구조의 단편을 드러낸다고도 생각한다.\n\n \"인생, 이것만 알면 만사 OK\" 라는 식의 해법과 같이 얄팍하기 그지없다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2353358851,
+				"id_str": "2353358851",
+				"name": "가오",
+				"screen_name": "ComicGao",
+				"location": "",
+				"description": "만화를 그립니다. 레진코믹스에서 분노의 과외 연재중.  https://t.co/TRJkB9Ta4K 궁금하신 점은▷ https://t.co/p1kOLmq8iG",
+				"url": "https://t.co/nHheQnH8cb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nHheQnH8cb",
+								"expanded_url": "http://www.comicgao.com",
+								"display_url": "comicgao.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TRJkB9Ta4K",
+								"expanded_url": "http://www.lezhin.com/comic/fury",
+								"display_url": "lezhin.com/comic/fury",
+								"indices": [
+									31,
+									54
+								]
+							},
+							{
+								"url": "https://t.co/p1kOLmq8iG",
+								"expanded_url": "http://ask.fm/ComicGao",
+								"display_url": "ask.fm/ComicGao",
+								"indices": [
+									64,
+									87
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 652,
+				"friends_count": 546,
+				"listed_count": 5,
+				"created_at": "Thu Feb 20 14:46:10 +0000 2014",
+				"favourites_count": 3734,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6752,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/577766856905207809/boJL_AhT_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/577766856905207809/boJL_AhT_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2353358851/1425103623",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Mar 03 04:21:05 +0000 2017",
+		"id": 837518166645334000,
+		"id_str": "837518166645334016",
+		"text": "RT @ComicGao: 그런 외골수도 결국 사회생활을 시작하면 이런저런 '요령'들을 익혀 평범한 사람들의 무리 속으로 들어가 보이지 않게 되어버리곤 한다. 성인이란 다들 비슷비슷해지기 위해 애써야만 하는 것일까, 성인은, 정말 시시하구나-(번역투)…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ComicGao",
+					"name": "가오",
+					"id": 2353358851,
+					"id_str": "2353358851",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1016,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8576,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 03 03:25:51 +0000 2017",
+			"id": 837504264670871600,
+			"id_str": "837504264670871552",
+			"text": "그런 외골수도 결국 사회생활을 시작하면 이런저런 '요령'들을 익혀 평범한 사람들의 무리 속으로 들어가 보이지 않게 되어버리곤 한다. 성인이란 다들 비슷비슷해지기 위해 애써야만 하는 것일까, 성인은, 정말 시시하구나-(번역투) 같은 생각들을 하면서.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 837502393537310700,
+			"in_reply_to_status_id_str": "837502393537310720",
+			"in_reply_to_user_id": 2353358851,
+			"in_reply_to_user_id_str": "2353358851",
+			"in_reply_to_screen_name": "ComicGao",
+			"user": {
+				"id": 2353358851,
+				"id_str": "2353358851",
+				"name": "가오",
+				"screen_name": "ComicGao",
+				"location": "",
+				"description": "만화를 그립니다. 레진코믹스에서 분노의 과외 연재중.  https://t.co/TRJkB9Ta4K 궁금하신 점은▷ https://t.co/p1kOLmq8iG",
+				"url": "https://t.co/nHheQnH8cb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nHheQnH8cb",
+								"expanded_url": "http://www.comicgao.com",
+								"display_url": "comicgao.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TRJkB9Ta4K",
+								"expanded_url": "http://www.lezhin.com/comic/fury",
+								"display_url": "lezhin.com/comic/fury",
+								"indices": [
+									31,
+									54
+								]
+							},
+							{
+								"url": "https://t.co/p1kOLmq8iG",
+								"expanded_url": "http://ask.fm/ComicGao",
+								"display_url": "ask.fm/ComicGao",
+								"indices": [
+									64,
+									87
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 652,
+				"friends_count": 546,
+				"listed_count": 5,
+				"created_at": "Thu Feb 20 14:46:10 +0000 2014",
+				"favourites_count": 3734,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6752,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/577766856905207809/boJL_AhT_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/577766856905207809/boJL_AhT_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2353358851/1425103623",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Mar 03 04:21:04 +0000 2017",
+		"id": 837518159875735600,
+		"id_str": "837518159875735553",
+		"text": "RT @ComicGao: 범인과 구분되는 '덕후'들의 특징은 자신만의 세계를 고집스럽고 소중하게 지킨다는 것이며, 그런 고집의 근간이 되는 것은 자기 나름대로의 룰을 준수하는 생활방식에 있다. 이는 종종 '외골수'로 여겨져 '타인'으로 낙인찍히는 원…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ComicGao",
+					"name": "가오",
+					"id": 2353358851,
+					"id_str": "2353358851",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1016,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8576,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 03 03:18:25 +0000 2017",
+			"id": 837502393537310700,
+			"id_str": "837502393537310720",
+			"text": "범인과 구분되는 '덕후'들의 특징은 자신만의 세계를 고집스럽고 소중하게 지킨다는 것이며, 그런 고집의 근간이 되는 것은 자기 나름대로의 룰을 준수하는 생활방식에 있다. 이는 종종 '외골수'로 여겨져 '타인'으로 낙인찍히는 원인이 되기도 한다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 837499790459981800,
+			"in_reply_to_status_id_str": "837499790459981824",
+			"in_reply_to_user_id": 2353358851,
+			"in_reply_to_user_id_str": "2353358851",
+			"in_reply_to_screen_name": "ComicGao",
+			"user": {
+				"id": 2353358851,
+				"id_str": "2353358851",
+				"name": "가오",
+				"screen_name": "ComicGao",
+				"location": "",
+				"description": "만화를 그립니다. 레진코믹스에서 분노의 과외 연재중.  https://t.co/TRJkB9Ta4K 궁금하신 점은▷ https://t.co/p1kOLmq8iG",
+				"url": "https://t.co/nHheQnH8cb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nHheQnH8cb",
+								"expanded_url": "http://www.comicgao.com",
+								"display_url": "comicgao.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TRJkB9Ta4K",
+								"expanded_url": "http://www.lezhin.com/comic/fury",
+								"display_url": "lezhin.com/comic/fury",
+								"indices": [
+									31,
+									54
+								]
+							},
+							{
+								"url": "https://t.co/p1kOLmq8iG",
+								"expanded_url": "http://ask.fm/ComicGao",
+								"display_url": "ask.fm/ComicGao",
+								"indices": [
+									64,
+									87
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 652,
+				"friends_count": 546,
+				"listed_count": 5,
+				"created_at": "Thu Feb 20 14:46:10 +0000 2014",
+				"favourites_count": 3734,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6752,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/577766856905207809/boJL_AhT_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/577766856905207809/boJL_AhT_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2353358851/1425103623",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Mar 03 04:21:02 +0000 2017",
+		"id": 837518151977840600,
+		"id_str": "837518151977840641",
+		"text": "RT @ComicGao: 그런 변화들이 그 즈음의 청년들이 성장하며 으레 갖게 되는 그 무엇인지, 나도 이제 성인이라며 어른 흉내를 내기 시작한 것인지, 군대가 아닌 여러 개인적인 차원의 경험들이 만들어 낸 것인지는 분명치 않다. 그러나 우리들은 분…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ComicGao",
+					"name": "가오",
+					"id": 2353358851,
+					"id_str": "2353358851",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1016,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8576,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 03 03:08:04 +0000 2017",
+			"id": 837499790459981800,
+			"id_str": "837499790459981824",
+			"text": "그런 변화들이 그 즈음의 청년들이 성장하며 으레 갖게 되는 그 무엇인지, 나도 이제 성인이라며 어른 흉내를 내기 시작한 것인지, 군대가 아닌 여러 개인적인 차원의 경험들이 만들어 낸 것인지는 분명치 않다. 그러나 우리들은 분명 비슷해지고 있었다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 837498540167290900,
+			"in_reply_to_status_id_str": "837498540167290880",
+			"in_reply_to_user_id": 2353358851,
+			"in_reply_to_user_id_str": "2353358851",
+			"in_reply_to_screen_name": "ComicGao",
+			"user": {
+				"id": 2353358851,
+				"id_str": "2353358851",
+				"name": "가오",
+				"screen_name": "ComicGao",
+				"location": "",
+				"description": "만화를 그립니다. 레진코믹스에서 분노의 과외 연재중.  https://t.co/TRJkB9Ta4K 궁금하신 점은▷ https://t.co/p1kOLmq8iG",
+				"url": "https://t.co/nHheQnH8cb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nHheQnH8cb",
+								"expanded_url": "http://www.comicgao.com",
+								"display_url": "comicgao.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TRJkB9Ta4K",
+								"expanded_url": "http://www.lezhin.com/comic/fury",
+								"display_url": "lezhin.com/comic/fury",
+								"indices": [
+									31,
+									54
+								]
+							},
+							{
+								"url": "https://t.co/p1kOLmq8iG",
+								"expanded_url": "http://ask.fm/ComicGao",
+								"display_url": "ask.fm/ComicGao",
+								"indices": [
+									64,
+									87
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 652,
+				"friends_count": 546,
+				"listed_count": 5,
+				"created_at": "Thu Feb 20 14:46:10 +0000 2014",
+				"favourites_count": 3734,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6752,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/577766856905207809/boJL_AhT_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/577766856905207809/boJL_AhT_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2353358851/1425103623",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Mar 03 04:20:38 +0000 2017",
+		"id": 837518050555383800,
+		"id_str": "837518050555383808",
+		"text": "RT @ComicGao: 4학년쯤 되니 군대 갔던 친구들이 복학해서 나타나기 시작했는데 다들 어딘가 비슷비슷하게 변해서 돌아온 느낌이 있었다. 그리고 비슷비슷한 행동들을 하며 '인생은 원래 이런 것'이라는 비슷비슷한 합리화를 하기 시작했다. 변한 게…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ComicGao",
+					"name": "가오",
+					"id": 2353358851,
+					"id_str": "2353358851",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1016,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8576,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 03 03:03:06 +0000 2017",
+			"id": 837498540167290900,
+			"id_str": "837498540167290880",
+			"text": "4학년쯤 되니 군대 갔던 친구들이 복학해서 나타나기 시작했는데 다들 어딘가 비슷비슷하게 변해서 돌아온 느낌이 있었다. 그리고 비슷비슷한 행동들을 하며 '인생은 원래 이런 것'이라는 비슷비슷한 합리화를 하기 시작했다. 변한 게 없는 건 덕후들 뿐이었다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2353358851,
+				"id_str": "2353358851",
+				"name": "가오",
+				"screen_name": "ComicGao",
+				"location": "",
+				"description": "만화를 그립니다. 레진코믹스에서 분노의 과외 연재중.  https://t.co/TRJkB9Ta4K 궁금하신 점은▷ https://t.co/p1kOLmq8iG",
+				"url": "https://t.co/nHheQnH8cb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nHheQnH8cb",
+								"expanded_url": "http://www.comicgao.com",
+								"display_url": "comicgao.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TRJkB9Ta4K",
+								"expanded_url": "http://www.lezhin.com/comic/fury",
+								"display_url": "lezhin.com/comic/fury",
+								"indices": [
+									31,
+									54
+								]
+							},
+							{
+								"url": "https://t.co/p1kOLmq8iG",
+								"expanded_url": "http://ask.fm/ComicGao",
+								"display_url": "ask.fm/ComicGao",
+								"indices": [
+									64,
+									87
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 652,
+				"friends_count": 546,
+				"listed_count": 5,
+				"created_at": "Thu Feb 20 14:46:10 +0000 2014",
+				"favourites_count": 3734,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6752,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/577766856905207809/boJL_AhT_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/577766856905207809/boJL_AhT_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2353358851/1425103623",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 65,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Mar 02 18:38:58 +0000 2017",
 		"id": 837371669358354400,
 		"id_str": "837371669358354432",
