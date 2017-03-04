@@ -1,6 +1,1984 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sat Mar 04 14:57:22 +0000 2017",
+		"id": 838040677137190900,
+		"id_str": "838040677137190913",
+		"text": "RT @SciWithEvidence: 그래서 이후 Kay(1975)는 처음 주장을 수정해 'blue'나 'green'이 아닌 'GRUE'라는 카테고리로서 등장하고, 오직 'yellow'가 분화된 이후에만 'blue'와 'green'이 분화된다고 주장…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SciWithEvidence",
+					"name": "근거에 의한 과학",
+					"id": 776202628002971600,
+					"id_str": "776202628002971648",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1016,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8590,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 26 03:34:08 +0000 2017",
+			"id": 835694410126004200,
+			"id_str": "835694410126004228",
+			"text": "그래서 이후 Kay(1975)는 처음 주장을 수정해 'blue'나 'green'이 아닌 'GRUE'라는 카테고리로서 등장하고, 오직 'yellow'가 분화된 이후에만 'blue'와 'green'이 분화된다고… https://t.co/bNtDw3iY2x",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bNtDw3iY2x",
+						"expanded_url": "https://twitter.com/i/web/status/835694410126004228",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 835692864537509900,
+			"in_reply_to_status_id_str": "835692864537509889",
+			"in_reply_to_user_id": 776202628002971600,
+			"in_reply_to_user_id_str": "776202628002971648",
+			"in_reply_to_screen_name": "SciWithEvidence",
+			"user": {
+				"id": 776202628002971600,
+				"id_str": "776202628002971648",
+				"name": "근거에 의한 과학",
+				"screen_name": "SciWithEvidence",
+				"location": "",
+				"description": "타임라인에 떠도는 과학의 사실 여부를 근거에 의해 규명합니다. 자연과학, 공학, 사회과학 전반을 다룹니다만 주 분야는 생명과학입니다. 제보는 DM으로 받습니다. 프로필 사진은 웹툰 '윤직원의 태평천하' 중 한 컷입니다. 종종 대화는 삭제합니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11169,
+				"friends_count": 13,
+				"listed_count": 84,
+				"created_at": "Wed Sep 14 23:35:02 +0000 2016",
+				"favourites_count": 33,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1724,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/815754254979764224/cC7ZKjsn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/815754254979764224/cC7ZKjsn_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Mar 04 14:56:55 +0000 2017",
+		"id": 838040565262483500,
+		"id_str": "838040565262483456",
+		"text": "RT @SciWithEvidence: Aguaruna(페루)어의 wínka, Tzeltal(마야 멕시코)어의 yax, 에스키모어의 tungu-, Futuna(바누아투)어의 wiwi 등의 \"GRUE\" 단어가 green이 아닌 blue를 주로 가리킵니다…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SciWithEvidence",
+					"name": "근거에 의한 과학",
+					"id": 776202628002971600,
+					"id_str": "776202628002971648",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1016,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8590,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 26 03:27:59 +0000 2017",
+			"id": 835692864537509900,
+			"id_str": "835692864537509889",
+			"text": "Aguaruna(페루)어의 wínka, Tzeltal(마야 멕시코)어의 yax, 에스키모어의 tungu-, Futuna(바누아투)어의 wiwi 등의 \"GRUE\" 단어가 green이 아닌 blue를 주로 가리킵니다. 한국어의 '푸르다'도 마찬가지네요.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 835691248811921400,
+			"in_reply_to_status_id_str": "835691248811921408",
+			"in_reply_to_user_id": 776202628002971600,
+			"in_reply_to_user_id_str": "776202628002971648",
+			"in_reply_to_screen_name": "SciWithEvidence",
+			"user": {
+				"id": 776202628002971600,
+				"id_str": "776202628002971648",
+				"name": "근거에 의한 과학",
+				"screen_name": "SciWithEvidence",
+				"location": "",
+				"description": "타임라인에 떠도는 과학의 사실 여부를 근거에 의해 규명합니다. 자연과학, 공학, 사회과학 전반을 다룹니다만 주 분야는 생명과학입니다. 제보는 DM으로 받습니다. 프로필 사진은 웹툰 '윤직원의 태평천하' 중 한 컷입니다. 종종 대화는 삭제합니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11169,
+				"friends_count": 13,
+				"listed_count": 84,
+				"created_at": "Wed Sep 14 23:35:02 +0000 2016",
+				"favourites_count": 33,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1724,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/815754254979764224/cC7ZKjsn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/815754254979764224/cC7ZKjsn_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Mar 04 14:55:31 +0000 2017",
+		"id": 838040214824181800,
+		"id_str": "838040214824181761",
+		"text": "RT @rainbowat02am: https://t.co/R6N150D6rI 케모노 프렌즈 로고 만들어주는 사이트. 한글로 하면 글꼴 때문에 어색한 모양이 되는데, 브라우저나 웹 사이트 글꼴을 굵은 글꼴로 맞춰 주면 얼추 비슷해짐. 윗줄 설명 띄어쓰…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rainbowat02am",
+					"name": "이른",
+					"id": 2349827810,
+					"id_str": "2349827810",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/R6N150D6rI",
+					"expanded_url": "http://aratama.github.io/kemonogen",
+					"display_url": "aratama.github.io/kemonogen",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1016,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8590,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 25 03:57:08 +0000 2017",
+			"id": 835337810026516500,
+			"id_str": "835337810026516480",
+			"text": "https://t.co/R6N150D6rI 케모노 프렌즈 로고 만들어주는 사이트. 한글로 하면 글꼴 때문에 어색한 모양이 되는데, 브라우저나 웹 사이트 글꼴을 굵은 글꼴로 맞춰 주면 얼추 비슷해짐. 윗줄 설… https://t.co/TJp9k3LQzp",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/R6N150D6rI",
+						"expanded_url": "http://aratama.github.io/kemonogen",
+						"display_url": "aratama.github.io/kemonogen",
+						"indices": [
+							0,
+							23
+						]
+					},
+					{
+						"url": "https://t.co/TJp9k3LQzp",
+						"expanded_url": "https://twitter.com/i/web/status/835337810026516480",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2349827810,
+				"id_str": "2349827810",
+				"name": "이른",
+				"screen_name": "rainbowat02am",
+				"location": "",
+				"description": "시선 - https://t.co/go3znRRiMC",
+				"url": "https://t.co/YiFj1dVqiR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YiFj1dVqiR",
+								"expanded_url": "http://02rainbowblog.tumblr.com",
+								"display_url": "02rainbowblog.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/go3znRRiMC",
+								"expanded_url": "http://yireunsight.tumblr.com",
+								"display_url": "yireunsight.tumblr.com",
+								"indices": [
+									5,
+									28
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 36,
+				"friends_count": 245,
+				"listed_count": 0,
+				"created_at": "Tue Feb 18 09:13:43 +0000 2014",
+				"favourites_count": 3504,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3546,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/796676969387565057/mz_0l213_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/796676969387565057/mz_0l213_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2349827810/1480179090",
+				"profile_link_color": "1E4688",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Mar 04 14:51:39 +0000 2017",
+		"id": 838039241011552300,
+		"id_str": "838039241011552258",
+		"text": "RT @SciWithEvidence: 예를 들면 '발갛다-빨갛다-새빨갛다' 또는 '노랗다/누렇다'는 가능하지만, '*조롷다-*초롷다-*샛초롷다'나 '*보랗다/*부렇다'는 불가능하듯이요. 이런 파생은 상당히 찾아보기 어렵습니다. 일본어의 '真っ赤' 정…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SciWithEvidence",
+					"name": "근거에 의한 과학",
+					"id": 776202628002971600,
+					"id_str": "776202628002971648",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1016,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8590,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 24 19:54:24 +0000 2017",
+			"id": 835216327740690400,
+			"id_str": "835216327740690432",
+			"text": "예를 들면 '발갛다-빨갛다-새빨갛다' 또는 '노랗다/누렇다'는 가능하지만, '*조롷다-*초롷다-*샛초롷다'나 '*보랗다/*부렇다'는 불가능하듯이요. 이런 파생은 상당히 찾아보기 어렵습니다. 일본어의 '真っ赤' 정도가 가장 비슷한 예겠네요.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 835215363306569700,
+			"in_reply_to_status_id_str": "835215363306569728",
+			"in_reply_to_user_id": 776202628002971600,
+			"in_reply_to_user_id_str": "776202628002971648",
+			"in_reply_to_screen_name": "SciWithEvidence",
+			"user": {
+				"id": 776202628002971600,
+				"id_str": "776202628002971648",
+				"name": "근거에 의한 과학",
+				"screen_name": "SciWithEvidence",
+				"location": "",
+				"description": "타임라인에 떠도는 과학의 사실 여부를 근거에 의해 규명합니다. 자연과학, 공학, 사회과학 전반을 다룹니다만 주 분야는 생명과학입니다. 제보는 DM으로 받습니다. 프로필 사진은 웹툰 '윤직원의 태평천하' 중 한 컷입니다. 종종 대화는 삭제합니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11169,
+				"friends_count": 13,
+				"listed_count": 84,
+				"created_at": "Wed Sep 14 23:35:02 +0000 2016",
+				"favourites_count": 33,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1724,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/815754254979764224/cC7ZKjsn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/815754254979764224/cC7ZKjsn_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 919,
+			"favorite_count": 151,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 919,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Sat Mar 04 14:51:21 +0000 2017",
+		"id": 838039164134252500,
+		"id_str": "838039164134252546",
+		"text": "RT @SciWithEvidence: 한국어의 고유 색채어는 검정, 하양, 빨강, 노랑, 파랑 이 다섯가지밖에 없습니다. 갈색, 초록색, 분홍색, 주황색, 회색 등은 중국에서, 보라색은 몽골어에서 빌려왔다고 하지요. 이 둘의 차이는 큰데, 오직 고유…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SciWithEvidence",
+					"name": "근거에 의한 과학",
+					"id": 776202628002971600,
+					"id_str": "776202628002971648",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1016,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8590,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 24 19:50:34 +0000 2017",
+			"id": 835215363306569700,
+			"id_str": "835215363306569728",
+			"text": "한국어의 고유 색채어는 검정, 하양, 빨강, 노랑, 파랑 이 다섯가지밖에 없습니다. 갈색, 초록색, 분홍색, 주황색, 회색 등은 중국에서, 보라색은 몽골어에서 빌려왔다고 하지요. 이 둘의 차이는 큰데, 오직 고유어만 파생이 가능합니다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 835210652146892800,
+			"in_reply_to_status_id_str": "835210652146892800",
+			"in_reply_to_user_id": 776202628002971600,
+			"in_reply_to_user_id_str": "776202628002971648",
+			"in_reply_to_screen_name": "SciWithEvidence",
+			"user": {
+				"id": 776202628002971600,
+				"id_str": "776202628002971648",
+				"name": "근거에 의한 과학",
+				"screen_name": "SciWithEvidence",
+				"location": "",
+				"description": "타임라인에 떠도는 과학의 사실 여부를 근거에 의해 규명합니다. 자연과학, 공학, 사회과학 전반을 다룹니다만 주 분야는 생명과학입니다. 제보는 DM으로 받습니다. 프로필 사진은 웹툰 '윤직원의 태평천하' 중 한 컷입니다. 종종 대화는 삭제합니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11169,
+				"friends_count": 13,
+				"listed_count": 84,
+				"created_at": "Wed Sep 14 23:35:02 +0000 2016",
+				"favourites_count": 33,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1724,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/815754254979764224/cC7ZKjsn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/815754254979764224/cC7ZKjsn_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1801,
+			"favorite_count": 522,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1801,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Mar 04 14:50:18 +0000 2017",
+		"id": 838038900643790800,
+		"id_str": "838038900643790849",
+		"text": "RT @paul_kirin: @nyeoknyeokiii 안녕하세요. 한국번역본이 있는지는 모르겠지만 '사라지는 수컷'(곤충의 성을 조종하는 미생물의 전략) 저자는 카게야마 다이스케 입니다.\n일단 일본 아마존 링크를 붙여두겠습니다.\nhttps://t.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "paul_kirin",
+					"name": "폴기린",
+					"id": 4043241074,
+					"id_str": "4043241074",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "nyeoknyeokiii",
+					"name": "녁녁이",
+					"id": 763779772983808000,
+					"id_str": "763779772983808001",
+					"indices": [
+						16,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1016,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8590,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 21 06:42:39 +0000 2017",
+			"id": 833929913858039800,
+			"id_str": "833929913858039809",
+			"text": "@nyeoknyeokiii 안녕하세요. 한국번역본이 있는지는 모르겠지만 '사라지는 수컷'(곤충의 성을 조종하는 미생물의 전략) 저자는 카게야마 다이스케 입니다.\n일단 일본 아마존 링크를 붙여두겠습니다.\nhttps://t.co/t2fryzk1Ml",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nyeoknyeokiii",
+						"name": "녁녁이",
+						"id": 763779772983808000,
+						"id_str": "763779772983808001",
+						"indices": [
+							0,
+							14
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/t2fryzk1Ml",
+						"expanded_url": "https://www.amazon.co.jp/%E6%B6%88%E3%81%88%E3%82%8B%E3%82%AA%E3%82%B9%EF%BC%9A%E6%98%86%E8%99%AB%E3%81%AE%E6%80%A7%E3%82%92%E3%81%82%E3%82%84%E3%81%A4%E3%82%8B%E5%BE%AE%E7%94%9F%E7%89%A9%E3%81%AE%E6%88%A6%E7%95%A5-DOJIN%E9%81%B8%E6%9B%B8-%E9%99%B0%E5%B1%B1-%E5%A4%A7%E8%BC%94/dp/4759816666",
+						"display_url": "amazon.co.jp/%E6%B6%88%E3%8…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 833918492613107700,
+			"in_reply_to_status_id_str": "833918492613107712",
+			"in_reply_to_user_id": 763779772983808000,
+			"in_reply_to_user_id_str": "763779772983808001",
+			"in_reply_to_screen_name": "nyeoknyeokiii",
+			"user": {
+				"id": 4043241074,
+				"id_str": "4043241074",
+				"name": "폴기린",
+				"screen_name": "paul_kirin",
+				"location": "東京 文京区",
+				"description": "예쁘고 긴 다리를 가진 도쿄도 납세자",
+				"url": "https://t.co/sBVmg95mI9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sBVmg95mI9",
+								"expanded_url": "http://ask.fm/Paul_Kirin",
+								"display_url": "ask.fm/Paul_Kirin",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 264,
+				"friends_count": 182,
+				"listed_count": 0,
+				"created_at": "Wed Oct 28 05:31:54 +0000 2015",
+				"favourites_count": 81,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2638,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836093504451272704/QrX68WT5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836093504451272704/QrX68WT5_normal.jpg",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Mar 04 14:50:13 +0000 2017",
+		"id": 838038881198972900,
+		"id_str": "838038881198972928",
+		"text": "RT @paul_kirin: 볼바키아란 세포--&gt;세균",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "paul_kirin",
+					"name": "폴기린",
+					"id": 4043241074,
+					"id_str": "4043241074",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1016,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8590,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 21 05:52:17 +0000 2017",
+			"id": 833917238138712000,
+			"id_str": "833917238138712064",
+			"text": "볼바키아란 세포--&gt;세균",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 833916437345366000,
+			"in_reply_to_status_id_str": "833916437345366018",
+			"in_reply_to_user_id": 4043241074,
+			"in_reply_to_user_id_str": "4043241074",
+			"in_reply_to_screen_name": "paul_kirin",
+			"user": {
+				"id": 4043241074,
+				"id_str": "4043241074",
+				"name": "폴기린",
+				"screen_name": "paul_kirin",
+				"location": "東京 文京区",
+				"description": "예쁘고 긴 다리를 가진 도쿄도 납세자",
+				"url": "https://t.co/sBVmg95mI9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sBVmg95mI9",
+								"expanded_url": "http://ask.fm/Paul_Kirin",
+								"display_url": "ask.fm/Paul_Kirin",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 264,
+				"friends_count": 182,
+				"listed_count": 0,
+				"created_at": "Wed Oct 28 05:31:54 +0000 2015",
+				"favourites_count": 81,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2638,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836093504451272704/QrX68WT5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836093504451272704/QrX68WT5_normal.jpg",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Mar 04 14:50:10 +0000 2017",
+		"id": 838038866074337300,
+		"id_str": "838038866074337280",
+		"text": "RT @paul_kirin: @paul_kirin 모든 곤충의 세포에 공생하고 있는 볼바키아란 세포가 있는데,\n수를 암으로 성전환 시키거나 도움되지 않는 수를 죽여버리거나 교미없이 낳을 수 있게 하거나 하는 숙주조작을 한다...고 무섭...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "paul_kirin",
+					"name": "폴기린",
+					"id": 4043241074,
+					"id_str": "4043241074",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "paul_kirin",
+					"name": "폴기린",
+					"id": 4043241074,
+					"id_str": "4043241074",
+					"indices": [
+						16,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1016,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8590,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 21 05:49:06 +0000 2017",
+			"id": 833916437345366000,
+			"id_str": "833916437345366018",
+			"text": "@paul_kirin 모든 곤충의 세포에 공생하고 있는 볼바키아란 세포가 있는데,\n수를 암으로 성전환 시키거나 도움되지 않는 수를 죽여버리거나 교미없이 낳을 수 있게 하거나 하는 숙주조작을 한다...고 무섭...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "paul_kirin",
+						"name": "폴기린",
+						"id": 4043241074,
+						"id_str": "4043241074",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 833906636615880700,
+			"in_reply_to_status_id_str": "833906636615880704",
+			"in_reply_to_user_id": 4043241074,
+			"in_reply_to_user_id_str": "4043241074",
+			"in_reply_to_screen_name": "paul_kirin",
+			"user": {
+				"id": 4043241074,
+				"id_str": "4043241074",
+				"name": "폴기린",
+				"screen_name": "paul_kirin",
+				"location": "東京 文京区",
+				"description": "예쁘고 긴 다리를 가진 도쿄도 납세자",
+				"url": "https://t.co/sBVmg95mI9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sBVmg95mI9",
+								"expanded_url": "http://ask.fm/Paul_Kirin",
+								"display_url": "ask.fm/Paul_Kirin",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 264,
+				"friends_count": 182,
+				"listed_count": 0,
+				"created_at": "Wed Oct 28 05:31:54 +0000 2015",
+				"favourites_count": 81,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2638,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836093504451272704/QrX68WT5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836093504451272704/QrX68WT5_normal.jpg",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Mar 04 14:50:04 +0000 2017",
+		"id": 838038842808528900,
+		"id_str": "838038842808528896",
+		"text": "RT @paul_kirin: 뭐?!라고?!!! https://t.co/dHnzHCqnfP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "paul_kirin",
+					"name": "폴기린",
+					"id": 4043241074,
+					"id_str": "4043241074",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 833906625886842900,
+					"id_str": "833906625886842880",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/C5KhqHPUcAAh0Nr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5KhqHPUcAAh0Nr.jpg",
+					"url": "https://t.co/dHnzHCqnfP",
+					"display_url": "pic.twitter.com/dHnzHCqnfP",
+					"expanded_url": "https://twitter.com/paul_kirin/status/833906636615880704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 833906636615880700,
+					"source_status_id_str": "833906636615880704",
+					"source_user_id": 4043241074,
+					"source_user_id_str": "4043241074"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 833906625886842900,
+					"id_str": "833906625886842880",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/C5KhqHPUcAAh0Nr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5KhqHPUcAAh0Nr.jpg",
+					"url": "https://t.co/dHnzHCqnfP",
+					"display_url": "pic.twitter.com/dHnzHCqnfP",
+					"expanded_url": "https://twitter.com/paul_kirin/status/833906636615880704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 833906636615880700,
+					"source_status_id_str": "833906636615880704",
+					"source_user_id": 4043241074,
+					"source_user_id_str": "4043241074"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1016,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8590,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 21 05:10:10 +0000 2017",
+			"id": 833906636615880700,
+			"id_str": "833906636615880704",
+			"text": "뭐?!라고?!!! https://t.co/dHnzHCqnfP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 833906625886842900,
+						"id_str": "833906625886842880",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/C5KhqHPUcAAh0Nr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5KhqHPUcAAh0Nr.jpg",
+						"url": "https://t.co/dHnzHCqnfP",
+						"display_url": "pic.twitter.com/dHnzHCqnfP",
+						"expanded_url": "https://twitter.com/paul_kirin/status/833906636615880704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 833906625886842900,
+						"id_str": "833906625886842880",
+						"indices": [
+							10,
+							33
+						],
+						"media_url": "http://pbs.twimg.com/media/C5KhqHPUcAAh0Nr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5KhqHPUcAAh0Nr.jpg",
+						"url": "https://t.co/dHnzHCqnfP",
+						"display_url": "pic.twitter.com/dHnzHCqnfP",
+						"expanded_url": "https://twitter.com/paul_kirin/status/833906636615880704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4043241074,
+				"id_str": "4043241074",
+				"name": "폴기린",
+				"screen_name": "paul_kirin",
+				"location": "東京 文京区",
+				"description": "예쁘고 긴 다리를 가진 도쿄도 납세자",
+				"url": "https://t.co/sBVmg95mI9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sBVmg95mI9",
+								"expanded_url": "http://ask.fm/Paul_Kirin",
+								"display_url": "ask.fm/Paul_Kirin",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 264,
+				"friends_count": 182,
+				"listed_count": 0,
+				"created_at": "Wed Oct 28 05:31:54 +0000 2015",
+				"favourites_count": 81,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2638,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836093504451272704/QrX68WT5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836093504451272704/QrX68WT5_normal.jpg",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Mar 04 14:49:13 +0000 2017",
+		"id": 838038626470674400,
+		"id_str": "838038626470674432",
+		"text": "RT @septuor1: 생애 최초에 누군에게 들었거나 배운 것은 평생 진리라고 생각하고 사는 사람들이 있다. 심지어는 대학 교수들 중에도 없지 않다. 그런 사람이 어느 나라에나 인구의 15%는 된다고 본다. 보수 종교도 태극기 부대도 그런 사람들로…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "septuor1",
+					"name": "황현산",
+					"id": 2893741537,
+					"id_str": "2893741537",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1016,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8590,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 17 18:56:18 +0000 2017",
+			"id": 832664992100945900,
+			"id_str": "832664992100945921",
+			"text": "생애 최초에 누군에게 들었거나 배운 것은 평생 진리라고 생각하고 사는 사람들이 있다. 심지어는 대학 교수들 중에도 없지 않다. 그런 사람이 어느 나라에나 인구의 15%는 된다고 본다. 보수 종교도 태극기 부대도 그런 사람들로 유지된다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2893741537,
+				"id_str": "2893741537",
+				"name": "황현산",
+				"screen_name": "septuor1",
+				"location": "Seoul",
+				"description": "밤이 선생이다 - 우물에서 하늘 보기",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 292560,
+				"friends_count": 818,
+				"listed_count": 590,
+				"created_at": "Sat Nov 08 11:44:03 +0000 2014",
+				"favourites_count": 2626,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7774,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/588366565613015041/XxY6XTWj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/588366565613015041/XxY6XTWj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2893741537/1415634336",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 279,
+			"favorite_count": 174,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 279,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Mar 04 09:05:48 +0000 2017",
 		"id": 837952202060759000,
 		"id_str": "837952202060759041",
