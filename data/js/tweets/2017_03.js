@@ -1,6 +1,579 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sun Mar 05 06:53:43 +0000 2017",
+		"id": 838281350738227200,
+		"id_str": "838281350738227200",
+		"text": "RT @khalbora: @khalbora 그러니까 이런 험난한 시대에 신작 MMORPG 만들 정도로 능력있는 디렉터 님들은 쓸데 없는 옛날 겜에 대한 추억같은 건 개나 줘버리고 개인의 플레이에 촛점을 맞춰 MSORPG게임을 만드는 편이 낫습니다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "khalbora",
+					"name": "칼보라",
+					"id": 150938402,
+					"id_str": "150938402",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "khalbora",
+					"name": "칼보라",
+					"id": 150938402,
+					"id_str": "150938402",
+					"indices": [
+						14,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1016,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8649,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 05 06:48:44 +0000 2017",
+			"id": 838280097337651200,
+			"id_str": "838280097337651204",
+			"text": "@khalbora 그러니까 이런 험난한 시대에 신작 MMORPG 만들 정도로 능력있는 디렉터 님들은 쓸데 없는 옛날 겜에 대한 추억같은 건 개나 줘버리고 개인의 플레이에 촛점을 맞춰 MSORPG게임을 만드는 편이 낫습니다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "khalbora",
+						"name": "칼보라",
+						"id": 150938402,
+						"id_str": "150938402",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 838277408314765300,
+			"in_reply_to_status_id_str": "838277408314765312",
+			"in_reply_to_user_id": 150938402,
+			"in_reply_to_user_id_str": "150938402",
+			"in_reply_to_screen_name": "khalbora",
+			"user": {
+				"id": 150938402,
+				"id_str": "150938402",
+				"name": "칼보라",
+				"screen_name": "khalbora",
+				"location": "신이 되려 했던 게임 기획자가 가는 지옥",
+				"description": "이 팔의 붕대는 이유가 있어서 풀 수 없다. PC함이 날뛰어 버리거든.",
+				"url": "http://ask.fm/khalbora",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://ask.fm/khalbora",
+								"expanded_url": null,
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 571,
+				"friends_count": 209,
+				"listed_count": 15,
+				"created_at": "Wed Jun 02 05:49:54 +0000 2010",
+				"favourites_count": 185,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19123,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/691546877980880897/P2AcEDfu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/691546877980880897/P2AcEDfu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/150938402/1449799529",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Mar 05 06:53:40 +0000 2017",
+		"id": 838281340889989100,
+		"id_str": "838281340889989120",
+		"text": "RT @khalbora: @khalbora 여기에 대해서 길게 이야기하면 너무 길어지니까 짧게 줄이자면... 대부분의 요즘 유저들이 원하는 것은 관계가 아니라 관심인데 올드한 게임 디자인이 자꾸 관계를 주려고 엮어 놓으니 다들 속이 터져서 뒤질라 그…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "khalbora",
+					"name": "칼보라",
+					"id": 150938402,
+					"id_str": "150938402",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "khalbora",
+					"name": "칼보라",
+					"id": 150938402,
+					"id_str": "150938402",
+					"indices": [
+						14,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1016,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8649,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 05 06:38:03 +0000 2017",
+			"id": 838277408314765300,
+			"id_str": "838277408314765312",
+			"text": "@khalbora 여기에 대해서 길게 이야기하면 너무 길어지니까 짧게 줄이자면... 대부분의 요즘 유저들이 원하는 것은 관계가 아니라 관심인데 올드한 게임 디자인이 자꾸 관계를 주려고 엮어 놓으니 다들 속이 터져서 뒤질라 그러는 것이라 이겁니다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "khalbora",
+						"name": "칼보라",
+						"id": 150938402,
+						"id_str": "150938402",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 838276373106028500,
+			"in_reply_to_status_id_str": "838276373106028544",
+			"in_reply_to_user_id": 150938402,
+			"in_reply_to_user_id_str": "150938402",
+			"in_reply_to_screen_name": "khalbora",
+			"user": {
+				"id": 150938402,
+				"id_str": "150938402",
+				"name": "칼보라",
+				"screen_name": "khalbora",
+				"location": "신이 되려 했던 게임 기획자가 가는 지옥",
+				"description": "이 팔의 붕대는 이유가 있어서 풀 수 없다. PC함이 날뛰어 버리거든.",
+				"url": "http://ask.fm/khalbora",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://ask.fm/khalbora",
+								"expanded_url": null,
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 571,
+				"friends_count": 209,
+				"listed_count": 15,
+				"created_at": "Wed Jun 02 05:49:54 +0000 2010",
+				"favourites_count": 185,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19123,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/691546877980880897/P2AcEDfu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/691546877980880897/P2AcEDfu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/150938402/1449799529",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Mar 05 06:53:33 +0000 2017",
+		"id": 838281311680856000,
+		"id_str": "838281311680856064",
+		"text": "RT @khalbora: MMORPG가 망해가고 있는 것에는 여러가지 문제가 있습니다만... 저는 MMORPG 고유의 가치인 관계의 형성이 게임적으로 즐거운 일이 아니게 되었다는 점을 근본적인 원인으로 놓고 있습니다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "khalbora",
+					"name": "칼보라",
+					"id": 150938402,
+					"id_str": "150938402",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1016,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8649,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 05 06:33:56 +0000 2017",
+			"id": 838276373106028500,
+			"id_str": "838276373106028544",
+			"text": "MMORPG가 망해가고 있는 것에는 여러가지 문제가 있습니다만... 저는 MMORPG 고유의 가치인 관계의 형성이 게임적으로 즐거운 일이 아니게 되었다는 점을 근본적인 원인으로 놓고 있습니다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 150938402,
+				"id_str": "150938402",
+				"name": "칼보라",
+				"screen_name": "khalbora",
+				"location": "신이 되려 했던 게임 기획자가 가는 지옥",
+				"description": "이 팔의 붕대는 이유가 있어서 풀 수 없다. PC함이 날뛰어 버리거든.",
+				"url": "http://ask.fm/khalbora",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://ask.fm/khalbora",
+								"expanded_url": null,
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 571,
+				"friends_count": 209,
+				"listed_count": 15,
+				"created_at": "Wed Jun 02 05:49:54 +0000 2010",
+				"favourites_count": 185,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19123,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/691546877980880897/P2AcEDfu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/691546877980880897/P2AcEDfu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/150938402/1449799529",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Mar 05 05:52:06 +0000 2017",
 		"id": 838265844413018100,
 		"id_str": "838265844413018113",
