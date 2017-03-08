@@ -1,6 +1,463 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Wed Mar 08 04:52:25 +0000 2017",
+		"id": 839337990740553700,
+		"id_str": "839337990740553728",
+		"text": "제로년대의 상상력에서 지적하는 것은 무기력한 남성상에 대한 것이기 때문에 궤가 또 달라요. 동의하지 않지만 그가 비판하는 심리주의(세카이계)에의 카운터로써 결단주의가 있고, 그 예로 나스 키노코를 드니까.\nhttps://t.co/a0QzpOjv9v",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a0QzpOjv9v",
+					"expanded_url": "https://twitter.com/ds62hg/status/839326692044759041",
+					"display_url": "twitter.com/ds62hg/status/…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 839336501808803800,
+		"in_reply_to_status_id_str": "839336501808803840",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1017,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8687,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 839326692044759000,
+		"quoted_status_id_str": "839326692044759041",
+		"quoted_status": {
+			"created_at": "Wed Mar 08 04:07:31 +0000 2017",
+			"id": 839326692044759000,
+			"id_str": "839326692044759041",
+			"text": "'싸우는 소녀 x 구원하는 남주' 구도는 제로년대의 상상력에서 신나게 까였었지... 라고 해도 못 읽어 봤지만!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 839325749748224000,
+			"in_reply_to_status_id_str": "839325749748224000",
+			"in_reply_to_user_id": 474560000,
+			"in_reply_to_user_id_str": "474560000",
+			"in_reply_to_screen_name": "ds62hg",
+			"user": {
+				"id": 474560000,
+				"id_str": "474560000",
+				"name": "[PSvita 산 숏컷모에러] 셸먼",
+				"screen_name": "ds62hg",
+				"location": "대한민국 서울",
+				"description": "넓게 편향된 취미생활/TRPG/ORPG/만화애니게임소설라이트노벨/타입문/걸즈운트판처/AKB48. FGO 합니다. 고양이 기릅니다. https://t.co/720TB60f2T",
+				"url": "https://t.co/Gw8FAdcslo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Gw8FAdcslo",
+								"expanded_url": "http://tPfajs.egloos.com",
+								"display_url": "tPfajs.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/720TB60f2T",
+								"expanded_url": "http://ask.fm/ds62hg",
+								"display_url": "ask.fm/ds62hg",
+								"indices": [
+									73,
+									96
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 949,
+				"friends_count": 1154,
+				"listed_count": 20,
+				"created_at": "Thu Jan 26 03:36:38 +0000 2012",
+				"favourites_count": 451,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 47060,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/577859275667558400/lSoL5b1H.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/577859275667558400/lSoL5b1H.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/799136441699733505/Yj5JRVjL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/799136441699733505/Yj5JRVjL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/474560000/1398215662",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Mar 08 04:46:30 +0000 2017",
+		"id": 839336501808803800,
+		"id_str": "839336501808803840",
+		"text": "오히려 고정적인 성 역할 분담의 반전에서 그 반전을 온전히 받아들이지 못하고 여성다움을 주문하는 남자 주인공들에게서 문제의식을 가져야지, 반전 그 자체에서 문제를 찾는 건 나스 키노코의 성찰이 잘못되었단 사실을 가리키고 있을 뿐이죠.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 839332637781057500,
+		"in_reply_to_status_id_str": "839332637781057536",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1017,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8687,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Mar 08 04:31:09 +0000 2017",
+		"id": 839332637781057500,
+		"id_str": "839332637781057536",
+		"text": "아냐... 이 인터뷰 볼 때마다 생각하는 거지만 성 차별적 대사(\"여자애니까~\")에 문제가 있지 구도 자체는 문제될 게 없어요. 설사 그 구도에 나스 키노코의 성 관념/심리가 개입되었다고 하더라도.\nhttps://t.co/zQhdkSYdCZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zQhdkSYdCZ",
+					"expanded_url": "https://twitter.com/ds62hg/status/839325424387674112",
+					"display_url": "twitter.com/ds62hg/status/…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1017,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8687,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 839325424387674100,
+		"quoted_status_id_str": "839325424387674112",
+		"quoted_status": {
+			"created_at": "Wed Mar 08 04:02:29 +0000 2017",
+			"id": 839325424387674100,
+			"id_str": "839325424387674112",
+			"text": "\"공의 경계에서도 전투는 히로인인 료우기 시키 담당이고 주인공인 코쿠토 미키야는 처치 곤란한 히로인을 먹여 살릴 뿐인 남자입니다. 이건 제법 심각한 남존여비 구도거든요.\"",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 839325356062470100,
+			"in_reply_to_status_id_str": "839325356062470145",
+			"in_reply_to_user_id": 474560000,
+			"in_reply_to_user_id_str": "474560000",
+			"in_reply_to_screen_name": "ds62hg",
+			"user": {
+				"id": 474560000,
+				"id_str": "474560000",
+				"name": "[PSvita 산 숏컷모에러] 셸먼",
+				"screen_name": "ds62hg",
+				"location": "대한민국 서울",
+				"description": "넓게 편향된 취미생활/TRPG/ORPG/만화애니게임소설라이트노벨/타입문/걸즈운트판처/AKB48. FGO 합니다. 고양이 기릅니다. https://t.co/720TB60f2T",
+				"url": "https://t.co/Gw8FAdcslo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Gw8FAdcslo",
+								"expanded_url": "http://tPfajs.egloos.com",
+								"display_url": "tPfajs.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/720TB60f2T",
+								"expanded_url": "http://ask.fm/ds62hg",
+								"display_url": "ask.fm/ds62hg",
+								"indices": [
+									73,
+									96
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 949,
+				"friends_count": 1154,
+				"listed_count": 20,
+				"created_at": "Thu Jan 26 03:36:38 +0000 2012",
+				"favourites_count": 451,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 47060,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/577859275667558400/lSoL5b1H.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/577859275667558400/lSoL5b1H.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/799136441699733505/Yj5JRVjL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/799136441699733505/Yj5JRVjL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/474560000/1398215662",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Mar 07 14:45:54 +0000 2017",
 		"id": 839124958424916000,
 		"id_str": "839124958424915973",
