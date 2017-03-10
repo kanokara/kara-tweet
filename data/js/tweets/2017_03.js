@@ -1,6 +1,482 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Fri Mar 10 02:29:49 +0000 2017",
+		"id": 840026880715628500,
+		"id_str": "840026880715628544",
+		"text": "RT @giantroot: 평생 순정남으로 살았던 본인 사생활라던가 소설 내 현대 문명에 대한 종말, 차갑고 냉소적인 터치를 생각해보면 '인간이 파시즘에 매료되는건 당연하지만 내겐 그런것들은 존나 자동차와 벌레가 섹스하는거나 다름없다' 이런 느낌인듯.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "giantroot",
+					"name": "G. Shadekeys",
+					"id": 40153122,
+					"id_str": "40153122",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1018,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8759,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Mar 09 15:29:12 +0000 2017",
+			"id": 839860629766717400,
+			"id_str": "839860629766717440",
+			"text": "평생 순정남으로 살았던 본인 사생활라던가 소설 내 현대 문명에 대한 종말, 차갑고 냉소적인 터치를 생각해보면 '인간이 파시즘에 매료되는건 당연하지만 내겐 그런것들은 존나 자동차와 벌레가 섹스하는거나 다름없다' 이런 느낌인듯.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 839860170452721700,
+			"in_reply_to_status_id_str": "839860170452721664",
+			"in_reply_to_user_id": 40153122,
+			"in_reply_to_user_id_str": "40153122",
+			"in_reply_to_screen_name": "giantroot",
+			"user": {
+				"id": 40153122,
+				"id_str": "40153122",
+				"name": "G. Shadekeys",
+				"screen_name": "giantroot",
+				"location": "저는 라인하르트 에드만입니다.",
+				"description": "boy from art school. music,movie,animation,game,book,comic. 韓国語ツイットですが、日本語おしゃべりもできます。多分。 *덕드립이 넘쳐납니다. オタクネタが溢れます。",
+				"url": "https://t.co/H7kA27ZQx7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H7kA27ZQx7",
+								"expanded_url": "http://giantroot.pe.kr",
+								"display_url": "giantroot.pe.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 679,
+				"friends_count": 320,
+				"listed_count": 41,
+				"created_at": "Fri May 15 02:24:12 +0000 2009",
+				"favourites_count": 635,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 157678,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/471494022519730176/KiqhDY1f.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/471494022519730176/KiqhDY1f.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/817040663405441024/vbh1VHK9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/817040663405441024/vbh1VHK9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40153122/1483363292",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCD",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Mar 10 02:29:02 +0000 2017",
+		"id": 840026683398737900,
+		"id_str": "840026683398737921",
+		"text": "RT @giantroot: @L3V14TH4N1104 서칭을 해보는데, 파시즘적 이미지의 강력성을 인정하면서도 그것의 권위성을 저속한 성적 욕망으로 파괴하는 방식의 창작을 즐겼나보군. https://t.co/CDugvejST4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "giantroot",
+					"name": "G. Shadekeys",
+					"id": 40153122,
+					"id_str": "40153122",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "L3V14TH4N1104",
+					"name": "L3V14",
+					"id": 103580145,
+					"id_str": "103580145",
+					"indices": [
+						15,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CDugvejST4",
+					"expanded_url": "http://www.jgballard.ca/media/1995_april_sci-fi_universe_magazine.html",
+					"display_url": "jgballard.ca/media/1995_apr…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1018,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8759,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Mar 09 15:10:44 +0000 2017",
+			"id": 839855982658281500,
+			"id_str": "839855982658281473",
+			"text": "@L3V14TH4N1104 서칭을 해보는데, 파시즘적 이미지의 강력성을 인정하면서도 그것의 권위성을 저속한 성적 욕망으로 파괴하는 방식의 창작을 즐겼나보군. https://t.co/CDugvejST4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "L3V14TH4N1104",
+						"name": "L3V14",
+						"id": 103580145,
+						"id_str": "103580145",
+						"indices": [
+							0,
+							14
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/CDugvejST4",
+						"expanded_url": "http://www.jgballard.ca/media/1995_april_sci-fi_universe_magazine.html",
+						"display_url": "jgballard.ca/media/1995_apr…",
+						"indices": [
+							88,
+							111
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 839854164154863600,
+			"in_reply_to_status_id_str": "839854164154863618",
+			"in_reply_to_user_id": 103580145,
+			"in_reply_to_user_id_str": "103580145",
+			"in_reply_to_screen_name": "L3V14TH4N1104",
+			"user": {
+				"id": 40153122,
+				"id_str": "40153122",
+				"name": "G. Shadekeys",
+				"screen_name": "giantroot",
+				"location": "저는 라인하르트 에드만입니다.",
+				"description": "boy from art school. music,movie,animation,game,book,comic. 韓国語ツイットですが、日本語おしゃべりもできます。多分。 *덕드립이 넘쳐납니다. オタクネタが溢れます。",
+				"url": "https://t.co/H7kA27ZQx7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H7kA27ZQx7",
+								"expanded_url": "http://giantroot.pe.kr",
+								"display_url": "giantroot.pe.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 679,
+				"friends_count": 320,
+				"listed_count": 41,
+				"created_at": "Fri May 15 02:24:12 +0000 2009",
+				"favourites_count": 635,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 157678,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/471494022519730176/KiqhDY1f.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/471494022519730176/KiqhDY1f.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/817040663405441024/vbh1VHK9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/817040663405441024/vbh1VHK9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40153122/1483363292",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCD",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Mar 10 02:27:27 +0000 2017",
+		"id": 840026284725956600,
+		"id_str": "840026284725956609",
+		"text": "\"가령 독일의 어떤 제도가 좋다고 할 경우, 그것만 따로 떼어서 보려고 하는데, 독일 사회 전체 맥락에서 봐야 하거든요. 전체 메커니즘이 잘 작동될 때 제도가 힘을 발휘하게 된다는 사실을 간과하는 게 아닌가 싶어요.\"",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1018,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8759,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Mar 10 02:02:02 +0000 2017",
 		"id": 840019886604668900,
 		"id_str": "840019886604668928",
