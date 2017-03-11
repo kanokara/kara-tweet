@@ -1,6 +1,569 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sat Mar 11 04:27:33 +0000 2017",
+		"id": 840418896968474600,
+		"id_str": "840418896968474625",
+		"text": "RT @snothim: @shine_sann 100歩譲って「我が国は素晴らしい！」ならまだしも「世界が我が国を素晴らしいと言ってる！」を各国に送り付けるのは倍恥ずかしい",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "snothim",
+					"name": "スノット",
+					"id": 270394612,
+					"id_str": "270394612",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "shine_sann",
+					"name": "しゃいん",
+					"id": 204828310,
+					"id_str": "204828310",
+					"indices": [
+						13,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1018,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8801,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 10 23:34:29 +0000 2017",
+			"id": 840345144289243100,
+			"id_str": "840345144289243136",
+			"text": "@shine_sann 100歩譲って「我が国は素晴らしい！」ならまだしも「世界が我が国を素晴らしいと言ってる！」を各国に送り付けるのは倍恥ずかしい",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "shine_sann",
+						"name": "しゃいん",
+						"id": 204828310,
+						"id_str": "204828310",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 840241307222134800,
+			"in_reply_to_status_id_str": "840241307222134784",
+			"in_reply_to_user_id": 204828310,
+			"in_reply_to_user_id_str": "204828310",
+			"in_reply_to_screen_name": "shine_sann",
+			"user": {
+				"id": 270394612,
+				"id_str": "270394612",
+				"name": "スノット",
+				"screen_name": "snothim",
+				"location": "東京 西東京市",
+				"description": "建築現場監督、ミニチュアゲーム、プラモデル、カラオケ、アニメ、特撮（全部書くとキリがない）が趣味です。",
+				"url": "http://t.co/msx3fQTo9l",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/msx3fQTo9l",
+								"expanded_url": "http://snothim.blogspot.jp/",
+								"display_url": "snothim.blogspot.jp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 538,
+				"friends_count": 848,
+				"listed_count": 12,
+				"created_at": "Tue Mar 22 14:54:42 +0000 2011",
+				"favourites_count": 15328,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14379,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/451004103452139520/dyEYjv_o_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/451004103452139520/dyEYjv_o_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/270394612/1479911419",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 106,
+			"favorite_count": 85,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 106,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Sat Mar 11 04:26:42 +0000 2017",
+		"id": 840418683105157100,
+		"id_str": "840418683105157120",
+		"text": "RT @shine_sann: まあ大使館にこんなの届いたら各国は驚くわな\nhttps://t.co/RIeDB0Vawd https://t.co/QIKU6RMMpF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shine_sann",
+					"name": "しゃいん",
+					"id": 204828310,
+					"id_str": "204828310",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RIeDB0Vawd",
+					"expanded_url": "http://www.meti.go.jp/press/2016/03/20170308001/20170308001.html",
+					"display_url": "meti.go.jp/press/2016/03/…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 840241108407935000,
+					"id_str": "840241108407934976",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/C6ki1hhV4AAF11c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6ki1hhV4AAF11c.jpg",
+					"url": "https://t.co/QIKU6RMMpF",
+					"display_url": "pic.twitter.com/QIKU6RMMpF",
+					"expanded_url": "https://twitter.com/shine_sann/status/840241307222134784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1199,
+							"h": 814,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 462,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 814,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 840241307222134800,
+					"source_status_id_str": "840241307222134784",
+					"source_user_id": 204828310,
+					"source_user_id_str": "204828310"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 840241108407935000,
+					"id_str": "840241108407934976",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/C6ki1hhV4AAF11c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6ki1hhV4AAF11c.jpg",
+					"url": "https://t.co/QIKU6RMMpF",
+					"display_url": "pic.twitter.com/QIKU6RMMpF",
+					"expanded_url": "https://twitter.com/shine_sann/status/840241307222134784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1199,
+							"h": 814,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 462,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 814,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 840241307222134800,
+					"source_status_id_str": "840241307222134784",
+					"source_user_id": 204828310,
+					"source_user_id_str": "204828310"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1018,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8801,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 10 16:41:53 +0000 2017",
+			"id": 840241307222134800,
+			"id_str": "840241307222134784",
+			"text": "まあ大使館にこんなの届いたら各国は驚くわな\nhttps://t.co/RIeDB0Vawd https://t.co/QIKU6RMMpF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RIeDB0Vawd",
+						"expanded_url": "http://www.meti.go.jp/press/2016/03/20170308001/20170308001.html",
+						"display_url": "meti.go.jp/press/2016/03/…",
+						"indices": [
+							22,
+							45
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 840241108407935000,
+						"id_str": "840241108407934976",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/C6ki1hhV4AAF11c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6ki1hhV4AAF11c.jpg",
+						"url": "https://t.co/QIKU6RMMpF",
+						"display_url": "pic.twitter.com/QIKU6RMMpF",
+						"expanded_url": "https://twitter.com/shine_sann/status/840241307222134784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1199,
+								"h": 814,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 462,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1199,
+								"h": 814,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 840241108407935000,
+						"id_str": "840241108407934976",
+						"indices": [
+							46,
+							69
+						],
+						"media_url": "http://pbs.twimg.com/media/C6ki1hhV4AAF11c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6ki1hhV4AAF11c.jpg",
+						"url": "https://t.co/QIKU6RMMpF",
+						"display_url": "pic.twitter.com/QIKU6RMMpF",
+						"expanded_url": "https://twitter.com/shine_sann/status/840241307222134784/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1199,
+								"h": 814,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 462,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1199,
+								"h": 814,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 204828310,
+				"id_str": "204828310",
+				"name": "しゃいん",
+				"screen_name": "shine_sann",
+				"location": "いいね♥",
+				"description": "おいしいものをたべてこそのじんせいなのです。法クラ流行語大賞2015動員賞受賞。アイコンはハルヒスキー @haruhisky1 様より。",
+				"url": "https://t.co/WdJC8Kh8IE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WdJC8Kh8IE",
+								"expanded_url": "http://shootme.seesaa.net/",
+								"display_url": "shootme.seesaa.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1215,
+				"friends_count": 756,
+				"listed_count": 94,
+				"created_at": "Tue Oct 19 15:14:40 +0000 2010",
+				"favourites_count": 366254,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 50398,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/482778184396443648/0Yg0WF3z.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/482778184396443648/0Yg0WF3z.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/624552032150511617/F3BoiexL_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/624552032150511617/F3BoiexL_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/204828310/1465397973",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 409,
+			"favorite_count": 264,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 409,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Fri Mar 10 19:50:25 +0000 2017",
 		"id": 840288756355731500,
 		"id_str": "840288756355731456",
