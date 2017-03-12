@@ -1,6 +1,800 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sun Mar 12 05:00:04 +0000 2017",
+		"id": 840789465031295000,
+		"id_str": "840789465031294978",
+		"text": "인위적으로 순례지=축제의 장소를 만들고, 타인에게 간접적으로 자신의 감정을 커밍아웃하고, 사진으로 찍어 올려 미디어에서 순환이 이뤄지게 하고.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 840788122115821600,
+		"in_reply_to_status_id_str": "840788122115821570",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1022,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8816,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Mar 12 04:57:26 +0000 2017",
+		"id": 840788804055187500,
+		"id_str": "840788804055187456",
+		"text": "RT @taeyeon_union: 3월 9일자 한겨레신문에 태연이의 생일을 축하하는 광고가 실렸어요 태연아 생일축하해💜💜💜\n\n#KingTaeyeonDay \n#때때야생일축하해\n#태연아_노래해줘서_고마워 https://t.co/t3PRwSYeFJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KingTaeyeonDay",
+					"indices": [
+						70,
+						85
+					]
+				},
+				{
+					"text": "때때야생일축하해",
+					"indices": [
+						87,
+						96
+					]
+				},
+				{
+					"text": "태연아_노래해줘서_고마워",
+					"indices": [
+						97,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "taeyeon_union",
+					"name": "태연팬연합",
+					"id": 2282361409,
+					"id_str": "2282361409",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 839702248686944300,
+					"id_str": "839702248686944256",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/C6c4vwoVAAAI8s3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6c4vwoVAAAI8s3.jpg",
+					"url": "https://t.co/t3PRwSYeFJ",
+					"display_url": "pic.twitter.com/t3PRwSYeFJ",
+					"expanded_url": "https://twitter.com/taeyeon_union/status/839702258149314560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1594,
+							"h": 1181,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 889,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 504,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 839702258149314600,
+					"source_status_id_str": "839702258149314560",
+					"source_user_id": 2282361409,
+					"source_user_id_str": "2282361409"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 839702248686944300,
+					"id_str": "839702248686944256",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/C6c4vwoVAAAI8s3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6c4vwoVAAAI8s3.jpg",
+					"url": "https://t.co/t3PRwSYeFJ",
+					"display_url": "pic.twitter.com/t3PRwSYeFJ",
+					"expanded_url": "https://twitter.com/taeyeon_union/status/839702258149314560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1594,
+							"h": 1181,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 889,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 504,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 839702258149314600,
+					"source_status_id_str": "839702258149314560",
+					"source_user_id": 2282361409,
+					"source_user_id_str": "2282361409"
+				},
+				{
+					"id": 839702248686940200,
+					"id_str": "839702248686940161",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/C6c4vwoU8AEMHeZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C6c4vwoU8AEMHeZ.jpg",
+					"url": "https://t.co/t3PRwSYeFJ",
+					"display_url": "pic.twitter.com/t3PRwSYeFJ",
+					"expanded_url": "https://twitter.com/taeyeon_union/status/839702258149314560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 709,
+							"h": 492,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 472,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 709,
+							"h": 492,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 839702258149314600,
+					"source_status_id_str": "839702258149314560",
+					"source_user_id": 2282361409,
+					"source_user_id_str": "2282361409"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1022,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8816,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Mar 09 04:59:53 +0000 2017",
+			"id": 839702258149314600,
+			"id_str": "839702258149314560",
+			"text": "3월 9일자 한겨레신문에 태연이의 생일을 축하하는 광고가 실렸어요 태연아 생일축하해💜💜💜\n\n#KingTaeyeonDay \n#때때야생일축하해\n#태연아_노래해줘서_고마워 https://t.co/t3PRwSYeFJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KingTaeyeonDay",
+						"indices": [
+							51,
+							66
+						]
+					},
+					{
+						"text": "때때야생일축하해",
+						"indices": [
+							68,
+							77
+						]
+					},
+					{
+						"text": "태연아_노래해줘서_고마워",
+						"indices": [
+							78,
+							92
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 839702248686944300,
+						"id_str": "839702248686944256",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/C6c4vwoVAAAI8s3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6c4vwoVAAAI8s3.jpg",
+						"url": "https://t.co/t3PRwSYeFJ",
+						"display_url": "pic.twitter.com/t3PRwSYeFJ",
+						"expanded_url": "https://twitter.com/taeyeon_union/status/839702258149314560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1594,
+								"h": 1181,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 889,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 504,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 839702248686944300,
+						"id_str": "839702248686944256",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/C6c4vwoVAAAI8s3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6c4vwoVAAAI8s3.jpg",
+						"url": "https://t.co/t3PRwSYeFJ",
+						"display_url": "pic.twitter.com/t3PRwSYeFJ",
+						"expanded_url": "https://twitter.com/taeyeon_union/status/839702258149314560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1594,
+								"h": 1181,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 889,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 504,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 839702248686940200,
+						"id_str": "839702248686940161",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/C6c4vwoU8AEMHeZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C6c4vwoU8AEMHeZ.jpg",
+						"url": "https://t.co/t3PRwSYeFJ",
+						"display_url": "pic.twitter.com/t3PRwSYeFJ",
+						"expanded_url": "https://twitter.com/taeyeon_union/status/839702258149314560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 709,
+								"h": 492,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 472,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 709,
+								"h": 492,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2282361409,
+				"id_str": "2282361409",
+				"name": "태연팬연합",
+				"screen_name": "taeyeon_union",
+				"location": "taeyeonunion@naver.com",
+				"description": "GIRLS' GENERATION TAEYEON FAN UNION / 공지는 마음글",
+				"url": "https://t.co/2MpqVQay58",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2MpqVQay58",
+								"expanded_url": "http://Instagram.com/taeyeon_union",
+								"display_url": "Instagram.com/taeyeon_union",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27099,
+				"friends_count": 2,
+				"listed_count": 220,
+				"created_at": "Wed Jan 08 16:18:24 +0000 2014",
+				"favourites_count": 3,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 631,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/803327130754945024/HW90_Rla_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/803327130754945024/HW90_Rla_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2282361409/1480363801",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 982,
+			"favorite_count": 578,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 982,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Mar 12 04:57:04 +0000 2017",
+		"id": 840788711377793000,
+		"id_str": "840788711377793024",
+		"text": "RT @HappySukgaDay: 👉RT❣\n3줄요약\n1. 3월 27일부터 디미씨역에 S🚘 님 생일광고가 걸릴 예정입니다\n2. 많은 참여부탁드려요❤\n3. RT해주시는 분들 중 두 분을 뽑아 밑의 기프티콘을 드릴 예정입니당! 당발은 모금 마감되는 날!…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HappySukgaDay",
+					"name": "메인트확인)єѕ¢α생일지하철드랍",
+					"id": 834240606582870000,
+					"id_str": "834240606582870016",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1022,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8816,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 11 11:06:03 +0000 2017",
+			"id": 840519182915584000,
+			"id_str": "840519182915584000",
+			"text": "👉RT❣\n3줄요약\n1. 3월 27일부터 디미씨역에 S🚘 님 생일광고가 걸릴 예정입니다\n2. 많은 참여부탁드려요❤\n3. RT해주시는 분들 중 두 분을 뽑아 밑의 기프티콘을 드릴 예정입니당! 당발은 모금 마감되… https://t.co/ArWicNcBSG",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ArWicNcBSG",
+						"expanded_url": "https://twitter.com/i/web/status/840519182915584000",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 834240606582870000,
+				"id_str": "834240606582870016",
+				"name": "메인트확인)єѕ¢α생일지하철드랍",
+				"screen_name": "HappySukgaDay",
+				"location": "",
+				"description": "ᴋɪᴍɪɴᴊᴀᴇ ʜᴀᴘᴘʏ ʙɪʀᴛʜᴅᴀʏ",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 217,
+				"friends_count": 0,
+				"listed_count": 0,
+				"created_at": "Wed Feb 22 03:17:14 +0000 2017",
+				"favourites_count": 3,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 44,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/834242949072367616/AcSwfXYb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/834242949072367616/AcSwfXYb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/834240606582870016/1487736648",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 202,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 202,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Mar 12 04:54:44 +0000 2017",
+		"id": 840788122115821600,
+		"id_str": "840788122115821570",
+		"text": "'팬 광고'가 어느 순간부터 당연한 풍경으로 자리 잡았는데, 시초부터 그 역사를 정리하고 아카이빙할 필요를 느끼네요.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 64,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1022,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8816,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Mar 12 04:09:49 +0000 2017",
 		"id": 840776821809414100,
 		"id_str": "840776821809414144",
