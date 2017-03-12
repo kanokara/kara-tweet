@@ -1,6 +1,976 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Sun Mar 12 09:11:48 +0000 2017",
+		"id": 840852818206441500,
+		"id_str": "840852818206441474",
+		"text": "RT @guolu233: 遅くなりますが『AVG Spirits!!』Vol.1通販お知らせ！https://t.co/REp0c1tk0a 日中AVG合計40P特集含めて、新作紹介・論文研究・作品分析・クリエイター自伝・三地リレー小説スペシャル予告等々フルカラーで豪華満載！…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guolu233",
+					"name": "古落@AVGS2準備中",
+					"id": 2445584340,
+					"id_str": "2445584340",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/REp0c1tk0a",
+					"expanded_url": "https://world.taobao.com/item/543537754434.htm?fromSite=main",
+					"display_url": "world.taobao.com/item/543537754…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 65,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1022,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8825,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 14 18:13:41 +0000 2017",
+			"id": 831567100971868200,
+			"id_str": "831567100971868160",
+			"text": "遅くなりますが『AVG Spirits!!』Vol.1通販お知らせ！https://t.co/REp0c1tk0a 日中AVG合計40P特集含めて、新作紹介・論文研究・作品分析・クリエイター自伝・三地リレー小説スペシャル予告等々フ… https://t.co/njEMrDvDnv",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/REp0c1tk0a",
+						"expanded_url": "https://world.taobao.com/item/543537754434.htm?fromSite=main",
+						"display_url": "world.taobao.com/item/543537754…",
+						"indices": [
+							34,
+							57
+						]
+					},
+					{
+						"url": "https://t.co/njEMrDvDnv",
+						"expanded_url": "https://twitter.com/i/web/status/831567100971868160",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2445584340,
+				"id_str": "2445584340",
+				"name": "古落@AVGS2準備中",
+				"screen_name": "guolu233",
+				"location": "Sichuan",
+				"description": "「ComiDay成都同人祭」担当者・「ComiDay18中文AVGプチオンリー」責任者・同人誌『AVG Spirits!!』編集者等。日本及び中文AVGクリエイターお互いの交流と理解を増進し、最終的にAVG文化の広めるを目指すためにも精一杯頑張って続けております。お問い合わせ：a1152930193@gmail.com",
+				"url": "https://t.co/rlTtAAwh8K",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rlTtAAwh8K",
+								"expanded_url": "http://www.cngal.org",
+								"display_url": "cngal.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 74,
+				"friends_count": 335,
+				"listed_count": 2,
+				"created_at": "Tue Apr 15 15:16:00 +0000 2014",
+				"favourites_count": 4,
+				"utc_offset": 28800,
+				"time_zone": "Beijing",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 376,
+				"lang": "zh-cn",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/456095547707760641/eZAs2z5H.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/456095547707760641/eZAs2z5H.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/456094169618870272/H142YQ2Y_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/456094169618870272/H142YQ2Y_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2445584340/1397576440",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Sun Mar 12 09:11:42 +0000 2017",
+		"id": 840852792088518700,
+		"id_str": "840852792088518656",
+		"text": "RT @guolu233: 同人誌『AVG Spirits!!』Vol.0、通販開始いたしました！https://t.co/04KQU33Ivw 中文AVGクリエイター対談や13名実力派シナリオライターコメントなど愛好者必見のコンテンツ満載。サンプルページには目次もあります。興…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guolu233",
+					"name": "古落@AVGS2準備中",
+					"id": 2445584340,
+					"id_str": "2445584340",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/04KQU33Ivw",
+					"expanded_url": "https://world.taobao.com/item/538909921694.htm?fromSite=main",
+					"display_url": "world.taobao.com/item/538909921…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 65,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1022,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8825,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 30 17:34:49 +0000 2016",
+			"id": 781910183698047000,
+			"id_str": "781910183698046978",
+			"text": "同人誌『AVG Spirits!!』Vol.0、通販開始いたしました！https://t.co/04KQU33Ivw 中文AVGクリエイター対談や13名実力派シナリオライターコメントなど愛好者必見のコンテンツ満載。サンプルページに… https://t.co/07jHW6OLz2",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/04KQU33Ivw",
+						"expanded_url": "https://world.taobao.com/item/538909921694.htm?fromSite=main",
+						"display_url": "world.taobao.com/item/538909921…",
+						"indices": [
+							35,
+							58
+						]
+					},
+					{
+						"url": "https://t.co/07jHW6OLz2",
+						"expanded_url": "https://twitter.com/i/web/status/781910183698046978",
+						"display_url": "twitter.com/i/web/status/7…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2445584340,
+				"id_str": "2445584340",
+				"name": "古落@AVGS2準備中",
+				"screen_name": "guolu233",
+				"location": "Sichuan",
+				"description": "「ComiDay成都同人祭」担当者・「ComiDay18中文AVGプチオンリー」責任者・同人誌『AVG Spirits!!』編集者等。日本及び中文AVGクリエイターお互いの交流と理解を増進し、最終的にAVG文化の広めるを目指すためにも精一杯頑張って続けております。お問い合わせ：a1152930193@gmail.com",
+				"url": "https://t.co/rlTtAAwh8K",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rlTtAAwh8K",
+								"expanded_url": "http://www.cngal.org",
+								"display_url": "cngal.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 74,
+				"friends_count": 335,
+				"listed_count": 2,
+				"created_at": "Tue Apr 15 15:16:00 +0000 2014",
+				"favourites_count": 4,
+				"utc_offset": 28800,
+				"time_zone": "Beijing",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 376,
+				"lang": "zh-cn",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/456095547707760641/eZAs2z5H.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/456095547707760641/eZAs2z5H.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/456094169618870272/H142YQ2Y_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/456094169618870272/H142YQ2Y_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2445584340/1397576440",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Sun Mar 12 08:52:38 +0000 2017",
+		"id": 840847995012767700,
+		"id_str": "840847995012767744",
+		"text": "RT @Piro_Shiki: @Kiki_brero Taobaoで中文ノベルゲームを解説した本が買えるのでそっちを参考にした方がいいと思います。（わたしからもそのうち紹介するとは思いますが） https://t.co/XPYj4wK8ch https://t.co/vQic…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Piro_Shiki",
+					"name": "ぱぃろ@成都ComidayD-16・17",
+					"id": 50552433,
+					"id_str": "50552433",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "Kiki_brero",
+					"name": "Yuki Matsumoto",
+					"id": 515486613,
+					"id_str": "515486613",
+					"indices": [
+						16,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XPYj4wK8ch",
+					"expanded_url": "https://twitter.com/guolu233/status/781910183698046978",
+					"display_url": "twitter.com/guolu233/statu…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 65,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1022,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8825,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 10 17:32:30 +0000 2017",
+			"id": 840254046468423700,
+			"id_str": "840254046468423682",
+			"text": "@Kiki_brero Taobaoで中文ノベルゲームを解説した本が買えるのでそっちを参考にした方がいいと思います。（わたしからもそのうち紹介するとは思いますが） https://t.co/XPYj4wK8ch https://t.co/vQic91XsdC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Kiki_brero",
+						"name": "Yuki Matsumoto",
+						"id": 515486613,
+						"id_str": "515486613",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/XPYj4wK8ch",
+						"expanded_url": "https://twitter.com/guolu233/status/781910183698046978",
+						"display_url": "twitter.com/guolu233/statu…",
+						"indices": [
+							82,
+							105
+						]
+					},
+					{
+						"url": "https://t.co/vQic91XsdC",
+						"expanded_url": "https://twitter.com/guolu233/status/831567100971868160",
+						"display_url": "twitter.com/guolu233/statu…",
+						"indices": [
+							106,
+							129
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 839900691682496500,
+			"in_reply_to_status_id_str": "839900691682496512",
+			"in_reply_to_user_id": 515486613,
+			"in_reply_to_user_id_str": "515486613",
+			"in_reply_to_screen_name": "Kiki_brero",
+			"user": {
+				"id": 50552433,
+				"id_str": "50552433",
+				"name": "ぱぃろ@成都ComidayD-16・17",
+				"screen_name": "Piro_Shiki",
+				"location": "兵庫県・ガイラじゃない方",
+				"description": "色々やる人。イラストスタジオ「サヌックソフト」 https://t.co/Tg3xVVE3XE 同人サークル「さばーい出版」 https://t.co/XTHTefLP3t Steamパブリッシャー「Henteko Doujin」 https://t.co/rGA1VAoYKy 代表。翻訳・出版・タイ・模型・クズビデオ",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Tg3xVVE3XE",
+								"expanded_url": "http://goo.gl/ojwUCg",
+								"display_url": "goo.gl/ojwUCg",
+								"indices": [
+									24,
+									47
+								]
+							},
+							{
+								"url": "https://t.co/XTHTefLP3t",
+								"expanded_url": "http://goo.gl/xAfDE1",
+								"display_url": "goo.gl/xAfDE1",
+								"indices": [
+									63,
+									86
+								]
+							},
+							{
+								"url": "https://t.co/rGA1VAoYKy",
+								"expanded_url": "http://goo.gl/dQKoTi",
+								"display_url": "goo.gl/dQKoTi",
+								"indices": [
+									116,
+									139
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1956,
+				"friends_count": 1336,
+				"listed_count": 107,
+				"created_at": "Thu Jun 25 04:42:42 +0000 2009",
+				"favourites_count": 226,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17745,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000219812442/d20a11f9e29e46b30d2f156dddcee7fa_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000219812442/d20a11f9e29e46b30d2f156dddcee7fa_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/50552433/1413009775",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 831567100971868200,
+			"quoted_status_id_str": "831567100971868160",
+			"quoted_status": {
+				"created_at": "Tue Feb 14 18:13:41 +0000 2017",
+				"id": 831567100971868200,
+				"id_str": "831567100971868160",
+				"text": "遅くなりますが『AVG Spirits!!』Vol.1通販お知らせ！https://t.co/REp0c1tk0a 日中AVG合計40P特集含めて、新作紹介・論文研究・作品分析・クリエイター自伝・三地リレー小説スペシャル予告等々フ… https://t.co/njEMrDvDnv",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/REp0c1tk0a",
+							"expanded_url": "https://world.taobao.com/item/543537754434.htm?fromSite=main",
+							"display_url": "world.taobao.com/item/543537754…",
+							"indices": [
+								34,
+								57
+							]
+						},
+						{
+							"url": "https://t.co/njEMrDvDnv",
+							"expanded_url": "https://twitter.com/i/web/status/831567100971868160",
+							"display_url": "twitter.com/i/web/status/8…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2445584340,
+					"id_str": "2445584340",
+					"name": "古落@AVGS2準備中",
+					"screen_name": "guolu233",
+					"location": "Sichuan",
+					"description": "「ComiDay成都同人祭」担当者・「ComiDay18中文AVGプチオンリー」責任者・同人誌『AVG Spirits!!』編集者等。日本及び中文AVGクリエイターお互いの交流と理解を増進し、最終的にAVG文化の広めるを目指すためにも精一杯頑張って続けております。お問い合わせ：a1152930193@gmail.com",
+					"url": "https://t.co/rlTtAAwh8K",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/rlTtAAwh8K",
+									"expanded_url": "http://www.cngal.org",
+									"display_url": "cngal.org",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 74,
+					"friends_count": 335,
+					"listed_count": 2,
+					"created_at": "Tue Apr 15 15:16:00 +0000 2014",
+					"favourites_count": 4,
+					"utc_offset": 28800,
+					"time_zone": "Beijing",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 376,
+					"lang": "zh-cn",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "709397",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/456095547707760641/eZAs2z5H.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/456095547707760641/eZAs2z5H.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/456094169618870272/H142YQ2Y_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/456094169618870272/H142YQ2Y_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2445584340/1397576440",
+					"profile_link_color": "19CF86",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 11,
+				"favorite_count": 7,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "ja"
+			},
+			"retweet_count": 4,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 831567100971868200,
+		"quoted_status_id_str": "831567100971868160",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Sun Mar 12 08:52:36 +0000 2017",
+		"id": 840847986234089500,
+		"id_str": "840847986234089475",
+		"text": "RT @Piro_Shiki: いやー、面白かった。中国のノベルゲームを色々見せてもらって思ったのは、この国におけるノベルゲームってリスクを取って社会主義批判だったり人生観、死生観だったり、宗教だったりと自分が世の中に訴えかけたいことを表現できるロックな分野だってことだな。",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Piro_Shiki",
+					"name": "ぱぃろ@成都ComidayD-16・17",
+					"id": 50552433,
+					"id_str": "50552433",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 65,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1022,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8825,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 08 16:32:26 +0000 2017",
+			"id": 839514153383403500,
+			"id_str": "839514153383403520",
+			"text": "いやー、面白かった。中国のノベルゲームを色々見せてもらって思ったのは、この国におけるノベルゲームってリスクを取って社会主義批判だったり人生観、死生観だったり、宗教だったりと自分が世の中に訴えかけたいことを表現できるロックな分野だってことだな。",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 50552433,
+				"id_str": "50552433",
+				"name": "ぱぃろ@成都ComidayD-16・17",
+				"screen_name": "Piro_Shiki",
+				"location": "兵庫県・ガイラじゃない方",
+				"description": "色々やる人。イラストスタジオ「サヌックソフト」 https://t.co/Tg3xVVE3XE 同人サークル「さばーい出版」 https://t.co/XTHTefLP3t Steamパブリッシャー「Henteko Doujin」 https://t.co/rGA1VAoYKy 代表。翻訳・出版・タイ・模型・クズビデオ",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Tg3xVVE3XE",
+								"expanded_url": "http://goo.gl/ojwUCg",
+								"display_url": "goo.gl/ojwUCg",
+								"indices": [
+									24,
+									47
+								]
+							},
+							{
+								"url": "https://t.co/XTHTefLP3t",
+								"expanded_url": "http://goo.gl/xAfDE1",
+								"display_url": "goo.gl/xAfDE1",
+								"indices": [
+									63,
+									86
+								]
+							},
+							{
+								"url": "https://t.co/rGA1VAoYKy",
+								"expanded_url": "http://goo.gl/dQKoTi",
+								"display_url": "goo.gl/dQKoTi",
+								"indices": [
+									116,
+									139
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1956,
+				"friends_count": 1336,
+				"listed_count": 107,
+				"created_at": "Thu Jun 25 04:42:42 +0000 2009",
+				"favourites_count": 226,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17745,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000219812442/d20a11f9e29e46b30d2f156dddcee7fa_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000219812442/d20a11f9e29e46b30d2f156dddcee7fa_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/50552433/1413009775",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1589,
+			"favorite_count": 1390,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1589,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Sun Mar 12 05:54:52 +0000 2017",
 		"id": 840803256477483000,
 		"id_str": "840803256477483009",
