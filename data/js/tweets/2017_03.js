@@ -1,6 +1,1122 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Tue Mar 14 15:03:13 +0000 2017",
+		"id": 841666030992805900,
+		"id_str": "841666030992805888",
+		"text": "이런 정서는 무척 오랜만에 느끼는 아련한 것이기도 하네요. 그러니까, 10년 전 케이온이나 러키스타 같은 초기 일상계가 종막을 향해갈 때의 그 쓸쓸한 노스탤지어가 작품 전반에 계속 감돌고 있어요. 정말 어찌할 수 없는 '끝'이 처음부터 함께하는 작품.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 841664358442754000,
+		"in_reply_to_status_id_str": "841664358442754048",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 68,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1021,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8868,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Mar 14 14:56:35 +0000 2017",
+		"id": 841664358442754000,
+		"id_str": "841664358442754048",
+		"text": "케모노 프렌즈 엔딩만 생각하면 자꾸 왈칵하게 돼...\nhttps://t.co/C98egopprP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C98egopprP",
+					"expanded_url": "https://twitter.com/maidsuck/status/841655135830867968",
+					"display_url": "twitter.com/maidsuck/statu…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 68,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1021,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8868,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 841655135830868000,
+		"quoted_status_id_str": "841655135830867968",
+		"quoted_status": {
+			"created_at": "Tue Mar 14 14:19:56 +0000 2017",
+			"id": 841655135830868000,
+			"id_str": "841655135830867968",
+			"text": "이런 케모노 프렌즈 엔딩은 싫어...! https://t.co/dEYVgL7li7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 841654873376608300,
+						"id_str": "841654873376608256",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/C64opecW0AAqjLt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C64opecW0AAqjLt.jpg",
+						"url": "https://t.co/dEYVgL7li7",
+						"display_url": "pic.twitter.com/dEYVgL7li7",
+						"expanded_url": "https://twitter.com/maidsuck/status/841655135830867968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 947,
+								"h": 1592,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 714,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 404,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 841654873376608300,
+						"id_str": "841654873376608256",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/C64opecW0AAqjLt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C64opecW0AAqjLt.jpg",
+						"url": "https://t.co/dEYVgL7li7",
+						"display_url": "pic.twitter.com/dEYVgL7li7",
+						"expanded_url": "https://twitter.com/maidsuck/status/841655135830867968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 947,
+								"h": 1592,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 714,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 404,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 841654884399231000,
+						"id_str": "841654884399230976",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/C64oqHgWsAAPH-5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C64oqHgWsAAPH-5.jpg",
+						"url": "https://t.co/dEYVgL7li7",
+						"display_url": "pic.twitter.com/dEYVgL7li7",
+						"expanded_url": "https://twitter.com/maidsuck/status/841655135830867968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 947,
+								"h": 533,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 947,
+								"h": 533,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2915583102,
+				"id_str": "2915583102",
+				"name": "니현식",
+				"screen_name": "maidsuck",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 247,
+				"friends_count": 145,
+				"listed_count": 3,
+				"created_at": "Mon Dec 01 12:54:39 +0000 2014",
+				"favourites_count": 58,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3313,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798142641464451078/X3RSq8lz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798142641464451078/X3RSq8lz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2915583102/1477392594",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 44,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Mar 14 14:49:37 +0000 2017",
+		"id": 841662608159719400,
+		"id_str": "841662608159719424",
+		"text": "RT @maidsuck: 이런 케모노 프렌즈 엔딩은 싫어...! https://t.co/dEYVgL7li7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "maidsuck",
+					"name": "니현식",
+					"id": 2915583102,
+					"id_str": "2915583102",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 841654873376608300,
+					"id_str": "841654873376608256",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/C64opecW0AAqjLt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C64opecW0AAqjLt.jpg",
+					"url": "https://t.co/dEYVgL7li7",
+					"display_url": "pic.twitter.com/dEYVgL7li7",
+					"expanded_url": "https://twitter.com/maidsuck/status/841655135830867968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 947,
+							"h": 1592,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 714,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 404,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 841655135830868000,
+					"source_status_id_str": "841655135830867968",
+					"source_user_id": 2915583102,
+					"source_user_id_str": "2915583102"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 841654873376608300,
+					"id_str": "841654873376608256",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/C64opecW0AAqjLt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C64opecW0AAqjLt.jpg",
+					"url": "https://t.co/dEYVgL7li7",
+					"display_url": "pic.twitter.com/dEYVgL7li7",
+					"expanded_url": "https://twitter.com/maidsuck/status/841655135830867968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 947,
+							"h": 1592,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 714,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 404,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 841655135830868000,
+					"source_status_id_str": "841655135830867968",
+					"source_user_id": 2915583102,
+					"source_user_id_str": "2915583102"
+				},
+				{
+					"id": 841654884399231000,
+					"id_str": "841654884399230976",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/C64oqHgWsAAPH-5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C64oqHgWsAAPH-5.jpg",
+					"url": "https://t.co/dEYVgL7li7",
+					"display_url": "pic.twitter.com/dEYVgL7li7",
+					"expanded_url": "https://twitter.com/maidsuck/status/841655135830867968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 947,
+							"h": 533,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 947,
+							"h": 533,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 841655135830868000,
+					"source_status_id_str": "841655135830867968",
+					"source_user_id": 2915583102,
+					"source_user_id_str": "2915583102"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 68,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1021,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8868,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 14 14:19:56 +0000 2017",
+			"id": 841655135830868000,
+			"id_str": "841655135830867968",
+			"text": "이런 케모노 프렌즈 엔딩은 싫어...! https://t.co/dEYVgL7li7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 841654873376608300,
+						"id_str": "841654873376608256",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/C64opecW0AAqjLt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C64opecW0AAqjLt.jpg",
+						"url": "https://t.co/dEYVgL7li7",
+						"display_url": "pic.twitter.com/dEYVgL7li7",
+						"expanded_url": "https://twitter.com/maidsuck/status/841655135830867968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 947,
+								"h": 1592,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 714,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 404,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 841654873376608300,
+						"id_str": "841654873376608256",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/C64opecW0AAqjLt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C64opecW0AAqjLt.jpg",
+						"url": "https://t.co/dEYVgL7li7",
+						"display_url": "pic.twitter.com/dEYVgL7li7",
+						"expanded_url": "https://twitter.com/maidsuck/status/841655135830867968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 947,
+								"h": 1592,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 714,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 404,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 841654884399231000,
+						"id_str": "841654884399230976",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/C64oqHgWsAAPH-5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C64oqHgWsAAPH-5.jpg",
+						"url": "https://t.co/dEYVgL7li7",
+						"display_url": "pic.twitter.com/dEYVgL7li7",
+						"expanded_url": "https://twitter.com/maidsuck/status/841655135830867968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 947,
+								"h": 533,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 947,
+								"h": 533,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2915583102,
+				"id_str": "2915583102",
+				"name": "니현식",
+				"screen_name": "maidsuck",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 247,
+				"friends_count": 145,
+				"listed_count": 3,
+				"created_at": "Mon Dec 01 12:54:39 +0000 2014",
+				"favourites_count": 58,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3313,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798142641464451078/X3RSq8lz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798142641464451078/X3RSq8lz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2915583102/1477392594",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 44,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Mar 14 14:47:48 +0000 2017",
+		"id": 841662149772640300,
+		"id_str": "841662149772640256",
+		"text": "「シン・ゴジラ」は、「『ニュータイプの日本浪漫派』映画かもしれない」と警鐘を鳴らす。https://t.co/kcBGy6jgry\n\n신 고질라의 '국뽕'을 지적한 글이 나왔네요. 사카가미가 지적한 16년도 창작자들의 포지티브한 '전향'과 함께 보면 의미심장.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kcBGy6jgry",
+					"expanded_url": "http://mainichi.jp/articles/20170314/dde/012/070/013000c",
+					"display_url": "mainichi.jp/articles/20170…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 841661677208653800,
+		"in_reply_to_status_id_str": "841661677208653825",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 68,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1021,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8868,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Tue Mar 14 14:45:55 +0000 2017",
+		"id": 841661677208653800,
+		"id_str": "841661677208653825",
+		"text": "「反安保関連法で国会前デモに参加した若者たちさえ、『シン・ゴジラ』を見ると、（対ゴジラの）政府の対策本部を運動団体の理想像のように思った」。左右の思想的立場を問わず、誰をも「頑張れニッポン」と一致させてしまう",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 839399843642519600,
+		"in_reply_to_status_id_str": "839399843642519553",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 68,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1021,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8868,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Tue Mar 14 14:29:47 +0000 2017",
+		"id": 841657617177010200,
+		"id_str": "841657617177010176",
+		"text": "너무 명문이라서 영구 보존을. 이만큼 현대 일상계 오타쿠의 심리를 잘 보여준 글이 또 있었을까 싶을 정도네요 (...\nhttps://t.co/xz7u6wvmES",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xz7u6wvmES",
+					"expanded_url": "http://archive.is/YKiYL",
+					"display_url": "archive.is/YKiYL",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 841654625954590700,
+		"in_reply_to_status_id_str": "841654625954590720",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 68,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1021,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8868,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Mar 14 14:17:54 +0000 2017",
+		"id": 841654625954590700,
+		"id_str": "841654625954590720",
+		"text": "케모노 프렌즈 최종화는 어떻게 되는 걸까......\nhttps://t.co/kh6MjXyEyo\n닥치고 케모노 프렌즈 엔딩은 이래야 함\nhttps://t.co/1QWyV0dCLO\n\n너무 공감해서 울었어요.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kh6MjXyEyo",
+					"expanded_url": "http://hrdsk.egloos.com/1449029",
+					"display_url": "hrdsk.egloos.com/1449029",
+					"indices": [
+						29,
+						52
+					]
+				},
+				{
+					"url": "https://t.co/1QWyV0dCLO",
+					"expanded_url": "http://chinopapa.egloos.com/3197705",
+					"display_url": "chinopapa.egloos.com/3197705",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 68,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1021,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8868,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Mar 13 18:03:00 +0000 2017",
 		"id": 841348885087965200,
 		"id_str": "841348885087965184",
