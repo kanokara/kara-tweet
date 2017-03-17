@@ -1,6 +1,481 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Fri Mar 17 11:53:32 +0000 2017",
+		"id": 842705457420550100,
+		"id_str": "842705457420550145",
+		"text": "근대 동양의 미의식이 서구 문물을 수용하고 그들을 동경하는 것에 따라 변화한 사실도 지적되어야겠죠. 이건 현재진행형.\nhttps://t.co/PyPRR2YzV9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PyPRR2YzV9",
+					"expanded_url": "https://twitter.com/dvddog/status/842703872174960641",
+					"display_url": "twitter.com/dvddog/status/…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 69,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1019,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8933,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 842703872174960600,
+		"quoted_status_id_str": "842703872174960641",
+		"quoted_status": {
+			"created_at": "Fri Mar 17 11:47:14 +0000 2017",
+			"id": 842703872174960600,
+			"id_str": "842703872174960641",
+			"text": "꼭 그렇지만은 않다고 생각하는데, 모에체는 일본의 순정만화(소녀만화)에서 왔고 일본순정만화는 70년대엔 서구적 얼굴을 지향했음. 현재에 있어서 그러한 서구지향적 성향은 거의 남지않았다 정도만 언급하면 될 듯.\nhttps://t.co/nZcMS9SwgG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 819145059022958600,
+						"id_str": "819145059022958592",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/C14wF1aUcAAAiiN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C14wF1aUcAAAiiN.jpg",
+						"url": "https://t.co/nZcMS9SwgG",
+						"display_url": "pic.twitter.com/nZcMS9SwgG",
+						"expanded_url": "https://twitter.com/ciotan/status/819145073392615424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 414,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 731,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1248,
+								"h": 2048,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 819145073392615400,
+						"source_status_id_str": "819145073392615424",
+						"source_user_id": 95479304,
+						"source_user_id_str": "95479304"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 819145059022958600,
+						"id_str": "819145059022958592",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/C14wF1aUcAAAiiN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C14wF1aUcAAAiiN.jpg",
+						"url": "https://t.co/nZcMS9SwgG",
+						"display_url": "pic.twitter.com/nZcMS9SwgG",
+						"expanded_url": "https://twitter.com/ciotan/status/819145073392615424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 414,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 731,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1248,
+								"h": 2048,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 819145073392615400,
+						"source_status_id_str": "819145073392615424",
+						"source_user_id": 95479304,
+						"source_user_id_str": "95479304"
+					},
+					{
+						"id": 819145059022970900,
+						"id_str": "819145059022970880",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/C14wF1aUoAArNws.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C14wF1aUoAArNws.jpg",
+						"url": "https://t.co/nZcMS9SwgG",
+						"display_url": "pic.twitter.com/nZcMS9SwgG",
+						"expanded_url": "https://twitter.com/ciotan/status/819145073392615424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1212,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 710,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 402,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 819145073392615400,
+						"source_status_id_str": "819145073392615424",
+						"source_user_id": 95479304,
+						"source_user_id_str": "95479304"
+					},
+					{
+						"id": 819145059035582500,
+						"id_str": "819145059035582464",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/C14wF1dVEAA2d3M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C14wF1dVEAA2d3M.jpg",
+						"url": "https://t.co/nZcMS9SwgG",
+						"display_url": "pic.twitter.com/nZcMS9SwgG",
+						"expanded_url": "https://twitter.com/ciotan/status/819145073392615424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 392,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1180,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 691,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 819145073392615400,
+						"source_status_id_str": "819145073392615424",
+						"source_user_id": 95479304,
+						"source_user_id_str": "95479304"
+					},
+					{
+						"id": 819145059022999600,
+						"id_str": "819145059022999552",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/C14wF1aVEAA-off.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C14wF1aVEAA-off.jpg",
+						"url": "https://t.co/nZcMS9SwgG",
+						"display_url": "pic.twitter.com/nZcMS9SwgG",
+						"expanded_url": "https://twitter.com/ciotan/status/819145073392615424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1483,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 869,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 492,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 819145073392615400,
+						"source_status_id_str": "819145073392615424",
+						"source_user_id": 95479304,
+						"source_user_id_str": "95479304"
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3138788114,
+				"id_str": "3138788114",
+				"name": "데이비드 댕댕이",
+				"screen_name": "dvddog",
+				"location": "세이셸",
+				"description": "개점휴업 희망중",
+				"url": "https://t.co/9mpfiKtEof",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9mpfiKtEof",
+								"expanded_url": "http://noobcoela.egloos.com/",
+								"display_url": "noobcoela.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 431,
+				"friends_count": 91,
+				"listed_count": 19,
+				"created_at": "Sat Apr 04 10:07:10 +0000 2015",
+				"favourites_count": 1444,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 119860,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/770318031536873472/uah0wkr5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3138788114/1447160790",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Mar 17 11:40:21 +0000 2017",
+		"id": 842702138832695300,
+		"id_str": "842702138832695296",
+		"text": "@dvddog 근데 왜 갑자기 고유명에 꽂히신 거예요? 별로 이쪽에 관심 없으실 느낌이었는데.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dvddog",
+					"name": "데이비드 댕댕이",
+					"id": 3138788114,
+					"id_str": "3138788114",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 842693159729553400,
+		"in_reply_to_status_id_str": "842693159729553408",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 69,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1019,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8933,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Mar 17 11:07:44 +0000 2017",
 		"id": 842693932785975300,
 		"id_str": "842693932785975296",
