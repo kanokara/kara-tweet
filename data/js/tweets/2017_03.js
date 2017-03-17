@@ -1,6 +1,396 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Fri Mar 17 05:21:00 +0000 2017",
+		"id": 842606671918587900,
+		"id_str": "842606671918587904",
+		"text": "RT @yuri_fair: 百合展2017、明日から開催！\n👉　https://t.co/J9zfMrP253         　#百合展 https://t.co/ai9EM4c74o",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "百合展",
+					"indices": [
+						66,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yuri_fair",
+					"name": "百合展2017＠ヴィレッジヴァンガード",
+					"id": 720521175869321200,
+					"id_str": "720521175869321217",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/J9zfMrP253",
+					"expanded_url": "http://www.yuriten.com/2017/event/",
+					"display_url": "yuriten.com/2017/event/",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 842532339104149500,
+					"id_str": "842532339104149505",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/C7FGstAU8AEfOlD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C7FGstAU8AEfOlD.jpg",
+					"url": "https://t.co/ai9EM4c74o",
+					"display_url": "pic.twitter.com/ai9EM4c74o",
+					"expanded_url": "https://twitter.com/yuri_fair/status/842532412257001472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 780,
+							"h": 780,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 780,
+							"h": 780,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 842532412257001500,
+					"source_status_id_str": "842532412257001472",
+					"source_user_id": 720521175869321200,
+					"source_user_id_str": "720521175869321217"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 842532339104149500,
+					"id_str": "842532339104149505",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/C7FGstAU8AEfOlD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C7FGstAU8AEfOlD.jpg",
+					"url": "https://t.co/ai9EM4c74o",
+					"display_url": "pic.twitter.com/ai9EM4c74o",
+					"expanded_url": "https://twitter.com/yuri_fair/status/842532412257001472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 780,
+							"h": 780,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 780,
+							"h": 780,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 842532412257001500,
+					"source_status_id_str": "842532412257001472",
+					"source_user_id": 720521175869321200,
+					"source_user_id_str": "720521175869321217"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 69,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1019,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8927,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 17 00:25:55 +0000 2017",
+			"id": 842532412257001500,
+			"id_str": "842532412257001472",
+			"text": "百合展2017、明日から開催！\n👉　https://t.co/J9zfMrP253         　#百合展 https://t.co/ai9EM4c74o",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "百合展",
+						"indices": [
+							51,
+							55
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/J9zfMrP253",
+						"expanded_url": "http://www.yuriten.com/2017/event/",
+						"display_url": "yuriten.com/2017/event/",
+						"indices": [
+							18,
+							41
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 842532339104149500,
+						"id_str": "842532339104149505",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/C7FGstAU8AEfOlD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7FGstAU8AEfOlD.jpg",
+						"url": "https://t.co/ai9EM4c74o",
+						"display_url": "pic.twitter.com/ai9EM4c74o",
+						"expanded_url": "https://twitter.com/yuri_fair/status/842532412257001472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 780,
+								"h": 780,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 780,
+								"h": 780,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 842532339104149500,
+						"id_str": "842532339104149505",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/C7FGstAU8AEfOlD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7FGstAU8AEfOlD.jpg",
+						"url": "https://t.co/ai9EM4c74o",
+						"display_url": "pic.twitter.com/ai9EM4c74o",
+						"expanded_url": "https://twitter.com/yuri_fair/status/842532412257001472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 780,
+								"h": 780,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 780,
+								"h": 780,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 720521175869321200,
+				"id_str": "720521175869321217",
+				"name": "百合展2017＠ヴィレッジヴァンガード",
+				"screen_name": "yuri_fair",
+				"location": "",
+				"description": "ヴィレヴァン×百合の業界横断フェア「百合展」の公式twitterです。3/18（土）～3/26（日）＠池袋マルイ、4/1（土）～4/9（日）＠梅田ロフトで行われます。限定グッズはヴィレヴァン通販(https://t.co/OvYiUgdTPN)にて3/6（月）19時より先行予約開始。",
+				"url": "https://t.co/ofcDwM9c8m",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ofcDwM9c8m",
+								"expanded_url": "http://www.yuriten.com",
+								"display_url": "yuriten.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/OvYiUgdTPN",
+								"expanded_url": "http://vvstore.jp/feature/detail/7351/",
+								"display_url": "vvstore.jp/feature/detail…",
+								"indices": [
+									98,
+									121
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2647,
+				"friends_count": 37,
+				"listed_count": 27,
+				"created_at": "Thu Apr 14 07:56:49 +0000 2016",
+				"favourites_count": 26,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 144,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/827774737501679616/henDv5n3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/827774737501679616/henDv5n3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/720521175869321217/1486374036",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 89,
+			"favorite_count": 113,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Thu Mar 16 17:30:16 +0000 2017",
 		"id": 842427811700830200,
 		"id_str": "842427811700830209",
