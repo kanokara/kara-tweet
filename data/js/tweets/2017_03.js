@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Wed Mar 22 21:49:26 +0000 2017",
+		"id": 844667358367170600,
+		"id_str": "844667358367170560",
+		"text": "RT @kyunghyang: \"한국인들은 공권력 남용에 저항하는 공적 시위에는 능하지만 여전히 직장, 학교, 가정 등에서의 극단적인 위계를 통한 가혹 행위나 불평등을 받아들이고 있다.\"\nhttps://t.co/Ib24omtfuP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kyunghyang",
+					"name": "경향신문",
+					"id": 118720645,
+					"id_str": "118720645",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ib24omtfuP",
+					"expanded_url": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201703222216005&code=940100",
+					"display_url": "news.khan.co.kr/kh_news/khan_a…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 69,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1020,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9034,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 22 13:26:52 +0000 2017",
+			"id": 844540885807185900,
+			"id_str": "844540885807185920",
+			"text": "\"한국인들은 공권력 남용에 저항하는 공적 시위에는 능하지만 여전히 직장, 학교, 가정 등에서의 극단적인 위계를 통한 가혹 행위나 불평등을 받아들이고 있다.\"\nhttps://t.co/Ib24omtfuP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ib24omtfuP",
+						"expanded_url": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201703222216005&code=940100",
+						"display_url": "news.khan.co.kr/kh_news/khan_a…",
+						"indices": [
+							88,
+							111
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 118720645,
+				"id_str": "118720645",
+				"name": "경향신문",
+				"screen_name": "kyunghyang",
+				"location": "seoul",
+				"description": "경향신문의 뉴스를 새롭게 읽는 공간! 경향신문 공식 트위터 담당자 '향이'가 매일 실시간으로 소식을 전해드립니다. '향이'가 누구인지 궁금하시다면? 클릭! http://t.co/mGgY0Kae6e",
+				"url": "http://t.co/QZ93FMXTWW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/QZ93FMXTWW",
+								"expanded_url": "http://www.khan.co.kr/",
+								"display_url": "khan.co.kr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/mGgY0Kae6e",
+								"expanded_url": "http://khross.khan.kr/336",
+								"display_url": "khross.khan.kr/336",
+								"indices": [
+									87,
+									109
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 711545,
+				"friends_count": 92194,
+				"listed_count": 6902,
+				"created_at": "Mon Mar 01 15:15:28 +0000 2010",
+				"favourites_count": 59,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 55264,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F5FA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/588256198740152320/JJ1fYa5Z.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/588256198740152320/JJ1fYa5Z.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/721856699208830976/YpLhr-Oj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/721856699208830976/YpLhr-Oj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/118720645/1484289429",
+				"profile_link_color": "07B6EB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1143,
+			"favorite_count": 389,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1143,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Mar 22 21:26:15 +0000 2017",
+		"id": 844661524648116200,
+		"id_str": "844661524648116225",
+		"text": "신카이 마코토는 세카이계 비평에 묶인 바람에 오타컬처의 기수였던 것처럼 자주 오인이 일어나지만, 실은 오타컬쳐에서 소비되었다기엔 미야자키만큼이나 거리가 있고, 때문에 그를 두고 오타쿠적이라고 하거나 리얼충화되었다고 하는 언설은 잘 생각해보면 이상하죠.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 69,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1020,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9034,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Mar 22 19:15:13 +0000 2017",
 		"id": 844628548736364500,
 		"id_str": "844628548736364544",
