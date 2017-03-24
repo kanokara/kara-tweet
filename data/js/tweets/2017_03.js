@@ -1,6 +1,184 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Fri Mar 24 08:37:29 +0000 2017",
+		"id": 845192837171863600,
+		"id_str": "845192837171863552",
+		"text": "RT @MiraiMangaLabo: 塾長、星海社から出す新刊「角川書店とプラットフォームの時代」、書き下ろす体力がないので語り下ろし中。「おたくの精神史」「二階の住人とその時代」に続く80年代おたく文化史三部作完結編、らしいです。",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MiraiMangaLabo",
+					"name": "世界まんが塾@書籍『世界まんが塾』発売中",
+					"id": 389472806,
+					"id_str": "389472806",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 70,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1021,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9069,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 24 08:27:53 +0000 2017",
+			"id": 845190420208410600,
+			"id_str": "845190420208410625",
+			"text": "塾長、星海社から出す新刊「角川書店とプラットフォームの時代」、書き下ろす体力がないので語り下ろし中。「おたくの精神史」「二階の住人とその時代」に続く80年代おたく文化史三部作完結編、らしいです。",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 389472806,
+				"id_str": "389472806",
+				"name": "世界まんが塾@書籍『世界まんが塾』発売中",
+				"screen_name": "MiraiMangaLabo",
+				"location": "http://bit.ly/otsuka_eiji",
+				"description": "世界まんが塾歴代講師も北京やトゥールーズに海外赴任しました。しかし、2017年1月、MANGA laboと言うブランド名で再起動。アングレーム、北京と行き当たりばったり回ります。さらに「物語の学校」も意外な形で復活します。といつつこのまま、大塚英志塾長ら関係者の近況や思いつきの教材配信等を続けます。猫の写真とかも。",
+				"url": "https://t.co/HYQmbS9si8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HYQmbS9si8",
+								"expanded_url": "http://ch.nicovideo.jp/channel/mirai-manga-labo",
+								"display_url": "ch.nicovideo.jp/channel/mirai-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 374,
+				"friends_count": 81,
+				"listed_count": 23,
+				"created_at": "Wed Oct 12 13:48:25 +0000 2011",
+				"favourites_count": 1103,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1714,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/614484866193756162/mbP82-nt_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/614484866193756162/mbP82-nt_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/389472806/1485175024",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Fri Mar 24 06:04:01 +0000 2017",
 		"id": 845154212623233000,
 		"id_str": "845154212623233024",
