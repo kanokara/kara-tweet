@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Mon Mar 27 16:33:55 +0000 2017",
+		"id": 846399898404630500,
+		"id_str": "846399898404630528",
+		"text": "RT @khj69318: \"최근 미디어에서 가장 중요한 발견은 편견은 장사가 된다는 것이며 거짓을 말해도 누구도 개의치 않는다는 사실이다\". 이런 시대를 살아가기 위한 예술의 '용법'을, 신작을 발표한 브라이언 이노가 가르쳐 주었다. https://…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "khj69318",
+					"name": "한점",
+					"id": 2900191681,
+					"id_str": "2900191681",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 70,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1024,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9164,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 08 05:35:23 +0000 2017",
+			"id": 817967917820100600,
+			"id_str": "817967917820100609",
+			"text": "\"최근 미디어에서 가장 중요한 발견은 편견은 장사가 된다는 것이며 거짓을 말해도 누구도 개의치 않는다는 사실이다\". 이런 시대를 살아가기 위한 예술의 '용법'을, 신작을 발표한 브라이언 이노가 가르쳐 주었다. https://t.co/E4K0uQksm6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/E4K0uQksm6",
+						"expanded_url": "https://twitter.com/wired_jp/status/817706068939776000",
+						"display_url": "twitter.com/wired_jp/statu…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2900191681,
+				"id_str": "2900191681",
+				"name": "한점",
+				"screen_name": "khj69318",
+				"location": "",
+				"description": "Huh?",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 102,
+				"friends_count": 280,
+				"listed_count": 0,
+				"created_at": "Sat Nov 15 08:45:32 +0000 2014",
+				"favourites_count": 849,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3336,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/761071966862188545/TqJVtf9p_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/761071966862188545/TqJVtf9p_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2900191681/1469805792",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 817706068939776000,
+			"quoted_status_id_str": "817706068939776000",
+			"quoted_status": {
+				"created_at": "Sat Jan 07 12:14:53 +0000 2017",
+				"id": 817706068939776000,
+				"id_str": "817706068939776000",
+				"text": "「近年のメディアにおける最も重要な発見は、偏見は売れるということであり、嘘をいっても誰も気にしないということだ」。こんな時代を生きるためのアートの「使い方」を、新作を発表したブライアン・イーノが教えてくれた。https://t.co/5lv51aySJE",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/5lv51aySJE",
+							"expanded_url": "http://bit.ly/2jdFMRd",
+							"display_url": "bit.ly/2jdFMRd",
+							"indices": [
+								104,
+								127
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 9396072,
+					"id_str": "9396072",
+					"name": "WIRED.jp",
+					"screen_name": "wired_jp",
+					"location": "Tokyo, Japan",
+					"description": "ウェブ版WIRED.jpの最新記事やアーカイヴ記事だけでなく、年4回刊行の雑誌版の内容やイヴェント開催予定など、『WIRED』日本版に関するあらゆる情報をお伝えします。雑誌版最新号VOL.27「サイエンスのゆくえ」は好評発売中！",
+					"url": "http://t.co/b5qdzMyHAn",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/b5qdzMyHAn",
+									"expanded_url": "http://wired.jp",
+									"display_url": "wired.jp",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 319537,
+					"friends_count": 83,
+					"listed_count": 10104,
+					"created_at": "Fri Oct 12 04:16:31 +0000 2007",
+					"favourites_count": 14,
+					"utc_offset": 32400,
+					"time_zone": "Tokyo",
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 78535,
+					"lang": "ja",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F2F2F2",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/705909526/c9c711ce29cf426a904103f88c6e1929.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/705909526/c9c711ce29cf426a904103f88c6e1929.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/459203520072122368/iagE61JJ_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/459203520072122368/iagE61JJ_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/9396072/1486949897",
+					"profile_link_color": "009DE0",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "D2D2D2",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 427,
+				"favorite_count": 585,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "ja"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 817706068939776000,
+		"quoted_status_id_str": "817706068939776000",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Mar 27 15:08:01 +0000 2017",
 		"id": 846378280542388200,
 		"id_str": "846378280542388228",
