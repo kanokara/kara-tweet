@@ -1,6 +1,597 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Tue Mar 28 12:05:50 +0000 2017",
+		"id": 846694817975324700,
+		"id_str": "846694817975324672",
+		"text": "일본인들 책 참 예쁘게 잘 만들어..\nhttps://t.co/8WIbP5HsD6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8WIbP5HsD6",
+					"expanded_url": "https://twitter.com/shizu18986354/status/846659142475399168",
+					"display_url": "twitter.com/shizu18986354/…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 70,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1024,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9191,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 846659142475399200,
+		"quoted_status_id_str": "846659142475399168",
+		"quoted_status": {
+			"created_at": "Tue Mar 28 09:44:04 +0000 2017",
+			"id": 846659142475399200,
+			"id_str": "846659142475399168",
+			"text": "【入荷その６】\n藤田直哉「新世紀ゾンビ論　ゾンビとは、あなたであり、わたしである」(筑摩書房)\n國分功一郎「中動態の世界　意志と責任の考古学」(医学書院) https://t.co/bxatmj8uKu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 846658705030496300,
+						"id_str": "846658705030496256",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/C7_vmz9VwAAyYBy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7_vmz9VwAAyYBy.jpg",
+						"url": "https://t.co/bxatmj8uKu",
+						"display_url": "pic.twitter.com/bxatmj8uKu",
+						"expanded_url": "https://twitter.com/shizu18986354/status/846659142475399168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 846658705030496300,
+						"id_str": "846658705030496256",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/C7_vmz9VwAAyYBy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7_vmz9VwAAyYBy.jpg",
+						"url": "https://t.co/bxatmj8uKu",
+						"display_url": "pic.twitter.com/bxatmj8uKu",
+						"expanded_url": "https://twitter.com/shizu18986354/status/846659142475399168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4810738910,
+				"id_str": "4810738910",
+				"name": "ときわ書房志津ステーションビル店",
+				"screen_name": "shizu18986354",
+				"location": "千葉県 佐倉市",
+				"description": "京成電鉄志津駅すぐ傍の書店です。首都圏の片隅で何とかやっております。中の人の10%位は児童書担当松。残りは私HINO。 営業時間 9:00 ～ 22:00（日・祝のみ21:00まで） ヘッダー画像は印旛沼。撮影は当店と同じフロアの美容室DEAR柳沼陽一さんです。#ときわ志津佐倉文庫 #未来フェアat志津 ＃本日の注目本",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 844,
+				"friends_count": 1005,
+				"listed_count": 24,
+				"created_at": "Mon Jan 25 04:55:35 +0000 2016",
+				"favourites_count": 1565,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4322,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836701997751390209/Z1k84PL8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836701997751390209/Z1k84PL8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4810738910/1469114395",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Mar 28 12:03:03 +0000 2017",
+		"id": 846694118851981300,
+		"id_str": "846694118851981313",
+		"text": "어떤 사람의 윤리적인 행동에는 전혀 관심이 없고, 그가 거둔 성취에만 관심이 있는 터라 이런 식의 재단을 보면 종종 당혹스러움을 느끼네요.\nhttps://t.co/5nwXR2oM4i",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5nwXR2oM4i",
+					"expanded_url": "https://twitter.com/Mila____D/status/846671555039965184",
+					"display_url": "twitter.com/Mila____D/stat…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 70,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1024,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9191,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 846671555039965200,
+		"quoted_status_id_str": "846671555039965184",
+		"quoted_status": {
+			"created_at": "Tue Mar 28 10:33:23 +0000 2017",
+			"id": 846671555039965200,
+			"id_str": "846671555039965184",
+			"text": "다자이 오사무는, 가게 종업원과 연애를 했고 그 여자한테 같이 자살하자고 말해서 동반자살을 했다. 그 종업원은 죽었고, 다자이는 평생, 자괴감에 시달리며 소설을 썼지만 막상 소설에는 그의 괴로움만 써있을 뿐, 그녀에 대한 사과는 없었다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 846671080689328100,
+			"in_reply_to_status_id_str": "846671080689328128",
+			"in_reply_to_user_id": 701423471461425200,
+			"in_reply_to_user_id_str": "701423471461425152",
+			"in_reply_to_screen_name": "Mila____D",
+			"user": {
+				"id": 701423471461425200,
+				"id_str": "701423471461425152",
+				"name": "МиЛе(и)ди",
+				"screen_name": "Mila____D",
+				"location": "",
+				"description": "파프리카 학원 직원 / 아이마스 프로듀서 노조 소속 / 혼성그룹 나이츠 프로듀서 / GALAX 유저 /",
+				"url": "https://t.co/zbuT4PTrJN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zbuT4PTrJN",
+								"expanded_url": "http://kurorekishi.me/cleaner/getstarted",
+								"display_url": "kurorekishi.me/cleaner/getsta…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 460,
+				"friends_count": 189,
+				"listed_count": 7,
+				"created_at": "Sun Feb 21 15:09:22 +0000 2016",
+				"favourites_count": 1094,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16799,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/818150689985556480/HUhj8j_q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/818150689985556480/HUhj8j_q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/701423471461425152/1482208582",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 458,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Mar 28 11:25:35 +0000 2017",
+		"id": 846684688630464500,
+		"id_str": "846684688630464512",
+		"text": "RT @NyaNyaNyangC: 개인적으로 따끄로서 갸루게 하던 시절 제일 바랐던 게임은 '일상루트만 무한히 제공되는 게임'이었는데, 이 게임은 무한까지는 아니지만 적어도 장사하는 동안은 계속 그걸 제공할 테니, 그 욕망이 멀리 돌아 10년도 더 넘…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NyaNyaNyangC",
+					"name": "그냥 한량 냥냥씨",
+					"id": 3235646006,
+					"id_str": "3235646006",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 70,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1024,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9191,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 28 11:20:07 +0000 2017",
+			"id": 846683313570041900,
+			"id_str": "846683313570041856",
+			"text": "개인적으로 따끄로서 갸루게 하던 시절 제일 바랐던 게임은 '일상루트만 무한히 제공되는 게임'이었는데, 이 게임은 무한까지는 아니지만 적어도 장사하는 동안은 계속 그걸 제공할 테니, 그 욕망이 멀리 돌아 10년도 더 넘어서야 실현된 셈이다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 846682148774006800,
+			"in_reply_to_status_id_str": "846682148774006784",
+			"in_reply_to_user_id": 3235646006,
+			"in_reply_to_user_id_str": "3235646006",
+			"in_reply_to_screen_name": "NyaNyaNyangC",
+			"user": {
+				"id": 3235646006,
+				"id_str": "3235646006",
+				"name": "그냥 한량 냥냥씨",
+				"screen_name": "NyaNyaNyangC",
+				"location": "명예합중국",
+				"description": "나도 그림 그리는데 왜 안 알아줘 #광광\n...라고 말하는 정치계정. 솔까말 누가 여길 덕계정으로 보겠냐.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 790,
+				"friends_count": 661,
+				"listed_count": 18,
+				"created_at": "Thu Jun 04 03:14:06 +0000 2015",
+				"favourites_count": 2629,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 34385,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/837797768882094080/zH-PKDzg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/837797768882094080/zH-PKDzg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3235646006/1488604857",
+				"profile_link_color": "DD4460",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Mar 28 10:20:15 +0000 2017",
 		"id": 846668248200335400,
 		"id_str": "846668248200335360",
