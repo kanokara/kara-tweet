@@ -1,6 +1,819 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Tue Mar 28 13:44:03 +0000 2017",
+		"id": 846719534882947100,
+		"id_str": "846719534882947072",
+		"text": "무척 중요한 기사네요. 아키에 아베의 이해할 수 없던 행보를 짚으며 국외인으로서 일본 스피리추얼의 의미를 깨닫게 하는 기사.\nhttps://t.co/PGp2lrYNP5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PGp2lrYNP5",
+					"expanded_url": "https://twitter.com/naoya_fujita/status/846713997575434241",
+					"display_url": "twitter.com/naoya_fujita/s…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 70,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1024,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9194,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 846713997575434200,
+		"quoted_status_id_str": "846713997575434241",
+		"quoted_status": {
+			"created_at": "Tue Mar 28 13:22:02 +0000 2017",
+			"id": 846713997575434200,
+			"id_str": "846713997575434241",
+			"text": "「スピリチュアルな志向性が日本主義化する現象は、現代社会の中で広範に見られる」「ナチュラルとナショナル　日本主義に傾く危うさ　中島岳志:論壇時評:中日新聞(CHUNICHI Web) https://t.co/8BRvcLTpJ2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8BRvcLTpJ2",
+						"expanded_url": "http://www.chunichi.co.jp/article/feature/rondan/list/CK2017032802000224.html",
+						"display_url": "chunichi.co.jp/article/featur…",
+						"indices": [
+							92,
+							115
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15737772,
+				"id_str": "15737772",
+				"name": "藤田直哉@『新世紀ゾンビ論』発売。",
+				"screen_name": "naoya_fujita",
+				"location": "東京都 北区",
+				"description": "SF・文芸評論家 博士（学術）二松学舎大学、和光大学非常勤講師。 クラウドファンディングご支援お待ちしています。 編著『東日本大震災後文学論』『地域アート』、単著『新世紀ゾンビ論』『虚構内存在』『シン・ゴジラ論』mugitya80000@yahoo.co.jp",
+				"url": "https://t.co/nKEuB9wosU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nKEuB9wosU",
+								"expanded_url": "http://d.hatena.ne.jp/naoya_fujita/",
+								"display_url": "d.hatena.ne.jp/naoya_fujita/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9720,
+				"friends_count": 9418,
+				"listed_count": 761,
+				"created_at": "Tue Aug 05 16:04:48 +0000 2008",
+				"favourites_count": 6082,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 40074,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555370739562328064/3tjRDib5.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/555370739562328064/3tjRDib5.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/844906579036024832/Tk3xttP__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/844906579036024832/Tk3xttP__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15737772/1488770512",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Mar 28 13:32:53 +0000 2017",
+		"id": 846716725500424200,
+		"id_str": "846716725500424192",
+		"text": "RT @naoya_fujita: 「政治思想」や「イデオロギー」ってのは、観念的で言語的なものだけをイメージしやすいけど、もっと身体や生活に根ざしているもので。当人にとっては自然で自明で常識で普通なものとして身体化されている場合が多い。しかし、それは他者から見れば異質な異物に…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "naoya_fujita",
+					"name": "藤田直哉@『新世紀ゾンビ論』発売。",
+					"id": 15737772,
+					"id_str": "15737772",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 70,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1024,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9194,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 28 13:24:57 +0000 2017",
+			"id": 846714730551033900,
+			"id_str": "846714730551033856",
+			"text": "「政治思想」や「イデオロギー」ってのは、観念的で言語的なものだけをイメージしやすいけど、もっと身体や生活に根ざしているもので。当人にとっては自然で自明で常識で普通なものとして身体化されている場合が多い。しかし、それは他者から見れば異質な異物に見える。お互いに。",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15737772,
+				"id_str": "15737772",
+				"name": "藤田直哉@『新世紀ゾンビ論』発売。",
+				"screen_name": "naoya_fujita",
+				"location": "東京都 北区",
+				"description": "SF・文芸評論家 博士（学術）二松学舎大学、和光大学非常勤講師。 クラウドファンディングご支援お待ちしています。 編著『東日本大震災後文学論』『地域アート』、単著『新世紀ゾンビ論』『虚構内存在』『シン・ゴジラ論』mugitya80000@yahoo.co.jp",
+				"url": "https://t.co/nKEuB9wosU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nKEuB9wosU",
+								"expanded_url": "http://d.hatena.ne.jp/naoya_fujita/",
+								"display_url": "d.hatena.ne.jp/naoya_fujita/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9720,
+				"friends_count": 9418,
+				"listed_count": 761,
+				"created_at": "Tue Aug 05 16:04:48 +0000 2008",
+				"favourites_count": 6082,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 40074,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555370739562328064/3tjRDib5.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/555370739562328064/3tjRDib5.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/844906579036024832/Tk3xttP__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/844906579036024832/Tk3xttP__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15737772/1488770512",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "03060ba847e52dcd",
+				"url": "https://api.twitter.com/1.1/geo/id/03060ba847e52dcd.json",
+				"place_type": "city",
+				"name": "北区",
+				"full_name": "東京 北区",
+				"country_code": "JP",
+				"country": "일본",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								139.689097,
+								35.731709
+							],
+							[
+								139.77079,
+								35.731709
+							],
+							[
+								139.77079,
+								35.798671
+							],
+							[
+								139.689097,
+								35.798671
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Tue Mar 28 13:32:48 +0000 2017",
+		"id": 846716706047180800,
+		"id_str": "846716706047180805",
+		"text": "RT @naoya_fujita: 昭恵さんを「天然」だからイデオロギーがない、政治思想ではないと主張する言説に、ずっと違和感があった。イデオロギーについて勘違いしているのではないかと。「自然」をいいと感じるか考えるかもイデオロギーだし、イデオロギーって当人には「自然」なもので…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "naoya_fujita",
+					"name": "藤田直哉@『新世紀ゾンビ論』発売。",
+					"id": 15737772,
+					"id_str": "15737772",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 70,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1024,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9194,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 28 13:23:08 +0000 2017",
+			"id": 846714273501974500,
+			"id_str": "846714273501974528",
+			"text": "昭恵さんを「天然」だからイデオロギーがない、政治思想ではないと主張する言説に、ずっと違和感があった。イデオロギーについて勘違いしているのではないかと。「自然」をいいと感じるか考えるかもイデオロギーだし、イデオロギーって当人には「自然」なものである場合も多い。",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15737772,
+				"id_str": "15737772",
+				"name": "藤田直哉@『新世紀ゾンビ論』発売。",
+				"screen_name": "naoya_fujita",
+				"location": "東京都 北区",
+				"description": "SF・文芸評論家 博士（学術）二松学舎大学、和光大学非常勤講師。 クラウドファンディングご支援お待ちしています。 編著『東日本大震災後文学論』『地域アート』、単著『新世紀ゾンビ論』『虚構内存在』『シン・ゴジラ論』mugitya80000@yahoo.co.jp",
+				"url": "https://t.co/nKEuB9wosU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nKEuB9wosU",
+								"expanded_url": "http://d.hatena.ne.jp/naoya_fujita/",
+								"display_url": "d.hatena.ne.jp/naoya_fujita/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9720,
+				"friends_count": 9418,
+				"listed_count": 761,
+				"created_at": "Tue Aug 05 16:04:48 +0000 2008",
+				"favourites_count": 6082,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 40074,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555370739562328064/3tjRDib5.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/555370739562328064/3tjRDib5.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/844906579036024832/Tk3xttP__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/844906579036024832/Tk3xttP__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15737772/1488770512",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "03060ba847e52dcd",
+				"url": "https://api.twitter.com/1.1/geo/id/03060ba847e52dcd.json",
+				"place_type": "city",
+				"name": "北区",
+				"full_name": "東京 北区",
+				"country_code": "JP",
+				"country": "일본",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								139.689097,
+								35.731709
+							],
+							[
+								139.77079,
+								35.731709
+							],
+							[
+								139.77079,
+								35.798671
+							],
+							[
+								139.689097,
+								35.798671
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Tue Mar 28 13:32:30 +0000 2017",
+		"id": 846716628377100300,
+		"id_str": "846716628377100288",
+		"text": "RT @naoya_fujita: 「スピリチュアルな志向性が日本主義化する現象は、現代社会の中で広範に見られる」「ナチュラルとナショナル　日本主義に傾く危うさ　中島岳志:論壇時評:中日新聞(CHUNICHI Web) https://t.co/8BRvcLTpJ2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "naoya_fujita",
+					"name": "藤田直哉@『新世紀ゾンビ論』発売。",
+					"id": 15737772,
+					"id_str": "15737772",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8BRvcLTpJ2",
+					"expanded_url": "http://www.chunichi.co.jp/article/feature/rondan/list/CK2017032802000224.html",
+					"display_url": "chunichi.co.jp/article/featur…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 70,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1024,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9194,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 28 13:22:02 +0000 2017",
+			"id": 846713997575434200,
+			"id_str": "846713997575434241",
+			"text": "「スピリチュアルな志向性が日本主義化する現象は、現代社会の中で広範に見られる」「ナチュラルとナショナル　日本主義に傾く危うさ　中島岳志:論壇時評:中日新聞(CHUNICHI Web) https://t.co/8BRvcLTpJ2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8BRvcLTpJ2",
+						"expanded_url": "http://www.chunichi.co.jp/article/feature/rondan/list/CK2017032802000224.html",
+						"display_url": "chunichi.co.jp/article/featur…",
+						"indices": [
+							92,
+							115
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15737772,
+				"id_str": "15737772",
+				"name": "藤田直哉@『新世紀ゾンビ論』発売。",
+				"screen_name": "naoya_fujita",
+				"location": "東京都 北区",
+				"description": "SF・文芸評論家 博士（学術）二松学舎大学、和光大学非常勤講師。 クラウドファンディングご支援お待ちしています。 編著『東日本大震災後文学論』『地域アート』、単著『新世紀ゾンビ論』『虚構内存在』『シン・ゴジラ論』mugitya80000@yahoo.co.jp",
+				"url": "https://t.co/nKEuB9wosU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nKEuB9wosU",
+								"expanded_url": "http://d.hatena.ne.jp/naoya_fujita/",
+								"display_url": "d.hatena.ne.jp/naoya_fujita/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9720,
+				"friends_count": 9418,
+				"listed_count": 761,
+				"created_at": "Tue Aug 05 16:04:48 +0000 2008",
+				"favourites_count": 6082,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 40074,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/555370739562328064/3tjRDib5.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/555370739562328064/3tjRDib5.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/844906579036024832/Tk3xttP__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/844906579036024832/Tk3xttP__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15737772/1488770512",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Tue Mar 28 12:05:50 +0000 2017",
 		"id": 846694817975324700,
 		"id_str": "846694817975324672",
