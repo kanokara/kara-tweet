@@ -1,6 +1,182 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Wed Mar 29 15:45:33 +0000 2017",
+		"id": 847112500223119400,
+		"id_str": "847112500223119364",
+		"text": "RT @transdescendent: RT) 사실 이 '포스트 권위주의' 사회라는 문제는 일본의 독특한 공동체주의자인 우치다 타츠루가 &lt;어른 없는 사회&gt; (원제: &lt;거리의 공동체론&gt;)에서 직접적으로 다루는 토픽인데, 섬세하게 읽을 필요가 있다. ht…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "transdescendent",
+					"name": "horschamp",
+					"id": 339278826,
+					"id_str": "339278826",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 70,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1030,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9194,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 29 15:32:46 +0000 2017",
+			"id": 847109285041528800,
+			"id_str": "847109285041528832",
+			"text": "RT) 사실 이 '포스트 권위주의' 사회라는 문제는 일본의 독특한 공동체주의자인 우치다 타츠루가 &lt;어른 없는 사회&gt; (원제: &lt;거리의 공동체론&gt;)에서 직접적으로 다루는 토픽인데, 섬세하게 읽을 필요가 있다. https://t.co/1cvyd9cv2J",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1cvyd9cv2J",
+						"expanded_url": "http://aldin.co.kr/shop/common/wbook_talktalk.aspx?ISBN=8988613635&CommunityType=MyReview",
+						"display_url": "aldin.co.kr/shop/common/wb…",
+						"indices": [
+							128,
+							151
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 339278826,
+				"id_str": "339278826",
+				"name": "horschamp",
+				"screen_name": "transdescendent",
+				"location": "Seoul/Iowa/ὀμφαλός",
+				"description": "Art Critic/PhD(Cinematic Arts)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2179,
+				"friends_count": 2621,
+				"listed_count": 35,
+				"created_at": "Wed Jul 20 21:18:32 +0000 2011",
+				"favourites_count": 9146,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 29791,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/587692086410907648/rfnmtDd5.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/587692086410907648/rfnmtDd5.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/587694553563467776/0h78VBAq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/587694553563467776/0h78VBAq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/339278826/1428951939",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Mar 29 15:01:17 +0000 2017",
 		"id": 847101360822673400,
 		"id_str": "847101360822673410",
