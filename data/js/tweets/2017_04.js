@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sun Apr 02 08:11:13 +0000 2017",
+		"id": 848447716531159000,
+		"id_str": "848447716531159040",
+		"text": "https://t.co/xF3bTKoct4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xF3bTKoct4",
+					"expanded_url": "https://twitter.com/joujinakata123/status/848140878497566720",
+					"display_url": "twitter.com/joujinakata123…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1036,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9216,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 848140878497566700,
+		"quoted_status_id_str": "848140878497566720",
+		"quoted_status": {
+			"created_at": "Sat Apr 01 11:51:57 +0000 2017",
+			"id": 848140878497566700,
+			"id_str": "848140878497566720",
+			"text": "その闇を見ろ。\nそして己が名を思い出せ、両儀式… https://t.co/EqjM4e8wjN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 848140872793313300,
+						"id_str": "848140872793313281",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/media/C8UzoVJV0AEG8wR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8UzoVJV0AEG8wR.jpg",
+						"url": "https://t.co/EqjM4e8wjN",
+						"display_url": "pic.twitter.com/EqjM4e8wjN",
+						"expanded_url": "https://twitter.com/joujinakata123/status/848140878497566720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 355,
+								"h": 617,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 355,
+								"h": 617,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 355,
+								"h": 617,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 848140872793313300,
+						"id_str": "848140872793313281",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/media/C8UzoVJV0AEG8wR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8UzoVJV0AEG8wR.jpg",
+						"url": "https://t.co/EqjM4e8wjN",
+						"display_url": "pic.twitter.com/EqjM4e8wjN",
+						"expanded_url": "https://twitter.com/joujinakata123/status/848140878497566720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 355,
+								"h": 617,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 355,
+								"h": 617,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 355,
+								"h": 617,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 343286186,
+				"id_str": "343286186",
+				"name": "中田譲治",
+				"screen_name": "joujinakata123",
+				"location": "",
+				"description": "フォローして下さったのも何かの縁。ついでにヘルシング、巌窟王、ケロロ軍曹位はチェケラプリーズ。外画ならスリーハンドレッド、セックス・アンド・ザ・シティもね!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 281816,
+				"friends_count": 361,
+				"listed_count": 8554,
+				"created_at": "Wed Jul 27 10:05:10 +0000 2011",
+				"favourites_count": 2794,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 44597,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/839827302913466368/balr-v5c_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/839827302913466368/balr-v5c_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/343286186/1489886424",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1636,
+			"favorite_count": 2832,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sun Apr 02 06:28:57 +0000 2017",
 		"id": 848421979254267900,
 		"id_str": "848421979254267904",
