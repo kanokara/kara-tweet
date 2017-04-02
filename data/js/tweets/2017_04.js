@@ -1,6 +1,1036 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sun Apr 02 06:28:57 +0000 2017",
+		"id": 848421979254267900,
+		"id_str": "848421979254267904",
+		"text": "RT @Bloomers_Suki: 더할나위 없이 소중한. 나와 닮은 너는 혼자서도 괜찮아. 그러니까 그저 앞을 보고 펼쳐진 길을 달려가. 가끔씩은 둘이서 얘기하자. 싫은 일을 전부 털어놓자. 스페셜한 어드바이스는 똑똑히 들어. 기쁜 일이 있으면 보고…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bloomers_Suki",
+					"name": "씁",
+					"id": 220722651,
+					"id_str": "220722651",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1035,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9215,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 02 06:10:30 +0000 2017",
+			"id": 848417334590980100,
+			"id_str": "848417334590980096",
+			"text": "더할나위 없이 소중한. 나와 닮은 너는 혼자서도 괜찮아. 그러니까 그저 앞을 보고 펼쳐진 길을 달려가. 가끔씩은 둘이서 얘기하자. 싫은 일을 전부 털어놓자. 스페셜한 어드바이스는 똑똑히 들어. 기쁜 일이 있… https://t.co/PDBF9SBu7Y",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PDBF9SBu7Y",
+						"expanded_url": "https://twitter.com/i/web/status/848417334590980096",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 848415402249994200,
+			"in_reply_to_status_id_str": "848415402249994240",
+			"in_reply_to_user_id": 220722651,
+			"in_reply_to_user_id_str": "220722651",
+			"in_reply_to_screen_name": "Bloomers_Suki",
+			"user": {
+				"id": 220722651,
+				"id_str": "220722651",
+				"name": "씁",
+				"screen_name": "Bloomers_Suki",
+				"location": "방과후 체육창고",
+				"description": "하루하루가 흑역사\r\nC= C= C= C= C= C= ┌(；*'ω'*)┘",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 539,
+				"friends_count": 158,
+				"listed_count": 13,
+				"created_at": "Sun Nov 28 17:08:00 +0000 2010",
+				"favourites_count": 1006,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 62614,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/676512366/421530a048f842a2e6d0913feec76dfa.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/676512366/421530a048f842a2e6d0913feec76dfa.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/749508843059580928/wQGMxEwi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/749508843059580928/wQGMxEwi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/220722651/1401347518",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Apr 02 06:26:38 +0000 2017",
+		"id": 848421398603112400,
+		"id_str": "848421398603112448",
+		"text": "RT @secret_222: #サーバルちゃんの画像をアップすると近い構図のサーバルキャットの画像が送られてくる https://t.co/LNCNuU9GPG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "サーバルちゃんの画像をアップすると近い構図のサーバルキャットの画像が送られてくる",
+					"indices": [
+						16,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "secret_222",
+					"name": "シークレット™4月",
+					"id": 113041664,
+					"id_str": "113041664",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 847629296273285100,
+					"id_str": "847629296273285120",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/C8NiWqGVYAA2I11.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8NiWqGVYAA2I11.jpg",
+					"url": "https://t.co/LNCNuU9GPG",
+					"display_url": "pic.twitter.com/LNCNuU9GPG",
+					"expanded_url": "https://twitter.com/secret_222/status/847629318087860224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1136,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1136,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 847629318087860200,
+					"source_status_id_str": "847629318087860224",
+					"source_user_id": 113041664,
+					"source_user_id_str": "113041664"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 847629296273285100,
+					"id_str": "847629296273285120",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/C8NiWqGVYAA2I11.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8NiWqGVYAA2I11.jpg",
+					"url": "https://t.co/LNCNuU9GPG",
+					"display_url": "pic.twitter.com/LNCNuU9GPG",
+					"expanded_url": "https://twitter.com/secret_222/status/847629318087860224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1136,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1136,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 847629318087860200,
+					"source_status_id_str": "847629318087860224",
+					"source_user_id": 113041664,
+					"source_user_id_str": "113041664"
+				},
+				{
+					"id": 847629309585924100,
+					"id_str": "847629309585924097",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/C8NiXbsUIAE886W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8NiXbsUIAE886W.jpg",
+					"url": "https://t.co/LNCNuU9GPG",
+					"display_url": "pic.twitter.com/LNCNuU9GPG",
+					"expanded_url": "https://twitter.com/secret_222/status/847629318087860224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 847629318087860200,
+					"source_status_id_str": "847629318087860224",
+					"source_user_id": 113041664,
+					"source_user_id_str": "113041664"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1035,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9215,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 31 01:59:12 +0000 2017",
+			"id": 847629318087860200,
+			"id_str": "847629318087860224",
+			"text": "#サーバルちゃんの画像をアップすると近い構図のサーバルキャットの画像が送られてくる https://t.co/LNCNuU9GPG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "サーバルちゃんの画像をアップすると近い構図のサーバルキャットの画像が送られてくる",
+						"indices": [
+							0,
+							41
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 847629296273285100,
+						"id_str": "847629296273285120",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/C8NiWqGVYAA2I11.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8NiWqGVYAA2I11.jpg",
+						"url": "https://t.co/LNCNuU9GPG",
+						"display_url": "pic.twitter.com/LNCNuU9GPG",
+						"expanded_url": "https://twitter.com/secret_222/status/847629318087860224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1136,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1136,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 847629296273285100,
+						"id_str": "847629296273285120",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/C8NiWqGVYAA2I11.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8NiWqGVYAA2I11.jpg",
+						"url": "https://t.co/LNCNuU9GPG",
+						"display_url": "pic.twitter.com/LNCNuU9GPG",
+						"expanded_url": "https://twitter.com/secret_222/status/847629318087860224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1136,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1136,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 847629309585924100,
+						"id_str": "847629309585924097",
+						"indices": [
+							42,
+							65
+						],
+						"media_url": "http://pbs.twimg.com/media/C8NiXbsUIAE886W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8NiXbsUIAE886W.jpg",
+						"url": "https://t.co/LNCNuU9GPG",
+						"display_url": "pic.twitter.com/LNCNuU9GPG",
+						"expanded_url": "https://twitter.com/secret_222/status/847629318087860224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 682,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 682,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 113041664,
+				"id_str": "113041664",
+				"name": "シークレット™4月",
+				"screen_name": "secret_222",
+				"location": "Tokorozawa.SAITAMA",
+				"description": "フォロワー数は多いですが、ごく普通のツイ廃会社員です。業務企画系の仕事で月の半分は出張しています。仕事疲れの癒しはアニメ、けいおん・ごちうさ・のんのんetcが好きです。艦これもやっています。アイコンはぬんぬ（@nunnu_zero）さんにプレゼントしてもらいました。イラストRTが多いです。（管理垢@KankoreRT)",
+				"url": "https://t.co/c4CZ7jrlKX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/c4CZ7jrlKX",
+								"expanded_url": "http://twpf.jp/secret_222",
+								"display_url": "twpf.jp/secret_222",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 175062,
+				"friends_count": 176660,
+				"listed_count": 436,
+				"created_at": "Wed Feb 10 14:20:55 +0000 2010",
+				"favourites_count": 166973,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 153833,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0084D",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000149849232/wt6s8Hi1.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000149849232/wt6s8Hi1.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/845276685322731520/-MmVccGE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/845276685322731520/-MmVccGE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/113041664/1421334340",
+				"profile_link_color": "3FB300",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2490,
+			"favorite_count": 2329,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2490,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sun Apr 02 06:26:16 +0000 2017",
+		"id": 848421303308566500,
+		"id_str": "848421303308566528",
+		"text": "@Bloomers_Suki 블락할 뻔...! (부들부들)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bloomers_Suki",
+					"name": "씁",
+					"id": 220722651,
+					"id_str": "220722651",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 848404538440663000,
+		"in_reply_to_status_id_str": "848404538440663040",
+		"in_reply_to_user_id": 220722651,
+		"in_reply_to_user_id_str": "220722651",
+		"in_reply_to_screen_name": "Bloomers_Suki",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1035,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9215,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Apr 02 06:20:44 +0000 2017",
+		"id": 848419911739228200,
+		"id_str": "848419911739228160",
+		"text": "RT @NEM0UTIS: 각 구성원이 창조한 인물의 역할수행에 기반한 네트워크를 통해 회화 및 서술 등의 다양한 매체로써 미시적 서사 구조의 다원성을 구축하는 사회적 창작의 한 형식.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NEM0UTIS",
+					"name": "ㅤ",
+					"id": 3493813219,
+					"id_str": "3493813219",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1035,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9215,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 16 07:01:06 +0000 2016",
+			"id": 798782932391325700,
+			"id_str": "798782932391325696",
+			"text": "각 구성원이 창조한 인물의 역할수행에 기반한 네트워크를 통해 회화 및 서술 등의 다양한 매체로써 미시적 서사 구조의 다원성을 구축하는 사회적 창작의 한 형식.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 798782759892197400,
+			"in_reply_to_status_id_str": "798782759892197376",
+			"in_reply_to_user_id": 3493813219,
+			"in_reply_to_user_id_str": "3493813219",
+			"in_reply_to_screen_name": "NEM0UTIS",
+			"user": {
+				"id": 3493813219,
+				"id_str": "3493813219",
+				"name": "ㅤ",
+				"screen_name": "NEM0UTIS",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8,
+				"friends_count": 49,
+				"listed_count": 0,
+				"created_at": "Tue Sep 08 14:16:19 +0000 2015",
+				"favourites_count": 3682,
+				"utc_offset": 7200,
+				"time_zone": "Rome",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 220,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/809786492780351488/8EIhaeEc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/809786492780351488/8EIhaeEc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3493813219/1482033512",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Apr 02 06:20:43 +0000 2017",
+		"id": 848419906882162700,
+		"id_str": "848419906882162688",
+		"text": "RT @NEM0UTIS: '자캐 커뮤'에 관한 연구 논문 써 보고 싶다. \n일정기간 일정 구성원이 창작에 참여하며 공유하는 하나의 거시적 서사 구조에서 파생되는 공시성을 바탕으로,",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NEM0UTIS",
+					"name": "ㅤ",
+					"id": 3493813219,
+					"id_str": "3493813219",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1035,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9215,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 16 07:00:25 +0000 2016",
+			"id": 798782759892197400,
+			"id_str": "798782759892197376",
+			"text": "'자캐 커뮤'에 관한 연구 논문 써 보고 싶다. \n일정기간 일정 구성원이 창작에 참여하며 공유하는 하나의 거시적 서사 구조에서 파생되는 공시성을 바탕으로,",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3493813219,
+				"id_str": "3493813219",
+				"name": "ㅤ",
+				"screen_name": "NEM0UTIS",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8,
+				"friends_count": 49,
+				"listed_count": 0,
+				"created_at": "Tue Sep 08 14:16:19 +0000 2015",
+				"favourites_count": 3682,
+				"utc_offset": 7200,
+				"time_zone": "Rome",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 220,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/809786492780351488/8EIhaeEc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/809786492780351488/8EIhaeEc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3493813219/1482033512",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Apr 02 04:08:56 +0000 2017",
 		"id": 848386741291462700,
 		"id_str": "848386741291462656",
