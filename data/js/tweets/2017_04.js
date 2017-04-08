@@ -1,6 +1,543 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sat Apr 08 07:52:07 +0000 2017",
+		"id": 850617235332845600,
+		"id_str": "850617235332845568",
+		"text": "RT @hiyokoya6: 井上明人／2016年度業績リスト\n井上明人／2016年度・業績リスト - Critique of Games メモと寸評\nhttps://t.co/DGZ6PaZ0vV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hiyokoya6",
+					"name": "Akito Inoue",
+					"id": 6189182,
+					"id_str": "6189182",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DGZ6PaZ0vV",
+					"expanded_url": "http://hiyokoya.hatenadiary.jp/entry/2017/04/07/210814",
+					"display_url": "hiyokoya.hatenadiary.jp/entry/2017/04/…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9329,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 07 12:08:42 +0000 2017",
+			"id": 850319421692182500,
+			"id_str": "850319421692182528",
+			"text": "井上明人／2016年度業績リスト\n井上明人／2016年度・業績リスト - Critique of Games メモと寸評\nhttps://t.co/DGZ6PaZ0vV",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DGZ6PaZ0vV",
+						"expanded_url": "http://hiyokoya.hatenadiary.jp/entry/2017/04/07/210814",
+						"display_url": "hiyokoya.hatenadiary.jp/entry/2017/04/…",
+						"indices": [
+							61,
+							84
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hatena.ne.jp/guide/twitter\" rel=\"nofollow\">Hatena</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6189182,
+				"id_str": "6189182",
+				"name": "Akito Inoue",
+				"screen_name": "hiyokoya6",
+				"location": "だいたい京都。ちょこちょこ東京。",
+				"description": "井上明人／ゲームについて考えたり、ゲーミフィケーションのプロジェクトをしています。最近、こんなの作りました https://t.co/qxaGPLvrhr",
+				"url": "https://t.co/w4sUCmoyib",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/w4sUCmoyib",
+								"expanded_url": "http://www.critiqueofgames.net",
+								"display_url": "critiqueofgames.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/qxaGPLvrhr",
+								"expanded_url": "http://www.critiqueofgames.net/chihobyo/",
+								"display_url": "critiqueofgames.net/chihobyo/",
+								"indices": [
+									54,
+									77
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1521,
+				"friends_count": 278,
+				"listed_count": 169,
+				"created_at": "Mon May 21 03:14:32 +0000 2007",
+				"favourites_count": 1018,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6188,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/115899986/twitter_normal.gif",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/115899986/twitter_normal.gif",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Sat Apr 08 07:20:28 +0000 2017",
+		"id": 850609269565083600,
+		"id_str": "850609269565083648",
+		"text": "RT @anbinrocker: 역사적으로 형성된 민주적 시민의 정치적 열정은 스스로의 힘으로 민주적 절차에 따라 권력을 축출. 하지만 그 열정은 아직 연대의식보다 각자의 정의감에 기초한 일시적 제휴 정도에 그쳐. '문자폭탄'을 둘러싼 갈등은 연대 없…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anbinrocker",
+					"name": "U보트 작전관 안빈락커(순실한 개)",
+					"id": 53655888,
+					"id_str": "53655888",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9329,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 08 07:11:37 +0000 2017",
+			"id": 850607042960040000,
+			"id_str": "850607042960039937",
+			"text": "역사적으로 형성된 민주적 시민의 정치적 열정은 스스로의 힘으로 민주적 절차에 따라 권력을 축출. 하지만 그 열정은 아직 연대의식보다 각자의 정의감에 기초한 일시적 제휴 정도에 그쳐. '문자폭탄'을 둘러싼 갈등은 연대 없는 정치적 열정의 과도기적 자아.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+			"in_reply_to_status_id": 850603991008333800,
+			"in_reply_to_status_id_str": "850603991008333826",
+			"in_reply_to_user_id": 53655888,
+			"in_reply_to_user_id_str": "53655888",
+			"in_reply_to_screen_name": "anbinrocker",
+			"user": {
+				"id": 53655888,
+				"id_str": "53655888",
+				"name": "U보트 작전관 안빈락커(순실한 개)",
+				"screen_name": "anbinrocker",
+				"location": "탐라해협",
+				"description": "가카의 마지막 충신",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6199,
+				"friends_count": 391,
+				"listed_count": 155,
+				"created_at": "Sat Jul 04 12:07:41 +0000 2009",
+				"favourites_count": 3868,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20592,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/556455593293008897/bus1sRxB_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/556455593293008897/bus1sRxB_normal.jpeg",
+				"profile_link_color": "25762E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Apr 08 07:20:25 +0000 2017",
+		"id": 850609260727631900,
+		"id_str": "850609260727631872",
+		"text": "RT @anbinrocker: 다만 이런 변화가 시민적 연대의 충분 조건이 되기에는 턱 없이 부족. 여전히 정치와 사회는 전방위적으로 양극화돼 있고 사회적 유대는 땅에 떨어졌으며 동료시민 간의 협력과 신뢰는 촛불연합 내에서도 지극히 불안정. 이 문제…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anbinrocker",
+					"name": "U보트 작전관 안빈락커(순실한 개)",
+					"id": 53655888,
+					"id_str": "53655888",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1046,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9329,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 08 06:59:29 +0000 2017",
+			"id": 850603991008333800,
+			"id_str": "850603991008333826",
+			"text": "다만 이런 변화가 시민적 연대의 충분 조건이 되기에는 턱 없이 부족. 여전히 정치와 사회는 전방위적으로 양극화돼 있고 사회적 유대는 땅에 떨어졌으며 동료시민 간의 협력과 신뢰는 촛불연합 내에서도 지극히 불안정. 이 문제의 해결이 앞으로의 정치적 과제.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+			"in_reply_to_status_id": 850602261218680800,
+			"in_reply_to_status_id_str": "850602261218680832",
+			"in_reply_to_user_id": 53655888,
+			"in_reply_to_user_id_str": "53655888",
+			"in_reply_to_screen_name": "anbinrocker",
+			"user": {
+				"id": 53655888,
+				"id_str": "53655888",
+				"name": "U보트 작전관 안빈락커(순실한 개)",
+				"screen_name": "anbinrocker",
+				"location": "탐라해협",
+				"description": "가카의 마지막 충신",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6199,
+				"friends_count": 391,
+				"listed_count": 155,
+				"created_at": "Sat Jul 04 12:07:41 +0000 2009",
+				"favourites_count": 3868,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20592,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/556455593293008897/bus1sRxB_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/556455593293008897/bus1sRxB_normal.jpeg",
+				"profile_link_color": "25762E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Apr 08 05:38:47 +0000 2017",
 		"id": 850583680183443500,
 		"id_str": "850583680183443456",
