@@ -1,6 +1,1154 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Wed May 03 16:03:43 +0000 2017",
+		"id": 859800647377461200,
+		"id_str": "859800647377461249",
+		"text": "RT @5beom: .@bubblefamily88 25-35세 즈음의 친구와 영화를 본다면 끝나자마자 수다가 펼쳐질 수밖에 없다. 나는 우리 나라에 이런 호황과 기대의 시대가 있었다는 걸 시각적으로 처음 확인했고 너무 놀랐어. 그게 한 세대가 끝나기…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "5beom",
+					"name": "5beom (...)",
+					"id": 184879353,
+					"id_str": "184879353",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"screen_name": "bubblefamily88",
+					"name": "버블 패밀리",
+					"id": 854162256149438500,
+					"id_str": "854162256149438465",
+					"indices": [
+						12,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1054,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9623,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 01 16:36:20 +0000 2017",
+			"id": 859084079022563300,
+			"id_str": "859084079022563329",
+			"text": ".@bubblefamily88 25-35세 즈음의 친구와 영화를 본다면 끝나자마자 수다가 펼쳐질 수밖에 없다. 나는 우리 나라에 이런 호황과 기대의 시대가 있었다는 걸 시각적으로 처음 확인했고 너무 놀랐어.… https://t.co/qALWSBiLzt",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bubblefamily88",
+						"name": "버블 패밀리",
+						"id": 854162256149438500,
+						"id_str": "854162256149438465",
+						"indices": [
+							1,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/qALWSBiLzt",
+						"expanded_url": "https://twitter.com/i/web/status/859084079022563329",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 859083447762944000,
+			"in_reply_to_status_id_str": "859083447762944000",
+			"in_reply_to_user_id": 184879353,
+			"in_reply_to_user_id_str": "184879353",
+			"in_reply_to_screen_name": "5beom",
+			"user": {
+				"id": 184879353,
+				"id_str": "184879353",
+				"name": "5beom (...)",
+				"screen_name": "5beom",
+				"location": "대한민국 전주시",
+				"description": "선생님, [라라 랜드] 믿으세요.. https://t.co/JacA459DjY",
+				"url": "https://t.co/bDcF79wRkS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bDcF79wRkS",
+								"expanded_url": "http://ohsebeom.net",
+								"display_url": "ohsebeom.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/JacA459DjY",
+								"expanded_url": "http://brunch.co.kr/@5beom",
+								"display_url": "brunch.co.kr/@5beom",
+								"indices": [
+									20,
+									43
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 726,
+				"friends_count": 346,
+				"listed_count": 19,
+				"created_at": "Mon Aug 30 18:19:41 +0000 2010",
+				"favourites_count": 926,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11857,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/144267991/twitter.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/144267991/twitter.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/589739297663684608/i_lJqR1O_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/589739297663684608/i_lJqR1O_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/184879353/1487826636",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed May 03 16:03:34 +0000 2017",
+		"id": 859800608949149700,
+		"id_str": "859800608949149697",
+		"text": "RT @5beom: &lt;버블 패밀리&gt; #jiff 국가 정책이 주입한 환상이 세대의 가치관과 가족에 미친 영향에 대한 질적조사이자 부모자식간의 애증에 대한 적나라한 블랙코메디. (상상도 못했던) 거울상의 결말에서 너무 많은 감정이 든다. 그 맺음에서 영…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "jiff",
+					"indices": [
+						26,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "5beom",
+					"name": "5beom (...)",
+					"id": 184879353,
+					"id_str": "184879353",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1054,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9623,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 01 16:33:49 +0000 2017",
+			"id": 859083447762944000,
+			"id_str": "859083447762944000",
+			"text": "&lt;버블 패밀리&gt; #jiff 국가 정책이 주입한 환상이 세대의 가치관과 가족에 미친 영향에 대한 질적조사이자 부모자식간의 애증에 대한 적나라한 블랙코메디. (상상도 못했던) 거울상의 결말에서 너무 많은 감정이… https://t.co/r2iSEBdlGL",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "jiff",
+						"indices": [
+							15,
+							20
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/r2iSEBdlGL",
+						"expanded_url": "https://twitter.com/i/web/status/859083447762944000",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							123,
+							146
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 184879353,
+				"id_str": "184879353",
+				"name": "5beom (...)",
+				"screen_name": "5beom",
+				"location": "대한민국 전주시",
+				"description": "선생님, [라라 랜드] 믿으세요.. https://t.co/JacA459DjY",
+				"url": "https://t.co/bDcF79wRkS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bDcF79wRkS",
+								"expanded_url": "http://ohsebeom.net",
+								"display_url": "ohsebeom.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/JacA459DjY",
+								"expanded_url": "http://brunch.co.kr/@5beom",
+								"display_url": "brunch.co.kr/@5beom",
+								"indices": [
+									20,
+									43
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 726,
+				"friends_count": 346,
+				"listed_count": 19,
+				"created_at": "Mon Aug 30 18:19:41 +0000 2010",
+				"favourites_count": 926,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11857,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/144267991/twitter.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/144267991/twitter.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/589739297663684608/i_lJqR1O_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/589739297663684608/i_lJqR1O_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/184879353/1487826636",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 58,
+			"favorite_count": 59,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed May 03 16:00:07 +0000 2017",
+		"id": 859799741168623600,
+		"id_str": "859799741168623616",
+		"text": "RT @blanket1217: 진짜 전국노래자랑에 한 번씩 이렇게 미친사람들이 나온다니까...(쥴쥴 선곡, 목소리, 햇살, 바람 모든 것이 너무 완벽하게 봄이고 청춘이라 마음이 청량해진다ㅠㅠ 오디션프로그램 안나와요...? 흑흑 진짜 너무 좋아 첫소절…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "blanket1217",
+					"name": "당신의 담요",
+					"id": 2202666331,
+					"id_str": "2202666331",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1054,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9623,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 30 13:27:59 +0000 2017",
+			"id": 858674291457404900,
+			"id_str": "858674291457404930",
+			"text": "진짜 전국노래자랑에 한 번씩 이렇게 미친사람들이 나온다니까...(쥴쥴 선곡, 목소리, 햇살, 바람 모든 것이 너무 완벽하게 봄이고 청춘이라 마음이 청량해진다ㅠㅠ 오디션프로그램 안나와요...? 흑흑 진짜 너무… https://t.co/dODZ95pacu",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dODZ95pacu",
+						"expanded_url": "https://twitter.com/i/web/status/858674291457404930",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2202666331,
+				"id_str": "2202666331",
+				"name": "당신의 담요",
+				"screen_name": "blanket1217",
+				"location": "Blanket in the mirror / 헤더 풀빵님",
+				"description": "호가 · 랑야방 · 호가필모른 · 호가른 · 논리버시블 최애텀 · 글러 · crossover & RPS · FUB free · ask https://t.co/oXng6WtWvO / 익명감상박스 https://t.co/weqmILcjRp",
+				"url": "https://t.co/3m9eYkZNdp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3m9eYkZNdp",
+								"expanded_url": "http://blanket.postype.com",
+								"display_url": "blanket.postype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/oXng6WtWvO",
+								"expanded_url": "http://ask.fm/blanket1217b",
+								"display_url": "ask.fm/blanket1217b",
+								"indices": [
+									75,
+									98
+								]
+							},
+							{
+								"url": "https://t.co/weqmILcjRp",
+								"expanded_url": "http://naver.me/GJsKAbQp",
+								"display_url": "naver.me/GJsKAbQp",
+								"indices": [
+									108,
+									131
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1457,
+				"friends_count": 294,
+				"listed_count": 28,
+				"created_at": "Tue Nov 19 07:30:34 +0000 2013",
+				"favourites_count": 20914,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 28856,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/843657874370846720/_MkaGwxT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/843657874370846720/_MkaGwxT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202666331/1469028751",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 37579,
+			"favorite_count": 18654,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 37579,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed May 03 15:58:50 +0000 2017",
+		"id": 859799419046080500,
+		"id_str": "859799419046080513",
+		"text": "RT @karo_Q_: 그런 위계는 일반적으로 \"친족명칭(존칭) &gt; 1인칭 &gt; 동물, 일반명사\"의 순서를 가지고 있는데, 여기서 아빠와 엄마가 1인칭을 두고 어느 쪽에 놓이는지를 극명하게 보여주는 예시가 될 수 있다. 이런 여성혐오적 언어현상은 정말…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "karo_Q_",
+					"name": "카로",
+					"id": 4673041051,
+					"id_str": "4673041051",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1054,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9623,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 03 01:18:46 +0000 2017",
+			"id": 859577945089646600,
+			"id_str": "859577945089646592",
+			"text": "그런 위계는 일반적으로 \"친족명칭(존칭) &gt; 1인칭 &gt; 동물, 일반명사\"의 순서를 가지고 있는데, 여기서 아빠와 엄마가 1인칭을 두고 어느 쪽에 놓이는지를 극명하게 보여주는 예시가 될 수 있다. 이런 여성혐오적 언어현상은 정말많은 언어들에서 나타난다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 859577450224697300,
+			"in_reply_to_status_id_str": "859577450224697344",
+			"in_reply_to_user_id": 4673041051,
+			"in_reply_to_user_id_str": "4673041051",
+			"in_reply_to_screen_name": "karo_Q_",
+			"user": {
+				"id": 4673041051,
+				"id_str": "4673041051",
+				"name": "카로",
+				"screen_name": "karo_Q_",
+				"location": "그대 마음 속. ",
+				"description": "젠더 몰가¿ / 💕 @firecatwithcats",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2027,
+				"friends_count": 197,
+				"listed_count": 15,
+				"created_at": "Tue Dec 29 13:30:41 +0000 2015",
+				"favourites_count": 15811,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 33446,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/857881212282478593/uwezva7d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/857881212282478593/uwezva7d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4673041051/1461887562",
+				"profile_link_color": "FE58A3",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 385,
+			"favorite_count": 60,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 385,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed May 03 15:58:47 +0000 2017",
+		"id": 859799404978389000,
+		"id_str": "859799404978388992",
+		"text": "RT @karo_Q_: 좀 더 언어학적으로 설명하자면 아빠는 genitive, 엄마는 associative case가 쓰였다고 할 수 있는데 이런 case distinction 은 animacy hierarchy에 따라 일어나는 경우가 많다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "karo_Q_",
+					"name": "카로",
+					"id": 4673041051,
+					"id_str": "4673041051",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1054,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9623,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 03 01:16:48 +0000 2017",
+			"id": 859577450224697300,
+			"id_str": "859577450224697344",
+			"text": "좀 더 언어학적으로 설명하자면 아빠는 genitive, 엄마는 associative case가 쓰였다고 할 수 있는데 이런 case distinction 은 animacy hierarchy에 따라 일어나는 경우가 많다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 859576912892411900,
+			"in_reply_to_status_id_str": "859576912892411904",
+			"in_reply_to_user_id": 4673041051,
+			"in_reply_to_user_id_str": "4673041051",
+			"in_reply_to_screen_name": "karo_Q_",
+			"user": {
+				"id": 4673041051,
+				"id_str": "4673041051",
+				"name": "카로",
+				"screen_name": "karo_Q_",
+				"location": "그대 마음 속. ",
+				"description": "젠더 몰가¿ / 💕 @firecatwithcats",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2027,
+				"friends_count": 197,
+				"listed_count": 15,
+				"created_at": "Tue Dec 29 13:30:41 +0000 2015",
+				"favourites_count": 15811,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 33446,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/857881212282478593/uwezva7d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/857881212282478593/uwezva7d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4673041051/1461887562",
+				"profile_link_color": "FE58A3",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 318,
+			"favorite_count": 58,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 318,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed May 03 15:58:42 +0000 2017",
+		"id": 859799385701400600,
+		"id_str": "859799385701400576",
+		"text": "RT @karo_Q_: \"임시직 경비원 아들, 까막눈 엄마를 둔 아들\"\n\n언어학 하는 후배가 보내준 사진이다. 아빠를 지칭하는 '임시직 경비원'은 '아들'의 소유의 주체로 표시되지만 '까막눈 엄마'는 반대로 소유의 객체가 되고 있다. 짧은 표어에서도…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "karo_Q_",
+					"name": "카로",
+					"id": 4673041051,
+					"id_str": "4673041051",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1054,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9623,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 03 01:14:40 +0000 2017",
+			"id": 859576912892411900,
+			"id_str": "859576912892411904",
+			"text": "\"임시직 경비원 아들, 까막눈 엄마를 둔 아들\"\n\n언어학 하는 후배가 보내준 사진이다. 아빠를 지칭하는 '임시직 경비원'은 '아들'의 소유의 주체로 표시되지만 '까막눈 엄마'는 반대로 소유의 객체가 되고 있… https://t.co/j1ukTAo8af",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/j1ukTAo8af",
+						"expanded_url": "https://twitter.com/i/web/status/859576912892411904",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4673041051,
+				"id_str": "4673041051",
+				"name": "카로",
+				"screen_name": "karo_Q_",
+				"location": "그대 마음 속. ",
+				"description": "젠더 몰가¿ / 💕 @firecatwithcats",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2027,
+				"friends_count": 197,
+				"listed_count": 15,
+				"created_at": "Tue Dec 29 13:30:41 +0000 2015",
+				"favourites_count": 15811,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 33446,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/857881212282478593/uwezva7d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/857881212282478593/uwezva7d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4673041051/1461887562",
+				"profile_link_color": "FE58A3",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10264,
+			"favorite_count": 1054,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10264,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed May 03 05:31:50 +0000 2017",
 		"id": 859641630911078400,
 		"id_str": "859641630911078400",
