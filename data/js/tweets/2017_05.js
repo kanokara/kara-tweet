@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sat May 06 13:57:48 +0000 2017",
+		"id": 860856122059640800,
+		"id_str": "860856122059640832",
+		"text": "RT @kkamdong_HOON: 아수라는 '박성배'라는 나쁜 아버지를 극복하려는 시도도 하지 않고 체념의 정서로 전부 죽어버리고 끝나버린 점에서 커다란 쾌감을 느꼈다고 한다. 특히 보통의 경우 한 두명 정도 애도의 주체가 남지만 애도조차 필요없는…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kkamdong_HOON",
+					"name": "도군 (녹색당 안남지부)",
+					"id": 107967467,
+					"id_str": "107967467",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1050,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9667,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 06 11:37:27 +0000 2017",
+			"id": 860820803893342200,
+			"id_str": "860820803893342209",
+			"text": "아수라는 '박성배'라는 나쁜 아버지를 극복하려는 시도도 하지 않고 체념의 정서로 전부 죽어버리고 끝나버린 점에서 커다란 쾌감을 느꼈다고 한다. 특히 보통의 경우 한 두명 정도 애도의 주체가 남지만 애도조차 필요없는 결말이 인상 깊었다고 했다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 860820694031978500,
+			"in_reply_to_status_id_str": "860820694031978496",
+			"in_reply_to_user_id": 107967467,
+			"in_reply_to_user_id_str": "107967467",
+			"in_reply_to_screen_name": "kkamdong_HOON",
+			"user": {
+				"id": 107967467,
+				"id_str": "107967467",
+				"name": "도군 (녹색당 안남지부)",
+				"screen_name": "kkamdong_HOON",
+				"location": "",
+				"description": "보고 듣고 읽으며 느끼는 것들에 대해 말합니다.",
+				"url": "https://t.co/M8eBMBEYKi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/M8eBMBEYKi",
+								"expanded_url": "https://brunch.co.kr/@kkamdong-hoon",
+								"display_url": "brunch.co.kr/@kkamdong-hoon",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 738,
+				"friends_count": 559,
+				"listed_count": 13,
+				"created_at": "Sun Jan 24 10:26:57 +0000 2010",
+				"favourites_count": 1255,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 41645,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848185469229834241/yV3QErC7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848185469229834241/yV3QErC7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/107967467/1491058152",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat May 06 13:57:46 +0000 2017",
+		"id": 860856115394822100,
+		"id_str": "860856115394822144",
+		"text": "RT @kkamdong_HOON: 1. 김영진 평론가는 최근 한국영화의 경향성 중 '소년성'에 대해 언급하며 시작했다. 좋은 아버지를 가지고 싶었으나 가지지 못한 소년들이 아버지를 찾아 헤매거나 그들이 좋은 아버지가 되거나 극복하려는 것이 보통이었는데",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kkamdong_HOON",
+					"name": "도군 (녹색당 안남지부)",
+					"id": 107967467,
+					"id_str": "107967467",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1050,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9667,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 06 11:37:01 +0000 2017",
+			"id": 860820694031978500,
+			"id_str": "860820694031978496",
+			"text": "1. 김영진 평론가는 최근 한국영화의 경향성 중 '소년성'에 대해 언급하며 시작했다. 좋은 아버지를 가지고 싶었으나 가지지 못한 소년들이 아버지를 찾아 헤매거나 그들이 좋은 아버지가 되거나 극복하려는 것이 보통이었는데",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 860820610464727000,
+			"in_reply_to_status_id_str": "860820610464727041",
+			"in_reply_to_user_id": 107967467,
+			"in_reply_to_user_id_str": "107967467",
+			"in_reply_to_screen_name": "kkamdong_HOON",
+			"user": {
+				"id": 107967467,
+				"id_str": "107967467",
+				"name": "도군 (녹색당 안남지부)",
+				"screen_name": "kkamdong_HOON",
+				"location": "",
+				"description": "보고 듣고 읽으며 느끼는 것들에 대해 말합니다.",
+				"url": "https://t.co/M8eBMBEYKi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/M8eBMBEYKi",
+								"expanded_url": "https://brunch.co.kr/@kkamdong-hoon",
+								"display_url": "brunch.co.kr/@kkamdong-hoon",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 738,
+				"friends_count": 559,
+				"listed_count": 13,
+				"created_at": "Sun Jan 24 10:26:57 +0000 2010",
+				"favourites_count": 1255,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 41645,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848185469229834241/yV3QErC7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848185469229834241/yV3QErC7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/107967467/1491058152",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat May 06 12:16:17 +0000 2017",
 		"id": 860830574331613200,
 		"id_str": "860830574331613184",
