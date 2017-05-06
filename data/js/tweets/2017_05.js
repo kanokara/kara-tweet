@@ -1,6 +1,449 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sat May 06 07:46:28 +0000 2017",
+		"id": 860762673645985800,
+		"id_str": "860762673645985792",
+		"text": "RT @type_aksdnwjf: 인공강우를 트위터 실시간 트렌드에 올리는 모임\nhttps://t.co/K59hh2GgAl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "type_aksdnwjf",
+					"name": "TRrn",
+					"id": 3120895622,
+					"id_str": "3120895622",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/K59hh2GgAl",
+					"expanded_url": "https://mobile.twitter.com/type_aksdnwjf/status/860751488003354626",
+					"display_url": "mobile.twitter.com/type_aksdnwjf/…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1050,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9664,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 06 07:15:52 +0000 2017",
+			"id": 860754971930669000,
+			"id_str": "860754971930669059",
+			"text": "인공강우를 트위터 실시간 트렌드에 올리는 모임\nhttps://t.co/K59hh2GgAl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/K59hh2GgAl",
+						"expanded_url": "https://mobile.twitter.com/type_aksdnwjf/status/860751488003354626",
+						"display_url": "mobile.twitter.com/type_aksdnwjf/…",
+						"indices": [
+							26,
+							49
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3120895622,
+				"id_str": "3120895622",
+				"name": "TRrn",
+				"screen_name": "type_aksdnwjf",
+				"location": "",
+				"description": "생활 백치",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 34,
+				"friends_count": 23,
+				"listed_count": 1,
+				"created_at": "Tue Mar 31 16:42:18 +0000 2015",
+				"favourites_count": 4986,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3424,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/841318230996189184/JlU3lWHJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/841318230996189184/JlU3lWHJ_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 860751488003354600,
+			"quoted_status_id_str": "860751488003354626",
+			"quoted_status": {
+				"created_at": "Sat May 06 07:02:01 +0000 2017",
+				"id": 860751488003354600,
+				"id_str": "860751488003354626",
+				"text": "중국 새끼들 양심 있으면 인공강우 미사일 덤핑 판매해라!! (우리 조국 조선국은 연구 안 해서 기술도 업ㅂ음) https://t.co/2g0h3fTdVX https://t.co/HbGpYXq4oE",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/2g0h3fTdVX",
+							"expanded_url": "http://mnews.sbs.co.kr/news/endPage.do?newsId=N1003050673",
+							"display_url": "mnews.sbs.co.kr/news/endPage.d…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 860751470852841500,
+							"id_str": "860751470852841472",
+							"indices": [
+								86,
+								109
+							],
+							"media_url": "http://pbs.twimg.com/media/C_IA5vwUIAAxJR2.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C_IA5vwUIAAxJR2.jpg",
+							"url": "https://t.co/HbGpYXq4oE",
+							"display_url": "pic.twitter.com/HbGpYXq4oE",
+							"expanded_url": "https://twitter.com/type_aksdnwjf/status/860751488003354626/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 675,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 383,
+									"h": 680,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 720,
+									"h": 1280,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 860751470852841500,
+							"id_str": "860751470852841472",
+							"indices": [
+								86,
+								109
+							],
+							"media_url": "http://pbs.twimg.com/media/C_IA5vwUIAAxJR2.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C_IA5vwUIAAxJR2.jpg",
+							"url": "https://t.co/HbGpYXq4oE",
+							"display_url": "pic.twitter.com/HbGpYXq4oE",
+							"expanded_url": "https://twitter.com/type_aksdnwjf/status/860751488003354626/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 675,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 383,
+									"h": 680,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 720,
+									"h": 1280,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 3120895622,
+					"id_str": "3120895622",
+					"name": "TRrn",
+					"screen_name": "type_aksdnwjf",
+					"location": "",
+					"description": "생활 백치",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 34,
+					"friends_count": 23,
+					"listed_count": 1,
+					"created_at": "Tue Mar 31 16:42:18 +0000 2015",
+					"favourites_count": 4986,
+					"utc_offset": 28800,
+					"time_zone": "Irkutsk",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 3424,
+					"lang": "ko",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/841318230996189184/JlU3lWHJ_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/841318230996189184/JlU3lWHJ_normal.jpg",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "ko"
+			},
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 860751488003354600,
+		"quoted_status_id_str": "860751488003354626",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat May 06 07:30:56 +0000 2017",
+		"id": 860758766853083100,
+		"id_str": "860758766853083137",
+		"text": "@dvddog JRPG는 세계시장에서 도태된 갈라파고스이며 시대는 온라인을... (이하생략) (폭언)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dvddog",
+					"name": "데이비드 댕댕이",
+					"id": 3138788114,
+					"id_str": "3138788114",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 860756546707312600,
+		"in_reply_to_status_id_str": "860756546707312640",
+		"in_reply_to_user_id": 3138788114,
+		"in_reply_to_user_id_str": "3138788114",
+		"in_reply_to_screen_name": "dvddog",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1050,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9664,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri May 05 17:26:25 +0000 2017",
 		"id": 860546236893380600,
 		"id_str": "860546236893380610",
