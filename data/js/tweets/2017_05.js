@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Mon May 08 07:01:25 +0000 2017",
+		"id": 861476114727706600,
+		"id_str": "861476114727706624",
+		"text": "RT @peoplepower21: \"국가가 허용한 집단기억과 전체주의 속에서, 극우 반공주의는 집단 정체성과 콤플렉스가 되어 개인과 공동체의 내면에 깊게 뿌리박혔다. \"\n#태극기노인 의 탄생은 존재 투쟁 https://t.co/lict4JGrpg\n#…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태극기노인",
+					"indices": [
+						95,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "peoplepower21",
+					"name": "참여연대",
+					"id": 300594419,
+					"id_str": "300594419",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lict4JGrpg",
+					"expanded_url": "https://goo.gl/sr1QCJ",
+					"display_url": "goo.gl/sr1QCJ",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1050,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9696,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 08 04:40:08 +0000 2017",
+			"id": 861440556240588800,
+			"id_str": "861440556240588800",
+			"text": "\"국가가 허용한 집단기억과 전체주의 속에서, 극우 반공주의는 집단 정체성과 콤플렉스가 되어 개인과 공동체의 내면에 깊게 뿌리박혔다. \"\n#태극기노인 의 탄생은 존재 투쟁… https://t.co/GxJH74AyPF",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "태극기노인",
+						"indices": [
+							76,
+							82
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GxJH74AyPF",
+						"expanded_url": "https://twitter.com/i/web/status/861440556240588800",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							96,
+							119
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 300594419,
+				"id_str": "300594419",
+				"name": "참여연대",
+				"screen_name": "peoplepower21",
+				"location": "",
+				"description": "http://t.co/RHo0z73bt2",
+				"url": "http://t.co/6213f7zAM2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/6213f7zAM2",
+								"expanded_url": "http://www.peoplepower21.org",
+								"display_url": "peoplepower21.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/RHo0z73bt2",
+								"expanded_url": "http://www.facebook.com/peoplepower21",
+								"display_url": "facebook.com/peoplepower21",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 99749,
+				"friends_count": 63759,
+				"listed_count": 838,
+				"created_at": "Wed May 18 01:18:55 +0000 2011",
+				"favourites_count": 6716,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 32003,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/808173561659551744/aRwX2dtD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/808173561659551744/aRwX2dtD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/300594419/1481516333",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01008dc95415f4fc",
+				"url": "https://api.twitter.com/1.1/geo/id/01008dc95415f4fc.json",
+				"place_type": "city",
+				"name": "성주군",
+				"full_name": "대한민국 성주군",
+				"country_code": "KR",
+				"country": "대한민국",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								128.057885481297,
+								35.7871003209274
+							],
+							[
+								128.418895621544,
+								35.7871003209274
+							],
+							[
+								128.418895621544,
+								36.0592820415061
+							],
+							[
+								128.057885481297,
+								36.0592820415061
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun May 07 17:01:33 +0000 2017",
 		"id": 861264752571318300,
 		"id_str": "861264752571318272",
