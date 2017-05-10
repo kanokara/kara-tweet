@@ -1,6 +1,1821 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Wed May 10 15:05:22 +0000 2017",
+		"id": 862322679881146400,
+		"id_str": "862322679881146369",
+		"text": "예컨대 의학계. 아랍의 영향이 한정적이었다고 보는 시각은 신학과 철학에 경도되어 있단 사실을 알 수 있죠. 푸른매 씨가 알던 바가 아주 틀린 것도 아니란 얘기. https://t.co/9YGruGefRH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 862322654329557000,
+					"id_str": "862322654329556993",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/C_eV4qUV0AE7k3Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_eV4qUV0AE7k3Z.jpg",
+					"url": "https://t.co/9YGruGefRH",
+					"display_url": "pic.twitter.com/9YGruGefRH",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/862322679881146369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 659,
+							"h": 1083,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 659,
+							"h": 1083,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 414,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 862322654329557000,
+					"id_str": "862322654329556993",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/C_eV4qUV0AE7k3Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_eV4qUV0AE7k3Z.jpg",
+					"url": "https://t.co/9YGruGefRH",
+					"display_url": "pic.twitter.com/9YGruGefRH",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/862322679881146369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 659,
+							"h": 1083,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 659,
+							"h": 1083,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 414,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 862322654346215400,
+					"id_str": "862322654346215425",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/C_eV4qYUAAEtdkw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_eV4qYUAAEtdkw.jpg",
+					"url": "https://t.co/9YGruGefRH",
+					"display_url": "pic.twitter.com/9YGruGefRH",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/862322679881146369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 629,
+							"h": 1072,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 629,
+							"h": 1072,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 399,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 862322654325297200,
+					"id_str": "862322654325297152",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/C_eV4qTU0AAj-2R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_eV4qTU0AAj-2R.jpg",
+					"url": "https://t.co/9YGruGefRH",
+					"display_url": "pic.twitter.com/9YGruGefRH",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/862322679881146369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 657,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 657,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 414,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 862322654337839100,
+					"id_str": "862322654337839104",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/C_eV4qWUMAAu3y_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_eV4qWUMAAu3y_.jpg",
+					"url": "https://t.co/9YGruGefRH",
+					"display_url": "pic.twitter.com/9YGruGefRH",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/862322679881146369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 638,
+							"h": 1030,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 1030,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 421,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 862313708168527900,
+		"in_reply_to_status_id_str": "862313708168527872",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1055,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9738,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed May 10 14:33:13 +0000 2017",
+		"id": 862314588330643500,
+		"id_str": "862314588330643456",
+		"text": "고전 얘기하는데 겨우 10주년 기념 앨범 나오는 걸 보고 '질기다'고 하는 거 보니 약간 웃기다고 할까 (...\nhttps://t.co/hFolTjNDr5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hFolTjNDr5",
+					"expanded_url": "https://mobile.twitter.com/Dangerplanet/status/862310125138096128",
+					"display_url": "mobile.twitter.com/Dangerplanet/s…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1055,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9738,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 862310125138096100,
+		"quoted_status_id_str": "862310125138096128",
+		"quoted_status": {
+			"created_at": "Wed May 10 14:15:29 +0000 2017",
+			"id": 862310125138096100,
+			"id_str": "862310125138096128",
+			"text": "TV 애니메이션 '럭키스타' 방송 10주년 기념, 노래 베스트 앨범 발매 결정 https://t.co/mMOrITJl5n\n\n질기다...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mMOrITJl5n",
+						"expanded_url": "http://alonestar.egloos.com/7321073",
+						"display_url": "alonestar.egloos.com/7321073",
+						"indices": [
+							44,
+							67
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 150878657,
+				"id_str": "150878657",
+				"name": "마이너스의 손",
+				"screen_name": "Dangerplanet",
+				"location": "",
+				"description": "등급외 제품입니다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1255,
+				"friends_count": 915,
+				"listed_count": 27,
+				"created_at": "Wed Jun 02 01:56:18 +0000 2010",
+				"favourites_count": 19599,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 112097,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 76,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed May 10 14:29:43 +0000 2017",
+		"id": 862313708168527900,
+		"id_str": "862313708168527872",
+		"text": "한정적이라 표현됐지만 이미 이 시기에는 그리스 문헌이 각 분과별로 나뉘어갔단 걸 상기하면, 특정 분과에서는 그 영향이 절대적인 경우도 있었고...\nhttps://t.co/LDCJ2tLRVa",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LDCJ2tLRVa",
+					"expanded_url": "https://mobile.twitter.com/WantApocalypse/status/858316030417936384",
+					"display_url": "mobile.twitter.com/WantApocalypse…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 862312066182398000,
+		"in_reply_to_status_id_str": "862312066182397952",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1055,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9738,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 858316030417936400,
+		"quoted_status_id_str": "858316030417936384",
+		"quoted_status": {
+			"created_at": "Sat Apr 29 13:44:23 +0000 2017",
+			"id": 858316030417936400,
+			"id_str": "858316030417936384",
+			"text": "@BlueFalcon47 @sally_relpek @7godsofchaos 그리고 이슬람권에서 그리스 철학 들어온 것도 사실 굉장히 한정적이에요\n애초에 중세 내내 동로마에서 그리스 원서 직통 수입이 가능했는걸요 뭐",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BlueFalcon47",
+						"name": "푸른매",
+						"id": 350340173,
+						"id_str": "350340173",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"screen_name": "sally_relpek",
+						"name": "Redsbian",
+						"id": 2948216815,
+						"id_str": "2948216815",
+						"indices": [
+							14,
+							27
+						]
+					},
+					{
+						"screen_name": "7godsofchaos",
+						"name": "나라 얻은 오그드루 자하드",
+						"id": 392593358,
+						"id_str": "392593358",
+						"indices": [
+							28,
+							41
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 858315588145266700,
+			"in_reply_to_status_id_str": "858315588145266688",
+			"in_reply_to_user_id": 793387601285701600,
+			"in_reply_to_user_id_str": "793387601285701632",
+			"in_reply_to_screen_name": "WantApocalypse",
+			"user": {
+				"id": 793387601285701600,
+				"id_str": "793387601285701632",
+				"name": "레디컬 예수이스트",
+				"screen_name": "WantApocalypse",
+				"location": "",
+				"description": "인류는 전부 고자가 되어야 한다 고자야 말로 거룩한 삶이다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 367,
+				"friends_count": 139,
+				"listed_count": 3,
+				"created_at": "Tue Nov 01 09:41:59 +0000 2016",
+				"favourites_count": 266,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16173,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/859351457157586944/Adjc6xbV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/859351457157586944/Adjc6xbV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/793387601285701632/1477993528",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed May 10 14:23:12 +0000 2017",
+		"id": 862312066182398000,
+		"id_str": "862312066182397952",
+		"text": "RT) 이 문제가 굉장히 복잡할 수밖에 없는 게, 서구를 묶어서 사고하지만 국가마다 수용된 양상도 제각각이었고 애초에 '신플라톤주의'라고 명명한 것이 근대에 접어들어서라... 간단히 규정하는 것 자체가 무리예요.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1055,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9738,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed May 10 14:21:35 +0000 2017",
+		"id": 862311661792657400,
+		"id_str": "862311661792657408",
+		"text": "RT @WantApocalypse: @BlueFalcon47 @sally_relpek @7godsofchaos 그리고 이슬람권에서 그리스 철학 들어온 것도 사실 굉장히 한정적이에요\n애초에 중세 내내 동로마에서 그리스 원서 직통 수입이 가능했는걸요 뭐",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WantApocalypse",
+					"name": "레디컬 예수이스트",
+					"id": 793387601285701600,
+					"id_str": "793387601285701632",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "BlueFalcon47",
+					"name": "푸른매",
+					"id": 350340173,
+					"id_str": "350340173",
+					"indices": [
+						20,
+						33
+					]
+				},
+				{
+					"screen_name": "sally_relpek",
+					"name": "Redsbian",
+					"id": 2948216815,
+					"id_str": "2948216815",
+					"indices": [
+						34,
+						47
+					]
+				},
+				{
+					"screen_name": "7godsofchaos",
+					"name": "나라 얻은 오그드루 자하드",
+					"id": 392593358,
+					"id_str": "392593358",
+					"indices": [
+						48,
+						61
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1055,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9738,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 29 13:44:23 +0000 2017",
+			"id": 858316030417936400,
+			"id_str": "858316030417936384",
+			"text": "@BlueFalcon47 @sally_relpek @7godsofchaos 그리고 이슬람권에서 그리스 철학 들어온 것도 사실 굉장히 한정적이에요\n애초에 중세 내내 동로마에서 그리스 원서 직통 수입이 가능했는걸요 뭐",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BlueFalcon47",
+						"name": "푸른매",
+						"id": 350340173,
+						"id_str": "350340173",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"screen_name": "sally_relpek",
+						"name": "Redsbian",
+						"id": 2948216815,
+						"id_str": "2948216815",
+						"indices": [
+							14,
+							27
+						]
+					},
+					{
+						"screen_name": "7godsofchaos",
+						"name": "나라 얻은 오그드루 자하드",
+						"id": 392593358,
+						"id_str": "392593358",
+						"indices": [
+							28,
+							41
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 858315588145266700,
+			"in_reply_to_status_id_str": "858315588145266688",
+			"in_reply_to_user_id": 793387601285701600,
+			"in_reply_to_user_id_str": "793387601285701632",
+			"in_reply_to_screen_name": "WantApocalypse",
+			"user": {
+				"id": 793387601285701600,
+				"id_str": "793387601285701632",
+				"name": "레디컬 예수이스트",
+				"screen_name": "WantApocalypse",
+				"location": "",
+				"description": "인류는 전부 고자가 되어야 한다 고자야 말로 거룩한 삶이다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 367,
+				"friends_count": 139,
+				"listed_count": 3,
+				"created_at": "Tue Nov 01 09:41:59 +0000 2016",
+				"favourites_count": 266,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16173,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/859351457157586944/Adjc6xbV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/859351457157586944/Adjc6xbV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/793387601285701632/1477993528",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed May 10 14:21:33 +0000 2017",
+		"id": 862311653164990500,
+		"id_str": "862311653164990464",
+		"text": "RT @WantApocalypse: @BlueFalcon47 @sally_relpek @7godsofchaos 신플라톤주의 자체가 아리스토텔레스 철학에 영향을 받은거고 교부 철학이나 스콜라 학파도 질료와 형상이나 운동과 생성 같은 아리스토텔레스적 개…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WantApocalypse",
+					"name": "레디컬 예수이스트",
+					"id": 793387601285701600,
+					"id_str": "793387601285701632",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "BlueFalcon47",
+					"name": "푸른매",
+					"id": 350340173,
+					"id_str": "350340173",
+					"indices": [
+						20,
+						33
+					]
+				},
+				{
+					"screen_name": "sally_relpek",
+					"name": "Redsbian",
+					"id": 2948216815,
+					"id_str": "2948216815",
+					"indices": [
+						34,
+						47
+					]
+				},
+				{
+					"screen_name": "7godsofchaos",
+					"name": "나라 얻은 오그드루 자하드",
+					"id": 392593358,
+					"id_str": "392593358",
+					"indices": [
+						48,
+						61
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1055,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9738,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 29 13:42:37 +0000 2017",
+			"id": 858315588145266700,
+			"id_str": "858315588145266688",
+			"text": "@BlueFalcon47 @sally_relpek @7godsofchaos 신플라톤주의 자체가 아리스토텔레스 철학에 영향을 받은거고 교부 철학이나 스콜라 학파도 질료와 형상이나 운동과 생성 같은 아리스토텔레스적 개념도 다뤄요",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BlueFalcon47",
+						"name": "푸른매",
+						"id": 350340173,
+						"id_str": "350340173",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"screen_name": "sally_relpek",
+						"name": "Redsbian",
+						"id": 2948216815,
+						"id_str": "2948216815",
+						"indices": [
+							14,
+							27
+						]
+					},
+					{
+						"screen_name": "7godsofchaos",
+						"name": "나라 얻은 오그드루 자하드",
+						"id": 392593358,
+						"id_str": "392593358",
+						"indices": [
+							28,
+							41
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 858314314838450200,
+			"in_reply_to_status_id_str": "858314314838450180",
+			"in_reply_to_user_id": 350340173,
+			"in_reply_to_user_id_str": "350340173",
+			"in_reply_to_screen_name": "BlueFalcon47",
+			"user": {
+				"id": 793387601285701600,
+				"id_str": "793387601285701632",
+				"name": "레디컬 예수이스트",
+				"screen_name": "WantApocalypse",
+				"location": "",
+				"description": "인류는 전부 고자가 되어야 한다 고자야 말로 거룩한 삶이다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 367,
+				"friends_count": 139,
+				"listed_count": 3,
+				"created_at": "Tue Nov 01 09:41:59 +0000 2016",
+				"favourites_count": 266,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16173,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/859351457157586944/Adjc6xbV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/859351457157586944/Adjc6xbV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/793387601285701632/1477993528",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed May 10 14:21:29 +0000 2017",
+		"id": 862311634303303700,
+		"id_str": "862311634303303684",
+		"text": "RT @BlueFalcon47: @sally_relpek @7godsofchaos 음 근데 신플라톤주의는 이미 3세기경 등장해서 교부철학 성립에 중대한 영향을 미쳤고 아리스토텔레스가 재등장한 건 십자군 전쟁 이후니까 얘기하는 시점이 좀 다를듯? 하긴…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BlueFalcon47",
+					"name": "푸른매",
+					"id": 350340173,
+					"id_str": "350340173",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "sally_relpek",
+					"name": "Redsbian",
+					"id": 2948216815,
+					"id_str": "2948216815",
+					"indices": [
+						18,
+						31
+					]
+				},
+				{
+					"screen_name": "7godsofchaos",
+					"name": "나라 얻은 오그드루 자하드",
+					"id": 392593358,
+					"id_str": "392593358",
+					"indices": [
+						32,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1055,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9738,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 29 13:37:34 +0000 2017",
+			"id": 858314314838450200,
+			"id_str": "858314314838450180",
+			"text": "@sally_relpek @7godsofchaos 음 근데 신플라톤주의는 이미 3세기경 등장해서 교부철학 성립에 중대한 영향을 미쳤고 아리스토텔레스가 재등장한 건 십자군 전쟁 이후니까 얘기하는 시점이 좀 다… https://t.co/G0lNdHNYCF",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sally_relpek",
+						"name": "Redsbian",
+						"id": 2948216815,
+						"id_str": "2948216815",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"screen_name": "7godsofchaos",
+						"name": "나라 얻은 오그드루 자하드",
+						"id": 392593358,
+						"id_str": "392593358",
+						"indices": [
+							14,
+							27
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/G0lNdHNYCF",
+						"expanded_url": "https://twitter.com/i/web/status/858314314838450180",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 858312659799728100,
+			"in_reply_to_status_id_str": "858312659799728129",
+			"in_reply_to_user_id": 2948216815,
+			"in_reply_to_user_id_str": "2948216815",
+			"in_reply_to_screen_name": "sally_relpek",
+			"user": {
+				"id": 350340173,
+				"id_str": "350340173",
+				"name": "푸른매",
+				"screen_name": "BlueFalcon47",
+				"location": "헬프미 헬프미 아임온빅파이어",
+				"description": "“No. It's stupidity. Never underestimate the power of stupidity.” - W. Patrick Lang",
+				"url": "http://t.co/m3np4UckVX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/m3np4UckVX",
+								"expanded_url": "http://bluefalcon.egloos.com",
+								"display_url": "bluefalcon.egloos.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1242,
+				"friends_count": 246,
+				"listed_count": 34,
+				"created_at": "Sun Aug 07 16:22:05 +0000 2011",
+				"favourites_count": 12867,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 51447,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2524674091/xqm83uasmtr5s3vnitwf_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2524674091/xqm83uasmtr5s3vnitwf_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/350340173/1402068720",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed May 10 14:21:23 +0000 2017",
+		"id": 862311610399903700,
+		"id_str": "862311610399903745",
+		"text": "RT @sally_relpek: @BlueFalcon47 @7godsofchaos 플라톤주의 &gt; 아리스토텔레스주의 &gt; 신플라톤주의 순서고 신플라톤주의는 과학혁명에 큰 영향을 끼침",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sally_relpek",
+					"name": "Redsbian",
+					"id": 2948216815,
+					"id_str": "2948216815",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "BlueFalcon47",
+					"name": "푸른매",
+					"id": 350340173,
+					"id_str": "350340173",
+					"indices": [
+						18,
+						31
+					]
+				},
+				{
+					"screen_name": "7godsofchaos",
+					"name": "나라 얻은 오그드루 자하드",
+					"id": 392593358,
+					"id_str": "392593358",
+					"indices": [
+						32,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1055,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9738,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 29 13:25:05 +0000 2017",
+			"id": 858311173388685300,
+			"id_str": "858311173388685313",
+			"text": "@BlueFalcon47 @7godsofchaos 플라톤주의 &gt; 아리스토텔레스주의 &gt; 신플라톤주의 순서고 신플라톤주의는 과학혁명에 큰 영향을 끼침",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BlueFalcon47",
+						"name": "푸른매",
+						"id": 350340173,
+						"id_str": "350340173",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"screen_name": "7godsofchaos",
+						"name": "나라 얻은 오그드루 자하드",
+						"id": 392593358,
+						"id_str": "392593358",
+						"indices": [
+							14,
+							27
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 858310849680756700,
+			"in_reply_to_status_id_str": "858310849680756738",
+			"in_reply_to_user_id": 350340173,
+			"in_reply_to_user_id_str": "350340173",
+			"in_reply_to_screen_name": "BlueFalcon47",
+			"user": {
+				"id": 2948216815,
+				"id_str": "2948216815",
+				"name": "Redsbian",
+				"screen_name": "sally_relpek",
+				"location": "변혁의 원동력은 증오, 변혁의 추동력은 폭력",
+				"description": "우리는 노예가 되지 않는다 세상의 주인이 될 것이다",
+				"url": "https://t.co/vNNYJ1ru1R",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vNNYJ1ru1R",
+								"expanded_url": "http://salamander724.wikidot.com/",
+								"display_url": "salamander724.wikidot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 66,
+				"friends_count": 93,
+				"listed_count": 12,
+				"created_at": "Mon Dec 29 02:10:35 +0000 2014",
+				"favourites_count": 28154,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6697,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/619162653588459520/6TV5MaOR.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/619162653588459520/6TV5MaOR.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/857220094098669569/2PzwPxSI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/857220094098669569/2PzwPxSI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2948216815/1479081399",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed May 10 14:21:05 +0000 2017",
+		"id": 862311534696972300,
+		"id_str": "862311534696972288",
+		"text": "RT @BlueFalcon47: @7godsofchaos 학문적으로도 중세 유럽이 아리스토텔레스 다 까먹고 신플라톤주의 같은 거나 하다가 아랍권에서 아리스토텔레스 번역서 들어온 다음 지적 혁명이 터졌죠 ㅋ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BlueFalcon47",
+					"name": "푸른매",
+					"id": 350340173,
+					"id_str": "350340173",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "7godsofchaos",
+					"name": "나라 얻은 오그드루 자하드",
+					"id": 392593358,
+					"id_str": "392593358",
+					"indices": [
+						18,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1055,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9738,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 29 13:22:06 +0000 2017",
+			"id": 858310426236395500,
+			"id_str": "858310426236395521",
+			"text": "@7godsofchaos 학문적으로도 중세 유럽이 아리스토텔레스 다 까먹고 신플라톤주의 같은 거나 하다가 아랍권에서 아리스토텔레스 번역서 들어온 다음 지적 혁명이 터졌죠 ㅋ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "7godsofchaos",
+						"name": "나라 얻은 오그드루 자하드",
+						"id": 392593358,
+						"id_str": "392593358",
+						"indices": [
+							0,
+							13
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 858310031011332100,
+			"in_reply_to_status_id_str": "858310031011332096",
+			"in_reply_to_user_id": 392593358,
+			"in_reply_to_user_id_str": "392593358",
+			"in_reply_to_screen_name": "7godsofchaos",
+			"user": {
+				"id": 350340173,
+				"id_str": "350340173",
+				"name": "푸른매",
+				"screen_name": "BlueFalcon47",
+				"location": "헬프미 헬프미 아임온빅파이어",
+				"description": "“No. It's stupidity. Never underestimate the power of stupidity.” - W. Patrick Lang",
+				"url": "http://t.co/m3np4UckVX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/m3np4UckVX",
+								"expanded_url": "http://bluefalcon.egloos.com",
+								"display_url": "bluefalcon.egloos.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1242,
+				"friends_count": 246,
+				"listed_count": 34,
+				"created_at": "Sun Aug 07 16:22:05 +0000 2011",
+				"favourites_count": 12867,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 51447,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2524674091/xqm83uasmtr5s3vnitwf_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2524674091/xqm83uasmtr5s3vnitwf_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/350340173/1402068720",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed May 10 13:46:15 +0000 2017",
 		"id": 862302770312773600,
 		"id_str": "862302770312773632",
