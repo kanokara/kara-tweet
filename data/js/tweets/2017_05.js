@@ -1,6 +1,831 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Wed May 10 16:12:19 +0000 2017",
+		"id": 862339528794583000,
+		"id_str": "862339528794583041",
+		"text": "RT @kechupcoredog: 정보획득의 순서도 게임을 영상으로 보는사람은 뒤처질 수 도있구 이건 꽤 중요하지. 게임을 하는사람이어떤 비주얼적인 힌트를 얻어서 밟는블록이다라는걸 알고 그다음에 밟는거랑 게임을 영상을 보는사람은(먼저 알 수 도 있지…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kechupcoredog",
+					"name": "핵도그",
+					"id": 447764193,
+					"id_str": "447764193",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1055,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9743,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 10 16:04:26 +0000 2017",
+			"id": 862337543739588600,
+			"id_str": "862337543739588609",
+			"text": "정보획득의 순서도 게임을 영상으로 보는사람은 뒤처질 수 도있구 이건 꽤 중요하지. 게임을 하는사람이어떤 비주얼적인 힌트를 얻어서 밟는블록이다라는걸 알고 그다음에 밟는거랑 게임을 영상을 보는사람은(먼저 알 수 도 있지만) 밟는걸 보고나서 저건 밟는거구나",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 862336759161421800,
+			"in_reply_to_status_id_str": "862336759161421828",
+			"in_reply_to_user_id": 447764193,
+			"in_reply_to_user_id_str": "447764193",
+			"in_reply_to_screen_name": "kechupcoredog",
+			"user": {
+				"id": 447764193,
+				"id_str": "447764193",
+				"name": "핵도그",
+				"screen_name": "kechupcoredog",
+				"location": "",
+				"description": "game enviroment artist in tokyo /from korea/zbrush,3dsmax,ue4 cheap artist. chief (x)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 172,
+				"friends_count": 637,
+				"listed_count": 3,
+				"created_at": "Tue Dec 27 07:20:37 +0000 2011",
+				"favourites_count": 5297,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11825,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/859674617924919296/I_Qdg-dm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/859674617924919296/I_Qdg-dm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/447764193/1484417766",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed May 10 15:45:39 +0000 2017",
+		"id": 862332816167653400,
+		"id_str": "862332816167653377",
+		"text": "@dvddog 트위터에서 제일 꼴 보기 싫었던 인용 강조 표시를... (철썩)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dvddog",
+					"name": "데이비드 댕댕이",
+					"id": 3138788114,
+					"id_str": "3138788114",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 862329330784796700,
+		"in_reply_to_status_id_str": "862329330784796672",
+		"in_reply_to_user_id": 3138788114,
+		"in_reply_to_user_id_str": "3138788114",
+		"in_reply_to_screen_name": "dvddog",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1055,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9743,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed May 10 15:28:35 +0000 2017",
+		"id": 862328523511308300,
+		"id_str": "862328523511308288",
+		"text": "RT @DrPatariro: @Twitsophy 조금 다른 이야기지만, 요즘 종종 말씀하시는 \"역사 속의 게이 찾기\"도 마찬가지예요. 연구자들이 객관적인 증거의 부족을 몰라서 그러는 게 아니라, 어떤 시점(특히 90년대)에 롤모델을 찾지 못하는 어린…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrPatariro",
+					"name": "Jason Park",
+					"id": 69777839,
+					"id_str": "69777839",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "Twitsophy",
+					"name": "착한왕",
+					"id": 134118817,
+					"id_str": "134118817",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1055,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9743,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 05 14:34:15 +0000 2017",
+			"id": 860502908982440000,
+			"id_str": "860502908982439936",
+			"text": "@Twitsophy 조금 다른 이야기지만, 요즘 종종 말씀하시는 \"역사 속의 게이 찾기\"도 마찬가지예요. 연구자들이 객관적인 증거의 부족을 몰라서 그러는 게 아니라, 어떤 시점(특히 90년대)에 롤모델을 찾… https://t.co/TVUGD4v7yu",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Twitsophy",
+						"name": "착한왕",
+						"id": 134118817,
+						"id_str": "134118817",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/TVUGD4v7yu",
+						"expanded_url": "https://twitter.com/i/web/status/860502908982439936",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 860501572329107500,
+			"in_reply_to_status_id_str": "860501572329107462",
+			"in_reply_to_user_id": 69777839,
+			"in_reply_to_user_id_str": "69777839",
+			"in_reply_to_screen_name": "DrPatariro",
+			"user": {
+				"id": 69777839,
+				"id_str": "69777839",
+				"name": "Jason Park",
+				"screen_name": "DrPatariro",
+				"location": "",
+				"description": "A kind of scientist in a city. One of those Korean Jason Parks. Probably your mom wouldn't like me.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9158,
+				"friends_count": 5618,
+				"listed_count": 203,
+				"created_at": "Sat Aug 29 03:33:25 +0000 2009",
+				"favourites_count": 476,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 158342,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/395794891/Untitled-1.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/395794891/Untitled-1.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/827688771667779585/EvaS78eb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/827688771667779585/EvaS78eb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/69777839/1423901897",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed May 10 15:27:00 +0000 2017",
+		"id": 862328124842795000,
+		"id_str": "862328124842795012",
+		"text": "RT @Twitsophy: [책과 삶]원더우먼, '여성 해방'을 위해 태어난 여인 https://t.co/D8R3veaUHZ 또 서양 뭔 책 나오면 굽신시작. 원더우먼 창시자는 페미보단 모계사회우월론자에 가까우며, 이때 여성은 오로지 백인 여성에 국…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Twitsophy",
+					"name": "착한왕",
+					"id": 134118817,
+					"id_str": "134118817",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/D8R3veaUHZ",
+					"expanded_url": "http://v.media.daum.net/v/20170505155833080",
+					"display_url": "v.media.daum.net/v/201705051558…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1055,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9743,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 05 08:14:46 +0000 2017",
+			"id": 860407407461015600,
+			"id_str": "860407407461015552",
+			"text": "[책과 삶]원더우먼, '여성 해방'을 위해 태어난 여인 https://t.co/D8R3veaUHZ 또 서양 뭔 책 나오면 굽신시작. 원더우먼 창시자는 페미보단 모계사회우월론자에 가까우며, 이때 여성은 오로지 백인 여성에 국한.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/D8R3veaUHZ",
+						"expanded_url": "http://v.media.daum.net/v/20170505155833080",
+						"display_url": "v.media.daum.net/v/201705051558…",
+						"indices": [
+							31,
+							54
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 134118817,
+				"id_str": "134118817",
+				"name": "착한왕",
+				"screen_name": "Twitsophy",
+				"location": "평촌",
+				"description": "Twitsophy = To tweet wisdom (by @EntRenormal), '트윗소피'는 논증을 빌려 문제를 최대한 간략하게 해부하는 블로그의 카테고리! 세상을 버림으로써 뜻을 지키는 인간! (팔로잉했다가 언팔로잉하는 경우 블락하오니, 무턱대고 팔로잉하지 마세요.)",
+				"url": "http://t.co/TfAQGaxGMA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/TfAQGaxGMA",
+								"expanded_url": "http://blog.daum.net/goodking/",
+								"display_url": "blog.daum.net/goodking/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2717,
+				"friends_count": 2493,
+				"listed_count": 99,
+				"created_at": "Sat Apr 17 14:08:13 +0000 2010",
+				"favourites_count": 8,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12039,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "123310",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/104583885/Ninja_Was_Here1.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/104583885/Ninja_Was_Here1.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/472075916487557120/qxnlqNa8_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/472075916487557120/qxnlqNa8_normal.jpeg",
+				"profile_link_color": "2854D6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "0A0A0A",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed May 10 15:25:49 +0000 2017",
+		"id": 862327823343562800,
+		"id_str": "862327823343562753",
+		"text": "RT @Twitsophy: 하버드 멍충이 교수가 원더우먼 작가 마스턴을 페미니스트로 규정한 책이 번역되면서 신문사를 빨기 바쁜데, 마스턴은 젠더 구분 본질주의자 백인우월주의자. 그의 거짓말 탐지기도 흑인대상으로 고안된 것. 흑인은 자발성이 없어 특별…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Twitsophy",
+					"name": "착한왕",
+					"id": 134118817,
+					"id_str": "134118817",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1055,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9743,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 05 11:01:25 +0000 2017",
+			"id": 860449346113781800,
+			"id_str": "860449346113781760",
+			"text": "하버드 멍충이 교수가 원더우먼 작가 마스턴을 페미니스트로 규정한 책이 번역되면서 신문사를 빨기 바쁜데, 마스턴은 젠더 구분 본질주의자 백인우월주의자. 그의 거짓말 탐지기도 흑인대상으로 고안된 것. 흑인은 자발성이 없어 특별한 심리 감지기가 필요하다나?",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 134118817,
+				"id_str": "134118817",
+				"name": "착한왕",
+				"screen_name": "Twitsophy",
+				"location": "평촌",
+				"description": "Twitsophy = To tweet wisdom (by @EntRenormal), '트윗소피'는 논증을 빌려 문제를 최대한 간략하게 해부하는 블로그의 카테고리! 세상을 버림으로써 뜻을 지키는 인간! (팔로잉했다가 언팔로잉하는 경우 블락하오니, 무턱대고 팔로잉하지 마세요.)",
+				"url": "http://t.co/TfAQGaxGMA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/TfAQGaxGMA",
+								"expanded_url": "http://blog.daum.net/goodking/",
+								"display_url": "blog.daum.net/goodking/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2717,
+				"friends_count": 2493,
+				"listed_count": 99,
+				"created_at": "Sat Apr 17 14:08:13 +0000 2010",
+				"favourites_count": 8,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12039,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "123310",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/104583885/Ninja_Was_Here1.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/104583885/Ninja_Was_Here1.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/472075916487557120/qxnlqNa8_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/472075916487557120/qxnlqNa8_normal.jpeg",
+				"profile_link_color": "2854D6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "0A0A0A",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed May 10 15:05:22 +0000 2017",
 		"id": 862322679881146400,
 		"id_str": "862322679881146369",
