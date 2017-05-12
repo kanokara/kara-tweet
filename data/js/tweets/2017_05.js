@@ -1,6 +1,585 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Fri May 12 15:40:52 +0000 2017",
+		"id": 863056388200611800,
+		"id_str": "863056388200611840",
+		"text": "RT @Blem_72: 시청자가 핸드폰을 직접 돌려가면서 360도 VR로 영상을 볼 수 있게 된\n버츄얼 유튜버 키즈나 아이\n\n현대기술은 위대하다\nhttps://t.co/fSYOXz3oQy https://t.co/Em4IUpnHrn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Blem_72",
+					"name": "BleM",
+					"id": 821565908,
+					"id_str": "821565908",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fSYOXz3oQy",
+					"expanded_url": "https://youtu.be/SV1KvzvKAB4",
+					"display_url": "youtu.be/SV1KvzvKAB4",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 862923710147080200,
+					"id_str": "862923710147080192",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/C_m4ituUMAArX8Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_m4ituUMAArX8Y.jpg",
+					"url": "https://t.co/Em4IUpnHrn",
+					"display_url": "pic.twitter.com/Em4IUpnHrn",
+					"expanded_url": "https://twitter.com/Blem_72/status/862923769286766592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 862923769286766600,
+					"source_status_id_str": "862923769286766592",
+					"source_user_id": 821565908,
+					"source_user_id_str": "821565908"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 862923710147080200,
+					"id_str": "862923710147080192",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/C_m4ituUMAArX8Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_m4ituUMAArX8Y.jpg",
+					"url": "https://t.co/Em4IUpnHrn",
+					"display_url": "pic.twitter.com/Em4IUpnHrn",
+					"expanded_url": "https://twitter.com/Blem_72/status/862923769286766592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 862923769286766600,
+					"source_status_id_str": "862923769286766592",
+					"source_user_id": 821565908,
+					"source_user_id_str": "821565908"
+				},
+				{
+					"id": 862923725556940800,
+					"id_str": "862923725556940802",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/C_m4jnIUAAIi5ox.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_m4jnIUAAIi5ox.jpg",
+					"url": "https://t.co/Em4IUpnHrn",
+					"display_url": "pic.twitter.com/Em4IUpnHrn",
+					"expanded_url": "https://twitter.com/Blem_72/status/862923769286766592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 862923769286766600,
+					"source_status_id_str": "862923769286766592",
+					"source_user_id": 821565908,
+					"source_user_id_str": "821565908"
+				},
+				{
+					"id": 862923739507310600,
+					"id_str": "862923739507310592",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/C_m4kbGVwAAAEwA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_m4kbGVwAAAEwA.jpg",
+					"url": "https://t.co/Em4IUpnHrn",
+					"display_url": "pic.twitter.com/Em4IUpnHrn",
+					"expanded_url": "https://twitter.com/Blem_72/status/862923769286766592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 862923769286766600,
+					"source_status_id_str": "862923769286766592",
+					"source_user_id": 821565908,
+					"source_user_id_str": "821565908"
+				},
+				{
+					"id": 862923756741603300,
+					"id_str": "862923756741603328",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/C_m4lbTUMAA36ku.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_m4lbTUMAA36ku.jpg",
+					"url": "https://t.co/Em4IUpnHrn",
+					"display_url": "pic.twitter.com/Em4IUpnHrn",
+					"expanded_url": "https://twitter.com/Blem_72/status/862923769286766592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 862923769286766600,
+					"source_status_id_str": "862923769286766592",
+					"source_user_id": 821565908,
+					"source_user_id_str": "821565908"
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1055,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9758,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 12 06:53:53 +0000 2017",
+			"id": 862923769286766600,
+			"id_str": "862923769286766592",
+			"text": "시청자가 핸드폰을 직접 돌려가면서 360도 VR로 영상을 볼 수 있게 된\n버츄얼 유튜버 키즈나 아이\n\n현대기술은 위대하다\nhttps://t.co/fSYOXz3oQy https://t.co/Em4IUpnHrn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fSYOXz3oQy",
+						"expanded_url": "https://youtu.be/SV1KvzvKAB4",
+						"display_url": "youtu.be/SV1KvzvKAB4",
+						"indices": [
+							68,
+							91
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 862923710147080200,
+						"id_str": "862923710147080192",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/C_m4ituUMAArX8Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_m4ituUMAArX8Y.jpg",
+						"url": "https://t.co/Em4IUpnHrn",
+						"display_url": "pic.twitter.com/Em4IUpnHrn",
+						"expanded_url": "https://twitter.com/Blem_72/status/862923769286766592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 862923710147080200,
+						"id_str": "862923710147080192",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/C_m4ituUMAArX8Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_m4ituUMAArX8Y.jpg",
+						"url": "https://t.co/Em4IUpnHrn",
+						"display_url": "pic.twitter.com/Em4IUpnHrn",
+						"expanded_url": "https://twitter.com/Blem_72/status/862923769286766592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 862923725556940800,
+						"id_str": "862923725556940802",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/C_m4jnIUAAIi5ox.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_m4jnIUAAIi5ox.jpg",
+						"url": "https://t.co/Em4IUpnHrn",
+						"display_url": "pic.twitter.com/Em4IUpnHrn",
+						"expanded_url": "https://twitter.com/Blem_72/status/862923769286766592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 862923739507310600,
+						"id_str": "862923739507310592",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/C_m4kbGVwAAAEwA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_m4kbGVwAAAEwA.jpg",
+						"url": "https://t.co/Em4IUpnHrn",
+						"display_url": "pic.twitter.com/Em4IUpnHrn",
+						"expanded_url": "https://twitter.com/Blem_72/status/862923769286766592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 862923756741603300,
+						"id_str": "862923756741603328",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/C_m4lbTUMAA36ku.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_m4lbTUMAA36ku.jpg",
+						"url": "https://t.co/Em4IUpnHrn",
+						"display_url": "pic.twitter.com/Em4IUpnHrn",
+						"expanded_url": "https://twitter.com/Blem_72/status/862923769286766592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 821565908,
+				"id_str": "821565908",
+				"name": "BleM",
+				"screen_name": "Blem_72",
+				"location": "별가루 평원",
+				"description": "伊藤美来, Pyxis / 七尾百合子, 星輝子P / Mili / BanG Dream!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 874,
+				"friends_count": 579,
+				"listed_count": 15,
+				"created_at": "Thu Sep 13 14:00:43 +0000 2012",
+				"favourites_count": 1458,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 96398,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/863028540551254016/YNwpurP1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/863028540551254016/YNwpurP1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/821565908/1491710241",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 82,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri May 12 15:12:40 +0000 2017",
 		"id": 863049290813292500,
 		"id_str": "863049290813292544",
