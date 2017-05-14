@@ -1,6 +1,1633 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sun May 14 18:17:19 +0000 2017",
+		"id": 863820536714940400,
+		"id_str": "863820536714940417",
+		"text": "이 기사는 간접적으로 흥미로운 사실을 시사하고 있는데, 생각해보면 시대가 지나며 점차 강세를 얻어간 건 게임의 도구로써의 완구였고, 그런 게임성을 내재하는 애니메이션 작품들이 흥행했었죠. 몬스터 채집을 하든 카드게임을 하든 팽이를 겨루든.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 863819447194206200,
+		"in_reply_to_status_id_str": "863819447194206208",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1055,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9804,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun May 14 18:12:59 +0000 2017",
+		"id": 863819447194206200,
+		"id_str": "863819447194206208",
+		"text": "로봇 완구의 쇠퇴에 대한 가설: \"상황극을 통해 놀이 방법을 알려주는 것이 이 콘텐츠의 핵심\" https://t.co/yD1tdJ5DMn캐리%20앤%20토이즈 https://t.co/IfR76eQ0IM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yD1tdJ5DMn",
+					"expanded_url": "https://namu.wiki/w/",
+					"display_url": "namu.wiki/w/",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 863819433646506000,
+					"id_str": "863819433646505984",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/C_znMryUQAAfWKb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_znMryUQAAfWKb.jpg",
+					"url": "https://t.co/IfR76eQ0IM",
+					"display_url": "pic.twitter.com/IfR76eQ0IM",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/863819447194206208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 1011,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1011,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 863819433646506000,
+					"id_str": "863819433646505984",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/C_znMryUQAAfWKb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_znMryUQAAfWKb.jpg",
+					"url": "https://t.co/IfR76eQ0IM",
+					"display_url": "pic.twitter.com/IfR76eQ0IM",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/863819447194206208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 1011,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1011,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1055,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9804,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun May 14 17:43:21 +0000 2017",
+		"id": 863811986454270000,
+		"id_str": "863811986454269954",
+		"text": "RT @mirugi_jp: 이 얘긴 90년대에 PC통신을 통해 나도 말한 적이 있었는데, 토미노 요시유키 감독 책이나 인터뷰에서도 자주 확인되는 사실.＞퍼스트 『건담』의 가장 초창기 팬층은 (남성이 아니라) 여성팬부터 시작되었다는 것.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mirugi_jp",
+					"name": "mirugi／宣政佑（そん・じょんう）",
+					"id": 134540200,
+					"id_str": "134540200",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1055,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9804,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 25 01:05:18 +0000 2014",
+			"id": 459498350174158850,
+			"id_str": "459498350174158849",
+			"text": "이 얘긴 90년대에 PC통신을 통해 나도 말한 적이 있었는데, 토미노 요시유키 감독 책이나 인터뷰에서도 자주 확인되는 사실.＞퍼스트 『건담』의 가장 초창기 팬층은 (남성이 아니라) 여성팬부터 시작되었다는 것.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 134540200,
+				"id_str": "134540200",
+				"name": "mirugi／宣政佑（そん・じょんう）",
+				"screen_name": "mirugi_jp",
+				"location": "Gyeonggi-do, Korea",
+				"description": "宣政佑（Seon, Jeong-U）：韓国の漫画コラムニスト。『ストーリーメーカー』『物語の体操』『物語論で読む村上春樹と宮崎駿』『エロマンガ・スタディーズ』等翻訳。『動物化するポストモダン』『ブレイクエイジ』韓国語版契約仲介。「アルフォンス・ミュシャ：モダン・グラフィックデザインの先駆者展」（韓国）展示アドバイザー。",
+				"url": "https://t.co/cdmSuu7Z8P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cdmSuu7Z8P",
+								"expanded_url": "http://d.hatena.ne.jp/mirugi/about/",
+								"display_url": "d.hatena.ne.jp/mirugi/about/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1588,
+				"friends_count": 553,
+				"listed_count": 66,
+				"created_at": "Sun Apr 18 18:32:17 +0000 2010",
+				"favourites_count": 57,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 25283,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/445031047/20090528comicpop22.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/445031047/20090528comicpop22.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/484724499892277250/GsieKQT4_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/484724499892277250/GsieKQT4_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/134540200/1486290150",
+				"profile_link_color": "B40B43",
+				"profile_sidebar_border_color": "CC3366",
+				"profile_sidebar_fill_color": "E5507E",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun May 14 17:29:25 +0000 2017",
+		"id": 863808480292909000,
+		"id_str": "863808480292909057",
+		"text": "건프라 말고는 로봇 완구 시장도 쇠락한 것 같아요. 90년대 후반에 아동용 로봇 애니메이션 제작을 스폰서들이 포기한 이유고, 성인용 역시 마찬가지. 모델러들을 사로잡은 건프라가 매우 특수한 위치.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1055,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9804,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun May 14 17:23:40 +0000 2017",
+		"id": 863807036479254500,
+		"id_str": "863807036479254528",
+		"text": "RT @RheaStrike: 5) 여기에 파칭코가 중요한 수익이 한정된 로봇 애니의 주요 매출원 중 하나란 건 동의. 돈 준다면 머라도 해야함.\n6) 파칭코 덕분에 로봇 애니 팬이 늘어난다는건 그랬으면 좋겠다는 덕후의 바램.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RheaStrike",
+					"name": "RheaStrike(블락체인했음)",
+					"id": 109616478,
+					"id_str": "109616478",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1055,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9804,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 13 05:00:43 +0000 2015",
+			"id": 554865603433861100,
+			"id_str": "554865603433861120",
+			"text": "5) 여기에 파칭코가 중요한 수익이 한정된 로봇 애니의 주요 매출원 중 하나란 건 동의. 돈 준다면 머라도 해야함.\n6) 파칭코 덕분에 로봇 애니 팬이 늘어난다는건 그랬으면 좋겠다는 덕후의 바램.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 554865148725186560,
+			"in_reply_to_status_id_str": "554865148725186561",
+			"in_reply_to_user_id": 109616478,
+			"in_reply_to_user_id_str": "109616478",
+			"in_reply_to_screen_name": "RheaStrike",
+			"user": {
+				"id": 109616478,
+				"id_str": "109616478",
+				"name": "RheaStrike(블락체인했음)",
+				"screen_name": "RheaStrike",
+				"location": "대한민국 서울",
+				"description": "유아원 기저귀 갈아주는 알바하며 동시에 고오오오급 유치원에 다니고 있습니다, 는 사실 백수. || 간혹 심술 부립니다. || 신상털기 ㄴㄴ",
+				"url": "https://t.co/PvUfxNdw0T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PvUfxNdw0T",
+								"expanded_url": "https://www.flickr.com/photos/rheastrike/",
+								"display_url": "flickr.com/photos/rheastr…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1610,
+				"friends_count": 491,
+				"listed_count": 0,
+				"created_at": "Fri Jan 29 17:31:06 +0000 2010",
+				"favourites_count": 7649,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 179336,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/625290289117147136/B2WQvV60.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/625290289117147136/B2WQvV60.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/832384846953537536/c6SVPzCo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/832384846953537536/c6SVPzCo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/109616478/1487519434",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun May 14 17:23:39 +0000 2017",
+		"id": 863807030569467900,
+		"id_str": "863807030569467904",
+		"text": "RT @RheaStrike: 제 결론:\n1) 로봇 애니 시장은 완구와 DVD판매인데 일본은 특유의 문화로 파칭코에서 한번 더 우려먹을 수 있다.\n2) 이는 로봇 애니가 파칭코 확률 예시에 어울리기 때문이며 로봇 애니를 즐긴 세대가 어른이 되었으므로…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RheaStrike",
+					"name": "RheaStrike(블락체인했음)",
+					"id": 109616478,
+					"id_str": "109616478",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1055,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9804,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 13 04:57:17 +0000 2015",
+			"id": 554864741319864300,
+			"id_str": "554864741319864320",
+			"text": "제 결론:\n1) 로봇 애니 시장은 완구와 DVD판매인데 일본은 특유의 문화로 파칭코에서 한번 더 우려먹을 수 있다.\n2) 이는 로봇 애니가 파칭코 확률 예시에 어울리기 때문이며 로봇 애니를 즐긴 세대가 어른이 되었으므로 괜찮은 선택",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 109616478,
+				"id_str": "109616478",
+				"name": "RheaStrike(블락체인했음)",
+				"screen_name": "RheaStrike",
+				"location": "대한민국 서울",
+				"description": "유아원 기저귀 갈아주는 알바하며 동시에 고오오오급 유치원에 다니고 있습니다, 는 사실 백수. || 간혹 심술 부립니다. || 신상털기 ㄴㄴ",
+				"url": "https://t.co/PvUfxNdw0T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PvUfxNdw0T",
+								"expanded_url": "https://www.flickr.com/photos/rheastrike/",
+								"display_url": "flickr.com/photos/rheastr…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1610,
+				"friends_count": 491,
+				"listed_count": 0,
+				"created_at": "Fri Jan 29 17:31:06 +0000 2010",
+				"favourites_count": 7649,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 179336,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/625290289117147136/B2WQvV60.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/625290289117147136/B2WQvV60.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/832384846953537536/c6SVPzCo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/832384846953537536/c6SVPzCo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/109616478/1487519434",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun May 14 17:00:58 +0000 2017",
+		"id": 863801320846770200,
+		"id_str": "863801320846770176",
+		"text": "그 중에 만들어지기만 할 뿐 그대로 방치되는 파칭코용 애니메이션들의 숫자가 상당하다고 하니까요.\"https://t.co/nvVwvatWAs\n\n이 부분은 지금도 그런지 새삼 궁금하네요. 장부상으로만 존재하는 건가, 진짜로 만드는 건가 하는 것도 그렇고.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nvVwvatWAs",
+					"expanded_url": "http://m.egloos.zum.com/maidsuki/v/comment/4121696",
+					"display_url": "m.egloos.zum.com/maidsuki/v/com…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 863801073529638900,
+		"in_reply_to_status_id_str": "863801073529638912",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1055,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9804,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun May 14 16:59:59 +0000 2017",
+		"id": 863801073529638900,
+		"id_str": "863801073529638912",
+		"text": "\"파칭코 및 야쿠자의 블랙머니를 애니 제작을 통해서 자금세탁을 하기 위한 부분도 있습니다. 실제로 제작되고 있는 파칭코계열의 애니의 숫자는 엄청난데(제작양으로만 보면 지금 현재 TV방송 중인 애니와 거의 동일한 양의 파칭코 작품이 제작되고 있는 중)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1055,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9804,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun May 14 16:41:46 +0000 2017",
+		"id": 863796491143462900,
+		"id_str": "863796491143462912",
+		"text": "RT @Kwangbae: 기업의 조직 구조:\n1) 우리가 작동한다고 믿는 방식\n2) 실제로 작동하는 방식 https://t.co/Mp37MycvAi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kwangbae",
+					"name": "Kwangbae",
+					"id": 25983057,
+					"id_str": "25983057",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 863357037949800400,
+					"id_str": "863357037949800449",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/C_tCptlU0AE4DAL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_tCptlU0AE4DAL.jpg",
+					"url": "https://t.co/Mp37MycvAi",
+					"display_url": "pic.twitter.com/Mp37MycvAi",
+					"expanded_url": "https://twitter.com/Kwangbae/status/863357120241999872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 544,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 544,
+							"h": 357,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 357,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 863357120241999900,
+					"source_status_id_str": "863357120241999872",
+					"source_user_id": 25983057,
+					"source_user_id_str": "25983057"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 863357037949800400,
+					"id_str": "863357037949800449",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/C_tCptlU0AE4DAL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_tCptlU0AE4DAL.jpg",
+					"url": "https://t.co/Mp37MycvAi",
+					"display_url": "pic.twitter.com/Mp37MycvAi",
+					"expanded_url": "https://twitter.com/Kwangbae/status/863357120241999872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 544,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 544,
+							"h": 357,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 357,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 863357120241999900,
+					"source_status_id_str": "863357120241999872",
+					"source_user_id": 25983057,
+					"source_user_id_str": "25983057"
+				},
+				{
+					"id": 863357062972977200,
+					"id_str": "863357062972977152",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/C_tCrKzUMAAkAWc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_tCrKzUMAAkAWc.jpg",
+					"url": "https://t.co/Mp37MycvAi",
+					"display_url": "pic.twitter.com/Mp37MycvAi",
+					"expanded_url": "https://twitter.com/Kwangbae/status/863357120241999872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 543,
+							"h": 407,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 543,
+							"h": 407,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 543,
+							"h": 407,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 863357120241999900,
+					"source_status_id_str": "863357120241999872",
+					"source_user_id": 25983057,
+					"source_user_id_str": "25983057"
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1055,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9804,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 13 11:35:52 +0000 2017",
+			"id": 863357120241999900,
+			"id_str": "863357120241999872",
+			"text": "기업의 조직 구조:\n1) 우리가 작동한다고 믿는 방식\n2) 실제로 작동하는 방식 https://t.co/Mp37MycvAi",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 863357037949800400,
+						"id_str": "863357037949800449",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/C_tCptlU0AE4DAL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_tCptlU0AE4DAL.jpg",
+						"url": "https://t.co/Mp37MycvAi",
+						"display_url": "pic.twitter.com/Mp37MycvAi",
+						"expanded_url": "https://twitter.com/Kwangbae/status/863357120241999872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 544,
+								"h": 357,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 544,
+								"h": 357,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 357,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 863357037949800400,
+						"id_str": "863357037949800449",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/C_tCptlU0AE4DAL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_tCptlU0AE4DAL.jpg",
+						"url": "https://t.co/Mp37MycvAi",
+						"display_url": "pic.twitter.com/Mp37MycvAi",
+						"expanded_url": "https://twitter.com/Kwangbae/status/863357120241999872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 544,
+								"h": 357,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 544,
+								"h": 357,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 357,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 863357062972977200,
+						"id_str": "863357062972977152",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/C_tCrKzUMAAkAWc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_tCrKzUMAAkAWc.jpg",
+						"url": "https://t.co/Mp37MycvAi",
+						"display_url": "pic.twitter.com/Mp37MycvAi",
+						"expanded_url": "https://twitter.com/Kwangbae/status/863357120241999872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 543,
+								"h": 407,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 543,
+								"h": 407,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 543,
+								"h": 407,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25983057,
+				"id_str": "25983057",
+				"name": "Kwangbae",
+				"screen_name": "Kwangbae",
+				"location": "Seoul, South KOREA",
+				"description": "https://t.co/hEKQbKHx0b • a maker • Previously worked at Pikicast, The Beatpacking Company, Naver & TIDY INC. • Music Lover, Tech Geek, Startup Hustler",
+				"url": "https://t.co/rY31WQ9vTm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rY31WQ9vTm",
+								"expanded_url": "http://kwangbae.com",
+								"display_url": "kwangbae.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/hEKQbKHx0b",
+								"expanded_url": "http://medium.com/@kwangbae",
+								"display_url": "medium.com/@kwangbae",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 831,
+				"friends_count": 1479,
+				"listed_count": 47,
+				"created_at": "Mon Mar 23 11:04:30 +0000 2009",
+				"favourites_count": 908,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15168,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/750952304027676674/uoxUY_BM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/750952304027676674/uoxUY_BM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25983057/1407496363",
+				"profile_link_color": "FC6120",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 406,
+			"favorite_count": 161,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 406,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun May 14 16:39:06 +0000 2017",
+		"id": 863795818855190500,
+		"id_str": "863795818855190528",
+		"text": "RT @purengom: 난 이번 랜섬웨어 사건을 볼때 IPS와 행위기반탐지가 대세가 될것 같다. 백신의 시대는 죽었다고.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "purengom",
+					"name": "푸른곰",
+					"id": 63764417,
+					"id_str": "63764417",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1055,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9804,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/798458646283681792/UwzBOgjh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1479202379",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun May 14 07:52:18 +0000 2017",
+			"id": 863663244216483800,
+			"id_str": "863663244216483841",
+			"text": "난 이번 랜섬웨어 사건을 볼때 IPS와 행위기반탐지가 대세가 될것 같다. 백신의 시대는 죽었다고.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 63764417,
+				"id_str": "63764417",
+				"name": "푸른곰",
+				"screen_name": "purengom",
+				"location": "South Korea",
+				"description": "IT블로거. 맥, 윈도우, iOS, 안드로이드 사용중. MCP. 고양이와 커피, 하겐다즈 좋아하는 잡식성 오타쿠. 국제 뉴스나 IT 소식/트렌드, 애니, 서브컬처, 일상 위주 트윗. 모든 팔로우/RT/링크/좋아요가 찬동/추천의 의미는 아니며 멘션등에 전부는 대답 못드림을 양해 바랍니다.",
+				"url": "https://t.co/2JilCs4nFl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2JilCs4nFl",
+								"expanded_url": "https://purengom.com",
+								"display_url": "purengom.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2399,
+				"friends_count": 1999,
+				"listed_count": 130,
+				"created_at": "Fri Aug 07 16:24:30 +0000 2009",
+				"favourites_count": 10753,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 135387,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/804336013740883972/1N4B3fKS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/804336013740883972/1N4B3fKS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63764417/1446705317",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun May 14 15:59:44 +0000 2017",
 		"id": 863785912941002800,
 		"id_str": "863785912941002752",
