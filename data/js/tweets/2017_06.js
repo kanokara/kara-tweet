@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Fri Jun 02 15:06:56 +0000 2017",
+		"id": 870657994329018400,
+		"id_str": "870657994329018368",
+		"text": "작품이 있었는데 제목이 기억이 안 나네요. 공주=자매 중 한 사람이 후계자로 낙점이 되자 어머니와 다른 자매들은 자살하고, 황통을 이은 그녀가 악에 가까운 자신을 숨기며 남주인공의 주변을 배회하며 이용하려는 작품이었는데...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 870656996197806100,
+		"in_reply_to_status_id_str": "870656996197806080",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1050,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9832,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866432854502195201/2jbu9BK1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866432854502195201/2jbu9BK1_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Jun 02 15:02:58 +0000 2017",
+		"id": 870656996197806100,
+		"id_str": "870656996197806080",
+		"text": "판타지 중에 3제국 중 모계로 황통이 이어지는 제국이 있고, 사실 그 황통은 생물의 영역을 뛰어넘은 어떤 단일한 존재가 복사되어가며 생명정보를 섭취하여, 기억과 정체성을 이으며 보다 초인에 가까워지는\nhttps://t.co/dUG3Y8I3xr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dUG3Y8I3xr",
+					"expanded_url": "https://twitter.com/astro_cr33p/status/870159655409930240",
+					"display_url": "twitter.com/astro_cr33p/st…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1050,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9832,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866432854502195201/2jbu9BK1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866432854502195201/2jbu9BK1_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 870159655409930200,
+		"quoted_status_id_str": "870159655409930240",
+		"quoted_status": {
+			"created_at": "Thu Jun 01 06:06:43 +0000 2017",
+			"id": 870159655409930200,
+			"id_str": "870159655409930240",
+			"text": "기억기관이 없는 원생동물이었을땐 어떻게 기억하냐????? 이런거SF라고부르지말라 (지구에서 온사나이같은 주제좀 그만우려먹길) https://t.co/dgZ00mP7Fg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 870159429819183100,
+						"id_str": "870159429819183104",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/DBNtZCBUMAAJaH6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DBNtZCBUMAAJaH6.jpg",
+						"url": "https://t.co/dgZ00mP7Fg",
+						"display_url": "pic.twitter.com/dgZ00mP7Fg",
+						"expanded_url": "https://twitter.com/astro_cr33p/status/870159655409930240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 537,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 719,
+								"h": 568,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 719,
+								"h": 568,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 870159429819183100,
+						"id_str": "870159429819183104",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/DBNtZCBUMAAJaH6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DBNtZCBUMAAJaH6.jpg",
+						"url": "https://t.co/dgZ00mP7Fg",
+						"display_url": "pic.twitter.com/dgZ00mP7Fg",
+						"expanded_url": "https://twitter.com/astro_cr33p/status/870159655409930240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 537,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 719,
+								"h": 568,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 719,
+								"h": 568,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3409691773,
+				"id_str": "3409691773",
+				"name": "막국수먹고싶어서죽은사람",
+				"screen_name": "astro_cr33p",
+				"location": "",
+				"description": "password: trustno1",
+				"url": "https://t.co/wtM3YqfKjj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wtM3YqfKjj",
+								"expanded_url": "http://a.co/6PEMRDj",
+								"display_url": "a.co/6PEMRDj",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 219,
+				"friends_count": 84,
+				"listed_count": 13,
+				"created_at": "Tue Sep 01 01:31:33 +0000 2015",
+				"favourites_count": 1034,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5676,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/869496700674560000/StmUDnvr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/869496700674560000/StmUDnvr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3409691773/1493240725",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 86,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Jun 02 11:51:20 +0000 2017",
 		"id": 870608771755659300,
 		"id_str": "870608771755659264",
