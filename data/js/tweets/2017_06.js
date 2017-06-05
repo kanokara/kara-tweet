@@ -1,6 +1,436 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Mon Jun 05 16:10:04 +0000 2017",
+		"id": 871761047266312200,
+		"id_str": "871761047266312192",
+		"text": "철학자의 우정(1) 신의와 배반: 자크 데리다와 폴 드 만https://t.co/HAjxmCk5nk\n'해체 비평'은 해체되었는가\nhttps://t.co/jLSgLLM146",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HAjxmCk5nk",
+					"expanded_url": "http://inews.ewha.ac.kr/news/articleView.html?idxno=17827",
+					"display_url": "inews.ewha.ac.kr/news/articleVi…",
+					"indices": [
+						32,
+						55
+					]
+				},
+				{
+					"url": "https://t.co/jLSgLLM146",
+					"expanded_url": "http://www.sisapress.com/journal/articlePrint/114356",
+					"display_url": "sisapress.com/journal/articl…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1049,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9838,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866432854502195201/2jbu9BK1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866432854502195201/2jbu9BK1_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jun 05 15:55:59 +0000 2017",
+		"id": 871757500072157200,
+		"id_str": "871757500072157184",
+		"text": "이거 분석 글타래 읽는데 여러분 너무 기분 나쁘고... 일본 같으면 투게더로 박제해서 믜나믜로 검색하면 항상 최상단에 뜰 법했을 거란 생각도 스치네요 (...)\nhttps://t.co/ChN33dMyD4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ChN33dMyD4",
+					"expanded_url": "https://twitter.com/nekizlab/status/871741547150057472",
+					"display_url": "twitter.com/nekizlab/statu…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1049,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9838,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866432854502195201/2jbu9BK1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866432854502195201/2jbu9BK1_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 871741547150057500,
+		"quoted_status_id_str": "871741547150057472",
+		"quoted_status": {
+			"created_at": "Mon Jun 05 14:52:35 +0000 2017",
+			"id": 871741547150057500,
+			"id_str": "871741547150057472",
+			"text": "RT) 애니 볼 때는 닛타 미나미에 대해 '아무런 특징도 없어서 왜 인기있는지 모르겠다'라고 생각했는데, 이제 보니 포인트는 '게슴츠레하게 뜬 눈'인 것 같다. https://t.co/WCLadrXQYm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 871741537335468000,
+						"id_str": "871741537335468032",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DBkMTzzVYAAMaKF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DBkMTzzVYAAMaKF.jpg",
+						"url": "https://t.co/WCLadrXQYm",
+						"display_url": "pic.twitter.com/WCLadrXQYm",
+						"expanded_url": "https://twitter.com/nekizlab/status/871741547150057472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 533,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 941,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 941,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 871741537335468000,
+						"id_str": "871741537335468032",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/DBkMTzzVYAAMaKF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DBkMTzzVYAAMaKF.jpg",
+						"url": "https://t.co/WCLadrXQYm",
+						"display_url": "pic.twitter.com/WCLadrXQYm",
+						"expanded_url": "https://twitter.com/nekizlab/status/871741547150057472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 533,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 941,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 941,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 129115028,
+				"id_str": "129115028",
+				"name": "Nekizlab",
+				"screen_name": "nekizlab",
+				"location": "Seoul, Korea",
+				"description": "독서가입니다.\r\n진짜임.",
+				"url": "http://t.co/DfkULcqh7M",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/DfkULcqh7M",
+								"expanded_url": "http://www.nekizlab.com/",
+								"display_url": "nekizlab.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1153,
+				"friends_count": 300,
+				"listed_count": 30,
+				"created_at": "Sat Apr 03 06:31:10 +0000 2010",
+				"favourites_count": 152815,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 166325,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/577242021787652096/ns09OTWm.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/577242021787652096/ns09OTWm.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/577243935996702720/mx0uvSNR_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/577243935996702720/mx0uvSNR_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/129115028/1488121342",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jun 05 15:44:45 +0000 2017",
+		"id": 871754674369683500,
+		"id_str": "871754674369683456",
+		"text": "브뤼노 라투르가 왜 오늘에 와서 주목받을까… 기술과학을 인문사회적 설명틀에 포섭하려는 그의 취지가 여러 사람의 동감을 샀다는 건 알지만, 이미 앞서 충분히 '외파'된 연구란 사실을 상기할 필요가 있어요. (ex. 『고등미신』, 『지적사기』)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1049,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9838,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866432854502195201/2jbu9BK1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866432854502195201/2jbu9BK1_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Jun 03 07:33:25 +0000 2017",
 		"id": 870906252766752800,
 		"id_str": "870906252766752768",
