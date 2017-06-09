@@ -1,6 +1,732 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Fri Jun 09 20:34:56 +0000 2017",
+		"id": 873277253324427300,
+		"id_str": "873277253324427264",
+		"text": "RT @tobebuff: 전시의 컨셉은 오마쥬인데 일종의 창고 정리 같은 성격도 있어서 전시를 관람하고 이렇게 사진을 찍으면 1인당 7권까지 책을 챙겨가도록 허용합니다. 저는 아리스토텔레스 몇 권 챙겨옴. 전국의 철학러는 어서 단결하여 아트 선재로…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tobebuff",
+					"name": "포스터+조디와 함께하는 신우승",
+					"id": 54159815,
+					"id_str": "54159815",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1050,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9857,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866432854502195201/2jbu9BK1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866432854502195201/2jbu9BK1_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 06 11:52:06 +0000 2017",
+			"id": 872058513081614300,
+			"id_str": "872058513081614336",
+			"text": "전시의 컨셉은 오마쥬인데 일종의 창고 정리 같은 성격도 있어서 전시를 관람하고 이렇게 사진을 찍으면 1인당 7권까지 책을 챙겨가도록 허용합니다. 저는 아리스토텔레스 몇 권 챙겨옴. 전국의 철학러는 어서 단결… https://t.co/ObTgv1vHHv",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ObTgv1vHHv",
+						"expanded_url": "https://twitter.com/i/web/status/872058513081614336",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 872058098642329600,
+			"in_reply_to_status_id_str": "872058098642329600",
+			"in_reply_to_user_id": 54159815,
+			"in_reply_to_user_id_str": "54159815",
+			"in_reply_to_screen_name": "tobebuff",
+			"user": {
+				"id": 54159815,
+				"id_str": "54159815",
+				"name": "포스터+조디와 함께하는 신우승",
+				"screen_name": "tobebuff",
+				"location": "Seoul",
+				"description": "서양 철학을 공부하고 관련 문헌을 번역 출판하는 '전기가오리'(@philoelectroray)를 운영합니다. '포스터'와 '조디'는 제 반려견 이름이에요.",
+				"url": "https://t.co/1BhBXzn9bH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1BhBXzn9bH",
+								"expanded_url": "http://philo-electro-ray.org",
+								"display_url": "philo-electro-ray.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2643,
+				"friends_count": 392,
+				"listed_count": 55,
+				"created_at": "Mon Jul 06 09:02:54 +0000 2009",
+				"favourites_count": 1564,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19335,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/624837380306919428/ALoPdFKe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/624837380306919428/ALoPdFKe_normal.jpg",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 42,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Jun 09 20:34:53 +0000 2017",
+		"id": 873277239743324200,
+		"id_str": "873277239743324161",
+		"text": "RT @tobebuff: 동아서원이 복제를 그만두면서 대표의 자제분인 강상빈, 강상우 작가가 아트선재에서 &lt;그레이트 대디&gt; 전을 여는 중입니다. 아버지의 작업에 대한 오마쥬라고 합니다. 책이 이렇게 쌓여 있음. https://t.co/c38AOrr1…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tobebuff",
+					"name": "포스터+조디와 함께하는 신우승",
+					"id": 54159815,
+					"id_str": "54159815",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1050,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9857,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866432854502195201/2jbu9BK1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866432854502195201/2jbu9BK1_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 06 11:50:27 +0000 2017",
+			"id": 872058098642329600,
+			"id_str": "872058098642329600",
+			"text": "동아서원이 복제를 그만두면서 대표의 자제분인 강상빈, 강상우 작가가 아트선재에서 &lt;그레이트 대디&gt; 전을 여는 중입니다. 아버지의 작업에 대한 오마쥬라고 합니다. 책이 이렇게 쌓여 있음. https://t.co/c38AOrr1nN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 872058070188179500,
+						"id_str": "872058070188179457",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/DBosMckUQAEnV3a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DBosMckUQAEnV3a.jpg",
+						"url": "https://t.co/c38AOrr1nN",
+						"display_url": "pic.twitter.com/c38AOrr1nN",
+						"expanded_url": "https://twitter.com/tobebuff/status/872058098642329600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 872058070188179500,
+						"id_str": "872058070188179457",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/DBosMckUQAEnV3a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DBosMckUQAEnV3a.jpg",
+						"url": "https://t.co/c38AOrr1nN",
+						"display_url": "pic.twitter.com/c38AOrr1nN",
+						"expanded_url": "https://twitter.com/tobebuff/status/872058098642329600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 872058070158815200,
+						"id_str": "872058070158815232",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/DBosMcdUMAAdfX1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DBosMcdUMAAdfX1.jpg",
+						"url": "https://t.co/c38AOrr1nN",
+						"display_url": "pic.twitter.com/c38AOrr1nN",
+						"expanded_url": "https://twitter.com/tobebuff/status/872058098642329600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 872058070192447500,
+						"id_str": "872058070192447489",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/DBosMclVYAEesta.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DBosMclVYAEesta.jpg",
+						"url": "https://t.co/c38AOrr1nN",
+						"display_url": "pic.twitter.com/c38AOrr1nN",
+						"expanded_url": "https://twitter.com/tobebuff/status/872058098642329600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 872058070444064800,
+						"id_str": "872058070444064769",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/DBosMdhUwAE-QBb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DBosMdhUwAE-QBb.jpg",
+						"url": "https://t.co/c38AOrr1nN",
+						"display_url": "pic.twitter.com/c38AOrr1nN",
+						"expanded_url": "https://twitter.com/tobebuff/status/872058098642329600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 872057633947111400,
+			"in_reply_to_status_id_str": "872057633947111425",
+			"in_reply_to_user_id": 54159815,
+			"in_reply_to_user_id_str": "54159815",
+			"in_reply_to_screen_name": "tobebuff",
+			"user": {
+				"id": 54159815,
+				"id_str": "54159815",
+				"name": "포스터+조디와 함께하는 신우승",
+				"screen_name": "tobebuff",
+				"location": "Seoul",
+				"description": "서양 철학을 공부하고 관련 문헌을 번역 출판하는 '전기가오리'(@philoelectroray)를 운영합니다. '포스터'와 '조디'는 제 반려견 이름이에요.",
+				"url": "https://t.co/1BhBXzn9bH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1BhBXzn9bH",
+								"expanded_url": "http://philo-electro-ray.org",
+								"display_url": "philo-electro-ray.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2643,
+				"friends_count": 392,
+				"listed_count": 55,
+				"created_at": "Mon Jul 06 09:02:54 +0000 2009",
+				"favourites_count": 1564,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19335,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/624837380306919428/ALoPdFKe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/624837380306919428/ALoPdFKe_normal.jpg",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 52,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Jun 09 20:34:51 +0000 2017",
+		"id": 873277231149088800,
+		"id_str": "873277231149088768",
+		"text": "RT @tobebuff: 80-90년대 한국에서 철학을 전공한 분이라면 '동아서원'을 들어보셨을 겁니다. 당시 구하기 어려웠던 철학 원전을 제본까지 그대로 복제하여 비교적 저렴한 가격에 판매하던 곳이었지요. 저도 맥밀란 철학사전 살까 말까 고민했던…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tobebuff",
+					"name": "포스터+조디와 함께하는 신우승",
+					"id": 54159815,
+					"id_str": "54159815",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1050,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9857,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866432854502195201/2jbu9BK1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866432854502195201/2jbu9BK1_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 06 11:48:36 +0000 2017",
+			"id": 872057633947111400,
+			"id_str": "872057633947111425",
+			"text": "80-90년대 한국에서 철학을 전공한 분이라면 '동아서원'을 들어보셨을 겁니다. 당시 구하기 어려웠던 철학 원전을 제본까지 그대로 복제하여 비교적 저렴한 가격에 판매하던 곳이었지요. 저도 맥밀란 철학사전 살까 말까 고민했던 적이 있습니다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 54159815,
+				"id_str": "54159815",
+				"name": "포스터+조디와 함께하는 신우승",
+				"screen_name": "tobebuff",
+				"location": "Seoul",
+				"description": "서양 철학을 공부하고 관련 문헌을 번역 출판하는 '전기가오리'(@philoelectroray)를 운영합니다. '포스터'와 '조디'는 제 반려견 이름이에요.",
+				"url": "https://t.co/1BhBXzn9bH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1BhBXzn9bH",
+								"expanded_url": "http://philo-electro-ray.org",
+								"display_url": "philo-electro-ray.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2643,
+				"friends_count": 392,
+				"listed_count": 55,
+				"created_at": "Mon Jul 06 09:02:54 +0000 2009",
+				"favourites_count": 1564,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19335,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/624837380306919428/ALoPdFKe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/624837380306919428/ALoPdFKe_normal.jpg",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Jun 09 18:34:34 +0000 2017",
 		"id": 873246962836881400,
 		"id_str": "873246962836881409",
