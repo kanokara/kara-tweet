@@ -1,6 +1,1066 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Mon Jul 03 14:35:42 +0000 2017",
+		"id": 881884158015832000,
+		"id_str": "881884158015832064",
+		"text": "RT @innocentforest_: [修正が入ったため、再度公開しました]\nトレーラー公開しました！\n7月リリース予定になります！\n\n#IF_VR\n#FullDivenovel\n\nhttps://t.co/WIevAnx6Br",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IF_VR",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "FullDivenovel",
+					"indices": [
+						77,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "innocentforest_",
+					"name": "【公式】Innocent Forest",
+					"id": 880061088712216600,
+					"id_str": "880061088712216577",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WIevAnx6Br",
+					"expanded_url": "https://youtu.be/KoitQ2onMM8",
+					"display_url": "youtu.be/KoitQ2onMM8",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1056,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9995,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866432854502195201/2jbu9BK1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866432854502195201/2jbu9BK1_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 29 07:33:13 +0000 2017",
+			"id": 880328286915534800,
+			"id_str": "880328286915534848",
+			"text": "[修正が入ったため、再度公開しました]\nトレーラー公開しました！\n7月リリース予定になります！\n\n#IF_VR\n#FullDivenovel\n\nhttps://t.co/WIevAnx6Br",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IF_VR",
+						"indices": [
+							49,
+							55
+						]
+					},
+					{
+						"text": "FullDivenovel",
+						"indices": [
+							56,
+							70
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WIevAnx6Br",
+						"expanded_url": "https://youtu.be/KoitQ2onMM8",
+						"display_url": "youtu.be/KoitQ2onMM8",
+						"indices": [
+							72,
+							95
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 880061088712216600,
+				"id_str": "880061088712216577",
+				"name": "【公式】Innocent Forest",
+				"screen_name": "innocentforest_",
+				"location": "",
+				"description": "世界初｢体験するライトノベル｣VR×ラノベであるFullDivenovel第１弾『InnocentForest』公式アカウント\n｢この森で、人はひとつ記憶を失う｣\nトレーラー　https://t.co/TGkOlh27x8\n公式ハッシュタグ　#IF_VR",
+				"url": "https://t.co/HB8si5nbAk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HB8si5nbAk",
+								"expanded_url": "https://www.fulldivenovel-innocentforest.com/",
+								"display_url": "fulldivenovel-innocentforest.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TGkOlh27x8",
+								"expanded_url": "https://youtu.be/KoitQ2onMM8",
+								"display_url": "youtu.be/KoitQ2onMM8",
+								"indices": [
+									88,
+									111
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 81,
+				"friends_count": 9,
+				"listed_count": 3,
+				"created_at": "Wed Jun 28 13:51:29 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880064011990990849/Tlmtpxet_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880064011990990849/Tlmtpxet_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/880061088712216577/1498658584",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Mon Jul 03 14:19:55 +0000 2017",
+		"id": 881880184630071300,
+		"id_str": "881880184630071297",
+		"text": "씁 님의 일본어 계정을 발견해버리고 말았네요 #아님\nhttps://t.co/W204vO9Y2t",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아님",
+					"indices": [
+						25,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W204vO9Y2t",
+					"expanded_url": "https://twitter.com/inumoto/status/860680641020444674",
+					"display_url": "twitter.com/inumoto/status…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1056,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9995,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866432854502195201/2jbu9BK1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866432854502195201/2jbu9BK1_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 860680641020444700,
+		"quoted_status_id_str": "860680641020444674",
+		"quoted_status": {
+			"created_at": "Sat May 06 02:20:30 +0000 2017",
+			"id": 860680641020444700,
+			"id_str": "860680641020444674",
+			"text": "昨日の。 https://t.co/IRcZ5wfesA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 860680638604517400,
+						"id_str": "860680638604517376",
+						"indices": [
+							5,
+							28
+						],
+						"media_url": "http://pbs.twimg.com/media/C_HAexEUIAAa_Yu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_HAexEUIAAa_Yu.jpg",
+						"url": "https://t.co/IRcZ5wfesA",
+						"display_url": "pic.twitter.com/IRcZ5wfesA",
+						"expanded_url": "https://twitter.com/inumoto/status/860680641020444674/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 860680638604517400,
+						"id_str": "860680638604517376",
+						"indices": [
+							5,
+							28
+						],
+						"media_url": "http://pbs.twimg.com/media/C_HAexEUIAAa_Yu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_HAexEUIAAa_Yu.jpg",
+						"url": "https://t.co/IRcZ5wfesA",
+						"display_url": "pic.twitter.com/IRcZ5wfesA",
+						"expanded_url": "https://twitter.com/inumoto/status/860680641020444674/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 52880229,
+				"id_str": "52880229",
+				"name": "野本いぬもと",
+				"screen_name": "inumoto",
+				"location": "東京",
+				"description": "声優にエアリプするのが趣味です。落書きなどはちょくちょくモーメントにまとめてます。仕事絵などは https://t.co/xzQjvdjqpv に。お仕事承ります。 h.inumoto@gmail.com",
+				"url": "https://t.co/xzQjvdjqpv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xzQjvdjqpv",
+								"expanded_url": "http://numoto.tumblr.com",
+								"display_url": "numoto.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/xzQjvdjqpv",
+								"expanded_url": "http://numoto.tumblr.com",
+								"display_url": "numoto.tumblr.com",
+								"indices": [
+									48,
+									71
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6948,
+				"friends_count": 2291,
+				"listed_count": 317,
+				"created_at": "Wed Jul 01 22:53:06 +0000 2009",
+				"favourites_count": 19043,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 34752,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BF1238",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181342801/Sg9oyzNm.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181342801/Sg9oyzNm.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/837096136053686272/ZdaPC25K_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/837096136053686272/ZdaPC25K_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/52880229/1492942646",
+				"profile_link_color": "BF1238",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jul 03 14:14:39 +0000 2017",
+		"id": 881878861650116600,
+		"id_str": "881878861650116609",
+		"text": "RT @Dangerplanet: 일본 아이돌 가차게임이 어디까지 왔냐.\n2D놈들이 우리 나와바리에 알짱대니 우리가 직접 나선다 이거야.\nhttps://t.co/h3S1aAV6Cz https://t.co/nl55LC6i7Q",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dangerplanet",
+					"name": "마이너스의 손",
+					"id": 150878657,
+					"id_str": "150878657",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/h3S1aAV6Cz",
+					"expanded_url": "https://www.youtube.com/watch?v=7hFb4nsxXNE",
+					"display_url": "youtube.com/watch?v=7hFb4n…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 881470856777551900,
+					"id_str": "881470856777551872",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/881470856777551872/pu/img/JlDj4JUM0-ecJbwE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/881470856777551872/pu/img/JlDj4JUM0-ecJbwE.jpg",
+					"url": "https://t.co/nl55LC6i7Q",
+					"display_url": "pic.twitter.com/nl55LC6i7Q",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/881470914939961344/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 881470914939961300,
+					"source_status_id_str": "881470914939961344",
+					"source_user_id": 150878657,
+					"source_user_id_str": "150878657"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 881470856777551900,
+					"id_str": "881470856777551872",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/881470856777551872/pu/img/JlDj4JUM0-ecJbwE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/881470856777551872/pu/img/JlDj4JUM0-ecJbwE.jpg",
+					"url": "https://t.co/nl55LC6i7Q",
+					"display_url": "pic.twitter.com/nl55LC6i7Q",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/881470914939961344/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 881470914939961300,
+					"source_status_id_str": "881470914939961344",
+					"source_user_id": 150878657,
+					"source_user_id_str": "150878657",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 14974,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/881470856777551872/pu/vid/1280x720/GJGpb5PaVW3yyNZk.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/881470856777551872/pu/pl/4PDlkYL2mgnlUo48.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/881470856777551872/pu/vid/320x180/J5BTM7PQsGrkrM-N.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/881470856777551872/pu/vid/640x360/vLXjjkHsHj3-j49t.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 150878657,
+							"id_str": "150878657",
+							"name": "마이너스의 손",
+							"screen_name": "Dangerplanet",
+							"location": "",
+							"description": "등급외 제품입니다",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1366,
+							"friends_count": 960,
+							"listed_count": 27,
+							"created_at": "Wed Jun 02 01:56:18 +0000 2010",
+							"favourites_count": 22962,
+							"utc_offset": 32400,
+							"time_zone": "Seoul",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 118977,
+							"lang": "ko",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+							"profile_link_color": "ABB8C2",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1056,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9995,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866432854502195201/2jbu9BK1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866432854502195201/2jbu9BK1_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 02 11:13:37 +0000 2017",
+			"id": 881470914939961300,
+			"id_str": "881470914939961344",
+			"text": "일본 아이돌 가차게임이 어디까지 왔냐.\n2D놈들이 우리 나와바리에 알짱대니 우리가 직접 나선다 이거야.\nhttps://t.co/h3S1aAV6Cz https://t.co/nl55LC6i7Q",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/h3S1aAV6Cz",
+						"expanded_url": "https://www.youtube.com/watch?v=7hFb4nsxXNE",
+						"display_url": "youtube.com/watch?v=7hFb4n…",
+						"indices": [
+							58,
+							81
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 881470856777551900,
+						"id_str": "881470856777551872",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/881470856777551872/pu/img/JlDj4JUM0-ecJbwE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/881470856777551872/pu/img/JlDj4JUM0-ecJbwE.jpg",
+						"url": "https://t.co/nl55LC6i7Q",
+						"display_url": "pic.twitter.com/nl55LC6i7Q",
+						"expanded_url": "https://twitter.com/Dangerplanet/status/881470914939961344/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 881470856777551900,
+						"id_str": "881470856777551872",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/881470856777551872/pu/img/JlDj4JUM0-ecJbwE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/881470856777551872/pu/img/JlDj4JUM0-ecJbwE.jpg",
+						"url": "https://t.co/nl55LC6i7Q",
+						"display_url": "pic.twitter.com/nl55LC6i7Q",
+						"expanded_url": "https://twitter.com/Dangerplanet/status/881470914939961344/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 14974,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/881470856777551872/pu/vid/1280x720/GJGpb5PaVW3yyNZk.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/881470856777551872/pu/pl/4PDlkYL2mgnlUo48.m3u8"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/881470856777551872/pu/vid/320x180/J5BTM7PQsGrkrM-N.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/881470856777551872/pu/vid/640x360/vLXjjkHsHj3-j49t.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 150878657,
+				"id_str": "150878657",
+				"name": "마이너스의 손",
+				"screen_name": "Dangerplanet",
+				"location": "",
+				"description": "등급외 제품입니다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1366,
+				"friends_count": 960,
+				"listed_count": 27,
+				"created_at": "Wed Jun 02 01:56:18 +0000 2010",
+				"favourites_count": 22962,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 118977,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 66,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jul 03 14:12:09 +0000 2017",
+		"id": 881878229778288600,
+		"id_str": "881878229778288640",
+		"text": "@koko_lotus 그러니까 절 위해 오래 사셔야 돼요.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "koko_lotus",
+					"name": "코코미",
+					"id": 840915005352554500,
+					"id_str": "840915005352554496",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 881877262659866600,
+		"in_reply_to_status_id_str": "881877262659866625",
+		"in_reply_to_user_id": 840915005352554500,
+		"in_reply_to_user_id_str": "840915005352554496",
+		"in_reply_to_screen_name": "koko_lotus",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1056,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9995,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866432854502195201/2jbu9BK1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866432854502195201/2jbu9BK1_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Jul 03 14:06:47 +0000 2017",
 		"id": 881876880202244100,
 		"id_str": "881876880202244098",
