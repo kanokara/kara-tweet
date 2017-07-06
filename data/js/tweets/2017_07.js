@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Thu Jul 06 01:53:22 +0000 2017",
+		"id": 882779472751087600,
+		"id_str": "882779472751087616",
+		"text": "RT @YuminSEON: ‘대중문학’도 고전으로 문학사에 이름을 올릴 수 있을까요? 왜 아동문학전집에 실린 작품들은 고풍스러운 느낌을 줄까요? 이야기가 다소 길어져 텀블러에 올렸습니다.\nhttps://t.co/0sjTjdugkh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YuminSEON",
+					"name": "Yumin SEON 선유민",
+					"id": 2996449561,
+					"id_str": "2996449561",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0sjTjdugkh",
+					"expanded_url": "http://novelyoumin.tumblr.com/post/162637579902/%EB%AC%B8%ED%95%99%EC%82%AC%EC%97%90-%EC%9D%B4%EB%A6%84%EC%9D%84-%EC%98%AC%EB%A6%AC%EB%8A%94-%EC%A1%B0%EA%B1%B4",
+					"display_url": "novelyoumin.tumblr.com/post/162637579…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1056,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10035,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866432854502195201/2jbu9BK1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866432854502195201/2jbu9BK1_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 05 19:01:43 +0000 2017",
+			"id": 882675879905591300,
+			"id_str": "882675879905591296",
+			"text": "‘대중문학’도 고전으로 문학사에 이름을 올릴 수 있을까요? 왜 아동문학전집에 실린 작품들은 고풍스러운 느낌을 줄까요? 이야기가 다소 길어져 텀블러에 올렸습니다.\nhttps://t.co/0sjTjdugkh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0sjTjdugkh",
+						"expanded_url": "http://novelyoumin.tumblr.com/post/162637579902/%EB%AC%B8%ED%95%99%EC%82%AC%EC%97%90-%EC%9D%B4%EB%A6%84%EC%9D%84-%EC%98%AC%EB%A6%AC%EB%8A%94-%EC%A1%B0%EA%B1%B4",
+						"display_url": "novelyoumin.tumblr.com/post/162637579…",
+						"indices": [
+							90,
+							113
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2996449561,
+				"id_str": "2996449561",
+				"name": "Yumin SEON 선유민",
+				"screen_name": "YuminSEON",
+				"location": "",
+				"description": "最前線 | youminnovel@gmail.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 120,
+				"friends_count": 0,
+				"listed_count": 0,
+				"created_at": "Mon Jan 26 02:26:18 +0000 2015",
+				"favourites_count": 0,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 167,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/559540371911225344/A2naM9uI_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/559540371911225344/A2naM9uI_normal.jpeg",
+				"profile_link_color": "C55450",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Jul 05 19:10:43 +0000 2017",
 		"id": 882678142959145000,
 		"id_str": "882678142959144960",
