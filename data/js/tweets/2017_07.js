@@ -1,6 +1,565 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sun Jul 16 05:31:01 +0000 2017",
+		"id": 886458124701319200,
+		"id_str": "886458124701319168",
+		"text": "RT @reattackingbake: 경제학과 학생들을 조심하세요. https://t.co/5Rts12IR9o",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "reattackingbake",
+					"name": "빵가게제빵사",
+					"id": 429492243,
+					"id_str": "429492243",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 886063627429531600,
+					"id_str": "886063627429531650",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DEvuLLFU0AIk94E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEvuLLFU0AIk94E.jpg",
+					"url": "https://t.co/5Rts12IR9o",
+					"display_url": "pic.twitter.com/5Rts12IR9o",
+					"expanded_url": "https://twitter.com/reattackingbake/status/886063718362038272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 674,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1150,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 886063718362038300,
+					"source_status_id_str": "886063718362038272",
+					"source_user_id": 429492243,
+					"source_user_id_str": "429492243"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 886063627429531600,
+					"id_str": "886063627429531650",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DEvuLLFU0AIk94E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEvuLLFU0AIk94E.jpg",
+					"url": "https://t.co/5Rts12IR9o",
+					"display_url": "pic.twitter.com/5Rts12IR9o",
+					"expanded_url": "https://twitter.com/reattackingbake/status/886063718362038272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 674,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1150,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 886063718362038300,
+					"source_status_id_str": "886063718362038272",
+					"source_user_id": 429492243,
+					"source_user_id_str": "429492243"
+				},
+				{
+					"id": 886063645968355300,
+					"id_str": "886063645968355328",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DEvuMQJU0AA-nPA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEvuMQJU0AA-nPA.jpg",
+					"url": "https://t.co/5Rts12IR9o",
+					"display_url": "pic.twitter.com/5Rts12IR9o",
+					"expanded_url": "https://twitter.com/reattackingbake/status/886063718362038272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 674,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1150,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 886063718362038300,
+					"source_status_id_str": "886063718362038272",
+					"source_user_id": 429492243,
+					"source_user_id_str": "429492243"
+				},
+				{
+					"id": 886063670450454500,
+					"id_str": "886063670450454530",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DEvuNrWUAAINxMf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEvuNrWUAAINxMf.jpg",
+					"url": "https://t.co/5Rts12IR9o",
+					"display_url": "pic.twitter.com/5Rts12IR9o",
+					"expanded_url": "https://twitter.com/reattackingbake/status/886063718362038272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1150,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 674,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 886063718362038300,
+					"source_status_id_str": "886063718362038272",
+					"source_user_id": 429492243,
+					"source_user_id_str": "429492243"
+				},
+				{
+					"id": 886063696178405400,
+					"id_str": "886063696178405376",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DEvuPLMVYAA3oE6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEvuPLMVYAA3oE6.jpg",
+					"url": "https://t.co/5Rts12IR9o",
+					"display_url": "pic.twitter.com/5Rts12IR9o",
+					"expanded_url": "https://twitter.com/reattackingbake/status/886063718362038272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 674,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1150,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 886063718362038300,
+					"source_status_id_str": "886063718362038272",
+					"source_user_id": 429492243,
+					"source_user_id_str": "429492243"
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1057,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10039,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 15 03:23:47 +0000 2017",
+			"id": 886063718362038300,
+			"id_str": "886063718362038272",
+			"text": "경제학과 학생들을 조심하세요. https://t.co/5Rts12IR9o",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 886063627429531600,
+						"id_str": "886063627429531650",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/DEvuLLFU0AIk94E.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEvuLLFU0AIk94E.jpg",
+						"url": "https://t.co/5Rts12IR9o",
+						"display_url": "pic.twitter.com/5Rts12IR9o",
+						"expanded_url": "https://twitter.com/reattackingbake/status/886063718362038272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 674,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1150,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 886063627429531600,
+						"id_str": "886063627429531650",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/DEvuLLFU0AIk94E.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEvuLLFU0AIk94E.jpg",
+						"url": "https://t.co/5Rts12IR9o",
+						"display_url": "pic.twitter.com/5Rts12IR9o",
+						"expanded_url": "https://twitter.com/reattackingbake/status/886063718362038272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 674,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1150,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 886063645968355300,
+						"id_str": "886063645968355328",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/DEvuMQJU0AA-nPA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEvuMQJU0AA-nPA.jpg",
+						"url": "https://t.co/5Rts12IR9o",
+						"display_url": "pic.twitter.com/5Rts12IR9o",
+						"expanded_url": "https://twitter.com/reattackingbake/status/886063718362038272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 674,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1150,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 886063670450454500,
+						"id_str": "886063670450454530",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/DEvuNrWUAAINxMf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEvuNrWUAAINxMf.jpg",
+						"url": "https://t.co/5Rts12IR9o",
+						"display_url": "pic.twitter.com/5Rts12IR9o",
+						"expanded_url": "https://twitter.com/reattackingbake/status/886063718362038272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1150,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 674,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 886063696178405400,
+						"id_str": "886063696178405376",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/DEvuPLMVYAA3oE6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEvuPLMVYAA3oE6.jpg",
+						"url": "https://t.co/5Rts12IR9o",
+						"display_url": "pic.twitter.com/5Rts12IR9o",
+						"expanded_url": "https://twitter.com/reattackingbake/status/886063718362038272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 674,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1150,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 429492243,
+				"id_str": "429492243",
+				"name": "빵가게제빵사",
+				"screen_name": "reattackingbake",
+				"location": "",
+				"description": "제 계급에 맞게 살겠습니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4423,
+				"friends_count": 160,
+				"listed_count": 83,
+				"created_at": "Tue Dec 06 01:31:48 +0000 2011",
+				"favourites_count": 1841,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 53638,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/821707386473721856/Z16mJCn0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/821707386473721856/Z16mJCn0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/429492243/1421389458",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Jul 14 14:33:39 +0000 2017",
 		"id": 885869909179117600,
 		"id_str": "885869909179117568",
