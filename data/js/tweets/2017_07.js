@@ -1,6 +1,397 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Wed Jul 19 07:29:47 +0000 2017",
+		"id": 887575176946135000,
+		"id_str": "887575176946135040",
+		"text": "RT @shinhh: 예를 들어 업무상 정제된 메시지를 만들어야 할 때, 하고 싶은 말들은 언제나 넘처남. 사실 대부분의 시간을 그 중에서 해서는 안될 말을 골라내는데 쓴다. 가장 힘든 부분은 절대 해서는 안될 (속시원한) 이야기를 해버리고 싶다는…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shinhh",
+					"name": "Hyun-Ho Shin",
+					"id": 53305769,
+					"id_str": "53305769",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10052,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 17 22:33:20 +0000 2017",
+			"id": 887077788087406600,
+			"id_str": "887077788087406592",
+			"text": "예를 들어 업무상 정제된 메시지를 만들어야 할 때, 하고 싶은 말들은 언제나 넘처남. 사실 대부분의 시간을 그 중에서 해서는 안될 말을 골라내는데 쓴다. 가장 힘든 부분은 절대 해서는 안될 (속시원한) 이야기를 해버리고 싶다는 유혹을 억누르는 것.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 887076847091142700,
+			"in_reply_to_status_id_str": "887076847091142657",
+			"in_reply_to_user_id": 53305769,
+			"in_reply_to_user_id_str": "53305769",
+			"in_reply_to_screen_name": "shinhh",
+			"user": {
+				"id": 53305769,
+				"id_str": "53305769",
+				"name": "Hyun-Ho Shin",
+				"screen_name": "shinhh",
+				"location": "New York, USA",
+				"description": "Food, music, baseball, beer, and some jokes about it; e-mail: hyunho.shin@outlook.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7335,
+				"friends_count": 396,
+				"listed_count": 102,
+				"created_at": "Fri Jul 03 05:35:31 +0000 2009",
+				"favourites_count": 5979,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26534,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1264567085/beach_umbrella_71_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264567085/beach_umbrella_71_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/53305769/1401459717",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01a9a39529b27f36",
+				"url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json",
+				"place_type": "city",
+				"name": "Manhattan",
+				"full_name": "Manhattan, NY",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-74.026675,
+								40.683935
+							],
+							[
+								-73.910408,
+								40.683935
+							],
+							[
+								-73.910408,
+								40.877483
+							],
+							[
+								-74.026675,
+								40.877483
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 268,
+			"favorite_count": 152,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 268,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Jul 19 07:28:36 +0000 2017",
+		"id": 887574879209365500,
+		"id_str": "887574879209365504",
+		"text": "사회에서 터부시되는 만큼 연애나 매춘 같은 정상적인 방법으로는 성욕을 해소하기 어려워서 그럴까요. 그런 수단들이 보장됨에도 폭력을 감행한다는 것은 반대로 협의의 권력욕이 작용한 결과일 테고요.\nhttps://t.co/5J2GqoRRh2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5J2GqoRRh2",
+					"expanded_url": "https://twitter.com/Mill_0/status/887507218311938048",
+					"display_url": "twitter.com/Mill_0/status/…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1058,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10052,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 887507218311938000,
+		"quoted_status_id_str": "887507218311938048",
+		"quoted_status": {
+			"created_at": "Wed Jul 19 02:59:44 +0000 2017",
+			"id": 887507218311938000,
+			"id_str": "887507218311938048",
+			"text": "화학적 거세가 질적인 강간재발률 감소가 있다는 연구결과가 미국에서 보고된 이후 지지층이 늘었는데, 특히 소아성애자 등 비정상적 성도착자에 대해 매우 유효하다고 합니다. 성폭력은 생각보다 복잡한 문제이며 몰카… https://t.co/wQe6j88HHg",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wQe6j88HHg",
+						"expanded_url": "https://twitter.com/i/web/status/887507218311938048",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 150751035,
+				"id_str": "150751035",
+				"name": "밀파크P(ミル･パク)@デレ5th8/8",
+				"screen_name": "Mill_0",
+				"location": "대한민국",
+				"description": "M.KMD/twitter賢者(假)千早のパートナー/デレ5th全公演参加希望",
+				"url": "https://t.co/ThL46l38lf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ThL46l38lf",
+								"expanded_url": "http://mythmill.egloos.com",
+								"display_url": "mythmill.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 843,
+				"friends_count": 666,
+				"listed_count": 17,
+				"created_at": "Tue Jun 01 18:41:37 +0000 2010",
+				"favourites_count": 9428,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 174845,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/882122067423895552/p-SScizT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/882122067423895552/p-SScizT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/150751035/1491014146",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 887223276723781600,
+			"quoted_status_id_str": "887223276723781632",
+			"retweet_count": 686,
+			"favorite_count": 70,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Jul 18 19:24:20 +0000 2017",
 		"id": 887392612612579300,
 		"id_str": "887392612612579328",
