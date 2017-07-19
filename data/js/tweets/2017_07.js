@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Wed Jul 19 16:11:22 +0000 2017",
+		"id": 887706440227446800,
+		"id_str": "887706440227446784",
+		"text": "RT @thesoulfate: 삼성페이가 페이팔(paypal) 과 손을 잡았다는 소식입니다.\n\n..삼성페이 깡패가 되어버렸네요 ㅋ\n\nhttps://t.co/ydsGGzHzcP",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thesoulfate",
+					"name": "【멘탈강화】TheSTREET",
+					"id": 145255815,
+					"id_str": "145255815",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ydsGGzHzcP",
+					"expanded_url": "http://www.msn.com/ko-kr/news/techandscience/%EC%82%BC%EC%84%B1%ED%8E%98%EC%9D%B4-%EC%84%B8%EA%B3%841%EC%9C%84-%EC%98%A8%EB%9D%BC%EC%9D%B8%EA%B2%B0%EC%A0%9C-%ED%8E%98%EC%9D%B4%ED%8C%94%EA%B3%BC-%EC%86%90%EC%9E%A1%EC%95%84/ar-BBEANOh?ocid=spartanntp",
+					"display_url": "msn.com/ko-kr/news/tec…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1059,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10063,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 18 10:15:11 +0000 2017",
+			"id": 887254414318116900,
+			"id_str": "887254414318116866",
+			"text": "삼성페이가 페이팔(paypal) 과 손을 잡았다는 소식입니다.\n\n..삼성페이 깡패가 되어버렸네요 ㅋ\n\nhttps://t.co/ydsGGzHzcP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ydsGGzHzcP",
+						"expanded_url": "http://www.msn.com/ko-kr/news/techandscience/%EC%82%BC%EC%84%B1%ED%8E%98%EC%9D%B4-%EC%84%B8%EA%B3%841%EC%9C%84-%EC%98%A8%EB%9D%BC%EC%9D%B8%EA%B2%B0%EC%A0%9C-%ED%8E%98%EC%9D%B4%ED%8C%94%EA%B3%BC-%EC%86%90%EC%9E%A1%EC%95%84/ar-BBEANOh?ocid=spartanntp",
+						"display_url": "msn.com/ko-kr/news/tec…",
+						"indices": [
+							57,
+							80
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 145255815,
+				"id_str": "145255815",
+				"name": "【멘탈강화】TheSTREET",
+				"screen_name": "thesoulfate",
+				"location": "내 마음속에 너있지말입니다?",
+				"description": "IT / GAME / Security / EDM / Bedroom DJ / 종종 야짤 및 에로트윗이 올라갑니다 / 나이로만 판단금지 / 모임,만남 인연을 중요시합니다 / Canon 760D + 18-135mm / 사진계정 @ThestreetPhoto",
+				"url": "https://t.co/j0uvd0HnLO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/j0uvd0HnLO",
+								"expanded_url": "http://inthestreet.tistory.com",
+								"display_url": "inthestreet.tistory.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1215,
+				"friends_count": 1274,
+				"listed_count": 27,
+				"created_at": "Tue May 18 14:09:59 +0000 2010",
+				"favourites_count": 7996,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 93063,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/857867469783842816/yx6F18-t_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/857867469783842816/yx6F18-t_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/145255815/1476204752",
+				"profile_link_color": "2196F3",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 192,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 192,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Jul 19 16:08:22 +0000 2017",
 		"id": 887705685101883400,
 		"id_str": "887705685101883392",
