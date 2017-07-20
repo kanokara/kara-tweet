@@ -1,6 +1,471 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Thu Jul 20 06:56:46 +0000 2017",
+		"id": 887929255694221300,
+		"id_str": "887929255694221312",
+		"text": "RT @chico_fajita: 아이돌 그룹의 모든 순간이 커리어에서 가장 중요한 순간이지만, 아이돌 걸그룹에서 \"성장\"을 처음 언급하는 시점은 커리어상 가장 하이라이트로 볼 수 있는 지점이다. 이를테면 소녀시대의 Gee 같은 타이밍이랄까.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chico_fajita",
+					"name": "맛있는 파히타",
+					"id": 1162272626,
+					"id_str": "1162272626",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1059,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10072,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 20 02:09:56 +0000 2017",
+			"id": 887857072385151000,
+			"id_str": "887857072385150976",
+			"text": "아이돌 그룹의 모든 순간이 커리어에서 가장 중요한 순간이지만, 아이돌 걸그룹에서 \"성장\"을 처음 언급하는 시점은 커리어상 가장 하이라이트로 볼 수 있는 지점이다. 이를테면 소녀시대의 Gee 같은 타이밍이랄까.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 887856508934832100,
+			"in_reply_to_status_id_str": "887856508934832128",
+			"in_reply_to_user_id": 1162272626,
+			"in_reply_to_user_id_str": "1162272626",
+			"in_reply_to_screen_name": "chico_fajita",
+			"user": {
+				"id": 1162272626,
+				"id_str": "1162272626",
+				"name": "맛있는 파히타",
+				"screen_name": "chico_fajita",
+				"location": "",
+				"description": "아이돌과 강아지를 좋아합니다",
+				"url": "https://t.co/sBAQFlSRWR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sBAQFlSRWR",
+								"expanded_url": "http://chicofajita.tumblr.com",
+								"display_url": "chicofajita.tumblr.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 702,
+				"friends_count": 337,
+				"listed_count": 21,
+				"created_at": "Sat Feb 09 07:39:24 +0000 2013",
+				"favourites_count": 2514,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 61418,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848198006826442752/N8fgWn7w_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848198006826442752/N8fgWn7w_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Jul 20 06:49:23 +0000 2017",
+		"id": 887927399416873000,
+		"id_str": "887927399416872960",
+		"text": "@dvddog 학살기관 소유자 모두가 고민한 이 문제!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dvddog",
+					"name": "데이비드 댕댕이",
+					"id": 3138788114,
+					"id_str": "3138788114",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": 887894907049852900,
+		"in_reply_to_status_id_str": "887894907049852929",
+		"in_reply_to_user_id": 3138788114,
+		"in_reply_to_user_id_str": "3138788114",
+		"in_reply_to_screen_name": "dvddog",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1059,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10072,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Jul 20 06:47:00 +0000 2017",
+		"id": 887926797500796900,
+		"id_str": "887926797500796928",
+		"text": "RT @macrostar: 이번 패션 칼럼은 디자이너 하우스의 인력 이동, 그 추세와 의미에 대한 이야기입니다. 얼마전 랑방의 부시라 자라가 16개월 만에 퇴임되기도 했죠 https://t.co/xibhEakNIS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "macrostar",
+					"name": "macrostar",
+					"id": 16170604,
+					"id_str": "16170604",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xibhEakNIS",
+					"expanded_url": "http://hankookilbo.com/v/3921f0c691b24ec698a8995d772d22e4",
+					"display_url": "hankookilbo.com/v/3921f0c691b2…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1059,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10072,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 19 02:43:07 +0000 2017",
+			"id": 887503036045602800,
+			"id_str": "887503036045602818",
+			"text": "이번 패션 칼럼은 디자이너 하우스의 인력 이동, 그 추세와 의미에 대한 이야기입니다. 얼마전 랑방의 부시라 자라가 16개월 만에 퇴임되기도 했죠 https://t.co/xibhEakNIS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xibhEakNIS",
+						"expanded_url": "http://hankookilbo.com/v/3921f0c691b24ec698a8995d772d22e4",
+						"display_url": "hankookilbo.com/v/3921f0c691b2…",
+						"indices": [
+							81,
+							104
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16170604,
+				"id_str": "16170604",
+				"name": "macrostar",
+				"screen_name": "macrostar",
+				"location": "대한민국 서울",
+				"description": "패션에 대해 곰곰이 생각합니다. 관련된 글을 쓰고 번역을 합니다. 패션붑/패션vs패션/칼럼 기타 등등",
+				"url": "https://t.co/3PI7l9XfVX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3PI7l9XfVX",
+								"expanded_url": "http://www.fashionboop.com",
+								"display_url": "fashionboop.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5263,
+				"friends_count": 295,
+				"listed_count": 68,
+				"created_at": "Sun Sep 07 16:09:34 +0000 2008",
+				"favourites_count": 121,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 77389,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/839623361965654016/rUvKxX35_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/839623361965654016/rUvKxX35_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16170604/1483760558",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Jul 20 05:50:07 +0000 2017",
 		"id": 887912484509634600,
 		"id_str": "887912484509634561",
