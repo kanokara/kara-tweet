@@ -1,6 +1,404 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Mon Jul 24 23:55:56 +0000 2017",
+		"id": 889635289748078600,
+		"id_str": "889635289748078592",
+		"text": "RT @dcoachd: 치솟는 물가에도 쌀 값은 내려가 90년대 보다 더 싸다. 한 달 만원꼴이면 최소열량은 확보되는 셈이다. 여기에 중국산 반찬을 얹어 먹는 것이 현재 대한민국을 관통하는 '최저가 한식'의 매커니즘이다. https://t.co/Dk…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dcoachd",
+					"name": "코치.D",
+					"id": 992155759,
+					"id_str": "992155759",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1061,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10102,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 24 05:03:30 +0000 2017",
+			"id": 889350302708637700,
+			"id_str": "889350302708637696",
+			"text": "치솟는 물가에도 쌀 값은 내려가 90년대 보다 더 싸다. 한 달 만원꼴이면 최소열량은 확보되는 셈이다. 여기에 중국산 반찬을 얹어 먹는 것이 현재 대한민국을 관통하는 '최저가 한식'의 매커니즘이다.… https://t.co/Bt72pPZF0X",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Bt72pPZF0X",
+						"expanded_url": "https://twitter.com/i/web/status/889350302708637696",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 889308339858948100,
+			"in_reply_to_status_id_str": "889308339858948096",
+			"in_reply_to_user_id": 992155759,
+			"in_reply_to_user_id_str": "992155759",
+			"in_reply_to_screen_name": "dcoachd",
+			"user": {
+				"id": 992155759,
+				"id_str": "992155759",
+				"name": "코치.D",
+				"screen_name": "dcoachd",
+				"location": "스포플렉스 개발팀",
+				"description": "당신을 위한 다이어트 코치,코치D.   스포플렉스(Spoplex)개발팀 // 다이어트 진화론(민음사)著 // 통증홈트(중앙북스)著 // 강연문의 dcoachd@naver.com",
+				"url": "https://t.co/9o6DihPA6x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9o6DihPA6x",
+								"expanded_url": "http://blog.naver.com/dcoachd",
+								"display_url": "blog.naver.com/dcoachd",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 52657,
+				"friends_count": 440,
+				"listed_count": 551,
+				"created_at": "Thu Dec 06 01:22:25 +0000 2012",
+				"favourites_count": 1126,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9442,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/753785763880316928/7CJ6iIv__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/753785763880316928/7CJ6iIv__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/992155759/1468220131",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 140,
+			"favorite_count": 30,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 140,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jul 24 23:55:53 +0000 2017",
+		"id": 889635278834597900,
+		"id_str": "889635278834597889",
+		"text": "RT @dcoachd: 집에서 전기밥솥 코드 뽑은지 5년째 된 사람인데, 쿨타임 됐으니까 한식 깝니다.\n \n한식은 건강식이 아니다(1) https://t.co/idn6r8F2LP \n한식은 건강식이 아니다(2) https://t.co/hY22xYjjY…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dcoachd",
+					"name": "코치.D",
+					"id": 992155759,
+					"id_str": "992155759",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/idn6r8F2LP",
+					"expanded_url": "https://goo.gl/e2hmAa",
+					"display_url": "goo.gl/e2hmAa",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1061,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10102,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 24 02:16:45 +0000 2017",
+			"id": 889308339858948100,
+			"id_str": "889308339858948096",
+			"text": "집에서 전기밥솥 코드 뽑은지 5년째 된 사람인데, 쿨타임 됐으니까 한식 깝니다.\n \n한식은 건강식이 아니다(1) https://t.co/idn6r8F2LP \n한식은 건강식이 아니다(2)… https://t.co/9f4qJyDzYb",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/idn6r8F2LP",
+						"expanded_url": "https://goo.gl/e2hmAa",
+						"display_url": "goo.gl/e2hmAa",
+						"indices": [
+							63,
+							86
+						]
+					},
+					{
+						"url": "https://t.co/9f4qJyDzYb",
+						"expanded_url": "https://twitter.com/i/web/status/889308339858948096",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 992155759,
+				"id_str": "992155759",
+				"name": "코치.D",
+				"screen_name": "dcoachd",
+				"location": "스포플렉스 개발팀",
+				"description": "당신을 위한 다이어트 코치,코치D.   스포플렉스(Spoplex)개발팀 // 다이어트 진화론(민음사)著 // 통증홈트(중앙북스)著 // 강연문의 dcoachd@naver.com",
+				"url": "https://t.co/9o6DihPA6x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9o6DihPA6x",
+								"expanded_url": "http://blog.naver.com/dcoachd",
+								"display_url": "blog.naver.com/dcoachd",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 52657,
+				"friends_count": 440,
+				"listed_count": 551,
+				"created_at": "Thu Dec 06 01:22:25 +0000 2012",
+				"favourites_count": 1126,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9442,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/753785763880316928/7CJ6iIv__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/753785763880316928/7CJ6iIv__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/992155759/1468220131",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1283,
+			"favorite_count": 501,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1283,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Jul 24 14:22:38 +0000 2017",
 		"id": 889491016041979900,
 		"id_str": "889491016041979904",
