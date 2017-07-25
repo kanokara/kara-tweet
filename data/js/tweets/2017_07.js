@@ -1,6 +1,512 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Tue Jul 25 16:49:05 +0000 2017",
+		"id": 889890256916545500,
+		"id_str": "889890256916545536",
+		"text": "RT @lostland: @tretre_ 이번달 매출이 12만원 정도니 3600원 정도 나오겠네요. 지난달은 18만원이었고… 알림봇 3개 굴려서 대략 두달에 만화책 한권 살 정도.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lostland",
+					"name": "Minhyung",
+					"id": 18895603,
+					"id_str": "18895603",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "tretre_",
+					"name": "뜰애",
+					"id": 169424663,
+					"id_str": "169424663",
+					"indices": [
+						14,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1061,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10108,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 22 01:50:39 +0000 2017",
+			"id": 877705361540567000,
+			"id_str": "877705361540567040",
+			"text": "@tretre_ 이번달 매출이 12만원 정도니 3600원 정도 나오겠네요. 지난달은 18만원이었고… 알림봇 3개 굴려서 대략 두달에 만화책 한권 살 정도.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tretre_",
+						"name": "뜰애",
+						"id": 169424663,
+						"id_str": "169424663",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 877704988385960000,
+			"in_reply_to_status_id_str": "877704988385959936",
+			"in_reply_to_user_id": 18895603,
+			"in_reply_to_user_id_str": "18895603",
+			"in_reply_to_screen_name": "lostland",
+			"user": {
+				"id": 18895603,
+				"id_str": "18895603",
+				"name": "Minhyung",
+				"screen_name": "lostland",
+				"location": "Seoul, Korea",
+				"description": "Novice programmer. Mostly harmless. Profile Image Source: https://t.co/sIV68gwevX © 2014-2017 水晶雫.com",
+				"url": "http://t.co/iaJBtBGAWs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/iaJBtBGAWs",
+								"expanded_url": "http://ask.fm/lostland",
+								"display_url": "ask.fm/lostland",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/sIV68gwevX",
+								"expanded_url": "http://suishoshizuku.com/",
+								"display_url": "suishoshizuku.com",
+								"indices": [
+									58,
+									81
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 679,
+				"friends_count": 140,
+				"listed_count": 37,
+				"created_at": "Mon Jan 12 08:35:00 +0000 2009",
+				"favourites_count": 71,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 76778,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876643839540248576/43ITfcYk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876643839540248576/43ITfcYk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18895603/1392652511",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Jul 25 16:49:01 +0000 2017",
+		"id": 889890240680214500,
+		"id_str": "889890240680214528",
+		"text": "RT @lostland: @tretre_ 알라딘과 파트너 계약을 맺고, 구매자가 파트너 ID가 들어있는 링크를 통해 물건을 구매하면 매출의 3%가 파트너에게 주어집니다. 사업자의 경우에는 증빙서류를 제출하면 직접 입금해주고, 아니면 적립금으로 넣어주…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lostland",
+					"name": "Minhyung",
+					"id": 18895603,
+					"id_str": "18895603",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "tretre_",
+					"name": "뜰애",
+					"id": 169424663,
+					"id_str": "169424663",
+					"indices": [
+						14,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1061,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10108,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 22 01:49:10 +0000 2017",
+			"id": 877704988385960000,
+			"id_str": "877704988385959936",
+			"text": "@tretre_ 알라딘과 파트너 계약을 맺고, 구매자가 파트너 ID가 들어있는 링크를 통해 물건을 구매하면 매출의 3%가 파트너에게 주어집니다. 사업자의 경우에는 증빙서류를 제출하면 직접 입금해주고, 아니면 적립금으로 넣어주죠.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tretre_",
+						"name": "뜰애",
+						"id": 169424663,
+						"id_str": "169424663",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 877702681598414800,
+			"in_reply_to_status_id_str": "877702681598414851",
+			"in_reply_to_user_id": 169424663,
+			"in_reply_to_user_id_str": "169424663",
+			"in_reply_to_screen_name": "tretre_",
+			"user": {
+				"id": 18895603,
+				"id_str": "18895603",
+				"name": "Minhyung",
+				"screen_name": "lostland",
+				"location": "Seoul, Korea",
+				"description": "Novice programmer. Mostly harmless. Profile Image Source: https://t.co/sIV68gwevX © 2014-2017 水晶雫.com",
+				"url": "http://t.co/iaJBtBGAWs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/iaJBtBGAWs",
+								"expanded_url": "http://ask.fm/lostland",
+								"display_url": "ask.fm/lostland",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/sIV68gwevX",
+								"expanded_url": "http://suishoshizuku.com/",
+								"display_url": "suishoshizuku.com",
+								"indices": [
+									58,
+									81
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 679,
+				"friends_count": 140,
+				"listed_count": 37,
+				"created_at": "Mon Jan 12 08:35:00 +0000 2009",
+				"favourites_count": 71,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 76778,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876643839540248576/43ITfcYk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876643839540248576/43ITfcYk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18895603/1392652511",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Jul 25 16:46:25 +0000 2017",
+		"id": 889889586796675100,
+		"id_str": "889889586796675072",
+		"text": "신간 알림봇 머리 잘 썼네요. 독자들이 안내에 따라 링크로 들어가서 사면 파트너 제휴로 돈 벌 수 있는 구조. @lnovel_notifier",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lnovel_notifier",
+					"name": "신간 라이트노벨 알림봇(δ)",
+					"id": 3184948112,
+					"id_str": "3184948112",
+					"indices": [
+						62,
+						78
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1061,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10108,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Jul 25 08:26:14 +0000 2017",
 		"id": 889763710373208000,
 		"id_str": "889763710373208064",
