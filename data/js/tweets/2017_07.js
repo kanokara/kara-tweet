@@ -1,6 +1,432 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Wed Jul 26 13:35:02 +0000 2017",
+		"id": 890203812002123800,
+		"id_str": "890203812002123777",
+		"text": "RT @type_aksdnwjf: 어엌ㅋㅋㅋㅋㅋ 창조경제 미쳤닼ㅋㅋㅋㅋㅋㅋㅋㅋ 방탄소년단 명찰 거의 개당 6천원에 파는데 잘 팔리고 있음 ㅅㅂㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/znXV5UoZOs https://t.co/iVGtyPaogm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "type_aksdnwjf",
+					"name": "TRrn",
+					"id": 3120895622,
+					"id_str": "3120895622",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/znXV5UoZOs",
+					"expanded_url": "https://www.amazon.co.jp/dp/B00LO5BS42/ref=cm_sw_r_tw_dp_x_aDjEzbW5JZJ6W",
+					"display_url": "amazon.co.jp/dp/B00LO5BS42/…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 890202274282090500,
+					"id_str": "890202274282090497",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DFqiQIDUMAEu-Jc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFqiQIDUMAEu-Jc.jpg",
+					"url": "https://t.co/iVGtyPaogm",
+					"display_url": "pic.twitter.com/iVGtyPaogm",
+					"expanded_url": "https://twitter.com/type_aksdnwjf/status/890202291860512768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 906,
+							"h": 669,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 906,
+							"h": 669,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 502,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 890202291860512800,
+					"source_status_id_str": "890202291860512768",
+					"source_user_id": 3120895622,
+					"source_user_id_str": "3120895622"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 890202274282090500,
+					"id_str": "890202274282090497",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DFqiQIDUMAEu-Jc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFqiQIDUMAEu-Jc.jpg",
+					"url": "https://t.co/iVGtyPaogm",
+					"display_url": "pic.twitter.com/iVGtyPaogm",
+					"expanded_url": "https://twitter.com/type_aksdnwjf/status/890202291860512768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 906,
+							"h": 669,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 906,
+							"h": 669,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 502,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 890202291860512800,
+					"source_status_id_str": "890202291860512768",
+					"source_user_id": 3120895622,
+					"source_user_id_str": "3120895622"
+				},
+				{
+					"id": 890202274294677500,
+					"id_str": "890202274294677504",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/DFqiQIGUQAADjpL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFqiQIGUQAADjpL.jpg",
+					"url": "https://t.co/iVGtyPaogm",
+					"display_url": "pic.twitter.com/iVGtyPaogm",
+					"expanded_url": "https://twitter.com/type_aksdnwjf/status/890202291860512768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 398,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 1231,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 702,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 890202291860512800,
+					"source_status_id_str": "890202291860512768",
+					"source_user_id": 3120895622,
+					"source_user_id_str": "3120895622"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1061,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10109,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 26 13:29:00 +0000 2017",
+			"id": 890202291860512800,
+			"id_str": "890202291860512768",
+			"text": "어엌ㅋㅋㅋㅋㅋ 창조경제 미쳤닼ㅋㅋㅋㅋㅋㅋㅋㅋ 방탄소년단 명찰 거의 개당 6천원에 파는데 잘 팔리고 있음 ㅅㅂㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/znXV5UoZOs https://t.co/iVGtyPaogm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/znXV5UoZOs",
+						"expanded_url": "https://www.amazon.co.jp/dp/B00LO5BS42/ref=cm_sw_r_tw_dp_x_aDjEzbW5JZJ6W",
+						"display_url": "amazon.co.jp/dp/B00LO5BS42/…",
+						"indices": [
+							73,
+							96
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 890202274282090500,
+						"id_str": "890202274282090497",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/DFqiQIDUMAEu-Jc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFqiQIDUMAEu-Jc.jpg",
+						"url": "https://t.co/iVGtyPaogm",
+						"display_url": "pic.twitter.com/iVGtyPaogm",
+						"expanded_url": "https://twitter.com/type_aksdnwjf/status/890202291860512768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 906,
+								"h": 669,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 906,
+								"h": 669,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 502,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 890202274282090500,
+						"id_str": "890202274282090497",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/DFqiQIDUMAEu-Jc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFqiQIDUMAEu-Jc.jpg",
+						"url": "https://t.co/iVGtyPaogm",
+						"display_url": "pic.twitter.com/iVGtyPaogm",
+						"expanded_url": "https://twitter.com/type_aksdnwjf/status/890202291860512768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 906,
+								"h": 669,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 906,
+								"h": 669,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 502,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 890202274294677500,
+						"id_str": "890202274294677504",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/DFqiQIGUQAADjpL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFqiQIGUQAADjpL.jpg",
+						"url": "https://t.co/iVGtyPaogm",
+						"display_url": "pic.twitter.com/iVGtyPaogm",
+						"expanded_url": "https://twitter.com/type_aksdnwjf/status/890202291860512768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 398,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 1231,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 702,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3120895622,
+				"id_str": "3120895622",
+				"name": "TRrn",
+				"screen_name": "type_aksdnwjf",
+				"location": "",
+				"description": "생활 백치",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 51,
+				"friends_count": 28,
+				"listed_count": 0,
+				"created_at": "Tue Mar 31 16:42:18 +0000 2015",
+				"favourites_count": 10180,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5625,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/865551394312380416/oJl2DJ_z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/865551394312380416/oJl2DJ_z_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Jul 25 16:49:05 +0000 2017",
 		"id": 889890256916545500,
 		"id_str": "889890256916545536",
