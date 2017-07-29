@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sat Jul 29 07:09:32 +0000 2017",
+		"id": 891193962102444000,
+		"id_str": "891193962102444032",
+		"text": "RT @dangun76: 오늘은 또 이런 통계가 보이네요. 핀란드 독일 사용자들은 비디오보다 기사를 더 선호한다는 조사입니다.  포맷에 대한 고민거리를 던져주는 조사 결과네요.... https://t.co/B7VlVLjmaR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dangun76",
+					"name": "Sungkyu Lee",
+					"id": 14564657,
+					"id_str": "14564657",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/B7VlVLjmaR",
+					"expanded_url": "http://fb.me/Rq199kbq",
+					"display_url": "fb.me/Rq199kbq",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1061,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10103,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Oct 04 23:24:31 +0000 2016",
+			"id": 783447741150093300,
+			"id_str": "783447741150093312",
+			"text": "오늘은 또 이런 통계가 보이네요. 핀란드 독일 사용자들은 비디오보다 기사를 더 선호한다는 조사입니다.  포맷에 대한 고민거리를 던져주는 조사 결과네요.... https://t.co/B7VlVLjmaR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/B7VlVLjmaR",
+						"expanded_url": "http://fb.me/Rq199kbq",
+						"display_url": "fb.me/Rq199kbq",
+						"indices": [
+							88,
+							111
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14564657,
+				"id_str": "14564657",
+				"name": "Sungkyu Lee",
+				"screen_name": "dangun76",
+				"location": "Seoul, South Korea",
+				"description": "ex-ohmynews journalist, Daum bloggernews editor,Maeil Business newspaper researcher,CEO at Muzalive, Director at Bloter Medialab, Director@mediati",
+				"url": "https://t.co/ZVK9Uvk1Nu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZVK9Uvk1Nu",
+								"expanded_url": "http://withstories.com/user:10",
+								"display_url": "withstories.com/user:10",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7091,
+				"friends_count": 1361,
+				"listed_count": 502,
+				"created_at": "Mon Apr 28 02:51:31 +0000 2008",
+				"favourites_count": 1910,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18007,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "094399",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3702241/1270133656.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3702241/1270133656.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/702350489178902528/Y3MJf-Ch_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/702350489178902528/Y3MJf-Ch_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14564657/1494194925",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Jul 28 18:56:06 +0000 2017",
 		"id": 891009387279417300,
 		"id_str": "891009387279417344",
