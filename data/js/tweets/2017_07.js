@@ -1,6 +1,388 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sun Jul 30 08:04:41 +0000 2017",
+		"id": 891570227120529400,
+		"id_str": "891570227120529408",
+		"text": "정말로 이해할 수 없는 사고다... 선해한다고 해도 무임승차에 대한 아무런 문제 의식이 없었다는 것 말고는 설명할 수가 없네요.\nhttps://t.co/rAvlzdf2fO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rAvlzdf2fO",
+					"expanded_url": "https://twitter.com/SabotenD/status/891524633379221505",
+					"display_url": "twitter.com/SabotenD/statu…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 891568544097345500,
+		"in_reply_to_status_id_str": "891568544097345536",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1061,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10105,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 891524633379221500,
+		"quoted_status_id_str": "891524633379221505",
+		"quoted_status": {
+			"created_at": "Sun Jul 30 05:03:30 +0000 2017",
+			"id": 891524633379221500,
+			"id_str": "891524633379221505",
+			"text": "@Gomoao 공식 이미지를 제공받은 사업체이고 콜라보 카페 및 상품 판매도 허락 받았지만 공식은 아니라고 합니다. 그것이 소녀전선측의 입장입니다...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Gomoao",
+						"name": "Gomoao",
+						"id": 489948967,
+						"id_str": "489948967",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 891522722924159000,
+			"in_reply_to_status_id_str": "891522722924158980",
+			"in_reply_to_user_id": 489948967,
+			"in_reply_to_user_id_str": "489948967",
+			"in_reply_to_screen_name": "Gomoao",
+			"user": {
+				"id": 84501033,
+				"id_str": "84501033",
+				"name": "한경철(사보텐)",
+				"screen_name": "SabotenD",
+				"location": "Seoul - Tokyo",
+				"description": "시럽아트는 사보텐스토어로",
+				"url": "https://t.co/LLZL4fVUIB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LLZL4fVUIB",
+								"expanded_url": "http://www.sabostore.com",
+								"display_url": "sabostore.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7785,
+				"friends_count": 755,
+				"listed_count": 102,
+				"created_at": "Fri Oct 23 04:02:47 +0000 2009",
+				"favourites_count": 894,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 143823,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "94D487",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/665918864492879874/vW-DuUQf.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/665918864492879874/vW-DuUQf.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/700342576889528321/f7SZBZas_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/700342576889528321/f7SZBZas_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/84501033/1487094298",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 96,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Jul 30 07:58:00 +0000 2017",
+		"id": 891568544097345500,
+		"id_str": "891568544097345536",
+		"text": "아니, 소녀전선 측에 돌아가는 이익(=로열티 계약)도 없는 상황에서 일방적으로 IP를 이용하면서 그게 '공식'일 거라 생각한 건... 사업체를 운영하는 분의 사고라기엔 너무 느슨한 것 아닌가요?\nhttps://t.co/os44ZqtEAl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/os44ZqtEAl",
+					"expanded_url": "https://twitter.com/SabotenD/status/891519757802807296",
+					"display_url": "twitter.com/SabotenD/statu…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1061,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10105,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 891519757802807300,
+		"quoted_status_id_str": "891519757802807296",
+		"quoted_status": {
+			"created_at": "Sun Jul 30 04:44:08 +0000 2017",
+			"id": 891519757802807300,
+			"id_str": "891519757802807296",
+			"text": "공지가 수정되었어도 여전히 사보텐스토어가 기업체인 주제에 동인으로 속여서 무단으로 소녀전선 카페를 연다!....란 이야기가 많아서 억울해서... 전 분명히 사업체임을 명시했...습니다... 이미지도 공식을… https://t.co/USvlQi9SZf",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/USvlQi9SZf",
+						"expanded_url": "https://twitter.com/i/web/status/891519757802807296",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 84501033,
+				"id_str": "84501033",
+				"name": "한경철(사보텐)",
+				"screen_name": "SabotenD",
+				"location": "Seoul - Tokyo",
+				"description": "시럽아트는 사보텐스토어로",
+				"url": "https://t.co/LLZL4fVUIB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LLZL4fVUIB",
+								"expanded_url": "http://www.sabostore.com",
+								"display_url": "sabostore.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7785,
+				"friends_count": 755,
+				"listed_count": 102,
+				"created_at": "Fri Oct 23 04:02:47 +0000 2009",
+				"favourites_count": 894,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 143823,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "94D487",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/665918864492879874/vW-DuUQf.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/665918864492879874/vW-DuUQf.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/700342576889528321/f7SZBZas_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/700342576889528321/f7SZBZas_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/84501033/1487094298",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 646,
+			"favorite_count": 50,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Jul 29 07:09:32 +0000 2017",
 		"id": 891193962102444000,
 		"id_str": "891193962102444032",
