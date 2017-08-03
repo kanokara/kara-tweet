@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 03 09:40:14 +0000 2017",
+		"id": 893043823193935900,
+		"id_str": "893043823193935872",
+		"text": "RT @shonen_Ace: 「けものフレンズ コミックアラカルト ジャパリパーク編 その２」のAmazon限定版が発売します！ たつき監督の描き下ろしイラストがアクリルスタンドに大変身♪ \nご予約はこちら↓↓↓\nhttps://t.co/HlIz6dUzOC　#けものフレン…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shonen_Ace",
+					"name": "少年エース",
+					"id": 2371707378,
+					"id_str": "2371707378",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HlIz6dUzOC",
+					"expanded_url": "https://www.amazon.co.jp/dp/B074BKFN4C/",
+					"display_url": "amazon.co.jp/dp/B074BKFN4C/",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 73,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1060,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10130,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 03 09:03:42 +0000 2017",
+			"id": 893034632253366300,
+			"id_str": "893034632253366274",
+			"text": "「けものフレンズ コミックアラカルト ジャパリパーク編 その２」のAmazon限定版が発売します！ たつき監督の描き下ろしイラストがアクリルスタンドに大変身♪ \nご予約はこちら↓↓↓\nhttps://t.co/HlIz6dUzOC… https://t.co/gX1jA35xDR",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HlIz6dUzOC",
+						"expanded_url": "https://www.amazon.co.jp/dp/B074BKFN4C/",
+						"display_url": "amazon.co.jp/dp/B074BKFN4C/",
+						"indices": [
+							92,
+							115
+						]
+					},
+					{
+						"url": "https://t.co/gX1jA35xDR",
+						"expanded_url": "https://twitter.com/i/web/status/893034632253366274",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2371707378,
+				"id_str": "2371707378",
+				"name": "少年エース",
+				"screen_name": "shonen_Ace",
+				"location": "東京都千代田区",
+				"description": "角川書店がお届けする毎月26日発売の漫画雑誌『月刊少年エース』公式アカウントです。超絶ユルいです。生暖かい目で優しく見守っていただけますか？　どうでしょうか。",
+				"url": "http://t.co/E1OFZsz6Cd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/E1OFZsz6Cd",
+								"expanded_url": "http://www.kadokawa.co.jp/ace/",
+								"display_url": "kadokawa.co.jp/ace/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5685,
+				"friends_count": 616,
+				"listed_count": 170,
+				"created_at": "Tue Mar 04 10:20:19 +0000 2014",
+				"favourites_count": 93,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4844,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B22222",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440824715100168192/wa_c4Jq4.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440824715100168192/wa_c4Jq4.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/440811332426682368/IUf8ootL_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/440811332426682368/IUf8ootL_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2371707378/1486116231",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1595,
+			"favorite_count": 1971,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1595,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Thu Aug 03 09:08:55 +0000 2017",
 		"id": 893035945536110600,
 		"id_str": "893035945536110592",
