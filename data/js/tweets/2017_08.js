@@ -1,6 +1,398 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Mon Aug 07 09:30:01 +0000 2017",
+		"id": 894490806282629100,
+		"id_str": "894490806282629120",
+		"text": "RT @krucef: 지금은 어떤 이용자가 게임에 접속하고 한시간 플레이하면 아 이사람이 얼마를 더 쓰겠다. 라고 예측 결과가 나올겁니다. 큰 회사 모바일 사업부는 거의 그런 공식을 내부적으로 가지고 있을 듯.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "krucef",
+					"name": "Oh Young Wook",
+					"id": 49681635,
+					"id_str": "49681635",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1034,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10135,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 07 01:20:02 +0000 2017",
+			"id": 894367495498244100,
+			"id_str": "894367495498244096",
+			"text": "지금은 어떤 이용자가 게임에 접속하고 한시간 플레이하면 아 이사람이 얼마를 더 쓰겠다. 라고 예측 결과가 나올겁니다. 큰 회사 모바일 사업부는 거의 그런 공식을 내부적으로 가지고 있을 듯.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 894367162923597800,
+			"in_reply_to_status_id_str": "894367162923597824",
+			"in_reply_to_user_id": 49681635,
+			"in_reply_to_user_id_str": "49681635",
+			"in_reply_to_screen_name": "krucef",
+			"user": {
+				"id": 49681635,
+				"id_str": "49681635",
+				"name": "Oh Young Wook",
+				"screen_name": "krucef",
+				"location": "",
+				"description": "게임개발자, 프로그래머, 게임공부함 https://t.co/1kQzJgaOWR , https://t.co/ZTNtQWMArv 운영, 판교, 게임개발자연대",
+				"url": "https://t.co/DOZEd5t86t",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DOZEd5t86t",
+								"expanded_url": "http://krucef.com",
+								"display_url": "krucef.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1kQzJgaOWR",
+								"expanded_url": "http://www.kgdb.org",
+								"display_url": "kgdb.org",
+								"indices": [
+									20,
+									43
+								]
+							},
+							{
+								"url": "https://t.co/ZTNtQWMArv",
+								"expanded_url": "http://gamemook.com",
+								"display_url": "gamemook.com",
+								"indices": [
+									46,
+									69
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2607,
+				"friends_count": 1196,
+				"listed_count": 116,
+				"created_at": "Mon Jun 22 16:34:57 +0000 2009",
+				"favourites_count": 12840,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 44793,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/867238741722763264/SRKywrRE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/867238741722763264/SRKywrRE_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Aug 07 09:29:59 +0000 2017",
+		"id": 894490795184496600,
+		"id_str": "894490795184496640",
+		"text": "RT @krucef: 특히 2009년을 기점으로 게임계는 그냥 이 기조로 돌아섰다고 봅니다. 징가가 페이스북에서 돈을 갈퀴로 끌어모으면서 광고쪽에서 이용하는 수많은 측정방법론이 게임으로 그대로 흡수되었고 발전하였지요..",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "krucef",
+					"name": "Oh Young Wook",
+					"id": 49681635,
+					"id_str": "49681635",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1034,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10135,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 07 01:18:42 +0000 2017",
+			"id": 894367162923597800,
+			"id_str": "894367162923597824",
+			"text": "특히 2009년을 기점으로 게임계는 그냥 이 기조로 돌아섰다고 봅니다. 징가가 페이스북에서 돈을 갈퀴로 끌어모으면서 광고쪽에서 이용하는 수많은 측정방법론이 게임으로 그대로 흡수되었고 발전하였지요..",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 894366892399382500,
+			"in_reply_to_status_id_str": "894366892399382528",
+			"in_reply_to_user_id": 49681635,
+			"in_reply_to_user_id_str": "49681635",
+			"in_reply_to_screen_name": "krucef",
+			"user": {
+				"id": 49681635,
+				"id_str": "49681635",
+				"name": "Oh Young Wook",
+				"screen_name": "krucef",
+				"location": "",
+				"description": "게임개발자, 프로그래머, 게임공부함 https://t.co/1kQzJgaOWR , https://t.co/ZTNtQWMArv 운영, 판교, 게임개발자연대",
+				"url": "https://t.co/DOZEd5t86t",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DOZEd5t86t",
+								"expanded_url": "http://krucef.com",
+								"display_url": "krucef.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1kQzJgaOWR",
+								"expanded_url": "http://www.kgdb.org",
+								"display_url": "kgdb.org",
+								"indices": [
+									20,
+									43
+								]
+							},
+							{
+								"url": "https://t.co/ZTNtQWMArv",
+								"expanded_url": "http://gamemook.com",
+								"display_url": "gamemook.com",
+								"indices": [
+									46,
+									69
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2607,
+				"friends_count": 1196,
+				"listed_count": 116,
+				"created_at": "Mon Jun 22 16:34:57 +0000 2009",
+				"favourites_count": 12840,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 44793,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/867238741722763264/SRKywrRE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/867238741722763264/SRKywrRE_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Aug 07 09:08:20 +0000 2017",
 		"id": 894485349207949300,
 		"id_str": "894485349207949312",
