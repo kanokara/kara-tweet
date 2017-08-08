@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Mon Aug 07 23:51:07 +0000 2017",
+		"id": 894707508295516200,
+		"id_str": "894707508295516161",
+		"text": "RT @ganesha20140510: 日本人の死生観に変化　「霊魂信じる」増加中 https://t.co/Ao1DB2r2fz @dot_asahi_pubさんから",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ganesha20140510",
+					"name": "まつなみ研究室",
+					"id": 2486555210,
+					"id_str": "2486555210",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "dot_asahi_pub",
+					"name": "AERA dot. (アエラドット)",
+					"id": 804338455,
+					"id_str": "804338455",
+					"indices": [
+						67,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ao1DB2r2fz",
+					"expanded_url": "https://dot.asahi.com/aera/2017080400060.html",
+					"display_url": "dot.asahi.com/aera/201708040…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1034,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10141,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 07 13:13:37 +0000 2017",
+			"id": 894547077740478500,
+			"id_str": "894547077740478465",
+			"text": "日本人の死生観に変化　「霊魂信じる」増加中 https://t.co/Ao1DB2r2fz @dot_asahi_pubさんから",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dot_asahi_pub",
+						"name": "AERA dot. (アエラドット)",
+						"id": 804338455,
+						"id_str": "804338455",
+						"indices": [
+							46,
+							60
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Ao1DB2r2fz",
+						"expanded_url": "https://dot.asahi.com/aera/2017080400060.html",
+						"display_url": "dot.asahi.com/aera/201708040…",
+						"indices": [
+							22,
+							45
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2486555210,
+				"id_str": "2486555210",
+				"name": "まつなみ研究室",
+				"screen_name": "ganesha20140510",
+				"location": "東京都",
+				"description": "理学博士＋経営学修士の元大学教員。仏教（法と縁起と界・空性・不二・華厳思想・如来蔵思想・本覚思想etc. https://t.co/sLZEnBvuQZ）、ヴァイシェーシカ学派（https://t.co/KR9kok6Tzl）などを勉強。",
+				"url": "https://t.co/KgLpD45blr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KgLpD45blr",
+								"expanded_url": "http://matsunamilab.cocolog-nifty.com/blog/",
+								"display_url": "matsunamilab.cocolog-nifty.com/blog/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/sLZEnBvuQZ",
+								"expanded_url": "http://matsunamilab.cocolog-nifty.com/dharma/",
+								"display_url": "matsunamilab.cocolog-nifty.com/dharma/",
+								"indices": [
+									53,
+									76
+								]
+							},
+							{
+								"url": "https://t.co/KR9kok6Tzl",
+								"expanded_url": "http://matsunamilab.cocolog-nifty.com/vaisesika/",
+								"display_url": "matsunamilab.cocolog-nifty.com/vaisesika/",
+								"indices": [
+									89,
+									112
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1064,
+				"friends_count": 2191,
+				"listed_count": 20,
+				"created_at": "Sat May 10 03:22:54 +0000 2014",
+				"favourites_count": 16,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 29594,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/465096659068674048/jMh9crBv_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/465096659068674048/jMh9crBv_normal.jpeg",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Mon Aug 07 23:09:39 +0000 2017",
 		"id": 894697072955277300,
 		"id_str": "894697072955277317",
