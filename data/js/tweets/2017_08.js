@@ -1,6 +1,579 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Thu Aug 10 12:08:16 +0000 2017",
+		"id": 895617793336291300,
+		"id_str": "895617793336291328",
+		"text": "RT @animatetimes: 【ニュース】『空の境界』より、両儀式モデルのレザーブルゾン＆“直死の魔眼”をイメージした文字盤の腕時計が登場！ https://t.co/y011LGFUCI https://t.co/YWy4qYkcCh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "animatetimes",
+					"name": "アニメイトタイムズ公式",
+					"id": 131032996,
+					"id_str": "131032996",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/y011LGFUCI",
+					"expanded_url": "http://www.animatetimes.com/news/details.php?id=1502340846",
+					"display_url": "animatetimes.com/news/details.p…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 895571683741802500,
+					"id_str": "895571683741802496",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/DG21s5BUIAATMAk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DG21s5BUIAATMAk.jpg",
+					"url": "https://t.co/YWy4qYkcCh",
+					"display_url": "pic.twitter.com/YWy4qYkcCh",
+					"expanded_url": "https://twitter.com/animatetimes/status/895571685633540096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 895571685633540100,
+					"source_status_id_str": "895571685633540096",
+					"source_user_id": 131032996,
+					"source_user_id_str": "131032996"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 895571683741802500,
+					"id_str": "895571683741802496",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/DG21s5BUIAATMAk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DG21s5BUIAATMAk.jpg",
+					"url": "https://t.co/YWy4qYkcCh",
+					"display_url": "pic.twitter.com/YWy4qYkcCh",
+					"expanded_url": "https://twitter.com/animatetimes/status/895571685633540096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 895571685633540100,
+					"source_status_id_str": "895571685633540096",
+					"source_user_id": 131032996,
+					"source_user_id_str": "131032996"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1034,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10138,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 10 09:05:03 +0000 2017",
+			"id": 895571685633540100,
+			"id_str": "895571685633540096",
+			"text": "【ニュース】『空の境界』より、両儀式モデルのレザーブルゾン＆“直死の魔眼”をイメージした文字盤の腕時計が登場！ https://t.co/y011LGFUCI https://t.co/YWy4qYkcCh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/y011LGFUCI",
+						"expanded_url": "http://www.animatetimes.com/news/details.php?id=1502340846",
+						"display_url": "animatetimes.com/news/details.p…",
+						"indices": [
+							56,
+							79
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 895571683741802500,
+						"id_str": "895571683741802496",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/DG21s5BUIAATMAk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DG21s5BUIAATMAk.jpg",
+						"url": "https://t.co/YWy4qYkcCh",
+						"display_url": "pic.twitter.com/YWy4qYkcCh",
+						"expanded_url": "https://twitter.com/animatetimes/status/895571685633540096/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 640,
+								"h": 427,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 427,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 427,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 895571683741802500,
+						"id_str": "895571683741802496",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/DG21s5BUIAATMAk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DG21s5BUIAATMAk.jpg",
+						"url": "https://t.co/YWy4qYkcCh",
+						"display_url": "pic.twitter.com/YWy4qYkcCh",
+						"expanded_url": "https://twitter.com/animatetimes/status/895571685633540096/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 640,
+								"h": 427,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 427,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 427,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.animatetimes.com/\" rel=\"nofollow\">AT自動つぶやき</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 131032996,
+				"id_str": "131032996",
+				"name": "アニメイトタイムズ公式",
+				"screen_name": "animatetimes",
+				"location": "",
+				"description": "【2016年4月27日　アニメイトTVからアニメイトタイムズへ名称を変更いたしました】アニメの事ならアニメイトタイムズ！声優/アニメニュース・声優ラジオ・PV配信などアニメに関する情報が満載です！なお、Twitter上でのお問い合わせにはお答えできかねますので、ご了承下さい。",
+				"url": "https://t.co/4mRfhHM40v",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4mRfhHM40v",
+								"expanded_url": "http://www.animatetimes.com/",
+								"display_url": "animatetimes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 435884,
+				"friends_count": 139,
+				"listed_count": 4697,
+				"created_at": "Fri Apr 09 02:23:25 +0000 2010",
+				"favourites_count": 3,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 108429,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "A4C1F8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/748475550/725e192c10ee68a56f71268102f265bd.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/748475550/725e192c10ee68a56f71268102f265bd.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848188319515131904/R3YGR03o_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848188319515131904/R3YGR03o_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/131032996/1461722034",
+				"profile_link_color": "385EAA",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1588,
+			"favorite_count": 1131,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1588,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Thu Aug 10 12:06:16 +0000 2017",
+		"id": 895617291076870100,
+		"id_str": "895617291076870145",
+		"text": "RT @Super_Groupies: 劇場版『空の境界』より両儀式の真っ赤なブルゾンを再現した本革のレザーブルゾンと、“直死の魔眼”をイメージしたシェルダイヤルの腕時計を身に着け、あたりまえのように生きてみませんか…？\nhttps://t.co/uRKUfcTcV5\n#空の境…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Super_Groupies",
+					"name": "SuperGroupies",
+					"id": 1303506571,
+					"id_str": "1303506571",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uRKUfcTcV5",
+					"expanded_url": "https://www.super-groupies.com/special/karanokyoukai_blouson01/?utm_source=twitter&utm_medium=social&utm_campaign=20170810karanokyoukai",
+					"display_url": "super-groupies.com/special/karano…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1034,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10138,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Aug 10 08:13:17 +0000 2017",
+			"id": 895558660457234400,
+			"id_str": "895558660457234432",
+			"text": "劇場版『空の境界』より両儀式の真っ赤なブルゾンを再現した本革のレザーブルゾンと、“直死の魔眼”をイメージしたシェルダイヤルの腕時計を身に着け、あたりまえのように生きてみませんか…？\nhttps://t.co/uRKUfcTcV5… https://t.co/VRmi1KW0Gy",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uRKUfcTcV5",
+						"expanded_url": "https://www.super-groupies.com/special/karanokyoukai_blouson01/?utm_source=twitter&utm_medium=social&utm_campaign=20170810karanokyoukai",
+						"display_url": "super-groupies.com/special/karano…",
+						"indices": [
+							91,
+							114
+						]
+					},
+					{
+						"url": "https://t.co/VRmi1KW0Gy",
+						"expanded_url": "https://twitter.com/i/web/status/895558660457234432",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1303506571,
+				"id_str": "1303506571",
+				"name": "SuperGroupies",
+				"screen_name": "Super_Groupies",
+				"location": "東京 渋谷区",
+				"description": "SuperGroupies（スーパーグルーピーズ）の公式Twitterです。こちらのアカウントからはご質問などはお応えしておりません。お問い合わせにつきましては当店サイトの右下に表示されますオンラインチャット窓口からご連絡くださいませ。",
+				"url": "https://t.co/g87YHjkBu7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/g87YHjkBu7",
+								"expanded_url": "http://www.super-groupies.com/",
+								"display_url": "super-groupies.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 69051,
+				"friends_count": 3794,
+				"listed_count": 930,
+				"created_at": "Tue Mar 26 10:55:34 +0000 2013",
+				"favourites_count": 4602,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5842,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/684910748871475201/B2g_rmK2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/684910748871475201/B2g_rmK2.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/519012253287206913/QCYJJ8zH_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/519012253287206913/QCYJJ8zH_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1303506571/1499396364",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1745,
+			"favorite_count": 1237,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1745,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Mon Aug 07 23:51:07 +0000 2017",
 		"id": 894707508295516200,
 		"id_str": "894707508295516161",
