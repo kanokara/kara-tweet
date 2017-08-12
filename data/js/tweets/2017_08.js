@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sat Aug 12 03:06:14 +0000 2017",
+		"id": 896206162781102100,
+		"id_str": "896206162781102081",
+		"text": "앗, 트위터 며칠만에 들어와서 맥락 파악이 잘 안 되네요. 나카마사 마사키와 신카이 씨는 둘 다 포스트모던에 비판적인 논조를 견지했다고 생각했는데, 무슨 일인지 지금 크게 싸우는 모양이에요.\nhttps://t.co/xt3i4E56we",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xt3i4E56we",
+					"expanded_url": "https://twitter.com/shinkai35/status/896175698242527232",
+					"display_url": "twitter.com/shinkai35/stat…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1034,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10130,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 896175698242527200,
+		"quoted_status_id_str": "896175698242527232",
+		"quoted_status": {
+			"created_at": "Sat Aug 12 01:05:11 +0000 2017",
+			"id": 896175698242527200,
+			"id_str": "896175698242527232",
+			"text": "「言う傾向がある。前回で話題にした「たかはし」や山川賢一の発言がその典型だ。言っている当人たちは、矛盾しているとは思わないようである」ぼくがいつどのように矛盾したことをいったのか具体例を挙げてもらえませんかねえ。\nhttps://t.co/mf7r3eV6GZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mf7r3eV6GZ",
+						"expanded_url": "http://meigetu.net/?p=5417",
+						"display_url": "meigetu.net/?p=5417",
+						"indices": [
+							107,
+							130
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 896174691617984500,
+			"in_reply_to_status_id_str": "896174691617984513",
+			"in_reply_to_user_id": 135142222,
+			"in_reply_to_user_id_str": "135142222",
+			"in_reply_to_screen_name": "shinkai35",
+			"user": {
+				"id": 135142222,
+				"id_str": "135142222",
+				"name": "しんかい３８（山川賢一）",
+				"screen_name": "shinkai35",
+				"location": "自爆殺戮名古屋交差点",
+				"description": "好きなフレンズはアライグマです。",
+				"url": "http://t.co/3dOWXFDzVp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/3dOWXFDzVp",
+								"expanded_url": "http://yamakawa1977.blogspot.jp/",
+								"display_url": "yamakawa1977.blogspot.jp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4517,
+				"friends_count": 1477,
+				"listed_count": 340,
+				"created_at": "Tue Apr 20 13:08:34 +0000 2010",
+				"favourites_count": 9203,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 72671,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/854498626/c55fd7d22ef2a822604c31bdb81b92b4.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/854498626/c55fd7d22ef2a822604c31bdb81b92b4.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/541458010275471360/AJaO0KaT_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/541458010275471360/AJaO0KaT_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/135142222/1499697723",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Aug 10 12:08:16 +0000 2017",
 		"id": 895617793336291300,
 		"id_str": "895617793336291328",
