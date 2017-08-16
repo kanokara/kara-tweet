@@ -1,6 +1,2064 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Wed Aug 16 00:10:51 +0000 2017",
+		"id": 897611578349985800,
+		"id_str": "897611578349985792",
+		"text": "임달영 씨에 따르면, 통신소설 당시에 유사한 경위를 거쳐서 판타지 게시판이 신설되었다고 하네요.\nhttps://t.co/ykjYLlLJmf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ykjYLlLJmf",
+					"expanded_url": "https://twitter.com/pyodogi/status/897448617203580928",
+					"display_url": "twitter.com/pyodogi/status…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1033,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10152,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 897448617203580900,
+		"quoted_status_id_str": "897448617203580928",
+		"quoted_status": {
+			"created_at": "Tue Aug 15 13:23:18 +0000 2017",
+			"id": 897448617203580900,
+			"id_str": "897448617203580928",
+			"text": "소설을 통해 SF를 접한 팬들이 건담,스타워즈 같은 작품을 SF로 인정하지 않아서 이들을 다룬 소설이 '라이트 노벨'이라 불리게 된 것 같은 일은 일본만이 아니라 미국, 한국에서도 일어난 일입니다.. (라이트노벨의 탄생) #라이트노벨",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "라이트노벨",
+						"indices": [
+							124,
+							130
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 121651501,
+				"id_str": "121651501",
+				"name": "JEON HONG SIK",
+				"screen_name": "pyodogi",
+				"location": "Korea",
+				"description": "게임 시나리오 작가. /  취미는 독서... 취미 이외에도 독서... 항상 책과 벗하며 특히 SF와 판타지를 좋아하는 청년 / 한국IT전문학교 게임스토리텔링학과 교수 / 웹소설 작가를 위한 장르 가이드(판타지,SF,라이트노벨) 집필",
+				"url": "http://t.co/Jd3jJtAx8p",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Jd3jJtAx8p",
+								"expanded_url": "http://cosmiclibrary.tistory.com",
+								"display_url": "cosmiclibrary.tistory.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3030,
+				"friends_count": 3300,
+				"listed_count": 77,
+				"created_at": "Wed Mar 10 04:49:47 +0000 2010",
+				"favourites_count": 181,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11073,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/868017288653324288/yL6h8ZSB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/868017288653324288/yL6h8ZSB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/121651501/1484222351",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Aug 16 00:06:54 +0000 2017",
+		"id": 897610583578521600,
+		"id_str": "897610583578521601",
+		"text": "RT @pyodogi: 소설을 통해 SF를 접한 팬들이 건담,스타워즈 같은 작품을 SF로 인정하지 않아서 이들을 다룬 소설이 '라이트 노벨'이라 불리게 된 것 같은 일은 일본만이 아니라 미국, 한국에서도 일어난 일입니다.. (라이트노벨의 탄생) #라…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pyodogi",
+					"name": "JEON HONG SIK",
+					"id": 121651501,
+					"id_str": "121651501",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1033,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10152,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 15 13:23:18 +0000 2017",
+			"id": 897448617203580900,
+			"id_str": "897448617203580928",
+			"text": "소설을 통해 SF를 접한 팬들이 건담,스타워즈 같은 작품을 SF로 인정하지 않아서 이들을 다룬 소설이 '라이트 노벨'이라 불리게 된 것 같은 일은 일본만이 아니라 미국, 한국에서도 일어난 일입니다.. (라이트노벨의 탄생) #라이트노벨",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "라이트노벨",
+						"indices": [
+							124,
+							130
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 121651501,
+				"id_str": "121651501",
+				"name": "JEON HONG SIK",
+				"screen_name": "pyodogi",
+				"location": "Korea",
+				"description": "게임 시나리오 작가. /  취미는 독서... 취미 이외에도 독서... 항상 책과 벗하며 특히 SF와 판타지를 좋아하는 청년 / 한국IT전문학교 게임스토리텔링학과 교수 / 웹소설 작가를 위한 장르 가이드(판타지,SF,라이트노벨) 집필",
+				"url": "http://t.co/Jd3jJtAx8p",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Jd3jJtAx8p",
+								"expanded_url": "http://cosmiclibrary.tistory.com",
+								"display_url": "cosmiclibrary.tistory.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3030,
+				"friends_count": 3300,
+				"listed_count": 77,
+				"created_at": "Wed Mar 10 04:49:47 +0000 2010",
+				"favourites_count": 181,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11073,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/868017288653324288/yL6h8ZSB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/868017288653324288/yL6h8ZSB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/121651501/1484222351",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Aug 16 00:06:27 +0000 2017",
+		"id": 897610469476782100,
+		"id_str": "897610469476782081",
+		"text": "RT @pyodogi: '건담의 소설 같은건 SF가 아니니 SF서평란에서 논하지 말자.'라는 주장을 받아들인 SF,판타지 동호회 관리자는 게시판을 독립시키고,여기에 '라이트 노벨'이라 이름 붙입니다.그렇게 라이트 노벨이란 용어는 탄생합니다.(라이트노…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pyodogi",
+					"name": "JEON HONG SIK",
+					"id": 121651501,
+					"id_str": "121651501",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1033,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10152,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 15 13:19:59 +0000 2017",
+			"id": 897447779567456300,
+			"id_str": "897447779567456257",
+			"text": "'건담의 소설 같은건 SF가 아니니 SF서평란에서 논하지 말자.'라는 주장을 받아들인 SF,판타지 동호회 관리자는 게시판을 독립시키고,여기에 '라이트 노벨'이라 이름 붙입니다.그렇게 라이트 노벨이란 용어는 탄생합니다.(라이트노벨의 탄생) #라이트노벨",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "라이트노벨",
+						"indices": [
+							133,
+							139
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 121651501,
+				"id_str": "121651501",
+				"name": "JEON HONG SIK",
+				"screen_name": "pyodogi",
+				"location": "Korea",
+				"description": "게임 시나리오 작가. /  취미는 독서... 취미 이외에도 독서... 항상 책과 벗하며 특히 SF와 판타지를 좋아하는 청년 / 한국IT전문학교 게임스토리텔링학과 교수 / 웹소설 작가를 위한 장르 가이드(판타지,SF,라이트노벨) 집필",
+				"url": "http://t.co/Jd3jJtAx8p",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Jd3jJtAx8p",
+								"expanded_url": "http://cosmiclibrary.tistory.com",
+								"display_url": "cosmiclibrary.tistory.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3030,
+				"friends_count": 3300,
+				"listed_count": 77,
+				"created_at": "Wed Mar 10 04:49:47 +0000 2010",
+				"favourites_count": 181,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11073,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/868017288653324288/yL6h8ZSB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/868017288653324288/yL6h8ZSB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/121651501/1484222351",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Aug 16 00:06:11 +0000 2017",
+		"id": 897610402833457200,
+		"id_str": "897610402833457152",
+		"text": "RT @pyodogi: '건담의 소설같은건 SF가 아니니 SF서평란에서 논하지 말자.'라는 소설파SF팬의 주장은 당시 서평게시판이 소노라마,코발트,가도카와 스니커 문고 같은데서 나온 이런 책들로 가득찼기 때문에 나온 불만이기도 했습니다. (라이트 노…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pyodogi",
+					"name": "JEON HONG SIK",
+					"id": 121651501,
+					"id_str": "121651501",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1033,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10152,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 15 13:18:16 +0000 2017",
+			"id": 897447350171390000,
+			"id_str": "897447350171389954",
+			"text": "'건담의 소설같은건 SF가 아니니 SF서평란에서 논하지 말자.'라는 소설파SF팬의 주장은 당시 서평게시판이 소노라마,코발트,가도카와 스니커 문고 같은데서 나온 이런 책들로 가득찼기 때문에 나온 불만이기도 했습니다. (라이트 노벨의 탄생) #라이트노벨",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "라이트노벨",
+						"indices": [
+							133,
+							139
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 121651501,
+				"id_str": "121651501",
+				"name": "JEON HONG SIK",
+				"screen_name": "pyodogi",
+				"location": "Korea",
+				"description": "게임 시나리오 작가. /  취미는 독서... 취미 이외에도 독서... 항상 책과 벗하며 특히 SF와 판타지를 좋아하는 청년 / 한국IT전문학교 게임스토리텔링학과 교수 / 웹소설 작가를 위한 장르 가이드(판타지,SF,라이트노벨) 집필",
+				"url": "http://t.co/Jd3jJtAx8p",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Jd3jJtAx8p",
+								"expanded_url": "http://cosmiclibrary.tistory.com",
+								"display_url": "cosmiclibrary.tistory.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3030,
+				"friends_count": 3300,
+				"listed_count": 77,
+				"created_at": "Wed Mar 10 04:49:47 +0000 2010",
+				"favourites_count": 181,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11073,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/868017288653324288/yL6h8ZSB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/868017288653324288/yL6h8ZSB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/121651501/1484222351",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Aug 16 00:06:05 +0000 2017",
+		"id": 897610378451984400,
+		"id_str": "897610378451984384",
+		"text": "RT @pyodogi: 소설파SF팬의 주장은 이랬습니다. \"2001년 우주의 여행(스페이스 오딧세이)\"처럼 SF소설 원작의 영상물은 인정한다.하지만 건담 같은 작품의 소설은 SF가 아니다.그러니 SF서평란에서 이야기하지 말자.(라이트노벨의 탄생) #…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pyodogi",
+					"name": "JEON HONG SIK",
+					"id": 121651501,
+					"id_str": "121651501",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1033,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10152,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 15 13:17:10 +0000 2017",
+			"id": 897447074039447600,
+			"id_str": "897447074039447552",
+			"text": "소설파SF팬의 주장은 이랬습니다. \"2001년 우주의 여행(스페이스 오딧세이)\"처럼 SF소설 원작의 영상물은 인정한다.하지만 건담 같은 작품의 소설은 SF가 아니다.그러니 SF서평란에서 이야기하지 말자.(라이트노벨의 탄생) #라이트노벨",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "라이트노벨",
+						"indices": [
+							125,
+							131
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 121651501,
+				"id_str": "121651501",
+				"name": "JEON HONG SIK",
+				"screen_name": "pyodogi",
+				"location": "Korea",
+				"description": "게임 시나리오 작가. /  취미는 독서... 취미 이외에도 독서... 항상 책과 벗하며 특히 SF와 판타지를 좋아하는 청년 / 한국IT전문학교 게임스토리텔링학과 교수 / 웹소설 작가를 위한 장르 가이드(판타지,SF,라이트노벨) 집필",
+				"url": "http://t.co/Jd3jJtAx8p",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Jd3jJtAx8p",
+								"expanded_url": "http://cosmiclibrary.tistory.com",
+								"display_url": "cosmiclibrary.tistory.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3030,
+				"friends_count": 3300,
+				"listed_count": 77,
+				"created_at": "Wed Mar 10 04:49:47 +0000 2010",
+				"favourites_count": 181,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11073,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/868017288653324288/yL6h8ZSB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/868017288653324288/yL6h8ZSB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/121651501/1484222351",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Aug 16 00:06:03 +0000 2017",
+		"id": 897610367341166600,
+		"id_str": "897610367341166592",
+		"text": "RT @pyodogi: 90년대 당시 신진 SF팬의 상당수는 야마토,스타워즈,건담 등의 영상물을 통해 SF를 접한 부류였고,그들에게 친숙한 이들 작품의 소설을 SF라고 생각했습니다.여기서 소설파SF팬과 영상파SF팬의 분쟁이 일어납니다. #라이트노벨",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라이트노벨",
+					"indices": [
+						132,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pyodogi",
+					"name": "JEON HONG SIK",
+					"id": 121651501,
+					"id_str": "121651501",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1033,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10152,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 15 13:15:17 +0000 2017",
+			"id": 897446600024313900,
+			"id_str": "897446600024313856",
+			"text": "90년대 당시 신진 SF팬의 상당수는 야마토,스타워즈,건담 등의 영상물을 통해 SF를 접한 부류였고,그들에게 친숙한 이들 작품의 소설을 SF라고 생각했습니다.여기서 소설파SF팬과 영상파SF팬의 분쟁이 일어납니다. #라이트노벨",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "라이트노벨",
+						"indices": [
+							119,
+							125
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 121651501,
+				"id_str": "121651501",
+				"name": "JEON HONG SIK",
+				"screen_name": "pyodogi",
+				"location": "Korea",
+				"description": "게임 시나리오 작가. /  취미는 독서... 취미 이외에도 독서... 항상 책과 벗하며 특히 SF와 판타지를 좋아하는 청년 / 한국IT전문학교 게임스토리텔링학과 교수 / 웹소설 작가를 위한 장르 가이드(판타지,SF,라이트노벨) 집필",
+				"url": "http://t.co/Jd3jJtAx8p",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Jd3jJtAx8p",
+								"expanded_url": "http://cosmiclibrary.tistory.com",
+								"display_url": "cosmiclibrary.tistory.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3030,
+				"friends_count": 3300,
+				"listed_count": 77,
+				"created_at": "Wed Mar 10 04:49:47 +0000 2010",
+				"favourites_count": 181,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11073,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/868017288653324288/yL6h8ZSB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/868017288653324288/yL6h8ZSB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/121651501/1484222351",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Aug 16 00:05:54 +0000 2017",
+		"id": 897610331463143400,
+		"id_str": "897610331463143425",
+		"text": "RT @pyodogi: 라이트 노벨이란 말은 90년대 PC통신의 SF,판타지 동호회에서 탄생합니다.당시 소설 중심의 SF 팬은 건담이나 우주전함 야마토 같은 작품의 소설은 'SF가 아니다.'라며 이들 작품을 SF 서평 게시판에서 논하지 말자고 합니다…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pyodogi",
+					"name": "JEON HONG SIK",
+					"id": 121651501,
+					"id_str": "121651501",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1033,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10152,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 15 13:14:06 +0000 2017",
+			"id": 897446301582860300,
+			"id_str": "897446301582860288",
+			"text": "라이트 노벨이란 말은 90년대 PC통신의 SF,판타지 동호회에서 탄생합니다.당시 소설 중심의 SF 팬은 건담이나 우주전함 야마토 같은 작품의 소설은 'SF가 아니다.'라며 이들 작품을 SF 서평 게시판에서 논하지 말자고 합니다. #라이트노벨",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "라이트노벨",
+						"indices": [
+							128,
+							134
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 121651501,
+				"id_str": "121651501",
+				"name": "JEON HONG SIK",
+				"screen_name": "pyodogi",
+				"location": "Korea",
+				"description": "게임 시나리오 작가. /  취미는 독서... 취미 이외에도 독서... 항상 책과 벗하며 특히 SF와 판타지를 좋아하는 청년 / 한국IT전문학교 게임스토리텔링학과 교수 / 웹소설 작가를 위한 장르 가이드(판타지,SF,라이트노벨) 집필",
+				"url": "http://t.co/Jd3jJtAx8p",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Jd3jJtAx8p",
+								"expanded_url": "http://cosmiclibrary.tistory.com",
+								"display_url": "cosmiclibrary.tistory.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3030,
+				"friends_count": 3300,
+				"listed_count": 77,
+				"created_at": "Wed Mar 10 04:49:47 +0000 2010",
+				"favourites_count": 181,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11073,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/868017288653324288/yL6h8ZSB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/868017288653324288/yL6h8ZSB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/121651501/1484222351",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Aug 16 00:05:46 +0000 2017",
+		"id": 897610296163835900,
+		"id_str": "897610296163835905",
+		"text": "RT @sflibrary: 거대 로봇물은 초능력물과 유사한 점이 있습니다.힘을 통해 사람의 자아가 확장된다는 것이죠.슈퍼건 리얼이건,로봇이 신도 되고 악마도 되는 것은 결국 인간의 선택에 달린 것이며,모든 것은 그 시대 인간의 이야기라는 것을 느끼게…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sflibrary",
+					"name": "SF&판타지도서관",
+					"id": 140688755,
+					"id_str": "140688755",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1033,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10152,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 14 09:47:29 +0000 2017",
+			"id": 897031914338394100,
+			"id_str": "897031914338394114",
+			"text": "거대 로봇물은 초능력물과 유사한 점이 있습니다.힘을 통해 사람의 자아가 확장된다는 것이죠.슈퍼건 리얼이건,로봇이 신도 되고 악마도 되는 것은 결국 인간의 선택에 달린 것이며,모든 것은 그 시대 인간의 이야기라는 것을 느끼게 합니다. #거대로봇",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "거대로봇",
+						"indices": [
+							130,
+							135
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 140688755,
+				"id_str": "140688755",
+				"name": "SF&판타지도서관",
+				"screen_name": "sflibrary",
+				"location": "서울시 서대문구 연희동 121-6 중앙빌딩 3층",
+				"description": "SF&Fantasy Library in Korea.\nSF와 판타지 장르 전문 도서관.홍대입구역에서 버스(7612,7739번)로 연희자치회관 하차.(연희중앙교회 맞은편 마스터카센터3층) ( 070-8102-5010 )\n페이스북 : http://t.co/D8ikimpFat",
+				"url": "http://t.co/peTlGaCPgq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/peTlGaCPgq",
+								"expanded_url": "http://www.sflib.com/",
+								"display_url": "sflib.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/D8ikimpFat",
+								"expanded_url": "http://www.facebook.com/sflibrarykr",
+								"display_url": "facebook.com/sflibrarykr",
+								"indices": [
+									128,
+									150
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 9507,
+				"friends_count": 10069,
+				"listed_count": 229,
+				"created_at": "Thu May 06 04:34:42 +0000 2010",
+				"favourites_count": 142,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9102,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/871610439427276800/0c48ph82_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/871610439427276800/0c48ph82_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/140688755/1409911393",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Aug 16 00:05:28 +0000 2017",
+		"id": 897610223963078700,
+		"id_str": "897610223963078657",
+		"text": "RT @zambony76: 문제의 논쟁을 구체적으로 살펴보지를 못하여 자세한건 알수없으나 아무래도 기획당시 로봇대신 파워드수트를 표현하라고 스타쉽 트루퍼스 추천해줬는데 정작 나온건 그냥 거대로봇물이라 토라진건 아니었을까 뭐 그런 생각도 드는 거시다",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zambony76",
+					"name": "잠본이",
+					"id": 1644389425,
+					"id_str": "1644389425",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1033,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10152,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 22 11:23:55 +0000 2016",
+			"id": 712238373969104900,
+			"id_str": "712238373969104896",
+			"text": "문제의 논쟁을 구체적으로 살펴보지를 못하여 자세한건 알수없으나 아무래도 기획당시 로봇대신 파워드수트를 표현하라고 스타쉽 트루퍼스 추천해줬는데 정작 나온건 그냥 거대로봇물이라 토라진건 아니었을까 뭐 그런 생각도 드는 거시다",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 712237892475596800,
+			"in_reply_to_status_id_str": "712237892475596800",
+			"in_reply_to_user_id": 1644389425,
+			"in_reply_to_user_id_str": "1644389425",
+			"in_reply_to_screen_name": "zambony76",
+			"user": {
+				"id": 1644389425,
+				"id_str": "1644389425",
+				"name": "잠본이",
+				"screen_name": "zambony76",
+				"location": "",
+				"description": "",
+				"url": "http://t.co/rZdKis5dUy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/rZdKis5dUy",
+								"expanded_url": "http://zambony.egloos.com/",
+								"display_url": "zambony.egloos.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1060,
+				"friends_count": 409,
+				"listed_count": 0,
+				"created_at": "Sun Aug 04 04:43:42 +0000 2013",
+				"favourites_count": 279647,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 201748,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000384269801/e9c8f97fedbd692099e07395c655537d_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000384269801/e9c8f97fedbd692099e07395c655537d_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Aug 16 00:05:26 +0000 2017",
+		"id": 897610212177137700,
+		"id_str": "897610212177137665",
+		"text": "RT @zambony76: 퍼스트건담 방영시 작가 타카치호 하루카 선생이 이따위는 SF가 아니다~라고 까대어 잡지 지면을 통해서 논쟁까지 벌였다는데 솔직히 무슨 클라크식 하드SF도 아니고 크러셔죠나 더티페어같은 우주무협지 쓰는 양반이 그런 부심을 부…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zambony76",
+					"name": "잠본이",
+					"id": 1644389425,
+					"id_str": "1644389425",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1033,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10152,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Mar 22 11:22:00 +0000 2016",
+			"id": 712237892475596800,
+			"id_str": "712237892475596800",
+			"text": "퍼스트건담 방영시 작가 타카치호 하루카 선생이 이따위는 SF가 아니다~라고 까대어 잡지 지면을 통해서 논쟁까지 벌였다는데 솔직히 무슨 클라크식 하드SF도 아니고 크러셔죠나 더티페어같은 우주무협지 쓰는 양반이 그런 부심을 부렸다는게 좀 웃기지 않나 싶은",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1644389425,
+				"id_str": "1644389425",
+				"name": "잠본이",
+				"screen_name": "zambony76",
+				"location": "",
+				"description": "",
+				"url": "http://t.co/rZdKis5dUy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/rZdKis5dUy",
+								"expanded_url": "http://zambony.egloos.com/",
+								"display_url": "zambony.egloos.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1060,
+				"friends_count": 409,
+				"listed_count": 0,
+				"created_at": "Sun Aug 04 04:43:42 +0000 2013",
+				"favourites_count": 279647,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 201748,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000384269801/e9c8f97fedbd692099e07395c655537d_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000384269801/e9c8f97fedbd692099e07395c655537d_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Aug 16 00:05:20 +0000 2017",
+		"id": 897610188789764100,
+		"id_str": "897610188789764096",
+		"text": "RT @sflibrary: 건담 제작중 토미노가 소설을 썼는데,SF매거진에선 \"거대로봇은 SF가 아냐.\"라고 거절하여,다카치호 하루카의 추천으로 소노라마 문고에서 냅니다.이렇게 주류SF팬에게 SF라고 인정받지 못한 작품이 모여서 '라이트노벨' 게시판…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sflibrary",
+					"name": "SF&판타지도서관",
+					"id": 140688755,
+					"id_str": "140688755",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 72,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1033,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10152,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883004104825421824/OpqJfYKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1499359511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 15 09:29:02 +0000 2017",
+			"id": 897389659625357300,
+			"id_str": "897389659625357312",
+			"text": "건담 제작중 토미노가 소설을 썼는데,SF매거진에선 \"거대로봇은 SF가 아냐.\"라고 거절하여,다카치호 하루카의 추천으로 소노라마 문고에서 냅니다.이렇게 주류SF팬에게 SF라고 인정받지 못한 작품이 모여서 '라이트노벨' 게시판이 탄생하죠. #거대로봇",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "거대로봇",
+						"indices": [
+							132,
+							137
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 140688755,
+				"id_str": "140688755",
+				"name": "SF&판타지도서관",
+				"screen_name": "sflibrary",
+				"location": "서울시 서대문구 연희동 121-6 중앙빌딩 3층",
+				"description": "SF&Fantasy Library in Korea.\nSF와 판타지 장르 전문 도서관.홍대입구역에서 버스(7612,7739번)로 연희자치회관 하차.(연희중앙교회 맞은편 마스터카센터3층) ( 070-8102-5010 )\n페이스북 : http://t.co/D8ikimpFat",
+				"url": "http://t.co/peTlGaCPgq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/peTlGaCPgq",
+								"expanded_url": "http://www.sflib.com/",
+								"display_url": "sflib.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/D8ikimpFat",
+								"expanded_url": "http://www.facebook.com/sflibrarykr",
+								"display_url": "facebook.com/sflibrarykr",
+								"indices": [
+									128,
+									150
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 9507,
+				"friends_count": 10069,
+				"listed_count": 229,
+				"created_at": "Thu May 06 04:34:42 +0000 2010",
+				"favourites_count": 142,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9102,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/871610439427276800/0c48ph82_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/871610439427276800/0c48ph82_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/140688755/1409911393",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Aug 15 08:46:30 +0000 2017",
 		"id": 897378955757404200,
 		"id_str": "897378955757404160",
