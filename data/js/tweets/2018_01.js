@@ -1,6 +1,750 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Fri Jan 19 09:02:41 +0000 2018",
+		"id": 954277923883634700,
+		"id_str": "954277923883634688",
+		"text": "RT @kimdasom_1031: 공의 경계 수정본\n출처 - gain_sesang https://t.co/Uf8fHVZHlZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kimdasom_1031",
+					"name": "천사님 모시려는 다솜",
+					"id": 763749569674915800,
+					"id_str": "763749569674915840",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 950256708063866900,
+					"id_str": "950256708063866880",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DS_9cPmUMAAs5cO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DS_9cPmUMAAs5cO.jpg",
+					"url": "https://t.co/Uf8fHVZHlZ",
+					"display_url": "pic.twitter.com/Uf8fHVZHlZ",
+					"expanded_url": "https://twitter.com/kimdasom_1031/status/950256718612611073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 950256718612611100,
+					"source_status_id_str": "950256718612611073",
+					"source_user_id": 763749569674915800,
+					"source_user_id_str": "763749569674915840"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 950256708063866900,
+					"id_str": "950256708063866880",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DS_9cPmUMAAs5cO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DS_9cPmUMAAs5cO.jpg",
+					"url": "https://t.co/Uf8fHVZHlZ",
+					"display_url": "pic.twitter.com/Uf8fHVZHlZ",
+					"expanded_url": "https://twitter.com/kimdasom_1031/status/950256718612611073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 950256718612611100,
+					"source_status_id_str": "950256718612611073",
+					"source_user_id": 763749569674915800,
+					"source_user_id_str": "763749569674915840"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 70,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1009,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10092,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 08 06:43:51 +0000 2018",
+			"id": 950256718612611100,
+			"id_str": "950256718612611073",
+			"text": "공의 경계 수정본\n출처 - gain_sesang https://t.co/Uf8fHVZHlZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 950256708063866900,
+						"id_str": "950256708063866880",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/DS_9cPmUMAAs5cO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DS_9cPmUMAAs5cO.jpg",
+						"url": "https://t.co/Uf8fHVZHlZ",
+						"display_url": "pic.twitter.com/Uf8fHVZHlZ",
+						"expanded_url": "https://twitter.com/kimdasom_1031/status/950256718612611073/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 950256708063866900,
+						"id_str": "950256708063866880",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/DS_9cPmUMAAs5cO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DS_9cPmUMAAs5cO.jpg",
+						"url": "https://t.co/Uf8fHVZHlZ",
+						"display_url": "pic.twitter.com/Uf8fHVZHlZ",
+						"expanded_url": "https://twitter.com/kimdasom_1031/status/950256718612611073/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 763749569674915800,
+				"id_str": "763749569674915840",
+				"name": "천사님 모시려는 다솜",
+				"screen_name": "kimdasom_1031",
+				"location": "",
+				"description": "부계정: @dasom_is_me | \n| (#KDS_and_AGL)\n☆☆블락(정치계,알계)☆☆\n무맨팔로 맞팔안합니당",
+				"url": "https://t.co/K4kYTQxBXW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/K4kYTQxBXW",
+								"expanded_url": "https://www.evernote.com/shard/s557/sh/7b2219cd-0c2a-45f0-833a-3d82fdc4504a/e54c49cf113f8ca484efaca9",
+								"display_url": "evernote.com/shard/s557/sh/…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 250,
+				"friends_count": 776,
+				"listed_count": 10,
+				"created_at": "Thu Aug 11 14:51:02 +0000 2016",
+				"favourites_count": 54812,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 47781,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/954057488130744322/R4DKGpAn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/954057488130744322/R4DKGpAn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/763749569674915840/1515779445",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Jan 19 08:56:41 +0000 2018",
+		"id": 954276414345248800,
+		"id_str": "954276414345248768",
+		"text": "큰일 날 뻔했네...\nhttps://t.co/suRPcOPOJk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/suRPcOPOJk",
+					"expanded_url": "https://twitter.com/ufotable_kr/status/950693072391647237",
+					"display_url": "twitter.com/ufotable_kr/st…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 70,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1009,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10092,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 950693072391647200,
+		"quoted_status_id_str": "950693072391647237",
+		"quoted_status": {
+			"created_at": "Tue Jan 09 11:37:46 +0000 2018",
+			"id": 950693072391647200,
+			"id_str": "950693072391647237",
+			"text": "극장판[공의경계]10주년기념'설정집-완전판-\n지금부터 1/21까지 선입금예약접수를 받습니다.\n※3월이후에 발송되는 상품으로,다른상품과 동시에 주문하실수 없는 점,유의 해 주시기 바랍니다.… https://t.co/F2LRf5Hkn4",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/F2LRf5Hkn4",
+						"expanded_url": "https://twitter.com/i/web/status/950693072391647237",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							106,
+							129
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1268851824,
+				"id_str": "1268851824",
+				"name": "ufotable_korea",
+				"screen_name": "ufotable_kr",
+				"location": "",
+				"description": "★ufotable official account for korean. ★애니메이션스튜디오 ufotable의 한국어 공식 트위터 계정.\n※한국통신판매http://t.co/JTF80vPbyd",
+				"url": "http://t.co/f3RAXenoMV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/f3RAXenoMV",
+								"expanded_url": "http://www.ufotable.com/ufokorea/index.html",
+								"display_url": "ufotable.com/ufokorea/index…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/JTF80vPbyd",
+								"expanded_url": "http://ufotablekorea.cafe24.com",
+								"display_url": "ufotablekorea.cafe24.com",
+								"indices": [
+									82,
+									104
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8287,
+				"friends_count": 20,
+				"listed_count": 50,
+				"created_at": "Fri Mar 15 05:26:51 +0000 2013",
+				"favourites_count": 12,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 796,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3395073743/2ce735fb694a809a7864f2f32d8a5028_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3395073743/2ce735fb694a809a7864f2f32d8a5028_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1268851824/1450772682",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 380,
+			"favorite_count": 65,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Jan 19 08:56:09 +0000 2018",
+		"id": 954276278420451300,
+		"id_str": "954276278420451328",
+		"text": "RT @ufotable_kr: 극장판[공의경계]10주년기념'설정집-완전판-\n지금부터 1/21까지 선입금예약접수를 받습니다.\n※3월이후에 발송되는 상품으로,다른상품과 동시에 주문하실수 없는 점,유의 해 주시기 바랍니다.\nhttps://t.co/ruwi…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ufotable_kr",
+					"name": "ufotable_korea",
+					"id": 1268851824,
+					"id_str": "1268851824",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 70,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1009,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10092,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 09 11:37:46 +0000 2018",
+			"id": 950693072391647200,
+			"id_str": "950693072391647237",
+			"text": "극장판[공의경계]10주년기념'설정집-완전판-\n지금부터 1/21까지 선입금예약접수를 받습니다.\n※3월이후에 발송되는 상품으로,다른상품과 동시에 주문하실수 없는 점,유의 해 주시기 바랍니다.… https://t.co/F2LRf5Hkn4",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/F2LRf5Hkn4",
+						"expanded_url": "https://twitter.com/i/web/status/950693072391647237",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							106,
+							129
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1268851824,
+				"id_str": "1268851824",
+				"name": "ufotable_korea",
+				"screen_name": "ufotable_kr",
+				"location": "",
+				"description": "★ufotable official account for korean. ★애니메이션스튜디오 ufotable의 한국어 공식 트위터 계정.\n※한국통신판매http://t.co/JTF80vPbyd",
+				"url": "http://t.co/f3RAXenoMV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/f3RAXenoMV",
+								"expanded_url": "http://www.ufotable.com/ufokorea/index.html",
+								"display_url": "ufotable.com/ufokorea/index…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/JTF80vPbyd",
+								"expanded_url": "http://ufotablekorea.cafe24.com",
+								"display_url": "ufotablekorea.cafe24.com",
+								"indices": [
+									82,
+									104
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8287,
+				"friends_count": 20,
+				"listed_count": 50,
+				"created_at": "Fri Mar 15 05:26:51 +0000 2013",
+				"favourites_count": 12,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 796,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3395073743/2ce735fb694a809a7864f2f32d8a5028_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3395073743/2ce735fb694a809a7864f2f32d8a5028_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1268851824/1450772682",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 380,
+			"favorite_count": 65,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 380,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Jan 04 17:20:09 +0000 2018",
 		"id": 948967296856342500,
 		"id_str": "948967296856342528",
