@@ -1,6 +1,1732 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Tue Jan 23 15:03:41 +0000 2018",
+		"id": 955818324293660700,
+		"id_str": "955818324293660672",
+		"text": "RT @SharoUser: 나스가 공의 경계를 두 권만 내서 글쓰기 시작한 인간도 있었던 것이다....",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SharoUser",
+					"name": "MeU샤유",
+					"id": 122990721,
+					"id_str": "122990721",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 70,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1010,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10100,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 23 05:34:45 +0000 2017",
+			"id": 911463829460049900,
+			"id_str": "911463829460049920",
+			"text": "나스가 공의 경계를 두 권만 내서 글쓰기 시작한 인간도 있었던 것이다....",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 122990721,
+				"id_str": "122990721",
+				"name": "MeU샤유",
+				"screen_name": "SharoUser",
+				"location": "지도에도 없는 저 Mystery Island",
+				"description": "난 이제 너무 지쳐서 더 이상 꺼져가는 등불로 추운 계절을 날 자신이 없어",
+				"url": "https://t.co/MWUT2HeRuM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MWUT2HeRuM",
+								"expanded_url": "http://shau-notebook.postype.com",
+								"display_url": "shau-notebook.postype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 787,
+				"friends_count": 439,
+				"listed_count": 19,
+				"created_at": "Sun Mar 14 16:06:40 +0000 2010",
+				"favourites_count": 400,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 182644,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/882296435059728384/pfeaTq-k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/882296435059728384/pfeaTq-k_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/122990721/1488127252",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Jan 23 15:02:35 +0000 2018",
+		"id": 955818047612186600,
+		"id_str": "955818047612186624",
+		"text": "RT @SharoUser: https://t.co/wRpNKklUE4 오랜만에쓴 신전기소설임 나스식 주인공 작법을 따라 주인공을 만들었고 DDD와 공의 경계에서 많은 요소를 가져왔지만 결과적으로 별로 나스같지가 않아져서 슬픔 내 두 번째 장편인 인형…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SharoUser",
+					"name": "MeU샤유",
+					"id": 122990721,
+					"id_str": "122990721",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wRpNKklUE4",
+					"expanded_url": "https://britg.kr/novel-group/novel-post/?np_id=65757&novel_post_id=34703#",
+					"display_url": "britg.kr/novel-group/no…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 70,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1010,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10100,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 31 15:40:53 +0000 2017",
+			"id": 947492763481784300,
+			"id_str": "947492763481784320",
+			"text": "https://t.co/wRpNKklUE4 오랜만에쓴 신전기소설임 나스식 주인공 작법을 따라 주인공을 만들었고 DDD와 공의 경계에서 많은 요소를 가져왔지만 결과적으로 별로 나스같지가 않아져서 슬픔 내 두… https://t.co/YNV4LcazyK",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wRpNKklUE4",
+						"expanded_url": "https://britg.kr/novel-group/novel-post/?np_id=65757&novel_post_id=34703#",
+						"display_url": "britg.kr/novel-group/no…",
+						"indices": [
+							0,
+							23
+						]
+					},
+					{
+						"url": "https://t.co/YNV4LcazyK",
+						"expanded_url": "https://twitter.com/i/web/status/947492763481784320",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 947492241202847700,
+			"in_reply_to_status_id_str": "947492241202847745",
+			"in_reply_to_user_id": 122990721,
+			"in_reply_to_user_id_str": "122990721",
+			"in_reply_to_screen_name": "SharoUser",
+			"user": {
+				"id": 122990721,
+				"id_str": "122990721",
+				"name": "MeU샤유",
+				"screen_name": "SharoUser",
+				"location": "지도에도 없는 저 Mystery Island",
+				"description": "난 이제 너무 지쳐서 더 이상 꺼져가는 등불로 추운 계절을 날 자신이 없어",
+				"url": "https://t.co/MWUT2HeRuM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MWUT2HeRuM",
+								"expanded_url": "http://shau-notebook.postype.com",
+								"display_url": "shau-notebook.postype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 787,
+				"friends_count": 439,
+				"listed_count": 19,
+				"created_at": "Sun Mar 14 16:06:40 +0000 2010",
+				"favourites_count": 400,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 182644,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/882296435059728384/pfeaTq-k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/882296435059728384/pfeaTq-k_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/122990721/1488127252",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Jan 23 15:00:39 +0000 2018",
+		"id": 955817561463009300,
+		"id_str": "955817561463009282",
+		"text": "잘 쓴 건 절대 아닌데, 한국 배경으로 이만큼 공의 경계 분위기가 나게 할 수 있다니... 놀랍네요.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 70,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1010,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10100,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Jan 23 14:59:47 +0000 2018",
+		"id": 955817342608355300,
+		"id_str": "955817342608355328",
+		"text": "RT @SharoUser: 그것이 왜곡증이라는 증상과 만나면서 다른 방향성으로 작동한다는 계산 하에 쓴 이야기인데... 좀더 다음편은 더 넓은 범주를 다룬 것으로 써보던가 해야겠다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SharoUser",
+					"name": "MeU샤유",
+					"id": 122990721,
+					"id_str": "122990721",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 70,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1010,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10100,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 16 17:37:38 +0000 2018",
+			"id": 953320353979248600,
+			"id_str": "953320353979248641",
+			"text": "그것이 왜곡증이라는 증상과 만나면서 다른 방향성으로 작동한다는 계산 하에 쓴 이야기인데... 좀더 다음편은 더 넓은 범주를 다룬 것으로 써보던가 해야겠다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 953318641658810400,
+			"in_reply_to_status_id_str": "953318641658810368",
+			"in_reply_to_user_id": 122990721,
+			"in_reply_to_user_id_str": "122990721",
+			"in_reply_to_screen_name": "SharoUser",
+			"user": {
+				"id": 122990721,
+				"id_str": "122990721",
+				"name": "MeU샤유",
+				"screen_name": "SharoUser",
+				"location": "지도에도 없는 저 Mystery Island",
+				"description": "난 이제 너무 지쳐서 더 이상 꺼져가는 등불로 추운 계절을 날 자신이 없어",
+				"url": "https://t.co/MWUT2HeRuM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MWUT2HeRuM",
+								"expanded_url": "http://shau-notebook.postype.com",
+								"display_url": "shau-notebook.postype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 787,
+				"friends_count": 439,
+				"listed_count": 19,
+				"created_at": "Sun Mar 14 16:06:40 +0000 2010",
+				"favourites_count": 400,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 182644,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/882296435059728384/pfeaTq-k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/882296435059728384/pfeaTq-k_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/122990721/1488127252",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Jan 23 14:59:45 +0000 2018",
+		"id": 955817333104115700,
+		"id_str": "955817333104115712",
+		"text": "RT @SharoUser: 글속에서 제대로 표현하진 못한 것 같지만 주인공은 생물로서의 기능은 제대로 기능하고 있지만 사회적 존재로서의 기능을 잃어버려서 그걸 회복하려고 안간힘을 쓰는 존재로 설정함 나스식으로 설명하면 경계식의 인격이 표면에 드러났는…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SharoUser",
+					"name": "MeU샤유",
+					"id": 122990721,
+					"id_str": "122990721",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 70,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1010,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10100,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 16 17:30:50 +0000 2018",
+			"id": 953318641658810400,
+			"id_str": "953318641658810368",
+			"text": "글속에서 제대로 표현하진 못한 것 같지만 주인공은 생물로서의 기능은 제대로 기능하고 있지만 사회적 존재로서의 기능을 잃어버려서 그걸 회복하려고 안간힘을 쓰는 존재로 설정함 나스식으로 설명하면 경계식의 인격이… https://t.co/XgVX12t5zp",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XgVX12t5zp",
+						"expanded_url": "https://twitter.com/i/web/status/953318641658810368",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 953317305034797000,
+			"in_reply_to_status_id_str": "953317305034797056",
+			"in_reply_to_user_id": 122990721,
+			"in_reply_to_user_id_str": "122990721",
+			"in_reply_to_screen_name": "SharoUser",
+			"user": {
+				"id": 122990721,
+				"id_str": "122990721",
+				"name": "MeU샤유",
+				"screen_name": "SharoUser",
+				"location": "지도에도 없는 저 Mystery Island",
+				"description": "난 이제 너무 지쳐서 더 이상 꺼져가는 등불로 추운 계절을 날 자신이 없어",
+				"url": "https://t.co/MWUT2HeRuM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MWUT2HeRuM",
+								"expanded_url": "http://shau-notebook.postype.com",
+								"display_url": "shau-notebook.postype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 787,
+				"friends_count": 439,
+				"listed_count": 19,
+				"created_at": "Sun Mar 14 16:06:40 +0000 2010",
+				"favourites_count": 400,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 182644,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/882296435059728384/pfeaTq-k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/882296435059728384/pfeaTq-k_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/122990721/1488127252",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Jan 23 14:59:12 +0000 2018",
+		"id": 955817196592160800,
+		"id_str": "955817196592160769",
+		"text": "RT @SharoUser: 특정한 사고를 겪은 주인공은 그로 인해 단절을 겪게 되고, 그 과정에서 무언가를 이해해 어떤 능력을 얻게 되거나(공의 경계/월희) 혹은 무언가가 결여되면서 능력을 얻게 됨(페스나/DDD) 여기서 나는 두 번째를 의식했지만…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SharoUser",
+					"name": "MeU샤유",
+					"id": 122990721,
+					"id_str": "122990721",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 70,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1010,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10100,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 16 17:23:37 +0000 2018",
+			"id": 953316826263339000,
+			"id_str": "953316826263339008",
+			"text": "특정한 사고를 겪은 주인공은 그로 인해 단절을 겪게 되고, 그 과정에서 무언가를 이해해 어떤 능력을 얻게 되거나(공의 경계/월희) 혹은 무언가가 결여되면서 능력을 얻게 됨(페스나/DDD) 여기서 나는 두 번… https://t.co/UtvNg5xqvP",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UtvNg5xqvP",
+						"expanded_url": "https://twitter.com/i/web/status/953316826263339008",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 953314823009271800,
+			"in_reply_to_status_id_str": "953314823009271808",
+			"in_reply_to_user_id": 122990721,
+			"in_reply_to_user_id_str": "122990721",
+			"in_reply_to_screen_name": "SharoUser",
+			"user": {
+				"id": 122990721,
+				"id_str": "122990721",
+				"name": "MeU샤유",
+				"screen_name": "SharoUser",
+				"location": "지도에도 없는 저 Mystery Island",
+				"description": "난 이제 너무 지쳐서 더 이상 꺼져가는 등불로 추운 계절을 날 자신이 없어",
+				"url": "https://t.co/MWUT2HeRuM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MWUT2HeRuM",
+								"expanded_url": "http://shau-notebook.postype.com",
+								"display_url": "shau-notebook.postype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 787,
+				"friends_count": 439,
+				"listed_count": 19,
+				"created_at": "Sun Mar 14 16:06:40 +0000 2010",
+				"favourites_count": 400,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 182644,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/882296435059728384/pfeaTq-k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/882296435059728384/pfeaTq-k_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/122990721/1488127252",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Jan 23 14:59:09 +0000 2018",
+		"id": 955817182218223600,
+		"id_str": "955817182218223616",
+		"text": "RT @SharoUser: 내가 이 글 쓸때 가장 나스를 의식한 부분은 주인공 조형에 대한 것이었다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SharoUser",
+					"name": "MeU샤유",
+					"id": 122990721,
+					"id_str": "122990721",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 70,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1010,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10100,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 16 17:15:40 +0000 2018",
+			"id": 953314823009271800,
+			"id_str": "953314823009271808",
+			"text": "내가 이 글 쓸때 가장 나스를 의식한 부분은 주인공 조형에 대한 것이었다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 953314615554850800,
+			"in_reply_to_status_id_str": "953314615554850817",
+			"in_reply_to_user_id": 122990721,
+			"in_reply_to_user_id_str": "122990721",
+			"in_reply_to_screen_name": "SharoUser",
+			"user": {
+				"id": 122990721,
+				"id_str": "122990721",
+				"name": "MeU샤유",
+				"screen_name": "SharoUser",
+				"location": "지도에도 없는 저 Mystery Island",
+				"description": "난 이제 너무 지쳐서 더 이상 꺼져가는 등불로 추운 계절을 날 자신이 없어",
+				"url": "https://t.co/MWUT2HeRuM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MWUT2HeRuM",
+								"expanded_url": "http://shau-notebook.postype.com",
+								"display_url": "shau-notebook.postype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 787,
+				"friends_count": 439,
+				"listed_count": 19,
+				"created_at": "Sun Mar 14 16:06:40 +0000 2010",
+				"favourites_count": 400,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 182644,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/882296435059728384/pfeaTq-k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/882296435059728384/pfeaTq-k_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/122990721/1488127252",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Jan 23 14:59:06 +0000 2018",
+		"id": 955817171078168600,
+		"id_str": "955817171078168576",
+		"text": "RT @SharoUser: 망각의 기원 – 브릿G\nhttps://t.co/eDevFj4sOu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SharoUser",
+					"name": "MeU샤유",
+					"id": 122990721,
+					"id_str": "122990721",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eDevFj4sOu",
+					"expanded_url": "https://britg.kr/novel-group/novel-post/?np_id=65757&novel_post_id=34703",
+					"display_url": "britg.kr/novel-group/no…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 70,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1010,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10100,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 16 17:14:50 +0000 2018",
+			"id": 953314615554850800,
+			"id_str": "953314615554850817",
+			"text": "망각의 기원 – 브릿G\nhttps://t.co/eDevFj4sOu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eDevFj4sOu",
+						"expanded_url": "https://britg.kr/novel-group/novel-post/?np_id=65757&novel_post_id=34703",
+						"display_url": "britg.kr/novel-group/no…",
+						"indices": [
+							13,
+							36
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 122990721,
+				"id_str": "122990721",
+				"name": "MeU샤유",
+				"screen_name": "SharoUser",
+				"location": "지도에도 없는 저 Mystery Island",
+				"description": "난 이제 너무 지쳐서 더 이상 꺼져가는 등불로 추운 계절을 날 자신이 없어",
+				"url": "https://t.co/MWUT2HeRuM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MWUT2HeRuM",
+								"expanded_url": "http://shau-notebook.postype.com",
+								"display_url": "shau-notebook.postype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 787,
+				"friends_count": 439,
+				"listed_count": 19,
+				"created_at": "Sun Mar 14 16:06:40 +0000 2010",
+				"favourites_count": 400,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 182644,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/882296435059728384/pfeaTq-k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/882296435059728384/pfeaTq-k_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/122990721/1488127252",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Jan 23 14:51:13 +0000 2018",
+		"id": 955815185784057900,
+		"id_str": "955815185784057856",
+		"text": "RT @cruno23: Fgo x 공의 경계\n언젠가 받게 될 료우기 시키를 그려보았습니다 \n그럼 다시 크리스마스 이벤트 달리러..! https://t.co/pIIj8TePmL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cruno23",
+					"name": "크루노",
+					"id": 931478984650408000,
+					"id_str": "931478984650407936",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 955028484035772400,
+					"id_str": "955028484035772416",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DUDxWKVVAAAUm2t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUDxWKVVAAAUm2t.jpg",
+					"url": "https://t.co/pIIj8TePmL",
+					"display_url": "pic.twitter.com/pIIj8TePmL",
+					"expanded_url": "https://twitter.com/cruno23/status/955028760272646144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 584,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 931,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 931,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 955028760272646100,
+					"source_status_id_str": "955028760272646144",
+					"source_user_id": 931478984650408000,
+					"source_user_id_str": "931478984650407936"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 955028484035772400,
+					"id_str": "955028484035772416",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DUDxWKVVAAAUm2t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUDxWKVVAAAUm2t.jpg",
+					"url": "https://t.co/pIIj8TePmL",
+					"display_url": "pic.twitter.com/pIIj8TePmL",
+					"expanded_url": "https://twitter.com/cruno23/status/955028760272646144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 584,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 931,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 931,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 955028760272646100,
+					"source_status_id_str": "955028760272646144",
+					"source_user_id": 931478984650408000,
+					"source_user_id_str": "931478984650407936"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 70,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1010,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10100,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 21 10:46:14 +0000 2018",
+			"id": 955028760272646100,
+			"id_str": "955028760272646144",
+			"text": "Fgo x 공의 경계\n언젠가 받게 될 료우기 시키를 그려보았습니다 \n그럼 다시 크리스마스 이벤트 달리러..! https://t.co/pIIj8TePmL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 955028484035772400,
+						"id_str": "955028484035772416",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/DUDxWKVVAAAUm2t.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUDxWKVVAAAUm2t.jpg",
+						"url": "https://t.co/pIIj8TePmL",
+						"display_url": "pic.twitter.com/pIIj8TePmL",
+						"expanded_url": "https://twitter.com/cruno23/status/955028760272646144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 584,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 931,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 931,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 955028484035772400,
+						"id_str": "955028484035772416",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/DUDxWKVVAAAUm2t.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUDxWKVVAAAUm2t.jpg",
+						"url": "https://t.co/pIIj8TePmL",
+						"display_url": "pic.twitter.com/pIIj8TePmL",
+						"expanded_url": "https://twitter.com/cruno23/status/955028760272646144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 584,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 931,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 931,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 931478984650408000,
+				"id_str": "931478984650407936",
+				"name": "크루노",
+				"screen_name": "cruno23",
+				"location": "",
+				"description": "애니와 게임,그림과 일상/붕괴3rd/페그오 등/owl_23@naver.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2,
+				"friends_count": 29,
+				"listed_count": 0,
+				"created_at": "Fri Nov 17 11:07:50 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950058043189809153/PRSw-lwE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950058043189809153/PRSw-lwE_normal.jpg",
+				"profile_link_color": "8F88EF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Jan 19 09:20:59 +0000 2018",
 		"id": 954282529229385700,
 		"id_str": "954282529229385728",
