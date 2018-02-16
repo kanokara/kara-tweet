@@ -1,6 +1,183 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Fri Feb 16 14:35:16 +0000 2018",
+		"id": 964508481775550500,
+		"id_str": "964508481775550464",
+		"text": "단언할 수 있는데, 이 자체는 (구세대적) 오타쿠 역시도 전문가와 다를 바 없어요. 오타쿠와 다르게 변별력이 있는 지점은 그 체계성에 근거하는데, 문제는 적잖은 전문가(문학교수)들은 자신의 체계를 갱신할 생… https://t.co/KQTkaXLGnd",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KQTkaXLGnd",
+					"expanded_url": "https://twitter.com/i/web/status/964508481775550464",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1009,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10087,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 964333672433254400,
+		"quoted_status_id_str": "964333672433254400",
+		"quoted_status": {
+			"created_at": "Fri Feb 16 03:00:38 +0000 2018",
+			"id": 964333672433254400,
+			"id_str": "964333672433254400",
+			"text": "기억,상징,패턴. 이 세가지야말로 독서에서 전문가와 일반인을 구별짓는 가장 중요한 특징이다. 문학 교수들은 한마디로 놀라운 기억력을 지닌 집단이라고 할 수 있다. 새로운 작품을 읽을 때마다 나는 '이 인물을… https://t.co/rS5eTJ7pJW",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rS5eTJ7pJW",
+						"expanded_url": "https://twitter.com/i/web/status/964333672433254400",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 220722651,
+				"id_str": "220722651",
+				"name": "씁",
+				"screen_name": "Bloomers_Suki",
+				"location": "방과후 체육창고",
+				"description": "하루하루가 흑역사\r\nC= C= C= C= C= C= ┌(；*'ω'*)┘",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 556,
+				"friends_count": 170,
+				"listed_count": 14,
+				"created_at": "Sun Nov 28 17:08:00 +0000 2010",
+				"favourites_count": 1282,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 70718,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/676512366/421530a048f842a2e6d0913feec76dfa.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/676512366/421530a048f842a2e6d0913feec76dfa.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/932139086755663872/_Rv4fGjS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/932139086755663872/_Rv4fGjS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/220722651/1401347518",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Feb 16 05:58:39 +0000 2018",
 		"id": 964378469730730000,
 		"id_str": "964378469730729984",
