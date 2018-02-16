@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Fri Feb 16 05:58:39 +0000 2018",
+		"id": 964378469730730000,
+		"id_str": "964378469730729984",
+		"text": "RT @nokcy2: 전령가 작가님의 [공작 부인의 비밀 의상실]\n표지일러스트 그렸습니다.\n잘부탁드리겠습니다.\nhttps://t.co/eoSzGB8w0c https://t.co/TfhnNRXTtw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nokcy2",
+					"name": "녹시[nokcy][ノクシ]",
+					"id": 2555299837,
+					"id_str": "2555299837",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eoSzGB8w0c",
+					"expanded_url": "http://page.kakao.com/home/50837709",
+					"display_url": "page.kakao.com/home/50837709",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 963684088057090000,
+					"id_str": "963684088057090049",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/DV-xkoBW0AEx_6Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DV-xkoBW0AEx_6Z.jpg",
+					"url": "https://t.co/TfhnNRXTtw",
+					"display_url": "pic.twitter.com/TfhnNRXTtw",
+					"expanded_url": "https://twitter.com/nokcy2/status/963684423089770497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 972,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 504,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 972,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 963684423089770500,
+					"source_status_id_str": "963684423089770497",
+					"source_user_id": 2555299837,
+					"source_user_id_str": "2555299837"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 963684088057090000,
+					"id_str": "963684088057090049",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/DV-xkoBW0AEx_6Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DV-xkoBW0AEx_6Z.jpg",
+					"url": "https://t.co/TfhnNRXTtw",
+					"display_url": "pic.twitter.com/TfhnNRXTtw",
+					"expanded_url": "https://twitter.com/nokcy2/status/963684423089770497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 972,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 504,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 972,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 963684423089770500,
+					"source_status_id_str": "963684423089770497",
+					"source_user_id": 2555299837,
+					"source_user_id_str": "2555299837"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1009,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10091,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 14 08:00:45 +0000 2018",
+			"id": 963684423089770500,
+			"id_str": "963684423089770497",
+			"text": "전령가 작가님의 [공작 부인의 비밀 의상실]\n표지일러스트 그렸습니다.\n잘부탁드리겠습니다.\nhttps://t.co/eoSzGB8w0c https://t.co/TfhnNRXTtw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eoSzGB8w0c",
+						"expanded_url": "http://page.kakao.com/home/50837709",
+						"display_url": "page.kakao.com/home/50837709",
+						"indices": [
+							50,
+							73
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 963684088057090000,
+						"id_str": "963684088057090049",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/DV-xkoBW0AEx_6Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DV-xkoBW0AEx_6Z.jpg",
+						"url": "https://t.co/TfhnNRXTtw",
+						"display_url": "pic.twitter.com/TfhnNRXTtw",
+						"expanded_url": "https://twitter.com/nokcy2/status/963684423089770497/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 972,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 504,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 972,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 963684088057090000,
+						"id_str": "963684088057090049",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/DV-xkoBW0AEx_6Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DV-xkoBW0AEx_6Z.jpg",
+						"url": "https://t.co/TfhnNRXTtw",
+						"display_url": "pic.twitter.com/TfhnNRXTtw",
+						"expanded_url": "https://twitter.com/nokcy2/status/963684423089770497/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 972,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 504,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 972,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2555299837,
+				"id_str": "2555299837",
+				"name": "녹시[nokcy][ノクシ]",
+				"screen_name": "nokcy2",
+				"location": "mail=off_white@naver.com",
+				"description": "*2018년 상반기(8월까지) 외주일 받지 않습니다* 녹시[nok*cy][ノクシ]잡덕|일러스트레이터|게임,책표지,등 그립니다.|[FUB free]  https://t.co/p6k8LreXW8 ←자세한건 이쪽.] https://t.co/4WvuWwglFe",
+				"url": "https://t.co/W2D8yvLrms",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/W2D8yvLrms",
+								"expanded_url": "http://blog.naver.com/off_white",
+								"display_url": "blog.naver.com/off_white",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/p6k8LreXW8",
+								"expanded_url": "http://twpf.jp/nokcy2",
+								"display_url": "twpf.jp/nokcy2",
+								"indices": [
+									83,
+									106
+								]
+							},
+							{
+								"url": "https://t.co/4WvuWwglFe",
+								"expanded_url": "http://pixiv.me/bloodwhisky",
+								"display_url": "pixiv.me/bloodwhisky",
+								"indices": [
+									118,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 12754,
+				"friends_count": 262,
+				"listed_count": 101,
+				"created_at": "Sun Jun 08 18:31:37 +0000 2014",
+				"favourites_count": 1720,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 944,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/752582220146061313/nwhIdoZQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/752582220146061313/nwhIdoZQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2555299837/1518595477",
+				"profile_link_color": "6DAED1",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 86,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Feb 15 16:22:18 +0000 2018",
 		"id": 964173031387021300,
 		"id_str": "964173031387021312",
