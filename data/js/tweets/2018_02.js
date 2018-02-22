@@ -1,6 +1,1702 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Thu Feb 22 17:57:41 +0000 2018",
+		"id": 966733750011797500,
+		"id_str": "966733750011797504",
+		"text": "사실 라캉과 레비나스 양쪽 다 제 안에서는 평가가 낮지만...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1011,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10104,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Feb 22 17:52:59 +0000 2018",
+		"id": 966732568363020300,
+		"id_str": "966732568363020288",
+		"text": "RT @Rudra_tf: '그 저자에게 내가 욕망하는 바'를 찾아내는 독해 양 쪽 모두를 라캉, 레비나스 독해와 엮어서 아주 잘 보여줌.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Rudra_tf",
+					"name": "Rudra",
+					"id": 926691698062716900,
+					"id_str": "926691698062716928",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1011,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10104,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 11 18:46:24 +0000 2017",
+			"id": 940291693575680000,
+			"id_str": "940291693575680000",
+			"text": "'그 저자에게 내가 욕망하는 바'를 찾아내는 독해 양 쪽 모두를 라캉, 레비나스 독해와 엮어서 아주 잘 보여줌.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 940291450327121900,
+			"in_reply_to_status_id_str": "940291450327121921",
+			"in_reply_to_user_id": 926691698062716900,
+			"in_reply_to_user_id_str": "926691698062716928",
+			"in_reply_to_screen_name": "Rudra_tf",
+			"user": {
+				"id": 926691698062716900,
+				"id_str": "926691698062716928",
+				"name": "Rudra",
+				"screen_name": "Rudra_tf",
+				"location": "",
+				"description": "",
+				"url": "https://t.co/QlcGg1jysz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QlcGg1jysz",
+								"expanded_url": "https://medium.com/@Rudra_mk3",
+								"display_url": "medium.com/@Rudra_mk3",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 49,
+				"friends_count": 48,
+				"listed_count": 1,
+				"created_at": "Sat Nov 04 06:04:52 +0000 2017",
+				"favourites_count": 1447,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6318,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/960933537682571264/z_vTYEcx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/960933537682571264/z_vTYEcx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/926691698062716928/1515288212",
+				"profile_link_color": "8A0808",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Feb 22 17:52:57 +0000 2018",
+		"id": 966732559039193100,
+		"id_str": "966732559039193093",
+		"text": "RT @Rudra_tf: '사자와 타자' 굉장히 좋은 책이라고 생각하는데, 라캉과 레비나스에 대한 좋은 독해 입문서라서가 아니라 아주 좋은 '독해'입문서기 때문이다. 기본적으로 우리가 어떠한 사상가나 저자를 읽을 때, 알고 읽으나 모르고 읽으나 그…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Rudra_tf",
+					"name": "Rudra",
+					"id": 926691698062716900,
+					"id_str": "926691698062716928",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1011,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10104,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Dec 11 18:45:26 +0000 2017",
+			"id": 940291450327121900,
+			"id_str": "940291450327121921",
+			"text": "'사자와 타자' 굉장히 좋은 책이라고 생각하는데, 라캉과 레비나스에 대한 좋은 독해 입문서라서가 아니라 아주 좋은 '독해'입문서기 때문이다. 기본적으로 우리가 어떠한 사상가나 저자를 읽을 때, 알고 읽으나… https://t.co/mw5zN9I5RV",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mw5zN9I5RV",
+						"expanded_url": "https://twitter.com/i/web/status/940291450327121921",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 926691698062716900,
+				"id_str": "926691698062716928",
+				"name": "Rudra",
+				"screen_name": "Rudra_tf",
+				"location": "",
+				"description": "",
+				"url": "https://t.co/QlcGg1jysz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QlcGg1jysz",
+								"expanded_url": "https://medium.com/@Rudra_mk3",
+								"display_url": "medium.com/@Rudra_mk3",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 49,
+				"friends_count": 48,
+				"listed_count": 1,
+				"created_at": "Sat Nov 04 06:04:52 +0000 2017",
+				"favourites_count": 1447,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6318,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/960933537682571264/z_vTYEcx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/960933537682571264/z_vTYEcx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/926691698062716928/1515288212",
+				"profile_link_color": "8A0808",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Feb 22 17:52:54 +0000 2018",
+		"id": 966732546057764900,
+		"id_str": "966732546057764864",
+		"text": "RT @dvddog: &lt;타자와 사자 - 라캉에 의한 레비나스&gt;, 다 읽었습니다. 아직은 말할 도리가 없으나, 정말 읽기 잘했다고 생각합니다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dvddog",
+					"name": "다우드 댕댕이",
+					"id": 3138788114,
+					"id_str": "3138788114",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1011,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10104,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 10 22:58:33 +0000 2015",
+			"id": 586664594115956700,
+			"id_str": "586664594115956737",
+			"text": "&lt;타자와 사자 - 라캉에 의한 레비나스&gt;, 다 읽었습니다. 아직은 말할 도리가 없으나, 정말 읽기 잘했다고 생각합니다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3138788114,
+				"id_str": "3138788114",
+				"name": "다우드 댕댕이",
+				"screen_name": "dvddog",
+				"location": "세이셸",
+				"description": "\"천지의 주재이신 아버지여 이것을 지혜롭고 슬기 있는 자들에게는 숨기시고 어린 아이들에게는 나타내심을 감사하나이다\"",
+				"url": "https://t.co/9mpfiKtEof",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9mpfiKtEof",
+								"expanded_url": "http://noobcoela.egloos.com/",
+								"display_url": "noobcoela.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 543,
+				"friends_count": 88,
+				"listed_count": 20,
+				"created_at": "Sat Apr 04 10:07:10 +0000 2015",
+				"favourites_count": 3932,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 154106,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/930321536833282048/cl69XL0y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/930321536833282048/cl69XL0y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3138788114/1447160790",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Feb 22 17:52:49 +0000 2018",
+		"id": 966732525199491100,
+		"id_str": "966732525199491072",
+		"text": "RT @Rudra_tf: “‘타자와 사자-라캉에 의한 레비나스, 우치다 타츠루’– 머리말” https://t.co/vhWTrW6Cvb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Rudra_tf",
+					"name": "Rudra",
+					"id": 926691698062716900,
+					"id_str": "926691698062716928",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vhWTrW6Cvb",
+					"expanded_url": "https://medium.com/@Rudra_mk3/%ED%83%80%EC%9E%90%EC%99%80-%EC%82%AC%EC%9E%90-%EB%9D%BC%EC%BA%89%EC%97%90-%EC%9D%98%ED%95%9C-%EB%A0%88%EB%B9%84%EB%82%98%EC%8A%A4-%EC%9A%B0%EC%B9%98%EB%8B%A4-%ED%83%80%EC%B8%A0%EB%A3%A8-%EB%A8%B8%EB%A6%AC%EB%A7%90-61cbd4f3b056",
+					"display_url": "medium.com/@Rudra_mk3/%ED…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1011,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10104,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Nov 08 16:58:08 +0000 2017",
+			"id": 928305649800298500,
+			"id_str": "928305649800298497",
+			"text": "“‘타자와 사자-라캉에 의한 레비나스, 우치다 타츠루’– 머리말” https://t.co/vhWTrW6Cvb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vhWTrW6Cvb",
+						"expanded_url": "https://medium.com/@Rudra_mk3/%ED%83%80%EC%9E%90%EC%99%80-%EC%82%AC%EC%9E%90-%EB%9D%BC%EC%BA%89%EC%97%90-%EC%9D%98%ED%95%9C-%EB%A0%88%EB%B9%84%EB%82%98%EC%8A%A4-%EC%9A%B0%EC%B9%98%EB%8B%A4-%ED%83%80%EC%B8%A0%EB%A3%A8-%EB%A8%B8%EB%A6%AC%EB%A7%90-61cbd4f3b056",
+						"display_url": "medium.com/@Rudra_mk3/%ED…",
+						"indices": [
+							37,
+							60
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 926691698062716900,
+				"id_str": "926691698062716928",
+				"name": "Rudra",
+				"screen_name": "Rudra_tf",
+				"location": "",
+				"description": "",
+				"url": "https://t.co/QlcGg1jysz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QlcGg1jysz",
+								"expanded_url": "https://medium.com/@Rudra_mk3",
+								"display_url": "medium.com/@Rudra_mk3",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 49,
+				"friends_count": 48,
+				"listed_count": 1,
+				"created_at": "Sat Nov 04 06:04:52 +0000 2017",
+				"favourites_count": 1447,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6318,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/960933537682571264/z_vTYEcx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/960933537682571264/z_vTYEcx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/926691698062716928/1515288212",
+				"profile_link_color": "8A0808",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Feb 22 17:42:15 +0000 2018",
+		"id": 966729864853184500,
+		"id_str": "966729864853184513",
+		"text": "RT @FateGrandOrder: FGOには出ないけど空の境界の後日談には\nママ式と両儀末那という娘さんがいる。実装はたぶんされない\n\n#FGO https://t.co/m0SS2OELw7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FGO",
+					"indices": [
+						71,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FateGrandOrder",
+					"name": "Fate/GrandOrderまとめ速報",
+					"id": 2700391326,
+					"id_str": "2700391326",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 963737149517447200,
+					"id_str": "963737149517447168",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/DV_h1NXVwAAbf6I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DV_h1NXVwAAbf6I.jpg",
+					"url": "https://t.co/m0SS2OELw7",
+					"display_url": "pic.twitter.com/m0SS2OELw7",
+					"expanded_url": "https://twitter.com/FateGrandOrder/status/963737508533084160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 477,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 832,
+							"h": 1185,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 832,
+							"h": 1185,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 963737508533084200,
+					"source_status_id_str": "963737508533084160",
+					"source_user_id": 2700391326,
+					"source_user_id_str": "2700391326"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 963737149517447200,
+					"id_str": "963737149517447168",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/DV_h1NXVwAAbf6I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DV_h1NXVwAAbf6I.jpg",
+					"url": "https://t.co/m0SS2OELw7",
+					"display_url": "pic.twitter.com/m0SS2OELw7",
+					"expanded_url": "https://twitter.com/FateGrandOrder/status/963737508533084160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 477,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 832,
+							"h": 1185,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 832,
+							"h": 1185,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 963737508533084200,
+					"source_status_id_str": "963737508533084160",
+					"source_user_id": 2700391326,
+					"source_user_id_str": "2700391326"
+				},
+				{
+					"id": 963737156505157600,
+					"id_str": "963737156505157632",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/DV_h1nZVwAA-1Sg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DV_h1nZVwAA-1Sg.jpg",
+					"url": "https://t.co/m0SS2OELw7",
+					"display_url": "pic.twitter.com/m0SS2OELw7",
+					"expanded_url": "https://twitter.com/FateGrandOrder/status/963737508533084160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 298,
+							"h": 444,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 298,
+							"h": 444,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 298,
+							"h": 444,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 963737508533084200,
+					"source_status_id_str": "963737508533084160",
+					"source_user_id": 2700391326,
+					"source_user_id_str": "2700391326"
+				},
+				{
+					"id": 963737164306530300,
+					"id_str": "963737164306530304",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/DV_h2EdVQAAR8FY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DV_h2EdVQAAR8FY.jpg",
+					"url": "https://t.co/m0SS2OELw7",
+					"display_url": "pic.twitter.com/m0SS2OELw7",
+					"expanded_url": "https://twitter.com/FateGrandOrder/status/963737508533084160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 963737508533084200,
+					"source_status_id_str": "963737508533084160",
+					"source_user_id": 2700391326,
+					"source_user_id_str": "2700391326"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1011,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10104,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 14 11:31:42 +0000 2018",
+			"id": 963737508533084200,
+			"id_str": "963737508533084160",
+			"text": "FGOには出ないけど空の境界の後日談には\nママ式と両儀末那という娘さんがいる。実装はたぶんされない\n\n#FGO https://t.co/m0SS2OELw7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FGO",
+						"indices": [
+							51,
+							55
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 963737149517447200,
+						"id_str": "963737149517447168",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/DV_h1NXVwAAbf6I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DV_h1NXVwAAbf6I.jpg",
+						"url": "https://t.co/m0SS2OELw7",
+						"display_url": "pic.twitter.com/m0SS2OELw7",
+						"expanded_url": "https://twitter.com/FateGrandOrder/status/963737508533084160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 477,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 832,
+								"h": 1185,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 832,
+								"h": 1185,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 963737149517447200,
+						"id_str": "963737149517447168",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/DV_h1NXVwAAbf6I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DV_h1NXVwAAbf6I.jpg",
+						"url": "https://t.co/m0SS2OELw7",
+						"display_url": "pic.twitter.com/m0SS2OELw7",
+						"expanded_url": "https://twitter.com/FateGrandOrder/status/963737508533084160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 477,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 832,
+								"h": 1185,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 832,
+								"h": 1185,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 963737156505157600,
+						"id_str": "963737156505157632",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/DV_h1nZVwAA-1Sg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DV_h1nZVwAA-1Sg.jpg",
+						"url": "https://t.co/m0SS2OELw7",
+						"display_url": "pic.twitter.com/m0SS2OELw7",
+						"expanded_url": "https://twitter.com/FateGrandOrder/status/963737508533084160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 298,
+								"h": 444,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 298,
+								"h": 444,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 298,
+								"h": 444,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 963737164306530300,
+						"id_str": "963737164306530304",
+						"indices": [
+							56,
+							79
+						],
+						"media_url": "http://pbs.twimg.com/media/DV_h2EdVQAAR8FY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DV_h2EdVQAAR8FY.jpg",
+						"url": "https://t.co/m0SS2OELw7",
+						"display_url": "pic.twitter.com/m0SS2OELw7",
+						"expanded_url": "https://twitter.com/FateGrandOrder/status/963737508533084160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2700391326,
+				"id_str": "2700391326",
+				"name": "Fate/GrandOrderまとめ速報",
+				"screen_name": "FateGrandOrder",
+				"location": "",
+				"description": "Fate/GrandOrder配信！攻略、イラスト、おもしろ画像、グッズ情報、豆知識など。別に・・・・課金してしまっても構わんのだろう？#FateGO　#FGO",
+				"url": "https://t.co/skVBh2ECTP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/skVBh2ECTP",
+								"expanded_url": "https://www.fatego-matome.com/",
+								"display_url": "fatego-matome.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 97660,
+				"friends_count": 4747,
+				"listed_count": 1051,
+				"created_at": "Sat Aug 02 09:13:07 +0000 2014",
+				"favourites_count": 26,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 54696,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/495498936564477953/su0if-7j_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/495498936564477953/su0if-7j_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2700391326/1433911097",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5603,
+			"favorite_count": 11248,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5603,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Thu Feb 22 17:39:33 +0000 2018",
+		"id": 966729184285376500,
+		"id_str": "966729184285376513",
+		"text": "RT @exa1or8: 猫の日なので猫式と猫織 https://t.co/VF6V2dclCd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "exa1or8",
+					"name": "生コユル@剣式こない",
+					"id": 211035338,
+					"id_str": "211035338",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 966677682099404800,
+					"id_str": "966677682099404801",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/DWpUOu3VQAEQO_h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWpUOu3VQAEQO_h.jpg",
+					"url": "https://t.co/VF6V2dclCd",
+					"display_url": "pic.twitter.com/VF6V2dclCd",
+					"expanded_url": "https://twitter.com/exa1or8/status/966677703364558848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1550,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 929,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 526,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 966677703364558800,
+					"source_status_id_str": "966677703364558848",
+					"source_user_id": 211035338,
+					"source_user_id_str": "211035338"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 966677682099404800,
+					"id_str": "966677682099404801",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/DWpUOu3VQAEQO_h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DWpUOu3VQAEQO_h.jpg",
+					"url": "https://t.co/VF6V2dclCd",
+					"display_url": "pic.twitter.com/VF6V2dclCd",
+					"expanded_url": "https://twitter.com/exa1or8/status/966677703364558848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1550,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 929,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 526,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 966677703364558800,
+					"source_status_id_str": "966677703364558848",
+					"source_user_id": 211035338,
+					"source_user_id_str": "211035338"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1011,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10104,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 22 14:14:59 +0000 2018",
+			"id": 966677703364558800,
+			"id_str": "966677703364558848",
+			"text": "猫の日なので猫式と猫織 https://t.co/VF6V2dclCd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 966677682099404800,
+						"id_str": "966677682099404801",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/DWpUOu3VQAEQO_h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWpUOu3VQAEQO_h.jpg",
+						"url": "https://t.co/VF6V2dclCd",
+						"display_url": "pic.twitter.com/VF6V2dclCd",
+						"expanded_url": "https://twitter.com/exa1or8/status/966677703364558848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1550,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 929,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 526,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 966677682099404800,
+						"id_str": "966677682099404801",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/DWpUOu3VQAEQO_h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWpUOu3VQAEQO_h.jpg",
+						"url": "https://t.co/VF6V2dclCd",
+						"display_url": "pic.twitter.com/VF6V2dclCd",
+						"expanded_url": "https://twitter.com/exa1or8/status/966677703364558848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1550,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 929,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 526,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 211035338,
+				"id_str": "211035338",
+				"name": "生コユル@剣式こない",
+				"screen_name": "exa1or8",
+				"location": "サークル名:デコピンまいまい",
+				"description": "趣味で絵を描いてます。型月好きです。ママ式にお熱です。絢辻さんに罵られたいM野郎。アイマスでは、新田美波担当P HP→https://t.co/VX61k8dnlo pixivではイクサで活動中 お題箱作りました→https://t.co/yXovrRnbDv",
+				"url": "https://t.co/vc02ksIMuF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vc02ksIMuF",
+								"expanded_url": "http://www.pixiv.net/member.php?id=5975006",
+								"display_url": "pixiv.net/member.php?id=…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/VX61k8dnlo",
+								"expanded_url": "http://dekopinmaimai.wix.com/dekopin-maimai",
+								"display_url": "dekopinmaimai.wix.com/dekopin-maimai",
+								"indices": [
+									59,
+									82
+								]
+							},
+							{
+								"url": "https://t.co/yXovrRnbDv",
+								"expanded_url": "http://odaibako.net/u/exa1or8",
+								"display_url": "odaibako.net/u/exa1or8",
+								"indices": [
+									107,
+									130
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4063,
+				"friends_count": 853,
+				"listed_count": 101,
+				"created_at": "Tue Nov 02 03:25:48 +0000 2010",
+				"favourites_count": 9225,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 57253,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/493997017866059778/HjJh_-Jk.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/493997017866059778/HjJh_-Jk.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/918467540434554880/DkhkDxNI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/918467540434554880/DkhkDxNI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/211035338/1516377918",
+				"profile_link_color": "4CB8AF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 82,
+			"favorite_count": 194,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Thu Feb 22 16:33:25 +0000 2018",
 		"id": 966712544638337000,
 		"id_str": "966712544638337024",
