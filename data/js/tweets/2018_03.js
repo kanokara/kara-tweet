@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Fri Mar 02 23:29:20 +0000 2018",
+		"id": 969716315152826400,
+		"id_str": "969716315152826369",
+		"text": "RT @ufotable_kr: 1월에 선입금예약주문을 받았던 '극장판[공의경계]10주년기념 설정집-완전판'의 샘플이 도착!\n예약해주신 한국 손님분들께는 3월중에 보내드릴수있도록 준비중입니다.\n한손으로 들기 어려울정도의 두깨와 무게에요...! http…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ufotable_kr",
+					"name": "ufotable_korea",
+					"id": 1268851824,
+					"id_str": "1268851824",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 71,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1017,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10133,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Mar 01 11:34:34 +0000 2018",
+			"id": 969174048671334400,
+			"id_str": "969174048671334400",
+			"text": "1월에 선입금예약주문을 받았던 '극장판[공의경계]10주년기념 설정집-완전판'의 샘플이 도착!\n예약해주신 한국 손님분들께는 3월중에 보내드릴수있도록 준비중입니다.\n한손으로 들기 어려울정도의 두깨와 무게에요..… https://t.co/Ns0DAU4nyz",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ns0DAU4nyz",
+						"expanded_url": "https://twitter.com/i/web/status/969174048671334400",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1268851824,
+				"id_str": "1268851824",
+				"name": "ufotable_korea",
+				"screen_name": "ufotable_kr",
+				"location": "",
+				"description": "★ufotable official account for korean. ★애니메이션스튜디오 ufotable의 한국어 공식 트위터 계정.\n※한국통신판매http://t.co/JTF80vPbyd",
+				"url": "http://t.co/f3RAXenoMV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/f3RAXenoMV",
+								"expanded_url": "http://www.ufotable.com/ufokorea/index.html",
+								"display_url": "ufotable.com/ufokorea/index…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/JTF80vPbyd",
+								"expanded_url": "http://ufotablekorea.cafe24.com",
+								"display_url": "ufotablekorea.cafe24.com",
+								"indices": [
+									82,
+									104
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8263,
+				"friends_count": 20,
+				"listed_count": 50,
+				"created_at": "Fri Mar 15 05:26:51 +0000 2013",
+				"favourites_count": 12,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 850,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3395073743/2ce735fb694a809a7864f2f32d8a5028_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3395073743/2ce735fb694a809a7864f2f32d8a5028_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1268851824/1450772682",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 92,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 92,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Mar 01 13:13:50 +0000 2018",
 		"id": 969199030399000600,
 		"id_str": "969199030399000576",
