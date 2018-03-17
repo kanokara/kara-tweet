@@ -1,6 +1,404 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Sat Mar 17 14:00:26 +0000 2018",
+		"id": 975008962859843600,
+		"id_str": "975008962859843585",
+		"text": "물론 도구로 다루는 것은 자기 자신을 포함해서 철저해야, 아니, 자기 자신에서 기원해야 하는 것. 그렇기에 자아, 정체성, 관계와 같은 키워드에 매몰된 담론이나 고민은 심정적으로 거리가 있네요.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 975006266094309400,
+		"in_reply_to_status_id_str": "975006266094309378",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 75,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1038,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10211,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Mar 17 13:50:47 +0000 2018",
+		"id": 975006534664007700,
+		"id_str": "975006534664007681",
+		"text": "RT @ryungrig2: 나스 월드 마술사 묘사가 제일 인상적이었던건 공의 경계였던것 같다. 거기 나오는 마술사들은 페이트처럼 마력충전용 전지같은 느낌이 아니라 저게 인간이냐 싶은 애들만 골라서 나와서리... https://t.co/eaZdfWsa…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ryungrig2",
+					"name": "인형공장의 면서기",
+					"id": 2202306566,
+					"id_str": "2202306566",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 75,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1038,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10211,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 17 16:05:30 +0000 2018",
+			"id": 964893577896538100,
+			"id_str": "964893577896538112",
+			"text": "나스 월드 마술사 묘사가 제일 인상적이었던건 공의 경계였던것 같다. 거기 나오는 마술사들은 페이트처럼 마력충전용 전지같은 느낌이 아니라 저게 인간이냐 싶은 애들만 골라서 나와서리... https://t.co/eaZdfWsa0G",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 964893570812452900,
+						"id_str": "964893570812452864",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/DWP9lyZVoAAE-xN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWP9lyZVoAAE-xN.jpg",
+						"url": "https://t.co/eaZdfWsa0G",
+						"display_url": "pic.twitter.com/eaZdfWsa0G",
+						"expanded_url": "https://twitter.com/ryungrig2/status/964893577896538112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 254,
+								"h": 198,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 254,
+								"h": 198,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 254,
+								"h": 198,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 964893570812452900,
+						"id_str": "964893570812452864",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/DWP9lyZVoAAE-xN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DWP9lyZVoAAE-xN.jpg",
+						"url": "https://t.co/eaZdfWsa0G",
+						"display_url": "pic.twitter.com/eaZdfWsa0G",
+						"expanded_url": "https://twitter.com/ryungrig2/status/964893577896538112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 254,
+								"h": 198,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 254,
+								"h": 198,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 254,
+								"h": 198,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2202306566,
+				"id_str": "2202306566",
+				"name": "인형공장의 면서기",
+				"screen_name": "ryungrig2",
+				"location": "",
+				"description": "TRPG 겁스, 밤마녀, 크툴루, 누메네라, 13시대 등을 종종 플레이 합니다. 콘솔 / PC RPG, 소녀전선, 페그오, 기타 얇고 넓은 잡덕. 현실이 속쓰려도 여기선 취미이야기만 하려고 노력중. 가끔 헛소리싸고 금방 지움. 애니프사 아님",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 261,
+				"friends_count": 137,
+				"listed_count": 8,
+				"created_at": "Tue Nov 19 01:53:27 +0000 2013",
+				"favourites_count": 1290,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14298,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/947619400747593729/v4P2I_q7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/947619400747593729/v4P2I_q7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2202306566/1501377836",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 136,
+			"favorite_count": 37,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 136,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Mar 17 13:49:43 +0000 2018",
+		"id": 975006266094309400,
+		"id_str": "975006266094309378",
+		"text": "인간을 철저히 도구로 다루는 작품을 좋아한다는 것이 제게는 가장 어두운 취향이에요. 생각해보면 공의 경계에 등장하는 마술사들은 타입문 작품 중 유난히 그런 면모가 두드러졌었고, 작품 메시지와 상반되는 그 면모에 더욱 매혹되었을지도 모르겠어요.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 75,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1038,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10211,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Mar 17 10:56:52 +0000 2018",
 		"id": 974962766418071600,
 		"id_str": "974962766418071553",
