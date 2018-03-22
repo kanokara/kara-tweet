@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Thu Mar 22 09:40:18 +0000 2018",
+		"id": 976755436719190000,
+		"id_str": "976755436719190017",
+		"text": "RT @sai_zen_sen: 【記事更新】レイヤー論：ノート（大塚英志） | 最前線 \n \n【１】レイヤーの視覚メディア史\n【２】キアロスクーロという問題\n【３】レイヤー化する世界認識\n\nこちらからご一読ください → https://t.co/Y9NqlUYlCd #sai…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sai_zen_sen",
+					"name": "最前線",
+					"id": 155824828,
+					"id_str": "155824828",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Y9NqlUYlCd",
+					"expanded_url": "http://sai-zen-sen.jp/editors/blog/post-1134.html",
+					"display_url": "sai-zen-sen.jp/editors/blog/p…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 76,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1040,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10229,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Mar 22 09:11:54 +0000 2018",
+			"id": 976748290485006300,
+			"id_str": "976748290485006336",
+			"text": "【記事更新】レイヤー論：ノート（大塚英志） | 最前線 \n \n【１】レイヤーの視覚メディア史\n【２】キアロスクーロという問題\n【３】レイヤー化する世界認識\n\nこちらからご一読ください → https://t.co/Y9NqlUYlCd #sai_zen_sen",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "sai_zen_sen",
+						"indices": [
+							118,
+							130
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Y9NqlUYlCd",
+						"expanded_url": "http://sai-zen-sen.jp/editors/blog/post-1134.html",
+						"display_url": "sai-zen-sen.jp/editors/blog/p…",
+						"indices": [
+							94,
+							117
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 155824828,
+				"id_str": "155824828",
+				"name": "最前線",
+				"screen_name": "sai_zen_sen",
+				"location": "",
+				"description": "星海社ウェブサイト『最前線』公式アカウント。 現在の中の人は広報担当つきじ（@seikaisha_kt）です。",
+				"url": "http://t.co/hYukaF1IEj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/hYukaF1IEj",
+								"expanded_url": "http://sai-zen-sen.jp/",
+								"display_url": "sai-zen-sen.jp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10177,
+				"friends_count": 132,
+				"listed_count": 488,
+				"created_at": "Tue Jun 15 07:28:18 +0000 2010",
+				"favourites_count": 93,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7419,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBC1C1",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/148633335/saizensen_twitter_bg_.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/148633335/saizensen_twitter_bg_.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1119605520/saizensen_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1119605520/saizensen_normal.png",
+				"profile_link_color": "B30000",
+				"profile_sidebar_border_color": "EBC1C1",
+				"profile_sidebar_fill_color": "F5DCDC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Wed Mar 21 14:05:37 +0000 2018",
 		"id": 976459820973768700,
 		"id_str": "976459820973768704",
