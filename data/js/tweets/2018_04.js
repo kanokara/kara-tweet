@@ -1,6 +1,917 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Tue Apr 03 06:10:24 +0000 2018",
+		"id": 981051269686030300,
+		"id_str": "981051269686030336",
+		"text": "RT @clockoon: 4) 그러니까 '번역가는 사라질 것인가?'라는 질문은 '새로운 기계-뉘앙스를 대중들이 받아들일 것인가?'라고 바꾸어 물어야 한다. 이것이 받아들여지지 않는다면 번역가들은 굳건할 것이다. 그렇지 않다면 싸움은 매우 힘들 것이다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "clockoon",
+					"name": "Sungbin Jeon",
+					"id": 95156962,
+					"id_str": "95156962",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 76,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1051,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10308,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 03 05:29:02 +0000 2018",
+			"id": 981040861382193200,
+			"id_str": "981040861382193153",
+			"text": "4) 그러니까 '번역가는 사라질 것인가?'라는 질문은 '새로운 기계-뉘앙스를 대중들이 받아들일 것인가?'라고 바꾸어 물어야 한다. 이것이 받아들여지지 않는다면 번역가들은 굳건할 것이다. 그렇지 않다면 싸움은 매우 힘들 것이다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 981039778190602200,
+			"in_reply_to_status_id_str": "981039778190602240",
+			"in_reply_to_user_id": 95156962,
+			"in_reply_to_user_id_str": "95156962",
+			"in_reply_to_screen_name": "clockoon",
+			"user": {
+				"id": 95156962,
+				"id_str": "95156962",
+				"name": "Sungbin Jeon",
+				"screen_name": "clockoon",
+				"location": "Seoul, Korea",
+				"description": "C20.kr // 이야기에 대한 이야기 // (현대) 음악-영화-",
+				"url": "https://t.co/0BpbOWf1vu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0BpbOWf1vu",
+								"expanded_url": "http://ask.fm/clockoon",
+								"display_url": "ask.fm/clockoon",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 485,
+				"friends_count": 726,
+				"listed_count": 21,
+				"created_at": "Mon Dec 07 07:35:30 +0000 2009",
+				"favourites_count": 704,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12515,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/630604768973459456/uebHO9kq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/630604768973459456/uebHO9kq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95156962/1349793613",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 03 06:10:19 +0000 2018",
+		"id": 981051248903258100,
+		"id_str": "981051248903258113",
+		"text": "RT @clockoon: 3) 예컨대 [1984]의 \"it was one of those pictures which are so contrived that the eyes follow you about when you move.\"를 구글번역기에 넣으…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "clockoon",
+					"name": "Sungbin Jeon",
+					"id": 95156962,
+					"id_str": "95156962",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 76,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1051,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10308,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 03 05:24:44 +0000 2018",
+			"id": 981039778190602200,
+			"id_str": "981039778190602240",
+			"text": "3) 예컨대 [1984]의 \"it was one of those pictures which are so contrived that the eyes follow you about when you move.\"를… https://t.co/pUdRKgCajh",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pUdRKgCajh",
+						"expanded_url": "https://twitter.com/i/web/status/981039778190602240",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 981039280511332400,
+			"in_reply_to_status_id_str": "981039280511332352",
+			"in_reply_to_user_id": 95156962,
+			"in_reply_to_user_id_str": "95156962",
+			"in_reply_to_screen_name": "clockoon",
+			"user": {
+				"id": 95156962,
+				"id_str": "95156962",
+				"name": "Sungbin Jeon",
+				"screen_name": "clockoon",
+				"location": "Seoul, Korea",
+				"description": "C20.kr // 이야기에 대한 이야기 // (현대) 음악-영화-",
+				"url": "https://t.co/0BpbOWf1vu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0BpbOWf1vu",
+								"expanded_url": "http://ask.fm/clockoon",
+								"display_url": "ask.fm/clockoon",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 485,
+				"friends_count": 726,
+				"listed_count": 21,
+				"created_at": "Mon Dec 07 07:35:30 +0000 2009",
+				"favourites_count": 704,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12515,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/630604768973459456/uebHO9kq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/630604768973459456/uebHO9kq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95156962/1349793613",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 03 06:10:16 +0000 2018",
+		"id": 981051234755928000,
+		"id_str": "981051234755928064",
+		"text": "RT @clockoon: 2) 그러나 대신에, 기계번역은 자체적인 뉘앙스를 만들어내고 있다(혹은 인간이 그것을 새로운 뉘앙스로 인식한다). 마치 알파고를 보면서 사람들이 새로운 '기풍'을 이야기했던 것처럼.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "clockoon",
+					"name": "Sungbin Jeon",
+					"id": 95156962,
+					"id_str": "95156962",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 76,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1051,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10308,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 03 05:22:45 +0000 2018",
+			"id": 981039280511332400,
+			"id_str": "981039280511332352",
+			"text": "2) 그러나 대신에, 기계번역은 자체적인 뉘앙스를 만들어내고 있다(혹은 인간이 그것을 새로운 뉘앙스로 인식한다). 마치 알파고를 보면서 사람들이 새로운 '기풍'을 이야기했던 것처럼.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 981037534024122400,
+			"in_reply_to_status_id_str": "981037534024122368",
+			"in_reply_to_user_id": 95156962,
+			"in_reply_to_user_id_str": "95156962",
+			"in_reply_to_screen_name": "clockoon",
+			"user": {
+				"id": 95156962,
+				"id_str": "95156962",
+				"name": "Sungbin Jeon",
+				"screen_name": "clockoon",
+				"location": "Seoul, Korea",
+				"description": "C20.kr // 이야기에 대한 이야기 // (현대) 음악-영화-",
+				"url": "https://t.co/0BpbOWf1vu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0BpbOWf1vu",
+								"expanded_url": "http://ask.fm/clockoon",
+								"display_url": "ask.fm/clockoon",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 485,
+				"friends_count": 726,
+				"listed_count": 21,
+				"created_at": "Mon Dec 07 07:35:30 +0000 2009",
+				"favourites_count": 704,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12515,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/630604768973459456/uebHO9kq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/630604768973459456/uebHO9kq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95156962/1349793613",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 03 06:10:12 +0000 2018",
+		"id": 981051220637794300,
+		"id_str": "981051220637794305",
+		"text": "RT @clockoon: 1) 번역이란 결국 A 언어의 (의미가 아닌) 뉘앙스를 B 언어의 뉘앙스로 옮겨내는 것이다. 기계번역은 의미번역의 수준을 이제 간신히 넘어 뉘앙스를 시도하는 중. 그러나 두 언어의 뉘앙스를 기계가 완전히 이해하고 연결할 수…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "clockoon",
+					"name": "Sungbin Jeon",
+					"id": 95156962,
+					"id_str": "95156962",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 76,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1051,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10308,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 03 05:15:49 +0000 2018",
+			"id": 981037534024122400,
+			"id_str": "981037534024122368",
+			"text": "1) 번역이란 결국 A 언어의 (의미가 아닌) 뉘앙스를 B 언어의 뉘앙스로 옮겨내는 것이다. 기계번역은 의미번역의 수준을 이제 간신히 넘어 뉘앙스를 시도하는 중. 그러나 두 언어의 뉘앙스를 기계가 완전히 이… https://t.co/oqj13F8dA7",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/oqj13F8dA7",
+						"expanded_url": "https://twitter.com/i/web/status/981037534024122368",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 981036948155322400,
+			"in_reply_to_status_id_str": "981036948155322368",
+			"in_reply_to_user_id": 95156962,
+			"in_reply_to_user_id_str": "95156962",
+			"in_reply_to_screen_name": "clockoon",
+			"user": {
+				"id": 95156962,
+				"id_str": "95156962",
+				"name": "Sungbin Jeon",
+				"screen_name": "clockoon",
+				"location": "Seoul, Korea",
+				"description": "C20.kr // 이야기에 대한 이야기 // (현대) 음악-영화-",
+				"url": "https://t.co/0BpbOWf1vu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0BpbOWf1vu",
+								"expanded_url": "http://ask.fm/clockoon",
+								"display_url": "ask.fm/clockoon",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 485,
+				"friends_count": 726,
+				"listed_count": 21,
+				"created_at": "Mon Dec 07 07:35:30 +0000 2009",
+				"favourites_count": 704,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12515,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/630604768973459456/uebHO9kq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/630604768973459456/uebHO9kq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95156962/1349793613",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue Apr 03 06:10:08 +0000 2018",
+		"id": 981051201629208600,
+		"id_str": "981051201629208576",
+		"text": "RT @clockoon: RT) 결론부터: 만일 번역가가 없어진다면, 그것은 기계번역이 인간 번역가를 대체했기 때문이 아니라, 인간의 언어구조가 '기계가 재해석한 인간언어'를 닮아버렸기 때문일 것이다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "clockoon",
+					"name": "Sungbin Jeon",
+					"id": 95156962,
+					"id_str": "95156962",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 76,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1051,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10308,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 03 05:13:29 +0000 2018",
+			"id": 981036948155322400,
+			"id_str": "981036948155322368",
+			"text": "RT) 결론부터: 만일 번역가가 없어진다면, 그것은 기계번역이 인간 번역가를 대체했기 때문이 아니라, 인간의 언어구조가 '기계가 재해석한 인간언어'를 닮아버렸기 때문일 것이다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 95156962,
+				"id_str": "95156962",
+				"name": "Sungbin Jeon",
+				"screen_name": "clockoon",
+				"location": "Seoul, Korea",
+				"description": "C20.kr // 이야기에 대한 이야기 // (현대) 음악-영화-",
+				"url": "https://t.co/0BpbOWf1vu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0BpbOWf1vu",
+								"expanded_url": "http://ask.fm/clockoon",
+								"display_url": "ask.fm/clockoon",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 485,
+				"friends_count": 726,
+				"listed_count": 21,
+				"created_at": "Mon Dec 07 07:35:30 +0000 2009",
+				"favourites_count": 704,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12515,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/630604768973459456/uebHO9kq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/630604768973459456/uebHO9kq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95156962/1349793613",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Apr 03 02:53:04 +0000 2018",
 		"id": 981001610414374900,
 		"id_str": "981001610414374912",
