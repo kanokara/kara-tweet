@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Fri Apr 06 06:08:29 +0000 2018",
+		"id": 982137950577221600,
+		"id_str": "982137950577221632",
+		"text": "RT @myowmei: 추론 능력이 없어도 돈 주면 학원 선생들이 어떻게든 답을 찾을 수 있는 틀을 만들어 주기도 하고, 동영상과 그림으로 이해할 수도 있고, 초기에는 그쪽이 효율이 좋으니 그렇게 해오다가 결국 독해의 문을 너무 늦게 마주치게 된다.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "myowmei",
+					"name": "언사인드 업데이트.",
+					"id": 3074835918,
+					"id_str": "3074835918",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 75,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1075,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10408,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 05 16:09:51 +0000 2018",
+			"id": 981926902532198400,
+			"id_str": "981926902532198402",
+			"text": "추론 능력이 없어도 돈 주면 학원 선생들이 어떻게든 답을 찾을 수 있는 틀을 만들어 주기도 하고, 동영상과 그림으로 이해할 수도 있고, 초기에는 그쪽이 효율이 좋으니 그렇게 해오다가 결국 독해의 문을 너무… https://t.co/5yomLXaSu4",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5yomLXaSu4",
+						"expanded_url": "https://twitter.com/i/web/status/981926902532198402",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 981926132202192900,
+			"in_reply_to_status_id_str": "981926132202192896",
+			"in_reply_to_user_id": 3074835918,
+			"in_reply_to_user_id_str": "3074835918",
+			"in_reply_to_screen_name": "myowmei",
+			"user": {
+				"id": 3074835918,
+				"id_str": "3074835918",
+				"name": "언사인드 업데이트.",
+				"screen_name": "myowmei",
+				"location": "危ないコンピュータ",
+				"description": "어디서 온 건지 모르겠는 패치 패키지. 디지털 사인도 해시값도 없다. 플사는 구글 머테리얼 아이콘 play circle. https://t.co/PsgEkxon2b 참고. 日本語できます。 English is available also.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/PsgEkxon2b",
+								"expanded_url": "https://material.io/icons/",
+								"display_url": "material.io/icons/",
+								"indices": [
+									68,
+									91
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 992,
+				"friends_count": 325,
+				"listed_count": 25,
+				"created_at": "Thu Mar 12 08:47:29 +0000 2015",
+				"favourites_count": 4995,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22133,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876021218914193408/FH0i6-gU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876021218914193408/FH0i6-gU_normal.jpg",
+				"profile_link_color": "E9693D",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Apr 06 06:08:25 +0000 2018",
+		"id": 982137935976808400,
+		"id_str": "982137935976808453",
+		"text": "RT @myowmei: 요즘 학생들을 보면 긴 글을 읽고 이해할 수 있느냐, 라는 관문에서 탈락하는 애들이 많다. 정확히 말하자면 옛날에도 그 문을 많이 넘는 건 아니었는데 학습도구, 방법들이 발전하면서 독해 없이도 어떻게든 지식을 쌓은 애들이 늘어…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "myowmei",
+					"name": "언사인드 업데이트.",
+					"id": 3074835918,
+					"id_str": "3074835918",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 75,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1075,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10408,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 05 16:06:47 +0000 2018",
+			"id": 981926132202192900,
+			"id_str": "981926132202192896",
+			"text": "요즘 학생들을 보면 긴 글을 읽고 이해할 수 있느냐, 라는 관문에서 탈락하는 애들이 많다. 정확히 말하자면 옛날에도 그 문을 많이 넘는 건 아니었는데 학습도구, 방법들이 발전하면서 독해 없이도 어떻게든 지식… https://t.co/oupvpjgsLu",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/oupvpjgsLu",
+						"expanded_url": "https://twitter.com/i/web/status/981926132202192896",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3074835918,
+				"id_str": "3074835918",
+				"name": "언사인드 업데이트.",
+				"screen_name": "myowmei",
+				"location": "危ないコンピュータ",
+				"description": "어디서 온 건지 모르겠는 패치 패키지. 디지털 사인도 해시값도 없다. 플사는 구글 머테리얼 아이콘 play circle. https://t.co/PsgEkxon2b 참고. 日本語できます。 English is available also.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/PsgEkxon2b",
+								"expanded_url": "https://material.io/icons/",
+								"display_url": "material.io/icons/",
+								"indices": [
+									68,
+									91
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 992,
+				"friends_count": 325,
+				"listed_count": 25,
+				"created_at": "Thu Mar 12 08:47:29 +0000 2015",
+				"favourites_count": 4995,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22133,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/876021218914193408/FH0i6-gU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/876021218914193408/FH0i6-gU_normal.jpg",
+				"profile_link_color": "E9693D",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 58,
+			"favorite_count": 30,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Apr 05 15:00:11 +0000 2018",
 		"id": 981909370412843000,
 		"id_str": "981909370412843008",
