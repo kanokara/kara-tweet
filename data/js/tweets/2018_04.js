@@ -1,6 +1,2533 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sun Apr 15 23:09:41 +0000 2018",
+		"id": 985656436603600900,
+		"id_str": "985656436603600896",
+		"text": "RT @elan_d_amour: “이러한”이 지칭하는 바는 모순을 끝까지 끌고나감으로써 시작되는 글입니다. 다시 읽어보니 혼동의 여지가 있을듯 하여..",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elan_d_amour",
+					"name": "엄탱",
+					"id": 141442901,
+					"id_str": "141442901",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 75,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1071,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10447,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 15 15:57:23 +0000 2018",
+			"id": 985547645648363500,
+			"id_str": "985547645648363525",
+			"text": "“이러한”이 지칭하는 바는 모순을 끝까지 끌고나감으로써 시작되는 글입니다. 다시 읽어보니 혼동의 여지가 있을듯 하여..",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 985546276870787100,
+			"in_reply_to_status_id_str": "985546276870787072",
+			"in_reply_to_user_id": 141442901,
+			"in_reply_to_user_id_str": "141442901",
+			"in_reply_to_screen_name": "elan_d_amour",
+			"user": {
+				"id": 141442901,
+				"id_str": "141442901",
+				"name": "엄탱",
+				"screen_name": "elan_d_amour",
+				"location": "Villejuif, France",
+				"description": "철학과 대학원생.",
+				"url": "https://t.co/Dm2qXGFhGO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Dm2qXGFhGO",
+								"expanded_url": "http://ask.fm/sawu",
+								"display_url": "ask.fm/sawu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 855,
+				"friends_count": 303,
+				"listed_count": 10,
+				"created_at": "Sat May 08 03:24:04 +0000 2010",
+				"favourites_count": 3938,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9406,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F6F3EA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/99496343/mqdoodles.br.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/99496343/mqdoodles.br.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/905173710604206082/BRCPpGZe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/905173710604206082/BRCPpGZe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/141442901/1455907049",
+				"profile_link_color": "5F00C7",
+				"profile_sidebar_border_color": "5F00C7",
+				"profile_sidebar_fill_color": "C8AA79",
+				"profile_text_color": "111111",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Apr 15 23:09:39 +0000 2018",
+		"id": 985656426377887700,
+		"id_str": "985656426377887744",
+		"text": "RT @elan_d_amour: 반대로 이러한 글은 영미적인 입장에서는 명료하지 않은 글, 중언부언하는 글, 혹은 말장난하는 글이 되어버리고 말 것이다. 이러한 스타일의 차이가 사유방식의 차이로 이어지지는 않을까 하는 궁금증이 들었던(궁금증이 들기만…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elan_d_amour",
+					"name": "엄탱",
+					"id": 141442901,
+					"id_str": "141442901",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 75,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1071,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10447,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 15 15:51:57 +0000 2018",
+			"id": 985546276870787100,
+			"id_str": "985546276870787072",
+			"text": "반대로 이러한 글은 영미적인 입장에서는 명료하지 않은 글, 중언부언하는 글, 혹은 말장난하는 글이 되어버리고 말 것이다. 이러한 스타일의 차이가 사유방식의 차이로 이어지지는 않을까 하는 궁금증이 들었던(궁금증이 들기만 했던) 생각이 난다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 985545926281519100,
+			"in_reply_to_status_id_str": "985545926281519104",
+			"in_reply_to_user_id": 141442901,
+			"in_reply_to_user_id_str": "141442901",
+			"in_reply_to_screen_name": "elan_d_amour",
+			"user": {
+				"id": 141442901,
+				"id_str": "141442901",
+				"name": "엄탱",
+				"screen_name": "elan_d_amour",
+				"location": "Villejuif, France",
+				"description": "철학과 대학원생.",
+				"url": "https://t.co/Dm2qXGFhGO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Dm2qXGFhGO",
+								"expanded_url": "http://ask.fm/sawu",
+								"display_url": "ask.fm/sawu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 855,
+				"friends_count": 303,
+				"listed_count": 10,
+				"created_at": "Sat May 08 03:24:04 +0000 2010",
+				"favourites_count": 3938,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9406,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F6F3EA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/99496343/mqdoodles.br.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/99496343/mqdoodles.br.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/905173710604206082/BRCPpGZe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/905173710604206082/BRCPpGZe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/141442901/1455907049",
+				"profile_link_color": "5F00C7",
+				"profile_sidebar_border_color": "5F00C7",
+				"profile_sidebar_fill_color": "C8AA79",
+				"profile_text_color": "111111",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 80,
+			"favorite_count": 47,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Apr 15 23:09:36 +0000 2018",
+		"id": 985656415812337700,
+		"id_str": "985656415812337665",
+		"text": "RT @elan_d_amour: 요컨대 프랑스에서 글쓰기는 모순을 끝까지 끌고나간 뒤에야 시작되는 것이다. 프랑스는 중등교육부터 그러한 문제제기를 가르치고, 그러한 글을 좋은 글로 평가한다. 자신이 어디로 갈지 글 서두에 밝히는 글은 프랑스적인 관점…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elan_d_amour",
+					"name": "엄탱",
+					"id": 141442901,
+					"id_str": "141442901",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 75,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1071,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10447,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 15 15:50:34 +0000 2018",
+			"id": 985545926281519100,
+			"id_str": "985545926281519104",
+			"text": "요컨대 프랑스에서 글쓰기는 모순을 끝까지 끌고나간 뒤에야 시작되는 것이다. 프랑스는 중등교육부터 그러한 문제제기를 가르치고, 그러한 글을 좋은 글로 평가한다. 자신이 어디로 갈지 글 서두에 밝히는 글은 프랑… https://t.co/AFzCPMOKXG",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AFzCPMOKXG",
+						"expanded_url": "https://twitter.com/i/web/status/985545926281519104",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 985545440895565800,
+			"in_reply_to_status_id_str": "985545440895565830",
+			"in_reply_to_user_id": 141442901,
+			"in_reply_to_user_id_str": "141442901",
+			"in_reply_to_screen_name": "elan_d_amour",
+			"user": {
+				"id": 141442901,
+				"id_str": "141442901",
+				"name": "엄탱",
+				"screen_name": "elan_d_amour",
+				"location": "Villejuif, France",
+				"description": "철학과 대학원생.",
+				"url": "https://t.co/Dm2qXGFhGO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Dm2qXGFhGO",
+								"expanded_url": "http://ask.fm/sawu",
+								"display_url": "ask.fm/sawu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 855,
+				"friends_count": 303,
+				"listed_count": 10,
+				"created_at": "Sat May 08 03:24:04 +0000 2010",
+				"favourites_count": 3938,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9406,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F6F3EA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/99496343/mqdoodles.br.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/99496343/mqdoodles.br.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/905173710604206082/BRCPpGZe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/905173710604206082/BRCPpGZe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/141442901/1455907049",
+				"profile_link_color": "5F00C7",
+				"profile_sidebar_border_color": "5F00C7",
+				"profile_sidebar_fill_color": "C8AA79",
+				"profile_text_color": "111111",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 96,
+			"favorite_count": 72,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Apr 15 23:09:33 +0000 2018",
+		"id": 985656402067701800,
+		"id_str": "985656402067701760",
+		"text": "RT @elan_d_amour: 그 말인즉슨, 프랑스 학생들은 문제에 대한 입장과 주장을 서술하기에 앞서 문제의 모순을 먼저 찾아낸다는 것이었다. 데리다를 전공하는 지인의 프랑스 지도교수는 글의 서두는 언제나 해결 불가능해보이는 모순을 격화시키는 방…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elan_d_amour",
+					"name": "엄탱",
+					"id": 141442901,
+					"id_str": "141442901",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 75,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1071,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10447,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 15 15:48:38 +0000 2018",
+			"id": 985545440895565800,
+			"id_str": "985545440895565830",
+			"text": "그 말인즉슨, 프랑스 학생들은 문제에 대한 입장과 주장을 서술하기에 앞서 문제의 모순을 먼저 찾아낸다는 것이었다. 데리다를 전공하는 지인의 프랑스 지도교수는 글의 서두는 언제나 해결 불가능해보이는 모순을 격… https://t.co/vNqZGBxhI9",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vNqZGBxhI9",
+						"expanded_url": "https://twitter.com/i/web/status/985545440895565830",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 985544915462615000,
+			"in_reply_to_status_id_str": "985544915462615041",
+			"in_reply_to_user_id": 141442901,
+			"in_reply_to_user_id_str": "141442901",
+			"in_reply_to_screen_name": "elan_d_amour",
+			"user": {
+				"id": 141442901,
+				"id_str": "141442901",
+				"name": "엄탱",
+				"screen_name": "elan_d_amour",
+				"location": "Villejuif, France",
+				"description": "철학과 대학원생.",
+				"url": "https://t.co/Dm2qXGFhGO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Dm2qXGFhGO",
+								"expanded_url": "http://ask.fm/sawu",
+								"display_url": "ask.fm/sawu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 855,
+				"friends_count": 303,
+				"listed_count": 10,
+				"created_at": "Sat May 08 03:24:04 +0000 2010",
+				"favourites_count": 3938,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9406,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F6F3EA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/99496343/mqdoodles.br.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/99496343/mqdoodles.br.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/905173710604206082/BRCPpGZe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/905173710604206082/BRCPpGZe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/141442901/1455907049",
+				"profile_link_color": "5F00C7",
+				"profile_sidebar_border_color": "5F00C7",
+				"profile_sidebar_fill_color": "C8AA79",
+				"profile_text_color": "111111",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 92,
+			"favorite_count": 70,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 92,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Apr 15 23:09:29 +0000 2018",
+		"id": 985656383499526100,
+		"id_str": "985656383499526145",
+		"text": "RT @elan_d_amour: 프랑스적 글쓰기와 영미적 글쓰기가 전혀 다른 목표를 겨냥함을 알아챘던 것은 꽤나 흥미로운 일이었다. 미국에서 글쓰기 수업을 가르치는 내 지인이, 함께 글쓰기 수업을 하는 다른 강사의 반에 시앙스포에서 온 프랑스인들이…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elan_d_amour",
+					"name": "엄탱",
+					"id": 141442901,
+					"id_str": "141442901",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 75,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1071,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10447,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 15 15:46:33 +0000 2018",
+			"id": 985544915462615000,
+			"id_str": "985544915462615041",
+			"text": "프랑스적 글쓰기와 영미적 글쓰기가 전혀 다른 목표를 겨냥함을 알아챘던 것은 꽤나 흥미로운 일이었다. 미국에서 글쓰기 수업을 가르치는 내 지인이, 함께 글쓰기 수업을 하는 다른 강사의 반에 시앙스포에서 온 프… https://t.co/84vIUZcpVK",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/84vIUZcpVK",
+						"expanded_url": "https://twitter.com/i/web/status/985544915462615041",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 141442901,
+				"id_str": "141442901",
+				"name": "엄탱",
+				"screen_name": "elan_d_amour",
+				"location": "Villejuif, France",
+				"description": "철학과 대학원생.",
+				"url": "https://t.co/Dm2qXGFhGO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Dm2qXGFhGO",
+								"expanded_url": "http://ask.fm/sawu",
+								"display_url": "ask.fm/sawu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 855,
+				"friends_count": 303,
+				"listed_count": 10,
+				"created_at": "Sat May 08 03:24:04 +0000 2010",
+				"favourites_count": 3938,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9406,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F6F3EA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/99496343/mqdoodles.br.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/99496343/mqdoodles.br.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/905173710604206082/BRCPpGZe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/905173710604206082/BRCPpGZe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/141442901/1455907049",
+				"profile_link_color": "5F00C7",
+				"profile_sidebar_border_color": "5F00C7",
+				"profile_sidebar_fill_color": "C8AA79",
+				"profile_text_color": "111111",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 166,
+			"favorite_count": 134,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 166,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Apr 15 23:04:18 +0000 2018",
+		"id": 985655079335149600,
+		"id_str": "985655079335149568",
+		"text": "형식 면에서 폭력적이라고 할까, 윤리적이지 못하다는 감각이 드네요. 글을 쓰는 '나'를 은폐하고 무기질적인 관찰자인 체하는 것의 비윤리. 자신의 이야기를 들려주며 '나'를 드러내는 것이 올바른 응대는 아닐까.\nhttps://t.co/4gtiqmRchQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4gtiqmRchQ",
+					"expanded_url": "https://twitter.com/c1icherry/status/985484353793753089",
+					"display_url": "twitter.com/c1icherry/stat…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 75,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1071,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10447,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 985484353793753100,
+		"quoted_status_id_str": "985484353793753089",
+		"quoted_status": {
+			"created_at": "Sun Apr 15 11:45:54 +0000 2018",
+			"id": 985484353793753100,
+			"id_str": "985484353793753089",
+			"text": "생전에 그를 충분히 읽지 못했습니다. 미안합니다. 평론은 때로 (실은 거의 항상) 가장 최악의 폭력임을 알지만, 삶은 때로 폭력으로만 이어지는걸요. 나는 이 글을 읽는 당신이 더 많은 글을 쓰기를 바랍니다.… https://t.co/W9wW9bGvNF",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/W9wW9bGvNF",
+						"expanded_url": "https://twitter.com/i/web/status/985484353793753089",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 985483744894074900,
+			"in_reply_to_status_id_str": "985483744894074880",
+			"in_reply_to_user_id": 971228478950465500,
+			"in_reply_to_user_id_str": "971228478950465536",
+			"in_reply_to_screen_name": "c1icherry",
+			"user": {
+				"id": 971228478950465500,
+				"id_str": "971228478950465536",
+				"name": "쉐리",
+				"screen_name": "c1icherry",
+				"location": "서울특별시",
+				"description": "액체; 거울 #보영사랑",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31,
+				"friends_count": 41,
+				"listed_count": 2,
+				"created_at": "Wed Mar 07 03:38:08 +0000 2018",
+				"favourites_count": 136,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 60,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/985167363568889856/ivj59J9g_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/985167363568889856/ivj59J9g_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/971228478950465536/1523716843",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Apr 15 22:59:44 +0000 2018",
+		"id": 985653932599816200,
+		"id_str": "985653932599816192",
+		"text": "RT @c1icherry: 생전에 그를 충분히 읽지 못했습니다. 미안합니다. 평론은 때로 (실은 거의 항상) 가장 최악의 폭력임을 알지만, 삶은 때로 폭력으로만 이어지는걸요. 나는 이 글을 읽는 당신이 더 많은 글을 쓰기를 바랍니다. 나는 그 글을…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "c1icherry",
+					"name": "쉐리",
+					"id": 971228478950465500,
+					"id_str": "971228478950465536",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 75,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1071,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10447,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 15 11:45:54 +0000 2018",
+			"id": 985484353793753100,
+			"id_str": "985484353793753089",
+			"text": "생전에 그를 충분히 읽지 못했습니다. 미안합니다. 평론은 때로 (실은 거의 항상) 가장 최악의 폭력임을 알지만, 삶은 때로 폭력으로만 이어지는걸요. 나는 이 글을 읽는 당신이 더 많은 글을 쓰기를 바랍니다.… https://t.co/W9wW9bGvNF",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/W9wW9bGvNF",
+						"expanded_url": "https://twitter.com/i/web/status/985484353793753089",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 985483744894074900,
+			"in_reply_to_status_id_str": "985483744894074880",
+			"in_reply_to_user_id": 971228478950465500,
+			"in_reply_to_user_id_str": "971228478950465536",
+			"in_reply_to_screen_name": "c1icherry",
+			"user": {
+				"id": 971228478950465500,
+				"id_str": "971228478950465536",
+				"name": "쉐리",
+				"screen_name": "c1icherry",
+				"location": "서울특별시",
+				"description": "액체; 거울 #보영사랑",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31,
+				"friends_count": 41,
+				"listed_count": 2,
+				"created_at": "Wed Mar 07 03:38:08 +0000 2018",
+				"favourites_count": 136,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 60,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/985167363568889856/ivj59J9g_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/985167363568889856/ivj59J9g_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/971228478950465536/1523716843",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Apr 15 22:59:41 +0000 2018",
+		"id": 985653920608337900,
+		"id_str": "985653920608337920",
+		"text": "RT @c1icherry: \"메루 읽기 I : 멈춰버린 이야기에 대하여\"\n메루 씨가 생전에 남긴 글과 트윗 중 일부를 읽고 짧게 평했습니다. 저와 메루 씨의 벗들께서 한 번쯤 읽어주셨으면 합니다.\nhttps://t.co/hBwTWVCCve",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "c1icherry",
+					"name": "쉐리",
+					"id": 971228478950465500,
+					"id_str": "971228478950465536",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hBwTWVCCve",
+					"expanded_url": "https://www.evernote.com/shard/s258/sh/e3c2113b-371e-4765-ab29-c8012c6a0632/73a74b870b1708cb5957e01481390de5",
+					"display_url": "evernote.com/shard/s258/sh/…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 75,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1071,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10447,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 15 11:43:28 +0000 2018",
+			"id": 985483744894074900,
+			"id_str": "985483744894074880",
+			"text": "\"메루 읽기 I : 멈춰버린 이야기에 대하여\"\n메루 씨가 생전에 남긴 글과 트윗 중 일부를 읽고 짧게 평했습니다. 저와 메루 씨의 벗들께서 한 번쯤 읽어주셨으면 합니다.\nhttps://t.co/hBwTWVCCve",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hBwTWVCCve",
+						"expanded_url": "https://www.evernote.com/shard/s258/sh/e3c2113b-371e-4765-ab29-c8012c6a0632/73a74b870b1708cb5957e01481390de5",
+						"display_url": "evernote.com/shard/s258/sh/…",
+						"indices": [
+							95,
+							118
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 971228478950465500,
+				"id_str": "971228478950465536",
+				"name": "쉐리",
+				"screen_name": "c1icherry",
+				"location": "서울특별시",
+				"description": "액체; 거울 #보영사랑",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31,
+				"friends_count": 41,
+				"listed_count": 2,
+				"created_at": "Wed Mar 07 03:38:08 +0000 2018",
+				"favourites_count": 136,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 60,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/985167363568889856/ivj59J9g_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/985167363568889856/ivj59J9g_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/971228478950465536/1523716843",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 42,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Apr 15 22:18:06 +0000 2018",
+		"id": 985643455081726000,
+		"id_str": "985643455081725952",
+		"text": "RT @slowcoleslaw: (순 나를 위해서 글을 써두는 것만큼 남는 일이 없다고 요즘 생각하게 되었다.) https://t.co/l1vy3BuEIu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "slowcoleslaw",
+					"name": "진행자",
+					"id": 124151051,
+					"id_str": "124151051",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 985388014011494400,
+					"id_str": "985388014011494401",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/DazNLY0VMAEJ8zb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DazNLY0VMAEJ8zb.jpg",
+					"url": "https://t.co/l1vy3BuEIu",
+					"display_url": "pic.twitter.com/l1vy3BuEIu",
+					"expanded_url": "https://twitter.com/slowcoleslaw/status/985388020353318912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 639,
+							"h": 959,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 639,
+							"h": 959,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985388020353318900,
+					"source_status_id_str": "985388020353318912",
+					"source_user_id": 124151051,
+					"source_user_id_str": "124151051"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 985388014011494400,
+					"id_str": "985388014011494401",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/DazNLY0VMAEJ8zb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DazNLY0VMAEJ8zb.jpg",
+					"url": "https://t.co/l1vy3BuEIu",
+					"display_url": "pic.twitter.com/l1vy3BuEIu",
+					"expanded_url": "https://twitter.com/slowcoleslaw/status/985388020353318912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 639,
+							"h": 959,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 639,
+							"h": 959,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985388020353318900,
+					"source_status_id_str": "985388020353318912",
+					"source_user_id": 124151051,
+					"source_user_id_str": "124151051"
+				},
+				{
+					"id": 985388014225338400,
+					"id_str": "985388014225338369",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/DazNLZnUMAE765L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DazNLZnUMAE765L.jpg",
+					"url": "https://t.co/l1vy3BuEIu",
+					"display_url": "pic.twitter.com/l1vy3BuEIu",
+					"expanded_url": "https://twitter.com/slowcoleslaw/status/985388020353318912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 639,
+							"h": 419,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 639,
+							"h": 419,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 639,
+							"h": 419,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985388020353318900,
+					"source_status_id_str": "985388020353318912",
+					"source_user_id": 124151051,
+					"source_user_id_str": "124151051"
+				},
+				{
+					"id": 985388014573568000,
+					"id_str": "985388014573568000",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/DazNLa6VwAAHnR1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DazNLa6VwAAHnR1.jpg",
+					"url": "https://t.co/l1vy3BuEIu",
+					"display_url": "pic.twitter.com/l1vy3BuEIu",
+					"expanded_url": "https://twitter.com/slowcoleslaw/status/985388020353318912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 639,
+							"h": 825,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 639,
+							"h": 825,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 527,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985388020353318900,
+					"source_status_id_str": "985388020353318912",
+					"source_user_id": 124151051,
+					"source_user_id_str": "124151051"
+				},
+				{
+					"id": 985388014841905200,
+					"id_str": "985388014841905152",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/DazNLb6UQAAJ9Ki.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DazNLb6UQAAJ9Ki.jpg",
+					"url": "https://t.co/l1vy3BuEIu",
+					"display_url": "pic.twitter.com/l1vy3BuEIu",
+					"expanded_url": "https://twitter.com/slowcoleslaw/status/985388020353318912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 639,
+							"h": 859,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 639,
+							"h": 859,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 506,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985388020353318900,
+					"source_status_id_str": "985388020353318912",
+					"source_user_id": 124151051,
+					"source_user_id_str": "124151051"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 75,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1071,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10447,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 15 05:23:06 +0000 2018",
+			"id": 985388020353318900,
+			"id_str": "985388020353318912",
+			"text": "(순 나를 위해서 글을 써두는 것만큼 남는 일이 없다고 요즘 생각하게 되었다.) https://t.co/l1vy3BuEIu",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 985388014011494400,
+						"id_str": "985388014011494401",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/DazNLY0VMAEJ8zb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DazNLY0VMAEJ8zb.jpg",
+						"url": "https://t.co/l1vy3BuEIu",
+						"display_url": "pic.twitter.com/l1vy3BuEIu",
+						"expanded_url": "https://twitter.com/slowcoleslaw/status/985388020353318912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 639,
+								"h": 959,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 639,
+								"h": 959,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 985388014011494400,
+						"id_str": "985388014011494401",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/DazNLY0VMAEJ8zb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DazNLY0VMAEJ8zb.jpg",
+						"url": "https://t.co/l1vy3BuEIu",
+						"display_url": "pic.twitter.com/l1vy3BuEIu",
+						"expanded_url": "https://twitter.com/slowcoleslaw/status/985388020353318912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 639,
+								"h": 959,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 639,
+								"h": 959,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 985388014225338400,
+						"id_str": "985388014225338369",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/DazNLZnUMAE765L.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DazNLZnUMAE765L.jpg",
+						"url": "https://t.co/l1vy3BuEIu",
+						"display_url": "pic.twitter.com/l1vy3BuEIu",
+						"expanded_url": "https://twitter.com/slowcoleslaw/status/985388020353318912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 639,
+								"h": 419,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 639,
+								"h": 419,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 639,
+								"h": 419,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 985388014573568000,
+						"id_str": "985388014573568000",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/DazNLa6VwAAHnR1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DazNLa6VwAAHnR1.jpg",
+						"url": "https://t.co/l1vy3BuEIu",
+						"display_url": "pic.twitter.com/l1vy3BuEIu",
+						"expanded_url": "https://twitter.com/slowcoleslaw/status/985388020353318912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 639,
+								"h": 825,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 639,
+								"h": 825,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 527,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 985388014841905200,
+						"id_str": "985388014841905152",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/media/DazNLb6UQAAJ9Ki.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DazNLb6UQAAJ9Ki.jpg",
+						"url": "https://t.co/l1vy3BuEIu",
+						"display_url": "pic.twitter.com/l1vy3BuEIu",
+						"expanded_url": "https://twitter.com/slowcoleslaw/status/985388020353318912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 639,
+								"h": 859,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 639,
+								"h": 859,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 506,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 985387415140384800,
+			"in_reply_to_status_id_str": "985387415140384768",
+			"in_reply_to_user_id": 124151051,
+			"in_reply_to_user_id_str": "124151051",
+			"in_reply_to_screen_name": "slowcoleslaw",
+			"user": {
+				"id": 124151051,
+				"id_str": "124151051",
+				"name": "진행자",
+				"screen_name": "slowcoleslaw",
+				"location": "기본소득을 받는다면",
+				"description": "BIYN 멤버 | 주로 마음의 취약점을 쓰는데(2017~) 가끔 감상도 쓰고 하는 일의 홍보도 합니다. | 페미니스트로서 계획이 있습니다.(2018.3.18) | 문의 : decembre.hw@gmail.com",
+				"url": "https://t.co/10fXzLTHEJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/10fXzLTHEJ",
+								"expanded_url": "http://www.podbbang.com/ch/15600",
+								"display_url": "podbbang.com/ch/15600",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2800,
+				"friends_count": 797,
+				"listed_count": 54,
+				"created_at": "Thu Mar 18 12:26:28 +0000 2010",
+				"favourites_count": 8341,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29476,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0F0F0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000028783382/387ad8c865e85b02d2e5a085d0931ab8.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000028783382/387ad8c865e85b02d2e5a085d0931ab8.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980075436007833601/5qVVYaik_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980075436007833601/5qVVYaik_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/124151051/1521464558",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 562,
+			"favorite_count": 368,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 562,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Apr 15 22:18:03 +0000 2018",
+		"id": 985643440753930200,
+		"id_str": "985643440753930240",
+		"text": "RT @slowcoleslaw: 소공녀를 보며 예전에 썼던 자기고백적인 글을 떠올렸다. ‘도시에 살면서 허영없는 사람이 된다는 것의 위험성’(2012) https://t.co/86TO2cFcO9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "slowcoleslaw",
+					"name": "진행자",
+					"id": 124151051,
+					"id_str": "124151051",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 985387405409534000,
+					"id_str": "985387405409533952",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DazMn9mUQAAw5Na.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DazMn9mUQAAw5Na.jpg",
+					"url": "https://t.co/86TO2cFcO9",
+					"display_url": "pic.twitter.com/86TO2cFcO9",
+					"expanded_url": "https://twitter.com/slowcoleslaw/status/985387415140384768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 639,
+							"h": 933,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 639,
+							"h": 933,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985387415140384800,
+					"source_status_id_str": "985387415140384768",
+					"source_user_id": 124151051,
+					"source_user_id_str": "124151051"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 985387405409534000,
+					"id_str": "985387405409533952",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DazMn9mUQAAw5Na.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DazMn9mUQAAw5Na.jpg",
+					"url": "https://t.co/86TO2cFcO9",
+					"display_url": "pic.twitter.com/86TO2cFcO9",
+					"expanded_url": "https://twitter.com/slowcoleslaw/status/985387415140384768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 466,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 639,
+							"h": 933,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 639,
+							"h": 933,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985387415140384800,
+					"source_status_id_str": "985387415140384768",
+					"source_user_id": 124151051,
+					"source_user_id_str": "124151051"
+				},
+				{
+					"id": 985387405426344000,
+					"id_str": "985387405426343936",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DazMn9qUwAAN_za.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DazMn9qUwAAN_za.jpg",
+					"url": "https://t.co/86TO2cFcO9",
+					"display_url": "pic.twitter.com/86TO2cFcO9",
+					"expanded_url": "https://twitter.com/slowcoleslaw/status/985387415140384768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 635,
+							"h": 944,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 635,
+							"h": 944,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985387415140384800,
+					"source_status_id_str": "985387415140384768",
+					"source_user_id": 124151051,
+					"source_user_id_str": "124151051"
+				},
+				{
+					"id": 985387405409579000,
+					"id_str": "985387405409579008",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/DazMn9mU8AA-QXX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DazMn9mU8AA-QXX.jpg",
+					"url": "https://t.co/86TO2cFcO9",
+					"display_url": "pic.twitter.com/86TO2cFcO9",
+					"expanded_url": "https://twitter.com/slowcoleslaw/status/985387415140384768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 450,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 639,
+							"h": 965,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 639,
+							"h": 965,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985387415140384800,
+					"source_status_id_str": "985387415140384768",
+					"source_user_id": 124151051,
+					"source_user_id_str": "124151051"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 75,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1071,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10447,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 15 05:20:42 +0000 2018",
+			"id": 985387415140384800,
+			"id_str": "985387415140384768",
+			"text": "소공녀를 보며 예전에 썼던 자기고백적인 글을 떠올렸다. ‘도시에 살면서 허영없는 사람이 된다는 것의 위험성’(2012) https://t.co/86TO2cFcO9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 985387405409534000,
+						"id_str": "985387405409533952",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/DazMn9mUQAAw5Na.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DazMn9mUQAAw5Na.jpg",
+						"url": "https://t.co/86TO2cFcO9",
+						"display_url": "pic.twitter.com/86TO2cFcO9",
+						"expanded_url": "https://twitter.com/slowcoleslaw/status/985387415140384768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 466,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 639,
+								"h": 933,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 639,
+								"h": 933,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 985387405409534000,
+						"id_str": "985387405409533952",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/DazMn9mUQAAw5Na.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DazMn9mUQAAw5Na.jpg",
+						"url": "https://t.co/86TO2cFcO9",
+						"display_url": "pic.twitter.com/86TO2cFcO9",
+						"expanded_url": "https://twitter.com/slowcoleslaw/status/985387415140384768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 466,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 639,
+								"h": 933,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 639,
+								"h": 933,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 985387405426344000,
+						"id_str": "985387405426343936",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/DazMn9qUwAAN_za.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DazMn9qUwAAN_za.jpg",
+						"url": "https://t.co/86TO2cFcO9",
+						"display_url": "pic.twitter.com/86TO2cFcO9",
+						"expanded_url": "https://twitter.com/slowcoleslaw/status/985387415140384768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 635,
+								"h": 944,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 635,
+								"h": 944,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 457,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 985387405409579000,
+						"id_str": "985387405409579008",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/DazMn9mU8AA-QXX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DazMn9mU8AA-QXX.jpg",
+						"url": "https://t.co/86TO2cFcO9",
+						"display_url": "pic.twitter.com/86TO2cFcO9",
+						"expanded_url": "https://twitter.com/slowcoleslaw/status/985387415140384768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 450,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 639,
+								"h": 965,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 639,
+								"h": 965,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 124151051,
+				"id_str": "124151051",
+				"name": "진행자",
+				"screen_name": "slowcoleslaw",
+				"location": "기본소득을 받는다면",
+				"description": "BIYN 멤버 | 주로 마음의 취약점을 쓰는데(2017~) 가끔 감상도 쓰고 하는 일의 홍보도 합니다. | 페미니스트로서 계획이 있습니다.(2018.3.18) | 문의 : decembre.hw@gmail.com",
+				"url": "https://t.co/10fXzLTHEJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/10fXzLTHEJ",
+								"expanded_url": "http://www.podbbang.com/ch/15600",
+								"display_url": "podbbang.com/ch/15600",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2800,
+				"friends_count": 797,
+				"listed_count": 54,
+				"created_at": "Thu Mar 18 12:26:28 +0000 2010",
+				"favourites_count": 8341,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29476,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0F0F0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000028783382/387ad8c865e85b02d2e5a085d0931ab8.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000028783382/387ad8c865e85b02d2e5a085d0931ab8.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980075436007833601/5qVVYaik_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980075436007833601/5qVVYaik_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/124151051/1521464558",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1253,
+			"favorite_count": 909,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1253,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Apr 13 21:45:19 +0000 2018",
 		"id": 984910428777005000,
 		"id_str": "984910428777005056",
