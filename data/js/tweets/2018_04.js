@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Mon Apr 16 10:40:19 +0000 2018",
+		"id": 985830237622583300,
+		"id_str": "985830237622583296",
+		"text": "RT @SciON_hani: 그냥 친구 관계가 되는 데는 40~60시간이 걸렸다. 만난 지 첫 3주 동안 43시간을 함께 보낼 경우 친구가 될 확률이 50%를 넘었다. 그 다음 단계인 정식 친구가 되는 데는 80~100시간이 걸렸다. 최고 단계인 절…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SciON_hani",
+					"name": "한겨레 미래&과학",
+					"id": 113273977,
+					"id_str": "113273977",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 75,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1071,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10448,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 16 04:06:31 +0000 2018",
+			"id": 985731134666362900,
+			"id_str": "985731134666362880",
+			"text": "그냥 친구 관계가 되는 데는 40~60시간이 걸렸다. 만난 지 첫 3주 동안 43시간을 함께 보낼 경우 친구가 될 확률이 50%를 넘었다. 그 다음 단계인 정식 친구가 되는 데는 80~100시간이 걸렸다.… https://t.co/KbBv9eeX6B",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KbBv9eeX6B",
+						"expanded_url": "https://twitter.com/i/web/status/985731134666362880",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 113273977,
+				"id_str": "113273977",
+				"name": "한겨레 미래&과학",
+				"screen_name": "SciON_hani",
+				"location": "",
+				"description": "한겨레의 미래/과학/기술/환경의 뉴스와 비평 플랫폼 \"미래&과학\"의 공식 트위터입니다. (과학웹진 사이언스온(https://t.co/RLpWyFfbM6)의 옛 트위터를 사용합니다)",
+				"url": "https://t.co/NKjJm7i5gO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NKjJm7i5gO",
+								"expanded_url": "http://www.hani.co.kr/arti/science/home01.html",
+								"display_url": "hani.co.kr/arti/science/h…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RLpWyFfbM6",
+								"expanded_url": "http://scienceon.hani.co.kr",
+								"display_url": "scienceon.hani.co.kr",
+								"indices": [
+									61,
+									84
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 7193,
+				"friends_count": 21,
+				"listed_count": 515,
+				"created_at": "Thu Feb 11 07:19:42 +0000 2010",
+				"favourites_count": 0,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2834,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/940129723883036674/xbncUGi8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/940129723883036674/xbncUGi8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/113273977/1512546106",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Apr 15 23:20:51 +0000 2018",
 		"id": 985659243696029700,
 		"id_str": "985659243696029697",
