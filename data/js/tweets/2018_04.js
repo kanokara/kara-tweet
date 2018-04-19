@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Thu Apr 19 16:37:35 +0000 2018",
+		"id": 987007312719069200,
+		"id_str": "987007312719069184",
+		"text": "RT @oz_casino: 人が…恐れおののきながら不安定な橋を渡っていく…泣きながら渡っていくんだ。その様を…こうした安定した場所で見ていると、もうそれだけで…しみじみ幸せを感じられる……普段感じることのできぬ「セーフティ」というなの悦楽…「安全」であることの愉悦…！ 　-…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oz_casino",
+					"name": "小澤こずえ",
+					"id": 1600397484,
+					"id_str": "1600397484",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 76,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1073,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10506,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 08 13:03:09 +0000 2018",
+			"id": 982967081376215000,
+			"id_str": "982967081376215040",
+			"text": "人が…恐れおののきながら不安定な橋を渡っていく…泣きながら渡っていくんだ。その様を…こうした安定した場所で見ていると、もうそれだけで…しみじみ幸せを感じられる……普段感じることのできぬ「セーフティ」というなの悦楽…「安全」であることの愉悦…！ 　-   利根川幸雄 『カイジ』",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1600397484,
+				"id_str": "1600397484",
+				"name": "小澤こずえ",
+				"screen_name": "oz_casino",
+				"location": "",
+				"description": "★相互フォロー歓迎★カジノ大好き女子です。アニメのカイジやアカギも大好きで全巻持ってます！その中に出てくる名言にシビレテしまう～。ラスベガスは初体験のカジノで、その後、いろんな国でプレイする機会がありました。最近はオンラインカジノにハマっています♪",
+				"url": "http://t.co/IJNTVnJVlJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/IJNTVnJVlJ",
+								"expanded_url": "http://ameblo.jp/casino-5/",
+								"display_url": "ameblo.jp/casino-5/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 745,
+				"friends_count": 980,
+				"listed_count": 0,
+				"created_at": "Wed Jul 17 08:14:18 +0000 2013",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 26265,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000027026987/69a81519686fb66881aff9cc9805b5d1.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000027026987/69a81519686fb66881aff9cc9805b5d1.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000152212284/0781ed32abf8e2da542bdc665966dacd_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000152212284/0781ed32abf8e2da542bdc665966dacd_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1600397484/1374200410",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Thu Apr 19 16:33:59 +0000 2018",
+		"id": 987006405222608900,
+		"id_str": "987006405222608896",
+		"text": "유열(愉悦)의 현재 용법의 유래가 Fate/Zero에서 기원한다는 나무위키의 서술이 신경 쓰여서 찾아보니 98년도에 간행된 도박묵시록 카이지 7권에서 그 쓰임을 이미 발견할 수 있네요. https://t.co/RB9c8e5VKI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 987005645558661100,
+					"id_str": "987005645558661120",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DbKMZ77UQAAbZVE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DbKMZ77UQAAbZVE.jpg",
+					"url": "https://t.co/RB9c8e5VKI",
+					"display_url": "pic.twitter.com/RB9c8e5VKI",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/987006405222608896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 450,
+							"h": 363,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 363,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 450,
+							"h": 363,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 987005645558661100,
+					"id_str": "987005645558661120",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DbKMZ77UQAAbZVE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DbKMZ77UQAAbZVE.jpg",
+					"url": "https://t.co/RB9c8e5VKI",
+					"display_url": "pic.twitter.com/RB9c8e5VKI",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/987006405222608896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 450,
+							"h": 363,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 363,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 450,
+							"h": 363,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 76,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1073,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10506,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Apr 19 04:06:23 +0000 2018",
 		"id": 986818266801647600,
 		"id_str": "986818266801647617",
