@@ -1,6 +1,2009 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Mon Apr 23 23:38:00 +0000 2018",
+		"id": 988562663230791700,
+		"id_str": "988562663230791680",
+		"text": "RT @medievalart_kr: @michiru0027 저건 민족문화대백과에서 본 건데 해피엔딩도 있지만 한국 지역에서만 나타나는 유형의 이야기는 효심에 의한 배드엔딩...이었다는 얘기였던 것 같습니다. 잘생기고 멍청하고 부모 없는 나무꾼이라니…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "medievalart_kr",
+					"name": "중세인쇄소",
+					"id": 4058912834,
+					"id_str": "4058912834",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "michiru0027",
+					"name": "미치루치루치루",
+					"id": 119578830,
+					"id_str": "119578830",
+					"indices": [
+						20,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 76,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1075,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10535,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 22 10:27:39 +0000 2018",
+			"id": 988001380009885700,
+			"id_str": "988001380009885696",
+			"text": "@michiru0027 저건 민족문화대백과에서 본 건데 해피엔딩도 있지만 한국 지역에서만 나타나는 유형의 이야기는 효심에 의한 배드엔딩...이었다는 얘기였던 것 같습니다. 잘생기고 멍청하고 부모 없는 나무꾼… https://t.co/qPsXosUau0",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "michiru0027",
+						"name": "미치루치루치루",
+						"id": 119578830,
+						"id_str": "119578830",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/qPsXosUau0",
+						"expanded_url": "https://twitter.com/i/web/status/988001380009885696",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 988000197895598100,
+			"in_reply_to_status_id_str": "988000197895598080",
+			"in_reply_to_user_id": 119578830,
+			"in_reply_to_user_id_str": "119578830",
+			"in_reply_to_screen_name": "michiru0027",
+			"user": {
+				"id": 4058912834,
+				"id_str": "4058912834",
+				"name": "중세인쇄소",
+				"screen_name": "medievalart_kr",
+				"location": "",
+				"description": "필사본 삽화 등 11세기~15세기의 중세 미술품들을 중심으로 소개합니다(아닌것도올라옴).봇아님 역사로 아무말하는계정",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9897,
+				"friends_count": 207,
+				"listed_count": 180,
+				"created_at": "Thu Oct 29 15:32:29 +0000 2015",
+				"favourites_count": 34022,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 33762,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/847852865951416321/ph7dlX6q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/847852865951416321/ph7dlX6q_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 23 23:37:52 +0000 2018",
+		"id": 988562631223984100,
+		"id_str": "988562631223984128",
+		"text": "RT @medievalart_kr: (조선에서 효는 좀 원죄같은거 맞나보다)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "medievalart_kr",
+					"name": "중세인쇄소",
+					"id": 4058912834,
+					"id_str": "4058912834",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 76,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1075,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10535,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 22 10:09:06 +0000 2018",
+			"id": 987996709643939800,
+			"id_str": "987996709643939840",
+			"text": "(조선에서 효는 좀 원죄같은거 맞나보다)",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 987995069369040900,
+			"in_reply_to_status_id_str": "987995069369040896",
+			"in_reply_to_user_id": 4058912834,
+			"in_reply_to_user_id_str": "4058912834",
+			"in_reply_to_screen_name": "medievalart_kr",
+			"user": {
+				"id": 4058912834,
+				"id_str": "4058912834",
+				"name": "중세인쇄소",
+				"screen_name": "medievalart_kr",
+				"location": "",
+				"description": "필사본 삽화 등 11세기~15세기의 중세 미술품들을 중심으로 소개합니다(아닌것도올라옴).봇아님 역사로 아무말하는계정",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9897,
+				"friends_count": 207,
+				"listed_count": 180,
+				"created_at": "Thu Oct 29 15:32:29 +0000 2015",
+				"favourites_count": 34022,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 33762,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/847852865951416321/ph7dlX6q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/847852865951416321/ph7dlX6q_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 96,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 23 23:37:50 +0000 2018",
+		"id": 988562621396742100,
+		"id_str": "988562621396742145",
+		"text": "RT @medievalart_kr: 한국 지역에서는 뒤에 붙는 후일담으로 특이하게 이야기가 변형된 사례가 보이는데,천상에서 나무꾼이 선녀와 만나지만 노모가 그리워 지상으로 내려왔다 뜨거운 팥죽을 용마의 등에 떨어트리고 떨어져 이별.즉 효행으로 인한…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "medievalart_kr",
+					"name": "중세인쇄소",
+					"id": 4058912834,
+					"id_str": "4058912834",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 76,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1075,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10535,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 22 10:02:35 +0000 2018",
+			"id": 987995069369040900,
+			"id_str": "987995069369040896",
+			"text": "한국 지역에서는 뒤에 붙는 후일담으로 특이하게 이야기가 변형된 사례가 보이는데,천상에서 나무꾼이 선녀와 만나지만 노모가 그리워 지상으로 내려왔다 뜨거운 팥죽을 용마의 등에 떨어트리고 떨어져 이별.즉 효행으로… https://t.co/ieebtruRRt",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ieebtruRRt",
+						"expanded_url": "https://twitter.com/i/web/status/987995069369040896",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 987994852783673300,
+			"in_reply_to_status_id_str": "987994852783673344",
+			"in_reply_to_user_id": 4058912834,
+			"in_reply_to_user_id_str": "4058912834",
+			"in_reply_to_screen_name": "medievalart_kr",
+			"user": {
+				"id": 4058912834,
+				"id_str": "4058912834",
+				"name": "중세인쇄소",
+				"screen_name": "medievalart_kr",
+				"location": "",
+				"description": "필사본 삽화 등 11세기~15세기의 중세 미술품들을 중심으로 소개합니다(아닌것도올라옴).봇아님 역사로 아무말하는계정",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9897,
+				"friends_count": 207,
+				"listed_count": 180,
+				"created_at": "Thu Oct 29 15:32:29 +0000 2015",
+				"favourites_count": 34022,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 33762,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/847852865951416321/ph7dlX6q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/847852865951416321/ph7dlX6q_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 167,
+			"favorite_count": 43,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 167,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 23 23:37:01 +0000 2018",
+		"id": 988562416085581800,
+		"id_str": "988562416085581824",
+		"text": "RT @BlazingSirius: 하다못해 RT에서 등장한 마라톤전투에서조차 원래는 아테나이뿐만이 아니라 스파르타도 참전해야 했으나, 그들의 신화적 전통 때문에 \"야 달이 아직 불완전해서 전투를 할 수 없다\"단 말이 먹혀들었다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BlazingSirius",
+					"name": "[G3]EmanonWitch",
+					"id": 1115868025,
+					"id_str": "1115868025",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 76,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1075,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10535,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 16 06:19:53 +0000 2018",
+			"id": 985764697193398300,
+			"id_str": "985764697193398272",
+			"text": "하다못해 RT에서 등장한 마라톤전투에서조차 원래는 아테나이뿐만이 아니라 스파르타도 참전해야 했으나, 그들의 신화적 전통 때문에 \"야 달이 아직 불완전해서 전투를 할 수 없다\"단 말이 먹혀들었다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 985764288232022000,
+			"in_reply_to_status_id_str": "985764288232022017",
+			"in_reply_to_user_id": 1115868025,
+			"in_reply_to_user_id_str": "1115868025",
+			"in_reply_to_screen_name": "BlazingSirius",
+			"user": {
+				"id": 1115868025,
+				"id_str": "1115868025",
+				"name": "[G3]EmanonWitch",
+				"screen_name": "BlazingSirius",
+				"location": "",
+				"description": "Center of Gravity",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1532,
+				"friends_count": 301,
+				"listed_count": 20,
+				"created_at": "Thu Jan 24 03:14:38 +0000 2013",
+				"favourites_count": 425,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 62311,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/771732096/f40b682977d483bf78f82baf53aa534a.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/771732096/f40b682977d483bf78f82baf53aa534a.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980341953043705856/6-4wq6mm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980341953043705856/6-4wq6mm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115868025/1496051343",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 23 23:36:59 +0000 2018",
+		"id": 988562406962954200,
+		"id_str": "988562406962954240",
+		"text": "RT @BlazingSirius: 전쟁터에서 \"이야기\"란 통상 각 진영의 신화의 영향을 받기 마련이고, 이 신화적 코드는 중세까지도 무시할 수 없는 것이였다.세속권력의 기반이 약한 중세에서 교회와 성경의 네러티브란 거진 유일하게 군을 동원할 수 있는…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BlazingSirius",
+					"name": "[G3]EmanonWitch",
+					"id": 1115868025,
+					"id_str": "1115868025",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 76,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1075,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10535,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 16 06:18:15 +0000 2018",
+			"id": 985764288232022000,
+			"id_str": "985764288232022017",
+			"text": "전쟁터에서 \"이야기\"란 통상 각 진영의 신화의 영향을 받기 마련이고, 이 신화적 코드는 중세까지도 무시할 수 없는 것이였다.세속권력의 기반이 약한 중세에서 교회와 성경의 네러티브란 거진 유일하게 군을 동원할… https://t.co/dGusXrPKFw",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dGusXrPKFw",
+						"expanded_url": "https://twitter.com/i/web/status/985764288232022017",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1115868025,
+				"id_str": "1115868025",
+				"name": "[G3]EmanonWitch",
+				"screen_name": "BlazingSirius",
+				"location": "",
+				"description": "Center of Gravity",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1532,
+				"friends_count": 301,
+				"listed_count": 20,
+				"created_at": "Thu Jan 24 03:14:38 +0000 2013",
+				"favourites_count": 425,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 62311,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/771732096/f40b682977d483bf78f82baf53aa534a.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/771732096/f40b682977d483bf78f82baf53aa534a.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980341953043705856/6-4wq6mm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980341953043705856/6-4wq6mm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115868025/1496051343",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 23 23:33:59 +0000 2018",
+		"id": 988561654978826200,
+		"id_str": "988561654978826240",
+		"text": "RT @griffon468: 커뮤쪽은 1차 창작을 바탕으로 2차 창작을 하는데, 티알피지의 시나리오는 본질적으로 2차 창작 혹은 2차 창작의 2차 창작이며, 세션을 돌리면서 그걸로 다시 2차창작하게 되는 개념이라고 보거든요. 커뮤의 원작은 그걸 고려…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "griffon468",
+					"name": "열두번 망한 그리핀베인",
+					"id": 2847628740,
+					"id_str": "2847628740",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 76,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1075,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10535,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 23 07:53:18 +0000 2018",
+			"id": 988324921716625400,
+			"id_str": "988324921716625408",
+			"text": "커뮤쪽은 1차 창작을 바탕으로 2차 창작을 하는데, 티알피지의 시나리오는 본질적으로 2차 창작 혹은 2차 창작의 2차 창작이며, 세션을 돌리면서 그걸로 다시 2차창작하게 되는 개념이라고 보거든요. 커뮤의 원… https://t.co/6QeKddnhwg",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6QeKddnhwg",
+						"expanded_url": "https://twitter.com/i/web/status/988324921716625408",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 988323799622795300,
+			"in_reply_to_status_id_str": "988323799622795264",
+			"in_reply_to_user_id": 2847628740,
+			"in_reply_to_user_id_str": "2847628740",
+			"in_reply_to_screen_name": "griffon468",
+			"user": {
+				"id": 2847628740,
+				"id_str": "2847628740",
+				"name": "열두번 망한 그리핀베인",
+				"screen_name": "griffon468",
+				"location": "",
+				"description": "TRPG, 영화, 독서 마니아. 이야기 하는 걸 좋아합니다. 자기 안의 혐오를 부끄러워 하지 않는 사람이랑은 겸상 안합니다. 언팔, 블락, 인용 신경쓰지 않습니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 257,
+				"friends_count": 401,
+				"listed_count": 2,
+				"created_at": "Wed Oct 08 16:53:52 +0000 2014",
+				"favourites_count": 14750,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 48913,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/923654134821134336/B5vrCXvt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/923654134821134336/B5vrCXvt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2847628740/1516808729",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 23 23:33:29 +0000 2018",
+		"id": 988561525999681500,
+		"id_str": "988561525999681537",
+		"text": "RT @ds62hg: 수많은 TRPG 룰들이 '특정한 이야기'만을 위해서라면 필요없을 정도로 폭넓은 데이터를 가지고 있는 이유는, 그 장르와 이야기에서 '사람들이 재현하고 싶어할 만한 유형과 장면'들을 지원하기 위해서입니다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ds62hg",
+					"name": "[심연다이빙 숏컷모에러]셸먼",
+					"id": 474560000,
+					"id_str": "474560000",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 76,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1075,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10535,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 23 07:39:55 +0000 2018",
+			"id": 988321554076319700,
+			"id_str": "988321554076319744",
+			"text": "수많은 TRPG 룰들이 '특정한 이야기'만을 위해서라면 필요없을 정도로 폭넓은 데이터를 가지고 있는 이유는, 그 장르와 이야기에서 '사람들이 재현하고 싶어할 만한 유형과 장면'들을 지원하기 위해서입니다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 988321193596932100,
+			"in_reply_to_status_id_str": "988321193596932096",
+			"in_reply_to_user_id": 474560000,
+			"in_reply_to_user_id_str": "474560000",
+			"in_reply_to_screen_name": "ds62hg",
+			"user": {
+				"id": 474560000,
+				"id_str": "474560000",
+				"name": "[심연다이빙 숏컷모에러]셸먼",
+				"screen_name": "ds62hg",
+				"location": "대한민국 서울",
+				"description": "넓게 편향된 취미생활:TRPG/ORPG/만화애니게임소설라이트노벨/페그오/걸판/데레스테 코우메P/숏컷모에/고어이야기 가끔 함/고양이 기릅니다. https://t.co/720TB60f2T 플픽 @codengchiki 님 / 고어계 @necrods62",
+				"url": "https://t.co/Gw8FAdcslo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Gw8FAdcslo",
+								"expanded_url": "http://tPfajs.egloos.com",
+								"display_url": "tPfajs.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/720TB60f2T",
+								"expanded_url": "http://ask.fm/ds62hg",
+								"display_url": "ask.fm/ds62hg",
+								"indices": [
+									79,
+									102
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1432,
+				"friends_count": 1762,
+				"listed_count": 23,
+				"created_at": "Thu Jan 26 03:36:38 +0000 2012",
+				"favourites_count": 1694,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 106365,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/577859275667558400/lSoL5b1H.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/577859275667558400/lSoL5b1H.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/945304753835098112/utrpPQZ4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/945304753835098112/utrpPQZ4_normal.jpg",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 23 23:33:26 +0000 2018",
+		"id": 988561516260544500,
+		"id_str": "988561516260544512",
+		"text": "RT @ds62hg: 그러니까 TRPG와 관련 매체를 '순수한 창작물'로만 접근하려는 시도는 좀 그만뒀으면 합니다. 당신이 TRPG를 위해, 혹은 그것을 하고서 그 결과물로 창작물을 만들 수는 있지요. 하지만 그 '창작물'로서의 성격은 TRPG에 있…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ds62hg",
+					"name": "[심연다이빙 숏컷모에러]셸먼",
+					"id": 474560000,
+					"id_str": "474560000",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 76,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1075,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10535,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 23 07:38:29 +0000 2018",
+			"id": 988321193596932100,
+			"id_str": "988321193596932096",
+			"text": "그러니까 TRPG와 관련 매체를 '순수한 창작물'로만 접근하려는 시도는 좀 그만뒀으면 합니다. 당신이 TRPG를 위해, 혹은 그것을 하고서 그 결과물로 창작물을 만들 수는 있지요. 하지만 그 '창작물'로서의… https://t.co/iDHGlDZ4Uq",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iDHGlDZ4Uq",
+						"expanded_url": "https://twitter.com/i/web/status/988321193596932096",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 988321192237912000,
+			"in_reply_to_status_id_str": "988321192237912064",
+			"in_reply_to_user_id": 474560000,
+			"in_reply_to_user_id_str": "474560000",
+			"in_reply_to_screen_name": "ds62hg",
+			"user": {
+				"id": 474560000,
+				"id_str": "474560000",
+				"name": "[심연다이빙 숏컷모에러]셸먼",
+				"screen_name": "ds62hg",
+				"location": "대한민국 서울",
+				"description": "넓게 편향된 취미생활:TRPG/ORPG/만화애니게임소설라이트노벨/페그오/걸판/데레스테 코우메P/숏컷모에/고어이야기 가끔 함/고양이 기릅니다. https://t.co/720TB60f2T 플픽 @codengchiki 님 / 고어계 @necrods62",
+				"url": "https://t.co/Gw8FAdcslo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Gw8FAdcslo",
+								"expanded_url": "http://tPfajs.egloos.com",
+								"display_url": "tPfajs.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/720TB60f2T",
+								"expanded_url": "http://ask.fm/ds62hg",
+								"display_url": "ask.fm/ds62hg",
+								"indices": [
+									79,
+									102
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1432,
+				"friends_count": 1762,
+				"listed_count": 23,
+				"created_at": "Thu Jan 26 03:36:38 +0000 2012",
+				"favourites_count": 1694,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 106365,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/577859275667558400/lSoL5b1H.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/577859275667558400/lSoL5b1H.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/945304753835098112/utrpPQZ4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/945304753835098112/utrpPQZ4_normal.jpg",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 23 23:33:22 +0000 2018",
+		"id": 988561498120175600,
+		"id_str": "988561498120175616",
+		"text": "RT @ds62hg: 애초에 'TRPG를 플레이한다'는 것은 순수한 창작행위라기 보다는 자신이 좋아하는 재료를 가지고 자신이 원하는 이야기를 '재현'하는 것에 가깝습니다. 많은 TRPG 서적들이 특정 장르의 분위기와 모범을 재현하고 있는 이유는 이…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ds62hg",
+					"name": "[심연다이빙 숏컷모에러]셸먼",
+					"id": 474560000,
+					"id_str": "474560000",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 76,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1075,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10535,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 23 07:38:29 +0000 2018",
+			"id": 988321192237912000,
+			"id_str": "988321192237912064",
+			"text": "애초에 'TRPG를 플레이한다'는 것은 순수한 창작행위라기 보다는 자신이 좋아하는 재료를 가지고 자신이 원하는 이야기를 '재현'하는 것에 가깝습니다. 많은 TRPG 서적들이 특정 장르의 분위기와 모범을 재현하고 있는 이유는 이 때문입니다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 988321190820298800,
+			"in_reply_to_status_id_str": "988321190820298752",
+			"in_reply_to_user_id": 474560000,
+			"in_reply_to_user_id_str": "474560000",
+			"in_reply_to_screen_name": "ds62hg",
+			"user": {
+				"id": 474560000,
+				"id_str": "474560000",
+				"name": "[심연다이빙 숏컷모에러]셸먼",
+				"screen_name": "ds62hg",
+				"location": "대한민국 서울",
+				"description": "넓게 편향된 취미생활:TRPG/ORPG/만화애니게임소설라이트노벨/페그오/걸판/데레스테 코우메P/숏컷모에/고어이야기 가끔 함/고양이 기릅니다. https://t.co/720TB60f2T 플픽 @codengchiki 님 / 고어계 @necrods62",
+				"url": "https://t.co/Gw8FAdcslo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Gw8FAdcslo",
+								"expanded_url": "http://tPfajs.egloos.com",
+								"display_url": "tPfajs.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/720TB60f2T",
+								"expanded_url": "http://ask.fm/ds62hg",
+								"display_url": "ask.fm/ds62hg",
+								"indices": [
+									79,
+									102
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1432,
+				"friends_count": 1762,
+				"listed_count": 23,
+				"created_at": "Thu Jan 26 03:36:38 +0000 2012",
+				"favourites_count": 1694,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 106365,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/577859275667558400/lSoL5b1H.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/577859275667558400/lSoL5b1H.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/945304753835098112/utrpPQZ4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/945304753835098112/utrpPQZ4_normal.jpg",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 57,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 23 23:33:18 +0000 2018",
+		"id": 988561483343712300,
+		"id_str": "988561483343712256",
+		"text": "RT @ds62hg: D&amp;D만 해도 6~70년대 펄프 SF와 판타지의 집대성이나 마찬가지고, CoC는 러브크래프트 원작과 그와 연계된 크툴루 신화 체계를 'TRPG'라는 포멧으로 편집한 물건입니다. 서부극을 좋아하는 사람들을 위해 서부극 TRPG가…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ds62hg",
+					"name": "[심연다이빙 숏컷모에러]셸먼",
+					"id": 474560000,
+					"id_str": "474560000",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 76,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1075,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10535,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 23 07:38:28 +0000 2018",
+			"id": 988321190820298800,
+			"id_str": "988321190820298752",
+			"text": "D&amp;D만 해도 6~70년대 펄프 SF와 판타지의 집대성이나 마찬가지고, CoC는 러브크래프트 원작과 그와 연계된 크툴루 신화 체계를 'TRPG'라는 포멧으로 편집한 물건입니다. 서부극을 좋아하는 사람들을 위… https://t.co/cCaMW73e74",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cCaMW73e74",
+						"expanded_url": "https://twitter.com/i/web/status/988321190820298752",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 988321189473861600,
+			"in_reply_to_status_id_str": "988321189473861632",
+			"in_reply_to_user_id": 474560000,
+			"in_reply_to_user_id_str": "474560000",
+			"in_reply_to_screen_name": "ds62hg",
+			"user": {
+				"id": 474560000,
+				"id_str": "474560000",
+				"name": "[심연다이빙 숏컷모에러]셸먼",
+				"screen_name": "ds62hg",
+				"location": "대한민국 서울",
+				"description": "넓게 편향된 취미생활:TRPG/ORPG/만화애니게임소설라이트노벨/페그오/걸판/데레스테 코우메P/숏컷모에/고어이야기 가끔 함/고양이 기릅니다. https://t.co/720TB60f2T 플픽 @codengchiki 님 / 고어계 @necrods62",
+				"url": "https://t.co/Gw8FAdcslo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Gw8FAdcslo",
+								"expanded_url": "http://tPfajs.egloos.com",
+								"display_url": "tPfajs.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/720TB60f2T",
+								"expanded_url": "http://ask.fm/ds62hg",
+								"display_url": "ask.fm/ds62hg",
+								"indices": [
+									79,
+									102
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1432,
+				"friends_count": 1762,
+				"listed_count": 23,
+				"created_at": "Thu Jan 26 03:36:38 +0000 2012",
+				"favourites_count": 1694,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 106365,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/577859275667558400/lSoL5b1H.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/577859275667558400/lSoL5b1H.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/945304753835098112/utrpPQZ4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/945304753835098112/utrpPQZ4_normal.jpg",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 23 23:33:15 +0000 2018",
+		"id": 988561469850533900,
+		"id_str": "988561469850533888",
+		"text": "RT @ds62hg: TRPG는 애초에 그 성질부터가 1차적인 창작보다는 그러한 창작물들에 영향을 받은 2차적인 '놀이 행위'이고, 그에 따라 많은 것들이 각종 매체와 장르의 영향을 직접적으로 받은 메타적인 장르 형태를 띄고 있지요.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ds62hg",
+					"name": "[심연다이빙 숏컷모에러]셸먼",
+					"id": 474560000,
+					"id_str": "474560000",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 76,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1075,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10535,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 23 07:38:28 +0000 2018",
+			"id": 988321189473861600,
+			"id_str": "988321189473861632",
+			"text": "TRPG는 애초에 그 성질부터가 1차적인 창작보다는 그러한 창작물들에 영향을 받은 2차적인 '놀이 행위'이고, 그에 따라 많은 것들이 각종 매체와 장르의 영향을 직접적으로 받은 메타적인 장르 형태를 띄고 있지요.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 474560000,
+				"id_str": "474560000",
+				"name": "[심연다이빙 숏컷모에러]셸먼",
+				"screen_name": "ds62hg",
+				"location": "대한민국 서울",
+				"description": "넓게 편향된 취미생활:TRPG/ORPG/만화애니게임소설라이트노벨/페그오/걸판/데레스테 코우메P/숏컷모에/고어이야기 가끔 함/고양이 기릅니다. https://t.co/720TB60f2T 플픽 @codengchiki 님 / 고어계 @necrods62",
+				"url": "https://t.co/Gw8FAdcslo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Gw8FAdcslo",
+								"expanded_url": "http://tPfajs.egloos.com",
+								"display_url": "tPfajs.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/720TB60f2T",
+								"expanded_url": "http://ask.fm/ds62hg",
+								"display_url": "ask.fm/ds62hg",
+								"indices": [
+									79,
+									102
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1432,
+				"friends_count": 1762,
+				"listed_count": 23,
+				"created_at": "Thu Jan 26 03:36:38 +0000 2012",
+				"favourites_count": 1694,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 106365,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/577859275667558400/lSoL5b1H.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/577859275667558400/lSoL5b1H.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/945304753835098112/utrpPQZ4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/945304753835098112/utrpPQZ4_normal.jpg",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 86,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Apr 22 22:34:17 +0000 2018",
 		"id": 988184240540930000,
 		"id_str": "988184240540930048",
