@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Wed Apr 25 07:52:35 +0000 2018",
+		"id": 989049519940816900,
+		"id_str": "989049519940816896",
+		"text": "RT @prajnagi: 좋은 일이 있으면 축하해주고, 슬픈 일이 있으면 함께 안타까워하고, 자기 전에는 서로에게 잘 자라고 인사하고, 아침에는 서로의 좋은 하루를 기원해주고, 서로를 소중히 여기는 마음을 솔직히 전하고, 사소하지만 소중한 대화로 덧…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "prajnagi",
+					"name": "코코미⭐",
+					"id": 965504304046944300,
+					"id_str": "965504304046944257",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 77,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1074,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10579,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 25 07:48:10 +0000 2018",
+			"id": 989048408999649300,
+			"id_str": "989048408999649280",
+			"text": "좋은 일이 있으면 축하해주고, 슬픈 일이 있으면 함께 안타까워하고, 자기 전에는 서로에게 잘 자라고 인사하고, 아침에는 서로의 좋은 하루를 기원해주고, 서로를 소중히 여기는 마음을 솔직히 전하고, 사소하지만… https://t.co/b0xrq6bLsb",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/b0xrq6bLsb",
+						"expanded_url": "https://twitter.com/i/web/status/989048408999649280",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 965504304046944300,
+				"id_str": "965504304046944257",
+				"name": "코코미⭐",
+				"screen_name": "prajnagi",
+				"location": "",
+				"description": "산들산들",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 83,
+				"friends_count": 125,
+				"listed_count": 0,
+				"created_at": "Mon Feb 19 08:32:19 +0000 2018",
+				"favourites_count": 116,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1868,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/988353856974217216/8fVIc-WX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/988353856974217216/8fVIc-WX_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Apr 25 05:59:45 +0000 2018",
 		"id": 989021121038053400,
 		"id_str": "989021121038053376",
@@ -574,7 +748,7 @@ Grailbird.data.tweets_2018_04 =
 		"created_at": "Wed Apr 25 05:37:59 +0000 2018",
 		"id": 989015645424529400,
 		"id_str": "989015645424529408",
-		"text": "괴로움​이 웃음​보다 나으니, 얼굴​의 슬픔​으로 인해 마음​이 좋아지기 때문​이다. 지혜​로운 자​의 마음​은 초상집​에 있지만, 미련​한 자​의 마음​은 잔칫집​에 있다.",
+		"text": "괴로움이 웃음보다 나으니, 얼굴의 슬픔으로 인해 마음이 좋아지기 때문이다. 지혜로운 자의 마음은 초상집에 있지만, 미련한 자의 마음은 잔칫집에 있다.",
 		"truncated": false,
 		"entities": {
 			"hashtags": [],
@@ -651,7 +825,7 @@ Grailbird.data.tweets_2018_04 =
 		"created_at": "Wed Apr 25 05:37:03 +0000 2018",
 		"id": 989015411499745300,
 		"id_str": "989015411499745282",
-		"text": "[전도서 7:1-4] 좋은 이름​이 좋은 기름​보다 낫고, 죽는 날​이 태어나는 날​보다 낫다. 초상집​에 가는 것​이 잔칫집​에 가는 것​보다 나으니, 그것​이 모든 사람​의 끝​이기 때문​이다. 살아 있는 자​는 이것​을 마음​에 새겨야 한다.",
+		"text": "[전도서 7:1-4] 좋은 이름이 좋은 기름보다 낫고, 죽는 날이 태어나는 날보다 낫다. 초상집에 가는 것이 잔칫집에 가는 것보다 나으니, 그것이 모든 사람의 끝이기 때문이다. 살아 있는 자는 이것을 마음에 새겨야 한다.",
 		"truncated": false,
 		"entities": {
 			"hashtags": [],
