@@ -1,6 +1,530 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Thu Apr 26 11:20:46 +0000 2018",
+		"id": 989464299243421700,
+		"id_str": "989464299243421696",
+		"text": "RT @rainysound1854: 나스 이 양반 보시오 사사키선생이 월희 라인망가 그리고 짤 그리고 종종 달의 산호 짤 올리는거 보면 무슨 감정이 안 느껴지시오 남이 보면 사사키 선생 작품인지 알겠네 거",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rainysound1854",
+					"name": "[O23a] 雨音",
+					"id": 971527116,
+					"id_str": "971527116",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 77,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1083,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10593,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 24 16:05:00 +0000 2018",
+			"id": 967430168837988400,
+			"id_str": "967430168837988352",
+			"text": "나스 이 양반 보시오 사사키선생이 월희 라인망가 그리고 짤 그리고 종종 달의 산호 짤 올리는거 보면 무슨 감정이 안 느껴지시오 남이 보면 사사키 선생 작품인지 알겠네 거",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 971527116,
+				"id_str": "971527116",
+				"name": "[O23a] 雨音",
+				"screen_name": "rainysound1854",
+				"location": "칼데아 마이룸 침대 밑",
+				"description": "아마네(雨音)/\n야구(LG)보고 라이트노벨파는 달빠계정/(잡덕주의)/싫으면 좀 알아서 피해가세요./\nfgoやってる。/창은 메챠쿠챠 네타합니다/",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 326,
+				"friends_count": 340,
+				"listed_count": 5,
+				"created_at": "Mon Nov 26 07:57:06 +0000 2012",
+				"favourites_count": 2061,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 298061,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/989285977033129984/U8hgvcjg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/989285977033129984/U8hgvcjg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/971527116/1515932255",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Apr 26 11:18:49 +0000 2018",
+		"id": 989463806815289300,
+		"id_str": "989463806815289345",
+		"text": "RT @akibablog: 坂本真綾の朗読CD付き小説「月の珊瑚」(著:奈須きのこ)重版再入荷。「幻になっていた書籍が重版！」 #akiba https://t.co/kTxgHIQKtX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "akiba",
+					"indices": [
+						65,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "akibablog",
+					"name": "geek@akibablog",
+					"id": 46535246,
+					"id_str": "46535246",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 989449072514711600,
+					"id_str": "989449072514711552",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/Dbs6sGqUQAAb4j8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dbs6sGqUQAAb4j8.jpg",
+					"url": "https://t.co/kTxgHIQKtX",
+					"display_url": "pic.twitter.com/kTxgHIQKtX",
+					"expanded_url": "https://twitter.com/akibablog/status/989449074217697280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 427,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 427,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 427,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 989449074217697300,
+					"source_status_id_str": "989449074217697280",
+					"source_user_id": 46535246,
+					"source_user_id_str": "46535246"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 989449072514711600,
+					"id_str": "989449072514711552",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/Dbs6sGqUQAAb4j8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dbs6sGqUQAAb4j8.jpg",
+					"url": "https://t.co/kTxgHIQKtX",
+					"display_url": "pic.twitter.com/kTxgHIQKtX",
+					"expanded_url": "https://twitter.com/akibablog/status/989449074217697280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 427,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 427,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 427,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 989449074217697300,
+					"source_status_id_str": "989449074217697280",
+					"source_user_id": 46535246,
+					"source_user_id_str": "46535246"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 77,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1083,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10593,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 26 10:20:17 +0000 2018",
+			"id": 989449074217697300,
+			"id_str": "989449074217697280",
+			"text": "坂本真綾の朗読CD付き小説「月の珊瑚」(著:奈須きのこ)重版再入荷。「幻になっていた書籍が重版！」 #akiba https://t.co/kTxgHIQKtX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "akiba",
+						"indices": [
+							50,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 989449072514711600,
+						"id_str": "989449072514711552",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/Dbs6sGqUQAAb4j8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dbs6sGqUQAAb4j8.jpg",
+						"url": "https://t.co/kTxgHIQKtX",
+						"display_url": "pic.twitter.com/kTxgHIQKtX",
+						"expanded_url": "https://twitter.com/akibablog/status/989449074217697280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 427,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 427,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 427,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 989449072514711600,
+						"id_str": "989449072514711552",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/Dbs6sGqUQAAb4j8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dbs6sGqUQAAb4j8.jpg",
+						"url": "https://t.co/kTxgHIQKtX",
+						"display_url": "pic.twitter.com/kTxgHIQKtX",
+						"expanded_url": "https://twitter.com/akibablog/status/989449074217697280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 427,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 427,
+								"h": 640,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 427,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.everypost.me\" rel=\"nofollow\">Everypost</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 46535246,
+				"id_str": "46535246",
+				"name": "geek@akibablog",
+				"screen_name": "akibablog",
+				"location": "",
+				"description": "アキバBlogの中の人。1年に364日程度アキバを巡回。アキバTLのRTと、アキバ巡回したときの（ほぼ）リアルタイムつぶやきです。geekあっとまーくakibablogドットnet",
+				"url": "http://t.co/C0CEV8nY6B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/C0CEV8nY6B",
+								"expanded_url": "http://blog.livedoor.jp/geek/",
+								"display_url": "blog.livedoor.jp/geek/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 90246,
+				"friends_count": 7324,
+				"listed_count": 4643,
+				"created_at": "Fri Jun 12 00:38:19 +0000 2009",
+				"favourites_count": 717,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 249287,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/185583610/twilk_background_4d17ea7eb08ed.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/185583610/twilk_background_4d17ea7eb08ed.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/697925682370707456/Wegy5Wfz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/697925682370707456/Wegy5Wfz_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 765,
+			"favorite_count": 653,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": true,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 765,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Thu Apr 26 04:50:04 +0000 2018",
 		"id": 989365975656026100,
 		"id_str": "989365975656026112",
