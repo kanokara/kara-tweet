@@ -1,6 +1,581 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Mon Apr 30 12:07:49 +0000 2018",
+		"id": 990925689309167600,
+		"id_str": "990925689309167616",
+		"text": "TERF를 래디컬의 하위로 고친다.\n래디컬 분파를 좀 더 나눈다(기혼/비혼의 갈등 등).\n리버럴 페미니즘을 추가한다.\n트페미를 메갈/워마드로 고친다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 77,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1084,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10608,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 30 11:52:41 +0000 2018",
+		"id": 990921879245545500,
+		"id_str": "990921879245545473",
+		"text": "RT @k4zero: 다시봐도 이 표 만든사람 ㄹㅇ 트잘알이다 https://t.co/TnHpLI4hkT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "k4zero",
+					"name": "[K4ZERO]세이@iidxdp",
+					"id": 3232627208,
+					"id_str": "3232627208",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 989148942003662800,
+					"id_str": "989148942003662848",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/DbopuNYU8AAX0XO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DbopuNYU8AAX0XO.jpg",
+					"url": "https://t.co/TnHpLI4hkT",
+					"display_url": "pic.twitter.com/TnHpLI4hkT",
+					"expanded_url": "https://twitter.com/k4zero/status/989148946059608074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 167,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 890,
+							"h": 218,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 890,
+							"h": 218,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 989148946059608000,
+					"source_status_id_str": "989148946059608074",
+					"source_user_id": 3232627208,
+					"source_user_id_str": "3232627208"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 989148942003662800,
+					"id_str": "989148942003662848",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/DbopuNYU8AAX0XO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DbopuNYU8AAX0XO.jpg",
+					"url": "https://t.co/TnHpLI4hkT",
+					"display_url": "pic.twitter.com/TnHpLI4hkT",
+					"expanded_url": "https://twitter.com/k4zero/status/989148946059608074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 167,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 890,
+							"h": 218,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 890,
+							"h": 218,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 989148946059608000,
+					"source_status_id_str": "989148946059608074",
+					"source_user_id": 3232627208,
+					"source_user_id_str": "3232627208"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 77,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1084,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10608,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 25 14:27:40 +0000 2018",
+			"id": 989148946059608000,
+			"id_str": "989148946059608074",
+			"text": "다시봐도 이 표 만든사람 ㄹㅇ 트잘알이다 https://t.co/TnHpLI4hkT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 989148942003662800,
+						"id_str": "989148942003662848",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/DbopuNYU8AAX0XO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DbopuNYU8AAX0XO.jpg",
+						"url": "https://t.co/TnHpLI4hkT",
+						"display_url": "pic.twitter.com/TnHpLI4hkT",
+						"expanded_url": "https://twitter.com/k4zero/status/989148946059608074/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 167,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 890,
+								"h": 218,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 890,
+								"h": 218,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 989148942003662800,
+						"id_str": "989148942003662848",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/DbopuNYU8AAX0XO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DbopuNYU8AAX0XO.jpg",
+						"url": "https://t.co/TnHpLI4hkT",
+						"display_url": "pic.twitter.com/TnHpLI4hkT",
+						"expanded_url": "https://twitter.com/k4zero/status/989148946059608074/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 167,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 890,
+								"h": 218,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 890,
+								"h": 218,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3232627208,
+				"id_str": "3232627208",
+				"name": "[K4ZERO]세이@iidxdp",
+				"screen_name": "k4zero",
+				"location": "@MIAS0LITUDE 옆에",
+				"description": "김세이(Seyi Kim) | 수도권 20↑Male | IIDX SP안함 DP九段 | 축구팬(ManchesterCity, FC서울) | 아무말, 일상트윗 | 아스퍼거, 강박증, ADHD | 젠더이슈 관심(평등, 인권, 자유 지지하고 폭력, 혐오생산 반대) | 여러가지 공부하려고 노력합니다",
+				"url": "https://t.co/LLcFytnMf4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LLcFytnMf4",
+								"expanded_url": "http://ez2ac.blog.me",
+								"display_url": "ez2ac.blog.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 664,
+				"friends_count": 569,
+				"listed_count": 6,
+				"created_at": "Mon Jun 01 13:47:24 +0000 2015",
+				"favourites_count": 11370,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 46427,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/989313506078965761/bozPvwth_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/989313506078965761/bozPvwth_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3232627208/1518277987",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1140,
+			"favorite_count": 251,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1140,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 30 11:49:11 +0000 2018",
+		"id": 990920998085001200,
+		"id_str": "990920998085001216",
+		"text": "오타쿠 컬처 안의 페미니즘은 대체로 매우 유화적인 포지션일 수밖에 없는데, 외부에선 그 다양한 스펙트럼을 '트위터'로 묶고 분간하지 않으니...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 990920563429277700,
+		"in_reply_to_status_id_str": "990920563429277697",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 77,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1084,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10608,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Apr 30 11:47:27 +0000 2018",
+		"id": 990920563429277700,
+		"id_str": "990920563429277697",
+		"text": "오타쿠 컬처 내에서는 사상검열이 그 안의 페미니스트들을 향하여 일방적으로 쏟아지는 것처럼 보이지만, 사실 시야를 더 넓히면 그렇지도 않다고 생각해요. 허니팝콘에 반대하는 조류처럼.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 77,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1084,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10608,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Apr 30 08:23:29 +0000 2018",
 		"id": 990869235051065300,
 		"id_str": "990869235051065345",
