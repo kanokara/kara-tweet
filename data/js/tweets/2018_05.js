@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Fri May 11 14:37:13 +0000 2018",
+		"id": 994949553030811600,
+		"id_str": "994949553030811650",
+		"text": "MtF 오타쿠 레즈비언이라니, 왠지 모르게 동질감 느껴지네요.\n https://t.co/wxhcoBTJBv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wxhcoBTJBv",
+					"expanded_url": "https://twitter.com/KangseolA_Moe/status/994782613381484544",
+					"display_url": "twitter.com/KangseolA_Moe/…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 77,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1096,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10683,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 994782613381484500,
+		"quoted_status_id_str": "994782613381484544",
+		"quoted_status": {
+			"created_at": "Fri May 11 03:33:51 +0000 2018",
+			"id": 994782613381484500,
+			"id_str": "994782613381484544",
+			"text": "@yumhi_ 안녕하세요. 정신과 검사 및 진단을 마치고 수술 준비중인 MtF 트랜스젠더입니다. 일단 성 정체성 장애 (성별 불쾌감) 에 대해 설명드리자면, F64.0 코드를 가진 정신과 질환 중 하나입니다… https://t.co/e61b4xWCzd",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "yumhi_",
+						"name": "염희",
+						"id": 910916373949194200,
+						"id_str": "910916373949194241",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/e61b4xWCzd",
+						"expanded_url": "https://twitter.com/i/web/status/994782613381484544",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 994660838962167800,
+			"in_reply_to_status_id_str": "994660838962167808",
+			"in_reply_to_user_id": 910916373949194200,
+			"in_reply_to_user_id_str": "910916373949194241",
+			"in_reply_to_screen_name": "yumhi_",
+			"user": {
+				"id": 815864912622690300,
+				"id_str": "815864912622690305",
+				"name": "Alice♡",
+				"screen_name": "KangseolA_Moe",
+				"location": "",
+				"description": "컴덕후; 레즈비언 함량 98%의 바이섹슈얼 여성; 리눅서; 디자이너; 누군가의 아내; 밀덕후;\n\n#SaveTheInternetKR",
+				"url": "https://t.co/4QBWIm2H7P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4QBWIm2H7P",
+								"expanded_url": "http://KangseolA.moe",
+								"display_url": "KangseolA.moe",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 151,
+				"friends_count": 139,
+				"listed_count": 4,
+				"created_at": "Mon Jan 02 10:18:48 +0000 2017",
+				"favourites_count": 5351,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4292,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/983597862964551680/N62_B-tn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/983597862964551680/N62_B-tn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/815864912622690305/1499019386",
+				"profile_link_color": "6666FF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 57,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed May 09 22:58:24 +0000 2018",
 		"id": 994350905456640000,
 		"id_str": "994350905456640000",
