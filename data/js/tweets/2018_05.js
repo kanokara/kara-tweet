@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Thu May 17 00:17:30 +0000 2018",
+		"id": 996907527798276100,
+		"id_str": "996907527798276097",
+		"text": "RT @type_aksdnwjf: 진짜 이런 식으로 발언했으면 진작 강판당함. 페스나 튠 최종회 끝내면서 우스개로 시로 프로포즈 거절하고 길가가 더 좋다고 함 -&gt; 2ch에서 왜곡 인용으로 스레 섬 -&gt; 아무말잔치(~하니까 당연 싫지)로 이유 붙음…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "type_aksdnwjf",
+					"name": "MeDo(BUTA)",
+					"id": 3120895622,
+					"id_str": "3120895622",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 78,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1096,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10680,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed May 16 04:35:01 +0000 2018",
+			"id": 996609946333495300,
+			"id_str": "996609946333495296",
+			"text": "진짜 이런 식으로 발언했으면 진작 강판당함. 페스나 튠 최종회 끝내면서 우스개로 시로 프로포즈 거절하고 길가가 더 좋다고 함 -&gt; 2ch에서 왜곡 인용으로 스레 섬 -&gt; 아무말잔치(~하니까 당연 싫지)로 이… https://t.co/4kJZmjmOZa",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4kJZmjmOZa",
+						"expanded_url": "https://twitter.com/i/web/status/996609946333495296",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							123,
+							146
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3120895622,
+				"id_str": "3120895622",
+				"name": "MeDo(BUTA)",
+				"screen_name": "type_aksdnwjf",
+				"location": "",
+				"description": "생활 백치",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44,
+				"friends_count": 32,
+				"listed_count": 0,
+				"created_at": "Tue Mar 31 16:42:18 +0000 2015",
+				"favourites_count": 12106,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8002,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/865551394312380416/oJl2DJ_z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/865551394312380416/oJl2DJ_z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3120895622/1506367272",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 996397378558050300,
+			"quoted_status_id_str": "996397378558050305",
+			"quoted_status": {
+				"created_at": "Tue May 15 14:30:21 +0000 2018",
+				"id": 996397378558050300,
+				"id_str": "996397378558050305",
+				"text": "에미야 시로의 '여자애는 싸우면 안돼' 이 발언이 얼마나 까였냐면ㅋㅋㅋㅋ 세이버 성우인 카와스미 아야코가 스튜디오 딘판 페스나 연기할때 \"나 얘 싫어\"라고 했을정도ㅋㅋㅋㅋㅋㅋ 라디오에서는 심지어 \"시로, 사… https://t.co/akRKMOFsqk",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/akRKMOFsqk",
+							"expanded_url": "https://twitter.com/i/web/status/996397378558050305",
+							"display_url": "twitter.com/i/web/status/9…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 87702189,
+					"id_str": "87702189",
+					"name": "MADCAT",
+					"screen_name": "MADCAT135",
+					"location": "대한민국",
+					"description": "디스코드MADCAT135#2688/럽라/사진작가/작품계정:@ArtMadcat/픽시브:https://t.co/VUbGCLkgjp 유튜브-https://t.co/hp1APa5lCN",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/VUbGCLkgjp",
+									"expanded_url": "https://pixiv.me/daejun13579",
+									"display_url": "pixiv.me/daejun13579",
+									"indices": [
+										47,
+										70
+									]
+								},
+								{
+									"url": "https://t.co/hp1APa5lCN",
+									"expanded_url": "https://www.youtube.com/c/MADCAT3012/live",
+									"display_url": "youtube.com/c/MADCAT3012/l…",
+									"indices": [
+										75,
+										98
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 4101,
+					"friends_count": 2279,
+					"listed_count": 61,
+					"created_at": "Thu Nov 05 14:42:17 +0000 2009",
+					"favourites_count": 5748,
+					"utc_offset": 32400,
+					"time_zone": "Seoul",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 442763,
+					"lang": "ko",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000062266634/01f9b1f6b94482842c620995d79ebd98.jpeg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000062266634/01f9b1f6b94482842c620995d79ebd98.jpeg",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/981892693281259520/P6N2m02H_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/981892693281259520/P6N2m02H_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/87702189/1516233261",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1495,
+				"favorite_count": 192,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "ko"
+			},
+			"retweet_count": 4,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 996397378558050300,
+		"quoted_status_id_str": "996397378558050305",
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri May 11 23:27:59 +0000 2018",
 		"id": 995083127218294800,
 		"id_str": "995083127218294784",
