@@ -1,6 +1,1176 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Thu May 17 15:49:33 +0000 2018",
+		"id": 997142082283171800,
+		"id_str": "997142082283171841",
+		"text": "RT @Nomophilax: @maelran 일단 동과 서의 신학이 부정신학/긍정신학 정도로 분류될 정도로 초점이 다른지라 표현방식에도 차이가 있을 것으로 추정은 됩니다. 부정신학이란 것은 신을 표현하고 묘사하는 데 있어서 최대한 조심하고 아닌 것을…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nomophilax",
+					"name": "물의백작",
+					"id": 244913514,
+					"id_str": "244913514",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "maelran",
+					"name": "마엘란",
+					"id": 836218963788980200,
+					"id_str": "836218963788980225",
+					"indices": [
+						16,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 78,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1096,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10690,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 17 14:44:00 +0000 2018",
+			"id": 997125586328870900,
+			"id_str": "997125586328870915",
+			"text": "@maelran 일단 동과 서의 신학이 부정신학/긍정신학 정도로 분류될 정도로 초점이 다른지라 표현방식에도 차이가 있을 것으로 추정은 됩니다. 부정신학이란 것은 신을 표현하고 묘사하는 데 있어서 최대한 조심… https://t.co/7TZ5LCJaIt",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "maelran",
+						"name": "마엘란",
+						"id": 836218963788980200,
+						"id_str": "836218963788980225",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/7TZ5LCJaIt",
+						"expanded_url": "https://twitter.com/i/web/status/997125586328870915",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 997125131083309000,
+			"in_reply_to_status_id_str": "997125131083309057",
+			"in_reply_to_user_id": 244913514,
+			"in_reply_to_user_id_str": "244913514",
+			"in_reply_to_screen_name": "Nomophilax",
+			"user": {
+				"id": 244913514,
+				"id_str": "244913514",
+				"name": "물의백작",
+				"screen_name": "Nomophilax",
+				"location": "",
+				"description": "방구석 로마인\n\nhttps://t.co/cRZCkTa73g",
+				"url": "https://t.co/rM8Ef3WzMR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rM8Ef3WzMR",
+								"expanded_url": "http://blog.naver.com/bc586",
+								"display_url": "blog.naver.com/bc586",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/cRZCkTa73g",
+								"expanded_url": "https://ask.fm/Nomophilax",
+								"display_url": "ask.fm/Nomophilax",
+								"indices": [
+									9,
+									32
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 311,
+				"friends_count": 44,
+				"listed_count": 3,
+				"created_at": "Sun Jan 30 12:30:50 +0000 2011",
+				"favourites_count": 625,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3380,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980460119170334721/eIrA2nEO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460119170334721/eIrA2nEO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/244913514/1523376972",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu May 17 15:26:13 +0000 2018",
+		"id": 997136213789237200,
+		"id_str": "997136213789237248",
+		"text": "RT @Nomophilax: 노골적으로 드러나는 작법을 통해 저지했던 것이다. 예를 들자면 역원근법이라던가, 매우 비인상적이고 딱딱하고 추상적인 표현법들...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nomophilax",
+					"name": "물의백작",
+					"id": 244913514,
+					"id_str": "244913514",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 78,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1096,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10690,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 17 12:02:46 +0000 2018",
+			"id": 997085011051298800,
+			"id_str": "997085011051298816",
+			"text": "노골적으로 드러나는 작법을 통해 저지했던 것이다. 예를 들자면 역원근법이라던가, 매우 비인상적이고 딱딱하고 추상적인 표현법들...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 997085009335935000,
+			"in_reply_to_status_id_str": "997085009335934976",
+			"in_reply_to_user_id": 244913514,
+			"in_reply_to_user_id_str": "244913514",
+			"in_reply_to_screen_name": "Nomophilax",
+			"user": {
+				"id": 244913514,
+				"id_str": "244913514",
+				"name": "물의백작",
+				"screen_name": "Nomophilax",
+				"location": "",
+				"description": "방구석 로마인\n\nhttps://t.co/cRZCkTa73g",
+				"url": "https://t.co/rM8Ef3WzMR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rM8Ef3WzMR",
+								"expanded_url": "http://blog.naver.com/bc586",
+								"display_url": "blog.naver.com/bc586",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/cRZCkTa73g",
+								"expanded_url": "https://ask.fm/Nomophilax",
+								"display_url": "ask.fm/Nomophilax",
+								"indices": [
+									9,
+									32
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 311,
+				"friends_count": 44,
+				"listed_count": 3,
+				"created_at": "Sun Jan 30 12:30:50 +0000 2011",
+				"favourites_count": 625,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3380,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980460119170334721/eIrA2nEO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460119170334721/eIrA2nEO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/244913514/1523376972",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu May 17 15:26:09 +0000 2018",
+		"id": 997136196810588200,
+		"id_str": "997136196810588160",
+		"text": "RT @Nomophilax: 그림 그 자체는 어떤 대상에 대한 상징이지만 파생이 끝없이 일어나고 상징대상과 상징체현물 사이의 경계가 흐릿해지면 이는 곧 우상으로 향하는 첩경이 될 수 있다. 성화상공경-성상파괴파의 논리는 이 부분에서 하나로 이어진다.…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nomophilax",
+					"name": "물의백작",
+					"id": 244913514,
+					"id_str": "244913514",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 78,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1096,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10690,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 17 12:02:45 +0000 2018",
+			"id": 997085009335935000,
+			"id_str": "997085009335934976",
+			"text": "그림 그 자체는 어떤 대상에 대한 상징이지만 파생이 끝없이 일어나고 상징대상과 상징체현물 사이의 경계가 흐릿해지면 이는 곧 우상으로 향하는 첩경이 될 수 있다. 성화상공경-성상파괴파의 논리는 이 부분에서 하… https://t.co/2wryc44aJn",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2wryc44aJn",
+						"expanded_url": "https://twitter.com/i/web/status/997085009335934976",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 997084363270406100,
+			"in_reply_to_status_id_str": "997084363270406146",
+			"in_reply_to_user_id": 244913514,
+			"in_reply_to_user_id_str": "244913514",
+			"in_reply_to_screen_name": "Nomophilax",
+			"user": {
+				"id": 244913514,
+				"id_str": "244913514",
+				"name": "물의백작",
+				"screen_name": "Nomophilax",
+				"location": "",
+				"description": "방구석 로마인\n\nhttps://t.co/cRZCkTa73g",
+				"url": "https://t.co/rM8Ef3WzMR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rM8Ef3WzMR",
+								"expanded_url": "http://blog.naver.com/bc586",
+								"display_url": "blog.naver.com/bc586",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/cRZCkTa73g",
+								"expanded_url": "https://ask.fm/Nomophilax",
+								"display_url": "ask.fm/Nomophilax",
+								"indices": [
+									9,
+									32
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 311,
+				"friends_count": 44,
+				"listed_count": 3,
+				"created_at": "Sun Jan 30 12:30:50 +0000 2011",
+				"favourites_count": 625,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3380,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980460119170334721/eIrA2nEO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460119170334721/eIrA2nEO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/244913514/1523376972",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu May 17 15:26:05 +0000 2018",
+		"id": 997136177646846000,
+		"id_str": "997136177646845952",
+		"text": "RT @Nomophilax: 한 마디로, 복사를 거듭한 끝에 원래의 의미와 맥락을 잃게 된다는 것. 비잔티움 시대 성화가 거의 10세기까지 아주 재미없고 딱딱하게 그려진 것은 바로 이를 경계하기 위한 철저한 공식화된 작법 때문이다. 성상파괴파는 비록…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nomophilax",
+					"name": "물의백작",
+					"id": 244913514,
+					"id_str": "244913514",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 78,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1096,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10690,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 17 12:00:11 +0000 2018",
+			"id": 997084363270406100,
+			"id_str": "997084363270406146",
+			"text": "한 마디로, 복사를 거듭한 끝에 원래의 의미와 맥락을 잃게 된다는 것. 비잔티움 시대 성화가 거의 10세기까지 아주 재미없고 딱딱하게 그려진 것은 바로 이를 경계하기 위한 철저한 공식화된 작법 때문이다. 성… https://t.co/ijHegHJPZJ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ijHegHJPZJ",
+						"expanded_url": "https://twitter.com/i/web/status/997084363270406146",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 997084361538191400,
+			"in_reply_to_status_id_str": "997084361538191361",
+			"in_reply_to_user_id": 244913514,
+			"in_reply_to_user_id_str": "244913514",
+			"in_reply_to_screen_name": "Nomophilax",
+			"user": {
+				"id": 244913514,
+				"id_str": "244913514",
+				"name": "물의백작",
+				"screen_name": "Nomophilax",
+				"location": "",
+				"description": "방구석 로마인\n\nhttps://t.co/cRZCkTa73g",
+				"url": "https://t.co/rM8Ef3WzMR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rM8Ef3WzMR",
+								"expanded_url": "http://blog.naver.com/bc586",
+								"display_url": "blog.naver.com/bc586",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/cRZCkTa73g",
+								"expanded_url": "https://ask.fm/Nomophilax",
+								"display_url": "ask.fm/Nomophilax",
+								"indices": [
+									9,
+									32
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 311,
+				"friends_count": 44,
+				"listed_count": 3,
+				"created_at": "Sun Jan 30 12:30:50 +0000 2011",
+				"favourites_count": 625,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3380,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980460119170334721/eIrA2nEO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460119170334721/eIrA2nEO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/244913514/1523376972",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu May 17 15:26:01 +0000 2018",
+		"id": 997136162853539800,
+		"id_str": "997136162853539842",
+		"text": "RT @Nomophilax: 이거 사실 사상사적으로 상당히 중요한 내용이다. 비잔티움쪽의 3D덕후 기질이 없었고 심지어 2D에서도 좀 엉망인 모습들이 나오는데, 이것은 파생실재(시뮬라시옹)에 의해 발생하게 될 파생매체의 위험성에 대한 경각에서 나온…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nomophilax",
+					"name": "물의백작",
+					"id": 244913514,
+					"id_str": "244913514",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 78,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1096,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10690,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 17 12:00:11 +0000 2018",
+			"id": 997084361538191400,
+			"id_str": "997084361538191361",
+			"text": "이거 사실 사상사적으로 상당히 중요한 내용이다. 비잔티움쪽의 3D덕후 기질이 없었고 심지어 2D에서도 좀 엉망인 모습들이 나오는데, 이것은 파생실재(시뮬라시옹)에 의해 발생하게 될 파생매체의 위험성에 대한… https://t.co/fuxLzGlBCR",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fuxLzGlBCR",
+						"expanded_url": "https://twitter.com/i/web/status/997084361538191361",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 244913514,
+				"id_str": "244913514",
+				"name": "물의백작",
+				"screen_name": "Nomophilax",
+				"location": "",
+				"description": "방구석 로마인\n\nhttps://t.co/cRZCkTa73g",
+				"url": "https://t.co/rM8Ef3WzMR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rM8Ef3WzMR",
+								"expanded_url": "http://blog.naver.com/bc586",
+								"display_url": "blog.naver.com/bc586",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/cRZCkTa73g",
+								"expanded_url": "https://ask.fm/Nomophilax",
+								"display_url": "ask.fm/Nomophilax",
+								"indices": [
+									9,
+									32
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 311,
+				"friends_count": 44,
+				"listed_count": 3,
+				"created_at": "Sun Jan 30 12:30:50 +0000 2011",
+				"favourites_count": 625,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3380,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980460119170334721/eIrA2nEO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460119170334721/eIrA2nEO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/244913514/1523376972",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 996953971439714300,
+			"quoted_status_id_str": "996953971439714304",
+			"quoted_status": {
+				"created_at": "Thu May 17 03:22:03 +0000 2018",
+				"id": 996953971439714300,
+				"id_str": "996953971439714304",
+				"text": "동로마쪽이 잘생긴 사람이 없다기보다 그림이 그 모양(?)이라서...",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 4058912834,
+					"id_str": "4058912834",
+					"name": "중세인쇄소",
+					"screen_name": "medievalart_kr",
+					"location": "",
+					"description": "필사본 삽화 등 11세기~15세기의 중세 미술품들을 중심으로 소개합니다(아닌것도올라옴).봇아님 역사로 아무말하는계정",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 10083,
+					"friends_count": 211,
+					"listed_count": 183,
+					"created_at": "Thu Oct 29 15:32:29 +0000 2015",
+					"favourites_count": 34591,
+					"utc_offset": -25200,
+					"time_zone": "Pacific Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 34231,
+					"lang": "ko",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/847852865951416321/ph7dlX6q_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/847852865951416321/ph7dlX6q_normal.jpg",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 6,
+				"favorite_count": 7,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "ko"
+			},
+			"retweet_count": 66,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 996953971439714300,
+		"quoted_status_id_str": "996953971439714304",
+		"retweet_count": 66,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu May 17 15:23:59 +0000 2018",
+		"id": 997135649747615700,
+		"id_str": "997135649747615746",
+		"text": "@WORKLIFEBOOK 무라카미 유이치는 일본어 특성을 이용해서 자기 저작에서 두 개념을 구분하지 않았죠. &lt;고스트의 조건&gt; 이야기네요.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WORKLIFEBOOK",
+					"name": "워크라이프 출판사 편집부",
+					"id": 146022923,
+					"id_str": "146022923",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 997081981098733600,
+		"in_reply_to_status_id_str": "997081981098733568",
+		"in_reply_to_user_id": 146022923,
+		"in_reply_to_user_id_str": "146022923",
+		"in_reply_to_screen_name": "WORKLIFEBOOK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 78,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1096,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10690,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu May 17 10:56:16 +0000 2018",
 		"id": 997068277086961700,
 		"id_str": "997068277086961666",
