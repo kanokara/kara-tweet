@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Tue Jun 19 06:00:56 +0000 2018",
+		"id": 1008952755380109300,
+		"id_str": "1008952755380109312",
+		"text": "RT @kcanari: https://t.co/BK2RJToHLK 넷플릭스에 대한 재밌는 기사\n\n나도 처음에는 넷플릭스의 콘텐트가 빅 데이터로 만든다고 생각했는데, 실제 인터뷰 등에서 사실이 아닌 것으로 밝혀졌다\n\n넷플릭스는 콘텐트를 만들 때는 생각…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kcanari",
+					"name": "까날(오승택)",
+					"id": 101148636,
+					"id_str": "101148636",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BK2RJToHLK",
+					"expanded_url": "https://medium.com/ebadaknews/netflix-swallows-tv-a3873a3cff08",
+					"display_url": "medium.com/ebadaknews/net…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 78,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10785,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 19 05:33:33 +0000 2018",
+			"id": 1008945861127073800,
+			"id_str": "1008945861127073792",
+			"text": "https://t.co/BK2RJToHLK 넷플릭스에 대한 재밌는 기사\n\n나도 처음에는 넷플릭스의 콘텐트가 빅 데이터로 만든다고 생각했는데, 실제 인터뷰 등에서 사실이 아닌 것으로 밝혀졌다\n\n넷플릭스는 콘텐… https://t.co/1WNuuiYYUQ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BK2RJToHLK",
+						"expanded_url": "https://medium.com/ebadaknews/netflix-swallows-tv-a3873a3cff08",
+						"display_url": "medium.com/ebadaknews/net…",
+						"indices": [
+							0,
+							23
+						]
+					},
+					{
+						"url": "https://t.co/1WNuuiYYUQ",
+						"expanded_url": "https://twitter.com/i/web/status/1008945861127073792",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 101148636,
+				"id_str": "101148636",
+				"name": "까날(오승택)",
+				"screen_name": "kcanari",
+				"location": "KOREA Sungnam",
+				"description": "'홋카이도에 먹으러가자' 글쓴이. 일본 식도락 여행 전문 블로그 운영중. 우리음식, 일본음식, 우리술, 일본술에 관심이 많은 사람.",
+				"url": "http://t.co/F8qV04Ob9y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/F8qV04Ob9y",
+								"expanded_url": "http://kcanari.egloos.com",
+								"display_url": "kcanari.egloos.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 52649,
+				"friends_count": 261,
+				"listed_count": 202,
+				"created_at": "Sat Jan 02 05:42:27 +0000 2010",
+				"favourites_count": 408,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 98446,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/101148636/1365251288",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 87,
+			"favorite_count": 37,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat Jun 16 13:01:26 +0000 2018",
 		"id": 1007971410881331200,
 		"id_str": "1007971410881331200",
