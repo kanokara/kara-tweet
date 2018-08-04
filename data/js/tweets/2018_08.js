@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sat Aug 04 13:47:38 +0000 2018",
+		"id": 1025740042663157800,
+		"id_str": "1025740042663157760",
+		"text": "제가 가진 악몽 중 하나가 집에 불이 나서 그동안 모은 책이 모두 땔감이 되는 것. 중고 시장에서도 못 구하는 절판 서적이 많거든요. 국립도서관에 없는 책들도 상당하고.\n https://t.co/8OK8VyH6oS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8OK8VyH6oS",
+					"expanded_url": "https://twitter.com/deadcatssociety/status/1025632817575682053",
+					"display_url": "twitter.com/deadcatssociet…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 77,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10794,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1025632817575682000,
+		"quoted_status_id_str": "1025632817575682053",
+		"quoted_status": {
+			"created_at": "Sat Aug 04 06:41:33 +0000 2018",
+			"id": 1025632817575682000,
+			"id_str": "1025632817575682053",
+			"text": "캘리포니아의 한 엄마가 산불때문에 대피하기 전 자기가 소중히 여기는 도자기 그릇들을 전부 수영장에 넣고 갔다고.\n\n예전에는 한 부부가 불이 옆집까지 번진 가운데 수영장에서 6시간을 버텨 구조된 적도 있다고… https://t.co/ts7nnGv3Hm",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ts7nnGv3Hm",
+						"expanded_url": "https://twitter.com/i/web/status/1025632817575682053",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 209173806,
+				"id_str": "209173806",
+				"name": "데드캣",
+				"screen_name": "deadcatssociety",
+				"location": "Inject.Me",
+				"description": "I've heard self-reliance is a virtue.\nNow, you’ve heard it.",
+				"url": "https://t.co/gvW6CXdBSO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gvW6CXdBSO",
+								"expanded_url": "http://ask.fm/deadcatssociety",
+								"display_url": "ask.fm/deadcatssociety",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9850,
+				"friends_count": 880,
+				"listed_count": 204,
+				"created_at": "Thu Oct 28 17:16:58 +0000 2010",
+				"favourites_count": 346,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 369303,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/993200391075463168/3SWQzYqE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/993200391075463168/3SWQzYqE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/209173806/1390413748",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 648,
+			"favorite_count": 236,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Aug 01 12:30:42 +0000 2018",
 		"id": 1024633519543218200,
 		"id_str": "1024633519543218177",
