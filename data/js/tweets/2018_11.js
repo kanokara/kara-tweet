@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Nov 11 08:28:48 +0000 2018",
+		"id": 1061536204854747100,
+		"id_str": "1061536204854747137",
+		"full_text": "공의 경계 - 시키\n\n셔터만 누름, 나머진 by 작위 잃은 농노수라 @asura_cos https://t.co/UUXvrXmCxH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "asura_cos",
+					"name": "Baron Asura",
+					"id": 1054363745630093300,
+					"id_str": "1054363745630093313",
+					"indices": [
+						38,
+						48
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1061535952256946200,
+					"id_str": "1061535952256946176",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DrtVUwaU0AARO72.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrtVUwaU0AARO72.jpg",
+					"url": "https://t.co/UUXvrXmCxH",
+					"display_url": "pic.twitter.com/UUXvrXmCxH",
+					"expanded_url": "https://twitter.com/eyesinthe_Sky/status/1061536204854747137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1061535952256946200,
+					"id_str": "1061535952256946176",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DrtVUwaU0AARO72.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrtVUwaU0AARO72.jpg",
+					"url": "https://t.co/UUXvrXmCxH",
+					"display_url": "pic.twitter.com/UUXvrXmCxH",
+					"expanded_url": "https://twitter.com/eyesinthe_Sky/status/1061536204854747137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1061535971726962700,
+					"id_str": "1061535971726962688",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DrtVV48VsAAEQf6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrtVV48VsAAEQf6.jpg",
+					"url": "https://t.co/UUXvrXmCxH",
+					"display_url": "pic.twitter.com/UUXvrXmCxH",
+					"expanded_url": "https://twitter.com/eyesinthe_Sky/status/1061536204854747137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1061536183220547600,
+					"id_str": "1061536183220547585",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DrtViM0VsAEG6le.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrtViM0VsAEG6le.jpg",
+					"url": "https://t.co/UUXvrXmCxH",
+					"display_url": "pic.twitter.com/UUXvrXmCxH",
+					"expanded_url": "https://twitter.com/eyesinthe_Sky/status/1061536204854747137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 152960889,
+			"id_str": "152960889",
+			"name": "Eyes in the Sky",
+			"screen_name": "eyesinthe_Sky",
+			"location": "",
+			"description": "好的开始, 什么​时候都不晚。​",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35,
+			"friends_count": 37,
+			"listed_count": 0,
+			"created_at": "Mon Jun 07 09:32:52 +0000 2010",
+			"favourites_count": 518,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000485649687/b288c9aa7c2513143bda2a76975e463b_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000485649687/b288c9aa7c2513143bda2a76975e463b_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공의 경계 - 시키\n\n셔터만 누름, 나머진 by 작위 잃은 농노수라 @asura_cos https://t.co/UUXvrXmCxH"
+	},
+	{
 		"created_at": "Sun Nov 18 08:47:18 +0000 2018",
 		"id": 1064077575041900500,
 		"id_str": "1064077575041900544",
