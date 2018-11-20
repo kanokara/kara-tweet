@@ -45,7 +45,7 @@ Grailbird.data.tweets_2018_08 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10922,
+			"statuses_count": 10926,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
