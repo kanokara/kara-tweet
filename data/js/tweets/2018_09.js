@@ -4,15 +4,19 @@ Grailbird.data.tweets_2018_09 =
 		"created_at": "Fri Sep 28 16:38:07 +0000 2018",
 		"id": 1045714281864429600,
 		"id_str": "1045714281864429568",
-		"text": "@dvddog 음, 남성향 판타지를 읽을 때도 무의식 중에 이 코드를 요구해서 여성과의 관계가 배제된 마초적 작품은 재밌어도 어딘가 충족은 안 되는 느낌이고.",
+		"full_text": "@dvddog 음, 남성향 판타지를 읽을 때도 무의식 중에 이 코드를 요구해서 여성과의 관계가 배제된 마초적 작품은 재밌어도 어딘가 충족은 안 되는 느낌이고.",
 		"truncated": false,
+		"display_text_range": [
+			8,
+			88
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
 				{
 					"screen_name": "dvddog",
-					"name": "다우드 댕댕이",
+					"name": "다우드 산",
 					"id": 3138788114,
 					"id_str": "3138788114",
 					"indices": [
@@ -43,16 +47,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1108,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10842,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -86,21 +90,26 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "@dvddog 음, 남성향 판타지를 읽을 때도 무의식 중에 이 코드를 요구해서 여성과의 관계가 배제된 마초적 작품은 재밌어도 어딘가 충족은 안 되는 느낌이고."
 	},
 	{
 		"created_at": "Fri Sep 28 16:37:10 +0000 2018",
 		"id": 1045714042696810500,
 		"id_str": "1045714042696810497",
-		"text": "@dvddog 남성향 오타쿠 장르에서 여성과의 관계는 빼놓을 수 없는 코드인데, 일반적 의미의 로맨스가 아니기에 사랑/연애를 좋아/싫어한다는 이분법은 문제 설정이 잘못되었다 싶어요.",
+		"full_text": "@dvddog 남성향 오타쿠 장르에서 여성과의 관계는 빼놓을 수 없는 코드인데, 일반적 의미의 로맨스가 아니기에 사랑/연애를 좋아/싫어한다는 이분법은 문제 설정이 잘못되었다 싶어요.",
 		"truncated": false,
+		"display_text_range": [
+			8,
+			101
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
 				{
 					"screen_name": "dvddog",
-					"name": "다우드 댕댕이",
+					"name": "다우드 산",
 					"id": 3138788114,
 					"id_str": "3138788114",
 					"indices": [
@@ -131,16 +140,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1108,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10842,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -174,14 +183,19 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "@dvddog 남성향 오타쿠 장르에서 여성과의 관계는 빼놓을 수 없는 코드인데, 일반적 의미의 로맨스가 아니기에 사랑/연애를 좋아/싫어한다는 이분법은 문제 설정이 잘못되었다 싶어요."
 	},
 	{
 		"created_at": "Fri Sep 28 16:28:20 +0000 2018",
 		"id": 1045711818126053400,
 		"id_str": "1045711818126053376",
-		"text": "(그렇다고 라노베나 노벨게임의 그런 장르를 애호했냐고 하면 그건 또 미묘하네요. 개중 탁월한 몇몇 작품을 즐긴 선에 그쳐서. 더구나 애초에 해당 장르들이 전자는 러브'코미디'로, 후자는 포르노로 방점이 찍혔을 테니.)",
+		"full_text": "(그렇다고 라노베나 노벨게임의 그런 장르를 애호했냐고 하면 그건 또 미묘하네요. 개중 탁월한 몇몇 작품을 즐긴 선에 그쳐서. 더구나 애초에 해당 장르들이 전자는 러브'코미디'로, 후자는 포르노로 방점이 찍혔을 테니.)",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -208,16 +222,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1108,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10842,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -251,14 +265,19 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "(그렇다고 라노베나 노벨게임의 그런 장르를 애호했냐고 하면 그건 또 미묘하네요. 개중 탁월한 몇몇 작품을 즐긴 선에 그쳐서. 더구나 애초에 해당 장르들이 전자는 러브'코미디'로, 후자는 포르노로 방점이 찍혔을 테니.)"
 	},
 	{
 		"created_at": "Fri Sep 28 16:22:16 +0000 2018",
 		"id": 1045710290040438800,
 		"id_str": "1045710290040438784",
-		"text": "오타쿠답게 사랑이나 연애를 싫어한다고 생각했는데, 그건 주류시장의 관념에 한정되었단 사실을 최근에서야 깨우친 느낌.",
+		"full_text": "오타쿠답게 사랑이나 연애를 싫어한다고 생각했는데, 그건 주류시장의 관념에 한정되었단 사실을 최근에서야 깨우친 느낌.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -285,16 +304,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1108,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10842,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -328,14 +347,19 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "오타쿠답게 사랑이나 연애를 싫어한다고 생각했는데, 그건 주류시장의 관념에 한정되었단 사실을 최근에서야 깨우친 느낌."
 	},
 	{
 		"created_at": "Fri Sep 28 16:18:24 +0000 2018",
 		"id": 1045709318027243500,
 		"id_str": "1045709318027243520",
-		"text": "로맨스 소설을 읽다보니 문득 남성향 로맨스가 읽고 싶어지고, 잘 생각해보면 라노베나 노벨게임이 남성향 로맨스였고, 또 생각해보니 이제는 모두 망한 장르가 되었네요.",
+		"full_text": "로맨스 소설을 읽다보니 문득 남성향 로맨스가 읽고 싶어지고, 잘 생각해보면 라노베나 노벨게임이 남성향 로맨스였고, 또 생각해보니 이제는 모두 망한 장르가 되었네요.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -362,16 +386,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1108,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10842,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -405,14 +429,19 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "로맨스 소설을 읽다보니 문득 남성향 로맨스가 읽고 싶어지고, 잘 생각해보면 라노베나 노벨게임이 남성향 로맨스였고, 또 생각해보니 이제는 모두 망한 장르가 되었네요."
 	},
 	{
 		"created_at": "Mon Sep 24 15:05:41 +0000 2018",
 		"id": 1044241467550527500,
 		"id_str": "1044241467550527488",
-		"text": "아, 종종 주인공은 존대를 하는데 열위에 있는 상대가 하대하고, 그걸 아무렇지 않게 수용하는 기묘한 혼종도 있네요. 이 경우도 맘 편하게 보기는 어렵고.",
+		"full_text": "아, 종종 주인공은 존대를 하는데 열위에 있는 상대가 하대하고, 그걸 아무렇지 않게 수용하는 기묘한 혼종도 있네요. 이 경우도 맘 편하게 보기는 어렵고.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -439,16 +468,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1107,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10843,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -482,14 +511,19 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "아, 종종 주인공은 존대를 하는데 열위에 있는 상대가 하대하고, 그걸 아무렇지 않게 수용하는 기묘한 혼종도 있네요. 이 경우도 맘 편하게 보기는 어렵고."
 	},
 	{
 		"created_at": "Mon Sep 24 15:00:18 +0000 2018",
 		"id": 1044240111913721900,
 		"id_str": "1044240111913721859",
-		"text": "한국 남성향 소설에서 오타쿠 문화의 세례를 받은 작품이냐 아니냐를 구분하는 제1지표는 역시 주인공의 존대말 사용 여부인데, 한국인들 반말(을 사용할 수 있는 입장상의 우위)을 너무 좋아하는 거 같아요.",
+		"full_text": "한국 남성향 소설에서 오타쿠 문화의 세례를 받은 작품이냐 아니냐를 구분하는 제1지표는 역시 주인공의 존대말 사용 여부인데, 한국인들 반말(을 사용할 수 있는 입장상의 우위)을 너무 좋아하는 거 같아요.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -516,16 +550,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1107,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10843,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -559,14 +593,19 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "한국 남성향 소설에서 오타쿠 문화의 세례를 받은 작품이냐 아니냐를 구분하는 제1지표는 역시 주인공의 존대말 사용 여부인데, 한국인들 반말(을 사용할 수 있는 입장상의 우위)을 너무 좋아하는 거 같아요."
 	},
 	{
 		"created_at": "Sun Sep 23 21:24:58 +0000 2018",
 		"id": 1043974530614550500,
 		"id_str": "1043974530614550528",
-		"text": "왜 기본적으로 TS물은 남성향 장르일까.",
+		"full_text": "왜 기본적으로 TS물은 남성향 장르일까.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -593,16 +632,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1106,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10841,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -636,14 +675,19 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "왜 기본적으로 TS물은 남성향 장르일까."
 	},
 	{
 		"created_at": "Sat Sep 22 03:32:42 +0000 2018",
 		"id": 1043342295074922500,
 		"id_str": "1043342295074922496",
-		"text": "@sayanghwa @dvddog 제 경우는 인프라적으로 도시에서 벗어나면 죽는다는 도시민의 정체성은 가졌지만 그 이상은 아니네요. 어딜 가도 편의점은 있고, 인터넷이 되는데 뭘!",
+		"full_text": "@sayanghwa @dvddog 제 경우는 인프라적으로 도시에서 벗어나면 죽는다는 도시민의 정체성은 가졌지만 그 이상은 아니네요. 어딜 가도 편의점은 있고, 인터넷이 되는데 뭘!",
 		"truncated": false,
+		"display_text_range": [
+			19,
+			100
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -660,7 +704,7 @@ Grailbird.data.tweets_2018_09 =
 				},
 				{
 					"screen_name": "dvddog",
-					"name": "다우드 댕댕이",
+					"name": "다우드 산",
 					"id": 3138788114,
 					"id_str": "3138788114",
 					"indices": [
@@ -691,16 +735,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1106,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10841,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -734,21 +778,26 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "@sayanghwa @dvddog 제 경우는 인프라적으로 도시에서 벗어나면 죽는다는 도시민의 정체성은 가졌지만 그 이상은 아니네요. 어딜 가도 편의점은 있고, 인터넷이 되는데 뭘!"
 	},
 	{
 		"created_at": "Sat Sep 22 03:23:36 +0000 2018",
 		"id": 1043340008051028000,
 		"id_str": "1043340008051027975",
-		"text": "@dvddog 서울에서 토착적 정체성을 가질 수 있다니...!",
+		"full_text": "@dvddog 서울에서 토착적 정체성을 가질 수 있다니...!",
 		"truncated": false,
+		"display_text_range": [
+			8,
+			34
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
 				{
 					"screen_name": "dvddog",
-					"name": "다우드 댕댕이",
+					"name": "다우드 산",
 					"id": 3138788114,
 					"id_str": "3138788114",
 					"indices": [
@@ -779,16 +828,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1106,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10841,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -822,14 +871,19 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "@dvddog 서울에서 토착적 정체성을 가질 수 있다니...!"
 	},
 	{
 		"created_at": "Fri Sep 21 15:55:03 +0000 2018",
 		"id": 1043166728425885700,
 		"id_str": "1043166728425885696",
-		"text": "“추석이란 무엇인가” 되물어라\nhttps://t.co/VsMbZwifud\n\n한국적, 이란 이름의 화해의 시도와 그 갈등에서 빚어진 라이트노벨의 정의-정체성 물음",
+		"full_text": "“추석이란 무엇인가” 되물어라\nhttps://t.co/VsMbZwifud\n\n한국적, 이란 이름의 화해의 시도와 그 갈등에서 빚어진 라이트노벨의 정의-정체성 물음",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -866,16 +920,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1106,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10839,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -910,21 +964,26 @@ Grailbird.data.tweets_2018_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "“추석이란 무엇인가” 되물어라\nhttps://t.co/VsMbZwifud\n\n한국적, 이란 이름의 화해의 시도와 그 갈등에서 빚어진 라이트노벨의 정의-정체성 물음"
 	},
 	{
 		"created_at": "Fri Sep 21 12:59:12 +0000 2018",
 		"id": 1043122471442907100,
 		"id_str": "1043122471442907136",
-		"text": "@pranagik 시그니처!",
+		"full_text": "@pranagik 시그니처!",
 		"truncated": false,
+		"display_text_range": [
+			10,
+			15
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
 				{
 					"screen_name": "pranagik",
-					"name": "코코미🌸",
+					"name": "코코미⭐",
 					"id": 965504304046944300,
 					"id_str": "965504304046944257",
 					"indices": [
@@ -955,16 +1014,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1105,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10838,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -998,14 +1057,19 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "@pranagik 시그니처!"
 	},
 	{
 		"created_at": "Fri Sep 21 12:55:15 +0000 2018",
 		"id": 1043121479964012500,
 		"id_str": "1043121479964012544",
-		"text": "합리적 추론이란 무엇입니까? https://t.co/yzjk1W5Cs6",
+		"full_text": "합리적 추론이란 무엇입니까? https://t.co/yzjk1W5Cs6",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -1110,16 +1174,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1105,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10838,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1154,361 +1218,19 @@ Grailbird.data.tweets_2018_09 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "ko"
-	},
-	{
-		"created_at": "Fri Sep 21 12:18:38 +0000 2018",
-		"id": 1043112262800564200,
-		"id_str": "1043112262800564225",
-		"text": "RT @GreatYith: 백합회로\n1. 싸운다 - \"싸우는 거 보니 사귄다 사귀어.\"\n2. 안 싸운다 - \"그 상황에서 안 싸우는 거 보니 사귄다 사귀어.\"\n3. 눈이 마주친다 - \"눈이 맞았네 눈이 맞았어!\"\n4. 눈이 안 마주친다 - \"눈 피하…",
-		"truncated": false,
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "GreatYith",
-					"name": "이스의 그레이트 종족",
-					"id": 766676756992364500,
-					"id_str": "766676756992364545",
-					"indices": [
-						3,
-						13
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 3255599052,
-			"id_str": "3255599052",
-			"name": "Solitude [동결:11/20~]",
-			"screen_name": "EmptyKnK",
-			"location": "",
-			"description": "탄식하라,  덧없이 흩어지고 말리라",
-			"url": null,
-			"entities": {
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
-			"listed_count": 0,
-			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1105,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 10838,
-			"lang": "ko",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
-			"profile_link_color": "1DA1F2",
-			"profile_sidebar_border_color": "C0DEED",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": true,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Thu Sep 20 12:03:04 +0000 2018",
-			"id": 1042745959514464300,
-			"id_str": "1042745959514464257",
-			"text": "백합회로\n1. 싸운다 - \"싸우는 거 보니 사귄다 사귀어.\"\n2. 안 싸운다 - \"그 상황에서 안 싸우는 거 보니 사귄다 사귀어.\"\n3. 눈이 마주친다 - \"눈이 맞았네 눈이 맞았어!\"\n4. 눈이 안 마주친… https://t.co/MGMN5yXZeC",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/MGMN5yXZeC",
-						"expanded_url": "https://twitter.com/i/web/status/1042745959514464257",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 766676756992364500,
-				"id_str": "766676756992364545",
-				"name": "이스의 그레이트 종족",
-				"screen_name": "GreatYith",
-				"location": "",
-				"description": "서브컬처를 먹고 사는 이스의 그레이트 종족입니다.",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 39,
-				"friends_count": 126,
-				"listed_count": 1,
-				"created_at": "Fri Aug 19 16:42:37 +0000 2016",
-				"favourites_count": 8839,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 47,
-				"lang": "ko",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "F5F8FA",
-				"profile_background_image_url": null,
-				"profile_background_image_url_https": null,
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/766765954936115200/x0ZIoOFs_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/766765954936115200/x0ZIoOFs_normal.jpg",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": true,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": true,
-			"quoted_status_id": 1039120154141970400,
-			"quoted_status_id_str": "1039120154141970433",
-			"quoted_status": {
-				"created_at": "Mon Sep 10 11:55:25 +0000 2018",
-				"id": 1039120154141970400,
-				"id_str": "1039120154141970433",
-				"text": "https://t.co/lUJYklSux2",
-				"truncated": false,
-				"entities": {
-					"hashtags": [],
-					"symbols": [],
-					"user_mentions": [],
-					"urls": [],
-					"media": [
-						{
-							"id": 1039120133678018600,
-							"id_str": "1039120133678018560",
-							"indices": [
-								0,
-								23
-							],
-							"media_url": "http://pbs.twimg.com/media/DmuyQY7VsAA7Jiu.jpg",
-							"media_url_https": "https://pbs.twimg.com/media/DmuyQY7VsAA7Jiu.jpg",
-							"url": "https://t.co/lUJYklSux2",
-							"display_url": "pic.twitter.com/lUJYklSux2",
-							"expanded_url": "https://twitter.com/kidovelist/status/1039120154141970433/photo/1",
-							"type": "photo",
-							"sizes": {
-								"small": {
-									"w": 680,
-									"h": 454,
-									"resize": "fit"
-								},
-								"thumb": {
-									"w": 150,
-									"h": 150,
-									"resize": "crop"
-								},
-								"large": {
-									"w": 680,
-									"h": 454,
-									"resize": "fit"
-								},
-								"medium": {
-									"w": 680,
-									"h": 454,
-									"resize": "fit"
-								}
-							}
-						}
-					]
-				},
-				"extended_entities": {
-					"media": [
-						{
-							"id": 1039120133678018600,
-							"id_str": "1039120133678018560",
-							"indices": [
-								0,
-								23
-							],
-							"media_url": "http://pbs.twimg.com/media/DmuyQY7VsAA7Jiu.jpg",
-							"media_url_https": "https://pbs.twimg.com/media/DmuyQY7VsAA7Jiu.jpg",
-							"url": "https://t.co/lUJYklSux2",
-							"display_url": "pic.twitter.com/lUJYklSux2",
-							"expanded_url": "https://twitter.com/kidovelist/status/1039120154141970433/photo/1",
-							"type": "photo",
-							"sizes": {
-								"small": {
-									"w": 680,
-									"h": 454,
-									"resize": "fit"
-								},
-								"thumb": {
-									"w": 150,
-									"h": 150,
-									"resize": "crop"
-								},
-								"large": {
-									"w": 680,
-									"h": 454,
-									"resize": "fit"
-								},
-								"medium": {
-									"w": 680,
-									"h": 454,
-									"resize": "fit"
-								}
-							}
-						}
-					]
-				},
-				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-				"in_reply_to_status_id": null,
-				"in_reply_to_status_id_str": null,
-				"in_reply_to_user_id": null,
-				"in_reply_to_user_id_str": null,
-				"in_reply_to_screen_name": null,
-				"user": {
-					"id": 1316608561,
-					"id_str": "1316608561",
-					"name": "Kidovelist",
-					"screen_name": "kidovelist",
-					"location": "",
-					"description": "오타쿠",
-					"url": "https://t.co/csDpr4SL7a",
-					"entities": {
-						"url": {
-							"urls": [
-								{
-									"url": "https://t.co/csDpr4SL7a",
-									"expanded_url": "http://kidovelist.egloos.com",
-									"display_url": "kidovelist.egloos.com",
-									"indices": [
-										0,
-										23
-									]
-								}
-							]
-						},
-						"description": {
-							"urls": []
-						}
-					},
-					"protected": false,
-					"followers_count": 346,
-					"friends_count": 111,
-					"listed_count": 4,
-					"created_at": "Sat Mar 30 14:58:51 +0000 2013",
-					"favourites_count": 450,
-					"utc_offset": null,
-					"time_zone": null,
-					"geo_enabled": true,
-					"verified": false,
-					"statuses_count": 1189,
-					"lang": "ko",
-					"contributors_enabled": false,
-					"is_translator": false,
-					"is_translation_enabled": true,
-					"profile_background_color": "C0DEED",
-					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-					"profile_background_tile": false,
-					"profile_image_url": "http://pbs.twimg.com/profile_images/884323212451917824/HMhTtAP5_normal.jpg",
-					"profile_image_url_https": "https://pbs.twimg.com/profile_images/884323212451917824/HMhTtAP5_normal.jpg",
-					"profile_link_color": "1DA1F2",
-					"profile_sidebar_border_color": "C0DEED",
-					"profile_sidebar_fill_color": "DDEEF6",
-					"profile_text_color": "333333",
-					"profile_use_background_image": true,
-					"has_extended_profile": false,
-					"default_profile": true,
-					"default_profile_image": false,
-					"following": false,
-					"follow_request_sent": false,
-					"notifications": false,
-					"translator_type": "regular"
-				},
-				"geo": null,
-				"coordinates": null,
-				"place": null,
-				"contributors": null,
-				"is_quote_status": false,
-				"retweet_count": 7,
-				"favorite_count": 1,
-				"favorited": false,
-				"retweeted": false,
-				"possibly_sensitive": false,
-				"lang": "und"
-			},
-			"retweet_count": 38,
-			"favorite_count": 3,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "ko"
-		},
-		"is_quote_status": true,
-		"quoted_status_id": 1039120154141970400,
-		"quoted_status_id_str": "1039120154141970433",
-		"retweet_count": 38,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": true,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "합리적 추론이란 무엇입니까? https://t.co/yzjk1W5Cs6"
 	},
 	{
 		"created_at": "Fri Sep 21 10:36:17 +0000 2018",
 		"id": 1043086507945295900,
 		"id_str": "1043086507945295872",
-		"text": "네트워크의 발달로 인한 세계화와 균일화로 일본이라는 표상이 오타쿠 문화로부터 지워지며, 그에 대한 선망과 낙인이 과거보다 옅어지고, 갈등의 근원을 직시하는 것보다 문제가 드러난 일부를 배제하는 것으로 양상이 흘러가기 쉬워진 것은 아닐까.",
+		"full_text": "네트워크의 발달로 인한 세계화와 균일화로 일본이라는 표상이 오타쿠 문화로부터 지워지며, 그에 대한 선망과 낙인이 과거보다 옅어지고, 갈등의 근원을 직시하는 것보다 문제가 드러난 일부를 배제하는 것으로 양상이 흘러가기 쉬워진 것은 아닐까.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -1535,16 +1257,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1104,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10835,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1578,29 +1300,24 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "네트워크의 발달로 인한 세계화와 균일화로 일본이라는 표상이 오타쿠 문화로부터 지워지며, 그에 대한 선망과 낙인이 과거보다 옅어지고, 갈등의 근원을 직시하는 것보다 문제가 드러난 일부를 배제하는 것으로 양상이 흘러가기 쉬워진 것은 아닐까."
 	},
 	{
 		"created_at": "Fri Sep 21 10:23:21 +0000 2018",
 		"id": 1043083251261161500,
 		"id_str": "1043083251261161473",
-		"text": "요즘도 정체성 혼란을 가지면서 '한국적'에 대한 토의로 내적 갈등이 표출되는 10대들이 있을까... 제 클러스터는 그 과정에서 중립국, 제3자적 정체성으로 귀결된 분들로 이뤄졌는데 요즘은 그런('내적') 충… https://t.co/t5w9g23GvR",
-		"truncated": true,
+		"full_text": "요즘도 정체성 혼란을 가지면서 '한국적'에 대한 토의로 내적 갈등이 표출되는 10대들이 있을까... 제 클러스터는 그 과정에서 중립국, 제3자적 정체성으로 귀결된 분들로 이뤄졌는데 요즘은 그런('내적') 충돌이 없을 것 같기도 해요. 한 쪽에 쉽게 투신할 것 같달까.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/t5w9g23GvR",
-					"expanded_url": "https://twitter.com/i/web/status/1043083251261161473",
-					"display_url": "twitter.com/i/web/status/1…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 		"in_reply_to_status_id": 1043081235445080000,
@@ -1622,16 +1339,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1104,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10835,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1665,14 +1382,19 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "요즘도 정체성 혼란을 가지면서 '한국적'에 대한 토의로 내적 갈등이 표출되는 10대들이 있을까... 제 클러스터는 그 과정에서 중립국, 제3자적 정체성으로 귀결된 분들로 이뤄졌는데 요즘은 그런('내적') 충돌이 없을 것 같기도 해요. 한 쪽에 쉽게 투신할 것 같달까."
 	},
 	{
 		"created_at": "Fri Sep 21 10:15:20 +0000 2018",
 		"id": 1043081235445080000,
 		"id_str": "1043081235445080065",
-		"text": "오오츠카가 만화학교를 열며 각국을 돌아다니며, 그 나라들에선 소수자가 일본 서브컬처를 향유한단 사실을 인상적으로 본 것에서 보듯, 비동양권에선 카운터 컬처의 원개념에 좀 더 근접되기도 하고.",
+		"full_text": "오오츠카가 만화학교를 열며 각국을 돌아다니며, 그 나라들에선 소수자가 일본 서브컬처를 향유한단 사실을 인상적으로 본 것에서 보듯, 비동양권에선 카운터 컬처의 원개념에 좀 더 근접되기도 하고.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -1699,16 +1421,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1104,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10835,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1742,14 +1464,19 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "오오츠카가 만화학교를 열며 각국을 돌아다니며, 그 나라들에선 소수자가 일본 서브컬처를 향유한단 사실을 인상적으로 본 것에서 보듯, 비동양권에선 카운터 컬처의 원개념에 좀 더 근접되기도 하고."
 	},
 	{
 		"created_at": "Fri Sep 21 10:12:22 +0000 2018",
 		"id": 1043080488477282300,
 		"id_str": "1043080488477282304",
-		"text": "'카운터 컬처'의 원개념에서는 다소 벗어나지만, '큰 이야기'라는 맥락하에서 오타쿠문화는 적어도 (일색을 배격하는) 한국·중국에서는 카운터 컬처로 기능하는 면이 있어요. 일본에서 한류가 그러하듯.",
+		"full_text": "'카운터 컬처'의 원개념에서는 다소 벗어나지만, '큰 이야기'라는 맥락하에서 오타쿠문화는 적어도 (일색을 배격하는) 한국·중국에서는 카운터 컬처로 기능하는 면이 있어요. 일본에서 한류가 그러하듯.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -1776,16 +1503,262 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1104,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10835,
+			"statuses_count": 10922,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "'카운터 컬처'의 원개념에서는 다소 벗어나지만, '큰 이야기'라는 맥락하에서 오타쿠문화는 적어도 (일색을 배격하는) 한국·중국에서는 카운터 컬처로 기능하는 면이 있어요. 일본에서 한류가 그러하듯."
+	},
+	{
+		"created_at": "Mon Aug 13 17:40:22 +0000 2018",
+		"id": 1029060103930933200,
+		"id_str": "1029060103930933248",
+		"full_text": "오카다의 인식이 반은 맞고 반은 틀린데, 이는 더이상 메인컬쳐 vs 카운터컬쳐라는 대립이 성립하지 못하고 모든 문화가 서브컬쳐로 조락했기 때문이다. 현대 사회에 대체 뭐가 '메인 컬쳐'이고 그것에 '대항'하는 문화가 기능하고 있는가 찾아보자. 없다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1029058648603951100,
+		"in_reply_to_status_id_str": "1029058648603951104",
+		"in_reply_to_user_id": 816206954926223400,
+		"in_reply_to_user_id_str": "816206954926223360",
+		"in_reply_to_screen_name": "drambuiezuki",
+		"user": {
+			"id": 816206954926223400,
+			"id_str": "816206954926223360",
+			"name": "椎名体夜気 ; 드람뷔",
+			"screen_name": "drambuiezuki",
+			"location": "",
+			"description": "시이나 타이야키 / 서브컬쳐 이야기 주로 다룰 예정 / 실질적 비활 / drambuie",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51,
+			"friends_count": 162,
+			"listed_count": 0,
+			"created_at": "Tue Jan 03 08:57:57 +0000 2017",
+			"favourites_count": 186,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 175,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1046419694012362752/TUcWE2yS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046419694012362752/TUcWE2yS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816206954926223360/1536900414",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "오카다의 인식이 반은 맞고 반은 틀린데, 이는 더이상 메인컬쳐 vs 카운터컬쳐라는 대립이 성립하지 못하고 모든 문화가 서브컬쳐로 조락했기 때문이다. 현대 사회에 대체 뭐가 '메인 컬쳐'이고 그것에 '대항'하는 문화가 기능하고 있는가 찾아보자. 없다."
+	},
+	{
+		"created_at": "Tue Aug 14 04:15:20 +0000 2018",
+		"id": 1029219900756119600,
+		"id_str": "1029219900756119552",
+		"full_text": "우노 쓰네히로가 쓴 &lt;포스트 제로년대의 상상력&gt;에서 발췌\n\"카운터 컬쳐는 이미 성립하지 않게 된 회로다. 큰 이야기가 효력을 잃은 현대에서, 비록 상대적으로 메이저한 작품을 마이너한 작품의 입장에서 비판했다고 해도, 그것이 위계의 하위에서 상위를 비판하는 것은 되지 않는다.\" (계속)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816206954926223400,
+			"id_str": "816206954926223360",
+			"name": "椎名体夜気 ; 드람뷔",
+			"screen_name": "drambuiezuki",
+			"location": "",
+			"description": "시이나 타이야키 / 서브컬쳐 이야기 주로 다룰 예정 / 실질적 비활 / drambuie",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51,
+			"friends_count": 162,
+			"listed_count": 0,
+			"created_at": "Tue Jan 03 08:57:57 +0000 2017",
+			"favourites_count": 186,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 175,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1046419694012362752/TUcWE2yS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046419694012362752/TUcWE2yS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816206954926223360/1536900414",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "우노 쓰네히로가 쓴 &lt;포스트 제로년대의 상상력&gt;에서 발췌\n\"카운터 컬쳐는 이미 성립하지 않게 된 회로다. 큰 이야기가 효력을 잃은 현대에서, 비록 상대적으로 메이저한 작품을 마이너한 작품의 입장에서 비판했다고 해도, 그것이 위계의 하위에서 상위를 비판하는 것은 되지 않는다.\" (계속)"
+	},
+	{
+		"created_at": "Wed Sep 12 22:48:58 +0000 2018",
+		"id": 1040009400348422100,
+		"id_str": "1040009400348422144",
+		"full_text": "\"스콜라 철학은 ‘철학은 신학의 시녀이다.’란 표현으로 설명할 수 있다. 여기서 철학은 다름 아닌 ‘아리스토텔레스’의 철학을 의미한다. 즉, 언제까지 (그의) 철학을 금기시할 수 없던 교회에서 입장을 바꾸어 철학과 신학의 종합을 시도했던 것이 ‘스콜라 철학’이라 말할 수 있다. \"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 77,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1819,367 +1792,100 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "\"스콜라 철학은 ‘철학은 신학의 시녀이다.’란 표현으로 설명할 수 있다. 여기서 철학은 다름 아닌 ‘아리스토텔레스’의 철학을 의미한다. 즉, 언제까지 (그의) 철학을 금기시할 수 없던 교회에서 입장을 바꾸어 철학과 신학의 종합을 시도했던 것이 ‘스콜라 철학’이라 말할 수 있다. \""
 	},
 	{
-		"created_at": "Fri Sep 21 10:09:43 +0000 2018",
-		"id": 1043079820739924000,
-		"id_str": "1043079820739923968",
-		"text": "RT @drambuiezuki: 오카다의 인식이 반은 맞고 반은 틀린데, 이는 더이상 메인컬쳐 vs 카운터컬쳐라는 대립이 성립하지 못하고 모든 문화가 서브컬쳐로 조락했기 때문이다. 현대 사회에 대체 뭐가 '메인 컬쳐'이고 그것에 '대항'하는 문화가…",
+		"created_at": "Tue Jan 09 03:38:23 +0000 2018",
+		"id": 950572431147548700,
+		"id_str": "950572431147548673",
+		"full_text": "17세기 초 아리스토텔레스의 힘은 막강했는데 무슨 이야길 해도 앞에 그의 이름을 붙이면(Teacher said) 진실로 통할 정도였음 기존 학자들이 만들어놓은 분야가 무작정 진실로 통하던 이런 중세 스콜라, 연역적 세계는 베이컨이 과학적 방법론, 귀납법과 함께 '극장의 우상'을 비판하며 끝나게 되죠 https://t.co/9sO5iQpl7L",
 		"truncated": false,
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "drambuiezuki",
-					"name": "椎名苦理 ; 드람뷔",
-					"id": 816206954926223400,
-					"id_str": "816206954926223360",
-					"indices": [
-						3,
-						16
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 3255599052,
-			"id_str": "3255599052",
-			"name": "Solitude [동결:11/20~]",
-			"screen_name": "EmptyKnK",
-			"location": "",
-			"description": "탄식하라,  덧없이 흩어지고 말리라",
-			"url": null,
-			"entities": {
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
-			"listed_count": 0,
-			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1097,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 10831,
-			"lang": "ko",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
-			"profile_link_color": "1DA1F2",
-			"profile_sidebar_border_color": "C0DEED",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": true,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Mon Aug 13 17:40:22 +0000 2018",
-			"id": 1029060103930933200,
-			"id_str": "1029060103930933248",
-			"text": "오카다의 인식이 반은 맞고 반은 틀린데, 이는 더이상 메인컬쳐 vs 카운터컬쳐라는 대립이 성립하지 못하고 모든 문화가 서브컬쳐로 조락했기 때문이다. 현대 사회에 대체 뭐가 '메인 컬쳐'이고 그것에 '대항'하는 문화가 기능하고 있는가 찾아보자. 없다.",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": []
-			},
-			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-			"in_reply_to_status_id": 1029058648603951100,
-			"in_reply_to_status_id_str": "1029058648603951104",
-			"in_reply_to_user_id": 816206954926223400,
-			"in_reply_to_user_id_str": "816206954926223360",
-			"in_reply_to_screen_name": "drambuiezuki",
-			"user": {
-				"id": 816206954926223400,
-				"id_str": "816206954926223360",
-				"name": "椎名苦理 ; 드람뷔",
-				"screen_name": "drambuiezuki",
-				"location": "",
-				"description": "시이나 쿠리 / 서브컬쳐 이야기 주로 다룰 예정 / 실질적 비활 / drambuie",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 47,
-				"friends_count": 155,
-				"listed_count": 0,
-				"created_at": "Tue Jan 03 08:57:57 +0000 2017",
-				"favourites_count": 167,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 134,
-				"lang": "ko",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "000000",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1040461808035749888/-SoFg8_-_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040461808035749888/-SoFg8_-_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/816206954926223360/1536900414",
-				"profile_link_color": "ABB8C2",
-				"profile_sidebar_border_color": "000000",
-				"profile_sidebar_fill_color": "000000",
-				"profile_text_color": "000000",
-				"profile_use_background_image": false,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 1,
-			"favorite_count": 0,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "ko"
-		},
-		"is_quote_status": false,
-		"retweet_count": 1,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": true,
-		"lang": "ko"
-	},
-	{
-		"created_at": "Fri Sep 21 10:09:36 +0000 2018",
-		"id": 1043079792109580300,
-		"id_str": "1043079792109580290",
-		"text": "RT @drambuiezuki: 우노 쓰네히로가 쓴 &lt;포스트 제로년대의 상상력&gt;에서 발췌\n\"카운터 컬쳐는 이미 성립하지 않게 된 회로다. 큰 이야기가 효력을 잃은 현대에서, 비록 상대적으로 메이저한 작품을 마이너한 작품의 입장에서 비판했다고 해도,…",
-		"truncated": false,
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "drambuiezuki",
-					"name": "椎名苦理 ; 드람뷔",
-					"id": 816206954926223400,
-					"id_str": "816206954926223360",
-					"indices": [
-						3,
-						16
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 3255599052,
-			"id_str": "3255599052",
-			"name": "Solitude [동결:11/20~]",
-			"screen_name": "EmptyKnK",
-			"location": "",
-			"description": "탄식하라,  덧없이 흩어지고 말리라",
-			"url": null,
-			"entities": {
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
-			"listed_count": 0,
-			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1097,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 10831,
-			"lang": "ko",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
-			"profile_link_color": "1DA1F2",
-			"profile_sidebar_border_color": "C0DEED",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": true,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Tue Aug 14 04:15:20 +0000 2018",
-			"id": 1029219900756119600,
-			"id_str": "1029219900756119552",
-			"text": "우노 쓰네히로가 쓴 &lt;포스트 제로년대의 상상력&gt;에서 발췌\n\"카운터 컬쳐는 이미 성립하지 않게 된 회로다. 큰 이야기가 효력을 잃은 현대에서, 비록 상대적으로 메이저한 작품을 마이너한 작품의 입장에서 비판했다… https://t.co/sf98vfwwOA",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/sf98vfwwOA",
-						"expanded_url": "https://twitter.com/i/web/status/1029219900756119552",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							123,
-							146
-						]
-					}
-				]
-			},
-			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 816206954926223400,
-				"id_str": "816206954926223360",
-				"name": "椎名苦理 ; 드람뷔",
-				"screen_name": "drambuiezuki",
-				"location": "",
-				"description": "시이나 쿠리 / 서브컬쳐 이야기 주로 다룰 예정 / 실질적 비활 / drambuie",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 47,
-				"friends_count": 155,
-				"listed_count": 0,
-				"created_at": "Tue Jan 03 08:57:57 +0000 2017",
-				"favourites_count": 167,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 134,
-				"lang": "ko",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "000000",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1040461808035749888/-SoFg8_-_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040461808035749888/-SoFg8_-_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/816206954926223360/1536900414",
-				"profile_link_color": "ABB8C2",
-				"profile_sidebar_border_color": "000000",
-				"profile_sidebar_fill_color": "000000",
-				"profile_text_color": "000000",
-				"profile_use_background_image": false,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 7,
-			"favorite_count": 10,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "ko"
-		},
-		"is_quote_status": false,
-		"retweet_count": 7,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": true,
-		"lang": "ko"
-	},
-	{
-		"created_at": "Wed Sep 12 22:48:58 +0000 2018",
-		"id": 1040009400348422100,
-		"id_str": "1040009400348422144",
-		"text": "\"스콜라 철학은 ‘철학은 신학의 시녀이다.’란 표현으로 설명할 수 있다. 여기서 철학은 다름 아닌 ‘아리스토텔레스’의 철학을 의미한다. 즉, 언제까지 (그의) 철학을 금기시할 수 없던 교회에서 입장을 바꾸어… https://t.co/0emUMkr8lX",
-		"truncated": true,
+		"display_text_range": [
+			0,
+			167
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
+			"urls": [],
+			"media": [
 				{
-					"url": "https://t.co/0emUMkr8lX",
-					"expanded_url": "https://twitter.com/i/web/status/1040009400348422144",
-					"display_url": "twitter.com/i/web/status/1…",
+					"id": 950572250284965900,
+					"id_str": "950572250284965888",
 					"indices": [
-						117,
-						140
-					]
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/DTEcbN-UQAA6D6O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTEcbN-UQAA6D6O.jpg",
+					"url": "https://t.co/9sO5iQpl7L",
+					"display_url": "pic.twitter.com/9sO5iQpl7L",
+					"expanded_url": "https://twitter.com/alphacat__/status/950572431147548673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 721,
+							"h": 853,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 721,
+							"h": 853,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 575,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 950572250284965900,
+					"id_str": "950572250284965888",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/DTEcbN-UQAA6D6O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DTEcbN-UQAA6D6O.jpg",
+					"url": "https://t.co/9sO5iQpl7L",
+					"display_url": "pic.twitter.com/9sO5iQpl7L",
+					"expanded_url": "https://twitter.com/alphacat__/status/950572431147548673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 721,
+							"h": 853,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 721,
+							"h": 853,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 575,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
 				}
 			]
 		},
@@ -2190,135 +1896,59 @@ Grailbird.data.tweets_2018_09 =
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 3255599052,
-			"id_str": "3255599052",
-			"name": "Solitude [동결:11/20~]",
-			"screen_name": "EmptyKnK",
-			"location": "",
-			"description": "탄식하라,  덧없이 흩어지고 말리라",
-			"url": null,
+			"id": 401963818,
+			"id_str": "401963818",
+			"name": "알파캣",
+			"screen_name": "alphacat__",
+			"location": "liberté",
+			"description": "Yerin W.",
+			"url": "https://t.co/NElCT9E83G",
 			"entities": {
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
-			"listed_count": 0,
-			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1097,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 10836,
-			"lang": "ko",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
-			"profile_link_color": "1DA1F2",
-			"profile_sidebar_border_color": "C0DEED",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": true,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "ko"
-	},
-	{
-		"created_at": "Wed Sep 12 22:47:22 +0000 2018",
-		"id": 1040008999511285800,
-		"id_str": "1040008999511285763",
-		"text": "RT @alphacat__: 17세기 초 아리스토텔레스의 힘은 막강했는데 무슨 이야길 해도 앞에 그의 이름을 붙이면(Teacher said) 진실로 통할 정도였음 기존 학자들이 만들어놓은 분야가 무작정 진실로 통하던 이런 중세 스콜라, 연역적 세계는…",
-		"truncated": false,
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "alphacat__",
-					"name": "알파캣",
-					"id": 401963818,
-					"id_str": "401963818",
-					"indices": [
-						3,
-						14
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NElCT9E83G",
+							"expanded_url": "http://cafe.naver.com/flintlockmusketfan",
+							"display_url": "cafe.naver.com/flintlockmuske…",
+							"indices": [
+								0,
+								23
+							]
+						}
 					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 3255599052,
-			"id_str": "3255599052",
-			"name": "Solitude [동결:11/20~]",
-			"screen_name": "EmptyKnK",
-			"location": "",
-			"description": "탄식하라,  덧없이 흩어지고 말리라",
-			"url": null,
-			"entities": {
+				},
 				"description": {
 					"urls": []
 				}
 			},
-			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
-			"listed_count": 0,
-			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1097,
+			"protected": false,
+			"followers_count": 1641,
+			"friends_count": 36,
+			"listed_count": 12,
+			"created_at": "Mon Oct 31 10:42:56 +0000 2011",
+			"favourites_count": 3595,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10836,
+			"statuses_count": 3919,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
+			"profile_background_color": "FFFFFF",
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
-			"profile_link_color": "1DA1F2",
-			"profile_sidebar_border_color": "C0DEED",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060819058403139584/3tr9Q0gQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060819058403139584/3tr9Q0gQ_normal.jpg",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "FFFFFF",
 			"profile_sidebar_fill_color": "DDEEF6",
 			"profile_text_color": "333333",
 			"profile_use_background_image": true,
 			"has_extended_profile": false,
-			"default_profile": true,
+			"default_profile": false,
 			"default_profile_image": false,
 			"following": false,
 			"follow_request_sent": false,
@@ -2329,119 +1959,25 @@ Grailbird.data.tweets_2018_09 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Tue Jan 09 03:38:23 +0000 2018",
-			"id": 950572431147548700,
-			"id_str": "950572431147548673",
-			"text": "17세기 초 아리스토텔레스의 힘은 막강했는데 무슨 이야길 해도 앞에 그의 이름을 붙이면(Teacher said) 진실로 통할 정도였음 기존 학자들이 만들어놓은 분야가 무작정 진실로 통하던 이런 중세 스콜라,… https://t.co/ZK0iclp5Nm",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/ZK0iclp5Nm",
-						"expanded_url": "https://twitter.com/i/web/status/950572431147548673",
-						"display_url": "twitter.com/i/web/status/9…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 401963818,
-				"id_str": "401963818",
-				"name": "알파캣",
-				"screen_name": "alphacat__",
-				"location": "liberté",
-				"description": "Yerin W.",
-				"url": "https://t.co/NElCT9E83G",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/NElCT9E83G",
-								"expanded_url": "http://cafe.naver.com/flintlockmusketfan",
-								"display_url": "cafe.naver.com/flintlockmuske…",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 1653,
-				"friends_count": 40,
-				"listed_count": 12,
-				"created_at": "Mon Oct 31 10:42:56 +0000 2011",
-				"favourites_count": 3621,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 3774,
-				"lang": "ko",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "FFFFFF",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1036282642524561411/2zodsbGC_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1036282642524561411/2zodsbGC_normal.jpg",
-				"profile_link_color": "91D2FA",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 31,
-			"favorite_count": 20,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "ko"
-		},
 		"is_quote_status": false,
 		"retweet_count": 31,
-		"favorite_count": 0,
+		"favorite_count": 20,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "ko"
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "17세기 초 아리스토텔레스의 힘은 막강했는데 무슨 이야길 해도 앞에 그의 이름을 붙이면(Teacher said) 진실로 통할 정도였음 기존 학자들이 만들어놓은 분야가 무작정 진실로 통하던 이런 중세 스콜라, 연역적 세계는 베이컨이 과학적 방법론, 귀납법과 함께 '극장의 우상'을 비판하며 끝나게 되죠 https://t.co/9sO5iQpl7L"
 	},
 	{
 		"created_at": "Sun Sep 09 21:49:07 +0000 2018",
 		"id": 1038907175798636500,
 		"id_str": "1038907175798636545",
-		"text": "\"우리 나라의 풍속이 외친(外親)도 동성(同姓)과 다름없이 중히 여기는 까닭으로 6촌까지 분경을 금하였으니, 이제부터는 외친 6촌이면 서로 혼인하는 것을 허락하지 말라.\" 성종 2년(1471)\n\n이제 알았는데 외친에 한해선 한국이 조선보다 엄격하네요.",
+		"full_text": "\"우리 나라의 풍속이 외친(外親)도 동성(同姓)과 다름없이 중히 여기는 까닭으로 6촌까지 분경을 금하였으니, 이제부터는 외친 6촌이면 서로 혼인하는 것을 허락하지 말라.\" 성종 2년(1471)\n\n이제 알았는데 외친에 한해선 한국이 조선보다 엄격하네요.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -2468,16 +2004,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1097,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10836,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2511,14 +2047,19 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "\"우리 나라의 풍속이 외친(外親)도 동성(同姓)과 다름없이 중히 여기는 까닭으로 6촌까지 분경을 금하였으니, 이제부터는 외친 6촌이면 서로 혼인하는 것을 허락하지 말라.\" 성종 2년(1471)\n\n이제 알았는데 외친에 한해선 한국이 조선보다 엄격하네요."
 	},
 	{
 		"created_at": "Sat Sep 08 12:31:41 +0000 2018",
 		"id": 1038404507703504900,
 		"id_str": "1038404507703504898",
-		"text": "@sayanghwa 강자 X 아웃사이더 O (법관 같은 직업적 태도는 별론)",
+		"full_text": "@sayanghwa 강자 X 아웃사이더 O (법관 같은 직업적 태도는 별론)",
 		"truncated": false,
+		"display_text_range": [
+			11,
+			42
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -2556,16 +2097,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1097,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10835,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2599,14 +2140,19 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "@sayanghwa 강자 X 아웃사이더 O (법관 같은 직업적 태도는 별론)"
 	},
 	{
 		"created_at": "Sat Sep 08 11:54:14 +0000 2018",
 		"id": 1038395080954982400,
 		"id_str": "1038395080954982400",
-		"text": "우아할 수 있는 상류층과 달리 기울어진 판을 뒤집기 위해 악을 쓰는 하류층은 공감 없이 이성으로 대하는 관찰자에겐 불리한 판정을 받기 십상.",
+		"full_text": "우아할 수 있는 상류층과 달리 기울어진 판을 뒤집기 위해 악을 쓰는 하류층은 공감 없이 이성으로 대하는 관찰자에겐 불리한 판정을 받기 십상.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -2633,16 +2179,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1097,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10834,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2676,14 +2222,19 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "우아할 수 있는 상류층과 달리 기울어진 판을 뒤집기 위해 악을 쓰는 하류층은 공감 없이 이성으로 대하는 관찰자에겐 불리한 판정을 받기 십상."
 	},
 	{
 		"created_at": "Sat Sep 08 11:51:57 +0000 2018",
 		"id": 1038394505265737700,
 		"id_str": "1038394505265737728",
-		"text": "한편으론 보수적이고 한편으론 초월적인 안 좋은 태도인데... 사실 저 입시 테두리 바깥으로 나간다고 해도 또 다른 생존경쟁이 기다리는 것은 마찬가지기에 보수적으로 될 수밖에 없네요.",
+		"full_text": "한편으론 보수적이고 한편으론 초월적인 안 좋은 태도인데... 사실 저 입시 테두리 바깥으로 나간다고 해도 또 다른 생존경쟁이 기다리는 것은 마찬가지기에 보수적으로 될 수밖에 없네요.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -2710,16 +2261,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1097,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10834,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2753,14 +2304,19 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "한편으론 보수적이고 한편으론 초월적인 안 좋은 태도인데... 사실 저 입시 테두리 바깥으로 나간다고 해도 또 다른 생존경쟁이 기다리는 것은 마찬가지기에 보수적으로 될 수밖에 없네요."
 	},
 	{
 		"created_at": "Sat Sep 08 11:36:50 +0000 2018",
 		"id": 1038390703754117100,
 		"id_str": "1038390703754117120",
-		"text": "디자이너 베이비가 나오는 순간, 근현대의 약 2세기는 인류사상 극히 예외적인 (가치관의) 시기로 취급될 거라 생각해요.",
+		"full_text": "디자이너 베이비가 나오는 순간, 근현대의 약 2세기는 인류사상 극히 예외적인 (가치관의) 시기로 취급될 거라 생각해요.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -2787,16 +2343,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1097,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10834,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2830,14 +2386,19 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "디자이너 베이비가 나오는 순간, 근현대의 약 2세기는 인류사상 극히 예외적인 (가치관의) 시기로 취급될 거라 생각해요."
 	},
 	{
 		"created_at": "Sat Sep 08 11:34:26 +0000 2018",
 		"id": 1038390098499436500,
 		"id_str": "1038390098499436544",
-		"text": "@sayanghwa 하루 빨리 디자이너 베이비가 보급되어 이 능력주의의 지옥을 선도하길 기대하고 있어요. #아무말",
+		"full_text": "@sayanghwa 하루 빨리 디자이너 베이비가 보급되어 이 능력주의의 지옥을 선도하길 기대하고 있어요. #아무말",
 		"truncated": false,
+		"display_text_range": [
+			11,
+			63
+		],
 		"entities": {
 			"hashtags": [
 				{
@@ -2883,16 +2444,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1097,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10834,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2926,964 +2487,19 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
-	},
-	{
-		"created_at": "Sat Sep 08 11:28:14 +0000 2018",
-		"id": 1038388540013346800,
-		"id_str": "1038388540013346816",
-		"text": "RT @diskcable: 저들이 살아남으면 능력주의의 연대 속에서 만나게 될 수도 있을 거라는 어렴풋한 예상이 있는데 스레드로 잇기에는 좀 그렇지 않을까 해서...",
-		"truncated": false,
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "diskcable",
-					"name": "ㅤ",
-					"id": 844704924780970000,
-					"id_str": "844704924780969984",
-					"indices": [
-						3,
-						13
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 3255599052,
-			"id_str": "3255599052",
-			"name": "Solitude [동결:11/20~]",
-			"screen_name": "EmptyKnK",
-			"location": "",
-			"description": "탄식하라,  덧없이 흩어지고 말리라",
-			"url": null,
-			"entities": {
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
-			"listed_count": 0,
-			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1097,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 10834,
-			"lang": "ko",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
-			"profile_link_color": "1DA1F2",
-			"profile_sidebar_border_color": "C0DEED",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": true,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Sat Sep 08 09:53:16 +0000 2018",
-			"id": 1038364638499369000,
-			"id_str": "1038364638499368960",
-			"text": "저들이 살아남으면 능력주의의 연대 속에서 만나게 될 수도 있을 거라는 어렴풋한 예상이 있는데 스레드로 잇기에는 좀 그렇지 않을까 해서...",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": []
-			},
-			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 844704924780970000,
-				"id_str": "844704924780969984",
-				"name": "ㅤ",
-				"screen_name": "diskcable",
-				"location": "",
-				"description": "",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 6,
-				"friends_count": 72,
-				"listed_count": 0,
-				"created_at": "Thu Mar 23 00:18:42 +0000 2017",
-				"favourites_count": 0,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 362,
-				"lang": "ko",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "F5F8FA",
-				"profile_background_image_url": null,
-				"profile_background_image_url_https": null,
-				"profile_background_tile": false,
-				"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
-				"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": true,
-				"default_profile_image": true,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 1,
-			"favorite_count": 0,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "ko"
-		},
-		"is_quote_status": false,
-		"retweet_count": 1,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": true,
-		"lang": "ko"
-	},
-	{
-		"created_at": "Sat Sep 08 11:28:10 +0000 2018",
-		"id": 1038388519893225500,
-		"id_str": "1038388519893225472",
-		"text": "RT @diskcable: 같은 구조를 공유하는 처지이기 때문에 갈등은 의자뺏기 게임에 참여한 플레이어들간의 것이므로 비판은 유명 학원가와 그외 지역이라는 환경 차이같은 것에 국한될 수밖에 없다.",
-		"truncated": false,
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "diskcable",
-					"name": "ㅤ",
-					"id": 844704924780970000,
-					"id_str": "844704924780969984",
-					"indices": [
-						3,
-						13
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 3255599052,
-			"id_str": "3255599052",
-			"name": "Solitude [동결:11/20~]",
-			"screen_name": "EmptyKnK",
-			"location": "",
-			"description": "탄식하라,  덧없이 흩어지고 말리라",
-			"url": null,
-			"entities": {
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
-			"listed_count": 0,
-			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1097,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 10834,
-			"lang": "ko",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
-			"profile_link_color": "1DA1F2",
-			"profile_sidebar_border_color": "C0DEED",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": true,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Sat Sep 08 09:47:53 +0000 2018",
-			"id": 1038363285177823200,
-			"id_str": "1038363285177823232",
-			"text": "같은 구조를 공유하는 처지이기 때문에 갈등은 의자뺏기 게임에 참여한 플레이어들간의 것이므로 비판은 유명 학원가와 그외 지역이라는 환경 차이같은 것에 국한될 수밖에 없다.",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": []
-			},
-			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-			"in_reply_to_status_id": 1038361785412116500,
-			"in_reply_to_status_id_str": "1038361785412116480",
-			"in_reply_to_user_id": 844704924780970000,
-			"in_reply_to_user_id_str": "844704924780969984",
-			"in_reply_to_screen_name": "diskcable",
-			"user": {
-				"id": 844704924780970000,
-				"id_str": "844704924780969984",
-				"name": "ㅤ",
-				"screen_name": "diskcable",
-				"location": "",
-				"description": "",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 6,
-				"friends_count": 72,
-				"listed_count": 0,
-				"created_at": "Thu Mar 23 00:18:42 +0000 2017",
-				"favourites_count": 0,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 362,
-				"lang": "ko",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "F5F8FA",
-				"profile_background_image_url": null,
-				"profile_background_image_url_https": null,
-				"profile_background_tile": false,
-				"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
-				"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": true,
-				"default_profile_image": true,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 7,
-			"favorite_count": 0,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "ko"
-		},
-		"is_quote_status": false,
-		"retweet_count": 7,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": true,
-		"lang": "ko"
-	},
-	{
-		"created_at": "Sat Sep 08 11:28:05 +0000 2018",
-		"id": 1038388499550851100,
-		"id_str": "1038388499550851072",
-		"text": "RT @diskcable: https://t.co/R0CYtfTluV 상위권 대학에 진입해야 겨우 어디 가서 명함을 내밀고 다닐 수 있다고 여겨지는 상황에서 함부로 체제 밖으로 탈주했다가는 앞으로의 인생을 장담할 수 없기에 모두의 전제는 대학 진학으…",
-		"truncated": false,
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "diskcable",
-					"name": "ㅤ",
-					"id": 844704924780970000,
-					"id_str": "844704924780969984",
-					"indices": [
-						3,
-						13
-					]
-				}
-			],
-			"urls": [
-				{
-					"url": "https://t.co/R0CYtfTluV",
-					"expanded_url": "https://twitter.com/ds62hg/status/1038355926275710976",
-					"display_url": "twitter.com/ds62hg/status/…",
-					"indices": [
-						15,
-						38
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 3255599052,
-			"id_str": "3255599052",
-			"name": "Solitude [동결:11/20~]",
-			"screen_name": "EmptyKnK",
-			"location": "",
-			"description": "탄식하라,  덧없이 흩어지고 말리라",
-			"url": null,
-			"entities": {
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
-			"listed_count": 0,
-			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1097,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 10834,
-			"lang": "ko",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
-			"profile_link_color": "1DA1F2",
-			"profile_sidebar_border_color": "C0DEED",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": true,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Sat Sep 08 09:41:56 +0000 2018",
-			"id": 1038361785412116500,
-			"id_str": "1038361785412116480",
-			"text": "https://t.co/R0CYtfTluV 상위권 대학에 진입해야 겨우 어디 가서 명함을 내밀고 다닐 수 있다고 여겨지는 상황에서 함부로 체제 밖으로 탈주했다가는 앞으로의 인생을 장담할 수 없기에 모두의 전… https://t.co/lxn724kAiM",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/R0CYtfTluV",
-						"expanded_url": "https://twitter.com/ds62hg/status/1038355926275710976",
-						"display_url": "twitter.com/ds62hg/status/…",
-						"indices": [
-							0,
-							23
-						]
-					},
-					{
-						"url": "https://t.co/lxn724kAiM",
-						"expanded_url": "https://twitter.com/i/web/status/1038361785412116480",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
-			},
-			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-			"in_reply_to_status_id": 1038360471491895300,
-			"in_reply_to_status_id_str": "1038360471491895296",
-			"in_reply_to_user_id": 844704924780970000,
-			"in_reply_to_user_id_str": "844704924780969984",
-			"in_reply_to_screen_name": "diskcable",
-			"user": {
-				"id": 844704924780970000,
-				"id_str": "844704924780969984",
-				"name": "ㅤ",
-				"screen_name": "diskcable",
-				"location": "",
-				"description": "",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 6,
-				"friends_count": 72,
-				"listed_count": 0,
-				"created_at": "Thu Mar 23 00:18:42 +0000 2017",
-				"favourites_count": 0,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 362,
-				"lang": "ko",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "F5F8FA",
-				"profile_background_image_url": null,
-				"profile_background_image_url_https": null,
-				"profile_background_tile": false,
-				"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
-				"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": true,
-				"default_profile_image": true,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": true,
-			"quoted_status_id": 1038355926275711000,
-			"quoted_status_id_str": "1038355926275710976",
-			"quoted_status": {
-				"created_at": "Sat Sep 08 09:18:39 +0000 2018",
-				"id": 1038355926275711000,
-				"id_str": "1038355926275710976",
-				"text": "저런 이야기에 요즘은 \"그렇게 공부하고 싶어도 못하는 환경의 사람들이 많다\"는 반응이 붙던데 옛날에는 \"그건 아이를 위한 공부가 아니라 학대다\"란 반응이 많지 않았나... 이제 다들 그렇게 공부하는 것 자체는 당연하다고 생각하는 건가??",
-				"truncated": false,
-				"entities": {
-					"hashtags": [],
-					"symbols": [],
-					"user_mentions": [],
-					"urls": []
-				},
-				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-				"in_reply_to_status_id": null,
-				"in_reply_to_status_id_str": null,
-				"in_reply_to_user_id": null,
-				"in_reply_to_user_id_str": null,
-				"in_reply_to_screen_name": null,
-				"user": {
-					"id": 474560000,
-					"id_str": "474560000",
-					"name": "[민트초코 숏컷모에러]셸먼",
-					"screen_name": "ds62hg",
-					"location": "대한민국 서울",
-					"description": "넓게 편향된 취미생활:TRPG/ORPG/만화애니게임소설라이트노벨/페그오/걸판/데레스테 코우메P/숏컷모에/고양이 기릅니다. 플픽 @codengchiki 님 / 해더 @Find_me_mw 님 / 고어계 @necrods62",
-					"url": "https://t.co/Gw8FAdcslo",
-					"entities": {
-						"url": {
-							"urls": [
-								{
-									"url": "https://t.co/Gw8FAdcslo",
-									"expanded_url": "http://tPfajs.egloos.com",
-									"display_url": "tPfajs.egloos.com",
-									"indices": [
-										0,
-										23
-									]
-								}
-							]
-						},
-						"description": {
-							"urls": []
-						}
-					},
-					"protected": false,
-					"followers_count": 1627,
-					"friends_count": 1847,
-					"listed_count": 27,
-					"created_at": "Thu Jan 26 03:36:38 +0000 2012",
-					"favourites_count": 2755,
-					"utc_offset": null,
-					"time_zone": null,
-					"geo_enabled": false,
-					"verified": false,
-					"statuses_count": 124376,
-					"lang": "ko",
-					"contributors_enabled": false,
-					"is_translator": false,
-					"is_translation_enabled": false,
-					"profile_background_color": "000000",
-					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-					"profile_background_tile": true,
-					"profile_image_url": "http://pbs.twimg.com/profile_images/945304753835098112/utrpPQZ4_normal.jpg",
-					"profile_image_url_https": "https://pbs.twimg.com/profile_images/945304753835098112/utrpPQZ4_normal.jpg",
-					"profile_banner_url": "https://pbs.twimg.com/profile_banners/474560000/1532097969",
-					"profile_link_color": "3B94D9",
-					"profile_sidebar_border_color": "000000",
-					"profile_sidebar_fill_color": "000000",
-					"profile_text_color": "000000",
-					"profile_use_background_image": true,
-					"has_extended_profile": false,
-					"default_profile": false,
-					"default_profile_image": false,
-					"following": false,
-					"follow_request_sent": false,
-					"notifications": false,
-					"translator_type": "none"
-				},
-				"geo": null,
-				"coordinates": null,
-				"place": null,
-				"contributors": null,
-				"is_quote_status": false,
-				"retweet_count": 2,
-				"favorite_count": 2,
-				"favorited": false,
-				"retweeted": false,
-				"lang": "ko"
-			},
-			"retweet_count": 11,
-			"favorite_count": 1,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "ko"
-		},
-		"is_quote_status": true,
-		"quoted_status_id": 1038355926275711000,
-		"quoted_status_id_str": "1038355926275710976",
-		"retweet_count": 11,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "ko"
-	},
-	{
-		"created_at": "Sat Sep 08 11:28:01 +0000 2018",
-		"id": 1038388482249351200,
-		"id_str": "1038388482249351168",
-		"text": "RT @diskcable: https://t.co/5dydxW6vQK\nhttps://t.co/WlPeBaNbre\nhttps://t.co/8sCqrfNmMj\n주목받는 화려한 환경에서도 고생은 고생이라는 이야기와 특정 환경에 모든 자본이 집중된 불균형…",
-		"truncated": false,
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "diskcable",
-					"name": "ㅤ",
-					"id": 844704924780970000,
-					"id_str": "844704924780969984",
-					"indices": [
-						3,
-						13
-					]
-				}
-			],
-			"urls": [
-				{
-					"url": "https://t.co/5dydxW6vQK",
-					"expanded_url": "https://twitter.com/wonderful9exo/status/1034838059945095168",
-					"display_url": "twitter.com/wonderful9exo/…",
-					"indices": [
-						15,
-						38
-					]
-				},
-				{
-					"url": "https://t.co/WlPeBaNbre",
-					"expanded_url": "https://twitter.com/c331uFZae2qaxe7/status/1038340908595310592",
-					"display_url": "twitter.com/c331uFZae2qaxe…",
-					"indices": [
-						39,
-						62
-					]
-				},
-				{
-					"url": "https://t.co/8sCqrfNmMj",
-					"expanded_url": "https://twitter.com/where_yourbrain/status/1038338554768674816",
-					"display_url": "twitter.com/where_yourbrai…",
-					"indices": [
-						63,
-						86
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 3255599052,
-			"id_str": "3255599052",
-			"name": "Solitude [동결:11/20~]",
-			"screen_name": "EmptyKnK",
-			"location": "",
-			"description": "탄식하라,  덧없이 흩어지고 말리라",
-			"url": null,
-			"entities": {
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
-			"listed_count": 0,
-			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1097,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 10834,
-			"lang": "ko",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
-			"profile_link_color": "1DA1F2",
-			"profile_sidebar_border_color": "C0DEED",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": true,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Sat Sep 08 09:36:42 +0000 2018",
-			"id": 1038360471491895300,
-			"id_str": "1038360471491895296",
-			"text": "https://t.co/5dydxW6vQK\nhttps://t.co/WlPeBaNbre\nhttps://t.co/8sCqrfNmMj\n주목받는 화려한 환경에서도 고생은 고생이라는 이야기와 특정 환경에 모든 자본이… https://t.co/TFd6LkDyMf",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/5dydxW6vQK",
-						"expanded_url": "https://twitter.com/wonderful9exo/status/1034838059945095168",
-						"display_url": "twitter.com/wonderful9exo/…",
-						"indices": [
-							0,
-							23
-						]
-					},
-					{
-						"url": "https://t.co/WlPeBaNbre",
-						"expanded_url": "https://twitter.com/c331uFZae2qaxe7/status/1038340908595310592",
-						"display_url": "twitter.com/c331uFZae2qaxe…",
-						"indices": [
-							24,
-							47
-						]
-					},
-					{
-						"url": "https://t.co/8sCqrfNmMj",
-						"expanded_url": "https://twitter.com/where_yourbrain/status/1038338554768674816",
-						"display_url": "twitter.com/where_yourbrai…",
-						"indices": [
-							48,
-							71
-						]
-					},
-					{
-						"url": "https://t.co/TFd6LkDyMf",
-						"expanded_url": "https://twitter.com/i/web/status/1038360471491895296",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
-			},
-			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 844704924780970000,
-				"id_str": "844704924780969984",
-				"name": "ㅤ",
-				"screen_name": "diskcable",
-				"location": "",
-				"description": "",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 6,
-				"friends_count": 72,
-				"listed_count": 0,
-				"created_at": "Thu Mar 23 00:18:42 +0000 2017",
-				"favourites_count": 0,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 362,
-				"lang": "ko",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "F5F8FA",
-				"profile_background_image_url": null,
-				"profile_background_image_url_https": null,
-				"profile_background_tile": false,
-				"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
-				"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": true,
-				"default_profile_image": true,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": true,
-			"quoted_status_id": 1038338554768674800,
-			"quoted_status_id_str": "1038338554768674816",
-			"quoted_status": {
-				"created_at": "Sat Sep 08 08:09:37 +0000 2018",
-				"id": 1038338554768674800,
-				"id_str": "1038338554768674816",
-				"text": "@wonderful9exo 그만큼 경제력이 받쳐주고 높은 수준의 인프라가 그쪽에 집중되어서 가능한 일이라는 건 생각 못하시나요? 여긴 그 정도 수준의 학원가도 없을 뿐더러 경제력도 낮아요 누가 힘든 거 나열… https://t.co/A3nmP4VNTV",
-				"truncated": true,
-				"entities": {
-					"hashtags": [],
-					"symbols": [],
-					"user_mentions": [
-						{
-							"screen_name": "wonderful9exo",
-							"name": "恐龍",
-							"id": 818831601681375200,
-							"id_str": "818831601681375233",
-							"indices": [
-								0,
-								14
-							]
-						}
-					],
-					"urls": [
-						{
-							"url": "https://t.co/A3nmP4VNTV",
-							"expanded_url": "https://twitter.com/i/web/status/1038338554768674816",
-							"display_url": "twitter.com/i/web/status/1…",
-							"indices": [
-								117,
-								140
-							]
-						}
-					]
-				},
-				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-				"in_reply_to_status_id": 1034838059945095200,
-				"in_reply_to_status_id_str": "1034838059945095168",
-				"in_reply_to_user_id": 818831601681375200,
-				"in_reply_to_user_id_str": "818831601681375233",
-				"in_reply_to_screen_name": "wonderful9exo",
-				"user": {
-					"id": 975348469639528400,
-					"id_str": "975348469639528448",
-					"name": "닥쳐",
-					"screen_name": "where_yourbrain",
-					"location": "",
-					"description": "뇌가 있으면 생각을 하란 말이야",
-					"url": null,
-					"entities": {
-						"description": {
-							"urls": []
-						}
-					},
-					"protected": false,
-					"followers_count": 2,
-					"friends_count": 0,
-					"listed_count": 0,
-					"created_at": "Sun Mar 18 12:29:31 +0000 2018",
-					"favourites_count": 0,
-					"utc_offset": null,
-					"time_zone": null,
-					"geo_enabled": false,
-					"verified": false,
-					"statuses_count": 53,
-					"lang": "ko",
-					"contributors_enabled": false,
-					"is_translator": false,
-					"is_translation_enabled": false,
-					"profile_background_color": "F5F8FA",
-					"profile_background_image_url": null,
-					"profile_background_image_url_https": null,
-					"profile_background_tile": false,
-					"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
-					"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
-					"profile_banner_url": "https://pbs.twimg.com/profile_banners/975348469639528448/1525703582",
-					"profile_link_color": "1DA1F2",
-					"profile_sidebar_border_color": "C0DEED",
-					"profile_sidebar_fill_color": "DDEEF6",
-					"profile_text_color": "333333",
-					"profile_use_background_image": true,
-					"has_extended_profile": false,
-					"default_profile": true,
-					"default_profile_image": true,
-					"following": false,
-					"follow_request_sent": false,
-					"notifications": false,
-					"translator_type": "none"
-				},
-				"geo": null,
-				"coordinates": null,
-				"place": null,
-				"contributors": null,
-				"is_quote_status": false,
-				"retweet_count": 266,
-				"favorite_count": 18,
-				"favorited": false,
-				"retweeted": false,
-				"lang": "ko"
-			},
-			"retweet_count": 10,
-			"favorite_count": 0,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "ko"
-		},
-		"is_quote_status": true,
-		"quoted_status_id": 1038338554768674800,
-		"quoted_status_id_str": "1038338554768674816",
-		"retweet_count": 10,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "@sayanghwa 하루 빨리 디자이너 베이비가 보급되어 이 능력주의의 지옥을 선도하길 기대하고 있어요. #아무말"
 	},
 	{
 		"created_at": "Sat Sep 08 11:25:01 +0000 2018",
 		"id": 1038387730189701100,
 		"id_str": "1038387730189701121",
-		"text": "생존경쟁의 아귀다툼과 (약자 포지션 확보를 통한) 그 명분-정당화 싸움에 어쩔 수 없이 냉소적으로 되네요. 체제 내부의 싸움이 무제한적으로 격화된 그 끝에 기다리는 게 무엇인지는 뻔한데도.",
+		"full_text": "생존경쟁의 아귀다툼과 (약자 포지션 확보를 통한) 그 명분-정당화 싸움에 어쩔 수 없이 냉소적으로 되네요. 체제 내부의 싸움이 무제한적으로 격화된 그 끝에 기다리는 게 무엇인지는 뻔한데도.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -3910,16 +2526,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1097,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10834,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3953,14 +2569,19 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "생존경쟁의 아귀다툼과 (약자 포지션 확보를 통한) 그 명분-정당화 싸움에 어쩔 수 없이 냉소적으로 되네요. 체제 내부의 싸움이 무제한적으로 격화된 그 끝에 기다리는 게 무엇인지는 뻔한데도."
 	},
 	{
 		"created_at": "Sat Sep 08 11:20:16 +0000 2018",
 		"id": 1038386533496021000,
 		"id_str": "1038386533496020992",
-		"text": "사회적으로 어디에 가치를 두어 사회 전체의 효율을 높이느냐의 문제는 있을지언정, 사실 선천적 재능이라는 '능력'이나 주어진 환경이라는 '능력'이나 결국 혈통에 근거하긴 마찬가지고, '노력'은 주어진 자질-양육-환경에 결정되니...",
+		"full_text": "사회적으로 어디에 가치를 두어 사회 전체의 효율을 높이느냐의 문제는 있을지언정, 사실 선천적 재능이라는 '능력'이나 주어진 환경이라는 '능력'이나 결국 혈통에 근거하긴 마찬가지고, '노력'은 주어진 자질-양육-환경에 결정되니...",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -3987,16 +2608,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1097,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10834,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4030,14 +2651,19 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "사회적으로 어디에 가치를 두어 사회 전체의 효율을 높이느냐의 문제는 있을지언정, 사실 선천적 재능이라는 '능력'이나 주어진 환경이라는 '능력'이나 결국 혈통에 근거하긴 마찬가지고, '노력'은 주어진 자질-양육-환경에 결정되니..."
 	},
 	{
 		"created_at": "Sat Sep 08 11:10:56 +0000 2018",
 		"id": 1038384184069304300,
 		"id_str": "1038384184069304320",
-		"text": "@sayanghwa 시야가 좁긴 하나 처신의 문제일 뿐, 기실 출신성분에 대한 비난이 정당화된다고 보는 건 너무 피해자/약자 친화적인 한국 특유의 언더도그마네요. 정유라 같은 어그로도 아니고. 저기서 한 발 더 나가서 노력론-능력주의에 닿으면 모를까.",
+		"full_text": "@sayanghwa 시야가 좁긴 하나 처신의 문제일 뿐, 기실 출신성분에 대한 비난이 정당화된다고 보는 건 너무 피해자/약자 친화적인 한국 특유의 언더도그마네요. 정유라 같은 어그로도 아니고. 저기서 한 발 더 나가서 노력론-능력주의에 닿으면 모를까.",
 		"truncated": false,
+		"display_text_range": [
+			11,
+			140
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -4075,16 +2701,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1097,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10824,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4118,14 +2744,19 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "@sayanghwa 시야가 좁긴 하나 처신의 문제일 뿐, 기실 출신성분에 대한 비난이 정당화된다고 보는 건 너무 피해자/약자 친화적인 한국 특유의 언더도그마네요. 정유라 같은 어그로도 아니고. 저기서 한 발 더 나가서 노력론-능력주의에 닿으면 모를까."
 	},
 	{
 		"created_at": "Sat Sep 08 11:01:16 +0000 2018",
 		"id": 1038381752480194600,
 		"id_str": "1038381752480194560",
-		"text": "그 바깥에 존재하는 문학의 고향(근원)과는 다른 맥락의 문제.",
+		"full_text": "그 바깥에 존재하는 문학의 고향(근원)과는 다른 맥락의 문제.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -4152,16 +2783,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1097,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10824,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4195,14 +2826,19 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "그 바깥에 존재하는 문학의 고향(근원)과는 다른 맥락의 문제."
 	},
 	{
 		"created_at": "Sat Sep 08 10:47:41 +0000 2018",
 		"id": 1038378333002592300,
 		"id_str": "1038378333002592256",
-		"text": "확장되지 않는 정형화된 서사-이해(세계관)가 문제이지, 그 자체는 피할 수 없는 일. 더구나 '공감' 또한 많은 경우 위험하고, 여기서 거리를 두고 판단하기 위해선 서사(가치관)가 다시 요청되죠.",
+		"full_text": "확장되지 않는 정형화된 서사-이해(세계관)가 문제이지, 그 자체는 피할 수 없는 일. 더구나 '공감' 또한 많은 경우 위험하고, 여기서 거리를 두고 판단하기 위해선 서사(가치관)가 다시 요청되죠.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -4229,16 +2865,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1097,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10824,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4272,61 +2908,55 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "확장되지 않는 정형화된 서사-이해(세계관)가 문제이지, 그 자체는 피할 수 없는 일. 더구나 '공감' 또한 많은 경우 위험하고, 여기서 거리를 두고 판단하기 위해선 서사(가치관)가 다시 요청되죠."
 	},
 	{
-		"created_at": "Sat Sep 08 10:44:13 +0000 2018",
-		"id": 1038377459354234900,
-		"id_str": "1038377459354234880",
-		"text": "RT @function_not: 남의 고통을 보고 같이 고통을 느낄 수 있죠. 그건 공감의 영역이고 인간으로서 가지는 기능인데. 근데 버릇처럼, 본능처럼 솟아나서 뻗어나가는 ‘서사중독’ 좀 통제하자고요.",
+		"created_at": "Sat Sep 08 03:42:37 +0000 2018",
+		"id": 1038271363985760300,
+		"id_str": "1038271363985760256",
+		"full_text": "남의 고통을 보고 같이 고통을 느낄 수 있죠. 그건 공감의 영역이고 인간으로서 가지는 기능인데. 근데 버릇처럼, 본능처럼 솟아나서 뻗어나가는 ‘서사중독’ 좀 통제하자고요.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "function_not",
-					"name": "무기농(메갈❤💛💚💙💜",
-					"id": 3275011692,
-					"id_str": "3275011692",
-					"indices": [
-						3,
-						16
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": []
 		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1038270982899695600,
+		"in_reply_to_status_id_str": "1038270982899695616",
+		"in_reply_to_user_id": 3275011692,
+		"in_reply_to_user_id_str": "3275011692",
+		"in_reply_to_screen_name": "function_not",
 		"user": {
-			"id": 3255599052,
-			"id_str": "3255599052",
-			"name": "Solitude [동결:11/20~]",
-			"screen_name": "EmptyKnK",
+			"id": 3275011692,
+			"id_str": "3275011692",
+			"name": "무기농(메갈❤💛💚💙💜",
+			"screen_name": "function_not",
 			"location": "",
-			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"description": "대체로 탈부착 가능",
 			"url": null,
 			"entities": {
 				"description": {
 					"urls": []
 				}
 			},
-			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
-			"listed_count": 0,
-			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1097,
+			"protected": false,
+			"followers_count": 4978,
+			"friends_count": 452,
+			"listed_count": 36,
+			"created_at": "Sat Jul 11 02:04:41 +0000 2015",
+			"favourites_count": 5709,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10824,
+			"statuses_count": 87144,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4335,9 +2965,9 @@ Grailbird.data.tweets_2018_09 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720977666459893760/HnRtQx5T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720977666459893760/HnRtQx5T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3275011692/1436777414",
 			"profile_link_color": "1DA1F2",
 			"profile_sidebar_border_color": "C0DEED",
 			"profile_sidebar_fill_color": "DDEEF6",
@@ -4355,96 +2985,24 @@ Grailbird.data.tweets_2018_09 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Sat Sep 08 03:42:37 +0000 2018",
-			"id": 1038271363985760300,
-			"id_str": "1038271363985760256",
-			"text": "남의 고통을 보고 같이 고통을 느낄 수 있죠. 그건 공감의 영역이고 인간으로서 가지는 기능인데. 근데 버릇처럼, 본능처럼 솟아나서 뻗어나가는 ‘서사중독’ 좀 통제하자고요.",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": []
-			},
-			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-			"in_reply_to_status_id": 1038270982899695600,
-			"in_reply_to_status_id_str": "1038270982899695616",
-			"in_reply_to_user_id": 3275011692,
-			"in_reply_to_user_id_str": "3275011692",
-			"in_reply_to_screen_name": "function_not",
-			"user": {
-				"id": 3275011692,
-				"id_str": "3275011692",
-				"name": "무기농(메갈❤💛💚💙💜",
-				"screen_name": "function_not",
-				"location": "",
-				"description": "대체로 탈부착 가능",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 4931,
-				"friends_count": 453,
-				"listed_count": 36,
-				"created_at": "Sat Jul 11 02:04:41 +0000 2015",
-				"favourites_count": 5318,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 83607,
-				"lang": "ko",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "C0DEED",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/720977666459893760/HnRtQx5T_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/720977666459893760/HnRtQx5T_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3275011692/1436777414",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": true,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 5,
-			"favorite_count": 3,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "ko"
-		},
 		"is_quote_status": false,
-		"retweet_count": 5,
-		"favorite_count": 0,
+		"retweet_count": 9,
+		"favorite_count": 7,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "남의 고통을 보고 같이 고통을 느낄 수 있죠. 그건 공감의 영역이고 인간으로서 가지는 기능인데. 근데 버릇처럼, 본능처럼 솟아나서 뻗어나가는 ‘서사중독’ 좀 통제하자고요."
 	},
 	{
 		"created_at": "Thu Sep 06 12:48:22 +0000 2018",
 		"id": 1037683927391977500,
 		"id_str": "1037683927391977474",
-		"text": "다소의 성비불균형이 일어난 것은 사실이지만, 남녀 구분 없이 셋 중 하나만 살아남고, 둘 중 하나만 살아남는 시대를 지나온 '생존자'인 것은 모두 같다는 소리.",
+		"full_text": "다소의 성비불균형이 일어난 것은 사실이지만, 남녀 구분 없이 셋 중 하나만 살아남고, 둘 중 하나만 살아남는 시대를 지나온 '생존자'인 것은 모두 같다는 소리.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -4471,16 +3029,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1098,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10824,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4514,79 +3072,105 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "다소의 성비불균형이 일어난 것은 사실이지만, 남녀 구분 없이 셋 중 하나만 살아남고, 둘 중 하나만 살아남는 시대를 지나온 '생존자'인 것은 모두 같다는 소리."
 	},
 	{
-		"created_at": "Thu Sep 06 12:45:48 +0000 2018",
-		"id": 1037683284476551200,
-		"id_str": "1037683284476551168",
-		"text": "RT @GallupKoreaNews: 이러한 법은 1953년부터 존속했으나, 1994년 한국갤럽 조사에서 성인의 낙태금지법 인지율은 48%, 당시 여성 중 38%가 낙태 경험이 있는 것으로 파악돼 현실에서는 거의 사문화(死文化)된 조항으로 간주되어…",
+		"created_at": "Fri Oct 21 02:49:07 +0000 2016",
+		"id": 789297435298312200,
+		"id_str": "789297435298312192",
+		"full_text": "이러한 법은 1953년부터 존속했으나, 1994년 한국갤럽 조사에서 성인의 낙태금지법 인지율은 48%, 당시 여성 중 38%가 낙태 경험이 있는 것으로 파악돼 현실에서는 거의 사문화(死文化)된 조항으로 간주되어 왔습니다.(계속)",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "GallupKoreaNews",
-					"name": "한국갤럽조사연구소",
-					"id": 1398904010,
-					"id_str": "1398904010",
-					"indices": [
-						3,
-						19
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": []
 		},
-		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 789297353576419300,
+		"in_reply_to_status_id_str": "789297353576419329",
+		"in_reply_to_user_id": 1398904010,
+		"in_reply_to_user_id_str": "1398904010",
+		"in_reply_to_screen_name": "GallupKoreaNews",
 		"user": {
-			"id": 3255599052,
-			"id_str": "3255599052",
-			"name": "Solitude [동결:11/20~]",
-			"screen_name": "EmptyKnK",
-			"location": "",
-			"description": "탄식하라,  덧없이 흩어지고 말리라",
-			"url": null,
+			"id": 1398904010,
+			"id_str": "1398904010",
+			"name": "한국갤럽조사연구소",
+			"screen_name": "GallupKoreaNews",
+			"location": "서울시 종로구 사직로 70",
+			"description": "한국갤럽 공식 계정. 자체 여론조사 상세 결과와 분석 전문은 홈페이지와 블로그 https://t.co/OMLdofSd7y 에 공개하며, 뉴스레터를 신청하시면 메일로도 보내드립니다. https://t.co/t99vLK23MD",
+			"url": "https://t.co/8HIZPtkJAv",
 			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8HIZPtkJAv",
+							"expanded_url": "http://www.gallup.co.kr",
+							"display_url": "gallup.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
 				"description": {
-					"urls": []
+					"urls": [
+						{
+							"url": "https://t.co/OMLdofSd7y",
+							"expanded_url": "http://gallupkorea.blogspot.kr/",
+							"display_url": "gallupkorea.blogspot.kr",
+							"indices": [
+								44,
+								67
+							]
+						},
+						{
+							"url": "https://t.co/t99vLK23MD",
+							"expanded_url": "http://www.gallup.co.kr/news.asp?c=twitter",
+							"display_url": "gallup.co.kr/news.asp?c=twi…",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
 				}
 			},
-			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
-			"listed_count": 0,
-			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1098,
+			"protected": false,
+			"followers_count": 5757,
+			"friends_count": 1117,
+			"listed_count": 169,
+			"created_at": "Fri May 03 05:15:44 +0000 2013",
+			"favourites_count": 62,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10824,
+			"statuses_count": 4369,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
-			"profile_link_color": "1DA1F2",
-			"profile_sidebar_border_color": "C0DEED",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000437189539/147d7a9aabd5e63a36764b9d79a652d0_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000437189539/147d7a9aabd5e63a36764b9d79a652d0_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1398904010/1411351083",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
 			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": true,
+			"has_extended_profile": true,
+			"default_profile": false,
 			"default_profile_image": false,
 			"following": false,
 			"follow_request_sent": false,
@@ -4597,128 +3181,24 @@ Grailbird.data.tweets_2018_09 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Fri Oct 21 02:49:07 +0000 2016",
-			"id": 789297435298312200,
-			"id_str": "789297435298312192",
-			"text": "이러한 법은 1953년부터 존속했으나, 1994년 한국갤럽 조사에서 성인의 낙태금지법 인지율은 48%, 당시 여성 중 38%가 낙태 경험이 있는 것으로 파악돼 현실에서는 거의 사문화(死文化)된 조항으로 간주되어 왔습니다.(계속)",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": []
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": 789297353576419300,
-			"in_reply_to_status_id_str": "789297353576419329",
-			"in_reply_to_user_id": 1398904010,
-			"in_reply_to_user_id_str": "1398904010",
-			"in_reply_to_screen_name": "GallupKoreaNews",
-			"user": {
-				"id": 1398904010,
-				"id_str": "1398904010",
-				"name": "한국갤럽조사연구소",
-				"screen_name": "GallupKoreaNews",
-				"location": "서울시 종로구 사직로 70",
-				"description": "한국갤럽 공식 계정. 자체 여론조사 상세 결과와 분석 전문은 홈페이지와 블로그 https://t.co/OMLdofSd7y 에 공개하며, 뉴스레터를 신청하시면 메일로도 보내드립니다. https://t.co/t99vLK23MD",
-				"url": "https://t.co/8HIZPtkJAv",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/8HIZPtkJAv",
-								"expanded_url": "http://www.gallup.co.kr",
-								"display_url": "gallup.co.kr",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": [
-							{
-								"url": "https://t.co/OMLdofSd7y",
-								"expanded_url": "http://gallupkorea.blogspot.kr/",
-								"display_url": "gallupkorea.blogspot.kr",
-								"indices": [
-									44,
-									67
-								]
-							},
-							{
-								"url": "https://t.co/t99vLK23MD",
-								"expanded_url": "http://www.gallup.co.kr/news.asp?c=twitter",
-								"display_url": "gallup.co.kr/news.asp?c=twi…",
-								"indices": [
-									101,
-									124
-								]
-							}
-						]
-					}
-				},
-				"protected": false,
-				"followers_count": 5734,
-				"friends_count": 1127,
-				"listed_count": 172,
-				"created_at": "Fri May 03 05:15:44 +0000 2013",
-				"favourites_count": 60,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 4286,
-				"lang": "ko",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "C6E2EE",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000437189539/147d7a9aabd5e63a36764b9d79a652d0_normal.jpeg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000437189539/147d7a9aabd5e63a36764b9d79a652d0_normal.jpeg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1398904010/1411351083",
-				"profile_link_color": "1F98C7",
-				"profile_sidebar_border_color": "C6E2EE",
-				"profile_sidebar_fill_color": "DAECF4",
-				"profile_text_color": "663B12",
-				"profile_use_background_image": true,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 10,
-			"favorite_count": 3,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "ko"
-		},
 		"is_quote_status": false,
-		"retweet_count": 10,
-		"favorite_count": 0,
+		"retweet_count": 9,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "이러한 법은 1953년부터 존속했으나, 1994년 한국갤럽 조사에서 성인의 낙태금지법 인지율은 48%, 당시 여성 중 38%가 낙태 경험이 있는 것으로 파악돼 현실에서는 거의 사문화(死文化)된 조항으로 간주되어 왔습니다.(계속)"
 	},
 	{
 		"created_at": "Thu Sep 06 12:43:15 +0000 2018",
 		"id": 1037682640625647600,
 		"id_str": "1037682640625647616",
-		"text": "약간, 많이 충격적인 실태를 알았네요. 트위터에서 '여아 학살(낙태)' 문제로 들끓었던 적이 있던 게 우스워지는 현실인 게, 90년대까지 매년 신생아수를 웃도는 백만 단위의 낙태 시술이 이뤄졌고 00년대에 들어서도 십만 단위의 시술이 이뤄졌다고 해요.",
+		"full_text": "약간, 많이 충격적인 실태를 알았네요. 트위터에서 '여아 학살(낙태)' 문제로 들끓었던 적이 있던 게 우스워지는 현실인 게, 90년대까지 매년 신생아수를 웃도는 백만 단위의 낙태 시술이 이뤄졌고 00년대에 들어서도 십만 단위의 시술이 이뤄졌다고 해요.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -4745,16 +3225,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1098,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10824,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4788,79 +3268,86 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "약간, 많이 충격적인 실태를 알았네요. 트위터에서 '여아 학살(낙태)' 문제로 들끓었던 적이 있던 게 우스워지는 현실인 게, 90년대까지 매년 신생아수를 웃도는 백만 단위의 낙태 시술이 이뤄졌고 00년대에 들어서도 십만 단위의 시술이 이뤄졌다고 해요."
 	},
 	{
-		"created_at": "Wed Sep 05 09:27:30 +0000 2018",
-		"id": 1037270989535567900,
-		"id_str": "1037270989535567874",
-		"text": "RT @mimyo_: 한국은 권위주의와 진영주의를 극복하지 못했기 때문에 집단의 구분을 무척 두려워하고, 집단으로부터 장르가 파생한 경험은 군사정권에 의해 명맥이 끊겼으며, 미디어 의존도가 압도적으로 높은 사회. 장르의 관점에서 보자면 '장르가 없는…",
+		"created_at": "Tue Sep 04 20:29:20 +0000 2018",
+		"id": 1037075158660337700,
+		"id_str": "1037075158660337664",
+		"full_text": "한국은 권위주의와 진영주의를 극복하지 못했기 때문에 집단의 구분을 무척 두려워하고, 집단으로부터 장르가 파생한 경험은 군사정권에 의해 명맥이 끊겼으며, 미디어 의존도가 압도적으로 높은 사회. 장르의 관점에서 보자면 '장르가 없는 사회'라고 생각한다.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "mimyo_",
-					"name": "미묘",
-					"id": 98769028,
-					"id_str": "98769028",
-					"indices": [
-						3,
-						10
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": []
 		},
-		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1037075157557207000,
+		"in_reply_to_status_id_str": "1037075157557207040",
+		"in_reply_to_user_id": 98769028,
+		"in_reply_to_user_id_str": "98769028",
+		"in_reply_to_screen_name": "mimyo_",
 		"user": {
-			"id": 3255599052,
-			"id_str": "3255599052",
-			"name": "Solitude [동결:11/20~]",
-			"screen_name": "EmptyKnK",
-			"location": "",
-			"description": "탄식하라,  덧없이 흩어지고 말리라",
-			"url": null,
+			"id": 98769028,
+			"id_str": "98769028",
+			"name": "미묘",
+			"screen_name": "mimyo_",
+			"location": "Seoul",
+			"description": "너구리 프사이곤 했습니다. 대중음악평론가. 아이돌로지 편집장. 또한 음악에 관련한 잡다한 일들을 합니다. tres.mimyo@gmail.com",
+			"url": "https://t.co/iNzLTVDeRH",
 			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iNzLTVDeRH",
+							"expanded_url": "http://idology.kr",
+							"display_url": "idology.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
 				"description": {
 					"urls": []
 				}
 			},
-			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
-			"listed_count": 0,
-			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1095,
+			"protected": false,
+			"followers_count": 5789,
+			"friends_count": 940,
+			"listed_count": 141,
+			"created_at": "Wed Dec 23 02:03:31 +0000 2009",
+			"favourites_count": 13715,
 			"utc_offset": null,
 			"time_zone": null,
-			"geo_enabled": false,
+			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 10821,
-			"lang": "ko",
+			"statuses_count": 100581,
+			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
-			"profile_link_color": "1DA1F2",
-			"profile_sidebar_border_color": "C0DEED",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
+			"is_translation_enabled": true,
+			"profile_background_color": "222222",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/946160464924327937/cpgRBaWe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/946160464924327937/cpgRBaWe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/98769028/1480675374",
+			"profile_link_color": "AB0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "779EB8",
+			"profile_text_color": "F7CA60",
+			"profile_use_background_image": false,
 			"has_extended_profile": false,
-			"default_profile": true,
+			"default_profile": false,
 			"default_profile_image": false,
 			"following": false,
 			"follow_request_sent": false,
@@ -4871,174 +3358,91 @@ Grailbird.data.tweets_2018_09 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Tue Sep 04 20:29:20 +0000 2018",
-			"id": 1037075158660337700,
-			"id_str": "1037075158660337664",
-			"text": "한국은 권위주의와 진영주의를 극복하지 못했기 때문에 집단의 구분을 무척 두려워하고, 집단으로부터 장르가 파생한 경험은 군사정권에 의해 명맥이 끊겼으며, 미디어 의존도가 압도적으로 높은 사회. 장르의 관점에서 보자면 '장르가 없는 사회'라고 생각한다.",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": []
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": 1037075157557207000,
-			"in_reply_to_status_id_str": "1037075157557207040",
-			"in_reply_to_user_id": 98769028,
-			"in_reply_to_user_id_str": "98769028",
-			"in_reply_to_screen_name": "mimyo_",
-			"user": {
-				"id": 98769028,
-				"id_str": "98769028",
-				"name": "미묘",
-				"screen_name": "mimyo_",
-				"location": "Seoul",
-				"description": "너구리 프사이곤 했습니다. 대중음악평론가. 아이돌로지 편집장. 또한 음악에 관련한 잡다한 일들을 합니다. tres.mimyo@gmail.com",
-				"url": "https://t.co/iNzLTVDeRH",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/iNzLTVDeRH",
-								"expanded_url": "http://idology.kr",
-								"display_url": "idology.kr",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 5820,
-				"friends_count": 938,
-				"listed_count": 140,
-				"created_at": "Wed Dec 23 02:03:31 +0000 2009",
-				"favourites_count": 13405,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 99775,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": true,
-				"profile_background_color": "222222",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/946160464924327937/cpgRBaWe_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/946160464924327937/cpgRBaWe_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/98769028/1480675374",
-				"profile_link_color": "AB0000",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "779EB8",
-				"profile_text_color": "F7CA60",
-				"profile_use_background_image": false,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 4,
-			"favorite_count": 4,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "ko"
-		},
 		"is_quote_status": false,
 		"retweet_count": 4,
-		"favorite_count": 0,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "한국은 권위주의와 진영주의를 극복하지 못했기 때문에 집단의 구분을 무척 두려워하고, 집단으로부터 장르가 파생한 경험은 군사정권에 의해 명맥이 끊겼으며, 미디어 의존도가 압도적으로 높은 사회. 장르의 관점에서 보자면 '장르가 없는 사회'라고 생각한다."
 	},
 	{
-		"created_at": "Wed Sep 05 09:27:14 +0000 2018",
-		"id": 1037270924121145300,
-		"id_str": "1037270924121145344",
-		"text": "RT @mimyo_: 음악 추천 시스템은 모종의 음악적 형질 또는 상당수의 집단이 취향에 연계되어 있음을 전제로 한다. 이를 대표하는 것이 장르인데, 결과물만 보자면 음악의 '스타일'이지만 실은 유사한 가치관과 미감, 라이프스타일을 가진 '집단'에서…",
+		"created_at": "Tue Sep 04 20:29:20 +0000 2018",
+		"id": 1037075157557207000,
+		"id_str": "1037075157557207040",
+		"full_text": "음악 추천 시스템은 모종의 음악적 형질 또는 상당수의 집단이 취향에 연계되어 있음을 전제로 한다. 이를 대표하는 것이 장르인데, 결과물만 보자면 음악의 '스타일'이지만 실은 유사한 가치관과 미감, 라이프스타일을 가진 '집단'에서 비롯되는 것. 그리고 그것이 영미권에서 비롯되었다.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "mimyo_",
-					"name": "미묘",
-					"id": 98769028,
-					"id_str": "98769028",
-					"indices": [
-						3,
-						10
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": []
 		},
-		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 3255599052,
-			"id_str": "3255599052",
-			"name": "Solitude [동결:11/20~]",
-			"screen_name": "EmptyKnK",
-			"location": "",
-			"description": "탄식하라,  덧없이 흩어지고 말리라",
-			"url": null,
+			"id": 98769028,
+			"id_str": "98769028",
+			"name": "미묘",
+			"screen_name": "mimyo_",
+			"location": "Seoul",
+			"description": "너구리 프사이곤 했습니다. 대중음악평론가. 아이돌로지 편집장. 또한 음악에 관련한 잡다한 일들을 합니다. tres.mimyo@gmail.com",
+			"url": "https://t.co/iNzLTVDeRH",
 			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iNzLTVDeRH",
+							"expanded_url": "http://idology.kr",
+							"display_url": "idology.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
 				"description": {
 					"urls": []
 				}
 			},
-			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
-			"listed_count": 0,
-			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1095,
+			"protected": false,
+			"followers_count": 5789,
+			"friends_count": 940,
+			"listed_count": 141,
+			"created_at": "Wed Dec 23 02:03:31 +0000 2009",
+			"favourites_count": 13715,
 			"utc_offset": null,
 			"time_zone": null,
-			"geo_enabled": false,
+			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 10821,
-			"lang": "ko",
+			"statuses_count": 100581,
+			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
-			"profile_link_color": "1DA1F2",
-			"profile_sidebar_border_color": "C0DEED",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
+			"is_translation_enabled": true,
+			"profile_background_color": "222222",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/946160464924327937/cpgRBaWe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/946160464924327937/cpgRBaWe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/98769028/1480675374",
+			"profile_link_color": "AB0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "779EB8",
+			"profile_text_color": "F7CA60",
+			"profile_use_background_image": false,
 			"has_extended_profile": false,
-			"default_profile": true,
+			"default_profile": false,
 			"default_profile_image": false,
 			"following": false,
 			"follow_request_sent": false,
@@ -5049,134 +3453,28 @@ Grailbird.data.tweets_2018_09 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Tue Sep 04 20:29:20 +0000 2018",
-			"id": 1037075157557207000,
-			"id_str": "1037075157557207040",
-			"text": "음악 추천 시스템은 모종의 음악적 형질 또는 상당수의 집단이 취향에 연계되어 있음을 전제로 한다. 이를 대표하는 것이 장르인데, 결과물만 보자면 음악의 '스타일'이지만 실은 유사한 가치관과 미감, 라이프스타… https://t.co/jluWMxoOEm",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/jluWMxoOEm",
-						"expanded_url": "https://twitter.com/i/web/status/1037075157557207040",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 98769028,
-				"id_str": "98769028",
-				"name": "미묘",
-				"screen_name": "mimyo_",
-				"location": "Seoul",
-				"description": "너구리 프사이곤 했습니다. 대중음악평론가. 아이돌로지 편집장. 또한 음악에 관련한 잡다한 일들을 합니다. tres.mimyo@gmail.com",
-				"url": "https://t.co/iNzLTVDeRH",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/iNzLTVDeRH",
-								"expanded_url": "http://idology.kr",
-								"display_url": "idology.kr",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 5820,
-				"friends_count": 938,
-				"listed_count": 140,
-				"created_at": "Wed Dec 23 02:03:31 +0000 2009",
-				"favourites_count": 13405,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 99775,
-				"lang": "en",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": true,
-				"profile_background_color": "222222",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/946160464924327937/cpgRBaWe_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/946160464924327937/cpgRBaWe_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/98769028/1480675374",
-				"profile_link_color": "AB0000",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "779EB8",
-				"profile_text_color": "F7CA60",
-				"profile_use_background_image": false,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 6,
-			"favorite_count": 8,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "ko"
-		},
 		"is_quote_status": false,
-		"retweet_count": 6,
-		"favorite_count": 0,
+		"retweet_count": 8,
+		"favorite_count": 9,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "음악 추천 시스템은 모종의 음악적 형질 또는 상당수의 집단이 취향에 연계되어 있음을 전제로 한다. 이를 대표하는 것이 장르인데, 결과물만 보자면 음악의 '스타일'이지만 실은 유사한 가치관과 미감, 라이프스타일을 가진 '집단'에서 비롯되는 것. 그리고 그것이 영미권에서 비롯되었다."
 	},
 	{
 		"created_at": "Tue Sep 04 08:40:26 +0000 2018",
 		"id": 1036896757047681000,
 		"id_str": "1036896757047681024",
-		"text": "@WORKLIFEBOOK 올라왔군요! 나중에 워라 출간작과 함께 구매하겠습니다.",
+		"full_text": "@WORKLIFEBOOK 올라왔군요! 나중에 워라 출간작과 함께 구매하겠습니다.",
 		"truncated": false,
+		"display_text_range": [
+			14,
+			44
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "WORKLIFEBOOK",
-					"name": "워크라이프 출판사 편집부",
-					"id": 146022923,
-					"id_str": "146022923",
-					"indices": [
-						0,
-						13
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
@@ -5184,7 +3482,7 @@ Grailbird.data.tweets_2018_09 =
 		"in_reply_to_status_id_str": "1036893749421338625",
 		"in_reply_to_user_id": 146022923,
 		"in_reply_to_user_id_str": "146022923",
-		"in_reply_to_screen_name": "WORKLIFEBOOK",
+		"in_reply_to_screen_name": "12wsa234sazx124",
 		"user": {
 			"id": 3255599052,
 			"id_str": "3255599052",
@@ -5199,16 +3497,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1095,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10819,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5242,21 +3540,26 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "@WORKLIFEBOOK 올라왔군요! 나중에 워라 출간작과 함께 구매하겠습니다."
 	},
 	{
 		"created_at": "Mon Sep 03 09:06:21 +0000 2018",
 		"id": 1036540894210535400,
 		"id_str": "1036540894210535424",
-		"text": "@dvddog 이제 보니 비싸지도 않았는데 놓치다니... 시대착오&amp;라깡&amp;정신분석의 3중주 때문에 원서로는 굳이 구해서 봐야하나 싶어서 놓고 있던 책이라 아쉽네요.",
+		"full_text": "@dvddog 이제 보니 비싸지도 않았는데 놓치다니... 시대착오&amp;라깡&amp;정신분석의 3중주 때문에 원서로는 굳이 구해서 봐야하나 싶어서 놓고 있던 책이라 아쉽네요.",
 		"truncated": false,
+		"display_text_range": [
+			8,
+			98
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
 				{
 					"screen_name": "dvddog",
-					"name": "다우드 댕댕이",
+					"name": "다우드 산",
 					"id": 3138788114,
 					"id_str": "3138788114",
 					"indices": [
@@ -5287,16 +3590,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1094,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10818,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5330,14 +3633,19 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "@dvddog 이제 보니 비싸지도 않았는데 놓치다니... 시대착오&amp;라깡&amp;정신분석의 3중주 때문에 원서로는 굳이 구해서 봐야하나 싶어서 놓고 있던 책이라 아쉽네요."
 	},
 	{
 		"created_at": "Mon Sep 03 08:45:49 +0000 2018",
 		"id": 1036535725955547100,
 		"id_str": "1036535725955547142",
-		"text": "아, 인터넷을 잘 안 하니까 텀블벅에서 &lt;전투미소녀의 정신분석&gt; 펀딩을 진행한 걸 이제야 알았네요. 일반 판매는 안 하려나.",
+		"full_text": "아, 인터넷을 잘 안 하니까 텀블벅에서 &lt;전투미소녀의 정신분석&gt; 펀딩을 진행한 걸 이제야 알았네요. 일반 판매는 안 하려나.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -5364,16 +3672,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1094,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10818,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5407,14 +3715,19 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "아, 인터넷을 잘 안 하니까 텀블벅에서 &lt;전투미소녀의 정신분석&gt; 펀딩을 진행한 걸 이제야 알았네요. 일반 판매는 안 하려나."
 	},
 	{
 		"created_at": "Sun Sep 02 03:08:10 +0000 2018",
 		"id": 1036088363328008200,
 		"id_str": "1036088363328008192",
-		"text": "헤라클레이토스 vs. 파르메니데스\n https://t.co/qbsfCoPemq \n보통 대립되어 이해되지만 서양 철학의 기본 전제를 공유하는 것은 같죠. 언어로는 Is. 무의 철학을 이루는 그들의 언어 체계의 전체적 경향성.",
+		"full_text": "헤라클레이토스 vs. 파르메니데스\n https://t.co/qbsfCoPemq \n보통 대립되어 이해되지만 서양 철학의 기본 전제를 공유하는 것은 같죠. 언어로는 Is. 무의 철학을 이루는 그들의 언어 체계의 전체적 경향성.",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -5451,16 +3764,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1094,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10816,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5491,18 +3804,23 @@ Grailbird.data.tweets_2018_09 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "헤라클레이토스 vs. 파르메니데스\n https://t.co/qbsfCoPemq \n보통 대립되어 이해되지만 서양 철학의 기본 전제를 공유하는 것은 같죠. 언어로는 Is. 무의 철학을 이루는 그들의 언어 체계의 전체적 경향성."
 	},
 	{
 		"created_at": "Sun Sep 02 02:41:49 +0000 2018",
 		"id": 1036081735019065300,
 		"id_str": "1036081735019065344",
-		"text": "어렸을 때는 픽션을 보아도 더 진짜처럼 반짝반짝거림을 느꼈는데 지금은 현실도 가짜처럼 거리[제4의 벽]를 느끼고...",
+		"full_text": "어렸을 때는 픽션을 보아도 더 진짜처럼 반짝반짝거림을 느꼈는데 지금은 현실도 가짜처럼 거리[제4의 벽]를 느끼고...",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -5529,16 +3847,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": true,
-			"followers_count": 7,
-			"friends_count": 76,
+			"followers_count": 8,
+			"friends_count": 77,
 			"listed_count": 0,
 			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
-			"favourites_count": 1094,
+			"favourites_count": 1120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10816,
+			"statuses_count": 10922,
 			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5572,6 +3890,7 @@ Grailbird.data.tweets_2018_09 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "어렸을 때는 픽션을 보아도 더 진짜처럼 반짝반짝거림을 느꼈는데 지금은 현실도 가짜처럼 거리[제4의 벽]를 느끼고..."
 	}
 ]
