@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 30 11:38:10 +0000 2018",
+		"id": 1068469231568674800,
+		"id_str": "1068469231568674817",
+		"full_text": "Yes24에서 올해의 책표지 투표를 하는데 복고풍 폰트 등, 스타일이 너무 천편일률적으로 트렌드만 좇는 거 같아요. 관계자들이 추천했다는데 집단성이 이렇게 선명할 수가. 《거울 속 외딴 성》 같은 표지를 바랐는데. https://t.co/b319mQElG0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1068468711491690500,
+					"id_str": "1068468711491690496",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/DtP2odIU4AABlVJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtP2odIU4AABlVJ.jpg",
+					"url": "https://t.co/b319mQElG0",
+					"display_url": "pic.twitter.com/b319mQElG0",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1068469231568674817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1068468711491690500,
+					"id_str": "1068468711491690496",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/DtP2odIU4AABlVJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtP2odIU4AABlVJ.jpg",
+					"url": "https://t.co/b319mQElG0",
+					"display_url": "pic.twitter.com/b319mQElG0",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1068469231568674817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 77,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10964,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Yes24에서 올해의 책표지 투표를 하는데 복고풍 폰트 등, 스타일이 너무 천편일률적으로 트렌드만 좇는 거 같아요. 관계자들이 추천했다는데 집단성이 이렇게 선명할 수가. 《거울 속 외딴 성》 같은 표지를 바랐는데. https://t.co/b319mQElG0"
+	},
+	{
+		"created_at": "Fri Nov 30 11:28:04 +0000 2018",
+		"id": 1068466688121724900,
+		"id_str": "1068466688121724928",
+		"full_text": "&lt;AIR&gt; - 곽형준, 김태용, 김병조, 김효진, 먼데이스튜디오, 선정우, 소린, 송락현, 이진, 정석예, 정현, 주원일, 천계영, 탁상, 하성호, 황인찬, 레토 라윤 휘얼리만 https://t.co/Gkj4vPibQy\n\n트위터에서 파문을 일으키고 편집자가 잠적한 &lt;Air&gt;가 드디어 입고. 그러나 가격의 압박이...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Gkj4vPibQy",
+					"expanded_url": "http://aladin.kr/p/cLH2p",
+					"display_url": "aladin.kr/p/cLH2p",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 77,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10964,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;AIR&gt; - 곽형준, 김태용, 김병조, 김효진, 먼데이스튜디오, 선정우, 소린, 송락현, 이진, 정석예, 정현, 주원일, 천계영, 탁상, 하성호, 황인찬, 레토 라윤 휘얼리만 https://t.co/Gkj4vPibQy\n\n트위터에서 파문을 일으키고 편집자가 잠적한 &lt;Air&gt;가 드디어 입고. 그러나 가격의 압박이..."
+	},
+	{
 		"created_at": "Fri Nov 30 10:26:45 +0000 2018",
 		"id": 1068451258522984400,
 		"id_str": "1068451258522984448",
