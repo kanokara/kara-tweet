@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 05 05:25:11 +0000 2018",
+		"id": 1070187304407392300,
+		"id_str": "1070187304407392256",
+		"full_text": "@k4partisan 저는 5월생인데 어째서...!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "k4partisan",
+					"name": "空想科学革命傀儡",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1070186548312698900,
+		"in_reply_to_status_id_str": "1070186548312698880",
+		"in_reply_to_user_id": 1047103952297254900,
+		"in_reply_to_user_id_str": "1047103952297254912",
+		"in_reply_to_screen_name": "k4partisan",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 77,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11020,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@k4partisan 저는 5월생인데 어째서...!"
+	},
+	{
+		"created_at": "Wed Dec 05 05:21:36 +0000 2018",
+		"id": 1070186403768623100,
+		"id_str": "1070186403768623104",
+		"full_text": "@k4partisan 5월생 사회성 미발달 ㅋㅋㅋㅋㅋㅋ\nhttps://t.co/zvekeoNCog",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "k4partisan",
+					"name": "空想科学革命傀儡",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zvekeoNCog",
+					"expanded_url": "https://twitter.com/Dyco_S2_Skyshot/status/1068463864793034753",
+					"display_url": "twitter.com/Dyco_S2_Skysho…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1070165888152698900,
+		"in_reply_to_status_id_str": "1070165888152698880",
+		"in_reply_to_user_id": 1047103952297254900,
+		"in_reply_to_user_id_str": "1047103952297254912",
+		"in_reply_to_screen_name": "k4partisan",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 77,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11020,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1068463864793034800,
+		"quoted_status_id_str": "1068463864793034753",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zvekeoNCog",
+			"expanded": "https://twitter.com/Dyco_S2_Skyshot/status/1068463864793034753",
+			"display": "twitter.com/Dyco_S2_Skysho…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 30 11:16:51 +0000 2018",
+			"id": 1068463864793034800,
+			"id_str": "1068463864793034753",
+			"full_text": "이거 은근 믿기는 게... 3월생인데 생리통 없음 https://t.co/GBTakgc9Db",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				27
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1068463698887376900,
+						"id_str": "1068463698887376896",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DtPyEruVAAAf_rk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DtPyEruVAAAf_rk.jpg",
+						"url": "https://t.co/GBTakgc9Db",
+						"display_url": "pic.twitter.com/GBTakgc9Db",
+						"expanded_url": "https://twitter.com/Dyco_S2_Skyshot/status/1068463864793034753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 540,
+								"h": 609,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 540,
+								"h": 609,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 540,
+								"h": 609,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1068463698887376900,
+						"id_str": "1068463698887376896",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/DtPyEruVAAAf_rk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DtPyEruVAAAf_rk.jpg",
+						"url": "https://t.co/GBTakgc9Db",
+						"display_url": "pic.twitter.com/GBTakgc9Db",
+						"expanded_url": "https://twitter.com/Dyco_S2_Skyshot/status/1068463864793034753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 540,
+								"h": 609,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 540,
+								"h": 609,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 540,
+								"h": 609,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 825752219974643700,
+				"id_str": "825752219974643713",
+				"name": "[맹신하지 마세요]🌈흑석동 하이에나🌈",
+				"screen_name": "Dyco_S2_Skyshot",
+				"location": "경기도 부산시 흑석뉴타운",
+				"description": "계정 염탐시 문상 5만원/⚾디코♥스샷 2018. 02. 03~ ing🍞/비페미/롯데팬/바이섹슈얼/헤더- 본인 작년 페북 글",
+				"url": "https://t.co/VmMJCUNyHV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VmMJCUNyHV",
+								"expanded_url": "http://twpf.jp/Dyco_S2_Skyshot",
+								"display_url": "twpf.jp/Dyco_S2_Skyshot",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 233,
+				"friends_count": 208,
+				"listed_count": 3,
+				"created_at": "Sun Jan 29 17:07:25 +0000 2017",
+				"favourites_count": 10149,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9681,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1066681981491003392/6Cbot-rF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066681981491003392/6Cbot-rF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/825752219974643713/1542905716",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8720,
+			"favorite_count": 1674,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@k4partisan 5월생 사회성 미발달 ㅋㅋㅋㅋㅋㅋ\nhttps://t.co/zvekeoNCog"
+	},
+	{
 		"created_at": "Tue Dec 04 13:04:47 +0000 2018",
 		"id": 1069940578664632300,
 		"id_str": "1069940578664632321",
