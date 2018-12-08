@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 08 16:03:13 +0000 2018",
+		"id": 1071435035931099100,
+		"id_str": "1071435035931099136",
+		"full_text": "@pranagik 친구는 인터넷 친구가 있어요 #정색",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			29
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정색",
+					"indices": [
+						26,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pranagik",
+					"name": "코코미⭐",
+					"id": 965504304046944300,
+					"id_str": "965504304046944257",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1071434587065073700,
+		"in_reply_to_status_id_str": "1071434587065073664",
+		"in_reply_to_user_id": 965504304046944300,
+		"in_reply_to_user_id_str": "965504304046944257",
+		"in_reply_to_screen_name": "pranagik",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 77,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11031,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@pranagik 친구는 인터넷 친구가 있어요 #정색"
+	},
+	{
+		"created_at": "Sat Dec 08 15:48:30 +0000 2018",
+		"id": 1071431331769393200,
+		"id_str": "1071431331769393154",
+		"full_text": "@pranagik 명의 본능에 따라 '절식하여(잘라내어)' 정신의 평형에 이르는 길이 있다면 반대로 생의 본능에 따라 '탐식하여(덧붙이며)' 정신의 평형에 이르는 길이 있고, 둘의 방향성은 상반되니까요. 소시민은 때의 정황에 따라 한쪽을 택하고 합리화하여 수평을 찾고요.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pranagik",
+					"name": "코코미⭐",
+					"id": 965504304046944300,
+					"id_str": "965504304046944257",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1071424386362536000,
+		"in_reply_to_status_id_str": "1071424386362535937",
+		"in_reply_to_user_id": 965504304046944300,
+		"in_reply_to_user_id_str": "965504304046944257",
+		"in_reply_to_screen_name": "pranagik",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 77,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11031,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@pranagik 명의 본능에 따라 '절식하여(잘라내어)' 정신의 평형에 이르는 길이 있다면 반대로 생의 본능에 따라 '탐식하여(덧붙이며)' 정신의 평형에 이르는 길이 있고, 둘의 방향성은 상반되니까요. 소시민은 때의 정황에 따라 한쪽을 택하고 합리화하여 수평을 찾고요."
+	},
+	{
+		"created_at": "Sat Dec 08 15:16:40 +0000 2018",
+		"id": 1071423323064520700,
+		"id_str": "1071423323064520705",
+		"full_text": "@pranagik 불교 자체의 문제이기도 하고, 인간 자체의 문제이기도 하죠. 불교 또한 종교적 갈래이고, 결국 종교는 지금, 여기의 삶이 불안정한 이들이 매달리는 법이니까요. 속세에서 안정적인 삶을 영위하는 이들은 불교적 가르침에 효용을 못 느낄 거예요.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pranagik",
+					"name": "코코미⭐",
+					"id": 965504304046944300,
+					"id_str": "965504304046944257",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1071419707939409900,
+		"in_reply_to_status_id_str": "1071419707939409920",
+		"in_reply_to_user_id": 965504304046944300,
+		"in_reply_to_user_id_str": "965504304046944257",
+		"in_reply_to_screen_name": "pranagik",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 77,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11031,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@pranagik 불교 자체의 문제이기도 하고, 인간 자체의 문제이기도 하죠. 불교 또한 종교적 갈래이고, 결국 종교는 지금, 여기의 삶이 불안정한 이들이 매달리는 법이니까요. 속세에서 안정적인 삶을 영위하는 이들은 불교적 가르침에 효용을 못 느낄 거예요."
+	},
+	{
 		"created_at": "Sat Dec 08 14:56:54 +0000 2018",
 		"id": 1071418346090913800,
 		"id_str": "1071418346090913792",
