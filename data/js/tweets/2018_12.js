@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sun Dec 09 21:29:16 +0000 2018",
+		"id": 1071879476022206500,
+		"id_str": "1071879476022206464",
+		"full_text": "&lt;아프리카 사헬(Sahel)지역에 다시 찾아오는 녹색물결&gt; 문서로 페이지 링크를 걸고 싶은데, 어째서인지 트위터가 스팸으로 인식하네...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1071879040724684800,
+		"in_reply_to_status_id_str": "1071879040724684800",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 77,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11033,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "&lt;아프리카 사헬(Sahel)지역에 다시 찾아오는 녹색물결&gt; 문서로 페이지 링크를 걸고 싶은데, 어째서인지 트위터가 스팸으로 인식하네..."
+	},
+	{
+		"created_at": "Sun Dec 09 21:27:32 +0000 2018",
+		"id": 1071879040724684800,
+		"id_str": "1071879040724684800",
+		"full_text": "사헬 지대의 농법, 자이. 사막화에 대항하는 녹화-인공천연갱신. 존경스럽네요. 아시아에서도 가능한 방식인가 궁금하고.\nhttps://t.co/hRsdL5HEcQ\nhttps://t.co/oaLjztzQSs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hRsdL5HEcQ",
+					"expanded_url": "http://blog.daum.net/stonehinge/8723855",
+					"display_url": "blog.daum.net/stonehinge/872…",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/oaLjztzQSs",
+					"expanded_url": "http://cklist.egloos.com/5713878",
+					"display_url": "cklist.egloos.com/5713878",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 77,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11033,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사헬 지대의 농법, 자이. 사막화에 대항하는 녹화-인공천연갱신. 존경스럽네요. 아시아에서도 가능한 방식인가 궁금하고.\nhttps://t.co/hRsdL5HEcQ\nhttps://t.co/oaLjztzQSs"
+	},
+	{
 		"created_at": "Sat Dec 08 16:03:13 +0000 2018",
 		"id": 1071435035931099100,
 		"id_str": "1071435035931099136",
