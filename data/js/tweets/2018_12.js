@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 10 08:53:29 +0000 2018",
+		"id": 1072051663681216500,
+		"id_str": "1072051663681216512",
+		"full_text": "대학가 호칭, 선배가 웬말? 학번 상관없이 'OO씨' : 네이버 뉴스\n\n매우 바람직 😎😎😎 https://t.co/cHQqgogqOT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cHQqgogqOT",
+					"expanded_url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=008&aid=0004144208&viewType=pc",
+					"display_url": "news.naver.com/main/read.nhn?…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47319345,
+			"id_str": "47319345",
+			"name": "eggry",
+			"screen_name": "eggry",
+			"location": "대한민국 수원시",
+			"description": "Feel free to contact in 한국어日本語English flickr: https://t.co/sCmoXzbrLz",
+			"url": "https://t.co/Xm6lcdGVMu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm6lcdGVMu",
+							"expanded_url": "http://eggry.egloos.com",
+							"display_url": "eggry.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/sCmoXzbrLz",
+							"expanded_url": "http://www.flickr.com/eggry/",
+							"display_url": "flickr.com/eggry/",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3529,
+			"friends_count": 212,
+			"listed_count": 269,
+			"created_at": "Mon Jun 15 12:08:36 +0000 2009",
+			"favourites_count": 2567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 714206,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1071783204598640640/IjJ_5nWB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071783204598640640/IjJ_5nWB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47319345/1538180334",
+			"profile_link_color": "1157D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대학가 호칭, 선배가 웬말? 학번 상관없이 'OO씨' : 네이버 뉴스\n\n매우 바람직 😎😎😎 https://t.co/cHQqgogqOT"
+	},
+	{
 		"created_at": "Sun Dec 09 21:29:16 +0000 2018",
 		"id": 1071879476022206500,
 		"id_str": "1071879476022206464",
