@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 12 03:51:24 +0000 2018",
+		"id": 1072700420986822700,
+		"id_str": "1072700420986822656",
+		"full_text": "실제로 한국인들은 인권을 일종의 제로섬 게임처럼 학습받아 옴. 이는 오랫동안 의무를 다해야 권리를 받는다는 기브 앤 테이크 논리로 잘못 교육했기 때문이라고 생각되는데, 권리를 천부인권으로 가르치지 않고 지불 후에 받는 재화처럼 가르쳤기 때문이 아닐까 싶음. 재화는 언젠간 고갈되니까.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4177780393,
+			"id_str": "4177780393",
+			"name": "Akhee Ahn🌈🎗⛑(안악희)",
+			"screen_name": "akhee_ahn_",
+			"location": "대한민국 서울",
+			"description": "Bassist, Anti-conscription activist, B-movie columnist. 징병제 반대 운동단체 'JPD(징병제 폐지를 위한 시민모임)' 서울지부 지부장. 병역거부 난민 상담.",
+			"url": "https://t.co/md5kkeF5lm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/md5kkeF5lm",
+							"expanded_url": "http://nomoredraft.tumblr.com/",
+							"display_url": "nomoredraft.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 404,
+			"friends_count": 360,
+			"listed_count": 11,
+			"created_at": "Mon Nov 09 09:22:04 +0000 2015",
+			"favourites_count": 1793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38850,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/676608301593792513/4MrFbCgF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/676608301593792513/4MrFbCgF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4177780393/1447061200",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1641,
+		"favorite_count": 541,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "실제로 한국인들은 인권을 일종의 제로섬 게임처럼 학습받아 옴. 이는 오랫동안 의무를 다해야 권리를 받는다는 기브 앤 테이크 논리로 잘못 교육했기 때문이라고 생각되는데, 권리를 천부인권으로 가르치지 않고 지불 후에 받는 재화처럼 가르쳤기 때문이 아닐까 싶음. 재화는 언젠간 고갈되니까."
+	},
+	{
 		"created_at": "Wed Dec 12 03:25:49 +0000 2018",
 		"id": 1072693981815889900,
 		"id_str": "1072693981815889921",
