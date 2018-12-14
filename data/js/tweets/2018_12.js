@@ -1,6 +1,437 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 14 03:00:41 +0000 2018",
+		"id": 1073412432897335300,
+		"id_str": "1073412432897335296",
+		"full_text": "@k4partisan 저번에 산에서 작은 애가 뽈뽈 뛰어다니는 걸 봤는데 귀여운 종은 또 귀엽더라구요. 위생에 대한 선입견 때문에 꺼려지는 건 어쩔 수 없지만, 사실 길에 돌아다니는 개나 고양이하고 다를 바도 없는 거 같아요.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "k4partisan",
+					"name": "空想科学革命傀儡",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1073411644514959400,
+		"in_reply_to_status_id_str": "1073411644514959360",
+		"in_reply_to_user_id": 1047103952297254900,
+		"in_reply_to_user_id_str": "1047103952297254912",
+		"in_reply_to_screen_name": "k4partisan",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 77,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11079,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@k4partisan 저번에 산에서 작은 애가 뽈뽈 뛰어다니는 걸 봤는데 귀여운 종은 또 귀엽더라구요. 위생에 대한 선입견 때문에 꺼려지는 건 어쩔 수 없지만, 사실 길에 돌아다니는 개나 고양이하고 다를 바도 없는 거 같아요."
+	},
+	{
+		"created_at": "Fri Dec 14 02:56:13 +0000 2018",
+		"id": 1073411307909443600,
+		"id_str": "1073411307909443584",
+		"full_text": "매스컴에서 하도 괴물쥐라고 해서 흉폭한 성정인 줄 알았는데, 유튜브로 보니까 엄청 순하네요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1073410979508023300,
+		"in_reply_to_status_id_str": "1073410979508023296",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 77,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11079,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "매스컴에서 하도 괴물쥐라고 해서 흉폭한 성정인 줄 알았는데, 유튜브로 보니까 엄청 순하네요."
+	},
+	{
+		"created_at": "Fri Dec 14 02:54:55 +0000 2018",
+		"id": 1073410979508023300,
+		"id_str": "1073410979508023296",
+		"full_text": "뉴트리아가 의외로 귀여운 건에 대해서:",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 77,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11079,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "뉴트리아가 의외로 귀여운 건에 대해서:"
+	},
+	{
+		"created_at": "Thu Dec 13 10:46:00 +0000 2018",
+		"id": 1073167144433573900,
+		"id_str": "1073167144433573889",
+		"full_text": "\"젠더는 허상인데 어떻게 트랜스젠더가 존재해?\" 라고 말하는 건 \"화폐는 허상인데 어떻게 가난한 사람이 존재해?\" 라고 말하는 것과 같아. 사회적으로 구성된 것이란 뜻은 존재하지 않는다는 뜻이 아니야 https://t.co/sGmzqSCuZ4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1073166748956778500,
+					"id_str": "1073166748956778496",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DuSneOhUYAAMRDh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuSneOhUYAAMRDh.jpg",
+					"url": "https://t.co/sGmzqSCuZ4",
+					"display_url": "pic.twitter.com/sGmzqSCuZ4",
+					"expanded_url": "https://twitter.com/vanillacat272/status/1073167144433573889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1054,
+							"h": 239,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1054,
+							"h": 239,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 154,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1073166748956778500,
+					"id_str": "1073166748956778496",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/DuSneOhUYAAMRDh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuSneOhUYAAMRDh.jpg",
+					"url": "https://t.co/sGmzqSCuZ4",
+					"display_url": "pic.twitter.com/sGmzqSCuZ4",
+					"expanded_url": "https://twitter.com/vanillacat272/status/1073167144433573889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1054,
+							"h": 239,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1054,
+							"h": 239,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 154,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 160103785,
+			"id_str": "160103785",
+			"name": "송우주💊",
+			"screen_name": "vanillacat272",
+			"location": "선계",
+			"description": "잡생각 1급 자격증 소지자/드럼을 치고 그림을 그리고 영화를 보고 귀여운것에 집착합니다/인터섹스 트랜스퀴어/양극성장애와 싸우고있습니다",
+			"url": "https://t.co/DGITgkTxN7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DGITgkTxN7",
+							"expanded_url": "http://ask.fm/chococat272",
+							"display_url": "ask.fm/chococat272",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10277,
+			"friends_count": 1319,
+			"listed_count": 92,
+			"created_at": "Sun Jun 27 05:41:33 +0000 2010",
+			"favourites_count": 122981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 225991,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1071727407327920129/LtWi6vr0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071727407327920129/LtWi6vr0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160103785/1529129974",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 655,
+		"favorite_count": 223,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"젠더는 허상인데 어떻게 트랜스젠더가 존재해?\" 라고 말하는 건 \"화폐는 허상인데 어떻게 가난한 사람이 존재해?\" 라고 말하는 것과 같아. 사회적으로 구성된 것이란 뜻은 존재하지 않는다는 뜻이 아니야 https://t.co/sGmzqSCuZ4"
+	},
+	{
 		"created_at": "Thu Dec 13 03:19:28 +0000 2018",
 		"id": 1073054769340530700,
 		"id_str": "1073054769340530689",
