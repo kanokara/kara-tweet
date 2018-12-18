@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 17 10:22:56 +0000 2018",
+		"id": 1074610889951567900,
+		"id_str": "1074610889951567872",
+		"full_text": "엄마가 나한테... 너도 인터넷 친구같은거 있냐? 무섭다 그런거 절대 만들지 마 이러는거임 눈물나 난 인터넷친구뿐야",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135834711,
+			"id_str": "135834711",
+			"name": "외않되",
+			"screen_name": "why_doushite",
+			"location": "비팔알림 X",
+			"description": "여자 너무좋다 남자 세상에서 제일싫다",
+			"url": "https://t.co/dsKzyyt9dd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dsKzyyt9dd",
+							"expanded_url": "http://ask.fm/why_doushite",
+							"display_url": "ask.fm/why_doushite",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5711,
+			"friends_count": 183,
+			"listed_count": 43,
+			"created_at": "Thu Apr 22 10:27:13 +0000 2010",
+			"favourites_count": 7633,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38745,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072824372799262720/WLOWrAF9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072824372799262720/WLOWrAF9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135834711/1542539125",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5071,
+		"favorite_count": 1286,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "엄마가 나한테... 너도 인터넷 친구같은거 있냐? 무섭다 그런거 절대 만들지 마 이러는거임 눈물나 난 인터넷친구뿐야"
+	},
+	{
 		"created_at": "Mon Dec 17 18:15:33 +0000 2018",
 		"id": 1074729828878700500,
 		"id_str": "1074729828878700544",
