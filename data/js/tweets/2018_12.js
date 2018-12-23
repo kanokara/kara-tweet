@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Aug 17 17:36:56 +0000 2018",
+		"id": 1030508792104898600,
+		"id_str": "1030508792104898560",
+		"full_text": "하위 90%를 선별하려다 전원지급보다도 돈이 더 들게 되는 계산서에 대하여 어떤 보리수님이 \"이렇게 절차를 하나 넣어놓으면 모르거나 번거로워서 신청 안 하는 비율이 발생하므로 돈이 남는다\"고 주장하시는 걸 보고 일순 정신이 멍해졌다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 707605147061321700,
+			"id_str": "707605147061321729",
+			"name": "고양이형 카고",
+			"screen_name": "cat_cargo",
+			"location": "",
+			"description": "맞다 이 악마야",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4696,
+			"friends_count": 74,
+			"listed_count": 73,
+			"created_at": "Wed Mar 09 16:33:08 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2457,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/848025237019078658/7qn9GPQe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/848025237019078658/7qn9GPQe_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 434,
+		"favorite_count": 113,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "하위 90%를 선별하려다 전원지급보다도 돈이 더 들게 되는 계산서에 대하여 어떤 보리수님이 \"이렇게 절차를 하나 넣어놓으면 모르거나 번거로워서 신청 안 하는 비율이 발생하므로 돈이 남는다\"고 주장하시는 걸 보고 일순 정신이 멍해졌다"
+	},
+	{
+		"created_at": "Fri Aug 03 11:43:55 +0000 2018",
+		"id": 1025346523394072600,
+		"id_str": "1025346523394072576",
+		"full_text": "‘보리적 합수’가 이렇게까지 유행(?)할 줄 몰랐네. 그거 사실 제일 처음 만든 게 내 친구인데 알면 뿌듯해할 듯. 원래 걔가 이런 신조어 센스가 타고난 놈이라 만나면 늘 웃느라 정신 못 차림. 지난 미국 대선 때는 “트럼프 지지자들 그거 다 ‘백인탕탕충’이다”라고 해서 다들 배 잡고 뒤집어진…",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35781837,
+			"id_str": "35781837",
+			"name": "dennoch",
+			"screen_name": "dennoch1919",
+			"location": "Seoul, South Korea",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1212,
+			"friends_count": 367,
+			"listed_count": 32,
+			"created_at": "Mon Apr 27 16:15:57 +0000 2009",
+			"favourites_count": 5353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4194,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1064083726928203777/N6EMQwyz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064083726928203777/N6EMQwyz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35781837/1542530531",
+			"profile_link_color": "001871",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "‘보리적 합수’가 이렇게까지 유행(?)할 줄 몰랐네. 그거 사실 제일 처음 만든 게 내 친구인데 알면 뿌듯해할 듯. 원래 걔가 이런 신조어 센스가 타고난 놈이라 만나면 늘 웃느라 정신 못 차림. 지난 미국 대선 때는 “트럼프 지지자들 그거 다 ‘백인탕탕충’이다”라고 해서 다들 배 잡고 뒤집어진…"
+	},
+	{
+		"created_at": "Sat May 19 13:34:09 +0000 2018",
+		"id": 997832785799794700,
+		"id_str": "997832785799794688",
+		"full_text": "컴퓨터공학과 졸업하신 분이 리눅스 설치만 해봐도 알 수 있는 스왑을 두고 네거티브로 사용하는 건 진정한 보리적 합수의 자세가 아니지 않습니까? https://t.co/hEk3n1S9Nm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 997832773632118800,
+					"id_str": "997832773632118784",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/DdkDnvGV0AAxYQp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdkDnvGV0AAxYQp.jpg",
+					"url": "https://t.co/hEk3n1S9Nm",
+					"display_url": "pic.twitter.com/hEk3n1S9Nm",
+					"expanded_url": "https://twitter.com/chosy96/status/997832785799794688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 997832773632118800,
+					"id_str": "997832773632118784",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/DdkDnvGV0AAxYQp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdkDnvGV0AAxYQp.jpg",
+					"url": "https://t.co/hEk3n1S9Nm",
+					"display_url": "pic.twitter.com/hEk3n1S9Nm",
+					"expanded_url": "https://twitter.com/chosy96/status/997832785799794688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35781837,
+			"id_str": "35781837",
+			"name": "dennoch",
+			"screen_name": "dennoch1919",
+			"location": "Seoul, South Korea",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1212,
+			"friends_count": 367,
+			"listed_count": 32,
+			"created_at": "Mon Apr 27 16:15:57 +0000 2009",
+			"favourites_count": 5353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4194,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1064083726928203777/N6EMQwyz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064083726928203777/N6EMQwyz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35781837/1542530531",
+			"profile_link_color": "001871",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "컴퓨터공학과 졸업하신 분이 리눅스 설치만 해봐도 알 수 있는 스왑을 두고 네거티브로 사용하는 건 진정한 보리적 합수의 자세가 아니지 않습니까? https://t.co/hEk3n1S9Nm"
+	},
+	{
 		"created_at": "Sun Dec 23 04:30:48 +0000 2018",
 		"id": 1076696603069562900,
 		"id_str": "1076696603069562880",
