@@ -59,6 +59,727 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
+			"followers_count": 80923,
+			"friends_count": 222,
+			"listed_count": 695,
+			"created_at": "Fri Jun 04 08:44:20 +0000 2010",
+			"favourites_count": 1026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 252326,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F2F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/151807455/1540048520",
+			"profile_link_color": "464A5C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FB274A",
+			"profile_text_color": "DB6955",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 189,
+		"favorite_count": 94,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "정치적 이슈에 대해 시민으로서 의견과 의무감을 갖고 있지만 작품에 담을 열정은 없을 수도 있잖아요. 그 사람들은 침묵해야 하나?"
+	},
+	{
+		"created_at": "Sun Dec 23 06:12:11 +0000 2018",
+		"id": 1076722116404207600,
+		"id_str": "1076722116404207617",
+		"full_text": "정치적 메세지를 담은 훌륭한 창작물을 만드는 사람들은 그런 메시지를 담은 작품에 최적화된 사람들이라고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1076721973307203600,
+		"in_reply_to_status_id_str": "1076721973307203584",
+		"in_reply_to_user_id": 151807455,
+		"in_reply_to_user_id_str": "151807455",
+		"in_reply_to_screen_name": "djuna01",
+		"user": {
+			"id": 151807455,
+			"id_str": "151807455",
+			"name": "djuna",
+			"screen_name": "djuna01",
+			"location": "South Korea",
+			"description": "[구부전], [안개와 더러운 공기 속에서], [마지막 테스트], [추억충], [마지막 피 한 방울까지], [각자의 시간 속에서], [민트의 세계], [두 번째 유모], [그 겨울, 손탁 호텔에서], [캘리번], [그깟 공놀이] | 극장 마스킹 정보 https://t.co/sjITM4nouM",
+			"url": "https://t.co/hO1XEzYVfJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hO1XEzYVfJ",
+							"expanded_url": "http://djuna.kr",
+							"display_url": "djuna.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/sjITM4nouM",
+							"expanded_url": "http://goo.gl/y6Idv1",
+							"display_url": "goo.gl/y6Idv1",
+							"indices": [
+								139,
+								162
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 80923,
+			"friends_count": 222,
+			"listed_count": 695,
+			"created_at": "Fri Jun 04 08:44:20 +0000 2010",
+			"favourites_count": 1026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 252326,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F2F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/151807455/1540048520",
+			"profile_link_color": "464A5C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FB274A",
+			"profile_text_color": "DB6955",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 200,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "정치적 메세지를 담은 훌륭한 창작물을 만드는 사람들은 그런 메시지를 담은 작품에 최적화된 사람들이라고."
+	},
+	{
+		"created_at": "Sun Dec 23 06:11:37 +0000 2018",
+		"id": 1076721973307203600,
+		"id_str": "1076721973307203584",
+		"full_text": "할 말이 있으면 작품으로 말하라는 말은 진짜로 어이가 없다고. 작품으로는 작품으로 할 수 있는 가장 좋은 이야기를 하는 거지. 직접 할 수 있는 이야기를 억지로 작품에 담을 필요가 있을까? 메시지도 흐려지고 작품도 망가질 텐데?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 151807455,
+			"id_str": "151807455",
+			"name": "djuna",
+			"screen_name": "djuna01",
+			"location": "South Korea",
+			"description": "[구부전], [안개와 더러운 공기 속에서], [마지막 테스트], [추억충], [마지막 피 한 방울까지], [각자의 시간 속에서], [민트의 세계], [두 번째 유모], [그 겨울, 손탁 호텔에서], [캘리번], [그깟 공놀이] | 극장 마스킹 정보 https://t.co/sjITM4nouM",
+			"url": "https://t.co/hO1XEzYVfJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hO1XEzYVfJ",
+							"expanded_url": "http://djuna.kr",
+							"display_url": "djuna.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/sjITM4nouM",
+							"expanded_url": "http://goo.gl/y6Idv1",
+							"display_url": "goo.gl/y6Idv1",
+							"indices": [
+								139,
+								162
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 80923,
+			"friends_count": 222,
+			"listed_count": 695,
+			"created_at": "Fri Jun 04 08:44:20 +0000 2010",
+			"favourites_count": 1026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 252326,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F2F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/151807455/1540048520",
+			"profile_link_color": "464A5C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FB274A",
+			"profile_text_color": "DB6955",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 954,
+		"favorite_count": 498,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "할 말이 있으면 작품으로 말하라는 말은 진짜로 어이가 없다고. 작품으로는 작품으로 할 수 있는 가장 좋은 이야기를 하는 거지. 직접 할 수 있는 이야기를 억지로 작품에 담을 필요가 있을까? 메시지도 흐려지고 작품도 망가질 텐데?"
+	},
+	{
+		"created_at": "Sun Dec 23 18:53:20 +0000 2018",
+		"id": 1076913666778292200,
+		"id_str": "1076913666778292224",
+		"full_text": "'캐치하다'의 뉘앙스를 그대로 살리는 한국어를 생각해봤는데, '채어내다' 같은 표현이면 괜찮을 것 같아요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 79,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11145,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "'캐치하다'의 뉘앙스를 그대로 살리는 한국어를 생각해봤는데, '채어내다' 같은 표현이면 괜찮을 것 같아요."
+	},
+	{
+		"created_at": "Fri Aug 17 17:36:56 +0000 2018",
+		"id": 1030508792104898600,
+		"id_str": "1030508792104898560",
+		"full_text": "하위 90%를 선별하려다 전원지급보다도 돈이 더 들게 되는 계산서에 대하여 어떤 보리수님이 \"이렇게 절차를 하나 넣어놓으면 모르거나 번거로워서 신청 안 하는 비율이 발생하므로 돈이 남는다\"고 주장하시는 걸 보고 일순 정신이 멍해졌다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 707605147061321700,
+			"id_str": "707605147061321729",
+			"name": "고양이형 카고",
+			"screen_name": "cat_cargo",
+			"location": "",
+			"description": "맞다 이 악마야",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4692,
+			"friends_count": 74,
+			"listed_count": 73,
+			"created_at": "Wed Mar 09 16:33:08 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2457,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/848025237019078658/7qn9GPQe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/848025237019078658/7qn9GPQe_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 434,
+		"favorite_count": 113,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "하위 90%를 선별하려다 전원지급보다도 돈이 더 들게 되는 계산서에 대하여 어떤 보리수님이 \"이렇게 절차를 하나 넣어놓으면 모르거나 번거로워서 신청 안 하는 비율이 발생하므로 돈이 남는다\"고 주장하시는 걸 보고 일순 정신이 멍해졌다"
+	},
+	{
+		"created_at": "Fri Aug 03 11:43:55 +0000 2018",
+		"id": 1025346523394072600,
+		"id_str": "1025346523394072576",
+		"full_text": "‘보리적 합수’가 이렇게까지 유행(?)할 줄 몰랐네. 그거 사실 제일 처음 만든 게 내 친구인데 알면 뿌듯해할 듯. 원래 걔가 이런 신조어 센스가 타고난 놈이라 만나면 늘 웃느라 정신 못 차림. 지난 미국 대선 때는 “트럼프 지지자들 그거 다 ‘백인탕탕충’이다”라고 해서 다들 배 잡고 뒤집어진…",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35781837,
+			"id_str": "35781837",
+			"name": "dennoch",
+			"screen_name": "dennoch1919",
+			"location": "Seoul, South Korea",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1211,
+			"friends_count": 368,
+			"listed_count": 32,
+			"created_at": "Mon Apr 27 16:15:57 +0000 2009",
+			"favourites_count": 5357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4204,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1064083726928203777/N6EMQwyz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064083726928203777/N6EMQwyz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35781837/1542530531",
+			"profile_link_color": "001871",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "‘보리적 합수’가 이렇게까지 유행(?)할 줄 몰랐네. 그거 사실 제일 처음 만든 게 내 친구인데 알면 뿌듯해할 듯. 원래 걔가 이런 신조어 센스가 타고난 놈이라 만나면 늘 웃느라 정신 못 차림. 지난 미국 대선 때는 “트럼프 지지자들 그거 다 ‘백인탕탕충’이다”라고 해서 다들 배 잡고 뒤집어진…"
+	},
+	{
+		"created_at": "Sat May 19 13:34:09 +0000 2018",
+		"id": 997832785799794700,
+		"id_str": "997832785799794688",
+		"full_text": "컴퓨터공학과 졸업하신 분이 리눅스 설치만 해봐도 알 수 있는 스왑을 두고 네거티브로 사용하는 건 진정한 보리적 합수의 자세가 아니지 않습니까? https://t.co/hEk3n1S9Nm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 997832773632118800,
+					"id_str": "997832773632118784",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/DdkDnvGV0AAxYQp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdkDnvGV0AAxYQp.jpg",
+					"url": "https://t.co/hEk3n1S9Nm",
+					"display_url": "pic.twitter.com/hEk3n1S9Nm",
+					"expanded_url": "https://twitter.com/chosy96/status/997832785799794688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 997832773632118800,
+					"id_str": "997832773632118784",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/DdkDnvGV0AAxYQp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DdkDnvGV0AAxYQp.jpg",
+					"url": "https://t.co/hEk3n1S9Nm",
+					"display_url": "pic.twitter.com/hEk3n1S9Nm",
+					"expanded_url": "https://twitter.com/chosy96/status/997832785799794688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35781837,
+			"id_str": "35781837",
+			"name": "dennoch",
+			"screen_name": "dennoch1919",
+			"location": "Seoul, South Korea",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1211,
+			"friends_count": 368,
+			"listed_count": 32,
+			"created_at": "Mon Apr 27 16:15:57 +0000 2009",
+			"favourites_count": 5357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4204,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1064083726928203777/N6EMQwyz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064083726928203777/N6EMQwyz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35781837/1542530531",
+			"profile_link_color": "001871",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "컴퓨터공학과 졸업하신 분이 리눅스 설치만 해봐도 알 수 있는 스왑을 두고 네거티브로 사용하는 건 진정한 보리적 합수의 자세가 아니지 않습니까? https://t.co/hEk3n1S9Nm"
+	},
+	{
+		"created_at": "Sun Dec 23 06:17:19 +0000 2018",
+		"id": 1076723408249868300,
+		"id_str": "1076723408249868288",
+		"full_text": "정치적 이슈에 대해 시민으로서 의견과 의무감을 갖고 있지만 작품에 담을 열정은 없을 수도 있잖아요. 그 사람들은 침묵해야 하나?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1076722575802196000,
+		"in_reply_to_status_id_str": "1076722575802195968",
+		"in_reply_to_user_id": 151807455,
+		"in_reply_to_user_id_str": "151807455",
+		"in_reply_to_screen_name": "djuna01",
+		"user": {
+			"id": 151807455,
+			"id_str": "151807455",
+			"name": "djuna",
+			"screen_name": "djuna01",
+			"location": "South Korea",
+			"description": "[구부전], [안개와 더러운 공기 속에서], [마지막 테스트], [추억충], [마지막 피 한 방울까지], [각자의 시간 속에서], [민트의 세계], [두 번째 유모], [그 겨울, 손탁 호텔에서], [캘리번], [그깟 공놀이] | 극장 마스킹 정보 https://t.co/sjITM4nouM",
+			"url": "https://t.co/hO1XEzYVfJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hO1XEzYVfJ",
+							"expanded_url": "http://djuna.kr",
+							"display_url": "djuna.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/sjITM4nouM",
+							"expanded_url": "http://goo.gl/y6Idv1",
+							"display_url": "goo.gl/y6Idv1",
+							"indices": [
+								139,
+								162
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
 			"followers_count": 80918,
 			"friends_count": 222,
 			"listed_count": 695,
