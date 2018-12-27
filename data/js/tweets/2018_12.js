@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 27 02:59:17 +0000 2018",
+		"id": 1078123120903376900,
+		"id_str": "1078123120903376897",
+		"full_text": "@k4partisan 어떻게 생각해요? 올라탈 만할까요? (...)\nhttps://t.co/EJPKhmfT7t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "k4partisan",
+					"name": "空想科学革命傀儡",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EJPKhmfT7t",
+					"expanded_url": "https://twitter.com/Hayakawashobo/status/1077806356957020160",
+					"display_url": "twitter.com/Hayakawashobo/…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1047103952297254900,
+		"in_reply_to_user_id_str": "1047103952297254912",
+		"in_reply_to_screen_name": "k4partisan",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 79,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11149,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1077806356957020200,
+		"quoted_status_id_str": "1077806356957020160",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EJPKhmfT7t",
+			"expanded": "https://twitter.com/Hayakawashobo/status/1077806356957020160",
+			"display": "twitter.com/Hayakawashobo/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 26 06:00:34 +0000 2018",
+			"id": 1077806356957020200,
+			"id_str": "1077806356957020160",
+			"full_text": "【速報】\nSFマガジン百合特集は予約在庫全滅に対応するため、緊急の発売前重版を行いました。しかしその在庫も一瞬で枯渇。よって本日、追加の重版が決定！　3刷目の増刷は1959年の創刊以来、初めての快挙となります。\n\n\"百合の時代\" 開幕のベルが鳴る――SFマガジン2月号全目次\nhttps://t.co/pq43Ni6nAd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				161
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pq43Ni6nAd",
+						"expanded_url": "https://www.hayakawabooks.com/n/n010910b8bd6f",
+						"display_url": "hayakawabooks.com/n/n010910b8bd6f",
+						"indices": [
+							138,
+							161
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 97387385,
+				"id_str": "97387385",
+				"name": "早川書房公式",
+				"screen_name": "Hayakawashobo",
+				"location": "千代田区神田多町2-2",
+				"description": "早川書房公式アカウントです。中の人は5名。ノンフィクション @hykw_NF 、翻訳SFファンタジイ @hykw_SF 、営業部（書店様向け） @hykw_sales の各アカウントもよろしくお願いします。なお、書籍に関するお問い合わせはお客様係 http://t.co/IsM1tma1BO までお願いいたします。",
+				"url": "http://t.co/RnBi5cQlJl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/RnBi5cQlJl",
+								"expanded_url": "http://www.hayakawa-online.co.jp/",
+								"display_url": "hayakawa-online.co.jp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/IsM1tma1BO",
+								"expanded_url": "http://www.hayakawa-online.co.jp/html/page2.html",
+								"display_url": "hayakawa-online.co.jp/html/page2.html",
+								"indices": [
+									124,
+									146
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 62529,
+				"friends_count": 10514,
+				"listed_count": 4668,
+				"created_at": "Thu Dec 17 07:10:54 +0000 2009",
+				"favourites_count": 3234,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 46296,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877813900229591040/WyA5f99Y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877813900229591040/WyA5f99Y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/97387385/1460599897",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2015,
+			"favorite_count": 1543,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@k4partisan 어떻게 생각해요? 올라탈 만할까요? (...)\nhttps://t.co/EJPKhmfT7t"
+	},
+	{
 		"created_at": "Tue Dec 25 21:39:25 +0000 2018",
 		"id": 1077680236655865900,
 		"id_str": "1077680236655865856",
