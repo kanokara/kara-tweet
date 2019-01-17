@@ -1,6 +1,541 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 17 17:46:10 +0000 2019",
+		"id": 1085956460742209500,
+		"id_str": "1086037053538676736",
+		"full_text": "@akhee_ahn_ @doskharaas Shane의 연구는https://t.co/J7p0FDmwVD에서 확인하실수 있고 시카고 학파의 교육용 매뉴얼 이었던 “Field Studies In Sociology”는 https://t.co/8Jpd4Ob7IL 여기서 확인 하실 수 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "akhee_ahn_",
+					"name": "Akhee Ahn🌈🎗⛑(안악희)",
+					"id": 4177780393,
+					"id_str": "4177780393",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "doskharaas",
+					"name": "[반동결]손지상-개인 사정으로 쉽니다. 연락은 이메일이나 개인연락처로 부탁드려요",
+					"id": 187070498,
+					"id_str": "187070498",
+					"indices": [
+						12,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/J7p0FDmwVD",
+					"expanded_url": "https://www.tandfonline.com/doi/full/10.1080/01639625.2013.859049#",
+					"display_url": "tandfonline.com/doi/full/10.10…",
+					"indices": [
+						34,
+						57
+					]
+				},
+				{
+					"url": "https://t.co/8Jpd4Ob7IL",
+					"expanded_url": "https://archive.org/details/fieldstudiesinso031925mbp/page/n95",
+					"display_url": "archive.org/details/fields…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1085956206865276900,
+		"in_reply_to_status_id_str": "1085956206865276929",
+		"in_reply_to_user_id": 217633765,
+		"in_reply_to_user_id_str": "217633765",
+		"in_reply_to_screen_name": "Kimmauelkant",
+		"user": {
+			"id": 217633765,
+			"id_str": "217633765",
+			"name": "Kimmanuelkant",
+			"screen_name": "Kimmauelkant",
+			"location": "東京都 文京区",
+			"description": "한국과 일본의 서브컬쳐를 연구하는 대학원생입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 157,
+			"friends_count": 93,
+			"listed_count": 1,
+			"created_at": "Sat Nov 20 02:09:55 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2900,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/660326988259848192/rbLZvS9r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/660326988259848192/rbLZvS9r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217633765/1384966851",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@akhee_ahn_ @doskharaas Shane의 연구는https://t.co/J7p0FDmwVD에서 확인하실수 있고 시카고 학파의 교육용 매뉴얼 이었던 “Field Studies In Sociology”는 https://t.co/8Jpd4Ob7IL 여기서 확인 하실 수 있습니다."
+	},
+	{
+		"created_at": "Thu Jan 17 17:45:43 +0000 2019",
+		"id": 1085956343809204200,
+		"id_str": "1086037023222198272",
+		"full_text": "@akhee_ahn_ @doskharaas 그리고 하위문화 연구가 어느정도 일반화 된 이후에 시카고 학파의 일탈 연구가 당시 청년문화에 주목했다는 점, 방법론적으로 민족지학적 방법을 많이 원용했다는 점에서 “서브컬처 연구”의 효시로 재평가 된 것으로 보는게 더 정당한 평가일 것 같습니다.",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "akhee_ahn_",
+					"name": "Akhee Ahn🌈🎗⛑(안악희)",
+					"id": 4177780393,
+					"id_str": "4177780393",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "doskharaas",
+					"name": "[반동결]손지상-개인 사정으로 쉽니다. 연락은 이메일이나 개인연락처로 부탁드려요",
+					"id": 187070498,
+					"id_str": "187070498",
+					"indices": [
+						12,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1085956206865276900,
+		"in_reply_to_status_id_str": "1085956206865276929",
+		"in_reply_to_user_id": 217633765,
+		"in_reply_to_user_id_str": "217633765",
+		"in_reply_to_screen_name": "Kimmauelkant",
+		"user": {
+			"id": 217633765,
+			"id_str": "217633765",
+			"name": "Kimmanuelkant",
+			"screen_name": "Kimmauelkant",
+			"location": "東京都 文京区",
+			"description": "한국과 일본의 서브컬쳐를 연구하는 대학원생입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 157,
+			"friends_count": 93,
+			"listed_count": 1,
+			"created_at": "Sat Nov 20 02:09:55 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2900,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/660326988259848192/rbLZvS9r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/660326988259848192/rbLZvS9r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217633765/1384966851",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@akhee_ahn_ @doskharaas 그리고 하위문화 연구가 어느정도 일반화 된 이후에 시카고 학파의 일탈 연구가 당시 청년문화에 주목했다는 점, 방법론적으로 민족지학적 방법을 많이 원용했다는 점에서 “서브컬처 연구”의 효시로 재평가 된 것으로 보는게 더 정당한 평가일 것 같습니다."
+	},
+	{
+		"created_at": "Thu Jan 17 17:45:10 +0000 2019",
+		"id": 1085956206865276900,
+		"id_str": "1086036965638598656",
+		"full_text": "@akhee_ahn_ @doskharaas 양가적 태도들을 읽어낸 것이 오늘날 말하는 서브컬처 연구의 출발이라고 볼 수 있지요 이후 영미권에 이루어지는 서브컬처 연구들은 선택적으로 다른 사회과학의 이론틀이나 개념을 빌려 오곤 하지만 기본적으로 이 문화 연구적 유스-서브컬처 연구에 영향을 받고 있다고 할 수 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "akhee_ahn_",
+					"name": "Akhee Ahn🌈🎗⛑(안악희)",
+					"id": 4177780393,
+					"id_str": "4177780393",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "doskharaas",
+					"name": "[반동결]손지상-개인 사정으로 쉽니다. 연락은 이메일이나 개인연락처로 부탁드려요",
+					"id": 187070498,
+					"id_str": "187070498",
+					"indices": [
+						12,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1085955986253213700,
+		"in_reply_to_status_id_str": "1085955986253213697",
+		"in_reply_to_user_id": 217633765,
+		"in_reply_to_user_id_str": "217633765",
+		"in_reply_to_screen_name": "Kimmauelkant",
+		"user": {
+			"id": 217633765,
+			"id_str": "217633765",
+			"name": "Kimmanuelkant",
+			"screen_name": "Kimmauelkant",
+			"location": "東京都 文京区",
+			"description": "한국과 일본의 서브컬쳐를 연구하는 대학원생입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 157,
+			"friends_count": 93,
+			"listed_count": 1,
+			"created_at": "Sat Nov 20 02:09:55 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2900,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/660326988259848192/rbLZvS9r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/660326988259848192/rbLZvS9r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217633765/1384966851",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@akhee_ahn_ @doskharaas 양가적 태도들을 읽어낸 것이 오늘날 말하는 서브컬처 연구의 출발이라고 볼 수 있지요 이후 영미권에 이루어지는 서브컬처 연구들은 선택적으로 다른 사회과학의 이론틀이나 개념을 빌려 오곤 하지만 기본적으로 이 문화 연구적 유스-서브컬처 연구에 영향을 받고 있다고 할 수 있습니다."
+	},
+	{
+		"created_at": "Thu Jan 17 17:44:17 +0000 2019",
+		"id": 1085955986253213700,
+		"id_str": "1086036913935441920",
+		"full_text": "@akhee_ahn_ @doskharaas 다만 이후 전후 영국의 문화연구cultural studies의 맥락에서 모드족, 댄디족등 당시의 유스컬처를 설명하기 위해서 sub-culture란 용어를 재개념화(시카고 학파 보단, 영국적 전통의 사회병리학적 관점으로부터) 시켜 사용했고, 그 와중에 그들의 문화로부터 기성세대와 주류문화에 대한 저항 혹은",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "akhee_ahn_",
+					"name": "Akhee Ahn🌈🎗⛑(안악희)",
+					"id": 4177780393,
+					"id_str": "4177780393",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "doskharaas",
+					"name": "[반동결]손지상-개인 사정으로 쉽니다. 연락은 이메일이나 개인연락처로 부탁드려요",
+					"id": 187070498,
+					"id_str": "187070498",
+					"indices": [
+						12,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1085955803222179800,
+		"in_reply_to_status_id_str": "1085955803222179840",
+		"in_reply_to_user_id": 217633765,
+		"in_reply_to_user_id_str": "217633765",
+		"in_reply_to_screen_name": "Kimmauelkant",
+		"user": {
+			"id": 217633765,
+			"id_str": "217633765",
+			"name": "Kimmanuelkant",
+			"screen_name": "Kimmauelkant",
+			"location": "東京都 文京区",
+			"description": "한국과 일본의 서브컬쳐를 연구하는 대학원생입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 157,
+			"friends_count": 93,
+			"listed_count": 1,
+			"created_at": "Sat Nov 20 02:09:55 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2900,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/660326988259848192/rbLZvS9r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/660326988259848192/rbLZvS9r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217633765/1384966851",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@akhee_ahn_ @doskharaas 다만 이후 전후 영국의 문화연구cultural studies의 맥락에서 모드족, 댄디족등 당시의 유스컬처를 설명하기 위해서 sub-culture란 용어를 재개념화(시카고 학파 보단, 영국적 전통의 사회병리학적 관점으로부터) 시켜 사용했고, 그 와중에 그들의 문화로부터 기성세대와 주류문화에 대한 저항 혹은"
+	},
+	{
+		"created_at": "Thu Jan 17 17:43:34 +0000 2019",
+		"id": 1085955803222179800,
+		"id_str": "1086036856712585216",
+		"full_text": "@akhee_ahn_ @doskharaas 이 개념을 사용했다고 말하는건 다소 과장된 측면이 있습니다. Shane(2013)의 논문에 따르면 이 개념이 시카고 학파에서 처음 사용되긴 하지만 학생 교육용 매뉴얼에 방법론을 설명하기 위해 실린 개념이었고, 일탈보다는 지역성locality를 설명하기 위한 개념이었습니다.",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "akhee_ahn_",
+					"name": "Akhee Ahn🌈🎗⛑(안악희)",
+					"id": 4177780393,
+					"id_str": "4177780393",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "doskharaas",
+					"name": "[반동결]손지상-개인 사정으로 쉽니다. 연락은 이메일이나 개인연락처로 부탁드려요",
+					"id": 187070498,
+					"id_str": "187070498",
+					"indices": [
+						12,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1085955576910082000,
+		"in_reply_to_status_id_str": "1085955576910082048",
+		"in_reply_to_user_id": 217633765,
+		"in_reply_to_user_id_str": "217633765",
+		"in_reply_to_screen_name": "Kimmauelkant",
+		"user": {
+			"id": 217633765,
+			"id_str": "217633765",
+			"name": "Kimmanuelkant",
+			"screen_name": "Kimmauelkant",
+			"location": "東京都 文京区",
+			"description": "한국과 일본의 서브컬쳐를 연구하는 대학원생입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 157,
+			"friends_count": 93,
+			"listed_count": 1,
+			"created_at": "Sat Nov 20 02:09:55 +0000 2010",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2900,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/660326988259848192/rbLZvS9r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/660326988259848192/rbLZvS9r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/217633765/1384966851",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@akhee_ahn_ @doskharaas 이 개념을 사용했다고 말하는건 다소 과장된 측면이 있습니다. Shane(2013)의 논문에 따르면 이 개념이 시카고 학파에서 처음 사용되긴 하지만 학생 교육용 매뉴얼에 방법론을 설명하기 위해 실린 개념이었고, 일탈보다는 지역성locality를 설명하기 위한 개념이었습니다."
+	},
+	{
 		"created_at": "Mon Jan 14 09:38:34 +0000 2019",
 		"id": 1084746588528898000,
 		"id_str": "1084746588528898049",
