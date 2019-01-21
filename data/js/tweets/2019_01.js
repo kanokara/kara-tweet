@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri May 25 02:06:39 +0000 2018",
+		"id": 999834098389672000,
+		"id_str": "1087315387778093056",
+		"full_text": "신문지가 보통 용지들보다 사이즈가 큰 이유를 아시나요? 신문지가 크게 나오기 시작한것은 영국정부가 부가한 세금때문이라는데요.. 다빈치 지식지도에 놀러오셔서 영어공부와 재밌는 지식을 배워가세요!\n.\nhttps://t.co/8TweV5Ggw0\n.\n#신문지 #뉴스 #재밌는상식 #영국 #신문사 #세금 #영어공부 #지식 https://t.co/c57hEOR5GC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신문지",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "뉴스",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "재밌는상식",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "영국",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "신문사",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "세금",
+					"indices": [
+						161,
+						164
+					]
+				},
+				{
+					"text": "영어공부",
+					"indices": [
+						165,
+						170
+					]
+				},
+				{
+					"text": "지식",
+					"indices": [
+						171,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8TweV5Ggw0",
+					"expanded_url": "http://davincimap.co.kr/davBase/Docu/davDocu.jsp?job=T&DocuID=DOCU002013&SelPg=21863&tab2=D",
+					"display_url": "davincimap.co.kr/davBase/Docu/d…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 999834083600445400,
+					"id_str": "999834083600445440",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/DeAfzTtVMAAbHbR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DeAfzTtVMAAbHbR.jpg",
+					"url": "https://t.co/c57hEOR5GC",
+					"display_url": "pic.twitter.com/c57hEOR5GC",
+					"expanded_url": "https://twitter.com/daVinci_Map/status/999834098389671936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 556,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 837,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 837,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 999834083600445400,
+					"id_str": "999834083600445440",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/DeAfzTtVMAAbHbR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DeAfzTtVMAAbHbR.jpg",
+					"url": "https://t.co/c57hEOR5GC",
+					"display_url": "pic.twitter.com/c57hEOR5GC",
+					"expanded_url": "https://twitter.com/daVinci_Map/status/999834098389671936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 556,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 837,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 837,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 974102075800997900,
+			"id_str": "974102075800997888",
+			"name": "daVinci Map",
+			"screen_name": "daVinci_Map",
+			"location": "Halifax, Nova Scotia",
+			"description": "Start-up operating in Korea and Canada. 지식을 그리다- Draw your knowledge. 영어 사전, 백과 사전, 블로그. 지식의 시각화 - Visualization.",
+			"url": "https://t.co/NobINCdGMq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NobINCdGMq",
+							"expanded_url": "http://davincimap.co.kr",
+							"display_url": "davincimap.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 965,
+			"friends_count": 2433,
+			"listed_count": 0,
+			"created_at": "Thu Mar 15 01:56:47 +0000 2018",
+			"favourites_count": 598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976542112249536513/8OY3Hq77_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976542112249536513/8OY3Hq77_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/974102075800997888/1521639230",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "신문지가 보통 용지들보다 사이즈가 큰 이유를 아시나요? 신문지가 크게 나오기 시작한것은 영국정부가 부가한 세금때문이라는데요.. 다빈치 지식지도에 놀러오셔서 영어공부와 재밌는 지식을 배워가세요!\n.\nhttps://t.co/8TweV5Ggw0\n.\n#신문지 #뉴스 #재밌는상식 #영국 #신문사 #세금 #영어공부 #지식 https://t.co/c57hEOR5GC"
+	},
+	{
 		"created_at": "Sun Jan 20 11:38:54 +0000 2019",
 		"id": 1086951194835136500,
 		"id_str": "1086951194835136512",
