@@ -1,6 +1,108 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 28 17:31:40 +0000 2019",
+		"id": 1089939075224617000,
+		"id_str": "1089939075224616960",
+		"full_text": "IZ*ONE (아이즈원) - '라비앙로즈 (La Vie en Rose)' MV Performance Ver https://t.co/OmT4Aiiz5a\nIZ*ONE (아이즈원) - '好きと言わせたい (Suki to Iwasetai)' MV https://t.co/5odrzc6IdR\n\nK하고 J가 이렇게나 다르네요. 후자를 먼저 봤는데, 당 그룹을 잘 몰라서 과반수가 일본인인 줄 알았어요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OmT4Aiiz5a",
+					"expanded_url": "https://youtu.be/E-T1gEeUqwA",
+					"display_url": "youtu.be/E-T1gEeUqwA",
+					"indices": [
+						60,
+						83
+					]
+				},
+				{
+					"url": "https://t.co/5odrzc6IdR",
+					"expanded_url": "https://youtu.be/dLymsYC7Kmo",
+					"display_url": "youtu.be/dLymsYC7Kmo",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 78,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11189,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "IZ*ONE (아이즈원) - '라비앙로즈 (La Vie en Rose)' MV Performance Ver https://t.co/OmT4Aiiz5a\nIZ*ONE (아이즈원) - '好きと言わせたい (Suki to Iwasetai)' MV https://t.co/5odrzc6IdR\n\nK하고 J가 이렇게나 다르네요. 후자를 먼저 봤는데, 당 그룹을 잘 몰라서 과반수가 일본인인 줄 알았어요."
+	},
+	{
 		"created_at": "Mon Jan 28 15:54:23 +0000 2019",
 		"id": 1089914594833780700,
 		"id_str": "1089914594833780736",
