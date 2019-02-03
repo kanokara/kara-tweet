@@ -1,6 +1,110 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 03 21:51:02 +0000 2019",
+		"id": 1092178674936250400,
+		"id_str": "1092178674936250368",
+		"full_text": "사카모토 마아야 - 매직 넘버(マジックナンバー) 한국어 자막 @20주년 라이브 2015 https://t.co/yaEt2zoJee\n\n(특히 료우기의 성대란 의미에서) 사카모토 씨는 늙지 않으셨으면 하는 소망이...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "20",
+					"name": "Hawkeesss ⚡️",
+					"id": 6020592,
+					"id_str": "6020592",
+					"indices": [
+						34,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yaEt2zoJee",
+					"expanded_url": "https://blog.naver.com/mahoyo/220583168906",
+					"display_url": "blog.naver.com/mahoyo/2205831…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 78,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11185,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "사카모토 마아야 - 매직 넘버(マジックナンバー) 한국어 자막 @20주년 라이브 2015 https://t.co/yaEt2zoJee\n\n(특히 료우기의 성대란 의미에서) 사카모토 씨는 늙지 않으셨으면 하는 소망이..."
+	},
+	{
 		"created_at": "Sun Feb 03 16:35:48 +0000 2019",
 		"id": 1092099343077670900,
 		"id_str": "1092099343077670914",
