@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 15 07:48:55 +0000 2019",
+		"id": 1096315402722828300,
+		"id_str": "1096385655922249728",
+		"full_text": "劇場版「空の境界」より\n両儀式 誕生日イベントは弊社関連店舗にて17日より。\n\n改めてのご紹介となります。\nお祝い、ご一緒致しましょう。\nhttps://t.co/qcjao4aXA6 https://t.co/JEcI3wQiyx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qcjao4aXA6",
+					"expanded_url": "http://www.ufotable.com/kkbirthday/",
+					"display_url": "ufotable.com/kkbirthday/",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1096314687661035500,
+					"id_str": "1096314687661035520",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DzbkZmAUUAAeuOY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzbkZmAUUAAeuOY.jpg",
+					"url": "https://t.co/JEcI3wQiyx",
+					"display_url": "pic.twitter.com/JEcI3wQiyx",
+					"expanded_url": "https://twitter.com/ufotable/status/1096315402722828288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 291,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096314687661035500,
+					"id_str": "1096314687661035520",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/DzbkZmAUUAAeuOY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzbkZmAUUAAeuOY.jpg",
+					"url": "https://t.co/JEcI3wQiyx",
+					"display_url": "pic.twitter.com/JEcI3wQiyx",
+					"expanded_url": "https://twitter.com/ufotable/status/1096315402722828288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 291,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17445709,
+			"id_str": "17445709",
+			"name": "ufotable",
+			"screen_name": "ufotable",
+			"location": "Koenji",
+			"description": "アニメーションスタジオufotableの公式アカウント。Fate/stay night[Heaven's Feel] 第二章 鋭意公開中です。",
+			"url": "https://t.co/xCmyGQu8uw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xCmyGQu8uw",
+							"expanded_url": "http://www.ufotable.com/",
+							"display_url": "ufotable.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257552,
+			"friends_count": 25,
+			"listed_count": 3675,
+			"created_at": "Mon Nov 17 17:25:51 +0000 2008",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30449,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7D1414",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083741704178397185/lILvFf4J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083741704178397185/lILvFf4J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17445709/1547219122",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "AE0000",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 428,
+		"favorite_count": 980,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "劇場版「空の境界」より\n両儀式 誕生日イベントは弊社関連店舗にて17日より。\n\n改めてのご紹介となります。\nお祝い、ご一緒致しましょう。\nhttps://t.co/qcjao4aXA6 https://t.co/JEcI3wQiyx"
+	},
+	{
 		"created_at": "Thu Feb 14 11:48:08 +0000 2019",
 		"id": 1096013214939136000,
 		"id_str": "1096013214939136000",
