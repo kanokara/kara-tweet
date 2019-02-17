@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 16 15:15:33 +0000 2019",
+		"id": 1096790190545297400,
+		"id_str": "1097065295989026816",
+		"full_text": "本日2月17日は、劇場版「空の境界」より\n両儀式の誕生日であります。\n\nufotableでは2007年より始まった劇場連作「空の境界」にてアニメーション制作を担当致しました。\nお祝いのイラストも到着&amp;お誕生日、おめでとうございます！\n\n記念グッズ・webshopもカートOPENです▼\nhttps://t.co/e3rMXBPwsg https://t.co/xUanma7rj6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e3rMXBPwsg",
+					"expanded_url": "https://ufotablewebshop.shop-pro.jp/?mode=cate&cbid=2495058&csid=0",
+					"display_url": "ufotablewebshop.shop-pro.jp/?mode=cate&cbi…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1096789376258867200,
+					"id_str": "1096789376258867200",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/DziUIG1VAAAXDZB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DziUIG1VAAAXDZB.jpg",
+					"url": "https://t.co/xUanma7rj6",
+					"display_url": "pic.twitter.com/xUanma7rj6",
+					"expanded_url": "https://twitter.com/ufotable/status/1096790190545297408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 931,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 931,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 584,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096789376258867200,
+					"id_str": "1096789376258867200",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/DziUIG1VAAAXDZB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DziUIG1VAAAXDZB.jpg",
+					"url": "https://t.co/xUanma7rj6",
+					"display_url": "pic.twitter.com/xUanma7rj6",
+					"expanded_url": "https://twitter.com/ufotable/status/1096790190545297408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 931,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 931,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 584,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17445709,
+			"id_str": "17445709",
+			"name": "ufotable",
+			"screen_name": "ufotable",
+			"location": "Koenji",
+			"description": "アニメーションスタジオufotableの公式アカウント。Fate/stay night[Heaven's Feel] 第二章 鋭意公開中です。",
+			"url": "https://t.co/xCmyGQu8uw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xCmyGQu8uw",
+							"expanded_url": "http://www.ufotable.com/",
+							"display_url": "ufotable.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258059,
+			"friends_count": 25,
+			"listed_count": 3682,
+			"created_at": "Mon Nov 17 17:25:51 +0000 2008",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30481,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7D1414",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083741704178397185/lILvFf4J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083741704178397185/lILvFf4J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17445709/1547219122",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "AE0000",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2922,
+		"favorite_count": 5579,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "本日2月17日は、劇場版「空の境界」より\n両儀式の誕生日であります。\n\nufotableでは2007年より始まった劇場連作「空の境界」にてアニメーション制作を担当致しました。\nお祝いのイラストも到着&amp;お誕生日、おめでとうございます！\n\n記念グッズ・webshopもカートOPENです▼\nhttps://t.co/e3rMXBPwsg https://t.co/xUanma7rj6"
+	},
+	{
 		"created_at": "Sat Feb 16 17:30:50 +0000 2019",
 		"id": 1096824234779697200,
 		"id_str": "1096824234779697153",
