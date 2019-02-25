@@ -1,6 +1,852 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 24 04:09:17 +0000 2019",
+		"id": 1099521624129253400,
+		"id_str": "1099947894772183040",
+		"full_text": "한줄요약: “유전학이 결정론이니 그외를 보자 라고 주장하는 분들은 유전학을 모름. 아직도 19세기 관점으로 살고 있음”.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1099521061689806800,
+		"in_reply_to_status_id_str": "1099521061689806848",
+		"in_reply_to_user_id": 1061929410,
+		"in_reply_to_user_id_str": "1061929410",
+		"in_reply_to_screen_name": "joonomics",
+		"user": {
+			"id": 1061929410,
+			"id_str": "1061929410",
+			"name": "Joon An",
+			"screen_name": "joonomics",
+			"location": "Seoul, Republic of Korea",
+			"description": "Scientist working on autism genetics at Korea University. Former Postdoc @UCSF QBI PhD graduate Australia @QldBrainInst",
+			"url": "https://t.co/tHAmcsM3Me",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tHAmcsM3Me",
+							"expanded_url": "https://joonanlab.github.io/",
+							"display_url": "joonanlab.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 386,
+			"friends_count": 329,
+			"listed_count": 23,
+			"created_at": "Sat Jan 05 02:16:41 +0000 2013",
+			"favourites_count": 3638,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/800509819509555200/raxa58Ut_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/800509819509555200/raxa58Ut_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 173,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한줄요약: “유전학이 결정론이니 그외를 보자 라고 주장하는 분들은 유전학을 모름. 아직도 19세기 관점으로 살고 있음”."
+	},
+	{
+		"created_at": "Sun Feb 24 04:07:03 +0000 2019",
+		"id": 1099521061689806800,
+		"id_str": "1099947871447638018",
+		"full_text": "나온 연구인지를 배운 사람들도 못 읽어냄. 그냥 “지능 유전자가 x염색체에 있다니 아들은 엄마꺼 받음” 이정도 수준으로 이해함. 이게 중딩 생물학에서 뭐가 더 나아진거지? 지금 유전체 맞춤형 시대라고 하는데 여전히 과학 교육은 유전학의 오래된 모델들과 이를 뒷받침 하는 실증적인 소개가 결여",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1099520635133354000,
+		"in_reply_to_status_id_str": "1099520635133353985",
+		"in_reply_to_user_id": 1061929410,
+		"in_reply_to_user_id_str": "1061929410",
+		"in_reply_to_screen_name": "joonomics",
+		"user": {
+			"id": 1061929410,
+			"id_str": "1061929410",
+			"name": "Joon An",
+			"screen_name": "joonomics",
+			"location": "Seoul, Republic of Korea",
+			"description": "Scientist working on autism genetics at Korea University. Former Postdoc @UCSF QBI PhD graduate Australia @QldBrainInst",
+			"url": "https://t.co/tHAmcsM3Me",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tHAmcsM3Me",
+							"expanded_url": "https://joonanlab.github.io/",
+							"display_url": "joonanlab.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 386,
+			"friends_count": 329,
+			"listed_count": 23,
+			"created_at": "Sat Jan 05 02:16:41 +0000 2013",
+			"favourites_count": 3638,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/800509819509555200/raxa58Ut_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/800509819509555200/raxa58Ut_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 114,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "나온 연구인지를 배운 사람들도 못 읽어냄. 그냥 “지능 유전자가 x염색체에 있다니 아들은 엄마꺼 받음” 이정도 수준으로 이해함. 이게 중딩 생물학에서 뭐가 더 나아진거지? 지금 유전체 맞춤형 시대라고 하는데 여전히 과학 교육은 유전학의 오래된 모델들과 이를 뒷받침 하는 실증적인 소개가 결여"
+	},
+	{
+		"created_at": "Sun Feb 24 04:05:22 +0000 2019",
+		"id": 1099520635133354000,
+		"id_str": "1099947855496699904",
+		"full_text": "이게 왜 우리 일상에 중요하나? 재작년 중앙일보에서 “아들의 지능은 엄마가 결정한다”라는 기사를 냄. 언피씨하고 우라까임. 게다가 유전학적으로 매우 틀린 시사임. 이걸 생물학부 졸업자들도 걸러내지 못함. 지능은 양적형질이고, 무슨 방법론으로 표현형의 차이를 설명하고, 어떤 코호트에서",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1099520270140756000,
+		"in_reply_to_status_id_str": "1099520270140755968",
+		"in_reply_to_user_id": 1061929410,
+		"in_reply_to_user_id_str": "1061929410",
+		"in_reply_to_screen_name": "joonomics",
+		"user": {
+			"id": 1061929410,
+			"id_str": "1061929410",
+			"name": "Joon An",
+			"screen_name": "joonomics",
+			"location": "Seoul, Republic of Korea",
+			"description": "Scientist working on autism genetics at Korea University. Former Postdoc @UCSF QBI PhD graduate Australia @QldBrainInst",
+			"url": "https://t.co/tHAmcsM3Me",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tHAmcsM3Me",
+							"expanded_url": "https://joonanlab.github.io/",
+							"display_url": "joonanlab.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 386,
+			"friends_count": 329,
+			"listed_count": 23,
+			"created_at": "Sat Jan 05 02:16:41 +0000 2013",
+			"favourites_count": 3638,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/800509819509555200/raxa58Ut_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/800509819509555200/raxa58Ut_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 127,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이게 왜 우리 일상에 중요하나? 재작년 중앙일보에서 “아들의 지능은 엄마가 결정한다”라는 기사를 냄. 언피씨하고 우라까임. 게다가 유전학적으로 매우 틀린 시사임. 이걸 생물학부 졸업자들도 걸러내지 못함. 지능은 양적형질이고, 무슨 방법론으로 표현형의 차이를 설명하고, 어떤 코호트에서"
+	},
+	{
+		"created_at": "Sun Feb 24 04:03:55 +0000 2019",
+		"id": 1099520270140756000,
+		"id_str": "1099947847460388864",
+		"full_text": "연관성 검정의 방법론 개발과 haplotype 프로젝트임. 왜냐구? 인간 유전체 프로젝트는 유전자 전수를 제공함 (혹은 그에 준하는) 으로써 연구자 직관에 의존한 가설검정에 자유를 주었으니까. 대중서만으로 유전학을 읽는 분들에게 risch and merikangas 1996과 같은 전설적인 연구들은 안알려짐.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1099519751049535500,
+		"in_reply_to_status_id_str": "1099519751049535488",
+		"in_reply_to_user_id": 1061929410,
+		"in_reply_to_user_id_str": "1061929410",
+		"in_reply_to_screen_name": "joonomics",
+		"user": {
+			"id": 1061929410,
+			"id_str": "1061929410",
+			"name": "Joon An",
+			"screen_name": "joonomics",
+			"location": "Seoul, Republic of Korea",
+			"description": "Scientist working on autism genetics at Korea University. Former Postdoc @UCSF QBI PhD graduate Australia @QldBrainInst",
+			"url": "https://t.co/tHAmcsM3Me",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tHAmcsM3Me",
+							"expanded_url": "https://joonanlab.github.io/",
+							"display_url": "joonanlab.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 386,
+			"friends_count": 329,
+			"listed_count": 23,
+			"created_at": "Sat Jan 05 02:16:41 +0000 2013",
+			"favourites_count": 3638,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/800509819509555200/raxa58Ut_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/800509819509555200/raxa58Ut_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "연관성 검정의 방법론 개발과 haplotype 프로젝트임. 왜냐구? 인간 유전체 프로젝트는 유전자 전수를 제공함 (혹은 그에 준하는) 으로써 연구자 직관에 의존한 가설검정에 자유를 주었으니까. 대중서만으로 유전학을 읽는 분들에게 risch and merikangas 1996과 같은 전설적인 연구들은 안알려짐."
+	},
+	{
+		"created_at": "Sun Feb 24 04:01:51 +0000 2019",
+		"id": 1099519751049535500,
+		"id_str": "1099947834265165826",
+		"full_text": "연구들이 최근에야 등장했는데 컨소시엄 연구를 바탕으로 한 역학 코호트, 데이터 공유들을 통한 방법론 개발임. 과학 대중서만 읽는 분들이 “인간 유전체 연구” 운운할때 매번 “유전이 전부가 아니라 후성유전도 중요함”이라고 하는데 사실 인간 유전체 프로젝트 전후로 중요한건",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1099519442193530900,
+		"in_reply_to_status_id_str": "1099519442193530881",
+		"in_reply_to_user_id": 1061929410,
+		"in_reply_to_user_id_str": "1061929410",
+		"in_reply_to_screen_name": "joonomics",
+		"user": {
+			"id": 1061929410,
+			"id_str": "1061929410",
+			"name": "Joon An",
+			"screen_name": "joonomics",
+			"location": "Seoul, Republic of Korea",
+			"description": "Scientist working on autism genetics at Korea University. Former Postdoc @UCSF QBI PhD graduate Australia @QldBrainInst",
+			"url": "https://t.co/tHAmcsM3Me",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tHAmcsM3Me",
+							"expanded_url": "https://joonanlab.github.io/",
+							"display_url": "joonanlab.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 386,
+			"friends_count": 329,
+			"listed_count": 23,
+			"created_at": "Sat Jan 05 02:16:41 +0000 2013",
+			"favourites_count": 3638,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/800509819509555200/raxa58Ut_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/800509819509555200/raxa58Ut_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "연구들이 최근에야 등장했는데 컨소시엄 연구를 바탕으로 한 역학 코호트, 데이터 공유들을 통한 방법론 개발임. 과학 대중서만 읽는 분들이 “인간 유전체 연구” 운운할때 매번 “유전이 전부가 아니라 후성유전도 중요함”이라고 하는데 사실 인간 유전체 프로젝트 전후로 중요한건"
+	},
+	{
+		"created_at": "Sun Feb 24 04:00:37 +0000 2019",
+		"id": 1099519442193530900,
+		"id_str": "1099947825222144000",
+		"full_text": "대부분 생물학과 졸업자가 이걸 모르는 이유는 우리가 유전학을 분자유전학의 관점에서 배움. 유전자와 센트럴 도그마의 입장에서 “유전되는 현상”에 대한 유닛을 배움. 멘델의 이형법칙은 옳지만, 집단에서 자연선택에 기여하는 여러 요소들과의 상호작용엔 독립적임. 이 현상을 설명할",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1099519110180790300,
+		"in_reply_to_status_id_str": "1099519110180790273",
+		"in_reply_to_user_id": 1061929410,
+		"in_reply_to_user_id_str": "1061929410",
+		"in_reply_to_screen_name": "joonomics",
+		"user": {
+			"id": 1061929410,
+			"id_str": "1061929410",
+			"name": "Joon An",
+			"screen_name": "joonomics",
+			"location": "Seoul, Republic of Korea",
+			"description": "Scientist working on autism genetics at Korea University. Former Postdoc @UCSF QBI PhD graduate Australia @QldBrainInst",
+			"url": "https://t.co/tHAmcsM3Me",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tHAmcsM3Me",
+							"expanded_url": "https://joonanlab.github.io/",
+							"display_url": "joonanlab.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 386,
+			"friends_count": 329,
+			"listed_count": 23,
+			"created_at": "Sat Jan 05 02:16:41 +0000 2013",
+			"favourites_count": 3638,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/800509819509555200/raxa58Ut_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/800509819509555200/raxa58Ut_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "대부분 생물학과 졸업자가 이걸 모르는 이유는 우리가 유전학을 분자유전학의 관점에서 배움. 유전자와 센트럴 도그마의 입장에서 “유전되는 현상”에 대한 유닛을 배움. 멘델의 이형법칙은 옳지만, 집단에서 자연선택에 기여하는 여러 요소들과의 상호작용엔 독립적임. 이 현상을 설명할"
+	},
+	{
+		"created_at": "Sun Feb 24 03:59:18 +0000 2019",
+		"id": 1099519110180790300,
+		"id_str": "1099947816791695360",
+		"full_text": "키는 model trait로써 유전력 모델의 여러 방법론들이 사용되는 일종의 기준 형질이다. 키크는 유전자를 찾는게 아니라고. 여기서 중요한건 유전체 기술의 등장으로 유전자를 찾는것 말고 실제 얼마나 질병이나 형질에 기여하는지에 대한 상대적인 정도를 측정하는게 핵심임.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1099518763869687800,
+		"in_reply_to_status_id_str": "1099518763869687810",
+		"in_reply_to_user_id": 1061929410,
+		"in_reply_to_user_id_str": "1061929410",
+		"in_reply_to_screen_name": "joonomics",
+		"user": {
+			"id": 1061929410,
+			"id_str": "1061929410",
+			"name": "Joon An",
+			"screen_name": "joonomics",
+			"location": "Seoul, Republic of Korea",
+			"description": "Scientist working on autism genetics at Korea University. Former Postdoc @UCSF QBI PhD graduate Australia @QldBrainInst",
+			"url": "https://t.co/tHAmcsM3Me",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tHAmcsM3Me",
+							"expanded_url": "https://joonanlab.github.io/",
+							"display_url": "joonanlab.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 386,
+			"friends_count": 329,
+			"listed_count": 23,
+			"created_at": "Sat Jan 05 02:16:41 +0000 2013",
+			"favourites_count": 3638,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/800509819509555200/raxa58Ut_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/800509819509555200/raxa58Ut_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "키는 model trait로써 유전력 모델의 여러 방법론들이 사용되는 일종의 기준 형질이다. 키크는 유전자를 찾는게 아니라고. 여기서 중요한건 유전체 기술의 등장으로 유전자를 찾는것 말고 실제 얼마나 질병이나 형질에 기여하는지에 대한 상대적인 정도를 측정하는게 핵심임."
+	},
+	{
+		"created_at": "Sun Feb 24 03:57:56 +0000 2019",
+		"id": 1099518763869687800,
+		"id_str": "1099947802291974144",
+		"full_text": "이게 나중에 더글라스 팔코너에 의해 1950년대 유전력이라는 개념으로 정착하고 (물론 그 사이에 라이트 모델 등의 몇가지 이야기가 있지만), 이후에 유전체 기술을 통해 실증적인 데이터로 정량화에 들어간다. 유전자 수백개가 키라는 형질을 고작 x%설명한다고 유전체 연구가 대패한게 아니라",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1099518311379824600,
+		"in_reply_to_status_id_str": "1099518311379824642",
+		"in_reply_to_user_id": 1061929410,
+		"in_reply_to_user_id_str": "1061929410",
+		"in_reply_to_screen_name": "joonomics",
+		"user": {
+			"id": 1061929410,
+			"id_str": "1061929410",
+			"name": "Joon An",
+			"screen_name": "joonomics",
+			"location": "Seoul, Republic of Korea",
+			"description": "Scientist working on autism genetics at Korea University. Former Postdoc @UCSF QBI PhD graduate Australia @QldBrainInst",
+			"url": "https://t.co/tHAmcsM3Me",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tHAmcsM3Me",
+							"expanded_url": "https://joonanlab.github.io/",
+							"display_url": "joonanlab.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 386,
+			"friends_count": 329,
+			"listed_count": 23,
+			"created_at": "Sat Jan 05 02:16:41 +0000 2013",
+			"favourites_count": 3638,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/800509819509555200/raxa58Ut_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/800509819509555200/raxa58Ut_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이게 나중에 더글라스 팔코너에 의해 1950년대 유전력이라는 개념으로 정착하고 (물론 그 사이에 라이트 모델 등의 몇가지 이야기가 있지만), 이후에 유전체 기술을 통해 실증적인 데이터로 정량화에 들어간다. 유전자 수백개가 키라는 형질을 고작 x%설명한다고 유전체 연구가 대패한게 아니라"
+	},
+	{
+		"created_at": "Sun Feb 24 03:56:08 +0000 2019",
+		"id": 1099518311379824600,
+		"id_str": "1099947791852261376",
+		"full_text": "이 맥락에는 멘델학파와 계측학파(부모-자식의 상관관계를 연구하던, 가령 피어슨)의 논쟁을 통합하고 멘델의 이형적인 입자유전모델과 형질의 연속적인 분포를 봉합하는 모델이었다. 유전적 요인들과 환경적 요인들의 기여도를 측정했는데, 여기서 우리가 배우는 수학의 분산이 등장한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1099517755919761400,
+		"in_reply_to_status_id_str": "1099517755919761409",
+		"in_reply_to_user_id": 1061929410,
+		"in_reply_to_user_id_str": "1061929410",
+		"in_reply_to_screen_name": "joonomics",
+		"user": {
+			"id": 1061929410,
+			"id_str": "1061929410",
+			"name": "Joon An",
+			"screen_name": "joonomics",
+			"location": "Seoul, Republic of Korea",
+			"description": "Scientist working on autism genetics at Korea University. Former Postdoc @UCSF QBI PhD graduate Australia @QldBrainInst",
+			"url": "https://t.co/tHAmcsM3Me",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tHAmcsM3Me",
+							"expanded_url": "https://joonanlab.github.io/",
+							"display_url": "joonanlab.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 386,
+			"friends_count": 329,
+			"listed_count": 23,
+			"created_at": "Sat Jan 05 02:16:41 +0000 2013",
+			"favourites_count": 3638,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/800509819509555200/raxa58Ut_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/800509819509555200/raxa58Ut_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 85,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이 맥락에는 멘델학파와 계측학파(부모-자식의 상관관계를 연구하던, 가령 피어슨)의 논쟁을 통합하고 멘델의 이형적인 입자유전모델과 형질의 연속적인 분포를 봉합하는 모델이었다. 유전적 요인들과 환경적 요인들의 기여도를 측정했는데, 여기서 우리가 배우는 수학의 분산이 등장한다."
+	},
+	{
 		"created_at": "Sat Feb 23 07:36:19 +0000 2019",
 		"id": 1099211336955777000,
 		"id_str": "1099250276031066113",
