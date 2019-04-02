@@ -1,0 +1,85 @@
+Grailbird.data.tweets_2019_04 = 
+[
+	{
+		"created_at": "Tue Apr 02 01:31:19 +0000 2019",
+		"id": 980686635972010000,
+		"id_str": "1112890219039154176",
+		"full_text": "좋아!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3299262714,
+			"id_str": "3299262714",
+			"name": "#허니팝콘응원합니다_여자의동지는여자다",
+			"screen_name": "candle_daze",
+			"location": "sexworker🌹",
+			"description": "빔~",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 814,
+			"friends_count": 743,
+			"listed_count": 19,
+			"created_at": "Tue Jul 28 08:50:00 +0000 2015",
+			"favourites_count": 31621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 100843,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/946791772809658368/RENMdqRL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/946791772809658368/RENMdqRL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3299262714/1467204037",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "좋아!"
+	}
+]
