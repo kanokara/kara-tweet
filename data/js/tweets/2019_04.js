@@ -1,6 +1,765 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 09 14:09:51 +0000 2019",
+		"id": 1115468867600433200,
+		"id_str": "1115617825786195969",
+		"full_text": "\"OO는 정신병\", \"탈락/낙오자\", \"죽어라/자살해\" 이런 표현들은 전부 의미있는 대화의 가능성을 전혀 믿지 않기 때문에 나오는 표현들이다. 말통하는 사람은 그룹내에서 얼마든지 찾을 수 있으니, 대화압력도 받지 않는다. 외부에 나오는 메시지는 조롱/혐오 뿐이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1115467928755822600,
+		"in_reply_to_status_id_str": "1115467928755822592",
+		"in_reply_to_user_id": 54579208,
+		"in_reply_to_user_id_str": "54579208",
+		"in_reply_to_screen_name": "cfr0g",
+		"user": {
+			"id": 54579208,
+			"id_str": "54579208",
+			"name": "괴골 [개물]",
+			"screen_name": "cfr0g",
+			"location": "",
+			"description": "데이터나 과학 이야기 가끔.",
+			"url": "https://t.co/bkAeD9tAxc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bkAeD9tAxc",
+							"expanded_url": "http://cfr0g.wordpress.com",
+							"display_url": "cfr0g.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4208,
+			"friends_count": 162,
+			"listed_count": 142,
+			"created_at": "Tue Jul 07 15:30:26 +0000 2009",
+			"favourites_count": 652,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58431,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "195679",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54579208/1402586925",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 247,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"OO는 정신병\", \"탈락/낙오자\", \"죽어라/자살해\" 이런 표현들은 전부 의미있는 대화의 가능성을 전혀 믿지 않기 때문에 나오는 표현들이다. 말통하는 사람은 그룹내에서 얼마든지 찾을 수 있으니, 대화압력도 받지 않는다. 외부에 나오는 메시지는 조롱/혐오 뿐이다."
+	},
+	{
+		"created_at": "Tue Apr 09 14:09:48 +0000 2019",
+		"id": 1115467928755822600,
+		"id_str": "1115617814906204160",
+		"full_text": "이런 환경에서 \"모르면 외워라\"식의 대응은 부작용을 낳을 가능성이 높다고 본다. 이미 각자의 \"외워야하는 것\"들을 중심으로 수많은 진영들이 탄생하고 있는 것 같다. 이들은 논리의 특성상, 다른 그룹과 의미있는 대화를 하려들지 않는다. 남은 것은 세싸움 뿐이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1115466983594692600,
+		"in_reply_to_status_id_str": "1115466983594692608",
+		"in_reply_to_user_id": 54579208,
+		"in_reply_to_user_id_str": "54579208",
+		"in_reply_to_screen_name": "cfr0g",
+		"user": {
+			"id": 54579208,
+			"id_str": "54579208",
+			"name": "괴골 [개물]",
+			"screen_name": "cfr0g",
+			"location": "",
+			"description": "데이터나 과학 이야기 가끔.",
+			"url": "https://t.co/bkAeD9tAxc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bkAeD9tAxc",
+							"expanded_url": "http://cfr0g.wordpress.com",
+							"display_url": "cfr0g.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4208,
+			"friends_count": 162,
+			"listed_count": 142,
+			"created_at": "Tue Jul 07 15:30:26 +0000 2009",
+			"favourites_count": 652,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58431,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "195679",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54579208/1402586925",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 221,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이런 환경에서 \"모르면 외워라\"식의 대응은 부작용을 낳을 가능성이 높다고 본다. 이미 각자의 \"외워야하는 것\"들을 중심으로 수많은 진영들이 탄생하고 있는 것 같다. 이들은 논리의 특성상, 다른 그룹과 의미있는 대화를 하려들지 않는다. 남은 것은 세싸움 뿐이다."
+	},
+	{
+		"created_at": "Tue Apr 09 14:09:45 +0000 2019",
+		"id": 1115466983594692600,
+		"id_str": "1115617799127195648",
+		"full_text": "처음에 10대-20대 이야기하긴 했지만, 정도의 차이는 있을지언정 나머지 세대들도 비슷하다. 우리는 뭘 몰라서 잘못 생각하는게 아니라 (확증편향이 될만한 내용이나 같은 생각인 사람들을) 너무 잘 알아서 잘못 생각하는 시대를 살고 있다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1115462672672100400,
+		"in_reply_to_status_id_str": "1115462672672100352",
+		"in_reply_to_user_id": 54579208,
+		"in_reply_to_user_id_str": "54579208",
+		"in_reply_to_screen_name": "cfr0g",
+		"user": {
+			"id": 54579208,
+			"id_str": "54579208",
+			"name": "괴골 [개물]",
+			"screen_name": "cfr0g",
+			"location": "",
+			"description": "데이터나 과학 이야기 가끔.",
+			"url": "https://t.co/bkAeD9tAxc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bkAeD9tAxc",
+							"expanded_url": "http://cfr0g.wordpress.com",
+							"display_url": "cfr0g.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4208,
+			"friends_count": 162,
+			"listed_count": 142,
+			"created_at": "Tue Jul 07 15:30:26 +0000 2009",
+			"favourites_count": 652,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58431,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "195679",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54579208/1402586925",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 204,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "처음에 10대-20대 이야기하긴 했지만, 정도의 차이는 있을지언정 나머지 세대들도 비슷하다. 우리는 뭘 몰라서 잘못 생각하는게 아니라 (확증편향이 될만한 내용이나 같은 생각인 사람들을) 너무 잘 알아서 잘못 생각하는 시대를 살고 있다."
+	},
+	{
+		"created_at": "Tue Apr 09 14:09:42 +0000 2019",
+		"id": 1115462672672100400,
+		"id_str": "1115617788947656704",
+		"full_text": "뭔가를 \"못배운\"게 아니라 너무 \"잘배워\"서 탈인 세대다. 이들은 살아온 자신의 경험을 바탕으로 순식간에 이론을 만들고 그를 뒷받침하는 사례들과, 비슷한 생각을 가진 사람들을 찾는다. 문제는 시행착오를 통해 얻는 균형감각은 그리 빠르고 쉽게 얻을 수 없다는 점이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1115461491807772700,
+		"in_reply_to_status_id_str": "1115461491807772673",
+		"in_reply_to_user_id": 54579208,
+		"in_reply_to_user_id_str": "54579208",
+		"in_reply_to_screen_name": "cfr0g",
+		"user": {
+			"id": 54579208,
+			"id_str": "54579208",
+			"name": "괴골 [개물]",
+			"screen_name": "cfr0g",
+			"location": "",
+			"description": "데이터나 과학 이야기 가끔.",
+			"url": "https://t.co/bkAeD9tAxc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bkAeD9tAxc",
+							"expanded_url": "http://cfr0g.wordpress.com",
+							"display_url": "cfr0g.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4208,
+			"friends_count": 162,
+			"listed_count": 142,
+			"created_at": "Tue Jul 07 15:30:26 +0000 2009",
+			"favourites_count": 652,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58431,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "195679",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54579208/1402586925",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 350,
+		"favorite_count": 108,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "뭔가를 \"못배운\"게 아니라 너무 \"잘배워\"서 탈인 세대다. 이들은 살아온 자신의 경험을 바탕으로 순식간에 이론을 만들고 그를 뒷받침하는 사례들과, 비슷한 생각을 가진 사람들을 찾는다. 문제는 시행착오를 통해 얻는 균형감각은 그리 빠르고 쉽게 얻을 수 없다는 점이다."
+	},
+	{
+		"created_at": "Tue Apr 09 14:09:38 +0000 2019",
+		"id": 1115461491807772700,
+		"id_str": "1115617769846763520",
+		"full_text": "10-20대들의 이상사례(?)들이 뭔가 \"교육\"과 \"사회\"의 결과라고 생각하는 것부터 약간 잘못 짚은 거라 본다. 이들은 과거세대와 달리, 자기세대 내에서 미디어를 만들고 퍼뜨릴수 있는 능력이 있다. 확증편향과 유유상종에 취약한 세대라고 보는게 더 현실에 가깝지 않을까 한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54579208,
+			"id_str": "54579208",
+			"name": "괴골 [개물]",
+			"screen_name": "cfr0g",
+			"location": "",
+			"description": "데이터나 과학 이야기 가끔.",
+			"url": "https://t.co/bkAeD9tAxc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bkAeD9tAxc",
+							"expanded_url": "http://cfr0g.wordpress.com",
+							"display_url": "cfr0g.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4208,
+			"friends_count": 162,
+			"listed_count": 142,
+			"created_at": "Tue Jul 07 15:30:26 +0000 2009",
+			"favourites_count": 652,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58431,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "195679",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54579208/1402586925",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 551,
+		"favorite_count": 189,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "10-20대들의 이상사례(?)들이 뭔가 \"교육\"과 \"사회\"의 결과라고 생각하는 것부터 약간 잘못 짚은 거라 본다. 이들은 과거세대와 달리, 자기세대 내에서 미디어를 만들고 퍼뜨릴수 있는 능력이 있다. 확증편향과 유유상종에 취약한 세대라고 보는게 더 현실에 가깝지 않을까 한다."
+	},
+	{
+		"created_at": "Tue Apr 09 13:49:35 +0000 2019",
+		"id": 1115612724170379300,
+		"id_str": "1115612724170379264",
+		"full_text": "그런데 트위터... 라고 할까, 인터넷 커뮤니티 자체를 뜸하게 하느라 저 분들 요즘엔 뭐하시는지 모르겠네요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1115612022194860000,
+		"in_reply_to_status_id_str": "1115612022194860033",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 79,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11202,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "그런데 트위터... 라고 할까, 인터넷 커뮤니티 자체를 뜸하게 하느라 저 분들 요즘엔 뭐하시는지 모르겠네요."
+	},
+	{
+		"created_at": "Tue Apr 09 13:46:47 +0000 2019",
+		"id": 1115612022194860000,
+		"id_str": "1115612022194860033",
+		"full_text": "하지율 씨 즈음부터 워마드에 영합하는 식자들이 저래도 되는지 의문스러웠는데, 작금의 현실을 보면... 박가분 씨만 일방적으로 규탄되던 트위터의 여론도 사태를 올바르게 보지 못한 것이었죠. 다 기억하고 있어!\nhttps://t.co/dSlBF7mkDi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dSlBF7mkDi",
+					"expanded_url": "https://twitter.com/191710/status/1114775654761881600?s=19",
+					"display_url": "twitter.com/191710/status/…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 79,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11202,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1114775654761881600,
+		"quoted_status_id_str": "1114775654761881600",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dSlBF7mkDi",
+			"expanded": "https://twitter.com/191710/status/1114775654761881600?s=19",
+			"display": "twitter.com/191710/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 07 06:23:22 +0000 2019",
+			"id": 1114775654761881600,
+			"id_str": "1114775654761881600",
+			"full_text": "워마드가 이렇게 가는 것을 보면, 이들을 옹호했던 좌파, 페미니즘 운동은 상황이 왜 이렇게 되었는지 자기반성부터 하는 것이 당연하겠지만, 침묵으로 일관.\n\n일례로 민주노총까지 \"우리 모두가 메갈\"이란 논평도 냈지만, 지금 상황에 대해서는 어떻게 보는지 모르겠다.\n\nhttps://t.co/gTy20WXVCj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				171
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gTy20WXVCj",
+						"expanded_url": "http://nodong.org/statement/7233820",
+						"display_url": "nodong.org/statement/7233…",
+						"indices": [
+							148,
+							171
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1114416737594699800,
+			"in_reply_to_status_id_str": "1114416737594699777",
+			"in_reply_to_user_id": 144092619,
+			"in_reply_to_user_id_str": "144092619",
+			"in_reply_to_screen_name": "191710",
+			"user": {
+				"id": 144092619,
+				"id_str": "144092619",
+				"name": "겨울철쭉__박준형",
+				"screen_name": "191710",
+				"location": "글쎄,지금 있고싶은곳에 있겠지",
+				"description": "노동자운동으로 대안세계를! 플픽은 플루토의 아톰 :) 애국자가 없는 세상(권정생) https://t.co/EgUFIxL8Ip",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/EgUFIxL8Ip",
+								"expanded_url": "http://bit.ly/J0aF3i",
+								"display_url": "bit.ly/J0aF3i",
+								"indices": [
+									46,
+									69
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4503,
+				"friends_count": 1859,
+				"listed_count": 110,
+				"created_at": "Sat May 15 08:12:38 +0000 2010",
+				"favourites_count": 2452,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17826,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1121100238/___-022_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121100238/___-022_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/144092619/1351336150",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "하지율 씨 즈음부터 워마드에 영합하는 식자들이 저래도 되는지 의문스러웠는데, 작금의 현실을 보면... 박가분 씨만 일방적으로 규탄되던 트위터의 여론도 사태를 올바르게 보지 못한 것이었죠. 다 기억하고 있어!\nhttps://t.co/dSlBF7mkDi"
+	},
+	{
 		"created_at": "Thu Apr 04 05:15:31 +0000 2019",
 		"id": 1113671416895889400,
 		"id_str": "1113671416895889409",
