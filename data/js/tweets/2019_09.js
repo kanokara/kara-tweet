@@ -1,6 +1,1131 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 06 10:46:56 +0000 2019",
+		"id": 1166557914183676000,
+		"id_str": "1169924940084039680",
+		"full_text": "아마도 레옹은 이 흐름의 거진 막차이면서 노선을 수정해서 선을 넘지는 않은 작품이 아닌가 싶음 https://t.co/Na4l0PSgyR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1166557894122385400,
+					"id_str": "1166557894122385409",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/EDByOVkXsAEobQ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDByOVkXsAEobQ_.jpg",
+					"url": "https://t.co/Na4l0PSgyR",
+					"display_url": "pic.twitter.com/Na4l0PSgyR",
+					"expanded_url": "https://twitter.com/lx___xl/status/1166557914183675905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 431,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1299,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 761,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1166557894122385400,
+					"id_str": "1166557894122385409",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/EDByOVkXsAEobQ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDByOVkXsAEobQ_.jpg",
+					"url": "https://t.co/Na4l0PSgyR",
+					"display_url": "pic.twitter.com/Na4l0PSgyR",
+					"expanded_url": "https://twitter.com/lx___xl/status/1166557914183675905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 431,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1299,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 761,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1166557891442151400,
+		"in_reply_to_status_id_str": "1166557891442151424",
+		"in_reply_to_user_id": 144179323,
+		"in_reply_to_user_id_str": "144179323",
+		"in_reply_to_screen_name": "lx___xl",
+		"user": {
+			"id": 144179323,
+			"id_str": "144179323",
+			"name": "gjo",
+			"screen_name": "lx___xl",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77,
+			"friends_count": 60,
+			"listed_count": 2,
+			"created_at": "Sat May 15 14:40:42 +0000 2010",
+			"favourites_count": 207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아마도 레옹은 이 흐름의 거진 막차이면서 노선을 수정해서 선을 넘지는 않은 작품이 아닌가 싶음 https://t.co/Na4l0PSgyR"
+	},
+	{
+		"created_at": "Fri Sep 06 10:46:53 +0000 2019",
+		"id": 1166557891442151400,
+		"id_str": "1169924926721052674",
+		"full_text": "프랑스에서도 서른 아재가 전 여친의 13세 딸과 연애하는 영화(노출 유)라거나 역시 아재가 열여섯 소녀와 연애하는 내용이 일부 나오는 샤를롯 갱즈부르 주연 La Petite Voleuse (노출 유)가 있었고 조디 포스터나 브룩 쉴즈나 올리비아 허쉬 사이 어딘가도 비슷한 케이스로 분류해야 하지 않을지? https://t.co/knpwn95pkG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1166557880742494200,
+					"id_str": "1166557880742494209",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EDByNjuWwAEADgz.png",
+					"media_url_https": "https://pbs.twimg.com/media/EDByNjuWwAEADgz.png",
+					"url": "https://t.co/knpwn95pkG",
+					"display_url": "pic.twitter.com/knpwn95pkG",
+					"expanded_url": "https://twitter.com/lx___xl/status/1166557891442151424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 507,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 507,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1166557880742494200,
+					"id_str": "1166557880742494209",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EDByNjuWwAEADgz.png",
+					"media_url_https": "https://pbs.twimg.com/media/EDByNjuWwAEADgz.png",
+					"url": "https://t.co/knpwn95pkG",
+					"display_url": "pic.twitter.com/knpwn95pkG",
+					"expanded_url": "https://twitter.com/lx___xl/status/1166557891442151424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 507,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 507,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1166557875973607400,
+		"in_reply_to_status_id_str": "1166557875973607424",
+		"in_reply_to_user_id": 144179323,
+		"in_reply_to_user_id_str": "144179323",
+		"in_reply_to_screen_name": "lx___xl",
+		"user": {
+			"id": 144179323,
+			"id_str": "144179323",
+			"name": "gjo",
+			"screen_name": "lx___xl",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77,
+			"friends_count": 60,
+			"listed_count": 2,
+			"created_at": "Sat May 15 14:40:42 +0000 2010",
+			"favourites_count": 207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "프랑스에서도 서른 아재가 전 여친의 13세 딸과 연애하는 영화(노출 유)라거나 역시 아재가 열여섯 소녀와 연애하는 내용이 일부 나오는 샤를롯 갱즈부르 주연 La Petite Voleuse (노출 유)가 있었고 조디 포스터나 브룩 쉴즈나 올리비아 허쉬 사이 어딘가도 비슷한 케이스로 분류해야 하지 않을지? https://t.co/knpwn95pkG"
+	},
+	{
+		"created_at": "Fri Sep 06 10:46:50 +0000 2019",
+		"id": 1166557875973607400,
+		"id_str": "1169924913789976577",
+		"full_text": "일본의 여돌은 프랑스의 예예에서 영향을 받았다고 하는데 서양에서도 80년대까지는 다분히 로리콘스러운 모멘트 아닌가 싶은 흔적들을 찾을 수 있다 교사와 17세 학생의 연애가 나오는 나스타샤 킨스키 주연의 77년 독일 TV영화 Reifezeugnis 같은 데서 당시 미성년자였던 킨스키의 노출이 나왔고 https://t.co/ER0UWBNQBR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1166557854037360600,
+					"id_str": "1166557854037360640",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EDByMAPWwAAIQUR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDByMAPWwAAIQUR.jpg",
+					"url": "https://t.co/ER0UWBNQBR",
+					"display_url": "pic.twitter.com/ER0UWBNQBR",
+					"expanded_url": "https://twitter.com/lx___xl/status/1166557875973607424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 894,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1430,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 506,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1166557854037360600,
+					"id_str": "1166557854037360640",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EDByMAPWwAAIQUR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDByMAPWwAAIQUR.jpg",
+					"url": "https://t.co/ER0UWBNQBR",
+					"display_url": "pic.twitter.com/ER0UWBNQBR",
+					"expanded_url": "https://twitter.com/lx___xl/status/1166557875973607424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 894,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1430,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 506,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 144179323,
+			"id_str": "144179323",
+			"name": "gjo",
+			"screen_name": "lx___xl",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77,
+			"friends_count": 60,
+			"listed_count": 2,
+			"created_at": "Sat May 15 14:40:42 +0000 2010",
+			"favourites_count": 207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일본의 여돌은 프랑스의 예예에서 영향을 받았다고 하는데 서양에서도 80년대까지는 다분히 로리콘스러운 모멘트 아닌가 싶은 흔적들을 찾을 수 있다 교사와 17세 학생의 연애가 나오는 나스타샤 킨스키 주연의 77년 독일 TV영화 Reifezeugnis 같은 데서 당시 미성년자였던 킨스키의 노출이 나왔고 https://t.co/ER0UWBNQBR"
+	},
+	{
+		"created_at": "Fri Sep 06 10:46:46 +0000 2019",
+		"id": 1166551212860330000,
+		"id_str": "1169924897084035073",
+		"full_text": "80년대가 황금기였다는 (여)돌붐도 로리콘 붐과 상관있는 풍조였을까 싶은 궁금증이 있음 https://t.co/MhJofXNyDT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1166551198499004400,
+					"id_str": "1166551198499004416",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/EDBsImbW4AA8ljL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDBsImbW4AA8ljL.jpg",
+					"url": "https://t.co/MhJofXNyDT",
+					"display_url": "pic.twitter.com/MhJofXNyDT",
+					"expanded_url": "https://twitter.com/lx___xl/status/1166551212860329986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 522,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1408,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1166551198499004400,
+					"id_str": "1166551198499004416",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/EDBsImbW4AA8ljL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDBsImbW4AA8ljL.jpg",
+					"url": "https://t.co/MhJofXNyDT",
+					"display_url": "pic.twitter.com/MhJofXNyDT",
+					"expanded_url": "https://twitter.com/lx___xl/status/1166551212860329986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 522,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1408,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1166551191737655300,
+		"in_reply_to_status_id_str": "1166551191737655296",
+		"in_reply_to_user_id": 144179323,
+		"in_reply_to_user_id_str": "144179323",
+		"in_reply_to_screen_name": "lx___xl",
+		"user": {
+			"id": 144179323,
+			"id_str": "144179323",
+			"name": "gjo",
+			"screen_name": "lx___xl",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77,
+			"friends_count": 60,
+			"listed_count": 2,
+			"created_at": "Sat May 15 14:40:42 +0000 2010",
+			"favourites_count": 207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "80년대가 황금기였다는 (여)돌붐도 로리콘 붐과 상관있는 풍조였을까 싶은 궁금증이 있음 https://t.co/MhJofXNyDT"
+	},
+	{
+		"created_at": "Fri Sep 06 10:46:44 +0000 2019",
+		"id": 1166551191737655300,
+		"id_str": "1169924887563120640",
+		"full_text": "80년대 초에 일본에 로리콘 붐이 있었다고 하는데 구체적으로 어떤 일들이 있었는지느 모르겠다 아즈마 히데오가 각광받았다거나 클라리스가 로리콘 붐의 상징처럼 됐다거나 하는 썰은 들었는데 그 이상은? https://t.co/HDZihhiiNj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1166551141074841600,
+					"id_str": "1166551141074841601",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EDBsFQgXsAEcXgp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDBsFQgXsAEcXgp.jpg",
+					"url": "https://t.co/HDZihhiiNj",
+					"display_url": "pic.twitter.com/HDZihhiiNj",
+					"expanded_url": "https://twitter.com/lx___xl/status/1166551191737655296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1262,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 419,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 739,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1166551141074841600,
+					"id_str": "1166551141074841601",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EDBsFQgXsAEcXgp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDBsFQgXsAEcXgp.jpg",
+					"url": "https://t.co/HDZihhiiNj",
+					"display_url": "pic.twitter.com/HDZihhiiNj",
+					"expanded_url": "https://twitter.com/lx___xl/status/1166551191737655296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1262,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 419,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 739,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 144179323,
+			"id_str": "144179323",
+			"name": "gjo",
+			"screen_name": "lx___xl",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77,
+			"friends_count": 60,
+			"listed_count": 2,
+			"created_at": "Sat May 15 14:40:42 +0000 2010",
+			"favourites_count": 207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "80년대 초에 일본에 로리콘 붐이 있었다고 하는데 구체적으로 어떤 일들이 있었는지느 모르겠다 아즈마 히데오가 각광받았다거나 클라리스가 로리콘 붐의 상징처럼 됐다거나 하는 썰은 들었는데 그 이상은? https://t.co/HDZihhiiNj"
+	},
+	{
+		"created_at": "Fri Sep 06 10:25:04 +0000 2019",
+		"id": 1169878084092215300,
+		"id_str": "1169919437232672774",
+		"full_text": "모에의 쇠락도 여기에 관련돼 있지 않을까 추측함 오타쿠 문화는 에바 이후 십여년의 기간을 거친 후 어떤 의미로든 더 넓은 층으로 침투하는 데 성공했고 그 과정에서 모에를 비롯한 많은 것들이 희석되었다고 생각함",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1169878081466597400,
+		"in_reply_to_status_id_str": "1169878081466597376",
+		"in_reply_to_user_id": 144179323,
+		"in_reply_to_user_id_str": "144179323",
+		"in_reply_to_screen_name": "lx___xl",
+		"user": {
+			"id": 144179323,
+			"id_str": "144179323",
+			"name": "gjo",
+			"screen_name": "lx___xl",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77,
+			"friends_count": 60,
+			"listed_count": 2,
+			"created_at": "Sat May 15 14:40:42 +0000 2010",
+			"favourites_count": 207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "모에의 쇠락도 여기에 관련돼 있지 않을까 추측함 오타쿠 문화는 에바 이후 십여년의 기간을 거친 후 어떤 의미로든 더 넓은 층으로 침투하는 데 성공했고 그 과정에서 모에를 비롯한 많은 것들이 희석되었다고 생각함"
+	},
+	{
+		"created_at": "Fri Sep 06 10:25:03 +0000 2019",
+		"id": 1169878081466597400,
+		"id_str": "1169919431046074368",
+		"full_text": "에바에서 하루히 사이 오타쿠 문화의 자의식이 있었음 세카이계란 무엇인가의 문제의식 중 하나이기도 함 오타쿠의 자기반영적인 작품군에는 에바 하루히 외에도 현시연 돌연변이 파워걸즈 엑셀사가 나데시코 러키스타 등등 이 나왔는데 지난 10년간 이런 흐름은 완연히 기세를 잃었다고 봐야",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 144179323,
+			"id_str": "144179323",
+			"name": "gjo",
+			"screen_name": "lx___xl",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77,
+			"friends_count": 60,
+			"listed_count": 2,
+			"created_at": "Sat May 15 14:40:42 +0000 2010",
+			"favourites_count": 207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "에바에서 하루히 사이 오타쿠 문화의 자의식이 있었음 세카이계란 무엇인가의 문제의식 중 하나이기도 함 오타쿠의 자기반영적인 작품군에는 에바 하루히 외에도 현시연 돌연변이 파워걸즈 엑셀사가 나데시코 러키스타 등등 이 나왔는데 지난 10년간 이런 흐름은 완연히 기세를 잃었다고 봐야"
+	},
+	{
+		"created_at": "Fri Sep 06 10:24:28 +0000 2019",
+		"id": 1169919284778156000,
+		"id_str": "1169919284778156032",
+		"full_text": "정확히는 세간에서 버즈워드로 폭발했던 검색량이 일상용어로 점차 정착함에 따라 줄어든 거였죠.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 79,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "정확히는 세간에서 버즈워드로 폭발했던 검색량이 일상용어로 점차 정착함에 따라 줄어든 거였죠."
+	},
+	{
+		"created_at": "Fri Sep 06 10:23:23 +0000 2019",
+		"id": 1169874799931220000,
+		"id_str": "1169919013440253953",
+		"full_text": "하루히나 케이온이 모에를 폭발시켰다는 세간의 인식과 완전히 어긋나는 추세라고 생각 거꾸로 쿄애니는 모에가 주브나일에 흡수되어 일반 사회 속으로 사라져 들어간 계기라고 생각",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1169872637444546600,
+		"in_reply_to_status_id_str": "1169872637444546560",
+		"in_reply_to_user_id": 144179323,
+		"in_reply_to_user_id_str": "144179323",
+		"in_reply_to_screen_name": "lx___xl",
+		"user": {
+			"id": 144179323,
+			"id_str": "144179323",
+			"name": "gjo",
+			"screen_name": "lx___xl",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77,
+			"friends_count": 60,
+			"listed_count": 2,
+			"created_at": "Sat May 15 14:40:42 +0000 2010",
+			"favourites_count": 207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "하루히나 케이온이 모에를 폭발시켰다는 세간의 인식과 완전히 어긋나는 추세라고 생각 거꾸로 쿄애니는 모에가 주브나일에 흡수되어 일반 사회 속으로 사라져 들어간 계기라고 생각"
+	},
+	{
 		"created_at": "Fri Sep 06 01:08:34 +0000 2019",
 		"id": 1157120628022902800,
 		"id_str": "1169779388277125120",
