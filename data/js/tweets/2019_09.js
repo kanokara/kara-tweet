@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 08 16:23:00 +0000 2019",
+		"id": 1169290814087807000,
+		"id_str": "1170734287622004737",
+		"full_text": "다른 분께서 알려주신 바에 따르면 제가 말한 것 말고도 무통증의 유형은 여럿이 있으며 그 경우 통증을 못느끼는 것 말고는 정상인과 똑같다고 합니다. 제가 언급한 내용은 BBC SCIENCE의 2019년 07월호 기사를 참조했고, 그밖의 유형은 https://t.co/1lbbt169y6 을 참조하시면 됩니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1lbbt169y6",
+					"expanded_url": "https://en.m.wikipedia.org/wiki/Congenital_insensitivity_to_pain?wprov=sfti1&fbclid=IwAR01feDQRQ1V2ObJAr_6u71lQBLhLJ0NW6hXnttDtCVbE3rX0tvdtTlstL8",
+					"display_url": "en.m.wikipedia.org/wiki/Congenita…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1167801364564439000,
+		"in_reply_to_status_id_str": "1167801364564439040",
+		"in_reply_to_user_id": 1458729661,
+		"in_reply_to_user_id_str": "1458729661",
+		"in_reply_to_screen_name": "myungrangMH",
+		"user": {
+			"id": 1458729661,
+			"id_str": "1458729661",
+			"name": "김명호",
+			"screen_name": "myungrangMH",
+			"location": "",
+			"description": "science comic book artist.",
+			"url": "http://t.co/rmG8cHzxkO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/rmG8cHzxkO",
+							"expanded_url": "http://bung015b.egloos.com/",
+							"display_url": "bung015b.egloos.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1552,
+			"friends_count": 114,
+			"listed_count": 20,
+			"created_at": "Sun May 26 04:16:27 +0000 2013",
+			"favourites_count": 281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1058,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935016678731128832/6CNaXjeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935016678731128832/6CNaXjeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1458729661/1450803471",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다른 분께서 알려주신 바에 따르면 제가 말한 것 말고도 무통증의 유형은 여럿이 있으며 그 경우 통증을 못느끼는 것 말고는 정상인과 똑같다고 합니다. 제가 언급한 내용은 BBC SCIENCE의 2019년 07월호 기사를 참조했고, 그밖의 유형은 https://t.co/1lbbt169y6 을 참조하시면 됩니다."
+	},
+	{
 		"created_at": "Sun Sep 08 15:39:17 +0000 2019",
 		"id": 1170354289887236000,
 		"id_str": "1170723288521170944",
