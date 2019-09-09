@@ -1,6 +1,465 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 09 14:07:51 +0000 2019",
+		"id": 471569312277200900,
+		"id_str": "1171062664442736641",
+		"full_text": "제 첫 컴퓨터는 삼보였던 것으로 기억하는데, 윈도 비슷한 삼보 자체 운영체계가 달려있었던가... 가물가물...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 151807455,
+			"id_str": "151807455",
+			"name": "djuna",
+			"screen_name": "djuna01",
+			"location": "South Korea",
+			"description": "[마지막 피 한 방울까지], [각자의 시간 속에서], [민트의 세계], [그 겨울, 손탁 호텔에서], [캘리번], [그깟 공놀이], [장르 세계를 떠도는 듀나의 탐사기], [왕의 넋], [구부전], [두 번째 유모], [아르카디아에도 나는 있었다], [네 몸 속에 웅크리고 있는 것]",
+			"url": "https://t.co/hO1XEzYVfJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hO1XEzYVfJ",
+							"expanded_url": "http://djuna.kr",
+							"display_url": "djuna.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80861,
+			"friends_count": 219,
+			"listed_count": 722,
+			"created_at": "Fri Jun 04 08:44:20 +0000 2010",
+			"favourites_count": 1040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 291784,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F2F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/151807455/1540048520",
+			"profile_link_color": "464A5C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FB274A",
+			"profile_text_color": "DB6955",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "제 첫 컴퓨터는 삼보였던 것으로 기억하는데, 윈도 비슷한 삼보 자체 운영체계가 달려있었던가... 가물가물..."
+	},
+	{
+		"created_at": "Mon Sep 09 14:05:59 +0000 2019",
+		"id": 1156143313746923500,
+		"id_str": "1171062197285351424",
+		"full_text": "전 3.5 있는 워드프로세서 기계를 먼저 샀고 그 뒤에 PC를 샀는데, 거기엔 5.25밖에 없었죠. 시대를 역행한 기분.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 151807455,
+			"id_str": "151807455",
+			"name": "djuna",
+			"screen_name": "djuna01",
+			"location": "South Korea",
+			"description": "[마지막 피 한 방울까지], [각자의 시간 속에서], [민트의 세계], [그 겨울, 손탁 호텔에서], [캘리번], [그깟 공놀이], [장르 세계를 떠도는 듀나의 탐사기], [왕의 넋], [구부전], [두 번째 유모], [아르카디아에도 나는 있었다], [네 몸 속에 웅크리고 있는 것]",
+			"url": "https://t.co/hO1XEzYVfJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hO1XEzYVfJ",
+							"expanded_url": "http://djuna.kr",
+							"display_url": "djuna.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80861,
+			"friends_count": 219,
+			"listed_count": 722,
+			"created_at": "Fri Jun 04 08:44:20 +0000 2010",
+			"favourites_count": 1040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 291784,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F2F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/151807455/1540048520",
+			"profile_link_color": "464A5C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FB274A",
+			"profile_text_color": "DB6955",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "전 3.5 있는 워드프로세서 기계를 먼저 샀고 그 뒤에 PC를 샀는데, 거기엔 5.25밖에 없었죠. 시대를 역행한 기분."
+	},
+	{
+		"created_at": "Mon Sep 09 14:05:53 +0000 2019",
+		"id": 1074275492117635100,
+		"id_str": "1171062170852839424",
+		"full_text": "대학 때 워드프로세서를 받았는데, 전용 디스켓이 3.5인치 신식이라 당황했던 기억이.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1074275152311926800,
+		"in_reply_to_status_id_str": "1074275152311926784",
+		"in_reply_to_user_id": 151807455,
+		"in_reply_to_user_id_str": "151807455",
+		"in_reply_to_screen_name": "djuna01",
+		"user": {
+			"id": 151807455,
+			"id_str": "151807455",
+			"name": "djuna",
+			"screen_name": "djuna01",
+			"location": "South Korea",
+			"description": "[마지막 피 한 방울까지], [각자의 시간 속에서], [민트의 세계], [그 겨울, 손탁 호텔에서], [캘리번], [그깟 공놀이], [장르 세계를 떠도는 듀나의 탐사기], [왕의 넋], [구부전], [두 번째 유모], [아르카디아에도 나는 있었다], [네 몸 속에 웅크리고 있는 것]",
+			"url": "https://t.co/hO1XEzYVfJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hO1XEzYVfJ",
+							"expanded_url": "http://djuna.kr",
+							"display_url": "djuna.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80861,
+			"friends_count": 219,
+			"listed_count": 722,
+			"created_at": "Fri Jun 04 08:44:20 +0000 2010",
+			"favourites_count": 1040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 291784,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F2F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/151807455/1540048520",
+			"profile_link_color": "464A5C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FB274A",
+			"profile_text_color": "DB6955",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "대학 때 워드프로세서를 받았는데, 전용 디스켓이 3.5인치 신식이라 당황했던 기억이."
+	},
+	{
+		"created_at": "Mon Sep 09 13:35:39 +0000 2019",
+		"id": 1171054564344119300,
+		"id_str": "1171054564344119297",
+		"full_text": "정확히 말해 듀나는 PC통신하이텔의 아이디.이 아이디는 '공식소유자'인 이영수씨와 그의 오빠, 그리고 6촌동생이 공유하고 있다.\n\"사실 처음엔 별 생각 없었는데, 온라인에서 약간 귀찮은 일이 있었고 아이디를 여럿이 쓰니까 온라인상 정체성을 통일하자는 생각이 들었어요\"\nhttps://t.co/URS1ipzrhC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/URS1ipzrhC",
+					"expanded_url": "https://mnews.joins.com/article/3576566#home",
+					"display_url": "mnews.joins.com/article/357656…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 80,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정확히 말해 듀나는 PC통신하이텔의 아이디.이 아이디는 '공식소유자'인 이영수씨와 그의 오빠, 그리고 6촌동생이 공유하고 있다.\n\"사실 처음엔 별 생각 없었는데, 온라인에서 약간 귀찮은 일이 있었고 아이디를 여럿이 쓰니까 온라인상 정체성을 통일하자는 생각이 들었어요\"\nhttps://t.co/URS1ipzrhC"
+	},
+	{
+		"created_at": "Mon Sep 09 13:27:19 +0000 2019",
+		"id": 52563026716532740,
+		"id_str": "1171052465455632385",
+		"full_text": "듀나의 끝없는 상상과의 조우: 블로콜리 평원의 혈투..\n \n듀나를 만나다.\n \n1994년인가 1993년 인가 그를 하이텔 게시판에서 처음 만났다. 그의 영화평론은 정성일 유지나로 대표되는 그 당시의 유... http://bit.ly/hIDt3z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitterfeed.com\" rel=\"nofollow\">twitterfeed</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 115246696,
+			"id_str": "115246696",
+			"name": "hoo",
+			"screen_name": "saltdole",
+			"location": "대한민국 서울",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2745,
+			"friends_count": 3305,
+			"listed_count": 53,
+			"created_at": "Thu Feb 18 02:28:39 +0000 2010",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/840597395666817025/rTFDRXiG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/840597395666817025/rTFDRXiG_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "듀나의 끝없는 상상과의 조우: 블로콜리 평원의 혈투..\n \n듀나를 만나다.\n \n1994년인가 1993년 인가 그를 하이텔 게시판에서 처음 만났다. 그의 영화평론은 정성일 유지나로 대표되는 그 당시의 유... http://bit.ly/hIDt3z"
+	},
+	{
 		"created_at": "Mon Sep 09 10:47:11 +0000 2019",
 		"id": 1170983627586330600,
 		"id_str": "1171012164968009728",
