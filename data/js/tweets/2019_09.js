@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 12 18:20:02 +0000 2019",
+		"id": 1172062603100610600,
+		"id_str": "1172213295534596097",
+		"full_text": "대체로 동의하는 분석인데, '대놓고 불법을 저지를 수 있는' 최상위의 이른바 '그들만의 리그' 권력자엔 철저히 비굴하고 기존 권력체제에의 도전은 편법으로 정의(ex: 군대 안 가고 성적만 잘 받아서 고위직 도전하는 여성들) 하여 과반발하는 성향이라는 생각이 듭니다 #양극화_필터 https://t.co/fP8mjPxUJY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "양극화_필터",
+					"indices": [
+						148,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fP8mjPxUJY",
+					"expanded_url": "https://twitter.com/_ibbie/status/1171834401870602242",
+					"display_url": "twitter.com/_ibbie/status/…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1698407180,
+			"id_str": "1698407180",
+			"name": "rtspmd 🎗_民主香港加油🇭🇰",
+			"screen_name": "_4835979",
+			"location": "",
+			"description": "民主香港加油🇭🇰",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 778,
+			"friends_count": 172,
+			"listed_count": 16,
+			"created_at": "Sun Aug 25 07:03:38 +0000 2013",
+			"favourites_count": 1297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1028301106084896768/nj1Vs9FY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1028301106084896768/nj1Vs9FY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1698407180/1560570435",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1171834401870602200,
+		"quoted_status_id_str": "1171834401870602242",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fP8mjPxUJY",
+			"expanded": "https://twitter.com/_ibbie/status/1171834401870602242",
+			"display": "twitter.com/_ibbie/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 11 17:14:27 +0000 2019",
+			"id": 1171834401870602200,
+			"id_str": "1171834401870602242",
+			"full_text": "이게 사실 재밌는 지점인데,\n남의 불법 편법의 불관용도가 나이가 낮은 세대일수록 높아지지만 일반적으론 불법이 편법보다는 훨씬 나쁜 것이었음. 근데 20대 남 그 코호트에 와서는 이게 뒤집힌다?\n난 20대 남 세대는 이제 자기가 좆된 건 확실하고 남이 좆됨을 탈출하는 것도 싫어한다고 봄 https://t.co/EUK6EWR67Y",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				159
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EUK6EWR67Y",
+						"expanded_url": "https://twitter.com/MIll_0/status/1171829330143408128",
+						"display_url": "twitter.com/MIll_0/status/…",
+						"indices": [
+							160,
+							183
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 58181265,
+				"id_str": "58181265",
+				"name": "이비",
+				"screen_name": "_ibbie",
+				"location": "Asuncion, Paraguay",
+				"description": "#더불어민주당 #Democratic_Party_of_Korea 플텍계 팔로워는 맞팔 안받으면 블언블함. RT가 동의인 건 아님 /trpg(gurps)/오딱후 / 내 트윗은 나 외의 어느 누구의 뜻도 대변하지 않음",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1546,
+				"friends_count": 3892,
+				"listed_count": 18,
+				"created_at": "Sun Jul 19 11:51:16 +0000 2009",
+				"favourites_count": 32580,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 184501,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1124344744220348416/JLexKpyS_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124344744220348416/JLexKpyS_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/58181265/1533710770",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1171829330143408000,
+			"quoted_status_id_str": "1171829330143408128",
+			"quoted_status_permalink": {
+				"url": "https://t.co/EUK6EWR67Y",
+				"expanded": "https://twitter.com/MIll_0/status/1171829330143408128",
+				"display": "twitter.com/MIll_0/status/…"
+			},
+			"retweet_count": 158,
+			"favorite_count": 56,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 53,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대체로 동의하는 분석인데, '대놓고 불법을 저지를 수 있는' 최상위의 이른바 '그들만의 리그' 권력자엔 철저히 비굴하고 기존 권력체제에의 도전은 편법으로 정의(ex: 군대 안 가고 성적만 잘 받아서 고위직 도전하는 여성들) 하여 과반발하는 성향이라는 생각이 듭니다 #양극화_필터 https://t.co/fP8mjPxUJY"
+	},
+	{
 		"created_at": "Wed Sep 11 18:31:47 +0000 2019",
 		"id": 1171853862468116500,
 		"id_str": "1171853862468116480",
