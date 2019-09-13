@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 13 04:08:54 +0000 2019",
+		"id": 1172320306058412000,
+		"id_str": "1172361488486371328",
+		"full_text": "동성애하는 레즈비언들 쫓겨날판 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/Kdl5R5mKgr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Kdl5R5mKgr",
+					"expanded_url": "https://twitter.com/rad_ewha/status/1171998063063207937",
+					"display_url": "twitter.com/rad_ewha/statu…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4831495133,
+			"id_str": "4831495133",
+			"name": "테크노보살",
+			"screen_name": "technobodhi",
+			"location": "",
+			"description": "테크노 카르텔",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1687,
+			"friends_count": 20,
+			"listed_count": 6,
+			"created_at": "Thu Jan 21 02:29:39 +0000 2016",
+			"favourites_count": 903,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164798358071865344/5J4_y76Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164798358071865344/5J4_y76Z_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1171998063063208000,
+		"quoted_status_id_str": "1171998063063207937",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Kdl5R5mKgr",
+			"expanded": "https://twitter.com/rad_ewha/status/1171998063063207937",
+			"display": "twitter.com/rad_ewha/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 12 04:04:47 +0000 2019",
+			"id": 1171998063063208000,
+			"id_str": "1171998063063207937",
+			"full_text": "Get the L Out Korea 선언문입니다.\n선언에 동참하시고 싶으신 분들은 프로필 링크에 서명해주세요.\n퀴어에서 벗어난 여성들의 자매애를 응원합니다.\n\nhttps://t.co/6teY9IsUCb https://t.co/WFNykMdojL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				112
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6teY9IsUCb",
+						"expanded_url": "https://forms.gle/4z6ojAWCZnWCmh5z8",
+						"display_url": "forms.gle/4z6ojAWCZnWCmh…",
+						"indices": [
+							89,
+							112
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1171998049557569500,
+						"id_str": "1171998049557569536",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/EEPGBD1UYAA2wc6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EEPGBD1UYAA2wc6.jpg",
+						"url": "https://t.co/WFNykMdojL",
+						"display_url": "pic.twitter.com/WFNykMdojL",
+						"expanded_url": "https://twitter.com/Rad_Ewha/status/1171998063063207937/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1171998049557569500,
+						"id_str": "1171998049557569536",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/EEPGBD1UYAA2wc6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EEPGBD1UYAA2wc6.jpg",
+						"url": "https://t.co/WFNykMdojL",
+						"display_url": "pic.twitter.com/WFNykMdojL",
+						"expanded_url": "https://twitter.com/Rad_Ewha/status/1171998063063207937/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1130486640319688700,
+				"id_str": "1130486640319688705",
+				"name": "이화 여성주의 연합 Rad-E",
+				"screen_name": "Rad_Ewha",
+				"location": "",
+				"description": "이화 여성주의 연합 ‘Rad-E’",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 235,
+				"friends_count": 25,
+				"listed_count": 1,
+				"created_at": "Mon May 20 14:53:13 +0000 2019",
+				"favourites_count": 13,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 43,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1130486828400664582/GKm0IDcW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130486828400664582/GKm0IDcW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130486640319688705/1558364085",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 123,
+			"favorite_count": 34,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 796,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "동성애하는 레즈비언들 쫓겨날판 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/Kdl5R5mKgr"
+	},
+	{
 		"created_at": "Thu Sep 12 18:20:02 +0000 2019",
 		"id": 1172062603100610600,
 		"id_str": "1172213295534596097",
