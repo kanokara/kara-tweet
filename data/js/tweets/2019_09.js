@@ -1,6 +1,751 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 15 12:48:39 +0000 2019",
+		"id": 1173217060597317600,
+		"id_str": "1173217060597317632",
+		"full_text": "공유경제가 사회적으로 문제가 있지만, 소비경제의 감축이란 점에 있어서는 필요악이 아닐지...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 80,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1184,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "공유경제가 사회적으로 문제가 있지만, 소비경제의 감축이란 점에 있어서는 필요악이 아닐지..."
+	},
+	{
+		"created_at": "Sun Sep 15 12:46:08 +0000 2019",
+		"id": 1172882887076532200,
+		"id_str": "1173216427718758400",
+		"full_text": "50위권 국가 가운데서는 북한 인민의 상황이 가장 참담하겠네. 다른 나라들은 번영을 누리고 있거나 인구 억단위 대국이라 순위권에 들어간 나라들인데, 북한은 어느 쪽도 아니면서 온실가스 누적배출량 순위가 높음. 번영은 누리지 못했으나 이제는 감축의무를 져야 할 이런....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1172880527692419000,
+		"in_reply_to_status_id_str": "1172880527692419073",
+		"in_reply_to_user_id": 110653579,
+		"in_reply_to_user_id_str": "110653579",
+		"in_reply_to_screen_name": "Mfecane",
+		"user": {
+			"id": 110653579,
+			"id_str": "110653579",
+			"name": "베트남 갑오징어",
+			"screen_name": "Mfecane",
+			"location": "유동륜",
+			"description": "잡부 C",
+			"url": "http://t.co/1wnRklIFJ5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1wnRklIFJ5",
+							"expanded_url": "http://cafe.naver.com/abcde1",
+							"display_url": "cafe.naver.com/abcde1",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4292,
+			"friends_count": 281,
+			"listed_count": 138,
+			"created_at": "Tue Feb 02 09:09:13 +0000 2010",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "7A7474",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/498321068751216641/ZWEh4Uod_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/498321068751216641/ZWEh4Uod_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110653579/1535705508",
+			"profile_link_color": "6F0FFF",
+			"profile_sidebar_border_color": "737171",
+			"profile_sidebar_fill_color": "DEA0A0",
+			"profile_text_color": "1C781F",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "50위권 국가 가운데서는 북한 인민의 상황이 가장 참담하겠네. 다른 나라들은 번영을 누리고 있거나 인구 억단위 대국이라 순위권에 들어간 나라들인데, 북한은 어느 쪽도 아니면서 온실가스 누적배출량 순위가 높음. 번영은 누리지 못했으나 이제는 감축의무를 져야 할 이런...."
+	},
+	{
+		"created_at": "Sun Sep 15 12:46:00 +0000 2019",
+		"id": 1172880527692419000,
+		"id_str": "1173216395015778306",
+		"full_text": "참 망해도 어찌 이렇게 망할 수가. 한국 누적 배출량이 157억톤인데, 인구 절반에 (현) 인당 소득이 1/30인 나라의 누적 배출량이 1/3씩이나 된다는 것도 충격. 북한 개발에서 그동안 누적된 양을 상쇄하려면 한국으로서는 엄청난 부담을 질 수 밖에 없을 듯.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1172879534372184000,
+		"in_reply_to_status_id_str": "1172879534372184064",
+		"in_reply_to_user_id": 110653579,
+		"in_reply_to_user_id_str": "110653579",
+		"in_reply_to_screen_name": "Mfecane",
+		"user": {
+			"id": 110653579,
+			"id_str": "110653579",
+			"name": "베트남 갑오징어",
+			"screen_name": "Mfecane",
+			"location": "유동륜",
+			"description": "잡부 C",
+			"url": "http://t.co/1wnRklIFJ5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1wnRklIFJ5",
+							"expanded_url": "http://cafe.naver.com/abcde1",
+							"display_url": "cafe.naver.com/abcde1",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4292,
+			"friends_count": 281,
+			"listed_count": 138,
+			"created_at": "Tue Feb 02 09:09:13 +0000 2010",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "7A7474",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/498321068751216641/ZWEh4Uod_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/498321068751216641/ZWEh4Uod_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110653579/1535705508",
+			"profile_link_color": "6F0FFF",
+			"profile_sidebar_border_color": "737171",
+			"profile_sidebar_fill_color": "DEA0A0",
+			"profile_text_color": "1C781F",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "참 망해도 어찌 이렇게 망할 수가. 한국 누적 배출량이 157억톤인데, 인구 절반에 (현) 인당 소득이 1/30인 나라의 누적 배출량이 1/3씩이나 된다는 것도 충격. 북한 개발에서 그동안 누적된 양을 상쇄하려면 한국으로서는 엄청난 부담을 질 수 밖에 없을 듯."
+	},
+	{
+		"created_at": "Sun Sep 15 12:45:58 +0000 2019",
+		"id": 1172879534372184000,
+		"id_str": "1173216386664943619",
+		"full_text": "북한 배출량은 누적 50억톤으로 37위. 35위 오스트리아, 36위 말레이시아, 38위 헝가리, 39위 스웨덴 이런 나라들과 총량 면에서 어깨를 나란히 하니 지금의 상황 가지고 인준을 받을 건덕지가 안 나올 듯. 물론 소득대비 배출량 비는 최악으로 보이고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1172787738669486000,
+		"in_reply_to_status_id_str": "1172787738669486080",
+		"in_reply_to_user_id": 110653579,
+		"in_reply_to_user_id_str": "110653579",
+		"in_reply_to_screen_name": "Mfecane",
+		"user": {
+			"id": 110653579,
+			"id_str": "110653579",
+			"name": "베트남 갑오징어",
+			"screen_name": "Mfecane",
+			"location": "유동륜",
+			"description": "잡부 C",
+			"url": "http://t.co/1wnRklIFJ5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1wnRklIFJ5",
+							"expanded_url": "http://cafe.naver.com/abcde1",
+							"display_url": "cafe.naver.com/abcde1",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4292,
+			"friends_count": 281,
+			"listed_count": 138,
+			"created_at": "Tue Feb 02 09:09:13 +0000 2010",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "7A7474",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/498321068751216641/ZWEh4Uod_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/498321068751216641/ZWEh4Uod_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110653579/1535705508",
+			"profile_link_color": "6F0FFF",
+			"profile_sidebar_border_color": "737171",
+			"profile_sidebar_fill_color": "DEA0A0",
+			"profile_text_color": "1C781F",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "북한 배출량은 누적 50억톤으로 37위. 35위 오스트리아, 36위 말레이시아, 38위 헝가리, 39위 스웨덴 이런 나라들과 총량 면에서 어깨를 나란히 하니 지금의 상황 가지고 인준을 받을 건덕지가 안 나올 듯. 물론 소득대비 배출량 비는 최악으로 보이고."
+	},
+	{
+		"created_at": "Sun Sep 15 12:45:54 +0000 2019",
+		"id": 1172787738669486000,
+		"id_str": "1173216368730066944",
+		"full_text": "결국 오늘의 한국이 유럽 욕할 근거는 사실상 없음. 참고로 스웨덴은 북한보다 누적 배출량이 살짝 적은 것으로 계산됨.  북한도 석탄은 엄청나게 많이 태웠으나, 그게 다만 김왕가를 위한 것이 되었다는 게 충격적인 부분.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1172787032030007300,
+		"in_reply_to_status_id_str": "1172787032030007298",
+		"in_reply_to_user_id": 110653579,
+		"in_reply_to_user_id_str": "110653579",
+		"in_reply_to_screen_name": "Mfecane",
+		"user": {
+			"id": 110653579,
+			"id_str": "110653579",
+			"name": "베트남 갑오징어",
+			"screen_name": "Mfecane",
+			"location": "유동륜",
+			"description": "잡부 C",
+			"url": "http://t.co/1wnRklIFJ5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1wnRklIFJ5",
+							"expanded_url": "http://cafe.naver.com/abcde1",
+							"display_url": "cafe.naver.com/abcde1",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4292,
+			"friends_count": 281,
+			"listed_count": 138,
+			"created_at": "Tue Feb 02 09:09:13 +0000 2010",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "7A7474",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/498321068751216641/ZWEh4Uod_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/498321068751216641/ZWEh4Uod_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110653579/1535705508",
+			"profile_link_color": "6F0FFF",
+			"profile_sidebar_border_color": "737171",
+			"profile_sidebar_fill_color": "DEA0A0",
+			"profile_text_color": "1C781F",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "결국 오늘의 한국이 유럽 욕할 근거는 사실상 없음. 참고로 스웨덴은 북한보다 누적 배출량이 살짝 적은 것으로 계산됨.  북한도 석탄은 엄청나게 많이 태웠으나, 그게 다만 김왕가를 위한 것이 되었다는 게 충격적인 부분."
+	},
+	{
+		"created_at": "Sun Sep 15 12:44:55 +0000 2019",
+		"id": 1173163212772003800,
+		"id_str": "1173216121035448320",
+		"full_text": "20년 뒤에는 고로(blast furnaces and coke ovens)도 거의 쓰지 말라고 하는 게 IEA 계산결과. OECD 산하 기관에서 충격적 수준의 급진적인 주장이 나오고 있는 것이 지금의 상황. 전 인류 차원에서 할 수 있는 모든 것을 해 봐야 2도 미만을 달성하는 데 조금의 희망을 가질 수 있는 상태.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110653579,
+			"id_str": "110653579",
+			"name": "베트남 갑오징어",
+			"screen_name": "Mfecane",
+			"location": "유동륜",
+			"description": "잡부 C",
+			"url": "http://t.co/1wnRklIFJ5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1wnRklIFJ5",
+							"expanded_url": "http://cafe.naver.com/abcde1",
+							"display_url": "cafe.naver.com/abcde1",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4292,
+			"friends_count": 281,
+			"listed_count": 138,
+			"created_at": "Tue Feb 02 09:09:13 +0000 2010",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "7A7474",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/498321068751216641/ZWEh4Uod_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/498321068751216641/ZWEh4Uod_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110653579/1535705508",
+			"profile_link_color": "6F0FFF",
+			"profile_sidebar_border_color": "737171",
+			"profile_sidebar_fill_color": "DEA0A0",
+			"profile_text_color": "1C781F",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "20년 뒤에는 고로(blast furnaces and coke ovens)도 거의 쓰지 말라고 하는 게 IEA 계산결과. OECD 산하 기관에서 충격적 수준의 급진적인 주장이 나오고 있는 것이 지금의 상황. 전 인류 차원에서 할 수 있는 모든 것을 해 봐야 2도 미만을 달성하는 데 조금의 희망을 가질 수 있는 상태."
+	},
+	{
+		"created_at": "Sun Sep 15 12:30:27 +0000 2019",
+		"id": 1173212481155526700,
+		"id_str": "1173212481155526658",
+		"full_text": "@GoblinCase 그리고 결국 가면에 먹히는 게 필연이라고 할까...",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoblinCase",
+					"name": "고블린 유도가방",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1173211075635892200,
+		"in_reply_to_status_id_str": "1173211075635892225",
+		"in_reply_to_user_id": 1047103952297254900,
+		"in_reply_to_user_id_str": "1047103952297254912",
+		"in_reply_to_screen_name": "GoblinCase",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 80,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1184,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@GoblinCase 그리고 결국 가면에 먹히는 게 필연이라고 할까..."
+	},
+	{
+		"created_at": "Sun Sep 15 12:24:26 +0000 2019",
+		"id": 1173163534223462400,
+		"id_str": "1173210969469620225",
+		"full_text": "호러소설에도 간혹 나오는데, 주로 작가 자신이 화자로 나와 독자의 기묘한 편지를 받고 헛소리로 치부하다 실제임이 드러나는 반전 기법.\n혹은 아시모프 등 SF에도 비슷하게 쓰여 '사실이지만 다들 안 믿을 것 같아 소설로 써서 공개한다'라는 메타픽션 기법으로 발전(?)하기도.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1173162649829306400,
+		"in_reply_to_status_id_str": "1173162649829306368",
+		"in_reply_to_user_id": 95008098,
+		"in_reply_to_user_id_str": "95008098",
+		"in_reply_to_screen_name": "pilza2",
+		"user": {
+			"id": 95008098,
+			"id_str": "95008098",
+			"name": "PILZAⅡ (ピルザツー)",
+			"screen_name": "pilza2",
+			"location": "South Korea",
+			"description": "히키코모리 지망생 / 데레스테:318391083 / 연락처 pilza2@gmail.com",
+			"url": "https://t.co/RJ932et688",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RJ932et688",
+							"expanded_url": "http://pilza2.com",
+							"display_url": "pilza2.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 207,
+			"friends_count": 79,
+			"listed_count": 11,
+			"created_at": "Sun Dec 06 14:31:52 +0000 2009",
+			"favourites_count": 1801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9606,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/952895169732386816/iaj5YoYy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/952895169732386816/iaj5YoYy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95008098/1543682599",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "호러소설에도 간혹 나오는데, 주로 작가 자신이 화자로 나와 독자의 기묘한 편지를 받고 헛소리로 치부하다 실제임이 드러나는 반전 기법.\n혹은 아시모프 등 SF에도 비슷하게 쓰여 '사실이지만 다들 안 믿을 것 같아 소설로 써서 공개한다'라는 메타픽션 기법으로 발전(?)하기도."
+	},
+	{
 		"created_at": "Fri Sep 13 04:14:07 +0000 2019",
 		"id": 1169903812615659500,
 		"id_str": "1172362800255000576",
