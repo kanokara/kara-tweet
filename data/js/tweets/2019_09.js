@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 20 02:01:59 +0000 2019",
+		"id": 1174515745977331700,
+		"id_str": "1174866262045777920",
+		"full_text": "최고의 댓글!!\n\nㅋㅋㅋㅋㅋㅋㅋ\n한국기자:김구, 통일에 눈멀어 민생과\n경제 내팽개쳐 https://t.co/KZHIqCh4Vv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1174515737307697200,
+					"id_str": "1174515737307697152",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/EEy31xlU0AA8KYy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEy31xlU0AA8KYy.jpg",
+					"url": "https://t.co/KZHIqCh4Vv",
+					"display_url": "pic.twitter.com/KZHIqCh4Vv",
+					"expanded_url": "https://twitter.com/slynsnkyyyyhv/status/1174515745977331712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 534,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 534,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 336,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1174515737307697200,
+					"id_str": "1174515737307697152",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/EEy31xlU0AA8KYy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEy31xlU0AA8KYy.jpg",
+					"url": "https://t.co/KZHIqCh4Vv",
+					"display_url": "pic.twitter.com/KZHIqCh4Vv",
+					"expanded_url": "https://twitter.com/slynsnkyyyyhv/status/1174515745977331712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 534,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 534,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 336,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1020648373798330400,
+			"id_str": "1020648373798330368",
+			"name": "튼실하자",
+			"screen_name": "slynsnkyyyyhv",
+			"location": "대한민국☆",
+			"description": "나꼼수빠♡ 밭을가는여자☆",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1306,
+			"friends_count": 775,
+			"listed_count": 2,
+			"created_at": "Sat Jul 21 12:35:09 +0000 2018",
+			"favourites_count": 21825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1158756652327174144/LTmyyCyX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158756652327174144/LTmyyCyX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1020648373798330368/1567483432",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 545,
+		"favorite_count": 286,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "최고의 댓글!!\n\nㅋㅋㅋㅋㅋㅋㅋ\n한국기자:김구, 통일에 눈멀어 민생과\n경제 내팽개쳐 https://t.co/KZHIqCh4Vv"
+	},
+	{
 		"created_at": "Mon Sep 16 09:17:59 +0000 2019",
 		"id": 1173526431684415500,
 		"id_str": "1173526431684415488",
