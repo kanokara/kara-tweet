@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 22 07:40:26 +0000 2019",
+		"id": 1175676212401672200,
+		"id_str": "1175676212401672192",
+		"full_text": "하지만 작금의 여성운동은 그렇게 구성된 '남성성'에 과도한 가치를 부여하는 반면, '여성성'은 코르셋이라며 부정하는 방향.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 79,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "하지만 작금의 여성운동은 그렇게 구성된 '남성성'에 과도한 가치를 부여하는 반면, '여성성'은 코르셋이라며 부정하는 방향."
+	},
+	{
+		"created_at": "Sun Sep 22 07:38:16 +0000 2019",
+		"id": 918233919861825500,
+		"id_str": "1175675668178145280",
+		"full_text": "공적/사적 영역을 분리해놓고 공적 영역은 남성에게, 사적 영역은 여성에게 할당하기 위해 사회시스템이 만들어져있다. 공적 능력을 평가하는 기준자체가 남성중심적. 근데 여성들이 능력이없어서 임금낮고 고소득직종 수가 적은거라고 얘기함",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 918232822057394200,
+		"in_reply_to_status_id_str": "918232822057394176",
+		"in_reply_to_user_id": 863898102008127500,
+		"in_reply_to_user_id_str": "863898102008127488",
+		"in_reply_to_screen_name": "typhonhyunta",
+		"user": {
+			"id": 863898102008127500,
+			"id_str": "863898102008127488",
+			"name": "티폰🤗",
+			"screen_name": "typhonhyunta",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/tNBnfb37fd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNBnfb37fd",
+							"expanded_url": "https://www.instagram.com/typhonhyunta/",
+							"display_url": "instagram.com/typhonhyunta/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2263,
+			"friends_count": 600,
+			"listed_count": 7,
+			"created_at": "Sun May 14 23:25:32 +0000 2017",
+			"favourites_count": 22955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41954,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152823476207538176/aJ03SzVA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152823476207538176/aJ03SzVA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/863898102008127488/1551522340",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "공적/사적 영역을 분리해놓고 공적 영역은 남성에게, 사적 영역은 여성에게 할당하기 위해 사회시스템이 만들어져있다. 공적 능력을 평가하는 기준자체가 남성중심적. 근데 여성들이 능력이없어서 임금낮고 고소득직종 수가 적은거라고 얘기함"
+	},
+	{
+		"created_at": "Sun Sep 22 07:38:14 +0000 2019",
+		"id": 918232822057394200,
+		"id_str": "1175675659831533569",
+		"full_text": "그 줄타기 조금만 잘못해도 ~~씨는 사회성이없네. 또는 ~~씨처럼 드세면 남자들이싫어해. 이런소리듣고 그런 소문들이 평판이 되어서 여성의 사회진출을 제약함. 아무리 그런 줄타기를 잘해도 결국 남성성 잘 발휘한 남성만큼의 지위 얻지 못하고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 918232240496054300,
+		"in_reply_to_status_id_str": "918232240496054272",
+		"in_reply_to_user_id": 863898102008127500,
+		"in_reply_to_user_id_str": "863898102008127488",
+		"in_reply_to_screen_name": "typhonhyunta",
+		"user": {
+			"id": 863898102008127500,
+			"id_str": "863898102008127488",
+			"name": "티폰🤗",
+			"screen_name": "typhonhyunta",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/tNBnfb37fd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNBnfb37fd",
+							"expanded_url": "https://www.instagram.com/typhonhyunta/",
+							"display_url": "instagram.com/typhonhyunta/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2263,
+			"friends_count": 600,
+			"listed_count": 7,
+			"created_at": "Sun May 14 23:25:32 +0000 2017",
+			"favourites_count": 22955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41954,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152823476207538176/aJ03SzVA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152823476207538176/aJ03SzVA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/863898102008127488/1551522340",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그 줄타기 조금만 잘못해도 ~~씨는 사회성이없네. 또는 ~~씨처럼 드세면 남자들이싫어해. 이런소리듣고 그런 소문들이 평판이 되어서 여성의 사회진출을 제약함. 아무리 그런 줄타기를 잘해도 결국 남성성 잘 발휘한 남성만큼의 지위 얻지 못하고."
+	},
+	{
 		"created_at": "Sat Sep 21 14:07:35 +0000 2019",
 		"id": 1175379877404405800,
 		"id_str": "1175411252304068608",
