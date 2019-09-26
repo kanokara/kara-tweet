@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 26 06:54:40 +0000 2019",
+		"id": 1175264944335360000,
+		"id_str": "1177114244933812224",
+		"full_text": "있고.) 소설은 창작자가 어느 정도 통제 가능하다. 따라서 주인공으로 비도덕적이거나 비윤리적인 캐릭터가 등장하더라도 작품은 윤리적이거나 옳은 당위를 충분히 얘기할 수 있음. 그래서 어떤 캐릭터의 '빻은' 행동보다, 작품 내에서 그 '빻은' 행위가 어떻게 다뤄지는지가 훨씬 중요한데...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1175264942829650000,
+		"in_reply_to_status_id_str": "1175264942829649921",
+		"in_reply_to_user_id": 727429362971119600,
+		"in_reply_to_user_id_str": "727429362971119616",
+		"in_reply_to_screen_name": "Cyriaka_Kim",
+		"user": {
+			"id": 727429362971119600,
+			"id_str": "727429362971119616",
+			"name": "치리",
+			"screen_name": "Cyriaka_Kim",
+			"location": "RT나 마음은 무조건적 동의를 뜻하지 않습니다.",
+			"description": "인생이 나한테 너무하지요...",
+			"url": "https://t.co/8lrqDAzbTt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8lrqDAzbTt",
+							"expanded_url": "https://ask.fm/Cyriaka_Kim",
+							"display_url": "ask.fm/Cyriaka_Kim",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 639,
+			"friends_count": 341,
+			"listed_count": 12,
+			"created_at": "Tue May 03 09:27:29 +0000 2016",
+			"favourites_count": 11977,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980111647141277697/GwRxd0wa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980111647141277697/GwRxd0wa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/727429362971119616/1563650978",
+			"profile_link_color": "2D3F5F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 667,
+		"favorite_count": 115,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "있고.) 소설은 창작자가 어느 정도 통제 가능하다. 따라서 주인공으로 비도덕적이거나 비윤리적인 캐릭터가 등장하더라도 작품은 윤리적이거나 옳은 당위를 충분히 얘기할 수 있음. 그래서 어떤 캐릭터의 '빻은' 행동보다, 작품 내에서 그 '빻은' 행위가 어떻게 다뤄지는지가 훨씬 중요한데..."
+	},
+	{
+		"created_at": "Thu Sep 26 06:54:32 +0000 2019",
+		"id": 1175264942829650000,
+		"id_str": "1177114209898754048",
+		"full_text": "거의 필수적으로 필요한 지점이 있는데, 소설은 굳이 캐릭터 하나가 딱히 그걸 할 필요 없다는 걸 잘 구분하지 못 한다는 느낌? 자캐는 자캐의 인간관계 등을 필연적으로 자기가 전부 정할 수도, 사건을 정할 수도, 커뮤에서 한 캐릭터가 주인공이 될 수도 없지만(따라서 사회와 비슷해지는 지점도",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1175264941416181800,
+		"in_reply_to_status_id_str": "1175264941416181760",
+		"in_reply_to_user_id": 727429362971119600,
+		"in_reply_to_user_id_str": "727429362971119616",
+		"in_reply_to_screen_name": "Cyriaka_Kim",
+		"user": {
+			"id": 727429362971119600,
+			"id_str": "727429362971119616",
+			"name": "치리",
+			"screen_name": "Cyriaka_Kim",
+			"location": "RT나 마음은 무조건적 동의를 뜻하지 않습니다.",
+			"description": "인생이 나한테 너무하지요...",
+			"url": "https://t.co/8lrqDAzbTt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8lrqDAzbTt",
+							"expanded_url": "https://ask.fm/Cyriaka_Kim",
+							"display_url": "ask.fm/Cyriaka_Kim",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 639,
+			"friends_count": 341,
+			"listed_count": 12,
+			"created_at": "Tue May 03 09:27:29 +0000 2016",
+			"favourites_count": 11977,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980111647141277697/GwRxd0wa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980111647141277697/GwRxd0wa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/727429362971119616/1563650978",
+			"profile_link_color": "2D3F5F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 487,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "거의 필수적으로 필요한 지점이 있는데, 소설은 굳이 캐릭터 하나가 딱히 그걸 할 필요 없다는 걸 잘 구분하지 못 한다는 느낌? 자캐는 자캐의 인간관계 등을 필연적으로 자기가 전부 정할 수도, 사건을 정할 수도, 커뮤에서 한 캐릭터가 주인공이 될 수도 없지만(따라서 사회와 비슷해지는 지점도"
+	},
+	{
 		"created_at": "Wed Sep 25 16:37:07 +0000 2019",
 		"id": 1176898435103879200,
 		"id_str": "1176898435103879169",
