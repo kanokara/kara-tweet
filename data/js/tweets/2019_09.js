@@ -1,6 +1,1134 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 28 05:56:23 +0000 2019",
+		"id": 1177824355050328000,
+		"id_str": "1177824355050328064",
+		"full_text": "가짜 불안-서스펜스가 아니죠. 가짜가 어디 있겠어요? 다만 독자들의 실패에 대한 인내심이 과거에 비해 매우 줄어들었기에 가성비-최적경로가 요구되는 것이고, '회귀', '예지' 등의 설정으로 '경력직', '능숙한 신입'이 주인공의 자질로서 요구될 뿐이에요. '불안'이란 동어가 혼동을 주는 거죠.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1177822040809599000,
+		"in_reply_to_status_id_str": "1177822040809598976",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 78,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "가짜 불안-서스펜스가 아니죠. 가짜가 어디 있겠어요? 다만 독자들의 실패에 대한 인내심이 과거에 비해 매우 줄어들었기에 가성비-최적경로가 요구되는 것이고, '회귀', '예지' 등의 설정으로 '경력직', '능숙한 신입'이 주인공의 자질로서 요구될 뿐이에요. '불안'이란 동어가 혼동을 주는 거죠."
+	},
+	{
+		"created_at": "Sat Sep 28 05:47:12 +0000 2019",
+		"id": 1177822040809599000,
+		"id_str": "1177822040809598976",
+		"full_text": "위래 씨는 기존 작법의 틀에 비추어봤기 때문에 잘못된 판단으로 흘러가고 있고, 손지상 씨는 웹소설 독자가 아니기 때문에 비평에 대한 비평을 하며 완전히 그릇된 말 얹기를 하고 있네요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 78,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "위래 씨는 기존 작법의 틀에 비추어봤기 때문에 잘못된 판단으로 흘러가고 있고, 손지상 씨는 웹소설 독자가 아니기 때문에 비평에 대한 비평을 하며 완전히 그릇된 말 얹기를 하고 있네요."
+	},
+	{
+		"created_at": "Sat Sep 28 05:45:22 +0000 2019",
+		"id": 1177709090476187600,
+		"id_str": "1177821580484722688",
+		"full_text": "이에 대한 웹소설의 해답은 그냥 소금을 치는 것, 불안을 내포하는 것이다. 하지만 그 불안은 각 편의 시작 지점에서 나타났다가, 마지막 지점에서 해소된다. 때문에 각 편에선 불안이 존재하지만 소설의 전체를 보면 '불안이 존재하지 않는 것처럼' 보이게 만든다. 일종의 마술이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1177706304900456400,
+		"in_reply_to_status_id_str": "1177706304900456448",
+		"in_reply_to_user_id": 1627227828,
+		"in_reply_to_user_id_str": "1627227828",
+		"in_reply_to_screen_name": "N91211",
+		"user": {
+			"id": 1627227828,
+			"id_str": "1627227828",
+			"name": "위래",
+			"screen_name": "N91211",
+			"location": "n91211.postype.com",
+			"description": "단편: 미궁에는 괴물이(네이버캐스트), 동전 마법(온우주 소식지), 성간행성(크로스로드 SCI-FI), 우리(\"곧 죽어도 등교\" 단편집), 그 외 이하 브릿G 작가 페이지 / 장편: 마왕이 너무 많다(전 11권, 문피아 등) / 링크는 메인 트윗",
+			"url": "https://t.co/OfoZqj1u83",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OfoZqj1u83",
+							"expanded_url": "https://britg.kr/user/wirae",
+							"display_url": "britg.kr/user/wirae",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1177,
+			"friends_count": 662,
+			"listed_count": 23,
+			"created_at": "Sun Jul 28 06:48:52 +0000 2013",
+			"favourites_count": 75770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1627227828/1547107030",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이에 대한 웹소설의 해답은 그냥 소금을 치는 것, 불안을 내포하는 것이다. 하지만 그 불안은 각 편의 시작 지점에서 나타났다가, 마지막 지점에서 해소된다. 때문에 각 편에선 불안이 존재하지만 소설의 전체를 보면 '불안이 존재하지 않는 것처럼' 보이게 만든다. 일종의 마술이다."
+	},
+	{
+		"created_at": "Sat Sep 28 05:45:17 +0000 2019",
+		"id": 1177704257262194700,
+		"id_str": "1177821559521566721",
+		"full_text": "불안은 항거할 수 없는 운명과 저지른 업보에 대한 마땅한 응보, 개인이 끝내 이겨낼 수 없는 부조리, 세상이 만들어진 모양에 대한 개인의 갈등에서 비롯된다. 현대판타지는 왜 불안을 거절하는가? 판타지는 현실이 아니기 때문이다. 판타지가 현실을 거절하는 건 당연하다. 그야말로 대척점에 있다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1177702897829548000,
+		"in_reply_to_status_id_str": "1177702897829548032",
+		"in_reply_to_user_id": 1627227828,
+		"in_reply_to_user_id_str": "1627227828",
+		"in_reply_to_screen_name": "N91211",
+		"user": {
+			"id": 1627227828,
+			"id_str": "1627227828",
+			"name": "위래",
+			"screen_name": "N91211",
+			"location": "n91211.postype.com",
+			"description": "단편: 미궁에는 괴물이(네이버캐스트), 동전 마법(온우주 소식지), 성간행성(크로스로드 SCI-FI), 우리(\"곧 죽어도 등교\" 단편집), 그 외 이하 브릿G 작가 페이지 / 장편: 마왕이 너무 많다(전 11권, 문피아 등) / 링크는 메인 트윗",
+			"url": "https://t.co/OfoZqj1u83",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OfoZqj1u83",
+							"expanded_url": "https://britg.kr/user/wirae",
+							"display_url": "britg.kr/user/wirae",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1177,
+			"friends_count": 662,
+			"listed_count": 23,
+			"created_at": "Sun Jul 28 06:48:52 +0000 2013",
+			"favourites_count": 75770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1627227828/1547107030",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "불안은 항거할 수 없는 운명과 저지른 업보에 대한 마땅한 응보, 개인이 끝내 이겨낼 수 없는 부조리, 세상이 만들어진 모양에 대한 개인의 갈등에서 비롯된다. 현대판타지는 왜 불안을 거절하는가? 판타지는 현실이 아니기 때문이다. 판타지가 현실을 거절하는 건 당연하다. 그야말로 대척점에 있다."
+	},
+	{
+		"created_at": "Sat Sep 28 05:44:58 +0000 2019",
+		"id": 1177702897829548000,
+		"id_str": "1177821482199597056",
+		"full_text": "긴장감과도 다른데, 정확히는 불안은 긴장의 하위 요소다. 긴장은 긍정적이거나 부정적이지 않고 중립적인 반면 불안은 부정적이며, 긴장이 주인공의 행동을 기대하게 하지만 불안은 보다 수동적인 대응에 그칠 것으로 보인다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1177701871940591600,
+		"in_reply_to_status_id_str": "1177701871940591617",
+		"in_reply_to_user_id": 1627227828,
+		"in_reply_to_user_id_str": "1627227828",
+		"in_reply_to_screen_name": "N91211",
+		"user": {
+			"id": 1627227828,
+			"id_str": "1627227828",
+			"name": "위래",
+			"screen_name": "N91211",
+			"location": "n91211.postype.com",
+			"description": "단편: 미궁에는 괴물이(네이버캐스트), 동전 마법(온우주 소식지), 성간행성(크로스로드 SCI-FI), 우리(\"곧 죽어도 등교\" 단편집), 그 외 이하 브릿G 작가 페이지 / 장편: 마왕이 너무 많다(전 11권, 문피아 등) / 링크는 메인 트윗",
+			"url": "https://t.co/OfoZqj1u83",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OfoZqj1u83",
+							"expanded_url": "https://britg.kr/user/wirae",
+							"display_url": "britg.kr/user/wirae",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1177,
+			"friends_count": 662,
+			"listed_count": 23,
+			"created_at": "Sun Jul 28 06:48:52 +0000 2013",
+			"favourites_count": 75770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1627227828/1547107030",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "긴장감과도 다른데, 정확히는 불안은 긴장의 하위 요소다. 긴장은 긍정적이거나 부정적이지 않고 중립적인 반면 불안은 부정적이며, 긴장이 주인공의 행동을 기대하게 하지만 불안은 보다 수동적인 대응에 그칠 것으로 보인다."
+	},
+	{
+		"created_at": "Sat Sep 28 05:44:42 +0000 2019",
+		"id": 1177701871940591600,
+		"id_str": "1177821412356046848",
+		"full_text": "조금 더; 서사가 만들어내는 분위기(이를테면 영웅 서사에서의 하강부), 불안을 자아내는 문장, 도플갱어 등. 불안감은 위기와는 다른데, 위기는 이제 대면했으며 돌파해나갈 것이라는 점과 달리, 불안은 기저에 깔려 있고 언제 튀어나올지 모르며 주인공을 계속 옥죌 것이라는 예측에서 온다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1177701058375606300,
+		"in_reply_to_status_id_str": "1177701058375606272",
+		"in_reply_to_user_id": 1627227828,
+		"in_reply_to_user_id_str": "1627227828",
+		"in_reply_to_screen_name": "N91211",
+		"user": {
+			"id": 1627227828,
+			"id_str": "1627227828",
+			"name": "위래",
+			"screen_name": "N91211",
+			"location": "n91211.postype.com",
+			"description": "단편: 미궁에는 괴물이(네이버캐스트), 동전 마법(온우주 소식지), 성간행성(크로스로드 SCI-FI), 우리(\"곧 죽어도 등교\" 단편집), 그 외 이하 브릿G 작가 페이지 / 장편: 마왕이 너무 많다(전 11권, 문피아 등) / 링크는 메인 트윗",
+			"url": "https://t.co/OfoZqj1u83",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OfoZqj1u83",
+							"expanded_url": "https://britg.kr/user/wirae",
+							"display_url": "britg.kr/user/wirae",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1177,
+			"friends_count": 662,
+			"listed_count": 23,
+			"created_at": "Sun Jul 28 06:48:52 +0000 2013",
+			"favourites_count": 75770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1627227828/1547107030",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "조금 더; 서사가 만들어내는 분위기(이를테면 영웅 서사에서의 하강부), 불안을 자아내는 문장, 도플갱어 등. 불안감은 위기와는 다른데, 위기는 이제 대면했으며 돌파해나갈 것이라는 점과 달리, 불안은 기저에 깔려 있고 언제 튀어나올지 모르며 주인공을 계속 옥죌 것이라는 예측에서 온다."
+	},
+	{
+		"created_at": "Sat Sep 28 05:44:38 +0000 2019",
+		"id": 1177701058375606300,
+		"id_str": "1177821395167760384",
+		"full_text": "불안감을 만드는 요소들: 주인공과 독자 사이의 정보 격차, 주인공에게 부정적인 영향을 줄 수 있는 가능성, 대적자와 완전히 갈무리되지 않은 갈등 요소, 저주, 주인공을 위협할 수 있는 운명적 요소, 드러나지 않은 배신자, 불필요하게 더 많은 정보(작가와 독자 사이의 정보 격차) 등",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1177699373121015800,
+		"in_reply_to_status_id_str": "1177699373121015808",
+		"in_reply_to_user_id": 1627227828,
+		"in_reply_to_user_id_str": "1627227828",
+		"in_reply_to_screen_name": "N91211",
+		"user": {
+			"id": 1627227828,
+			"id_str": "1627227828",
+			"name": "위래",
+			"screen_name": "N91211",
+			"location": "n91211.postype.com",
+			"description": "단편: 미궁에는 괴물이(네이버캐스트), 동전 마법(온우주 소식지), 성간행성(크로스로드 SCI-FI), 우리(\"곧 죽어도 등교\" 단편집), 그 외 이하 브릿G 작가 페이지 / 장편: 마왕이 너무 많다(전 11권, 문피아 등) / 링크는 메인 트윗",
+			"url": "https://t.co/OfoZqj1u83",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OfoZqj1u83",
+							"expanded_url": "https://britg.kr/user/wirae",
+							"display_url": "britg.kr/user/wirae",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1177,
+			"friends_count": 662,
+			"listed_count": 23,
+			"created_at": "Sun Jul 28 06:48:52 +0000 2013",
+			"favourites_count": 75770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1627227828/1547107030",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "불안감을 만드는 요소들: 주인공과 독자 사이의 정보 격차, 주인공에게 부정적인 영향을 줄 수 있는 가능성, 대적자와 완전히 갈무리되지 않은 갈등 요소, 저주, 주인공을 위협할 수 있는 운명적 요소, 드러나지 않은 배신자, 불필요하게 더 많은 정보(작가와 독자 사이의 정보 격차) 등"
+	},
+	{
+		"created_at": "Sat Sep 28 05:44:36 +0000 2019",
+		"id": 1177699373121015800,
+		"id_str": "1177821386477162496",
+		"full_text": "때문에 주인공에 대한 초점과 시야, 알고 있는 정보는 현대 판타지 소설에서 서로 비슷한 경향이 있다(작가 시점을 선호하고 1인칭의 경우 거의 모든 정보를 앎). 회귀물이 인기 있는 것도 미래를 아는 주인공에게는 '불안감'이 없기 때문.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1177698774832959500,
+		"in_reply_to_status_id_str": "1177698774832959488",
+		"in_reply_to_user_id": 1627227828,
+		"in_reply_to_user_id_str": "1627227828",
+		"in_reply_to_screen_name": "N91211",
+		"user": {
+			"id": 1627227828,
+			"id_str": "1627227828",
+			"name": "위래",
+			"screen_name": "N91211",
+			"location": "n91211.postype.com",
+			"description": "단편: 미궁에는 괴물이(네이버캐스트), 동전 마법(온우주 소식지), 성간행성(크로스로드 SCI-FI), 우리(\"곧 죽어도 등교\" 단편집), 그 외 이하 브릿G 작가 페이지 / 장편: 마왕이 너무 많다(전 11권, 문피아 등) / 링크는 메인 트윗",
+			"url": "https://t.co/OfoZqj1u83",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OfoZqj1u83",
+							"expanded_url": "https://britg.kr/user/wirae",
+							"display_url": "britg.kr/user/wirae",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1177,
+			"friends_count": 662,
+			"listed_count": 23,
+			"created_at": "Sun Jul 28 06:48:52 +0000 2013",
+			"favourites_count": 75770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1627227828/1547107030",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "때문에 주인공에 대한 초점과 시야, 알고 있는 정보는 현대 판타지 소설에서 서로 비슷한 경향이 있다(작가 시점을 선호하고 1인칭의 경우 거의 모든 정보를 앎). 회귀물이 인기 있는 것도 미래를 아는 주인공에게는 '불안감'이 없기 때문."
+	},
+	{
+		"created_at": "Sat Sep 28 05:44:32 +0000 2019",
+		"id": 1177698774832959500,
+		"id_str": "1177821370748530690",
+		"full_text": "장르소설 즉 현대판타지 소설은 단순히 문장의 길이, 문단의 모양, 연재되는 플랫폼의 차이로만 언급되는 경향이 있는데 내가 생각하는 제도권 소설과 현대판타지의 가장 큰 차이는 불안감의 부재다. 현대판타지에서 주인공과 주인공을 둘러싼 환경은 명확해야한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1177698045774876700,
+		"in_reply_to_status_id_str": "1177698045774876672",
+		"in_reply_to_user_id": 1627227828,
+		"in_reply_to_user_id_str": "1627227828",
+		"in_reply_to_screen_name": "N91211",
+		"user": {
+			"id": 1627227828,
+			"id_str": "1627227828",
+			"name": "위래",
+			"screen_name": "N91211",
+			"location": "n91211.postype.com",
+			"description": "단편: 미궁에는 괴물이(네이버캐스트), 동전 마법(온우주 소식지), 성간행성(크로스로드 SCI-FI), 우리(\"곧 죽어도 등교\" 단편집), 그 외 이하 브릿G 작가 페이지 / 장편: 마왕이 너무 많다(전 11권, 문피아 등) / 링크는 메인 트윗",
+			"url": "https://t.co/OfoZqj1u83",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OfoZqj1u83",
+							"expanded_url": "https://britg.kr/user/wirae",
+							"display_url": "britg.kr/user/wirae",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1177,
+			"friends_count": 662,
+			"listed_count": 23,
+			"created_at": "Sun Jul 28 06:48:52 +0000 2013",
+			"favourites_count": 75770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1627227828/1547107030",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "장르소설 즉 현대판타지 소설은 단순히 문장의 길이, 문단의 모양, 연재되는 플랫폼의 차이로만 언급되는 경향이 있는데 내가 생각하는 제도권 소설과 현대판타지의 가장 큰 차이는 불안감의 부재다. 현대판타지에서 주인공과 주인공을 둘러싼 환경은 명확해야한다."
+	},
+	{
+		"created_at": "Sat Sep 28 05:44:30 +0000 2019",
+		"id": 1177698045774876700,
+		"id_str": "1177821363773423618",
+		"full_text": "아무튼 '불안감'이라고 부르자면, 이건 호러와 미스터리의 근간이고 장르소설이 아니라도 제도권 소설, 고전소설이나 리얼리즘과 모던에서 언제든 터져나올 수 있는 갈등을 위한 개연적 요소로 존재한다. 하지만 어떤 판타지 소설에서는 아니다. 정확히는 웹소설 현대판타지.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1177695405095583700,
+		"in_reply_to_status_id_str": "1177695405095583744",
+		"in_reply_to_user_id": 1627227828,
+		"in_reply_to_user_id_str": "1627227828",
+		"in_reply_to_screen_name": "N91211",
+		"user": {
+			"id": 1627227828,
+			"id_str": "1627227828",
+			"name": "위래",
+			"screen_name": "N91211",
+			"location": "n91211.postype.com",
+			"description": "단편: 미궁에는 괴물이(네이버캐스트), 동전 마법(온우주 소식지), 성간행성(크로스로드 SCI-FI), 우리(\"곧 죽어도 등교\" 단편집), 그 외 이하 브릿G 작가 페이지 / 장편: 마왕이 너무 많다(전 11권, 문피아 등) / 링크는 메인 트윗",
+			"url": "https://t.co/OfoZqj1u83",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OfoZqj1u83",
+							"expanded_url": "https://britg.kr/user/wirae",
+							"display_url": "britg.kr/user/wirae",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1177,
+			"friends_count": 662,
+			"listed_count": 23,
+			"created_at": "Sun Jul 28 06:48:52 +0000 2013",
+			"favourites_count": 75770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1627227828/1547107030",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아무튼 '불안감'이라고 부르자면, 이건 호러와 미스터리의 근간이고 장르소설이 아니라도 제도권 소설, 고전소설이나 리얼리즘과 모던에서 언제든 터져나올 수 있는 갈등을 위한 개연적 요소로 존재한다. 하지만 어떤 판타지 소설에서는 아니다. 정확히는 웹소설 현대판타지."
+	},
+	{
+		"created_at": "Sat Sep 28 05:44:25 +0000 2019",
+		"id": 1177774080675606500,
+		"id_str": "1177821343162617856",
+		"full_text": "원래는 서사 용어로, 저게 '서스펜스'이다. 다만 '해결되지 않고 넘어간 갈등 요소'의 경우는 해결되지 않은 서스펜스기에 '맥거핀'이라고 부른다.\n\n그러나 우리나라는 서사용어를 막 뭉뚱그려 쓰기에, 서스펜스라는 용어를 그대로 쓰면 오해만 생긴다. 내가 여러 작법연구며 비평할 때 고민하는 지점 https://t.co/zRp72gqq1Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zRp72gqq1Z",
+					"expanded_url": "https://twitter.com/N91211/status/1177695405095583744",
+					"display_url": "twitter.com/N91211/status/…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 187070498,
+			"id_str": "187070498",
+			"name": "손지상(孫 志尚, Son Ji-Sang)",
+			"screen_name": "doskharaas",
+			"location": "독방",
+			"description": "원고의뢰 및 문의: sonkaiju 네이버메일 | 저서 및 역서 목록: https://t.co/KGtuO0aDER",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KGtuO0aDER",
+							"expanded_url": "http://m.aladin.co.kr/m/msearch.aspx?SearchTarget=Book&KeyWord=%EC%86%90%EC%A7%80%EC%83%81&KeyRecentPublish=0&OutStock=0",
+							"display_url": "m.aladin.co.kr/m/msearch.aspx…",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2722,
+			"friends_count": 1141,
+			"listed_count": 56,
+			"created_at": "Sun Sep 05 04:57:43 +0000 2010",
+			"favourites_count": 34327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 156237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156475923832565761/UXYp0FPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156475923832565761/UXYp0FPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/187070498/1555297028",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1177695405095583700,
+		"quoted_status_id_str": "1177695405095583744",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zRp72gqq1Z",
+			"expanded": "https://twitter.com/N91211/status/1177695405095583744",
+			"display": "twitter.com/N91211/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 27 21:23:59 +0000 2019",
+			"id": 1177695405095583700,
+			"id_str": "1177695405095583744",
+			"full_text": "단순하게 표현하면 '작품 전체를 아우르는 긴장감을 불러오는 플롯 장치'인데 이걸론 뭔가 부족하다. 정확히는 '주인공의 기반을 불안하게 만드는 것'인데. 불안장애에 가깝다. '해결되지 않고 넘어간 작품 내의 갈등 요소'인데. 단순히 '불안감'이라고 부르긴 심심하다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				147
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1177693923382198300,
+			"in_reply_to_status_id_str": "1177693923382198272",
+			"in_reply_to_user_id": 1627227828,
+			"in_reply_to_user_id_str": "1627227828",
+			"in_reply_to_screen_name": "N91211",
+			"user": {
+				"id": 1627227828,
+				"id_str": "1627227828",
+				"name": "위래",
+				"screen_name": "N91211",
+				"location": "n91211.postype.com",
+				"description": "단편: 미궁에는 괴물이(네이버캐스트), 동전 마법(온우주 소식지), 성간행성(크로스로드 SCI-FI), 우리(\"곧 죽어도 등교\" 단편집), 그 외 이하 브릿G 작가 페이지 / 장편: 마왕이 너무 많다(전 11권, 문피아 등) / 링크는 메인 트윗",
+				"url": "https://t.co/OfoZqj1u83",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OfoZqj1u83",
+								"expanded_url": "https://britg.kr/user/wirae",
+								"display_url": "britg.kr/user/wirae",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1177,
+				"friends_count": 662,
+				"listed_count": 23,
+				"created_at": "Sun Jul 28 06:48:52 +0000 2013",
+				"favourites_count": 75770,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 89486,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1627227828/1547107030",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 46,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "원래는 서사 용어로, 저게 '서스펜스'이다. 다만 '해결되지 않고 넘어간 갈등 요소'의 경우는 해결되지 않은 서스펜스기에 '맥거핀'이라고 부른다.\n\n그러나 우리나라는 서사용어를 막 뭉뚱그려 쓰기에, 서스펜스라는 용어를 그대로 쓰면 오해만 생긴다. 내가 여러 작법연구며 비평할 때 고민하는 지점 https://t.co/zRp72gqq1Z"
+	},
+	{
 		"created_at": "Thu Sep 26 06:54:40 +0000 2019",
 		"id": 1175264944335360000,
 		"id_str": "1177114244933812224",
