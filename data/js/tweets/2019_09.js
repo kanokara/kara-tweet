@@ -1,6 +1,534 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 29 06:38:28 +0000 2019",
+		"id": 1178197331851694000,
+		"id_str": "1178197331851694080",
+		"full_text": "음모론 계정인데 그럴싸한 게 재밌네요.\nhttps://t.co/qRnZeZxGdG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qRnZeZxGdG",
+					"expanded_url": "https://twitter.com/nowhere_6869/status/1177825188676661248?s=19",
+					"display_url": "twitter.com/nowhere_6869/s…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 78,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1219,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1177825188676661200,
+		"quoted_status_id_str": "1177825188676661248",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qRnZeZxGdG",
+			"expanded": "https://twitter.com/nowhere_6869/status/1177825188676661248?s=19",
+			"display": "twitter.com/nowhere_6869/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 28 05:59:42 +0000 2019",
+			"id": 1177825188676661200,
+			"id_str": "1177825188676661248",
+			"full_text": "즉, 중앙은행은 블랙 록과 골드만삭스 등이 외야에서 \"폭락, 폭락\"하고 고함을 치자 \"우리가 시장을 컨트롤 할 수 있다 \"는 것을 보여줌으로써 투자자의 동요를 억제하는 것입니다. \n\n이번 긴급 개입은 리먼 사태 직전과 흡사하게, 사태가 \"악화\" 된 것을 드러내는 형태를 취합니다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				156
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1177824926205534200,
+			"in_reply_to_status_id_str": "1177824926205534208",
+			"in_reply_to_user_id": 3008786138,
+			"in_reply_to_user_id_str": "3008786138",
+			"in_reply_to_screen_name": "nowhere_6869",
+			"user": {
+				"id": 3008786138,
+				"id_str": "3008786138",
+				"name": "NOW",
+				"screen_name": "nowhere_6869",
+				"location": "Corea",
+				"description": "교학상장",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3488,
+				"friends_count": 598,
+				"listed_count": 70,
+				"created_at": "Tue Feb 03 05:02:08 +0000 2015",
+				"favourites_count": 1066,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 36933,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1141113335657533440/OCm5yVCR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141113335657533440/OCm5yVCR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3008786138/1562229376",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "음모론 계정인데 그럴싸한 게 재밌네요.\nhttps://t.co/qRnZeZxGdG"
+	},
+	{
+		"created_at": "Sun Sep 29 06:37:29 +0000 2019",
+		"id": 1177821555675451400,
+		"id_str": "1178197084001800192",
+		"full_text": "세계 최대의 자산운용사인 '블랙 록'의 \"금융정책의 최후(엔드 게임)' 전망에 이어, \"흡혈 박쥐\"라 불리는 골드만삭스도 \"시장이 대혼돈 직전\"임을 경고합니다.\nhttps://t.co/JgcrdaMchB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JgcrdaMchB",
+					"expanded_url": "https://www.cnbc.com/2019/09/20/goldman-sachs-says-the-market-is-about-to-get-wild-in-october.html",
+					"display_url": "cnbc.com/2019/09/20/gol…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1177821290456993800,
+		"in_reply_to_status_id_str": "1177821290456993793",
+		"in_reply_to_user_id": 3008786138,
+		"in_reply_to_user_id_str": "3008786138",
+		"in_reply_to_screen_name": "nowhere_6869",
+		"user": {
+			"id": 3008786138,
+			"id_str": "3008786138",
+			"name": "NOW",
+			"screen_name": "nowhere_6869",
+			"location": "Corea",
+			"description": "교학상장",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3488,
+			"friends_count": 598,
+			"listed_count": 70,
+			"created_at": "Tue Feb 03 05:02:08 +0000 2015",
+			"favourites_count": 1066,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36933,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1141113335657533440/OCm5yVCR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141113335657533440/OCm5yVCR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3008786138/1562229376",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세계 최대의 자산운용사인 '블랙 록'의 \"금융정책의 최후(엔드 게임)' 전망에 이어, \"흡혈 박쥐\"라 불리는 골드만삭스도 \"시장이 대혼돈 직전\"임을 경고합니다.\nhttps://t.co/JgcrdaMchB"
+	},
+	{
+		"created_at": "Sun Sep 29 06:34:28 +0000 2019",
+		"id": 1177758062867665000,
+		"id_str": "1178196325906538498",
+		"full_text": "미 연준은 단기금리 인상 과정을 2020년 봄까지 끝낼 예정이다. 트럼프는 지금의 \"호황\"을 2020년 가을의 대선까지 유지하며 재선을 노린다. 2021년 이후의 불황, 즉 금융 붕괴를 각오할 시나리오를 가지고있다.\nhttps://t.co/qggpQFnaI6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qggpQFnaI6",
+					"expanded_url": "https://www.investmentwatchblog.com/the-everything-bubble-when-will-it-finally-crash/",
+					"display_url": "investmentwatchblog.com/the-everything…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1177757848886861800,
+		"in_reply_to_status_id_str": "1177757848886861826",
+		"in_reply_to_user_id": 3008786138,
+		"in_reply_to_user_id_str": "3008786138",
+		"in_reply_to_screen_name": "nowhere_6869",
+		"user": {
+			"id": 3008786138,
+			"id_str": "3008786138",
+			"name": "NOW",
+			"screen_name": "nowhere_6869",
+			"location": "Corea",
+			"description": "교학상장",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3488,
+			"friends_count": 598,
+			"listed_count": 70,
+			"created_at": "Tue Feb 03 05:02:08 +0000 2015",
+			"favourites_count": 1066,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36933,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1141113335657533440/OCm5yVCR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141113335657533440/OCm5yVCR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3008786138/1562229376",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미 연준은 단기금리 인상 과정을 2020년 봄까지 끝낼 예정이다. 트럼프는 지금의 \"호황\"을 2020년 가을의 대선까지 유지하며 재선을 노린다. 2021년 이후의 불황, 즉 금융 붕괴를 각오할 시나리오를 가지고있다.\nhttps://t.co/qggpQFnaI6"
+	},
+	{
+		"created_at": "Sun Sep 29 06:34:26 +0000 2019",
+		"id": 1177757848886861800,
+		"id_str": "1178196315764711424",
+		"full_text": "트럼프가 규제 완화 등으로 어떻게든 이 거품을 유지하려 하겠지만, 전체적으로 \"총알 부족\" 경향이 증가하여 불안정 속에서 금리만 올라갈 것이라는 예측은 진작부터 나왔다. \n\n2020년 경에 전세계적인 불황(경기 후퇴)이 덮칠 것으로 예상된다. https://t.co/y29EIgUk63",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1177757841488113700,
+					"id_str": "1177757841488113664",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EFg8hE1UcAAE50E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFg8hE1UcAAE50E.jpg",
+					"url": "https://t.co/y29EIgUk63",
+					"display_url": "pic.twitter.com/y29EIgUk63",
+					"expanded_url": "https://twitter.com/nowhere_6869/status/1177757848886861826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1177757841488113700,
+					"id_str": "1177757841488113664",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EFg8hE1UcAAE50E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFg8hE1UcAAE50E.jpg",
+					"url": "https://t.co/y29EIgUk63",
+					"display_url": "pic.twitter.com/y29EIgUk63",
+					"expanded_url": "https://twitter.com/nowhere_6869/status/1177757848886861826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1177757278113386500,
+		"in_reply_to_status_id_str": "1177757278113386497",
+		"in_reply_to_user_id": 3008786138,
+		"in_reply_to_user_id_str": "3008786138",
+		"in_reply_to_screen_name": "nowhere_6869",
+		"user": {
+			"id": 3008786138,
+			"id_str": "3008786138",
+			"name": "NOW",
+			"screen_name": "nowhere_6869",
+			"location": "Corea",
+			"description": "교학상장",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3488,
+			"friends_count": 598,
+			"listed_count": 70,
+			"created_at": "Tue Feb 03 05:02:08 +0000 2015",
+			"favourites_count": 1066,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36933,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1141113335657533440/OCm5yVCR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141113335657533440/OCm5yVCR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3008786138/1562229376",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트럼프가 규제 완화 등으로 어떻게든 이 거품을 유지하려 하겠지만, 전체적으로 \"총알 부족\" 경향이 증가하여 불안정 속에서 금리만 올라갈 것이라는 예측은 진작부터 나왔다. \n\n2020년 경에 전세계적인 불황(경기 후퇴)이 덮칠 것으로 예상된다. https://t.co/y29EIgUk63"
+	},
+	{
 		"created_at": "Sun Sep 29 04:39:06 +0000 2019",
 		"id": 1178167294637117400,
 		"id_str": "1178167294637117440",
