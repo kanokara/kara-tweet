@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 29 09:37:00 +0000 2019",
+		"id": 1172969775363809300,
+		"id_str": "1178242263467446277",
+		"full_text": "잘쓴 글. 나는 워렌이나 샌더스에는 동의하기 어려운데 앤드류 양의 Universal Basic Income에 동의하는 전형적인 실리콘밸리 밀레니얼이라.. 세대격차가 한국과 어떻게 다른지 분석한 것도 흥미롭다 // [박상현 칼럼] 미국 밀레니얼 세대와 앤드류 양의 치명적 매력 https://t.co/ilvdG0vOYJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ilvdG0vOYJ",
+					"expanded_url": "https://firenzedt.com/?p=3677&fbclid=IwAR0nIRYuJOyGJUj8qE7PTOBy15QabLDd6Bns_D_RHDq7z4Plb6bteMfACIM",
+					"display_url": "firenzedt.com/?p=3677&fbclid…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47913544,
+			"id_str": "47913544",
+			"name": "AHJ",
+			"screen_name": "ahj_in_sf",
+			"location": "San Francisco, CA",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2961,
+			"friends_count": 274,
+			"listed_count": 94,
+			"created_at": "Wed Jun 17 09:58:58 +0000 2009",
+			"favourites_count": 1396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/597543648943681537/uYjTGSHP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/597543648943681537/uYjTGSHP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47913544/1388225328",
+			"profile_link_color": "64C9BC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 189,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잘쓴 글. 나는 워렌이나 샌더스에는 동의하기 어려운데 앤드류 양의 Universal Basic Income에 동의하는 전형적인 실리콘밸리 밀레니얼이라.. 세대격차가 한국과 어떻게 다른지 분석한 것도 흥미롭다 // [박상현 칼럼] 미국 밀레니얼 세대와 앤드류 양의 치명적 매력 https://t.co/ilvdG0vOYJ"
+	},
+	{
 		"created_at": "Sun Sep 29 06:38:28 +0000 2019",
 		"id": 1178197331851694000,
 		"id_str": "1178197331851694080",
