@@ -1,6 +1,567 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 09 10:51:17 +0000 2019",
+		"id": 1181884835012305000,
+		"id_str": "1181884835012304896",
+		"full_text": "어렴풋이는 알고 있었는데 궁금증 때문에 논문 2편 찾아봐야 했네요. 한 문장당 한 편씩 (...)\nhttps://t.co/SLJ2P8Sox8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SLJ2P8Sox8",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1181882174351400961?s=19",
+					"display_url": "twitter.com/EmptyKnK/statu…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1181882174351401000,
+		"in_reply_to_status_id_str": "1181882174351400961",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 79,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1181882174351401000,
+		"quoted_status_id_str": "1181882174351400961",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SLJ2P8Sox8",
+			"expanded": "https://twitter.com/EmptyKnK/status/1181882174351400961?s=19",
+			"display": "twitter.com/EmptyKnK/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 09 10:40:43 +0000 2019",
+			"id": 1181882174351401000,
+			"id_str": "1181882174351400961",
+			"full_text": "미국의 검사/판사가 임명직에서 선출직으로 전환이 이뤄진 것은 19세기 중후반. 양형개혁법의 도입으로 엄벌주의가 떠오른 것은 1983년부터. 무려 1세기 이상의 시차를 둔 것.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1181863247302905900,
+			"in_reply_to_status_id_str": "1181863247302905857",
+			"in_reply_to_user_id": 3255599052,
+			"in_reply_to_user_id_str": "3255599052",
+			"in_reply_to_screen_name": "EmptyKnK",
+			"user": {
+				"id": 3255599052,
+				"id_str": "3255599052",
+				"name": "Solitude [동결:11/20~]",
+				"screen_name": "EmptyKnK",
+				"location": "",
+				"description": "탄식하라,  덧없이 흩어지고 말리라",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": true,
+				"followers_count": 9,
+				"friends_count": 79,
+				"listed_count": 0,
+				"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+				"favourites_count": 1271,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11325,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어렴풋이는 알고 있었는데 궁금증 때문에 논문 2편 찾아봐야 했네요. 한 문장당 한 편씩 (...)\nhttps://t.co/SLJ2P8Sox8"
+	},
+	{
+		"created_at": "Wed Oct 09 10:49:14 +0000 2019",
+		"id": 1181563752530903000,
+		"id_str": "1181884319666585601",
+		"full_text": "\"선생님은 각 의제에 대해 어떻게 생각하시죠?\"\n\"홍콩 독립은 보장 되어야하지만 게임 캐릭터를 동성애자로 만들면 안되지.\"\n\"말씀대로라면 선생님도 이중적인 PC주의자인데요.\"\n\"?\"\n\"?\"\n\"아니다. 나는 홍콩 독립을 지지하지 않는다.\"\n\"그럼 그냥 언PC충이잖아.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1181563472770818000,
+		"in_reply_to_status_id_str": "1181563472770818049",
+		"in_reply_to_user_id": 1627227828,
+		"in_reply_to_user_id_str": "1627227828",
+		"in_reply_to_screen_name": "N91211",
+		"user": {
+			"id": 1627227828,
+			"id_str": "1627227828",
+			"name": "위래",
+			"screen_name": "N91211",
+			"location": "n91211.postype.com",
+			"description": "단편: 미궁에는 괴물이(네이버캐스트), 동전 마법(온우주 소식지), 성간행성(크로스로드 SCI-FI), 우리(\"곧 죽어도 등교\" 단편집), 그 외 이하 브릿G 작가 페이지 / 장편: 마왕이 너무 많다(전 11권, 문피아 등) / 링크는 메인 트윗",
+			"url": "https://t.co/OfoZqj1u83",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OfoZqj1u83",
+							"expanded_url": "https://britg.kr/user/wirae",
+							"display_url": "britg.kr/user/wirae",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1181,
+			"friends_count": 662,
+			"listed_count": 24,
+			"created_at": "Sun Jul 28 06:48:52 +0000 2013",
+			"favourites_count": 78040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1627227828/1547107030",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 152,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"선생님은 각 의제에 대해 어떻게 생각하시죠?\"\n\"홍콩 독립은 보장 되어야하지만 게임 캐릭터를 동성애자로 만들면 안되지.\"\n\"말씀대로라면 선생님도 이중적인 PC주의자인데요.\"\n\"?\"\n\"?\"\n\"아니다. 나는 홍콩 독립을 지지하지 않는다.\"\n\"그럼 그냥 언PC충이잖아.\""
+	},
+	{
+		"created_at": "Wed Oct 09 10:49:11 +0000 2019",
+		"id": 1181563472770818000,
+		"id_str": "1181884306244788224",
+		"full_text": "\"블리자드가 PC하지 않은 거 아닌가요?\"\n\"블리자드는 게임 캐릭터를 게이와 레즈비언으로 만들었다.\"\n\"하지만 이번에 홍콩 독립을 주장하는 프로게이머에게 출전 금지를 내리고 캐스터를 해고 했는데요. 그건 PC하지 않은 거 아닌가요?\"\n\"원래 PC를 주장하는 사람들은 다 이중적이라 그렇다.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1181562291235348500,
+		"in_reply_to_status_id_str": "1181562291235348481",
+		"in_reply_to_user_id": 1627227828,
+		"in_reply_to_user_id_str": "1627227828",
+		"in_reply_to_screen_name": "N91211",
+		"user": {
+			"id": 1627227828,
+			"id_str": "1627227828",
+			"name": "위래",
+			"screen_name": "N91211",
+			"location": "n91211.postype.com",
+			"description": "단편: 미궁에는 괴물이(네이버캐스트), 동전 마법(온우주 소식지), 성간행성(크로스로드 SCI-FI), 우리(\"곧 죽어도 등교\" 단편집), 그 외 이하 브릿G 작가 페이지 / 장편: 마왕이 너무 많다(전 11권, 문피아 등) / 링크는 메인 트윗",
+			"url": "https://t.co/OfoZqj1u83",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OfoZqj1u83",
+							"expanded_url": "https://britg.kr/user/wirae",
+							"display_url": "britg.kr/user/wirae",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1181,
+			"friends_count": 662,
+			"listed_count": 24,
+			"created_at": "Sun Jul 28 06:48:52 +0000 2013",
+			"favourites_count": 78040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1627227828/1547107030",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 125,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"블리자드가 PC하지 않은 거 아닌가요?\"\n\"블리자드는 게임 캐릭터를 게이와 레즈비언으로 만들었다.\"\n\"하지만 이번에 홍콩 독립을 주장하는 프로게이머에게 출전 금지를 내리고 캐스터를 해고 했는데요. 그건 PC하지 않은 거 아닌가요?\"\n\"원래 PC를 주장하는 사람들은 다 이중적이라 그렇다.\""
+	},
+	{
+		"created_at": "Wed Oct 09 10:49:08 +0000 2019",
+		"id": 1181562291235348500,
+		"id_str": "1181884294257504256",
+		"full_text": "\"지금까지 블리자드는 정의로운 척 PC 팔아서 돈 벌지 않았느냐!\"\n\"그러니 블리자드는 PC담론에 대해 중요하게 생각하지 않고 그저 돈벌이를 위해 이용했었단 것이 밝혀진 셈이네요.\"\n\"그게 PC주의자들의 이중성이다!\"\n\"?\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1181552003618504700,
+		"in_reply_to_status_id_str": "1181552003618504704",
+		"in_reply_to_user_id": 1627227828,
+		"in_reply_to_user_id_str": "1627227828",
+		"in_reply_to_screen_name": "N91211",
+		"user": {
+			"id": 1627227828,
+			"id_str": "1627227828",
+			"name": "위래",
+			"screen_name": "N91211",
+			"location": "n91211.postype.com",
+			"description": "단편: 미궁에는 괴물이(네이버캐스트), 동전 마법(온우주 소식지), 성간행성(크로스로드 SCI-FI), 우리(\"곧 죽어도 등교\" 단편집), 그 외 이하 브릿G 작가 페이지 / 장편: 마왕이 너무 많다(전 11권, 문피아 등) / 링크는 메인 트윗",
+			"url": "https://t.co/OfoZqj1u83",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OfoZqj1u83",
+							"expanded_url": "https://britg.kr/user/wirae",
+							"display_url": "britg.kr/user/wirae",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1181,
+			"friends_count": 662,
+			"listed_count": 24,
+			"created_at": "Sun Jul 28 06:48:52 +0000 2013",
+			"favourites_count": 78040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1627227828/1547107030",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 171,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"지금까지 블리자드는 정의로운 척 PC 팔아서 돈 벌지 않았느냐!\"\n\"그러니 블리자드는 PC담론에 대해 중요하게 생각하지 않고 그저 돈벌이를 위해 이용했었단 것이 밝혀진 셈이네요.\"\n\"그게 PC주의자들의 이중성이다!\"\n\"?\""
+	},
+	{
+		"created_at": "Wed Oct 09 10:49:07 +0000 2019",
+		"id": 1181552003618504700,
+		"id_str": "1181884287789883392",
+		"full_text": "선택적 PC라는 건 언PC하다는 말인데 블리자드가 언PC한 것을 왜 PC주의자에 대한 공격으로 사용하는지는 잘 모르겠고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1627227828,
+			"id_str": "1627227828",
+			"name": "위래",
+			"screen_name": "N91211",
+			"location": "n91211.postype.com",
+			"description": "단편: 미궁에는 괴물이(네이버캐스트), 동전 마법(온우주 소식지), 성간행성(크로스로드 SCI-FI), 우리(\"곧 죽어도 등교\" 단편집), 그 외 이하 브릿G 작가 페이지 / 장편: 마왕이 너무 많다(전 11권, 문피아 등) / 링크는 메인 트윗",
+			"url": "https://t.co/OfoZqj1u83",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OfoZqj1u83",
+							"expanded_url": "https://britg.kr/user/wirae",
+							"display_url": "britg.kr/user/wirae",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1181,
+			"friends_count": 662,
+			"listed_count": 24,
+			"created_at": "Sun Jul 28 06:48:52 +0000 2013",
+			"favourites_count": 78040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1627227828/1547107030",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 234,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "선택적 PC라는 건 언PC하다는 말인데 블리자드가 언PC한 것을 왜 PC주의자에 대한 공격으로 사용하는지는 잘 모르겠고."
+	},
+	{
 		"created_at": "Wed Oct 09 09:25:30 +0000 2019",
 		"id": 1181863247302905900,
 		"id_str": "1181863247302905857",
