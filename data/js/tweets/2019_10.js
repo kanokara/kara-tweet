@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 11 13:54:55 +0000 2019",
+		"id": 1182416756901478400,
+		"id_str": "1182655821588697088",
+		"full_text": "Goodness! 복수대명사 they가 드뎌 단수대명사로 공식적으로 쓰일 수 있게 되나봅니다. 저자가 she인지 he인지 알아내지 않고 걍 they 써도 오케이! :)\n세상은 이렇게 변하는쿤요. https://t.co/prlP2v2y9i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/prlP2v2y9i",
+					"expanded_url": "https://twitter.com/apa_style/status/1182414712635572229",
+					"display_url": "twitter.com/apa_style/stat…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 578238040,
+			"id_str": "578238040",
+			"name": "브라우니",
+			"screen_name": "brownie01",
+			"location": "",
+			"description": "브라우니",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2504,
+			"friends_count": 343,
+			"listed_count": 18,
+			"created_at": "Sat May 12 17:20:16 +0000 2012",
+			"favourites_count": 2959,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/816260239276130304/tv0Cqxgl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/816260239276130304/tv0Cqxgl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/578238040/1386168746",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1182414712635572200,
+		"quoted_status_id_str": "1182414712635572229",
+		"quoted_status_permalink": {
+			"url": "https://t.co/prlP2v2y9i",
+			"expanded": "https://twitter.com/apa_style/status/1182414712635572229",
+			"display": "twitter.com/apa_style/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 10 21:56:50 +0000 2019",
+			"id": 1182414712635572200,
+			"id_str": "1182414712635572229",
+			"full_text": "New in the #7thEdition of #APAStyle: Use of the singular “they” is endorsed because it is inclusive of all people and helps writers avoid making assumptions about gender. Read more in Section 4.18 and on our website: https://t.co/mg04ynBGvF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				240
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "7thEdition",
+						"indices": [
+							11,
+							22
+						]
+					},
+					{
+						"text": "APAStyle",
+						"indices": [
+							26,
+							35
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mg04ynBGvF",
+						"expanded_url": "https://on.apa.org/singular-they",
+						"display_url": "on.apa.org/singular-they",
+						"indices": [
+							217,
+							240
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 119411882,
+				"id_str": "119411882",
+				"name": "APA Style",
+				"screen_name": "APA_Style",
+				"location": "Washington, DC",
+				"description": "Publication Manual of the American Psychological Association https://t.co/i7HIIGXFAT RTs ≠ endorsements",
+				"url": "https://t.co/2Pky9dQMLc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2Pky9dQMLc",
+								"expanded_url": "http://apastyle.apa.org",
+								"display_url": "apastyle.apa.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/i7HIIGXFAT",
+								"expanded_url": "https://apastyle.apa.org",
+								"display_url": "apastyle.apa.org",
+								"indices": [
+									61,
+									84
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 24506,
+				"friends_count": 1749,
+				"listed_count": 819,
+				"created_at": "Wed Mar 03 15:28:33 +0000 2010",
+				"favourites_count": 2850,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6897,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "2064AD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1178880955223855104/nWu7RZZt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178880955223855104/nWu7RZZt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/119411882/1569902097",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 455,
+			"favorite_count": 320,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8548,
+		"favorite_count": 2542,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Goodness! 복수대명사 they가 드뎌 단수대명사로 공식적으로 쓰일 수 있게 되나봅니다. 저자가 she인지 he인지 알아내지 않고 걍 they 써도 오케이! :)\n세상은 이렇게 변하는쿤요. https://t.co/prlP2v2y9i"
+	},
+	{
 		"created_at": "Thu Oct 10 10:45:04 +0000 2019",
 		"id": 1182245659597914000,
 		"id_str": "1182245659597914112",
