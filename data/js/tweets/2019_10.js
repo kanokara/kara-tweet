@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 16 07:38:41 +0000 2019",
+		"id": 1184217835838398500,
+		"id_str": "1184373080098914306",
+		"full_text": "[악플은 단 한 글자도 가볍지 않다. 악의는 어떤 경우에도 모호하지 않다. 피해자는 오해하지 않는다. 그 모든 단어들은, 자갈이 아니라 바위다.] https://t.co/7X3kUCqp8c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7X3kUCqp8c",
+					"expanded_url": "https://n.news.naver.com/article/469/0000431133?lfrom=twitter",
+					"display_url": "n.news.naver.com/article/469/00…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1184217740170551300,
+		"in_reply_to_status_id_str": "1184217740170551297",
+		"in_reply_to_user_id": 2846461914,
+		"in_reply_to_user_id_str": "2846461914",
+		"in_reply_to_screen_name": "team_befar",
+		"user": {
+			"id": 2846461914,
+			"id_str": "2846461914",
+			"name": "team_befar🎗😷",
+			"screen_name": "team_befar",
+			"location": "",
+			"description": "페미니스트 혼성만화창작듀오. daum에서＜캐셔로＞를 연재 중입니다. https://t.co/vnl2GItr7V",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vnl2GItr7V",
+							"expanded_url": "http://goo.gl/y78Ftf",
+							"display_url": "goo.gl/y78Ftf",
+							"indices": [
+								38,
+								61
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 527,
+			"friends_count": 0,
+			"listed_count": 10,
+			"created_at": "Wed Oct 08 07:07:21 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 85727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865509812339003397/QtoswM5H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865509812339003397/QtoswM5H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2846461914/1449885539",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 277,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[악플은 단 한 글자도 가볍지 않다. 악의는 어떤 경우에도 모호하지 않다. 피해자는 오해하지 않는다. 그 모든 단어들은, 자갈이 아니라 바위다.] https://t.co/7X3kUCqp8c"
+	},
+	{
+		"created_at": "Wed Oct 16 07:38:35 +0000 2019",
+		"id": 1184217740170551300,
+		"id_str": "1184373054048096256",
+		"full_text": "[“너도 이 말을 아는구나” “그래, 역시 우리 모두 이만큼은 나쁘지”라는 악의의 공동체가 형성된다. 이 정도 한두 마디는 그렇게 나쁘지 않다는, 이 정도의 말에 담긴 악의는 그다지 악하지 않고 무겁지 않다는 착각이 이 유대감을 타고 널리 퍼진다.]",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1184217612596596700,
+		"in_reply_to_status_id_str": "1184217612596596736",
+		"in_reply_to_user_id": 2846461914,
+		"in_reply_to_user_id_str": "2846461914",
+		"in_reply_to_screen_name": "team_befar",
+		"user": {
+			"id": 2846461914,
+			"id_str": "2846461914",
+			"name": "team_befar🎗😷",
+			"screen_name": "team_befar",
+			"location": "",
+			"description": "페미니스트 혼성만화창작듀오. daum에서＜캐셔로＞를 연재 중입니다. https://t.co/vnl2GItr7V",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vnl2GItr7V",
+							"expanded_url": "http://goo.gl/y78Ftf",
+							"display_url": "goo.gl/y78Ftf",
+							"indices": [
+								38,
+								61
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 527,
+			"friends_count": 0,
+			"listed_count": 10,
+			"created_at": "Wed Oct 08 07:07:21 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 85727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865509812339003397/QtoswM5H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865509812339003397/QtoswM5H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2846461914/1449885539",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 270,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[“너도 이 말을 아는구나” “그래, 역시 우리 모두 이만큼은 나쁘지”라는 악의의 공동체가 형성된다. 이 정도 한두 마디는 그렇게 나쁘지 않다는, 이 정도의 말에 담긴 악의는 그다지 악하지 않고 무겁지 않다는 착각이 이 유대감을 타고 널리 퍼진다.]"
+	},
+	{
 		"created_at": "Tue Oct 15 17:53:17 +0000 2019",
 		"id": 1184165362012582000,
 		"id_str": "1184165362012581888",
