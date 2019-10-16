@@ -1,6 +1,1445 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 16 18:37:52 +0000 2019",
+		"id": 1184538966944632800,
+		"id_str": "1184538966944632833",
+		"full_text": "논리적으로 이치에 부합하는 가설이 삽시간에 떠올랐네요. 졸려운 와중의 논리 전개라서 맞는 건지는 재검토가 필요하겠는데... 각각은 원래도 있던 생각이었지만 이것들을 꿰어맞추어 직조한 건 지금이 처음. 10여 년만에 전진했어요.\nhttps://t.co/oucznjKNIP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oucznjKNIP",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1184528995037208576?s=19",
+					"display_url": "twitter.com/EmptyKnK/statu…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 79,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1184528995037208600,
+		"quoted_status_id_str": "1184528995037208576",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oucznjKNIP",
+			"expanded": "https://twitter.com/EmptyKnK/status/1184528995037208576?s=19",
+			"display": "twitter.com/EmptyKnK/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 16 17:58:14 +0000 2019",
+			"id": 1184528995037208600,
+			"id_str": "1184528995037208576",
+			"full_text": "@GoblinCase 전부터 가끔 고민하던 내용이라 리트윗하긴 했네요. 혹시 인류학 쪽에서 누군가 연구를 했을까 싶기도 한데...",
+			"truncated": false,
+			"display_text_range": [
+				12,
+				72
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GoblinCase",
+						"name": "고블린 유도가방",
+						"id": 1047103952297254900,
+						"id_str": "1047103952297254912",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1184527103775166500,
+			"in_reply_to_status_id_str": "1184527103775166464",
+			"in_reply_to_user_id": 1047103952297254900,
+			"in_reply_to_user_id_str": "1047103952297254912",
+			"in_reply_to_screen_name": "GoblinCase",
+			"user": {
+				"id": 3255599052,
+				"id_str": "3255599052",
+				"name": "Solitude [동결:11/20~]",
+				"screen_name": "EmptyKnK",
+				"location": "",
+				"description": "탄식하라,  덧없이 흩어지고 말리라",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": true,
+				"followers_count": 9,
+				"friends_count": 79,
+				"listed_count": 0,
+				"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+				"favourites_count": 1325,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11373,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "논리적으로 이치에 부합하는 가설이 삽시간에 떠올랐네요. 졸려운 와중의 논리 전개라서 맞는 건지는 재검토가 필요하겠는데... 각각은 원래도 있던 생각이었지만 이것들을 꿰어맞추어 직조한 건 지금이 처음. 10여 년만에 전진했어요.\nhttps://t.co/oucznjKNIP"
+	},
+	{
+		"created_at": "Wed Oct 16 18:29:57 +0000 2019",
+		"id": 1184375023739404300,
+		"id_str": "1184536978131505152",
+		"full_text": "@aransistore @juniecho 추가로 지금도 실명과 사진 까고 당당하게 혐오 발언하는 사람들의 발언력은 더 강화되겠죠. 지금도 가짜뉴스 배포하고도 처벙받지도 않고, 당당한 사람들이 유튜브에도 많고요.",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aransistore",
+					"name": "시아란/아란시스토르",
+					"id": 353097742,
+					"id_str": "353097742",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "juniecho",
+					"name": "곰돌리우스",
+					"id": 77458344,
+					"id_str": "77458344",
+					"indices": [
+						13,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1184367612613906400,
+		"in_reply_to_status_id_str": "1184367612613906433",
+		"in_reply_to_user_id": 353097742,
+		"in_reply_to_user_id_str": "353097742",
+		"in_reply_to_screen_name": "aransistore",
+		"user": {
+			"id": 2848152332,
+			"id_str": "2848152332",
+			"name": "뻘글러 폴카",
+			"screen_name": "IdleTalkerPolka",
+			"location": "Somewhere in the world",
+			"description": "[Otaku & Geek] Time you enjoy wasting, was not wasted.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 654,
+			"listed_count": 2,
+			"created_at": "Thu Oct 09 02:53:35 +0000 2014",
+			"favourites_count": 18191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1115971289682866176/dAUGdzPX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115971289682866176/dAUGdzPX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2848152332/1554894060",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@aransistore @juniecho 추가로 지금도 실명과 사진 까고 당당하게 혐오 발언하는 사람들의 발언력은 더 강화되겠죠. 지금도 가짜뉴스 배포하고도 처벙받지도 않고, 당당한 사람들이 유튜브에도 많고요."
+	},
+	{
+		"created_at": "Wed Oct 16 18:29:49 +0000 2019",
+		"id": 1184367843808174000,
+		"id_str": "1184536941032824832",
+		"full_text": "실명을 특정하면 고소가 한단계 쉬워지지만 고소도 필요없는 소문내기와 사적 처벌은 더더욱 쉬워지는 법이죠.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1184367612613906400,
+		"in_reply_to_status_id_str": "1184367612613906433",
+		"in_reply_to_user_id": 353097742,
+		"in_reply_to_user_id_str": "353097742",
+		"in_reply_to_screen_name": "aransistore",
+		"user": {
+			"id": 353097742,
+			"id_str": "353097742",
+			"name": "시아란/아란시스토르",
+			"screen_name": "aransistore",
+			"location": "복실이 연구소",
+			"description": "PhD Engr / 스토리텔러 / 서브컬쳐, 철도, 봉제인형, 귀여운 것, 그리고 레몬 / 나의 일상이 당신의 경이가 되기를 / 안전가옥 대멸종 앤솔로지 발매 중",
+			"url": "https://t.co/YdD6I0GJRn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YdD6I0GJRn",
+							"expanded_url": "http://www.siaran.kr",
+							"display_url": "siaran.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2289,
+			"friends_count": 216,
+			"listed_count": 54,
+			"created_at": "Thu Aug 11 15:02:56 +0000 2011",
+			"favourites_count": 14992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 336507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715889920997351426/EiYi-xTX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715889920997351426/EiYi-xTX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/353097742/1459516574",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 487,
+		"favorite_count": 120,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "실명을 특정하면 고소가 한단계 쉬워지지만 고소도 필요없는 소문내기와 사적 처벌은 더더욱 쉬워지는 법이죠."
+	},
+	{
+		"created_at": "Wed Oct 16 18:29:42 +0000 2019",
+		"id": 1184367612613906400,
+		"id_str": "1184536913090359298",
+		"full_text": "인터넷 실명제가 다시 이루어지면 어느 쪽이 입조심을 하게 될까요\n\n1. 이름 석 자로 신원을 특정하면 내가 뭐 틀린소리 했냐고 버티고 경찰은 이런걸로 무슨 고발씩이나 하시냐고 핀잔 주는 소수자 혐오발언 상습자\n\n2. 이름 석 자로 신원을 특정하면 헉 우리학교 아무개 동성애자래; 소문나는 소수자",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 353097742,
+			"id_str": "353097742",
+			"name": "시아란/아란시스토르",
+			"screen_name": "aransistore",
+			"location": "복실이 연구소",
+			"description": "PhD Engr / 스토리텔러 / 서브컬쳐, 철도, 봉제인형, 귀여운 것, 그리고 레몬 / 나의 일상이 당신의 경이가 되기를 / 안전가옥 대멸종 앤솔로지 발매 중",
+			"url": "https://t.co/YdD6I0GJRn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YdD6I0GJRn",
+							"expanded_url": "http://www.siaran.kr",
+							"display_url": "siaran.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2289,
+			"friends_count": 216,
+			"listed_count": 54,
+			"created_at": "Thu Aug 11 15:02:56 +0000 2011",
+			"favourites_count": 14992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 336507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715889920997351426/EiYi-xTX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715889920997351426/EiYi-xTX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/353097742/1459516574",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3370,
+		"favorite_count": 768,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "인터넷 실명제가 다시 이루어지면 어느 쪽이 입조심을 하게 될까요\n\n1. 이름 석 자로 신원을 특정하면 내가 뭐 틀린소리 했냐고 버티고 경찰은 이런걸로 무슨 고발씩이나 하시냐고 핀잔 주는 소수자 혐오발언 상습자\n\n2. 이름 석 자로 신원을 특정하면 헉 우리학교 아무개 동성애자래; 소문나는 소수자"
+	},
+	{
+		"created_at": "Wed Oct 16 18:17:14 +0000 2019",
+		"id": 1184432940756828200,
+		"id_str": "1184533774207463426",
+		"full_text": "@KgPravda まあ僕も主張が固まっているわけではないんですけどね。優劣みたいなものは、当然、動物社会にもあります。\nただそれが遊びに転化し「ゲーム」として誕生したとき、やはりそれは祭儀として扱われていたのではないかなと。",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KgPravda",
+					"name": "模範的工作員同志/赤野工作",
+					"id": 230673963,
+					"id_str": "230673963",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1184431709179134000,
+		"in_reply_to_status_id_str": "1184431709179133952",
+		"in_reply_to_user_id": 230673963,
+		"in_reply_to_user_id_str": "230673963",
+		"in_reply_to_screen_name": "KgPravda",
+		"user": {
+			"id": 101441709,
+			"id_str": "101441709",
+			"name": "なべやき⭕",
+			"screen_name": "fukuyaman",
+			"location": "大阪　今は千葉",
+			"description": "aka.福山幸司　アドベンチャーゲーム研究家　映画ジャーナリスト　インタビュアー　ボブ・ディラン依存症　IGN JAPAN、AUTOMATON、電ファミに寄稿　映画とゲームの架け橋になりたいマン。インタラクティブ・シネマの波きてるぞお　何かあったらＤＭマデ🙃",
+			"url": "https://t.co/1OpoOhbaxi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1OpoOhbaxi",
+							"expanded_url": "https://note.mu/fukuyaman/n/ne7b61df7cfc7",
+							"display_url": "note.mu/fukuyaman/n/ne…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 887,
+			"friends_count": 2041,
+			"listed_count": 31,
+			"created_at": "Sun Jan 03 09:24:57 +0000 2010",
+			"favourites_count": 988,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/844507623810482176/Gz8-sRpr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/844507623810482176/Gz8-sRpr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101441709/1490177506",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "@KgPravda まあ僕も主張が固まっているわけではないんですけどね。優劣みたいなものは、当然、動物社会にもあります。\nただそれが遊びに転化し「ゲーム」として誕生したとき、やはりそれは祭儀として扱われていたのではないかなと。"
+	},
+	{
+		"created_at": "Wed Oct 16 18:17:02 +0000 2019",
+		"id": 1184431709179134000,
+		"id_str": "1184533726203645954",
+		"full_text": "@fukuyaman ただ、狩猟採取時代の人間にはまだ勝敗の概念が無かったかというとこれは微妙なラインで、かつてのGameという言葉が狩猟を意味していたように、スポーツの概念が既に生まれていた段階の人類に「技能の優劣を比較する概念」が無かったと考えるのは難しいと思うんです。",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fukuyaman",
+					"name": "なべやき⭕",
+					"id": 101441709,
+					"id_str": "101441709",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1184422242580480000,
+		"in_reply_to_status_id_str": "1184422242580480000",
+		"in_reply_to_user_id": 101441709,
+		"in_reply_to_user_id_str": "101441709",
+		"in_reply_to_screen_name": "fukuyaman",
+		"user": {
+			"id": 230673963,
+			"id_str": "230673963",
+			"name": "模範的工作員同志/赤野工作",
+			"screen_name": "KgPravda",
+			"location": "Lubyanka",
+			"description": "ゲーマー市民よ、幸福は私達の義務です。",
+			"url": "https://t.co/hi8Dp8C9Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hi8Dp8C9Fi",
+							"expanded_url": "http://com.nicovideo.jp/community/co142701",
+							"display_url": "com.nicovideo.jp/community/co14…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11023,
+			"friends_count": 435,
+			"listed_count": 328,
+			"created_at": "Sun Dec 26 09:00:58 +0000 2010",
+			"favourites_count": 9864,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "941E1E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/901089585446363136/hKSHbRoG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/901089585446363136/hKSHbRoG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/230673963/1497844616",
+			"profile_link_color": "BD9271",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "8A684B",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "@fukuyaman ただ、狩猟採取時代の人間にはまだ勝敗の概念が無かったかというとこれは微妙なラインで、かつてのGameという言葉が狩猟を意味していたように、スポーツの概念が既に生まれていた段階の人類に「技能の優劣を比較する概念」が無かったと考えるのは難しいと思うんです。"
+	},
+	{
+		"created_at": "Wed Oct 16 18:16:47 +0000 2019",
+		"id": 1184426477967691800,
+		"id_str": "1184533662752296961",
+		"full_text": "@fukuyaman 現代に通じるゲームが農耕時代に産まれたかもってのは仰る通りで、終わりと始まりが重要ってのもまさに仰る通りで、農耕によって貧富や余剰が生まれると、それを守る制度下において本来生き死にとは関係ない非生産的な部分でも優劣を感じる人があらわれるから、という話に繋がると思うんです。",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fukuyaman",
+					"name": "なべやき⭕",
+					"id": 101441709,
+					"id_str": "101441709",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1184422242580480000,
+		"in_reply_to_status_id_str": "1184422242580480000",
+		"in_reply_to_user_id": 101441709,
+		"in_reply_to_user_id_str": "101441709",
+		"in_reply_to_screen_name": "fukuyaman",
+		"user": {
+			"id": 230673963,
+			"id_str": "230673963",
+			"name": "模範的工作員同志/赤野工作",
+			"screen_name": "KgPravda",
+			"location": "Lubyanka",
+			"description": "ゲーマー市民よ、幸福は私達の義務です。",
+			"url": "https://t.co/hi8Dp8C9Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hi8Dp8C9Fi",
+							"expanded_url": "http://com.nicovideo.jp/community/co142701",
+							"display_url": "com.nicovideo.jp/community/co14…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11023,
+			"friends_count": 435,
+			"listed_count": 328,
+			"created_at": "Sun Dec 26 09:00:58 +0000 2010",
+			"favourites_count": 9864,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "941E1E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/901089585446363136/hKSHbRoG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/901089585446363136/hKSHbRoG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/230673963/1497844616",
+			"profile_link_color": "BD9271",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "8A684B",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "@fukuyaman 現代に通じるゲームが農耕時代に産まれたかもってのは仰る通りで、終わりと始まりが重要ってのもまさに仰る通りで、農耕によって貧富や余剰が生まれると、それを守る制度下において本来生き死にとは関係ない非生産的な部分でも優劣を感じる人があらわれるから、という話に繋がると思うんです。"
+	},
+	{
+		"created_at": "Wed Oct 16 18:16:37 +0000 2019",
+		"id": 1184422242580480000,
+		"id_str": "1184533620381409285",
+		"full_text": "@KgPravda なので、現代のゲームに繋がりたりえてるのは農耕時代に入ってからなのかなとは、今のところ考えています。\nあともう一つ重要なのが、終わりと始まりの時間概念と漠然と考えています。\n\nまあ、まだまだ勉強はじめたばかりなので、先入観なしに色々みていきたいですね。",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KgPravda",
+					"name": "模範的工作員同志/赤野工作",
+					"id": 230673963,
+					"id_str": "230673963",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1184421359218094000,
+		"in_reply_to_status_id_str": "1184421359218094080",
+		"in_reply_to_user_id": 101441709,
+		"in_reply_to_user_id_str": "101441709",
+		"in_reply_to_screen_name": "fukuyaman",
+		"user": {
+			"id": 101441709,
+			"id_str": "101441709",
+			"name": "なべやき⭕",
+			"screen_name": "fukuyaman",
+			"location": "大阪　今は千葉",
+			"description": "aka.福山幸司　アドベンチャーゲーム研究家　映画ジャーナリスト　インタビュアー　ボブ・ディラン依存症　IGN JAPAN、AUTOMATON、電ファミに寄稿　映画とゲームの架け橋になりたいマン。インタラクティブ・シネマの波きてるぞお　何かあったらＤＭマデ🙃",
+			"url": "https://t.co/1OpoOhbaxi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1OpoOhbaxi",
+							"expanded_url": "https://note.mu/fukuyaman/n/ne7b61df7cfc7",
+							"display_url": "note.mu/fukuyaman/n/ne…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 887,
+			"friends_count": 2041,
+			"listed_count": 31,
+			"created_at": "Sun Jan 03 09:24:57 +0000 2010",
+			"favourites_count": 988,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/844507623810482176/Gz8-sRpr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/844507623810482176/Gz8-sRpr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101441709/1490177506",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "@KgPravda なので、現代のゲームに繋がりたりえてるのは農耕時代に入ってからなのかなとは、今のところ考えています。\nあともう一つ重要なのが、終わりと始まりの時間概念と漠然と考えています。\n\nまあ、まだまだ勉強はじめたばかりなので、先入観なしに色々みていきたいですね。"
+	},
+	{
+		"created_at": "Wed Oct 16 18:16:26 +0000 2019",
+		"id": 1184421359218094000,
+		"id_str": "1184533574646730758",
+		"full_text": "@KgPravda 狩猟採取時代は、食料の分配などでも、競争原理みたいなものはあまりなかったようです（戦争の痕跡がないというんは有名ですね）。勝ち負けがないゲームというのはもちろんあるんですが、勝ち負けこそゲームたらしめてる部分はあると思います。",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KgPravda",
+					"name": "模範的工作員同志/赤野工作",
+					"id": 230673963,
+					"id_str": "230673963",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1184418635906830300,
+		"in_reply_to_status_id_str": "1184418635906830339",
+		"in_reply_to_user_id": 101441709,
+		"in_reply_to_user_id_str": "101441709",
+		"in_reply_to_screen_name": "fukuyaman",
+		"user": {
+			"id": 101441709,
+			"id_str": "101441709",
+			"name": "なべやき⭕",
+			"screen_name": "fukuyaman",
+			"location": "大阪　今は千葉",
+			"description": "aka.福山幸司　アドベンチャーゲーム研究家　映画ジャーナリスト　インタビュアー　ボブ・ディラン依存症　IGN JAPAN、AUTOMATON、電ファミに寄稿　映画とゲームの架け橋になりたいマン。インタラクティブ・シネマの波きてるぞお　何かあったらＤＭマデ🙃",
+			"url": "https://t.co/1OpoOhbaxi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1OpoOhbaxi",
+							"expanded_url": "https://note.mu/fukuyaman/n/ne7b61df7cfc7",
+							"display_url": "note.mu/fukuyaman/n/ne…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 887,
+			"friends_count": 2041,
+			"listed_count": 31,
+			"created_at": "Sun Jan 03 09:24:57 +0000 2010",
+			"favourites_count": 988,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/844507623810482176/Gz8-sRpr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/844507623810482176/Gz8-sRpr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101441709/1490177506",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "@KgPravda 狩猟採取時代は、食料の分配などでも、競争原理みたいなものはあまりなかったようです（戦争の痕跡がないというんは有名ですね）。勝ち負けがないゲームというのはもちろんあるんですが、勝ち負けこそゲームたらしめてる部分はあると思います。"
+	},
+	{
+		"created_at": "Wed Oct 16 18:16:01 +0000 2019",
+		"id": 1184418635906830300,
+		"id_str": "1184533470971908096",
+		"full_text": "@KgPravda で、どうしても腑に落ちないのが、（最初に戻るんですが）ゲーム盤やサイコロの登場が、楽器、ヴィーナス像、洞窟壁画と比べても、「めちゃくちゃ後」というところです。またモノベースといわれそうですが・・・ｗ",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KgPravda",
+					"name": "模範的工作員同志/赤野工作",
+					"id": 230673963,
+					"id_str": "230673963",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1184418198000529400,
+		"in_reply_to_status_id_str": "1184418198000529408",
+		"in_reply_to_user_id": 101441709,
+		"in_reply_to_user_id_str": "101441709",
+		"in_reply_to_screen_name": "fukuyaman",
+		"user": {
+			"id": 101441709,
+			"id_str": "101441709",
+			"name": "なべやき⭕",
+			"screen_name": "fukuyaman",
+			"location": "大阪　今は千葉",
+			"description": "aka.福山幸司　アドベンチャーゲーム研究家　映画ジャーナリスト　インタビュアー　ボブ・ディラン依存症　IGN JAPAN、AUTOMATON、電ファミに寄稿　映画とゲームの架け橋になりたいマン。インタラクティブ・シネマの波きてるぞお　何かあったらＤＭマデ🙃",
+			"url": "https://t.co/1OpoOhbaxi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1OpoOhbaxi",
+							"expanded_url": "https://note.mu/fukuyaman/n/ne7b61df7cfc7",
+							"display_url": "note.mu/fukuyaman/n/ne…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 887,
+			"friends_count": 2041,
+			"listed_count": 31,
+			"created_at": "Sun Jan 03 09:24:57 +0000 2010",
+			"favourites_count": 988,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/844507623810482176/Gz8-sRpr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/844507623810482176/Gz8-sRpr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101441709/1490177506",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "@KgPravda で、どうしても腑に落ちないのが、（最初に戻るんですが）ゲーム盤やサイコロの登場が、楽器、ヴィーナス像、洞窟壁画と比べても、「めちゃくちゃ後」というところです。またモノベースといわれそうですが・・・ｗ"
+	},
+	{
+		"created_at": "Wed Oct 16 18:15:57 +0000 2019",
+		"id": 1184418198000529400,
+		"id_str": "1184533454035312640",
+		"full_text": "@KgPravda もちろん遊び自体はあったと思うんですよ。じゃれあい、かけっこ、ハンティング、こういった「遊び」は動物にも認められるので、旧石器時代からあったとは思います。\n動物と人間の遊びの違いは、ルールを共有して互いに立場を入れ替えられる点みたいです。",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KgPravda",
+					"name": "模範的工作員同志/赤野工作",
+					"id": 230673963,
+					"id_str": "230673963",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1184400715482984400,
+		"in_reply_to_status_id_str": "1184400715482984448",
+		"in_reply_to_user_id": 230673963,
+		"in_reply_to_user_id_str": "230673963",
+		"in_reply_to_screen_name": "KgPravda",
+		"user": {
+			"id": 101441709,
+			"id_str": "101441709",
+			"name": "なべやき⭕",
+			"screen_name": "fukuyaman",
+			"location": "大阪　今は千葉",
+			"description": "aka.福山幸司　アドベンチャーゲーム研究家　映画ジャーナリスト　インタビュアー　ボブ・ディラン依存症　IGN JAPAN、AUTOMATON、電ファミに寄稿　映画とゲームの架け橋になりたいマン。インタラクティブ・シネマの波きてるぞお　何かあったらＤＭマデ🙃",
+			"url": "https://t.co/1OpoOhbaxi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1OpoOhbaxi",
+							"expanded_url": "https://note.mu/fukuyaman/n/ne7b61df7cfc7",
+							"display_url": "note.mu/fukuyaman/n/ne…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 887,
+			"friends_count": 2041,
+			"listed_count": 31,
+			"created_at": "Sun Jan 03 09:24:57 +0000 2010",
+			"favourites_count": 988,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/844507623810482176/Gz8-sRpr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/844507623810482176/Gz8-sRpr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101441709/1490177506",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "@KgPravda もちろん遊び自体はあったと思うんですよ。じゃれあい、かけっこ、ハンティング、こういった「遊び」は動物にも認められるので、旧石器時代からあったとは思います。\n動物と人間の遊びの違いは、ルールを共有して互いに立場を入れ替えられる点みたいです。"
+	},
+	{
+		"created_at": "Wed Oct 16 18:15:27 +0000 2019",
+		"id": 1184400715482984400,
+		"id_str": "1184533326834651142",
+		"full_text": "@fukuyaman 神託⇒娯楽は全くもってその通りだと思います！ただし、始まりはそれだけではないとも思います。戦闘が格闘技に、仲裁が賭博に、狩猟がハンティングに、模倣がロールプレイングに。誰かが目的を度外視して手段そのものを楽しみだした瞬間から、あれもこれも今のゲームに繋がっていきますから。",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fukuyaman",
+					"name": "なべやき⭕",
+					"id": 101441709,
+					"id_str": "101441709",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1184399410404348000,
+		"in_reply_to_status_id_str": "1184399410404347905",
+		"in_reply_to_user_id": 101441709,
+		"in_reply_to_user_id_str": "101441709",
+		"in_reply_to_screen_name": "fukuyaman",
+		"user": {
+			"id": 230673963,
+			"id_str": "230673963",
+			"name": "模範的工作員同志/赤野工作",
+			"screen_name": "KgPravda",
+			"location": "Lubyanka",
+			"description": "ゲーマー市民よ、幸福は私達の義務です。",
+			"url": "https://t.co/hi8Dp8C9Fi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hi8Dp8C9Fi",
+							"expanded_url": "http://com.nicovideo.jp/community/co142701",
+							"display_url": "com.nicovideo.jp/community/co14…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11023,
+			"friends_count": 435,
+			"listed_count": 328,
+			"created_at": "Sun Dec 26 09:00:58 +0000 2010",
+			"favourites_count": 9864,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "941E1E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/901089585446363136/hKSHbRoG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/901089585446363136/hKSHbRoG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/230673963/1497844616",
+			"profile_link_color": "BD9271",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "8A684B",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "@fukuyaman 神託⇒娯楽は全くもってその通りだと思います！ただし、始まりはそれだけではないとも思います。戦闘が格闘技に、仲裁が賭博に、狩猟がハンティングに、模倣がロールプレイングに。誰かが目的を度外視して手段そのものを楽しみだした瞬間から、あれもこれも今のゲームに繋がっていきますから。"
+	},
+	{
+		"created_at": "Wed Oct 16 18:15:08 +0000 2019",
+		"id": 1184399410404348000,
+		"id_str": "1184533248703193088",
+		"full_text": "@KgPravda 「マハーバーラタ」に出てくるサイコロ賭博は、神聖なものと考えられていますし、「セネト」も後年には象形文字がなくなっていることから、神話的意味合いから娯楽になったのではないかと考えられています\n\n基本的には神託⇒娯楽と考えているんですが、工作員先生の見解はどうデショ",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KgPravda",
+					"name": "模範的工作員同志/赤野工作",
+					"id": 230673963,
+					"id_str": "230673963",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1184397328225988600,
+		"in_reply_to_status_id_str": "1184397328225988608",
+		"in_reply_to_user_id": 230673963,
+		"in_reply_to_user_id_str": "230673963",
+		"in_reply_to_screen_name": "KgPravda",
+		"user": {
+			"id": 101441709,
+			"id_str": "101441709",
+			"name": "なべやき⭕",
+			"screen_name": "fukuyaman",
+			"location": "大阪　今は千葉",
+			"description": "aka.福山幸司　アドベンチャーゲーム研究家　映画ジャーナリスト　インタビュアー　ボブ・ディラン依存症　IGN JAPAN、AUTOMATON、電ファミに寄稿　映画とゲームの架け橋になりたいマン。インタラクティブ・シネマの波きてるぞお　何かあったらＤＭマデ🙃",
+			"url": "https://t.co/1OpoOhbaxi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1OpoOhbaxi",
+							"expanded_url": "https://note.mu/fukuyaman/n/ne7b61df7cfc7",
+							"display_url": "note.mu/fukuyaman/n/ne…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 887,
+			"friends_count": 2041,
+			"listed_count": 31,
+			"created_at": "Sun Jan 03 09:24:57 +0000 2010",
+			"favourites_count": 988,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/844507623810482176/Gz8-sRpr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/844507623810482176/Gz8-sRpr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101441709/1490177506",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "@KgPravda 「マハーバーラタ」に出てくるサイコロ賭博は、神聖なものと考えられていますし、「セネト」も後年には象形文字がなくなっていることから、神話的意味合いから娯楽になったのではないかと考えられています\n\n基本的には神託⇒娯楽と考えているんですが、工作員先生の見解はどうデショ"
+	},
+	{
 		"created_at": "Wed Oct 16 17:58:14 +0000 2019",
 		"id": 1184528995037208600,
 		"id_str": "1184528995037208576",
