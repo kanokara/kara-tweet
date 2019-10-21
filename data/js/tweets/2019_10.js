@@ -1,6 +1,598 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 21 16:18:19 +0000 2019",
+		"id": 1186276814580138000,
+		"id_str": "1186315788174548992",
+		"full_text": "이 역할어가 강담이나 라쿠고 부터 라노베까지 이어지는 ‘캐릭터’의 본질이라 주장하는 일본의 라노베 작가/국문학자가 있다. 오오하시 타카유키라고 https://t.co/uAI7fiCSzS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uAI7fiCSzS",
+					"expanded_url": "https://twitter.com/nnanananami/status/1185955193340354560",
+					"display_url": "twitter.com/nnanananami/st…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 187070498,
+			"id_str": "187070498",
+			"name": "손지상(孫 志尚, Son Ji-Sang)",
+			"screen_name": "doskharaas",
+			"location": "독방",
+			"description": "원고의뢰 및 문의: sonkaiju 네이버메일 | 저서 및 역서 목록: https://t.co/KGtuO0aDER",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KGtuO0aDER",
+							"expanded_url": "http://m.aladin.co.kr/m/msearch.aspx?SearchTarget=Book&KeyWord=%EC%86%90%EC%A7%80%EC%83%81&KeyRecentPublish=0&OutStock=0",
+							"display_url": "m.aladin.co.kr/m/msearch.aspx…",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2815,
+			"friends_count": 1154,
+			"listed_count": 57,
+			"created_at": "Sun Sep 05 04:57:43 +0000 2010",
+			"favourites_count": 35266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 158173,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156475923832565761/UXYp0FPa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156475923832565761/UXYp0FPa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/187070498/1555297028",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1185955193340354600,
+		"quoted_status_id_str": "1185955193340354560",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uAI7fiCSzS",
+			"expanded": "https://twitter.com/nnanananami/status/1185955193340354560",
+			"display": "twitter.com/nnanananami/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 20 16:25:26 +0000 2019",
+			"id": 1185955193340354600,
+			"id_str": "1185955193340354560",
+			"full_text": "'ヴァーチャル日本語 役割語の謎'. 일본어에는 소설이나 만화에서 자주 등장하지만 현실에서는 아무도 쓰지 않는 '역할어' 말투가 여럿 존재하는데, '박사 말투'나 '아가씨 말투', '외국인 말투' 등. 그러한 스테레오타입이 형성된 과정을 분석한 책. https://t.co/gkM2mj0MUw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				137
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1185955188181328000,
+						"id_str": "1185955188181327873",
+						"indices": [
+							138,
+							161
+						],
+						"media_url": "http://pbs.twimg.com/media/EHVb9c8UYAEZpUB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHVb9c8UYAEZpUB.jpg",
+						"url": "https://t.co/gkM2mj0MUw",
+						"display_url": "pic.twitter.com/gkM2mj0MUw",
+						"expanded_url": "https://twitter.com/nnanananami/status/1185955193340354560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 200,
+								"h": 284,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 200,
+								"h": 284,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 200,
+								"h": 284,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1185955188181328000,
+						"id_str": "1185955188181327873",
+						"indices": [
+							138,
+							161
+						],
+						"media_url": "http://pbs.twimg.com/media/EHVb9c8UYAEZpUB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHVb9c8UYAEZpUB.jpg",
+						"url": "https://t.co/gkM2mj0MUw",
+						"display_url": "pic.twitter.com/gkM2mj0MUw",
+						"expanded_url": "https://twitter.com/nnanananami/status/1185955193340354560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 200,
+								"h": 284,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 200,
+								"h": 284,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 200,
+								"h": 284,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3479090540,
+				"id_str": "3479090540",
+				"name": "나나나나미",
+				"screen_name": "nnanananami",
+				"location": "",
+				"description": "책을 사고 잊습니다. 프로필 그림은 panpanya 만화에서.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 148,
+				"friends_count": 258,
+				"listed_count": 1,
+				"created_at": "Mon Sep 07 06:54:46 +0000 2015",
+				"favourites_count": 3734,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 806,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/707622443381182464/3lk2embe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/707622443381182464/3lk2embe_normal.jpg",
+				"profile_link_color": "505050",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1827,
+			"favorite_count": 731,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 22,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 역할어가 강담이나 라쿠고 부터 라노베까지 이어지는 ‘캐릭터’의 본질이라 주장하는 일본의 라노베 작가/국문학자가 있다. 오오하시 타카유키라고 https://t.co/uAI7fiCSzS"
+	},
+	{
+		"created_at": "Mon Oct 21 16:18:13 +0000 2019",
+		"id": 1185955214408343600,
+		"id_str": "1186315763658838016",
+		"full_text": "이러한 '허구의 말투'는 특히 등장인물이 조연 위치에 있고 독자가 이입할 대상이 아닌 경우가 대부분. '명탐정 코난'의 아가사 박사는 박사 특유의 '칸사이 말투'를 쓰지만 정작 칸사이 출신의 핫토리 헤이지는 칸사이 스테레오타입을 나타내지 않는다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1185955212973838300,
+		"in_reply_to_status_id_str": "1185955212973838337",
+		"in_reply_to_user_id": 3479090540,
+		"in_reply_to_user_id_str": "3479090540",
+		"in_reply_to_screen_name": "nnanananami",
+		"user": {
+			"id": 3479090540,
+			"id_str": "3479090540",
+			"name": "나나나나미",
+			"screen_name": "nnanananami",
+			"location": "",
+			"description": "책을 사고 잊습니다. 프로필 그림은 panpanya 만화에서.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 148,
+			"friends_count": 258,
+			"listed_count": 1,
+			"created_at": "Mon Sep 07 06:54:46 +0000 2015",
+			"favourites_count": 3734,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 806,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/707622443381182464/3lk2embe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/707622443381182464/3lk2embe_normal.jpg",
+			"profile_link_color": "505050",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 171,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이러한 '허구의 말투'는 특히 등장인물이 조연 위치에 있고 독자가 이입할 대상이 아닌 경우가 대부분. '명탐정 코난'의 아가사 박사는 박사 특유의 '칸사이 말투'를 쓰지만 정작 칸사이 출신의 핫토리 헤이지는 칸사이 스테레오타입을 나타내지 않는다."
+	},
+	{
+		"created_at": "Mon Oct 21 16:18:02 +0000 2019",
+		"id": 1185955193340354600,
+		"id_str": "1186315718209355783",
+		"full_text": "'ヴァーチャル日本語 役割語の謎'. 일본어에는 소설이나 만화에서 자주 등장하지만 현실에서는 아무도 쓰지 않는 '역할어' 말투가 여럿 존재하는데, '박사 말투'나 '아가씨 말투', '외국인 말투' 등. 그러한 스테레오타입이 형성된 과정을 분석한 책. https://t.co/gkM2mj0MUw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1185955188181328000,
+					"id_str": "1185955188181327873",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EHVb9c8UYAEZpUB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHVb9c8UYAEZpUB.jpg",
+					"url": "https://t.co/gkM2mj0MUw",
+					"display_url": "pic.twitter.com/gkM2mj0MUw",
+					"expanded_url": "https://twitter.com/nnanananami/status/1185955193340354560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 200,
+							"h": 284,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 200,
+							"h": 284,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 284,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1185955188181328000,
+					"id_str": "1185955188181327873",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EHVb9c8UYAEZpUB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHVb9c8UYAEZpUB.jpg",
+					"url": "https://t.co/gkM2mj0MUw",
+					"display_url": "pic.twitter.com/gkM2mj0MUw",
+					"expanded_url": "https://twitter.com/nnanananami/status/1185955193340354560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 200,
+							"h": 284,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 200,
+							"h": 284,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 284,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3479090540,
+			"id_str": "3479090540",
+			"name": "나나나나미",
+			"screen_name": "nnanananami",
+			"location": "",
+			"description": "책을 사고 잊습니다. 프로필 그림은 panpanya 만화에서.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 148,
+			"friends_count": 258,
+			"listed_count": 1,
+			"created_at": "Mon Sep 07 06:54:46 +0000 2015",
+			"favourites_count": 3734,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 806,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/707622443381182464/3lk2embe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/707622443381182464/3lk2embe_normal.jpg",
+			"profile_link_color": "505050",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1827,
+		"favorite_count": 731,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "'ヴァーチャル日本語 役割語の謎'. 일본어에는 소설이나 만화에서 자주 등장하지만 현실에서는 아무도 쓰지 않는 '역할어' 말투가 여럿 존재하는데, '박사 말투'나 '아가씨 말투', '외국인 말투' 등. 그러한 스테레오타입이 형성된 과정을 분석한 책. https://t.co/gkM2mj0MUw"
+	},
+	{
+		"created_at": "Mon Oct 21 16:17:57 +0000 2019",
+		"id": 1186082897721090000,
+		"id_str": "1186315697535631362",
+		"full_text": "예술의 진정성의 판단기준이 창작물이 품은 텍스트가 아니라 가창력이라는 기교와 그걸 향한 노오력에 몰빵되었고, 심지어 그 기교가 정량적인 것처럼 취급됨.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1186081661902942200,
+		"in_reply_to_status_id_str": "1186081661902942209",
+		"in_reply_to_user_id": 3235646006,
+		"in_reply_to_user_id_str": "3235646006",
+		"in_reply_to_screen_name": "NyaNyaNyangC",
+		"user": {
+			"id": 3235646006,
+			"id_str": "3235646006",
+			"name": "그냥냥씨",
+			"screen_name": "NyaNyaNyangC",
+			"location": "오타쿠웨이",
+			"description": "어딜 보고있습니까? 여긴 제 잔상입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1328,
+			"friends_count": 885,
+			"listed_count": 30,
+			"created_at": "Thu Jun 04 03:14:06 +0000 2015",
+			"favourites_count": 5887,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167801428515024897/WABslkf3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167801428515024897/WABslkf3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3235646006/1568464337",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "예술의 진정성의 판단기준이 창작물이 품은 텍스트가 아니라 가창력이라는 기교와 그걸 향한 노오력에 몰빵되었고, 심지어 그 기교가 정량적인 것처럼 취급됨."
+	},
+	{
 		"created_at": "Fri Oct 18 04:50:21 +0000 2019",
 		"id": 1185055491300323300,
 		"id_str": "1185055491300323328",
