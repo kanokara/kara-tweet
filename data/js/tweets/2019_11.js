@@ -1,6 +1,533 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 08 01:45:38 +0000 2019",
+		"id": 1192619153519104000,
+		"id_str": "1192619153519104001",
+		"full_text": "흰소리들도 정도껏해야지... 하나같이 게을러서는.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1192616436356616200,
+		"in_reply_to_status_id_str": "1192616436356616192",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 79,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "흰소리들도 정도껏해야지... 하나같이 게을러서는."
+	},
+	{
+		"created_at": "Fri Nov 08 01:37:36 +0000 2019",
+		"id": 1191999552909279200,
+		"id_str": "1192617129704443904",
+		"full_text": "가성비 따지는 인간이 오타쿠짓거리를 할까? 세상에서 가장 타산 안맞고 매번 손해만 보는 일을? 오타쿠는 가성비따위 따지지 못한다 가성비를 따지기엔 오타쿠라는 존재 자체가 수지가 안맞는다 그러니까 가챠같은걸 하지 https://t.co/qeqZXSU7YJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1191999167125581800,
+					"id_str": "1191999167125581824",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EIrU7VEU8AA4HHF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIrU7VEU8AA4HHF.jpg",
+					"url": "https://t.co/qeqZXSU7YJ",
+					"display_url": "pic.twitter.com/qeqZXSU7YJ",
+					"expanded_url": "https://twitter.com/sigapipe/status/1191999552909279232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 409,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 983,
+							"h": 591,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 983,
+							"h": 591,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191999167125581800,
+					"id_str": "1191999167125581824",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EIrU7VEU8AA4HHF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIrU7VEU8AA4HHF.jpg",
+					"url": "https://t.co/qeqZXSU7YJ",
+					"display_url": "pic.twitter.com/qeqZXSU7YJ",
+					"expanded_url": "https://twitter.com/sigapipe/status/1191999552909279232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 409,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 983,
+							"h": 591,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 983,
+							"h": 591,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 197464069,
+			"id_str": "197464069",
+			"name": "sigaP",
+			"screen_name": "sigapipe",
+			"location": "내 위치 추가",
+			"description": "프로필에 자기소개를 해보세요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 617,
+			"friends_count": 547,
+			"listed_count": 6,
+			"created_at": "Fri Oct 01 15:34:00 +0000 2010",
+			"favourites_count": 7156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 155550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1187960487956205573/I-HMg7t-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187960487956205573/I-HMg7t-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197464069/1573012623",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 97,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "가성비 따지는 인간이 오타쿠짓거리를 할까? 세상에서 가장 타산 안맞고 매번 손해만 보는 일을? 오타쿠는 가성비따위 따지지 못한다 가성비를 따지기엔 오타쿠라는 존재 자체가 수지가 안맞는다 그러니까 가챠같은걸 하지 https://t.co/qeqZXSU7YJ"
+	},
+	{
+		"created_at": "Fri Nov 08 01:34:50 +0000 2019",
+		"id": 1192616436356616200,
+		"id_str": "1192616436356616192",
+		"full_text": "으... 씁 님도 팔짝 뛰셨지만 오타쿠들이 앞서서 가짜 스테레오타입을 유포하는 거 정말 싫네요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 79,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "으... 씁 님도 팔짝 뛰셨지만 오타쿠들이 앞서서 가짜 스테레오타입을 유포하는 거 정말 싫네요."
+	},
+	{
+		"created_at": "Fri Nov 08 01:25:33 +0000 2019",
+		"id": 1192401221228695600,
+		"id_str": "1192614100842336256",
+		"full_text": "일본은 위저드리와 드래곤퀘스트로 대표되는 jrpg. 그리고 한국은 꾸준히 mmorpg를 즐겨오며 성장해온 독자작가의 경험을 바탕으로 두고 있음. 때문에 같은 상태창을 가지고 있더라도 나로우계는 카운터 스톱이나, 태어난 순간부터 클래스를 가지고 신분이 결정된다는 등의 설정이 보여지는 반면",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1192400945931358200,
+		"in_reply_to_status_id_str": "1192400945931358208",
+		"in_reply_to_user_id": 2359356530,
+		"in_reply_to_user_id_str": "2359356530",
+		"in_reply_to_screen_name": "nagi_khan",
+		"user": {
+			"id": 2359356530,
+			"id_str": "2359356530",
+			"name": "나기칸",
+			"screen_name": "nagi_khan",
+			"location": "",
+			"description": "라이트노벨을 읽는 것과 쓰는 것 둘 다 좋아합니당. / 일념일로(完) / 미래여친 노벨(完) / 게임 시나리오(언리쉬드, 큐라레) / 웹소설도 씀. \n문의 : gogo7563@naver.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1427,
+			"friends_count": 854,
+			"listed_count": 21,
+			"created_at": "Mon Feb 24 11:28:17 +0000 2014",
+			"favourites_count": 10550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866220842249736192/wNN3awBO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866220842249736192/wNN3awBO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2359356530/1447893519",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "일본은 위저드리와 드래곤퀘스트로 대표되는 jrpg. 그리고 한국은 꾸준히 mmorpg를 즐겨오며 성장해온 독자작가의 경험을 바탕으로 두고 있음. 때문에 같은 상태창을 가지고 있더라도 나로우계는 카운터 스톱이나, 태어난 순간부터 클래스를 가지고 신분이 결정된다는 등의 설정이 보여지는 반면"
+	},
+	{
+		"created_at": "Fri Nov 08 01:24:10 +0000 2019",
+		"id": 1192403412278595600,
+		"id_str": "1192613750311796737",
+		"full_text": "즉 전생이든 회귀든 일본에서는 새로운 삶에 조명을, 한국에선 전생이든 회귀든 내 위치가 보다 높은 곳을 지향해. 싸우고 살아남는 것을 택한다는 것.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1192403305353248800,
+		"in_reply_to_status_id_str": "1192403305353248768",
+		"in_reply_to_user_id": 2359356530,
+		"in_reply_to_user_id_str": "2359356530",
+		"in_reply_to_screen_name": "nagi_khan",
+		"user": {
+			"id": 2359356530,
+			"id_str": "2359356530",
+			"name": "나기칸",
+			"screen_name": "nagi_khan",
+			"location": "",
+			"description": "라이트노벨을 읽는 것과 쓰는 것 둘 다 좋아합니당. / 일념일로(完) / 미래여친 노벨(完) / 게임 시나리오(언리쉬드, 큐라레) / 웹소설도 씀. \n문의 : gogo7563@naver.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1427,
+			"friends_count": 854,
+			"listed_count": 21,
+			"created_at": "Mon Feb 24 11:28:17 +0000 2014",
+			"favourites_count": 10550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 60485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866220842249736192/wNN3awBO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866220842249736192/wNN3awBO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2359356530/1447893519",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "즉 전생이든 회귀든 일본에서는 새로운 삶에 조명을, 한국에선 전생이든 회귀든 내 위치가 보다 높은 곳을 지향해. 싸우고 살아남는 것을 택한다는 것."
+	},
+	{
 		"created_at": "Mon Nov 04 22:09:47 +0000 2019",
 		"id": 1191477670548107300,
 		"id_str": "1191477670548107264",
