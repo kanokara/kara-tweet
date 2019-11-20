@@ -1,6 +1,590 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 20 18:10:45 +0000 2019",
+		"id": 1197215718497865700,
+		"id_str": "1197215718497865728",
+		"full_text": "@GoblinCase 제 생각에는 이래요...\nhttps://t.co/Aai3lavgM4",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoblinCase",
+					"name": "고블린 유도가방",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Aai3lavgM4",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1197215180666523648?s=19",
+					"display_url": "twitter.com/EmptyKnK/statu…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1197213285340180500,
+		"in_reply_to_status_id_str": "1197213285340180480",
+		"in_reply_to_user_id": 1047103952297254900,
+		"in_reply_to_user_id_str": "1047103952297254912",
+		"in_reply_to_screen_name": "GoblinCase",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 79,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11404,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1197215180666523600,
+		"quoted_status_id_str": "1197215180666523648",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Aai3lavgM4",
+			"expanded": "https://twitter.com/EmptyKnK/status/1197215180666523648?s=19",
+			"display": "twitter.com/EmptyKnK/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 20 18:08:36 +0000 2019",
+			"id": 1197215180666523600,
+			"id_str": "1197215180666523648",
+			"full_text": "장례식은 '떠나보내는 의식'.\n의식은 참여가 중요한 것이고, 기록하는 참여방식으로 그 순간의 의미를 붙들려는 경우가 있는가 하면, 그와는 반대로 떠나보내기 위한 경우가 있는 것이죠. 그리고 의식에 포함되지 않는 기록 행위는 현장에서 반 발짝 떨어져 참여와 구경 사이에 위치하게 하고요.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				159
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1197212082979999700,
+			"in_reply_to_status_id_str": "1197212082979999744",
+			"in_reply_to_user_id": 3255599052,
+			"in_reply_to_user_id_str": "3255599052",
+			"in_reply_to_screen_name": "EmptyKnK",
+			"user": {
+				"id": 3255599052,
+				"id_str": "3255599052",
+				"name": "Solitude [동결:11/20~]",
+				"screen_name": "EmptyKnK",
+				"location": "",
+				"description": "탄식하라,  덧없이 흩어지고 말리라",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": true,
+				"followers_count": 9,
+				"friends_count": 79,
+				"listed_count": 0,
+				"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+				"favourites_count": 1310,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11404,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@GoblinCase 제 생각에는 이래요...\nhttps://t.co/Aai3lavgM4"
+	},
+	{
+		"created_at": "Wed Nov 20 18:08:36 +0000 2019",
+		"id": 1197215180666523600,
+		"id_str": "1197215180666523648",
+		"full_text": "장례식은 '떠나보내는 의식'.\n의식은 참여가 중요한 것이고, 기록하는 참여방식으로 그 순간의 의미를 붙들려는 경우가 있는가 하면, 그와는 반대로 떠나보내기 위한 경우가 있는 것이죠. 그리고 의식에 포함되지 않는 기록 행위는 현장에서 반 발짝 떨어져 참여와 구경 사이에 위치하게 하고요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1197212082979999700,
+		"in_reply_to_status_id_str": "1197212082979999744",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 79,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11404,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "장례식은 '떠나보내는 의식'.\n의식은 참여가 중요한 것이고, 기록하는 참여방식으로 그 순간의 의미를 붙들려는 경우가 있는가 하면, 그와는 반대로 떠나보내기 위한 경우가 있는 것이죠. 그리고 의식에 포함되지 않는 기록 행위는 현장에서 반 발짝 떨어져 참여와 구경 사이에 위치하게 하고요."
+	},
+	{
+		"created_at": "Wed Nov 20 17:56:34 +0000 2019",
+		"id": 1196742699673538600,
+		"id_str": "1197212152009936896",
+		"full_text": "나 근데 진짜 걱정되는게... 이렇게 암묵적으로 동영상 촬영이 금지된 상황이나 장소들이 있다는걸 애들이 점점 더 모르거나 구별하기 힘들어할거라는거지. 애초에 동영상촬영문화가 보편적이지 않았던 사회에서 누가 미리 집대성해서 교육해주거나 기존 세대는 교과과정에 넣지도 않을거고 https://t.co/tqNbK1QMfE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tqNbK1QMfE",
+					"expanded_url": "https://twitter.com/RD__Archive/status/1196691936507154432",
+					"display_url": "twitter.com/RD__Archive/st…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4092429193,
+			"id_str": "4092429193",
+			"name": "코덕 미묘🐰",
+			"screen_name": "meeemyoo",
+			"location": "우당탕탕 존나웃긴 대환장 블로그 ↓ ↓ 로 오십시오",
+			"description": "🎐잡덕의 덕질계정🎐\n🎁홀리데이&한정 코스메 흑흑운다❄\nDNA에 코덕 본능 새겨져있음. 쓰려고 사는걸...까? 쟁이고 자기만족으로 가끔 발라보고 좋아할 생각으로 총알저장 중... 홀데는 두개씩 쟁임🌌\n펄 빵빵한 예쁜 하이라이터 상시모집(NEW)",
+			"url": "https://t.co/SLi3NSXiEZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SLi3NSXiEZ",
+							"expanded_url": "https://m.blog.naver.com/amimosa13",
+							"display_url": "m.blog.naver.com/amimosa13",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1961,
+			"friends_count": 423,
+			"listed_count": 15,
+			"created_at": "Sun Nov 01 16:09:16 +0000 2015",
+			"favourites_count": 36773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 53204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1178732509095284739/wI5Qjx7w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178732509095284739/wI5Qjx7w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4092429193/1559912751",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1196691936507154400,
+		"quoted_status_id_str": "1196691936507154432",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tqNbK1QMfE",
+			"expanded": "https://twitter.com/RD__Archive/status/1196691936507154432",
+			"display": "twitter.com/RD__Archive/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 19 07:29:25 +0000 2019",
+			"id": 1196691936507154400,
+			"id_str": "1196691936507154432",
+			"full_text": "장례식장 브이로그 촬영하는 미X놈 https://t.co/Grh9fmRRJp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				18
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1196691928055574500,
+						"id_str": "1196691928055574528",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/EJuA991UcAAvrUm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJuA991UcAAvrUm.jpg",
+						"url": "https://t.co/Grh9fmRRJp",
+						"display_url": "pic.twitter.com/Grh9fmRRJp",
+						"expanded_url": "https://twitter.com/RD__Archive/status/1196691936507154432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 720,
+								"h": 1429,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 605,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 343,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1196691928055574500,
+						"id_str": "1196691928055574528",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/EJuA991UcAAvrUm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJuA991UcAAvrUm.jpg",
+						"url": "https://t.co/Grh9fmRRJp",
+						"display_url": "pic.twitter.com/Grh9fmRRJp",
+						"expanded_url": "https://twitter.com/RD__Archive/status/1196691936507154432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 720,
+								"h": 1429,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 605,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 343,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1169214493550755800,
+				"id_str": "1169214493550755841",
+				"name": "랜덤짤 아카이브",
+				"screen_name": "RD__Archive",
+				"location": "",
+				"description": "잡다하고 재밌는",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 31487,
+				"friends_count": 0,
+				"listed_count": 69,
+				"created_at": "Wed Sep 04 11:43:58 +0000 2019",
+				"favourites_count": 26,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 835,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1181509623582343168/0L8Zx-Jl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181509623582343168/0L8Zx-Jl_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4158,
+			"favorite_count": 904,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 16472,
+		"favorite_count": 2537,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나 근데 진짜 걱정되는게... 이렇게 암묵적으로 동영상 촬영이 금지된 상황이나 장소들이 있다는걸 애들이 점점 더 모르거나 구별하기 힘들어할거라는거지. 애초에 동영상촬영문화가 보편적이지 않았던 사회에서 누가 미리 집대성해서 교육해주거나 기존 세대는 교과과정에 넣지도 않을거고 https://t.co/tqNbK1QMfE"
+	},
+	{
 		"created_at": "Tue Nov 19 05:02:23 +0000 2019",
 		"id": 1196654931488280600,
 		"id_str": "1196654931488280578",
