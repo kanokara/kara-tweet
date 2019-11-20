@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 20 18:14:53 +0000 2019",
+		"id": 1197216760719478800,
+		"id_str": "1197216760719478784",
+		"full_text": "@GoblinCase 의식... 더 정확히는 의례는 집단이 공유함으로써 기능하고, 추모는 사후가 아니라 생전에 대한 것이어야죠. 장례식을 기록한다고 해도... 인류학 연구도 아닌데요.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoblinCase",
+					"name": "고블린 유도가방",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1197215972748226600,
+		"in_reply_to_status_id_str": "1197215972748226560",
+		"in_reply_to_user_id": 1047103952297254900,
+		"in_reply_to_user_id_str": "1047103952297254912",
+		"in_reply_to_screen_name": "GoblinCase",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 79,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@GoblinCase 의식... 더 정확히는 의례는 집단이 공유함으로써 기능하고, 추모는 사후가 아니라 생전에 대한 것이어야죠. 장례식을 기록한다고 해도... 인류학 연구도 아닌데요."
+	},
+	{
 		"created_at": "Wed Nov 20 18:10:45 +0000 2019",
 		"id": 1197215718497865700,
 		"id_str": "1197215718497865728",
