@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 25 15:10:14 +0000 2020",
+		"id": 1221087891868156000,
+		"id_str": "1221087891868155906",
+		"full_text": "이걸 비웃는 사람들은 되려 매체가 콘텐츠를 규정하는 힘을 간과하는 거 같아요. 출판시장에서 소설과 만화, 그것도 특수한 일부 장르만이 성행하는 현실을 보지 못하는 거죠.\nhttps://t.co/d1QekqN9wP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d1QekqN9wP",
+					"expanded_url": "https://twitter.com/tuvamdet/status/1220962850031583233?s=19",
+					"display_url": "twitter.com/tuvamdet/statu…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 79,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1220962850031583200,
+		"quoted_status_id_str": "1220962850031583233",
+		"quoted_status_permalink": {
+			"url": "https://t.co/d1QekqN9wP",
+			"expanded": "https://twitter.com/tuvamdet/status/1220962850031583233?s=19",
+			"display": "twitter.com/tuvamdet/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 25 06:53:22 +0000 2020",
+			"id": 1220962850031583200,
+			"id_str": "1220962850031583233",
+			"full_text": "계몽주의 사상가들과 혁명가들도 전자책이 있었으면 당연히 유포 쉬운 전자책을 썼겠지. 리디북스와 포스타입과 딜리헙에서 모두 영구정지를 먹고 텍본을 뿌리는 장폴 마라 ㅋㅋㅋ https://t.co/JZJUO6Frk8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				94
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JZJUO6Frk8",
+						"expanded_url": "https://twitter.com/roastedseatrump/status/1220935981588611072",
+						"display_url": "twitter.com/roastedseatrum…",
+						"indices": [
+							95,
+							118
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2469286213,
+				"id_str": "2469286213",
+				"name": "투밤뎉",
+				"screen_name": "tuvamdet",
+				"location": "Tu Vas Me Detruire 덕질이 날 파멸로!",
+				"description": "1789, 모오락, 태양왕, 레미즈, 노담, 룬아, 정경모에, 나윤싫, 가담항설, 프랑스 혁명사와 동서양철학사 등등. FUB 초멘 인알 다 자유. 폭알티. 탐라 잘 못 봄. https://t.co/SwUrg8NWNc",
+				"url": "https://t.co/sawRon4Imo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sawRon4Imo",
+								"expanded_url": "http://blog.daum.net/tuvamdet",
+								"display_url": "blog.daum.net/tuvamdet",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/SwUrg8NWNc",
+								"expanded_url": "http://twilog.org/tuvamdet",
+								"display_url": "twilog.org/tuvamdet",
+								"indices": [
+									97,
+									120
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 747,
+				"friends_count": 760,
+				"listed_count": 19,
+				"created_at": "Tue Apr 29 13:18:30 +0000 2014",
+				"favourites_count": 17612,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 191922,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1024472330871877632/3TVeaBbj_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1024472330871877632/3TVeaBbj_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2469286213/1407685578",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1220935981588611000,
+			"quoted_status_id_str": "1220935981588611072",
+			"quoted_status_permalink": {
+				"url": "https://t.co/JZJUO6Frk8",
+				"expanded": "https://twitter.com/roastedseatrump/status/1220935981588611072",
+				"display": "twitter.com/roastedseatrum…"
+			},
+			"retweet_count": 432,
+			"favorite_count": 97,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이걸 비웃는 사람들은 되려 매체가 콘텐츠를 규정하는 힘을 간과하는 거 같아요. 출판시장에서 소설과 만화, 그것도 특수한 일부 장르만이 성행하는 현실을 보지 못하는 거죠.\nhttps://t.co/d1QekqN9wP"
+	},
+	{
 		"created_at": "Fri Jan 24 23:59:48 +0000 2020",
 		"id": 1220858770776969200,
 		"id_str": "1220858770776969221",
