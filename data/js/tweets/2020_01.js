@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 30 18:20:48 +0000 2020",
+		"id": 1222947786821263400,
+		"id_str": "1222947786821263360",
+		"full_text": "그 반대로, 이러한 체계화가 안 되기에 덕질이 덕질로 머무는 것일 텐데...\nhttps://t.co/1e7rVnkhaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1e7rVnkhaw",
+					"expanded_url": "https://twitter.com/StoSeller/status/1222702681451401216?s=19",
+					"display_url": "twitter.com/StoSeller/stat…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 80,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1222702681451401200,
+		"quoted_status_id_str": "1222702681451401216",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1e7rVnkhaw",
+			"expanded": "https://twitter.com/StoSeller/status/1222702681451401216?s=19",
+			"display": "twitter.com/StoSeller/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 30 02:06:50 +0000 2020",
+			"id": 1222702681451401200,
+			"id_str": "1222702681451401216",
+			"full_text": "학문장에 있다보면 종종 sns에서 '배운다'라는 것이 학문을 익히고 체화하는 과정이 아니라 특정 집단이 공유하는 기억이나 관념, 관습을 익히는 팬덤적 행위, 오타쿠나 장르적 행위에 불과한 것을 보게 됩니다. 이런 행위들이 얽히면서 공부한다는 말조차 오염시켜버리죠.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				147
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1122502808102551600,
+				"id_str": "1122502808102551552",
+				"name": "스토리셀러",
+				"screen_name": "StoSeller",
+				"location": "",
+				"description": "장르를 주로 보는 구독계입니다\n익명질문 : https://t.co/lEUGFyg5ef…\n알람이 많아 비팔 알람 꺼놨습니다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/lEUGFyg5ef",
+								"expanded_url": "http://peing.net/ko/stoseller?e",
+								"display_url": "peing.net/ko/stoseller?e",
+								"indices": [
+									24,
+									47
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1657,
+				"friends_count": 258,
+				"listed_count": 11,
+				"created_at": "Sun Apr 28 14:08:19 +0000 2019",
+				"favourites_count": 604,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 239,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1122502929825402882/aQpgV9oB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1122502929825402882/aQpgV9oB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1122502808102551552/1556526737",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 907,
+			"favorite_count": 447,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그 반대로, 이러한 체계화가 안 되기에 덕질이 덕질로 머무는 것일 텐데...\nhttps://t.co/1e7rVnkhaw"
+	},
+	{
 		"created_at": "Wed Jan 29 14:22:10 +0000 2020",
 		"id": 1222525344185376800,
 		"id_str": "1222525344185376769",
