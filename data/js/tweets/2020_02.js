@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 04 05:15:34 +0000 2020",
+		"id": 1224562115022733300,
+		"id_str": "1224562115022733312",
+		"full_text": "인문사회학도가 보이는 전형적인 오류...\nhttps://t.co/XCUZG4KS0v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XCUZG4KS0v",
+					"expanded_url": "https://twitter.com/StoSeller/status/1224334071368519682?s=19",
+					"display_url": "twitter.com/StoSeller/stat…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 80,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1224334071368519700,
+		"quoted_status_id_str": "1224334071368519682",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XCUZG4KS0v",
+			"expanded": "https://twitter.com/StoSeller/status/1224334071368519682?s=19",
+			"display": "twitter.com/StoSeller/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 03 14:09:24 +0000 2020",
+			"id": 1224334071368519700,
+			"id_str": "1224334071368519682",
+			"full_text": "RT 그래서 저는 끊임없이 남성적/여성적 문체는 실제 문체가 아니라 운동적 선언이며 장르적 관습에 불과하다고 이야기하고 있습니다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				72
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1122502808102551600,
+				"id_str": "1122502808102551552",
+				"name": "스토리셀러",
+				"screen_name": "StoSeller",
+				"location": "",
+				"description": "장르를 주로 보는 구독계입니다\n익명질문 : https://t.co/lEUGFyg5ef…\n알람이 많아 비팔 알람 꺼놨습니다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/lEUGFyg5ef",
+								"expanded_url": "http://peing.net/ko/stoseller?e",
+								"display_url": "peing.net/ko/stoseller?e",
+								"indices": [
+									24,
+									47
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1808,
+				"friends_count": 268,
+				"listed_count": 13,
+				"created_at": "Sun Apr 28 14:08:19 +0000 2019",
+				"favourites_count": 751,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 598,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1122502929825402882/aQpgV9oB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1122502929825402882/aQpgV9oB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1122502808102551552/1556526737",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 851,
+			"favorite_count": 258,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인문사회학도가 보이는 전형적인 오류...\nhttps://t.co/XCUZG4KS0v"
+	},
+	{
 		"created_at": "Tue Feb 04 04:59:42 +0000 2020",
 		"id": 1224558122699608000,
 		"id_str": "1224558122699608064",
