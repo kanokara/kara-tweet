@@ -1,6 +1,506 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 17 17:06:24 +0000 2020",
+		"id": 1229399600173211600,
+		"id_str": "1229452046849343489",
+		"full_text": "Instagramでも、 記念の描き下ろしビジュアルが投稿されております。チェックいただければ幸いです。お祝いくださったみなさん、ありがとうございます。\nhttps://t.co/oGff8mzjVY https://t.co/kfOrsqBuZO https://t.co/0vyygZqWU6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oGff8mzjVY",
+					"expanded_url": "https://www.instagram.com/ufotable_inc/",
+					"display_url": "instagram.com/ufotable_inc/",
+					"indices": [
+						77,
+						100
+					]
+				},
+				{
+					"url": "https://t.co/kfOrsqBuZO",
+					"expanded_url": "https://twitter.com/ufotable/status/1229335588983066624",
+					"display_url": "twitter.com/ufotable/statu…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1229399594296955000,
+					"id_str": "1229399594296954881",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ-0atkUUAEQuw7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ-0atkUUAEQuw7.jpg",
+					"url": "https://t.co/0vyygZqWU6",
+					"display_url": "pic.twitter.com/0vyygZqWU6",
+					"expanded_url": "https://twitter.com/ufotable/status/1229399600173211648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 586,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1129,
+							"h": 1309,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1035,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229399594296955000,
+					"id_str": "1229399594296954881",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EQ-0atkUUAEQuw7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQ-0atkUUAEQuw7.jpg",
+					"url": "https://t.co/0vyygZqWU6",
+					"display_url": "pic.twitter.com/0vyygZqWU6",
+					"expanded_url": "https://twitter.com/ufotable/status/1229399600173211648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 586,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1129,
+							"h": 1309,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1035,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17445709,
+			"id_str": "17445709",
+			"name": "ufotable",
+			"screen_name": "ufotable",
+			"location": "Koenji",
+			"description": "アニメーションスタジオufotableの公式アカウント。 #鬼滅の刃 #demonslayer #fate_sn_anime",
+			"url": "https://t.co/xCmyGQu8uw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xCmyGQu8uw",
+							"expanded_url": "http://www.ufotable.com/",
+							"display_url": "ufotable.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 451895,
+			"friends_count": 25,
+			"listed_count": 4284,
+			"created_at": "Mon Nov 17 17:25:51 +0000 2008",
+			"favourites_count": 127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7D1414",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1217356013306695680/KnFPcl8c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217356013306695680/KnFPcl8c_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17445709/1580627278",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "AE0000",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1229335588983066600,
+		"quoted_status_id_str": "1229335588983066624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kfOrsqBuZO",
+			"expanded": "https://twitter.com/ufotable/status/1229335588983066624",
+			"display": "twitter.com/ufotable/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 17 09:23:39 +0000 2020",
+			"id": 1229335588983066600,
+			"id_str": "1229335588983066624",
+			"full_text": "劇場版「空の境界」\n全7章・完全映画化として2007年より\n劇場公開をスタート致しました。\n7部作+αをご一緒した皆様、ありがとうございました。\n\n改めて両儀式・17日のお誕生日です。\nお祝い、ご一緒致しましょう。\n\n空の境界・公式サイト\nhttps://t.co/kInSwD00fU\n\n特設サイト\nhttps://t.co/glNE1FluLe https://t.co/LKJaGkDEUo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				174
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kInSwD00fU",
+						"expanded_url": "https://www.karanokyoukai.com/index.html",
+						"display_url": "karanokyoukai.com/index.html",
+						"indices": [
+							120,
+							143
+						]
+					},
+					{
+						"url": "https://t.co/glNE1FluLe",
+						"expanded_url": "http://www.ufotable.com/shiki_birth/",
+						"display_url": "ufotable.com/shiki_birth/",
+						"indices": [
+							151,
+							174
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1229335581974417400,
+						"id_str": "1229335581974417408",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/EQ96MtFVUAAZFGY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQ96MtFVUAAZFGY.jpg",
+						"url": "https://t.co/LKJaGkDEUo",
+						"display_url": "pic.twitter.com/LKJaGkDEUo",
+						"expanded_url": "https://twitter.com/ufotable/status/1229335588983066624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1520,
+								"h": 855,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1229335581974417400,
+						"id_str": "1229335581974417408",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/EQ96MtFVUAAZFGY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQ96MtFVUAAZFGY.jpg",
+						"url": "https://t.co/LKJaGkDEUo",
+						"display_url": "pic.twitter.com/LKJaGkDEUo",
+						"expanded_url": "https://twitter.com/ufotable/status/1229335588983066624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1520,
+								"h": 855,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1229335582549008400,
+						"id_str": "1229335582549008386",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/EQ96MvOU4AIgHNE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQ96MvOU4AIgHNE.jpg",
+						"url": "https://t.co/LKJaGkDEUo",
+						"display_url": "pic.twitter.com/LKJaGkDEUo",
+						"expanded_url": "https://twitter.com/ufotable/status/1229335588983066624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1520,
+								"h": 855,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1229335582465085400,
+						"id_str": "1229335582465085443",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/EQ96Mu6UUAMUmLT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQ96Mu6UUAMUmLT.jpg",
+						"url": "https://t.co/LKJaGkDEUo",
+						"display_url": "pic.twitter.com/LKJaGkDEUo",
+						"expanded_url": "https://twitter.com/ufotable/status/1229335588983066624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1520,
+								"h": 855,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1229335582473482200,
+						"id_str": "1229335582473482241",
+						"indices": [
+							175,
+							198
+						],
+						"media_url": "http://pbs.twimg.com/media/EQ96Mu8UcAEQtBD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQ96Mu8UcAEQtBD.jpg",
+						"url": "https://t.co/LKJaGkDEUo",
+						"display_url": "pic.twitter.com/LKJaGkDEUo",
+						"expanded_url": "https://twitter.com/ufotable/status/1229335588983066624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1520,
+								"h": 855,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17445709,
+				"id_str": "17445709",
+				"name": "ufotable",
+				"screen_name": "ufotable",
+				"location": "Koenji",
+				"description": "アニメーションスタジオufotableの公式アカウント。 #鬼滅の刃 #demonslayer #fate_sn_anime",
+				"url": "https://t.co/xCmyGQu8uw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xCmyGQu8uw",
+								"expanded_url": "http://www.ufotable.com/",
+								"display_url": "ufotable.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 451895,
+				"friends_count": 25,
+				"listed_count": 4284,
+				"created_at": "Mon Nov 17 17:25:51 +0000 2008",
+				"favourites_count": 127,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 35041,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "7D1414",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1217356013306695680/KnFPcl8c_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217356013306695680/KnFPcl8c_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17445709/1580627278",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "AE0000",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2463,
+			"favorite_count": 5551,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 74,
+		"favorite_count": 316,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "Instagramでも、 記念の描き下ろしビジュアルが投稿されております。チェックいただければ幸いです。お祝いくださったみなさん、ありがとうございます。\nhttps://t.co/oGff8mzjVY https://t.co/kfOrsqBuZO https://t.co/0vyygZqWU6"
+	},
+	{
 		"created_at": "Fri Feb 14 10:45:00 +0000 2020",
 		"id": 1061850214829453300,
 		"id_str": "1228268899197579264",
