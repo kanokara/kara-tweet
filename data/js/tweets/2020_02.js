@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 26 11:35:11 +0000 2020",
+		"id": 1232630182986440700,
+		"id_str": "1232630182986440707",
+		"full_text": "일본 책 디자인은 언제 봐도 감탄만...\nhttps://t.co/sI4uIPShCy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sI4uIPShCy",
+					"expanded_url": "https://twitter.com/worklifebook/status/1232562686770049025?s=19",
+					"display_url": "twitter.com/worklifebook/s…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 81,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11442,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1232562686770049000,
+		"quoted_status_id_str": "1232562686770049025",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sI4uIPShCy",
+			"expanded": "https://twitter.com/worklifebook/status/1232562686770049025?s=19",
+			"display": "twitter.com/worklifebook/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 26 07:06:59 +0000 2020",
+			"id": 1232562686770049000,
+			"id_str": "1232562686770049025",
+			"full_text": "宇野常寛 평론가의 신간 주문한 거 배송 옴. 코로나만 아니면 카페 가서 모카 시켜놓고 몰입해서 볼텐데, 이번 책은 집에서 콜라 마시면서 봐야 할 듯. https://t.co/l4NJGj0Apn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				83
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1232562665651761200,
+						"id_str": "1232562665651761152",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/ERrxNsmU8AAMscI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERrxNsmU8AAMscI.jpg",
+						"url": "https://t.co/l4NJGj0Apn",
+						"display_url": "pic.twitter.com/l4NJGj0Apn",
+						"expanded_url": "https://twitter.com/worklifebook/status/1232562686770049025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1232562665651761200,
+						"id_str": "1232562665651761152",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/ERrxNsmU8AAMscI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERrxNsmU8AAMscI.jpg",
+						"url": "https://t.co/l4NJGj0Apn",
+						"display_url": "pic.twitter.com/l4NJGj0Apn",
+						"expanded_url": "https://twitter.com/worklifebook/status/1232562686770049025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 146022923,
+				"id_str": "146022923",
+				"name": "WORKLIFE출판사 편집부 고독계",
+				"screen_name": "worklifebook",
+				"location": "Seoul",
+				"description": "공식 연락은 worklifebook@gmail.com",
+				"url": "https://t.co/VzNp3LZvTV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VzNp3LZvTV",
+								"expanded_url": "http://www.worklifebook.com",
+								"display_url": "worklifebook.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 596,
+				"friends_count": 417,
+				"listed_count": 15,
+				"created_at": "Thu May 20 12:25:29 +0000 2010",
+				"favourites_count": 2187,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1013,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1212015435089993728/XwUgslsX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212015435089993728/XwUgslsX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/146022923/1564105941",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일본 책 디자인은 언제 봐도 감탄만...\nhttps://t.co/sI4uIPShCy"
+	},
+	{
 		"created_at": "Fri Feb 21 12:12:17 +0000 2020",
 		"id": 1230827580929933300,
 		"id_str": "1230827580929933314",
