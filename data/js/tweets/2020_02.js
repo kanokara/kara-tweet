@@ -1,6 +1,378 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 27 17:34:04 +0000 2020",
+		"id": 1233082885218848800,
+		"id_str": "1233082885218848768",
+		"full_text": "발표 후의 수정은 그 세계에 대한 존중이 없는 것이라 생각하지만... 일일연재 시스템에서는 사실 미묘하네요.\nhttps://t.co/GnU5W4LUOH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GnU5W4LUOH",
+					"expanded_url": "https://twitter.com/racommu/status/1232813748743593984?s=19",
+					"display_url": "twitter.com/racommu/status…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 81,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1232813748743594000,
+		"quoted_status_id_str": "1232813748743593984",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GnU5W4LUOH",
+			"expanded": "https://twitter.com/racommu/status/1232813748743593984?s=19",
+			"display": "twitter.com/racommu/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 26 23:44:36 +0000 2020",
+			"id": 1232813748743594000,
+			"id_str": "1232813748743593984",
+			"full_text": "작가의 수정은 결국 방향성의 선언인데  ‘수정’ 자체를 깔 수 없는 거 아닌가? (이북에 대한 불안감은 이해함) ‘수정’ 자체를 깐다면 개정판과 단행본 편집 등에서 가해지는 수정도 문제가 되는데 그건 흔하거든.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				117
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1042080141969477600,
+				"id_str": "1042080141969477632",
+				"name": "온다",
+				"screen_name": "racommu",
+				"location": "진짜 잡덕임 ",
+				"description": "개인 의견 정리 및 감상계 l 잡덕이고 말 많음 l 장르팔로 비추 l RT 가끔 많이함 l 탐라 잘 놓침 l 타래까지 다 읽어주세요 l 미러블락, 체인블락 가끔 씀",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3880,
+				"friends_count": 224,
+				"listed_count": 32,
+				"created_at": "Tue Sep 18 15:57:21 +0000 2018",
+				"favourites_count": 28684,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 54135,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1118816449840107520/zdG5XLHj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118816449840107520/zdG5XLHj_normal.jpg",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 167,
+			"favorite_count": 89,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "발표 후의 수정은 그 세계에 대한 존중이 없는 것이라 생각하지만... 일일연재 시스템에서는 사실 미묘하네요.\nhttps://t.co/GnU5W4LUOH"
+	},
+	{
+		"created_at": "Thu Feb 27 17:27:46 +0000 2020",
+		"id": 1232686798251233300,
+		"id_str": "1233081301634207744",
+		"full_text": "싸함을 견디는 사회가 됐으면 좋겠어요\n\n분위기 싸해지면 뭐 어쩌라고. 싸해질 만 하면 싸해져야지 맨날 하하호호 해야 돼? https://t.co/t3CeWr6ADO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1232686718915993600,
+					"id_str": "1232686718915993601",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1232686718915993601/pu/img/zixKhOx7HDXk5GBq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1232686718915993601/pu/img/zixKhOx7HDXk5GBq.jpg",
+					"url": "https://t.co/t3CeWr6ADO",
+					"display_url": "pic.twitter.com/t3CeWr6ADO",
+					"expanded_url": "https://twitter.com/zmfflq1234/status/1232686798251233280/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1232686718915993600,
+					"id_str": "1232686718915993601",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1232686718915993601/pu/img/zixKhOx7HDXk5GBq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1232686718915993601/pu/img/zixKhOx7HDXk5GBq.jpg",
+					"url": "https://t.co/t3CeWr6ADO",
+					"display_url": "pic.twitter.com/t3CeWr6ADO",
+					"expanded_url": "https://twitter.com/zmfflq1234/status/1232686798251233280/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 32637,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1232686718915993601/pu/vid/640x360/0KgalMuoV0dl7azb.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1232686718915993601/pu/pl/qKadEI4TvRNdGJKE.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1232686718915993601/pu/vid/1280x720/foByrgxXdbA0d_Tt.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1232686718915993601/pu/vid/480x270/vyGw4ScYeWzGfzKp.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1180291928031514600,
+			"id_str": "1180291928031514624",
+			"name": "여자영상저장소",
+			"screen_name": "zmfflq1234",
+			"location": "여자만/모멘트에 정리",
+			"description": "내가 돌려보고싶은 영상 / 제보 디엠 올리는건 내맘",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59033,
+			"friends_count": 0,
+			"listed_count": 129,
+			"created_at": "Sat Oct 05 01:21:50 +0000 2019",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1180291928031514624/1580997391",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14256,
+		"favorite_count": 8922,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "싸함을 견디는 사회가 됐으면 좋겠어요\n\n분위기 싸해지면 뭐 어쩌라고. 싸해질 만 하면 싸해져야지 맨날 하하호호 해야 돼? https://t.co/t3CeWr6ADO"
+	},
+	{
 		"created_at": "Thu Feb 27 14:04:47 +0000 2020",
 		"id": 913607715972362200,
 		"id_str": "1233030220128505856",
