@@ -1,6 +1,98 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 27 14:04:47 +0000 2020",
+		"id": 913607715972362200,
+		"id_str": "1233030220128505856",
+		"full_text": "웹으로 정성스럽게 만든 뷰어다. :D 선택할 수 있는 배경색이 텍스트를 읽기에 적합하지 않지만 재밌다. 형광펜도 남길 수 있고 export까지 할 수 있다.\nhttps://t.co/PAE4fOxsYx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PAE4fOxsYx",
+					"expanded_url": "http://poeticcomputation.info/",
+					"display_url": "poeticcomputation.info",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4398163753,
+			"id_str": "4398163753",
+			"name": "playpingpong",
+			"screen_name": "playpingpong",
+			"location": "",
+			"description": "탁구, 커피, 맥주, 책, 통기타, 문구류, 애플, 컵, 인테리어, 일러스트레이션, 평범한 일상을 사랑하며 지하철 노선도를 외우는 Digital Product Designer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117,
+			"friends_count": 372,
+			"listed_count": 3,
+			"created_at": "Sun Nov 29 10:43:27 +0000 2015",
+			"favourites_count": 1685,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229335910967169024/eAlQWszU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229335910967169024/eAlQWszU_normal.jpg",
+			"profile_link_color": "FF976E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "웹으로 정성스럽게 만든 뷰어다. :D 선택할 수 있는 배경색이 텍스트를 읽기에 적합하지 않지만 재밌다. 형광펜도 남길 수 있고 export까지 할 수 있다.\nhttps://t.co/PAE4fOxsYx"
+	},
+	{
 		"created_at": "Wed Feb 26 11:35:11 +0000 2020",
 		"id": 1232630182986440700,
 		"id_str": "1232630182986440707",
