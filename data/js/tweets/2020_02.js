@@ -1,6 +1,98 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 29 12:59:09 +0000 2020",
+		"id": 1223244384847593500,
+		"id_str": "1233738478556336131",
+		"full_text": "https://t.co/Upt8qS7rPW\n일본 고위공무원출신 유튜버의 좆같은 경험 베스트3라는데 일본공무원의 비애와 치부가 많이 보이는 것 같다. 무미건조하게 얘기하지만 참 누가봐도 좆같았나보구나 싶은 부분이 보여 재밌음. 한국은 어떠려나, 비슷하려나?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Upt8qS7rPW",
+					"expanded_url": "https://youtu.be/jl-2LOJl-e8",
+					"display_url": "youtu.be/jl-2LOJl-e8",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 142364077,
+			"id_str": "142364077",
+			"name": "ウェポンznpfg",
+			"screen_name": "Qnpfg",
+			"location": "",
+			"description": "斬鉄ソードではありません。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 388,
+			"friends_count": 189,
+			"listed_count": 12,
+			"created_at": "Mon May 10 17:53:21 +0000 2010",
+			"favourites_count": 11866,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097081365785280512/wfgT3alQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097081365785280512/wfgT3alQ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/Upt8qS7rPW\n일본 고위공무원출신 유튜버의 좆같은 경험 베스트3라는데 일본공무원의 비애와 치부가 많이 보이는 것 같다. 무미건조하게 얘기하지만 참 누가봐도 좆같았나보구나 싶은 부분이 보여 재밌음. 한국은 어떠려나, 비슷하려나?"
+	},
+	{
 		"created_at": "Thu Feb 27 17:34:04 +0000 2020",
 		"id": 1233082885218848800,
 		"id_str": "1233082885218848768",
