@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 04 09:51:31 +0000 2020",
+		"id": 1087234326905860100,
+		"id_str": "1235140810649112576",
+		"full_text": "열정적인 이들은 프로젝트에서 보물 같은 존재이다. 열정 없이는 끝내주는 게임도 나올 수 없기 때문이다. 매니저는 ①신뢰성 있는 프로젝트 비전을 지속적으로 공유해야 하며, ②구성원에 건 기대치와 그 한계선을 명확히 긋고, ③상향식 개발은 public forum에서 이루어질 수 있도록 컨트롤해야겠다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1087234325790113800,
+		"in_reply_to_status_id_str": "1087234325790113794",
+		"in_reply_to_user_id": 122556604,
+		"in_reply_to_user_id_str": "122556604",
+		"in_reply_to_screen_name": "plafina",
+		"user": {
+			"id": 122556604,
+			"id_str": "122556604",
+			"name": "플라피나🧀💫",
+			"screen_name": "plafina",
+			"location": "에스피나 암흑신전",
+			"description": "⚖🎲 게임 밸런스 디자이너 / 🧀💫 린 애자일 / 💖✨ 선한 영향력 / 💌📚 트윗 저장소: @plafinia",
+			"url": "https://t.co/nXMkyRJ5uV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXMkyRJ5uV",
+							"expanded_url": "http://plafina.egloos.com",
+							"display_url": "plafina.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2832,
+			"friends_count": 264,
+			"listed_count": 33,
+			"created_at": "Sat Mar 13 03:35:17 +0000 2010",
+			"favourites_count": 13929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210117171054964737/OOV7s7yl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210117171054964737/OOV7s7yl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/122556604/1564471235",
+			"profile_link_color": "8DCAA1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 461,
+		"favorite_count": 327,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "열정적인 이들은 프로젝트에서 보물 같은 존재이다. 열정 없이는 끝내주는 게임도 나올 수 없기 때문이다. 매니저는 ①신뢰성 있는 프로젝트 비전을 지속적으로 공유해야 하며, ②구성원에 건 기대치와 그 한계선을 명확히 긋고, ③상향식 개발은 public forum에서 이루어질 수 있도록 컨트롤해야겠다."
+	},
+	{
+		"created_at": "Wed Mar 04 09:51:30 +0000 2020",
+		"id": 1087234325790113800,
+		"id_str": "1235140805863538688",
+		"full_text": "왜냐하면 그들은 프로젝트를 잘 마무리하고 싶기 때문이다. 열정적일수록 자신의 작업물에 더 많은 감정이입을 하며, 더 많은 가치판단을 행하고, 더 주도적으로 자신의 할 일을 결정(하고 싶어)한다. 결과적으로 실무에서 괴리되거나, 직위를 남용하거나, 물밑에서 상향식 개발을 주도하게 된다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1087234146097803300,
+		"in_reply_to_status_id_str": "1087234146097803264",
+		"in_reply_to_user_id": 122556604,
+		"in_reply_to_user_id_str": "122556604",
+		"in_reply_to_screen_name": "plafina",
+		"user": {
+			"id": 122556604,
+			"id_str": "122556604",
+			"name": "플라피나🧀💫",
+			"screen_name": "plafina",
+			"location": "에스피나 암흑신전",
+			"description": "⚖🎲 게임 밸런스 디자이너 / 🧀💫 린 애자일 / 💖✨ 선한 영향력 / 💌📚 트윗 저장소: @plafinia",
+			"url": "https://t.co/nXMkyRJ5uV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXMkyRJ5uV",
+							"expanded_url": "http://plafina.egloos.com",
+							"display_url": "plafina.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2832,
+			"friends_count": 264,
+			"listed_count": 33,
+			"created_at": "Sat Mar 13 03:35:17 +0000 2010",
+			"favourites_count": 13929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210117171054964737/OOV7s7yl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210117171054964737/OOV7s7yl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/122556604/1564471235",
+			"profile_link_color": "8DCAA1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 472,
+		"favorite_count": 288,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "왜냐하면 그들은 프로젝트를 잘 마무리하고 싶기 때문이다. 열정적일수록 자신의 작업물에 더 많은 감정이입을 하며, 더 많은 가치판단을 행하고, 더 주도적으로 자신의 할 일을 결정(하고 싶어)한다. 결과적으로 실무에서 괴리되거나, 직위를 남용하거나, 물밑에서 상향식 개발을 주도하게 된다."
+	},
+	{
+		"created_at": "Wed Mar 04 09:51:23 +0000 2020",
+		"id": 1087234146097803300,
+		"id_str": "1235140775492476928",
+		"full_text": "오해가 없도록 명확히 정의해두자. 프로젝트가 정상적으로 진행되고 있는 것처럼 보이면(실제로는 제대로 진행되고 있지 않더라도) 그들은 조용히 자기 할 일을 한다. 하지만 프로젝트가 산으로 가는 것처럼 보이면(실제로는 제대로 진행되고 있더라도) 그들은 &lt;프로젝트 전체의 전복&gt;을 꿈꾼다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1087234022038589400,
+		"in_reply_to_status_id_str": "1087234022038589441",
+		"in_reply_to_user_id": 122556604,
+		"in_reply_to_user_id_str": "122556604",
+		"in_reply_to_screen_name": "plafina",
+		"user": {
+			"id": 122556604,
+			"id_str": "122556604",
+			"name": "플라피나🧀💫",
+			"screen_name": "plafina",
+			"location": "에스피나 암흑신전",
+			"description": "⚖🎲 게임 밸런스 디자이너 / 🧀💫 린 애자일 / 💖✨ 선한 영향력 / 💌📚 트윗 저장소: @plafinia",
+			"url": "https://t.co/nXMkyRJ5uV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXMkyRJ5uV",
+							"expanded_url": "http://plafina.egloos.com",
+							"display_url": "plafina.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2832,
+			"friends_count": 264,
+			"listed_count": 33,
+			"created_at": "Sat Mar 13 03:35:17 +0000 2010",
+			"favourites_count": 13929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210117171054964737/OOV7s7yl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210117171054964737/OOV7s7yl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/122556604/1564471235",
+			"profile_link_color": "8DCAA1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 539,
+		"favorite_count": 275,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "오해가 없도록 명확히 정의해두자. 프로젝트가 정상적으로 진행되고 있는 것처럼 보이면(실제로는 제대로 진행되고 있지 않더라도) 그들은 조용히 자기 할 일을 한다. 하지만 프로젝트가 산으로 가는 것처럼 보이면(실제로는 제대로 진행되고 있더라도) 그들은 &lt;프로젝트 전체의 전복&gt;을 꿈꾼다."
+	},
+	{
 		"created_at": "Tue Mar 03 20:07:25 +0000 2020",
 		"id": 1234933416509886500,
 		"id_str": "1234933416509886465",
