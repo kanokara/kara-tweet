@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 04 10:14:32 +0000 2020",
+		"id": 1235066605890986000,
+		"id_str": "1235146602597117953",
+		"full_text": "“마스크를 쓰셔야죠, 제발 마스크를” ... 이 무슨 싱크로인가 from [바람 계곡의 나우시카] 넷플릭스에서 한국어 더빙 버전으로도 볼 수 있음. https://t.co/EZvc45Y3Pg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1235066562530472000,
+					"id_str": "1235066562530471938",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1235066562530471938/pu/img/ySStoVN3EzT54Czv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1235066562530471938/pu/img/ySStoVN3EzT54Czv.jpg",
+					"url": "https://t.co/EZvc45Y3Pg",
+					"display_url": "pic.twitter.com/EZvc45Y3Pg",
+					"expanded_url": "https://twitter.com/ysimock/status/1235066605890985984/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235066562530472000,
+					"id_str": "1235066562530471938",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1235066562530471938/pu/img/ySStoVN3EzT54Czv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1235066562530471938/pu/img/ySStoVN3EzT54Czv.jpg",
+					"url": "https://t.co/EZvc45Y3Pg",
+					"display_url": "pic.twitter.com/EZvc45Y3Pg",
+					"expanded_url": "https://twitter.com/ysimock/status/1235066605890985984/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 8662,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1235066562530471938/pu/vid/1280x720/A1Cs3eXw2D1O0v4s.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1235066562530471938/pu/vid/640x360/39Hk8WNEmyxdZ_1g.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1235066562530471938/pu/pl/X9pf3yR2_TibnaXb.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1235066562530471938/pu/vid/480x270/v7lTWCaL8ee8Jd-9.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1235045495690518500,
+		"in_reply_to_status_id_str": "1235045495690518529",
+		"in_reply_to_user_id": 124039788,
+		"in_reply_to_user_id_str": "124039788",
+		"in_reply_to_screen_name": "ysimock",
+		"user": {
+			"id": 124039788,
+			"id_str": "124039788",
+			"name": "Saint Ho",
+			"screen_name": "ysimock",
+			"location": "",
+			"description": "➰🏐➰🏀 !",
+			"url": "https://t.co/4uauEa0QDr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4uauEa0QDr",
+							"expanded_url": "https://www.youtube.com/channel/UCMLIvwSY-hbC2R0W9_XWuVg",
+							"display_url": "youtube.com/channel/UCMLIv…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14393,
+			"friends_count": 1507,
+			"listed_count": 320,
+			"created_at": "Thu Mar 18 01:58:43 +0000 2010",
+			"favourites_count": 706,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1179958517832114177/6WAJ8sr5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1179958517832114177/6WAJ8sr5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124039788/1570158880",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“마스크를 쓰셔야죠, 제발 마스크를” ... 이 무슨 싱크로인가 from [바람 계곡의 나우시카] 넷플릭스에서 한국어 더빙 버전으로도 볼 수 있음. https://t.co/EZvc45Y3Pg"
+	},
+	{
 		"created_at": "Wed Mar 04 09:51:31 +0000 2020",
 		"id": 1087234326905860100,
 		"id_str": "1235140810649112576",
