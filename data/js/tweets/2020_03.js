@@ -1,6 +1,463 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 07 12:31:34 +0000 2020",
+		"id": 1236268251400663000,
+		"id_str": "1236268251400663040",
+		"full_text": "@GoblinCase 이 트윗, 문맥이 잘 이해 안 되는데 여기서 限界勢이란 게 어떤 무리를 지칭하는 건가요?\nhttps://t.co/ZNIBPUdMst",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoblinCase",
+					"name": "魍魉之匣",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZNIBPUdMst",
+					"expanded_url": "https://twitter.com/abu0705/status/1235942364859908101?s=19",
+					"display_url": "twitter.com/abu0705/status…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1047103952297254900,
+		"in_reply_to_user_id_str": "1047103952297254912",
+		"in_reply_to_screen_name": "GoblinCase",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 83,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1235942364859908000,
+		"quoted_status_id_str": "1235942364859908101",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZNIBPUdMst",
+			"expanded": "https://twitter.com/abu0705/status/1235942364859908101?s=19",
+			"display": "twitter.com/abu0705/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 06 14:56:37 +0000 2020",
+			"id": 1235942364859908000,
+			"id_str": "1235942364859908101",
+			"full_text": "韓国ノービザ入国停止事変、さすがに衝撃すぎて「えぇ……」って顔してるんだけど、TLの限界勢が韓国のビザ取れるなんて滅多にないやん！って色めき立ってて、いや君たちのその底抜けにポジティブなところは嫌いじゃないよ……",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				106
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 44619319,
+				"id_str": "44619319",
+				"name": "虻🏰C97新刊委託中・次はGWコミケ",
+				"screen_name": "abu0705",
+				"location": "関西にいる",
+				"description": "サークル「傷心軟弱ライン」で同人まんがを描く社畜ですが、よく旅に出ます。 絵：https://t.co/6h7p9W8Kch 旅記：https://t.co/0I2zrX7vLq 質問感想等：https://t.co/eaJgn7aVVx I can tweet Jpn and Eng, read Chn a little.",
+				"url": "https://t.co/k701PyafQR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/k701PyafQR",
+								"expanded_url": "http://abu207.blog43.fc2.com/",
+								"display_url": "abu207.blog43.fc2.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/6h7p9W8Kch",
+								"expanded_url": "http://pixiv.me/abu207",
+								"display_url": "pixiv.me/abu207",
+								"indices": [
+									39,
+									62
+								]
+							},
+							{
+								"url": "https://t.co/0I2zrX7vLq",
+								"expanded_url": "http://goo.gl/HWyDI3",
+								"display_url": "goo.gl/HWyDI3",
+								"indices": [
+									66,
+									89
+								]
+							},
+							{
+								"url": "https://t.co/eaJgn7aVVx",
+								"expanded_url": "http://goo.gl/dqptj6",
+								"display_url": "goo.gl/dqptj6",
+								"indices": [
+									96,
+									119
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 12601,
+				"friends_count": 1793,
+				"listed_count": 550,
+				"created_at": "Thu Jun 04 13:50:58 +0000 2009",
+				"favourites_count": 94214,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 318538,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/818311050915233792/EtyaBp5s_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/818311050915233792/EtyaBp5s_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/44619319/1576242572",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1398,
+			"favorite_count": 2365,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ja"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@GoblinCase 이 트윗, 문맥이 잘 이해 안 되는데 여기서 限界勢이란 게 어떤 무리를 지칭하는 건가요?\nhttps://t.co/ZNIBPUdMst"
+	},
+	{
+		"created_at": "Sat Mar 07 12:26:29 +0000 2020",
+		"id": 1236266973668864000,
+		"id_str": "1236266973668864001",
+		"full_text": "@pranagik @idr_labs 빛과 어둠... 흑흑\nhttps://t.co/X8DH43Du4m",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pranagik",
+					"name": "코코미⭐",
+					"id": 965504304046944300,
+					"id_str": "965504304046944257",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "idr_labs",
+					"name": "IDR Labs",
+					"id": 868831876315848700,
+					"id_str": "868831876315848705",
+					"indices": [
+						10,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/X8DH43Du4m",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1236258036785659905?s=19",
+					"display_url": "twitter.com/EmptyKnK/statu…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1236245765204271000,
+		"in_reply_to_status_id_str": "1236245765204271104",
+		"in_reply_to_user_id": 965504304046944300,
+		"in_reply_to_user_id_str": "965504304046944257",
+		"in_reply_to_screen_name": "pranagik",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 83,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1236258036785660000,
+		"quoted_status_id_str": "1236258036785659905",
+		"quoted_status_permalink": {
+			"url": "https://t.co/X8DH43Du4m",
+			"expanded": "https://twitter.com/EmptyKnK/status/1236258036785659905?s=19",
+			"display": "twitter.com/EmptyKnK/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 07 11:50:59 +0000 2020",
+			"id": 1236258036785660000,
+			"id_str": "1236258036785659905",
+			"full_text": "내가 받은 성격의 어두운 면 점수는 상위 7.11% 평균 사람보다 평균보다 어두운 에 해당합니다. https://t.co/tpMcNdRXhA 출처 @idr_labs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				91
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "idr_labs",
+						"name": "IDR Labs",
+						"id": 868831876315848700,
+						"id_str": "868831876315848705",
+						"indices": [
+							82,
+							91
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/tpMcNdRXhA",
+						"expanded_url": "https://www.idrlabs.com/kr/dark-core-personality/50-60-37-67-67-37-47-77-43/result.php",
+						"display_url": "idrlabs.com/kr/dark-core-p…",
+						"indices": [
+							55,
+							78
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3255599052,
+				"id_str": "3255599052",
+				"name": "Solitude [동결:11/20~]",
+				"screen_name": "EmptyKnK",
+				"location": "",
+				"description": "탄식하라,  덧없이 흩어지고 말리라",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": true,
+				"followers_count": 9,
+				"friends_count": 83,
+				"listed_count": 0,
+				"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+				"favourites_count": 1426,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11466,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@pranagik @idr_labs 빛과 어둠... 흑흑\nhttps://t.co/X8DH43Du4m"
+	},
+	{
 		"created_at": "Sat Mar 07 11:50:59 +0000 2020",
 		"id": 1236258036785660000,
 		"id_str": "1236258036785659905",
