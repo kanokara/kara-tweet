@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 11 23:08:10 +0000 2020",
+		"id": 1237632429361221600,
+		"id_str": "1237878008821633024",
+		"full_text": "넷플릭스가 지브리 작품을 스트리밍 하는 댓가로 2조원을 지불했다는 기사  \nhttps://t.co/GpUv59mWK8 https://t.co/GAOEHMqANv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GpUv59mWK8",
+					"expanded_url": "https://www.tokyo-sports.co.jp/entame/news/1770678/",
+					"display_url": "tokyo-sports.co.jp/entame/news/17…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1237632328014262300,
+					"id_str": "1237632328014262277",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/ESz0C4nUcAUcV5V.png",
+					"media_url_https": "https://pbs.twimg.com/media/ESz0C4nUcAUcV5V.png",
+					"url": "https://t.co/GAOEHMqANv",
+					"display_url": "pic.twitter.com/GAOEHMqANv",
+					"expanded_url": "https://twitter.com/sungchi/status/1237632429361221632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 891,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 891,
+							"h": 670,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237632328014262300,
+					"id_str": "1237632328014262277",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/ESz0C4nUcAUcV5V.png",
+					"media_url_https": "https://pbs.twimg.com/media/ESz0C4nUcAUcV5V.png",
+					"url": "https://t.co/GAOEHMqANv",
+					"display_url": "pic.twitter.com/GAOEHMqANv",
+					"expanded_url": "https://twitter.com/sungchi/status/1237632429361221632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 891,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 891,
+							"h": 670,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1237632405260783600,
+					"id_str": "1237632405260783616",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/ESz0HYYU0AAPM2t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESz0HYYU0AAPM2t.jpg",
+					"url": "https://t.co/GAOEHMqANv",
+					"display_url": "pic.twitter.com/GAOEHMqANv",
+					"expanded_url": "https://twitter.com/sungchi/status/1237632429361221632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 739,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 739,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1237632421945684000,
+					"id_str": "1237632421945683976",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/ESz0IWiUMAgXbpu.png",
+					"media_url_https": "https://pbs.twimg.com/media/ESz0IWiUMAgXbpu.png",
+					"url": "https://t.co/GAOEHMqANv",
+					"display_url": "pic.twitter.com/GAOEHMqANv",
+					"expanded_url": "https://twitter.com/sungchi/status/1237632429361221632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 496,
+							"h": 496,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 496,
+							"h": 496,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 496,
+							"h": 496,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14696334,
+			"id_str": "14696334",
+			"name": "사이버 요정 성치",
+			"screen_name": "sungchi",
+			"location": "seoul",
+			"description": "폭두직딩 성치 (19XX ~ 21XX)",
+			"url": "http://t.co/chVqYOJQ8J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/chVqYOJQ8J",
+							"expanded_url": "http://plan9.kr",
+							"display_url": "plan9.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4153,
+			"friends_count": 793,
+			"listed_count": 144,
+			"created_at": "Thu May 08 04:47:43 +0000 2008",
+			"favourites_count": 39818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/555400002135019520/yVovLP6D_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/555400002135019520/yVovLP6D_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14696334/1348057641",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6689,
+		"favorite_count": 1281,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "넷플릭스가 지브리 작품을 스트리밍 하는 댓가로 2조원을 지불했다는 기사  \nhttps://t.co/GpUv59mWK8 https://t.co/GAOEHMqANv"
+	},
+	{
 		"created_at": "Wed Mar 11 21:55:34 +0000 2020",
 		"id": 1237859736252375000,
 		"id_str": "1237859736252375040",
