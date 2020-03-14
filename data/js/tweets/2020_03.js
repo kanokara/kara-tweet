@@ -1,6 +1,512 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 14 21:03:45 +0000 2020",
+		"id": 1238933862585004000,
+		"id_str": "1238933862585004033",
+		"full_text": "방역에 성공한 그린존 국가와 레드존 국가로 나뉘어 후자는 고립될 것이란 결론부의 예측이 선연하게 다가오네요.\nhttps://t.co/mBCfeEuyq7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mBCfeEuyq7",
+					"expanded_url": "https://twitter.com/shinkai35/status/1238930198562607104?s=19",
+					"display_url": "twitter.com/shinkai35/stat…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 85,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1490,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1238930198562607000,
+		"quoted_status_id_str": "1238930198562607104",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mBCfeEuyq7",
+			"expanded": "https://twitter.com/shinkai35/status/1238930198562607104?s=19",
+			"display": "twitter.com/shinkai35/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 14 20:49:12 +0000 2020",
+			"id": 1238930198562607000,
+			"id_str": "1238930198562607104",
+			"full_text": "読んだ感じ、この記事は正しそうに見える……\nhttps://t.co/bRB8w06TMT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				45
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bRB8w06TMT",
+						"expanded_url": "https://medium.com/@bigstone/only-containment-is-the-option-e689ba0b22ef",
+						"display_url": "medium.com/@bigstone/only…",
+						"indices": [
+							22,
+							45
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 135142222,
+				"id_str": "135142222",
+				"name": "ロードランナー様（山川賢一）",
+				"screen_name": "shinkai35",
+				"location": "あいちちほー",
+				"description": "先生はわたしたちに自分と同じものを憎むよう教えようとしてるんです。先生はあの広告が嫌いなわけでしょう？先生の一言一言からそれがわかりますよ。（『コレクションズ』、ジョナサン・フランゼン）",
+				"url": "https://t.co/LgNOViNWQP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LgNOViNWQP",
+								"expanded_url": "https://note.mu/shinkai35/n/nade2fd8766e9",
+								"display_url": "note.mu/shinkai35/n/na…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5813,
+				"friends_count": 2036,
+				"listed_count": 389,
+				"created_at": "Tue Apr 20 13:08:34 +0000 2010",
+				"favourites_count": 9360,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 109422,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1114923359605645312/RgqImaX2_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114923359605645312/RgqImaX2_normal.png",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방역에 성공한 그린존 국가와 레드존 국가로 나뉘어 후자는 고립될 것이란 결론부의 예측이 선연하게 다가오네요.\nhttps://t.co/mBCfeEuyq7"
+	},
+	{
+		"created_at": "Sat Mar 14 20:59:12 +0000 2020",
+		"id": 1238930198562607000,
+		"id_str": "1238932718152380416",
+		"full_text": "読んだ感じ、この記事は正しそうに見える……\nhttps://t.co/bRB8w06TMT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bRB8w06TMT",
+					"expanded_url": "https://medium.com/@bigstone/only-containment-is-the-option-e689ba0b22ef",
+					"display_url": "medium.com/@bigstone/only…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135142222,
+			"id_str": "135142222",
+			"name": "ロードランナー様（山川賢一）",
+			"screen_name": "shinkai35",
+			"location": "あいちちほー",
+			"description": "先生はわたしたちに自分と同じものを憎むよう教えようとしてるんです。先生はあの広告が嫌いなわけでしょう？先生の一言一言からそれがわかりますよ。（『コレクションズ』、ジョナサン・フランゼン）",
+			"url": "https://t.co/LgNOViNWQP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LgNOViNWQP",
+							"expanded_url": "https://note.mu/shinkai35/n/nade2fd8766e9",
+							"display_url": "note.mu/shinkai35/n/na…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5813,
+			"friends_count": 2036,
+			"listed_count": 389,
+			"created_at": "Tue Apr 20 13:08:34 +0000 2010",
+			"favourites_count": 9360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 109422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114923359605645312/RgqImaX2_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114923359605645312/RgqImaX2_normal.png",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "読んだ感じ、この記事は正しそうに見える……\nhttps://t.co/bRB8w06TMT"
+	},
+	{
+		"created_at": "Sat Mar 14 20:21:01 +0000 2020",
+		"id": 1230117759419175000,
+		"id_str": "1238923106615320576",
+		"full_text": "rt) 내가 육십 평생을 헛살았구나. 양말은 뒤집어 빨고 유리컵은 세워서 말리는 게 맞는 방법이었다니...! https://t.co/l6ZvBngAE7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1230117743006863400,
+					"id_str": "1230117743006863360",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/ERJBkd_UUAAelY4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERJBkd_UUAAelY4.jpg",
+					"url": "https://t.co/l6ZvBngAE7",
+					"display_url": "pic.twitter.com/l6ZvBngAE7",
+					"expanded_url": "https://twitter.com/gooboori/status/1230117759419174912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1072,
+							"h": 802,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1072,
+							"h": 802,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230117743006863400,
+					"id_str": "1230117743006863360",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/ERJBkd_UUAAelY4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERJBkd_UUAAelY4.jpg",
+					"url": "https://t.co/l6ZvBngAE7",
+					"display_url": "pic.twitter.com/l6ZvBngAE7",
+					"expanded_url": "https://twitter.com/gooboori/status/1230117759419174912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1072,
+							"h": 802,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1072,
+							"h": 802,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1230117751328366600,
+					"id_str": "1230117751328366597",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/ERJBk8_UYAUpa4a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERJBk8_UYAUpa4a.jpg",
+					"url": "https://t.co/l6ZvBngAE7",
+					"display_url": "pic.twitter.com/l6ZvBngAE7",
+					"expanded_url": "https://twitter.com/gooboori/status/1230117759419174912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 604,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1076,
+							"h": 955,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1076,
+							"h": 955,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743335761643077600,
+			"id_str": "743335761643077638",
+			"name": "구불출",
+			"screen_name": "gooboori",
+			"location": "",
+			"description": "'명성'을 써야할 자리에 '유명세' 쓰지않기 범국민 운동본부장. 유명세의 세는 세금의 세입니다. 유명세는 치르는 것이지 타는 것이 아닙니다. 제발, 좀!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 352,
+			"friends_count": 204,
+			"listed_count": 3,
+			"created_at": "Thu Jun 16 06:53:50 +0000 2016",
+			"favourites_count": 6841,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139399766108823554/Kjt9_kqT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139399766108823554/Kjt9_kqT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743335761643077638/1556948039",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10495,
+		"favorite_count": 3122,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "rt) 내가 육십 평생을 헛살았구나. 양말은 뒤집어 빨고 유리컵은 세워서 말리는 게 맞는 방법이었다니...! https://t.co/l6ZvBngAE7"
+	},
+	{
 		"created_at": "Sat Mar 14 20:07:35 +0000 2020",
 		"id": 1238919724685123600,
 		"id_str": "1238919724685123589",
