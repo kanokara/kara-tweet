@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 18 04:10:51 +0000 2020",
+		"id": 1239978925171736600,
+		"id_str": "1240128509638512642",
+		"full_text": "나는 일관적올 일본이 지금 하고 있는 행위들이 '거대한 국가 제사'라고 말해왔는데\n쇼와(昭和)에서 레이와(令和)로\n64년 도쿄 올림픽에서 2020년 도쿄 올림픽으로\n70년 오사카 만박에서 2025년 오사카 만박으로\n\n이 모든게 '일본이 가장 잘나가던 시절'을 재현하는데 집착하고 있기 때문임... https://t.co/x7Wa7lXgc5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x7Wa7lXgc5",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/1239891238905470976",
+					"display_url": "twitter.com/Dangerplanet/s…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150878657,
+			"id_str": "150878657",
+			"name": "마이너스의 손",
+			"screen_name": "Dangerplanet",
+			"location": "",
+			"description": "등급외 제품입니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2101,
+			"friends_count": 1660,
+			"listed_count": 44,
+			"created_at": "Wed Jun 02 01:56:18 +0000 2010",
+			"favourites_count": 85307,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 231958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1239891238905471000,
+		"quoted_status_id_str": "1239891238905470976",
+		"quoted_status_permalink": {
+			"url": "https://t.co/x7Wa7lXgc5",
+			"expanded": "https://twitter.com/Dangerplanet/status/1239891238905470976",
+			"display": "twitter.com/Dangerplanet/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 17 12:28:02 +0000 2020",
+			"id": 1239891238905471000,
+			"id_str": "1239891238905470976",
+			"full_text": "64년 도쿄올림픽 성화대 반출 | 2020/3/17 - 교도통신 https://t.co/nTZ0dZR76g\n\n거봐 국가제사가 맞다니까.ㅋ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				76
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nTZ0dZR76g",
+						"expanded_url": "https://this.kiji.is/612428907218175073",
+						"display_url": "this.kiji.is/61242890721817…",
+						"indices": [
+							36,
+							59
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 150878657,
+				"id_str": "150878657",
+				"name": "마이너스의 손",
+				"screen_name": "Dangerplanet",
+				"location": "",
+				"description": "등급외 제품입니다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2101,
+				"friends_count": 1660,
+				"listed_count": 44,
+				"created_at": "Wed Jun 02 01:56:18 +0000 2010",
+				"favourites_count": 85307,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 231958,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 66,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 739,
+		"favorite_count": 187,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나는 일관적올 일본이 지금 하고 있는 행위들이 '거대한 국가 제사'라고 말해왔는데\n쇼와(昭和)에서 레이와(令和)로\n64년 도쿄 올림픽에서 2020년 도쿄 올림픽으로\n70년 오사카 만박에서 2025년 오사카 만박으로\n\n이 모든게 '일본이 가장 잘나가던 시절'을 재현하는데 집착하고 있기 때문임... https://t.co/x7Wa7lXgc5"
+	},
+	{
 		"created_at": "Tue Mar 17 23:24:13 +0000 2020",
 		"id": 1240056374458892300,
 		"id_str": "1240056374458892288",
