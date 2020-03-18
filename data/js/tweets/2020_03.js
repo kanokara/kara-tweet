@@ -1,6 +1,640 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 18 04:15:20 +0000 2020",
+		"id": 1239459258342584300,
+		"id_str": "1240129635112845314",
+		"full_text": "누가 정리하셨는지 한눈에 쏘옥 들어오네. https://t.co/dgkjya1uYI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1239459250847371300,
+					"id_str": "1239459250847371264",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/ETNxnyhUUAALuC_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETNxnyhUUAALuC_.jpg",
+					"url": "https://t.co/dgkjya1uYI",
+					"display_url": "pic.twitter.com/dgkjya1uYI",
+					"expanded_url": "https://twitter.com/dreamer151231/status/1239459258342584320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 650,
+							"h": 840,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 840,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 526,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239459250847371300,
+					"id_str": "1239459250847371264",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/ETNxnyhUUAALuC_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETNxnyhUUAALuC_.jpg",
+					"url": "https://t.co/dgkjya1uYI",
+					"display_url": "pic.twitter.com/dgkjya1uYI",
+					"expanded_url": "https://twitter.com/dreamer151231/status/1239459258342584320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 650,
+							"h": 840,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 650,
+							"h": 840,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 526,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 67225259,
+			"id_str": "67225259",
+			"name": "초아",
+			"screen_name": "dreamer151231",
+			"location": "",
+			"description": "social liberalist 지향, 羞惡之心 捨生取義 易地思之 求同存異.국가는 정의롭게 시민은 자유롭게.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3216,
+			"friends_count": 2175,
+			"listed_count": 82,
+			"created_at": "Thu Aug 20 04:16:35 +0000 2009",
+			"favourites_count": 1360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/873904819492212737/8WNpqhCk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/873904819492212737/8WNpqhCk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/67225259/1485941253",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9319,
+		"favorite_count": 2807,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "누가 정리하셨는지 한눈에 쏘옥 들어오네. https://t.co/dgkjya1uYI"
+	},
+	{
+		"created_at": "Wed Mar 18 04:12:16 +0000 2020",
+		"id": 1239983889398919200,
+		"id_str": "1240128863088316416",
+		"full_text": "과거를 추억할 수는 있지만 우리는 현재를 살고 앞으로 나아가야 한다고 말했었는데,어른제국의 역습으로부터 20여년이 지난 일본은 자신들이 멋지게 마무리지은 과거와의 결별을 하지 못하고 현실에서 어른제국의 역습을 하고 있다..\n\n그때 했던 이벤트를 다시 하더라도 시간은 다시 돌아가지 않아..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1239983362405576700,
+		"in_reply_to_status_id_str": "1239983362405576706",
+		"in_reply_to_user_id": 150878657,
+		"in_reply_to_user_id_str": "150878657",
+		"in_reply_to_screen_name": "Dangerplanet",
+		"user": {
+			"id": 150878657,
+			"id_str": "150878657",
+			"name": "마이너스의 손",
+			"screen_name": "Dangerplanet",
+			"location": "",
+			"description": "등급외 제품입니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2102,
+			"friends_count": 1660,
+			"listed_count": 44,
+			"created_at": "Wed Jun 02 01:56:18 +0000 2010",
+			"favourites_count": 85310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 231966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 274,
+		"favorite_count": 77,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "과거를 추억할 수는 있지만 우리는 현재를 살고 앞으로 나아가야 한다고 말했었는데,어른제국의 역습으로부터 20여년이 지난 일본은 자신들이 멋지게 마무리지은 과거와의 결별을 하지 못하고 현실에서 어른제국의 역습을 하고 있다..\n\n그때 했던 이벤트를 다시 하더라도 시간은 다시 돌아가지 않아.."
+	},
+	{
+		"created_at": "Wed Mar 18 04:12:10 +0000 2020",
+		"id": 1239983362405576700,
+		"id_str": "1240128838019035138",
+		"full_text": "일본이 왜그리 이렇게 국가적 스케일로 이런 재현사업을 하는지는 모르겠지만,도쿄 올림픽과 만박은 사실 일본인들의 뇌리에 각인된 이벤트로,각종 문화 매체와 미디어에서 '좋았던 시절'을 상징하는 부분들이다.\n\n하지만..\n이미 '짱구는 못말려 어른제국의 역습'에서 본인 자신들이 언급했듯이, https://t.co/GDr4xdvGsH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1239982893616652300,
+					"id_str": "1239982893616652288",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/ETVN3z2U4AAYaJz.png",
+					"media_url_https": "https://pbs.twimg.com/media/ETVN3z2U4AAYaJz.png",
+					"url": "https://t.co/GDr4xdvGsH",
+					"display_url": "pic.twitter.com/GDr4xdvGsH",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/1239983362405576706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 516,
+							"h": 727,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 516,
+							"h": 727,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239982893616652300,
+					"id_str": "1239982893616652288",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/ETVN3z2U4AAYaJz.png",
+					"media_url_https": "https://pbs.twimg.com/media/ETVN3z2U4AAYaJz.png",
+					"url": "https://t.co/GDr4xdvGsH",
+					"display_url": "pic.twitter.com/GDr4xdvGsH",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/1239983362405576706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 516,
+							"h": 727,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 516,
+							"h": 727,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1239982940131479600,
+					"id_str": "1239982940131479552",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/ETVN6hIU0AAX5tC.png",
+					"media_url_https": "https://pbs.twimg.com/media/ETVN6hIU0AAX5tC.png",
+					"url": "https://t.co/GDr4xdvGsH",
+					"display_url": "pic.twitter.com/GDr4xdvGsH",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/1239983362405576706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 588,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 588,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 588,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1239983015809257500,
+					"id_str": "1239983015809257472",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/ETVN-7DUEAAARpj.png",
+					"media_url_https": "https://pbs.twimg.com/media/ETVN-7DUEAAARpj.png",
+					"url": "https://t.co/GDr4xdvGsH",
+					"display_url": "pic.twitter.com/GDr4xdvGsH",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/1239983362405576706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 512,
+							"h": 351,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 351,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 512,
+							"h": 351,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1239980065934340000,
+		"in_reply_to_status_id_str": "1239980065934340096",
+		"in_reply_to_user_id": 150878657,
+		"in_reply_to_user_id_str": "150878657",
+		"in_reply_to_screen_name": "Dangerplanet",
+		"user": {
+			"id": 150878657,
+			"id_str": "150878657",
+			"name": "마이너스의 손",
+			"screen_name": "Dangerplanet",
+			"location": "",
+			"description": "등급외 제품입니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2102,
+			"friends_count": 1660,
+			"listed_count": 44,
+			"created_at": "Wed Jun 02 01:56:18 +0000 2010",
+			"favourites_count": 85310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 231966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 287,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일본이 왜그리 이렇게 국가적 스케일로 이런 재현사업을 하는지는 모르겠지만,도쿄 올림픽과 만박은 사실 일본인들의 뇌리에 각인된 이벤트로,각종 문화 매체와 미디어에서 '좋았던 시절'을 상징하는 부분들이다.\n\n하지만..\n이미 '짱구는 못말려 어른제국의 역습'에서 본인 자신들이 언급했듯이, https://t.co/GDr4xdvGsH"
+	},
+	{
+		"created_at": "Wed Mar 18 04:11:06 +0000 2020",
+		"id": 1239980065934340000,
+		"id_str": "1240128569587765248",
+		"full_text": "사실 만국박람회는 인기가 많이 떨어져 2025만국박람회 개최경쟁대상을 보면 개도국들도 잘 안하려 하는데 '굳이' '이 시점에서'일본이 그걸 가져온 것임.그것도 원래 개최를 했던 '오사카'에... https://t.co/ISqnWWqkgS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1239980058082562000,
+					"id_str": "1239980058082562048",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/ETVLSwqUUAAllE4.png",
+					"media_url_https": "https://pbs.twimg.com/media/ETVLSwqUUAAllE4.png",
+					"url": "https://t.co/ISqnWWqkgS",
+					"display_url": "pic.twitter.com/ISqnWWqkgS",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/1239980065934340096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 811,
+							"h": 136,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 136,
+							"h": 136,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 114,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 811,
+							"h": 136,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239980058082562000,
+					"id_str": "1239980058082562048",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/ETVLSwqUUAAllE4.png",
+					"media_url_https": "https://pbs.twimg.com/media/ETVLSwqUUAAllE4.png",
+					"url": "https://t.co/ISqnWWqkgS",
+					"display_url": "pic.twitter.com/ISqnWWqkgS",
+					"expanded_url": "https://twitter.com/Dangerplanet/status/1239980065934340096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 811,
+							"h": 136,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 136,
+							"h": 136,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 114,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 811,
+							"h": 136,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1239979530388770800,
+		"in_reply_to_status_id_str": "1239979530388770816",
+		"in_reply_to_user_id": 150878657,
+		"in_reply_to_user_id_str": "150878657",
+		"in_reply_to_screen_name": "Dangerplanet",
+		"user": {
+			"id": 150878657,
+			"id_str": "150878657",
+			"name": "마이너스의 손",
+			"screen_name": "Dangerplanet",
+			"location": "",
+			"description": "등급외 제품입니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2102,
+			"friends_count": 1660,
+			"listed_count": 44,
+			"created_at": "Wed Jun 02 01:56:18 +0000 2010",
+			"favourites_count": 85310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 231966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 126,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사실 만국박람회는 인기가 많이 떨어져 2025만국박람회 개최경쟁대상을 보면 개도국들도 잘 안하려 하는데 '굳이' '이 시점에서'일본이 그걸 가져온 것임.그것도 원래 개최를 했던 '오사카'에... https://t.co/ISqnWWqkgS"
+	},
+	{
 		"created_at": "Wed Mar 18 04:10:51 +0000 2020",
 		"id": 1239978925171736600,
 		"id_str": "1240128509638512642",
