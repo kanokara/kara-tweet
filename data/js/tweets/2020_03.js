@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 20 09:08:05 +0000 2020",
+		"id": 1240834310342455300,
+		"id_str": "1240928083911118849",
+		"full_text": "“....어린이도 사회생활을 하고 있으며, 품위를 지키고 싶어한다는 것이다. 100여 년이 지난 지금도 마찬가지다. 한 사람으로서, 어린이도 체면이 있고 그것을 손상하지 않으려고 노력한다.”\n\n김소영 선생님 글 너무 좋다. 자세를 고쳐 앉게 된다. \n\nhttps://t.co/R7i6oFRi5j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R7i6oFRi5j",
+					"expanded_url": "https://m.blog.naver.com/PostView.nhn?blogId=sohosays&logNo=221828800682&navType=tl",
+					"display_url": "m.blog.naver.com/PostView.nhn?b…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 86087341,
+			"id_str": "86087341",
+			"name": "hyojin",
+			"screen_name": "yours_",
+			"location": "",
+			"description": "빌라선샤인(@villasunshinekr)과 헤이메이트(@heymatemag)에서 일합니다. [아무튼, 잡지]를 썼고 팟캐스트 [시스터후드]를 만들어요. hwanghyo.zine@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2979,
+			"friends_count": 780,
+			"listed_count": 44,
+			"created_at": "Thu Oct 29 15:05:16 +0000 2009",
+			"favourites_count": 3032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14317,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048435350454988800/xucdOn6o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048435350454988800/xucdOn6o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/86087341/1550365622",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2319,
+		"favorite_count": 1734,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“....어린이도 사회생활을 하고 있으며, 품위를 지키고 싶어한다는 것이다. 100여 년이 지난 지금도 마찬가지다. 한 사람으로서, 어린이도 체면이 있고 그것을 손상하지 않으려고 노력한다.”\n\n김소영 선생님 글 너무 좋다. 자세를 고쳐 앉게 된다. \n\nhttps://t.co/R7i6oFRi5j"
+	},
+	{
 		"created_at": "Fri Mar 20 07:39:09 +0000 2020",
 		"id": 1061610548901498900,
 		"id_str": "1240905703297957888",
