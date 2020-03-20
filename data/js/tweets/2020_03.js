@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 20 07:39:09 +0000 2020",
+		"id": 1061610548901498900,
+		"id_str": "1240905703297957888",
+		"full_text": "세계3대작가 예수 조앤롤링 나스키노코(매출액순)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 122990721,
+			"id_str": "122990721",
+			"name": "타입문교인",
+			"screen_name": "Typemoonian",
+			"location": "섀도 보더",
+			"description": "나의 신은 타입문에 있나니",
+			"url": "https://t.co/M1u5jSUgkc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1u5jSUgkc",
+							"expanded_url": "https://shau-notebook.postype.com/",
+							"display_url": "shau-notebook.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 926,
+			"friends_count": 434,
+			"listed_count": 23,
+			"created_at": "Sun Mar 14 16:06:40 +0000 2010",
+			"favourites_count": 591,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 280308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228683610468700161/pZiHGBDz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228683610468700161/pZiHGBDz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/122990721/1581775843",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "세계3대작가 예수 조앤롤링 나스키노코(매출액순)"
+	},
+	{
+		"created_at": "Fri Mar 20 07:39:01 +0000 2020",
+		"id": 1171455960524542000,
+		"id_str": "1240905670452334592",
+		"full_text": "하지만 전독시가 대단한 소설인가 아닌가를 따지는건 어렵지않다 나스키노코의 페그오는 전세계 모바일게임 1위매출을 달성했고 전세계 최고의 이야기가 되었다 마찬가지로 문피아 1위를 달성한 전독시는 문피아에서 최고일 것이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1171453151200694300,
+		"in_reply_to_status_id_str": "1171453151200694277",
+		"in_reply_to_user_id": 122990721,
+		"in_reply_to_user_id_str": "122990721",
+		"in_reply_to_screen_name": "Typemoonian",
+		"user": {
+			"id": 122990721,
+			"id_str": "122990721",
+			"name": "타입문교인",
+			"screen_name": "Typemoonian",
+			"location": "섀도 보더",
+			"description": "나의 신은 타입문에 있나니",
+			"url": "https://t.co/M1u5jSUgkc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1u5jSUgkc",
+							"expanded_url": "https://shau-notebook.postype.com/",
+							"display_url": "shau-notebook.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 926,
+			"friends_count": 434,
+			"listed_count": 23,
+			"created_at": "Sun Mar 14 16:06:40 +0000 2010",
+			"favourites_count": 591,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 280308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228683610468700161/pZiHGBDz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228683610468700161/pZiHGBDz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/122990721/1581775843",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "하지만 전독시가 대단한 소설인가 아닌가를 따지는건 어렵지않다 나스키노코의 페그오는 전세계 모바일게임 1위매출을 달성했고 전세계 최고의 이야기가 되었다 마찬가지로 문피아 1위를 달성한 전독시는 문피아에서 최고일 것이다."
+	},
+	{
+		"created_at": "Fri Mar 20 07:38:59 +0000 2020",
+		"id": 1163432725052657700,
+		"id_str": "1240905662202142720",
+		"full_text": "나스 키노코는 오늘날 세계에서 가장 위대한 작가이며 이는 전세계 매출이 증명한다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1966878187,
+			"id_str": "1966878187",
+			"name": "트퀄",
+			"screen_name": "_TrueQuality",
+			"location": "",
+			"description": "마밤 2부 나왔니? 아니.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 388,
+			"friends_count": 339,
+			"listed_count": 5,
+			"created_at": "Thu Oct 17 13:30:51 +0000 2013",
+			"favourites_count": 2361,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77148,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224502435323895808/BJgIn4sS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224502435323895808/BJgIn4sS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1966878187/1546278044",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "나스 키노코는 오늘날 세계에서 가장 위대한 작가이며 이는 전세계 매출이 증명한다"
+	},
+	{
 		"created_at": "Fri Mar 20 07:08:26 +0000 2020",
 		"id": 1240897975817134000,
 		"id_str": "1240897975817134081",
