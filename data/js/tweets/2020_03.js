@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 25 07:05:39 +0000 2020",
+		"id": 1242701005931737000,
+		"id_str": "1242709215187103745",
+		"full_text": "마치 방송국 없이도 개인 유튜버가 득세하듯 혼자서도 수십억의 자금을 끌어들이는 조직 범죄를 창조할 수 있는.... 그런 신세대의.... 악의 평범성이고 뭐고 이 시대엔 다 사치스러운 소리가 되어 버렸고 법은 최대한 빨리 이 현실을 따라잡아야만 한다. ㅠㅠㅠㅠㅠㅠ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1242701004635648000,
+		"in_reply_to_status_id_str": "1242701004635648000",
+		"in_reply_to_user_id": 284279793,
+		"in_reply_to_user_id_str": "284279793",
+		"in_reply_to_screen_name": "yoan_nanna",
+		"user": {
+			"id": 284279793,
+			"id_str": "284279793",
+			"name": "Nanna",
+			"screen_name": "yoan_nanna",
+			"location": "",
+			"description": "여유있게 살자.",
+			"url": "https://t.co/LMdC8E8XvZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LMdC8E8XvZ",
+							"expanded_url": "https://twitter.com/nanna_goodies",
+							"display_url": "twitter.com/nanna_goodies",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 861,
+			"friends_count": 292,
+			"listed_count": 19,
+			"created_at": "Tue Apr 19 00:29:43 +0000 2011",
+			"favourites_count": 3889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1147316949673598976/11Qz7qYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1147316949673598976/11Qz7qYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/284279793/1562749852",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "마치 방송국 없이도 개인 유튜버가 득세하듯 혼자서도 수십억의 자금을 끌어들이는 조직 범죄를 창조할 수 있는.... 그런 신세대의.... 악의 평범성이고 뭐고 이 시대엔 다 사치스러운 소리가 되어 버렸고 법은 최대한 빨리 이 현실을 따라잡아야만 한다. ㅠㅠㅠㅠㅠㅠ"
+	},
+	{
 		"created_at": "Tue Mar 24 13:33:31 +0000 2020",
 		"id": 1242444435499053000,
 		"id_str": "1242444435499053057",
