@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 25 09:40:01 +0000 2020",
+		"id": 1242748059143901200,
+		"id_str": "1242748059143901184",
+		"full_text": "조영일 씨 이건 좀 아니지 않나요... 다른 분야도 아니고 비평 장르에서 비구매자는 인용을 금지한다는 자가당착이 어디 있어요. 존립 근거 자체를 허무는 일인데.\nhttps://t.co/UeY5sGzycp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UeY5sGzycp",
+					"expanded_url": "https://twitter.com/esthlos/status/1242734846176182273",
+					"display_url": "twitter.com/esthlos/status…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 86,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1572,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1242734846176182300,
+		"quoted_status_id_str": "1242734846176182273",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UeY5sGzycp",
+			"expanded": "https://twitter.com/esthlos/status/1242734846176182273",
+			"display": "twitter.com/esthlos/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 25 08:47:30 +0000 2020",
+			"id": 1242734846176182300,
+			"id_str": "1242734846176182273",
+			"full_text": "4월 &lt;비평구독&gt; 회원을 모집합니다. 자세한 내용은 다음을 참조하세요. https://t.co/8bUKWLzl9Q",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				69
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8bUKWLzl9Q",
+						"expanded_url": "http://sozo.tistory.com/282",
+						"display_url": "sozo.tistory.com/282",
+						"indices": [
+							46,
+							69
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 129538757,
+				"id_str": "129538757",
+				"name": "비평구독",
+				"screen_name": "esthlos",
+				"location": "대한민국",
+				"description": "메일링 비평구독(후원제) - 여러분의 이메일로 다양한 형식의 글을 배송해 드립니다. 자세한 내용은 바로 아래의 웹주소를 참조하세요. 📖 🤔 💻 📨 ➡ 📫 📩 📱😁",
+				"url": "https://t.co/aHiCwFqfVc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aHiCwFqfVc",
+								"expanded_url": "https://sozo.tistory.com",
+								"display_url": "sozo.tistory.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2443,
+				"friends_count": 51,
+				"listed_count": 121,
+				"created_at": "Sun Apr 04 16:42:25 +0000 2010",
+				"favourites_count": 1672,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7623,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1242385685287337986/l3WDf27H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242385685287337986/l3WDf27H_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/129538757/1585042641",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "조영일 씨 이건 좀 아니지 않나요... 다른 분야도 아니고 비평 장르에서 비구매자는 인용을 금지한다는 자가당착이 어디 있어요. 존립 근거 자체를 허무는 일인데.\nhttps://t.co/UeY5sGzycp"
+	},
+	{
+		"created_at": "Wed Mar 25 09:30:01 +0000 2020",
+		"id": 1242265086497972200,
+		"id_str": "1242745542762848256",
+		"full_text": "초기 디씨의 프렌차이즈가 '누가 더 병신인가'였다. 그때는 더 병신이라고 해봤자 욕좀 걸게하고 기행을 벌이는 정도였다. 하지만 포스트 일베 이후의 프렌차이즈는 '그래도 내 뒤에 더 쓰레기가 있으니까 난 병신이 아니다'가 되었다. 그들은 그냥 나쁜놈인 자기보다 위선자가 더 나쁘다고 생각한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1242263094719475700,
+		"in_reply_to_status_id_str": "1242263094719475713",
+		"in_reply_to_user_id": 1627227828,
+		"in_reply_to_user_id_str": "1627227828",
+		"in_reply_to_screen_name": "N91211",
+		"user": {
+			"id": 1627227828,
+			"id_str": "1627227828",
+			"name": "위래",
+			"screen_name": "N91211",
+			"location": "n91211.postype.com",
+			"description": "단편: 미궁에는 괴물이(네이버캐스트), 동전 마법(온우주 소식지), 성간행성(크로스로드 SCI-FI), 우리(\"곧 죽어도 등교\" 단편집), 그 외 이하 브릿G 작가 페이지 / 장편: 마왕이 너무 많다(전 11권, 문피아 등) / 링크는 메인 트윗",
+			"url": "https://t.co/OfoZqj1u83",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OfoZqj1u83",
+							"expanded_url": "https://britg.kr/user/wirae",
+							"display_url": "britg.kr/user/wirae",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1559,
+			"friends_count": 703,
+			"listed_count": 28,
+			"created_at": "Sun Jul 28 06:48:52 +0000 2013",
+			"favourites_count": 123544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 124459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/442418193559064576/DHEUycKh_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1627227828/1547107030",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 219,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "초기 디씨의 프렌차이즈가 '누가 더 병신인가'였다. 그때는 더 병신이라고 해봤자 욕좀 걸게하고 기행을 벌이는 정도였다. 하지만 포스트 일베 이후의 프렌차이즈는 '그래도 내 뒤에 더 쓰레기가 있으니까 난 병신이 아니다'가 되었다. 그들은 그냥 나쁜놈인 자기보다 위선자가 더 나쁘다고 생각한다."
+	},
+	{
 		"created_at": "Wed Mar 25 07:05:39 +0000 2020",
 		"id": 1242701005931737000,
 		"id_str": "1242709215187103745",
