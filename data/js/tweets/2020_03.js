@@ -1,6 +1,694 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 28 20:57:48 +0000 2020",
+		"id": 1243803951704637400,
+		"id_str": "1244005792669298691",
+		"full_text": "하루 하루 시간만 보내다가 어느순간 되어버리는게 어른이라지만, 적어도 어른이 되었다는 것은 원하든 원하지 않든 상관없이 책임이라는게 주어지는걸 알면 좋겠는데 말이다. https://t.co/xKfvadxKBt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1243803922193477600,
+					"id_str": "1243803922193477632",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EULhE8iUcAAw0OM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EULhE8iUcAAw0OM.jpg",
+					"url": "https://t.co/xKfvadxKBt",
+					"display_url": "pic.twitter.com/xKfvadxKBt",
+					"expanded_url": "https://twitter.com/letelumiere/status/1243803951704637443/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1247,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 731,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 414,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243803922193477600,
+					"id_str": "1243803922193477632",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EULhE8iUcAAw0OM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EULhE8iUcAAw0OM.jpg",
+					"url": "https://t.co/xKfvadxKBt",
+					"display_url": "pic.twitter.com/xKfvadxKBt",
+					"expanded_url": "https://twitter.com/letelumiere/status/1243803951704637443/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1247,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 731,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 414,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1243803939012636700,
+					"id_str": "1243803939012636673",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EULhF7MUcAEEdBh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EULhF7MUcAEEdBh.jpg",
+					"url": "https://t.co/xKfvadxKBt",
+					"display_url": "pic.twitter.com/xKfvadxKBt",
+					"expanded_url": "https://twitter.com/letelumiere/status/1243803951704637443/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1408,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 467,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 825,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2459809148,
+			"id_str": "2459809148",
+			"name": "🇭🇰여름빛새🏳️‍🌈",
+			"screen_name": "letelumiere",
+			"location": "",
+			"description": "가끔 글 쓰는 사람. 연애 중인 게이머. 시네필. 안티파.🏳️‍🌈 브런치와 네이버 블로그에 가끔 영화관련 글 쓰고 있습니다.",
+			"url": "https://t.co/c2JTBRqlkI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c2JTBRqlkI",
+							"expanded_url": "http://brunch.co.kr/@letelumiere",
+							"display_url": "brunch.co.kr/@letelumiere",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 438,
+			"friends_count": 365,
+			"listed_count": 8,
+			"created_at": "Wed Apr 23 14:24:41 +0000 2014",
+			"favourites_count": 3928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087894869991841792/v-1qzF_H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087894869991841792/v-1qzF_H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2459809148/1552830736",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1673,
+		"favorite_count": 245,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "하루 하루 시간만 보내다가 어느순간 되어버리는게 어른이라지만, 적어도 어른이 되었다는 것은 원하든 원하지 않든 상관없이 책임이라는게 주어지는걸 알면 좋겠는데 말이다. https://t.co/xKfvadxKBt"
+	},
+	{
+		"created_at": "Sat Mar 28 20:49:00 +0000 2020",
+		"id": 1244003579192414200,
+		"id_str": "1244003579192414209",
+		"full_text": "\"&lt;인간&gt;은 항상 가해자 속에서만 태어난다. 피해자의 속에서는 태어나지 않는다. 인간이 자기를 최종적으로 가해자로써 승인하는 장소는, 인간이 자기를 인간으로써, 하나의 위기로써 인식하게 되는 장소이다.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1244003166825242600,
+		"in_reply_to_status_id_str": "1244003166825242624",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 85,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1597,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11558,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "\"&lt;인간&gt;은 항상 가해자 속에서만 태어난다. 피해자의 속에서는 태어나지 않는다. 인간이 자기를 최종적으로 가해자로써 승인하는 장소는, 인간이 자기를 인간으로써, 하나의 위기로써 인식하게 되는 장소이다.\""
+	},
+	{
+		"created_at": "Sat Mar 28 20:47:22 +0000 2020",
+		"id": 1244003166825242600,
+		"id_str": "1244003166825242624",
+		"full_text": "\"아마도 가해와 피해가 대치하는 장소에서는, 피해자는 ＜집단으로써 존재＞일 수밖에 없다. 피해에 있어서 마침내 자립하는 것이 불가능한 자들의 연대. 연대에 있어서 피해를 평균화하고자 하는 충동. 피해의 이름으로 이루어지는 가해적 발상.\"\nhttps://t.co/ljKDKoD1nJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ljKDKoD1nJ",
+					"expanded_url": "https://medium.com/@daviddog/%EB%B2%88%EC%97%AD-%EC%9D%B4%EC%8B%9C%ED%95%98%EB%9D%BC-%EA%B3%A0%EB%A1%9C-%EB%B9%84%EA%B4%80%EC%A3%BC%EC%9D%98%EC%9E%90%EC%9D%98-%EC%9A%A9%EA%B8%B0%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-b57ded492c94",
+					"display_url": "medium.com/@daviddog/%EB%…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1243995695809364000,
+		"in_reply_to_status_id_str": "1243995695809363968",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 85,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1597,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11558,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"아마도 가해와 피해가 대치하는 장소에서는, 피해자는 ＜집단으로써 존재＞일 수밖에 없다. 피해에 있어서 마침내 자립하는 것이 불가능한 자들의 연대. 연대에 있어서 피해를 평균화하고자 하는 충동. 피해의 이름으로 이루어지는 가해적 발상.\"\nhttps://t.co/ljKDKoD1nJ"
+	},
+	{
+		"created_at": "Sat Mar 28 20:45:50 +0000 2020",
+		"id": 1244002784115970000,
+		"id_str": "1244002784115970048",
+		"full_text": "@GoblinCase 그간 여유가 없어서 제목만 읽고서 넘겼었는데 정말 좋은 글이네요...!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoblinCase",
+					"name": "魍魉之匣",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1244001318261248000,
+		"in_reply_to_status_id_str": "1244001318261248003",
+		"in_reply_to_user_id": 1047103952297254900,
+		"in_reply_to_user_id_str": "1047103952297254912",
+		"in_reply_to_screen_name": "GoblinCase",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 85,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1597,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11558,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@GoblinCase 그간 여유가 없어서 제목만 읽고서 넘겼었는데 정말 좋은 글이네요...!"
+	},
+	{
+		"created_at": "Sat Mar 28 20:33:20 +0000 2020",
+		"id": 1241787668758810600,
+		"id_str": "1243999635980423168",
+		"full_text": "요즘 n번방 사건을 보며 데일리 프랑스의 '남의 일'화가 생각난다.\n주인공은 프랑스에서 자신의 말을 듣지도, 믿어주지도 않는 사람들에게 화가 나서 말하지만 남자친구는 웃으며 설렁설렁 넘어간다. 남의 일이라고 생각했던 것이다. \n남자들이 여자들이 예민하다고 하는 것은 '남의 일'이기 때문이다. https://t.co/wHbQo7eU28",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1241786654970396700,
+					"id_str": "1241786654970396673",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/ETu2YihUwAEMPEx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETu2YihUwAEMPEx.jpg",
+					"url": "https://t.co/wHbQo7eU28",
+					"display_url": "pic.twitter.com/wHbQo7eU28",
+					"expanded_url": "https://twitter.com/Limkrin/status/1241787668758810625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 905,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1432,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 513,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241786654970396700,
+					"id_str": "1241786654970396673",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/ETu2YihUwAEMPEx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETu2YihUwAEMPEx.jpg",
+					"url": "https://t.co/wHbQo7eU28",
+					"display_url": "pic.twitter.com/wHbQo7eU28",
+					"expanded_url": "https://twitter.com/Limkrin/status/1241787668758810625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 905,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1432,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 513,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1241786676571041800,
+					"id_str": "1241786676571041793",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/ETu2Zy_UcAEHXMU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETu2Zy_UcAEHXMU.jpg",
+					"url": "https://t.co/wHbQo7eU28",
+					"display_url": "pic.twitter.com/wHbQo7eU28",
+					"expanded_url": "https://twitter.com/Limkrin/status/1241787668758810625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1435,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 903,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1241330910714187800,
+			"id_str": "1241330910714187778",
+			"name": "𝑳𝒊𝒎𝒊𝒏",
+			"screen_name": "Limkrin",
+			"location": "IDK",
+			"description": "해연 떡밥 갈망 중 / 이별은 블락 부탁드려요 / 성인",
+			"url": "https://t.co/hhSXxGbGRc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hhSXxGbGRc",
+							"expanded_url": "https://asked.kr/age5225",
+							"display_url": "asked.kr/age5225",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 115,
+			"friends_count": 115,
+			"listed_count": 0,
+			"created_at": "Sat Mar 21 11:48:53 +0000 2020",
+			"favourites_count": 655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241450914113703936/co3uSMbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241450914113703936/co3uSMbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1241330910714187778/1584988278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 123,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "요즘 n번방 사건을 보며 데일리 프랑스의 '남의 일'화가 생각난다.\n주인공은 프랑스에서 자신의 말을 듣지도, 믿어주지도 않는 사람들에게 화가 나서 말하지만 남자친구는 웃으며 설렁설렁 넘어간다. 남의 일이라고 생각했던 것이다. \n남자들이 여자들이 예민하다고 하는 것은 '남의 일'이기 때문이다. https://t.co/wHbQo7eU28"
+	},
+	{
 		"created_at": "Sat Mar 28 19:53:27 +0000 2020",
 		"id": 1243989600751607800,
 		"id_str": "1243989600751607810",
