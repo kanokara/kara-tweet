@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 28 22:36:11 +0000 2020",
+		"id": 1244030551935213600,
+		"id_str": "1244030551935213569",
+		"full_text": "머신러닝에서 인류가 깨우친 사실은 양이 곧 질이란 것. 그리고 굳이 작가를 하겠다고 나설 정도고, 글이 읽을 만하게 쓰였다는 것은 2차례 관문(=필터링)을 거쳤다는 것.\nhttps://t.co/llhUtbg3NI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/llhUtbg3NI",
+					"expanded_url": "https://twitter.com/oiiwwww/status/1243518070309695488",
+					"display_url": "twitter.com/oiiwwww/status…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 85,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1243518070309695500,
+		"quoted_status_id_str": "1243518070309695488",
+		"quoted_status_permalink": {
+			"url": "https://t.co/llhUtbg3NI",
+			"expanded": "https://twitter.com/oiiwwww/status/1243518070309695488",
+			"display": "twitter.com/oiiwwww/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 27 12:39:46 +0000 2020",
+			"id": 1243518070309695500,
+			"id_str": "1243518070309695488",
+			"full_text": "요새 웹소보니까 이제 다독은 의미가 없는듯 합니다. 윤색이 잘 된 좋은 책을 정독하는 버릇을 들여야 합니다... 상업작품들의 문장이 너무 개판났기 때문에 많이 읽을수록 이해력에 문제가 생길 가능성이 생김....  주술호응부터 개판났다고 하네요... https://t.co/KcTwj7mb8l",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KcTwj7mb8l",
+						"expanded_url": "https://twitter.com/AutumnYeon5/status/1243504173045420032",
+						"display_url": "twitter.com/AutumnYeon5/st…",
+						"indices": [
+							139,
+							162
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1101116884605329400,
+				"id_str": "1101116884605329408",
+				"name": "오이감자🥒🥔⚡🌑",
+				"screen_name": "oiiwwww",
+				"location": "사진펌x OIIW SHST",
+				"description": "成人 🥒 오비츠 🥔 넨도돌 ⚡ 오비츠 🌑 오비츠",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 41,
+				"friends_count": 204,
+				"listed_count": 2,
+				"created_at": "Thu Feb 28 13:48:17 +0000 2019",
+				"favourites_count": 447,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4076,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1185814253103546369/Qd0HhVBD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1185814253103546369/Qd0HhVBD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1101116884605329408/1568461581",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1243504173045420000,
+			"quoted_status_id_str": "1243504173045420032",
+			"quoted_status_permalink": {
+				"url": "https://t.co/KcTwj7mb8l",
+				"expanded": "https://twitter.com/AutumnYeon5/status/1243504173045420032",
+				"display": "twitter.com/AutumnYeon5/st…"
+			},
+			"retweet_count": 4936,
+			"favorite_count": 1113,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "머신러닝에서 인류가 깨우친 사실은 양이 곧 질이란 것. 그리고 굳이 작가를 하겠다고 나설 정도고, 글이 읽을 만하게 쓰였다는 것은 2차례 관문(=필터링)을 거쳤다는 것.\nhttps://t.co/llhUtbg3NI"
+	},
+	{
 		"created_at": "Sat Mar 28 20:57:48 +0000 2020",
 		"id": 1243803951704637400,
 		"id_str": "1244005792669298691",
@@ -139,10 +338,10 @@ Grailbird.data.tweets_2020_03 =
 		"user": {
 			"id": 2459809148,
 			"id_str": "2459809148",
-			"name": "🇭🇰여름빛새🏳️‍🌈",
+			"name": "🇭🇰여름빛새🏳️🌈",
 			"screen_name": "letelumiere",
 			"location": "",
-			"description": "가끔 글 쓰는 사람. 연애 중인 게이머. 시네필. 안티파.🏳️‍🌈 브런치와 네이버 블로그에 가끔 영화관련 글 쓰고 있습니다.",
+			"description": "가끔 글 쓰는 사람. 연애 중인 게이머. 시네필. 안티파.🏳️🌈 브런치와 네이버 블로그에 가끔 영화관련 글 쓰고 있습니다.",
 			"url": "https://t.co/c2JTBRqlkI",
 			"entities": {
 				"url": {
