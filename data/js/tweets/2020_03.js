@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 29 12:17:51 +0000 2020",
+		"id": 1244205220868919300,
+		"id_str": "1244237330954633216",
+		"full_text": "그러던 몇 년 뒤, 다테노 씨는 사내 여행을 갔다가 경악을 했다. 미야자키 감독이 새 한 마리에게 \"이녀석아, 나는 법이 틀렸잖아\"며 혼내고 있었다고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1244205218834743300,
+		"in_reply_to_status_id_str": "1244205218834743296",
+		"in_reply_to_user_id": 134986465,
+		"in_reply_to_user_id_str": "134986465",
+		"in_reply_to_screen_name": "yeokbo",
+		"user": {
+			"id": 134986465,
+			"id_str": "134986465",
+			"name": "역보😷🇰🇷🇹🇼🇭🇰",
+			"screen_name": "yeokbo",
+			"location": "대한민국 경기도",
+			"description": "페미니스트. 부천 FC 1995 팬. 리듬게임 안합니다. 아름드리 위키 운영자. #Remember_0416 🌷🏳️‍🌈🦐",
+			"url": "https://t.co/RwhrPgiKMR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RwhrPgiKMR",
+							"expanded_url": "http://yeokbo.tistory.com",
+							"display_url": "yeokbo.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1844,
+			"friends_count": 844,
+			"listed_count": 49,
+			"created_at": "Tue Apr 20 01:17:50 +0000 2010",
+			"favourites_count": 79939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 403541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "AACBB0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117850262536744961/z6SkyA0J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117850262536744961/z6SkyA0J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134986465/1526134158",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "152429",
+			"profile_sidebar_fill_color": "253836",
+			"profile_text_color": "4D5D5A",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그러던 몇 년 뒤, 다테노 씨는 사내 여행을 갔다가 경악을 했다. 미야자키 감독이 새 한 마리에게 \"이녀석아, 나는 법이 틀렸잖아\"며 혼내고 있었다고."
+	},
+	{
 		"created_at": "Sun Mar 29 03:28:50 +0000 2020",
 		"id": 1244104202437030000,
 		"id_str": "1244104202437029890",
