@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 30 18:30:35 +0000 2020",
+		"id": 1244629083582918700,
+		"id_str": "1244693523355467776",
+		"full_text": "@yonguja_today @nekizlab 과거에도 연재물은 그런 압박을 많이 받았다고 들었습니다. 하지만 그땐 항의를 해도 서면이었고 신문사건 출판사건 게이트 한번 거쳐서 들어갔으니.... 그때와 지금이 제일 달라진 건 이 '게이트' 부분이라고 생각합니다.",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yonguja_today",
+					"name": "연구자의 오늘 신고: 486",
+					"id": 1209035223410724900,
+					"id_str": "1209035223410724864",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "nekizlab",
+					"name": "Nekizlab",
+					"id": 129115028,
+					"id_str": "129115028",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1244628221028532200,
+		"in_reply_to_status_id_str": "1244628221028532226",
+		"in_reply_to_user_id": 1209035223410724900,
+		"in_reply_to_user_id_str": "1209035223410724864",
+		"in_reply_to_screen_name": "yonguja_today",
+		"user": {
+			"id": 3235646006,
+			"id_str": "3235646006",
+			"name": "그냥냥씨",
+			"screen_name": "NyaNyaNyangC",
+			"location": "오타쿠웨이",
+			"description": "어딜 보고있습니까? 여긴 제 잔상입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1363,
+			"friends_count": 889,
+			"listed_count": 34,
+			"created_at": "Thu Jun 04 03:14:06 +0000 2015",
+			"favourites_count": 6043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 71707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1219291075044491264/QthmbTRq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1219291075044491264/QthmbTRq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3235646006/1568464337",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@yonguja_today @nekizlab 과거에도 연재물은 그런 압박을 많이 받았다고 들었습니다. 하지만 그땐 항의를 해도 서면이었고 신문사건 출판사건 게이트 한번 거쳐서 들어갔으니.... 그때와 지금이 제일 달라진 건 이 '게이트' 부분이라고 생각합니다."
+	},
+	{
+		"created_at": "Mon Mar 30 18:30:34 +0000 2020",
+		"id": 1244626223684128800,
+		"id_str": "1244693516543856645",
+		"full_text": "00년대 이전을 기억하는 사람들은 '시청자들 성화로 결말을 바꾼 드라마'에 대한 얘기를, 8할은 조롱의 의미를 담아서 나눈 적이 있을 것이다. 비평이란 메시지를 뜯어고치는 게 아니라 그걸 곱씹는 과정이며, 곱씹을 만한 결론이 나오기 전에 영향을 받는 건 실상 이야기가 '휘둘리'는 것이었다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1244623885808447500,
+		"in_reply_to_status_id_str": "1244623885808447492",
+		"in_reply_to_user_id": 3235646006,
+		"in_reply_to_user_id_str": "3235646006",
+		"in_reply_to_screen_name": "NyaNyaNyangC",
+		"user": {
+			"id": 3235646006,
+			"id_str": "3235646006",
+			"name": "그냥냥씨",
+			"screen_name": "NyaNyaNyangC",
+			"location": "오타쿠웨이",
+			"description": "어딜 보고있습니까? 여긴 제 잔상입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1363,
+			"friends_count": 889,
+			"listed_count": 34,
+			"created_at": "Thu Jun 04 03:14:06 +0000 2015",
+			"favourites_count": 6043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 71707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1219291075044491264/QthmbTRq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1219291075044491264/QthmbTRq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3235646006/1568464337",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "00년대 이전을 기억하는 사람들은 '시청자들 성화로 결말을 바꾼 드라마'에 대한 얘기를, 8할은 조롱의 의미를 담아서 나눈 적이 있을 것이다. 비평이란 메시지를 뜯어고치는 게 아니라 그걸 곱씹는 과정이며, 곱씹을 만한 결론이 나오기 전에 영향을 받는 건 실상 이야기가 '휘둘리'는 것이었다."
+	},
+	{
 		"created_at": "Mon Mar 30 02:46:39 +0000 2020",
 		"id": 1244455972728230000,
 		"id_str": "1244455972728229888",
