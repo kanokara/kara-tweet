@@ -1,6 +1,1351 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 30 00:04:40 +0000 2020",
+		"id": 1244415210523263000,
+		"id_str": "1244415210523262976",
+		"full_text": "@GoblinCase 린스타트업이나 피봇을 당당히 핵심 전략으로 내세우는 스타트업 업계에 대해서 사실 경악하긴 했었네요 (...)",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoblinCase",
+					"name": "魍魉之匣",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1244411615291662300,
+		"in_reply_to_status_id_str": "1244411615291662338",
+		"in_reply_to_user_id": 1047103952297254900,
+		"in_reply_to_user_id_str": "1047103952297254912",
+		"in_reply_to_screen_name": "GoblinCase",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 85,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1608,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@GoblinCase 린스타트업이나 피봇을 당당히 핵심 전략으로 내세우는 스타트업 업계에 대해서 사실 경악하긴 했었네요 (...)"
+	},
+	{
+		"created_at": "Sun Mar 29 23:49:27 +0000 2020",
+		"id": 1244411379932520400,
+		"id_str": "1244411379932520449",
+		"full_text": "@GoblinCase 사실 밝힌다는 제스처 자체가 또 하나의 컨셉이라고 생각할 수 있을 것 같아요. 스타트업의 피봇 같은 개념으로.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoblinCase",
+					"name": "魍魉之匣",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1244409591917449200,
+		"in_reply_to_status_id_str": "1244409591917449216",
+		"in_reply_to_user_id": 1047103952297254900,
+		"in_reply_to_user_id_str": "1047103952297254912",
+		"in_reply_to_screen_name": "GoblinCase",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 85,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1608,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@GoblinCase 사실 밝힌다는 제스처 자체가 또 하나의 컨셉이라고 생각할 수 있을 것 같아요. 스타트업의 피봇 같은 개념으로."
+	},
+	{
+		"created_at": "Sun Mar 29 23:39:49 +0000 2020",
+		"id": 1244408953133383700,
+		"id_str": "1244408953133383680",
+		"full_text": "@GoblinCase 저는 2016년부터 이쪽 방식을 이용하고 있는데, 비공개 계정으로서 상당히 유용해요. 몇 번 아카이브 정책이 바뀌면서 오류가 발생했던 터라 지금 새로 설정 가능한지는 모르겠지만...\nhttps://t.co/hZw775H72L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoblinCase",
+					"name": "魍魉之匣",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hZw775H72L",
+					"expanded_url": "https://mashe.hawksey.info/2016/08/keeping-your-twitter-archive-fresh-and-freely-hosted-on-github-pages/",
+					"display_url": "mashe.hawksey.info/2016/08/keepin…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1047103952297254900,
+		"in_reply_to_user_id_str": "1047103952297254912",
+		"in_reply_to_screen_name": "GoblinCase",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 85,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1608,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@GoblinCase 저는 2016년부터 이쪽 방식을 이용하고 있는데, 비공개 계정으로서 상당히 유용해요. 몇 번 아카이브 정책이 바뀌면서 오류가 발생했던 터라 지금 새로 설정 가능한지는 모르겠지만...\nhttps://t.co/hZw775H72L"
+	},
+	{
+		"created_at": "Sun Mar 29 23:24:04 +0000 2020",
+		"id": 1244404990472413200,
+		"id_str": "1244404990472413184",
+		"full_text": "@GoblinCase 링크 주세요 (당당)",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoblinCase",
+					"name": "魍魉之匣",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1244404805893668900,
+		"in_reply_to_status_id_str": "1244404805893668865",
+		"in_reply_to_user_id": 1047103952297254900,
+		"in_reply_to_user_id_str": "1047103952297254912",
+		"in_reply_to_screen_name": "GoblinCase",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 85,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1608,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@GoblinCase 링크 주세요 (당당)"
+	},
+	{
+		"created_at": "Sun Mar 29 23:22:49 +0000 2020",
+		"id": 1244404676293824500,
+		"id_str": "1244404676293824512",
+		"full_text": "RT) 무슨 교습이 이런지... 결국 전혀 체계가 정립된 바가 없다는 거잖아요...? 가르치는 바를 자신도 알지 못하면서 무슨 낯으로 가르치는 거야.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 85,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1608,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "RT) 무슨 교습이 이런지... 결국 전혀 체계가 정립된 바가 없다는 거잖아요...? 가르치는 바를 자신도 알지 못하면서 무슨 낯으로 가르치는 거야."
+	},
+	{
+		"created_at": "Sun Mar 29 23:19:33 +0000 2020",
+		"id": 1244058099582824400,
+		"id_str": "1244403855434985472",
+		"full_text": "@plafina 저는 읽다 보니까 주제가 '수용자가 꼭 경험해야 할 것'이라면 컨셉은 '수용자가 경험할 수 있는 총체를 최소한의 단어로 정제한 것'이라는 생각이 드네요. 맞는지는 모르겠지만 저는 이렇게 생각하니까 좀 다가오는 느낌이 들었어요. 아니라면 지적 부탁드립니다. (이해한대로 뭔가를 진행중이라서요)",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "plafina",
+					"name": "마감의 요정 피나링🧀💫",
+					"id": 122556604,
+					"id_str": "122556604",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1243912602041774000,
+		"in_reply_to_status_id_str": "1243912602041774082",
+		"in_reply_to_user_id": 122556604,
+		"in_reply_to_user_id_str": "122556604",
+		"in_reply_to_screen_name": "plafina",
+		"user": {
+			"id": 1050601353746112500,
+			"id_str": "1050601353746112512",
+			"name": "ㅣ니어 오토마타 뱃지 만드는ㅣ 재활용쓰레기",
+			"screen_name": "E1ghty_s",
+			"location": "대한민국",
+			"description": "(S1D → 에이티'스 → 재활용쓰레기) 소설 작가 지망생\nhttps://t.co/mTqCn1TYBH\n쓰레기 글을 씁니다. 다만 재활용이 가능한 쓰레기를 만들어 냈기를 간절히 바라며 지은 이름입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mTqCn1TYBH",
+							"expanded_url": "https://britg.kr/user/eighty_s/",
+							"display_url": "britg.kr/user/eighty_s/",
+							"indices": [
+								33,
+								56
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 34,
+			"friends_count": 357,
+			"listed_count": 0,
+			"created_at": "Fri Oct 12 04:17:36 +0000 2018",
+			"favourites_count": 2929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230757464036933633/l_Za0vEP_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230757464036933633/l_Za0vEP_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1050601353746112512/1539318837",
+			"profile_link_color": "B7DB81",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@plafina 저는 읽다 보니까 주제가 '수용자가 꼭 경험해야 할 것'이라면 컨셉은 '수용자가 경험할 수 있는 총체를 최소한의 단어로 정제한 것'이라는 생각이 드네요. 맞는지는 모르겠지만 저는 이렇게 생각하니까 좀 다가오는 느낌이 들었어요. 아니라면 지적 부탁드립니다. (이해한대로 뭔가를 진행중이라서요)"
+	},
+	{
+		"created_at": "Sun Mar 29 23:19:21 +0000 2020",
+		"id": 1244098331363565600,
+		"id_str": "1244403804738486272",
+		"full_text": "컨셉을 작성할 때, 이것이 컨셉인지 아닌지 확인해보는 방법 중 하나가 &lt;제목과 부제 중, 어느 쪽에 더 어울리는지&gt;를 보는 것입니다. 제목에 어울리면 컨셉이 아닐 확률이 높습니다. (컨셉은 부제에 가깝습니다) 그러나 부제라고 해서 또 다 컨셉은 아닙니다;; 단간론파를 예시로 확인해봅시다. https://t.co/ImJ4nTTVCu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1244098319858557000,
+					"id_str": "1244098319858556930",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EUPs1JTUYAIvCHT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUPs1JTUYAIvCHT.jpg",
+					"url": "https://t.co/ImJ4nTTVCu",
+					"display_url": "pic.twitter.com/ImJ4nTTVCu",
+					"expanded_url": "https://twitter.com/plafina/status/1244098331363565573/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1417,
+							"h": 797,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1244098319858557000,
+					"id_str": "1244098319858556930",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EUPs1JTUYAIvCHT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUPs1JTUYAIvCHT.jpg",
+					"url": "https://t.co/ImJ4nTTVCu",
+					"display_url": "pic.twitter.com/ImJ4nTTVCu",
+					"expanded_url": "https://twitter.com/plafina/status/1244098331363565573/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1417,
+							"h": 797,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1243922308407804000,
+		"in_reply_to_status_id_str": "1243922308407803910",
+		"in_reply_to_user_id": 122556604,
+		"in_reply_to_user_id_str": "122556604",
+		"in_reply_to_screen_name": "plafina",
+		"user": {
+			"id": 122556604,
+			"id_str": "122556604",
+			"name": "마감의 요정 피나링🧀💫",
+			"screen_name": "plafina",
+			"location": "에스피나 암흑신전",
+			"description": "⚖🎲 게임 밸런스 디자이너 / 🥳🌈 ENFP / 🧀💫 린 애자일 / 💖✨ 힐링계 / 💌📚 개발트 저장 @plafinia",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3396,
+			"friends_count": 260,
+			"listed_count": 34,
+			"created_at": "Sat Mar 13 03:35:17 +0000 2010",
+			"favourites_count": 14964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39087,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241379982913372161/r9W1Inbl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241379982913372161/r9W1Inbl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/122556604/1564471235",
+			"profile_link_color": "8DCAA1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "컨셉을 작성할 때, 이것이 컨셉인지 아닌지 확인해보는 방법 중 하나가 &lt;제목과 부제 중, 어느 쪽에 더 어울리는지&gt;를 보는 것입니다. 제목에 어울리면 컨셉이 아닐 확률이 높습니다. (컨셉은 부제에 가깝습니다) 그러나 부제라고 해서 또 다 컨셉은 아닙니다;; 단간론파를 예시로 확인해봅시다. https://t.co/ImJ4nTTVCu"
+	},
+	{
+		"created_at": "Sun Mar 29 23:19:08 +0000 2020",
+		"id": 1243922308407804000,
+		"id_str": "1244403751051382790",
+		"full_text": "컨셉에 대한 정의를 이 자리에서 내려보면 부족하게 2가지로 정의할 수 있다. ①작품을 만들 때 사용자에게 던지고자 했던 메시지, ②실제로 작품을 접한 사용자가 받은 메시지. 창작자가 만들려고 했던 컨셉과 사용자가 받아들인 컨셉이 동시에 존재할 수 있다. 그리고 희망 VS 절망은 ②에 해당한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1243921043133087700,
+		"in_reply_to_status_id_str": "1243921043133087745",
+		"in_reply_to_user_id": 122556604,
+		"in_reply_to_user_id_str": "122556604",
+		"in_reply_to_screen_name": "plafina",
+		"user": {
+			"id": 122556604,
+			"id_str": "122556604",
+			"name": "마감의 요정 피나링🧀💫",
+			"screen_name": "plafina",
+			"location": "에스피나 암흑신전",
+			"description": "⚖🎲 게임 밸런스 디자이너 / 🥳🌈 ENFP / 🧀💫 린 애자일 / 💖✨ 힐링계 / 💌📚 개발트 저장 @plafinia",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3396,
+			"friends_count": 260,
+			"listed_count": 34,
+			"created_at": "Sat Mar 13 03:35:17 +0000 2010",
+			"favourites_count": 14964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39087,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241379982913372161/r9W1Inbl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241379982913372161/r9W1Inbl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/122556604/1564471235",
+			"profile_link_color": "8DCAA1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 103,
+		"favorite_count": 108,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "컨셉에 대한 정의를 이 자리에서 내려보면 부족하게 2가지로 정의할 수 있다. ①작품을 만들 때 사용자에게 던지고자 했던 메시지, ②실제로 작품을 접한 사용자가 받은 메시지. 창작자가 만들려고 했던 컨셉과 사용자가 받아들인 컨셉이 동시에 존재할 수 있다. 그리고 희망 VS 절망은 ②에 해당한다."
+	},
+	{
+		"created_at": "Sun Mar 29 23:19:04 +0000 2020",
+		"id": 1243921043133087700,
+		"id_str": "1244403733565337600",
+		"full_text": "컨셉이란 용어는 사전적 정의만으로는 완전한 이해에 이르지 못하는데, 미술작품의 &lt;제목&gt;, &lt;주제&gt;, &lt;메인 스토리&gt;, &lt;배경설정&gt; 같은 개념으로 오해하기 딱 좋다. 컨셉은 한 마디로 설명할 수 있는 개념이 아니며, 컨셉을 이해한 사람은 완전히 다른 무언가를 제안해온다. 예를 들면 &lt;절망 VS 희망&gt;. https://t.co/BF4YKdzYtF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BF4YKdzYtF",
+					"expanded_url": "https://twitter.com/plafina/status/997629325481398272",
+					"display_url": "twitter.com/plafina/status…",
+					"indices": [
+						199,
+						222
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1243919893918912500,
+		"in_reply_to_status_id_str": "1243919893918912513",
+		"in_reply_to_user_id": 122556604,
+		"in_reply_to_user_id_str": "122556604",
+		"in_reply_to_screen_name": "plafina",
+		"user": {
+			"id": 122556604,
+			"id_str": "122556604",
+			"name": "마감의 요정 피나링🧀💫",
+			"screen_name": "plafina",
+			"location": "에스피나 암흑신전",
+			"description": "⚖🎲 게임 밸런스 디자이너 / 🥳🌈 ENFP / 🧀💫 린 애자일 / 💖✨ 힐링계 / 💌📚 개발트 저장 @plafinia",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3396,
+			"friends_count": 260,
+			"listed_count": 34,
+			"created_at": "Sat Mar 13 03:35:17 +0000 2010",
+			"favourites_count": 14964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39087,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241379982913372161/r9W1Inbl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241379982913372161/r9W1Inbl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/122556604/1564471235",
+			"profile_link_color": "8DCAA1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 997629325481398300,
+		"quoted_status_id_str": "997629325481398272",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BF4YKdzYtF",
+			"expanded": "https://twitter.com/plafina/status/997629325481398272",
+			"display": "twitter.com/plafina/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 19 00:05:40 +0000 2018",
+			"id": 997629325481398300,
+			"id_str": "997629325481398272",
+			"full_text": "학생이 컨셉기획에서 ‘다양한 스킬’이라고 써내는 것은 사실 당연해연. 피나도 학생시절에는 그랬다연!\n책 내용은 아직이지만 피나가 생각하는 컨셉의 좋은 예제는... 단간론파의 컨셉이 ‘절망 VS 희망’임을 연습문제삼아 풀어보는 식으로 접근해보면 좋겠어연.\n(코토다마 쏘는 건 커리큘럼에 가까움) https://t.co/UxNKIlOLKE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				163
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UxNKIlOLKE",
+						"expanded_url": "https://twitter.com/jpcorps/status/996597332513767430",
+						"display_url": "twitter.com/jpcorps/status…",
+						"indices": [
+							164,
+							187
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 122556604,
+				"id_str": "122556604",
+				"name": "마감의 요정 피나링🧀💫",
+				"screen_name": "plafina",
+				"location": "에스피나 암흑신전",
+				"description": "⚖🎲 게임 밸런스 디자이너 / 🥳🌈 ENFP / 🧀💫 린 애자일 / 💖✨ 힐링계 / 💌📚 개발트 저장 @plafinia",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3396,
+				"friends_count": 260,
+				"listed_count": 34,
+				"created_at": "Sat Mar 13 03:35:17 +0000 2010",
+				"favourites_count": 14964,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 39087,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1241379982913372161/r9W1Inbl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241379982913372161/r9W1Inbl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/122556604/1564471235",
+				"profile_link_color": "8DCAA1",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"retweet_count": 15,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 127,
+		"favorite_count": 77,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "컨셉이란 용어는 사전적 정의만으로는 완전한 이해에 이르지 못하는데, 미술작품의 &lt;제목&gt;, &lt;주제&gt;, &lt;메인 스토리&gt;, &lt;배경설정&gt; 같은 개념으로 오해하기 딱 좋다. 컨셉은 한 마디로 설명할 수 있는 개념이 아니며, 컨셉을 이해한 사람은 완전히 다른 무언가를 제안해온다. 예를 들면 &lt;절망 VS 희망&gt;. https://t.co/BF4YKdzYtF"
+	},
+	{
+		"created_at": "Sun Mar 29 23:19:00 +0000 2020",
+		"id": 1243919893918912500,
+		"id_str": "1244403715643068417",
+		"full_text": "피나: 교수님 이렇게 컨셉 잡아봤는데 어때요?\n교수님: 이게 어떻게 컨셉이니. 여기 써온 것 중에 컨셉은 하나도 없다.\n피: 아 교수님 집에 좀 보내주세요.\n교: 컨셉을 써와 그럼 보내줌.\n피: 교수님 그럼 &lt;사람이 죽는 집&gt;은 어때요?\n교: ? 오 그건 컨셉 맞음. 집 가셈.\n피: (이게 어떻게 컨셉이지ㅠ)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1243912602041774000,
+		"in_reply_to_status_id_str": "1243912602041774082",
+		"in_reply_to_user_id": 122556604,
+		"in_reply_to_user_id_str": "122556604",
+		"in_reply_to_screen_name": "plafina",
+		"user": {
+			"id": 122556604,
+			"id_str": "122556604",
+			"name": "마감의 요정 피나링🧀💫",
+			"screen_name": "plafina",
+			"location": "에스피나 암흑신전",
+			"description": "⚖🎲 게임 밸런스 디자이너 / 🥳🌈 ENFP / 🧀💫 린 애자일 / 💖✨ 힐링계 / 💌📚 개발트 저장 @plafinia",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3396,
+			"friends_count": 260,
+			"listed_count": 34,
+			"created_at": "Sat Mar 13 03:35:17 +0000 2010",
+			"favourites_count": 14964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39087,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241379982913372161/r9W1Inbl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241379982913372161/r9W1Inbl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/122556604/1564471235",
+			"profile_link_color": "8DCAA1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "피나: 교수님 이렇게 컨셉 잡아봤는데 어때요?\n교수님: 이게 어떻게 컨셉이니. 여기 써온 것 중에 컨셉은 하나도 없다.\n피: 아 교수님 집에 좀 보내주세요.\n교: 컨셉을 써와 그럼 보내줌.\n피: 교수님 그럼 &lt;사람이 죽는 집&gt;은 어때요?\n교: ? 오 그건 컨셉 맞음. 집 가셈.\n피: (이게 어떻게 컨셉이지ㅠ)"
+	},
+	{
+		"created_at": "Sun Mar 29 23:18:58 +0000 2020",
+		"id": 1243912602041774000,
+		"id_str": "1244403707317325825",
+		"full_text": "예술계 용어인 &lt;컨셉&gt;의 정의는 무엇일까? 하나 분명한 건, 이 용어를 잘 모르는 사람에게 용어에 대해 설명하고 이해시키기가 무척 어렵다는 것이다. 이 용어를 건축학부 4학년 수업에서 이해하는데만 6시간 이상 걸렸다. 이해한 개념을 교수님께 설명하고, 통과한 사람만 강의실을 나갈 수 있었다. https://t.co/OLNGVuMUxD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OLNGVuMUxD",
+					"expanded_url": "https://twitter.com/plafina/status/1226514628357672960",
+					"display_url": "twitter.com/plafina/status…",
+					"indices": [
+						170,
+						193
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 122556604,
+			"id_str": "122556604",
+			"name": "마감의 요정 피나링🧀💫",
+			"screen_name": "plafina",
+			"location": "에스피나 암흑신전",
+			"description": "⚖🎲 게임 밸런스 디자이너 / 🥳🌈 ENFP / 🧀💫 린 애자일 / 💖✨ 힐링계 / 💌📚 개발트 저장 @plafinia",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3396,
+			"friends_count": 260,
+			"listed_count": 34,
+			"created_at": "Sat Mar 13 03:35:17 +0000 2010",
+			"favourites_count": 14964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39087,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1241379982913372161/r9W1Inbl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241379982913372161/r9W1Inbl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/122556604/1564471235",
+			"profile_link_color": "8DCAA1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1226514628357673000,
+		"quoted_status_id_str": "1226514628357672960",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OLNGVuMUxD",
+			"expanded": "https://twitter.com/plafina/status/1226514628357672960",
+			"display": "twitter.com/plafina/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 09 14:34:09 +0000 2020",
+			"id": 1226514628357673000,
+			"id_str": "1226514628357672960",
+			"full_text": "게임개발에서 컨셉이 중요한 이유는 셀 수도 없지만, 여기서는 2가지만 언급하겠다. 첫째는 컨셉이 게임의 첫인상을 결정하고 특유의 분위기를 창조하며, 둘째는 컨셉이 게임개발의 비전을 구체화함으로써 개발에서의 커뮤니케이션을 대단히 효율적으로 만들기 때문이다. https://t.co/zrOvLiCPwa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				142
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1226514614545838000,
+						"id_str": "1226514614545838081",
+						"indices": [
+							143,
+							166
+						],
+						"media_url": "http://pbs.twimg.com/media/EQV0iyfUcAEVpdm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQV0iyfUcAEVpdm.jpg",
+						"url": "https://t.co/zrOvLiCPwa",
+						"display_url": "pic.twitter.com/zrOvLiCPwa",
+						"expanded_url": "https://twitter.com/plafina/status/1226514628357672960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1226514614545838000,
+						"id_str": "1226514614545838081",
+						"indices": [
+							143,
+							166
+						],
+						"media_url": "http://pbs.twimg.com/media/EQV0iyfUcAEVpdm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQV0iyfUcAEVpdm.jpg",
+						"url": "https://t.co/zrOvLiCPwa",
+						"display_url": "pic.twitter.com/zrOvLiCPwa",
+						"expanded_url": "https://twitter.com/plafina/status/1226514628357672960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 122556604,
+				"id_str": "122556604",
+				"name": "마감의 요정 피나링🧀💫",
+				"screen_name": "plafina",
+				"location": "에스피나 암흑신전",
+				"description": "⚖🎲 게임 밸런스 디자이너 / 🥳🌈 ENFP / 🧀💫 린 애자일 / 💖✨ 힐링계 / 💌📚 개발트 저장 @plafinia",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3396,
+				"friends_count": 260,
+				"listed_count": 34,
+				"created_at": "Sat Mar 13 03:35:17 +0000 2010",
+				"favourites_count": 14964,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 39087,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1241379982913372161/r9W1Inbl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241379982913372161/r9W1Inbl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/122556604/1564471235",
+				"profile_link_color": "8DCAA1",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 465,
+			"favorite_count": 412,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1256,
+		"favorite_count": 958,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "예술계 용어인 &lt;컨셉&gt;의 정의는 무엇일까? 하나 분명한 건, 이 용어를 잘 모르는 사람에게 용어에 대해 설명하고 이해시키기가 무척 어렵다는 것이다. 이 용어를 건축학부 4학년 수업에서 이해하는데만 6시간 이상 걸렸다. 이해한 개념을 교수님께 설명하고, 통과한 사람만 강의실을 나갈 수 있었다. https://t.co/OLNGVuMUxD"
+	},
+	{
 		"created_at": "Sun Mar 29 23:03:55 +0000 2020",
 		"id": 1244399920150282200,
 		"id_str": "1244399920150282241",
