@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 31 03:50:56 +0000 2020",
+		"id": 1244834538011807700,
+		"id_str": "1244834538011807744",
+		"full_text": "반대로, 새롭게 변주하고 조합해도 그걸 인정 안 하는 경우도 종종 보여서...\nhttps://t.co/RjsDN0tAoL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RjsDN0tAoL",
+					"expanded_url": "https://twitter.com/Typemoonian/status/1244826334255140864",
+					"display_url": "twitter.com/Typemoonian/st…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 86,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1244826334255140900,
+		"quoted_status_id_str": "1244826334255140864",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RjsDN0tAoL",
+			"expanded": "https://twitter.com/Typemoonian/status/1244826334255140864",
+			"display": "twitter.com/Typemoonian/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 31 03:18:20 +0000 2020",
+			"id": 1244826334255140900,
+			"id_str": "1244826334255140864",
+			"full_text": "요새드는생각이 고전을읽어야하는이유는 그작품성이나 그런것보단 그냥 어떤 창작물 가지고 이건 지금까지의 세상에 없던 완전히 새로운 무언가이다 하고 호들갑떠는 사태를 방지하기 위해서라는 생각이 든다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				108
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 122990721,
+				"id_str": "122990721",
+				"name": "타입문교인",
+				"screen_name": "Typemoonian",
+				"location": "섀도 보더",
+				"description": "나의 신은 타입문에 있나니",
+				"url": "https://t.co/M1u5jSUgkc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/M1u5jSUgkc",
+								"expanded_url": "https://shau-notebook.postype.com/",
+								"display_url": "shau-notebook.postype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 931,
+				"friends_count": 434,
+				"listed_count": 22,
+				"created_at": "Sun Mar 14 16:06:40 +0000 2010",
+				"favourites_count": 592,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 281800,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1228683610468700161/pZiHGBDz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228683610468700161/pZiHGBDz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/122990721/1581775843",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "반대로, 새롭게 변주하고 조합해도 그걸 인정 안 하는 경우도 종종 보여서...\nhttps://t.co/RjsDN0tAoL"
+	},
+	{
 		"created_at": "Mon Mar 30 22:43:30 +0000 2020",
 		"id": 1244757170891018200,
 		"id_str": "1244757170891018241",
