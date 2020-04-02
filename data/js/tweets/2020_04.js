@@ -1,6 +1,907 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 02 23:09:13 +0000 2020",
+		"id": 1245847054938558500,
+		"id_str": "1245850806663802882",
+		"full_text": "소셜네트웍이 가진 어둠의 심리학 - 조나단 하이트(1/2) - https://t.co/g6E68fTvwz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g6E68fTvwz",
+					"expanded_url": "https://newspeppermint.com/2020/04/02/m-social1-2/",
+					"display_url": "newspeppermint.com/2020/04/02/m-s…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://newspeppermint.com\" rel=\"nofollow\">Newspeppermint</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 636874770,
+			"id_str": "636874770",
+			"name": "NewsPeppermint",
+			"screen_name": "newspeppermint",
+			"location": "",
+			"description": "뉴스페퍼민트는 최근 화제가 된 외신 중 우리에게 새로운 시각을 알려주는 기사를 중심으로 다양한 분야의 글 4편을 골라 번역/요약하여 월~금 오전 8시에 제공합니다.",
+			"url": "http://t.co/axYuRIa8Zu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/axYuRIa8Zu",
+							"expanded_url": "http://newspeppermint.com",
+							"display_url": "newspeppermint.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 98889,
+			"friends_count": 0,
+			"listed_count": 786,
+			"created_at": "Mon Jul 16 08:02:09 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/496340027228430336/2P45XFM8_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/496340027228430336/2P45XFM8_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/636874770/1445217836",
+			"profile_link_color": "74C9BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소셜네트웍이 가진 어둠의 심리학 - 조나단 하이트(1/2) - https://t.co/g6E68fTvwz"
+	},
+	{
+		"created_at": "Thu Apr 02 22:48:02 +0000 2020",
+		"id": 1245653453650530300,
+		"id_str": "1245845473962815491",
+		"full_text": "가해자 남성성은 무엇에도 영향 받지 않지만 그들의 타자는 모든 것에 의해 감정의 유입을 경험한다는 사실, 이 부조리한 불균형이 우리가 서 있는 토대이자 조건이다.\n\n이런 조건을, 또한 폭력을 굴절하여 재현하는 표현물이 은밀하고 물신적인 탐닉의 대상이 되어 있음을 고려하지 않는 것이 죄다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1245652538151415800,
+		"in_reply_to_status_id_str": "1245652538151415809",
+		"in_reply_to_user_id": 868108949920170000,
+		"in_reply_to_user_id_str": "868108949920169984",
+		"in_reply_to_screen_name": "Schattnlos",
+		"user": {
+			"id": 868108949920170000,
+			"id_str": "868108949920169984",
+			"name": "🎩 킬러 BLM 13",
+			"screen_name": "Schattnlos",
+			"location": "",
+			"description": "산지직송 산송장",
+			"url": "https://t.co/HeCSU6Anbx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HeCSU6Anbx",
+							"expanded_url": "http://hintmintchocolat.postype.com",
+							"display_url": "hintmintchocolat.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 110,
+			"listed_count": 0,
+			"created_at": "Fri May 26 14:17:57 +0000 2017",
+			"favourites_count": 17194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216066353410408449/Bgn-oCyD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216066353410408449/Bgn-oCyD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/868108949920169984/1578767790",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "가해자 남성성은 무엇에도 영향 받지 않지만 그들의 타자는 모든 것에 의해 감정의 유입을 경험한다는 사실, 이 부조리한 불균형이 우리가 서 있는 토대이자 조건이다.\n\n이런 조건을, 또한 폭력을 굴절하여 재현하는 표현물이 은밀하고 물신적인 탐닉의 대상이 되어 있음을 고려하지 않는 것이 죄다."
+	},
+	{
+		"created_at": "Thu Apr 02 22:47:56 +0000 2020",
+		"id": 1245652538151415800,
+		"id_str": "1245845450382434305",
+		"full_text": "사람들은 “감정이입”이 능동적이고 의식적인 선택에 의해 일어난다 착각한다. 하지만 실상은 그 반대다. 감정은 주관에서 객관(표현물)으로 ‘이입’되는 것이 아니라 객관에서 주관 쪽으로 흘러들어 온다.\n\n그러한 유입을 차단하는 것은 의식적 노력으로 간단하게 되지 않는다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1245651958288900000,
+		"in_reply_to_status_id_str": "1245651958288900098",
+		"in_reply_to_user_id": 868108949920170000,
+		"in_reply_to_user_id_str": "868108949920169984",
+		"in_reply_to_screen_name": "Schattnlos",
+		"user": {
+			"id": 868108949920170000,
+			"id_str": "868108949920169984",
+			"name": "🎩 킬러 BLM 13",
+			"screen_name": "Schattnlos",
+			"location": "",
+			"description": "산지직송 산송장",
+			"url": "https://t.co/HeCSU6Anbx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HeCSU6Anbx",
+							"expanded_url": "http://hintmintchocolat.postype.com",
+							"display_url": "hintmintchocolat.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 110,
+			"listed_count": 0,
+			"created_at": "Fri May 26 14:17:57 +0000 2017",
+			"favourites_count": 17194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216066353410408449/Bgn-oCyD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216066353410408449/Bgn-oCyD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/868108949920169984/1578767790",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "사람들은 “감정이입”이 능동적이고 의식적인 선택에 의해 일어난다 착각한다. 하지만 실상은 그 반대다. 감정은 주관에서 객관(표현물)으로 ‘이입’되는 것이 아니라 객관에서 주관 쪽으로 흘러들어 온다.\n\n그러한 유입을 차단하는 것은 의식적 노력으로 간단하게 되지 않는다."
+	},
+	{
+		"created_at": "Thu Apr 02 22:47:53 +0000 2020",
+		"id": 1245651958288900000,
+		"id_str": "1245845436209852416",
+		"full_text": "그것이 유독 여성(비남성)에게—비록 미러링 안에서 그들은 피해자의 자리에 있지 않음에도 불구하고—위해로 작용하는 이유는, 사람들이 인간성의 기준으로 들이밀고 다니는 “공감” 때문이다.\n\n그리고 사회는 남성의 타자들에게 그러한 공감을 발달시키도록 교육하며 사람들을 길러내고 있다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1245651493694230500,
+		"in_reply_to_status_id_str": "1245651493694230529",
+		"in_reply_to_user_id": 868108949920170000,
+		"in_reply_to_user_id_str": "868108949920169984",
+		"in_reply_to_screen_name": "Schattnlos",
+		"user": {
+			"id": 868108949920170000,
+			"id_str": "868108949920169984",
+			"name": "🎩 킬러 BLM 13",
+			"screen_name": "Schattnlos",
+			"location": "",
+			"description": "산지직송 산송장",
+			"url": "https://t.co/HeCSU6Anbx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HeCSU6Anbx",
+							"expanded_url": "http://hintmintchocolat.postype.com",
+							"display_url": "hintmintchocolat.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 110,
+			"listed_count": 0,
+			"created_at": "Fri May 26 14:17:57 +0000 2017",
+			"favourites_count": 17194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216066353410408449/Bgn-oCyD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216066353410408449/Bgn-oCyD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/868108949920169984/1578767790",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그것이 유독 여성(비남성)에게—비록 미러링 안에서 그들은 피해자의 자리에 있지 않음에도 불구하고—위해로 작용하는 이유는, 사람들이 인간성의 기준으로 들이밀고 다니는 “공감” 때문이다.\n\n그리고 사회는 남성의 타자들에게 그러한 공감을 발달시키도록 교육하며 사람들을 길러내고 있다."
+	},
+	{
+		"created_at": "Thu Apr 02 22:47:51 +0000 2020",
+		"id": 1245651493694230500,
+		"id_str": "1245845427976458240",
+		"full_text": "폭력이 단지 우리의 타자에게 행해지고 있다는 이유로 그것이 전시되어도 좋다는 논리(첨부).\n\n안타깝게도 언어는 대상에 대한 인식보다 빠르게 수용된다. 다시 말해, 대상이 무엇이건 간에 폭력은 폭력인 한에서 가해자 피해자 가릴 것 없이 정신적 위해로 작용한다.\n\nhttps://t.co/DG98aySgBh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DG98aySgBh",
+					"expanded_url": "https://twitter.com/lead_into_puppy/status/1245640002148556801",
+					"display_url": "twitter.com/lead_into_pupp…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1245650660755779600,
+		"in_reply_to_status_id_str": "1245650660755779584",
+		"in_reply_to_user_id": 868108949920170000,
+		"in_reply_to_user_id_str": "868108949920169984",
+		"in_reply_to_screen_name": "Schattnlos",
+		"user": {
+			"id": 868108949920170000,
+			"id_str": "868108949920169984",
+			"name": "🎩 킬러 BLM 13",
+			"screen_name": "Schattnlos",
+			"location": "",
+			"description": "산지직송 산송장",
+			"url": "https://t.co/HeCSU6Anbx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HeCSU6Anbx",
+							"expanded_url": "http://hintmintchocolat.postype.com",
+							"display_url": "hintmintchocolat.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 110,
+			"listed_count": 0,
+			"created_at": "Fri May 26 14:17:57 +0000 2017",
+			"favourites_count": 17194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216066353410408449/Bgn-oCyD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216066353410408449/Bgn-oCyD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/868108949920169984/1578767790",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1245640002148556800,
+		"quoted_status_id_str": "1245640002148556801",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DG98aySgBh",
+			"expanded": "https://twitter.com/lead_into_puppy/status/1245640002148556801",
+			"display": "twitter.com/lead_into_pupp…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 02 09:11:34 +0000 2020",
+			"id": 1245640002148556800,
+			"id_str": "1245640002148556801",
+			"full_text": "여러 논란이 많은데 저는 작가님이 잘못 없다고 생각합니다 이 계정에 트리거 눌리시는 분들은 만화주인공을 철저히 타자화하지 못하셔서 그런것같습니다 미러링으로 받아들이지 못할정도로 심신이 미약하시다면 구독하지마시고 계정 차단을 하시는게 맞다고 봅니다 https://t.co/ac6zIpv0df",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				137
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ac6zIpv0df",
+						"expanded_url": "https://twitter.com/Wsuperiortoman/status/1245623522367385600",
+						"display_url": "twitter.com/Wsuperiortoman…",
+						"indices": [
+							138,
+							161
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1211350701458067500,
+				"id_str": "1211350701458067456",
+				"name": "얄랑이",
+				"screen_name": "lead_into_puppy",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14,
+				"friends_count": 12,
+				"listed_count": 2,
+				"created_at": "Sun Dec 29 18:18:13 +0000 2019",
+				"favourites_count": 25,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 83,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1245637280527577093/5UuPwSzI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245637280527577093/5UuPwSzI_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1245623522367385600,
+			"quoted_status_id_str": "1245623522367385600",
+			"quoted_status_permalink": {
+				"url": "https://t.co/ac6zIpv0df",
+				"expanded": "https://twitter.com/Wsuperiortoman/status/1245623522367385600",
+				"display": "twitter.com/Wsuperiortoman…"
+			},
+			"retweet_count": 29,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 85,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "폭력이 단지 우리의 타자에게 행해지고 있다는 이유로 그것이 전시되어도 좋다는 논리(첨부).\n\n안타깝게도 언어는 대상에 대한 인식보다 빠르게 수용된다. 다시 말해, 대상이 무엇이건 간에 폭력은 폭력인 한에서 가해자 피해자 가릴 것 없이 정신적 위해로 작용한다.\n\nhttps://t.co/DG98aySgBh"
+	},
+	{
+		"created_at": "Thu Apr 02 22:47:49 +0000 2020",
+		"id": 1245650660755779600,
+		"id_str": "1245845418920931328",
+		"full_text": "마치 남성중심사회가 흉악범을 “사고뭉치”로 포장하듯, 음지에서 굴절된 폭력을 즐기는 이들은 이것을 단지 “과격한” 일로 포장한다(첨부).\n\n그것은 그 대상이 어찌되었건 여기에서 폭력이 행해지고 있다는 사실을 은폐하고 그것을 여전히 즐길 만한 것으로 여기도록 마취함.\n\nhttps://t.co/gQofKbD7Y7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gQofKbD7Y7",
+					"expanded_url": "https://twitter.com/lead_into_puppy/status/1245644751103123456",
+					"display_url": "twitter.com/lead_into_pupp…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1245649770619625500,
+		"in_reply_to_status_id_str": "1245649770619625472",
+		"in_reply_to_user_id": 868108949920170000,
+		"in_reply_to_user_id_str": "868108949920169984",
+		"in_reply_to_screen_name": "Schattnlos",
+		"user": {
+			"id": 868108949920170000,
+			"id_str": "868108949920169984",
+			"name": "🎩 킬러 BLM 13",
+			"screen_name": "Schattnlos",
+			"location": "",
+			"description": "산지직송 산송장",
+			"url": "https://t.co/HeCSU6Anbx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HeCSU6Anbx",
+							"expanded_url": "http://hintmintchocolat.postype.com",
+							"display_url": "hintmintchocolat.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 110,
+			"listed_count": 0,
+			"created_at": "Fri May 26 14:17:57 +0000 2017",
+			"favourites_count": 17194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216066353410408449/Bgn-oCyD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216066353410408449/Bgn-oCyD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/868108949920169984/1578767790",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1245644751103123500,
+		"quoted_status_id_str": "1245644751103123456",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gQofKbD7Y7",
+			"expanded": "https://twitter.com/lead_into_puppy/status/1245644751103123456",
+			"display": "twitter.com/lead_into_pupp…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 02 09:30:26 +0000 2020",
+			"id": 1245644751103123500,
+			"id_str": "1245644751103123456",
+			"full_text": "@Wsuperiortoman 작가님 응원합니다 트위터 페미니즘판에서는 아직 과격한 미러링을 받아들이기 힘든가봅니다 저는 작가님 의도에 항상 공감하고 있습니다 비난에 상처받지 마시고 비판만 받아들이시길 바랍니다",
+			"truncated": false,
+			"display_text_range": [
+				16,
+				116
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Wsuperiortoman",
+						"name": "남성혐오를 멈춰주세요",
+						"id": 1029928358342086700,
+						"id_str": "1029928358342086656",
+						"indices": [
+							0,
+							15
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1245623522367385600,
+			"in_reply_to_status_id_str": "1245623522367385600",
+			"in_reply_to_user_id": 1029928358342086700,
+			"in_reply_to_user_id_str": "1029928358342086656",
+			"in_reply_to_screen_name": "Wsuperiortoman",
+			"user": {
+				"id": 1211350701458067500,
+				"id_str": "1211350701458067456",
+				"name": "얄랑이",
+				"screen_name": "lead_into_puppy",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14,
+				"friends_count": 12,
+				"listed_count": 2,
+				"created_at": "Sun Dec 29 18:18:13 +0000 2019",
+				"favourites_count": 25,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 83,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1245637280527577093/5UuPwSzI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245637280527577093/5UuPwSzI_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 68,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 92,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마치 남성중심사회가 흉악범을 “사고뭉치”로 포장하듯, 음지에서 굴절된 폭력을 즐기는 이들은 이것을 단지 “과격한” 일로 포장한다(첨부).\n\n그것은 그 대상이 어찌되었건 여기에서 폭력이 행해지고 있다는 사실을 은폐하고 그것을 여전히 즐길 만한 것으로 여기도록 마취함.\n\nhttps://t.co/gQofKbD7Y7"
+	},
+	{
+		"created_at": "Thu Apr 02 22:47:46 +0000 2020",
+		"id": 1245649770619625500,
+		"id_str": "1245845409404030976",
+		"full_text": "미러링은 그러한 폭력을 “대상만 바꾸어” 재현함으로써 한편으로 동료 여성(비남성)에게 우리가 일상적으로 겪는 일들이 폭력이었음을 일깨웠지만 다른 한편으로는 그 굴절된 폭력을 즐기도록 만들었다.\n\n이미 15년부터 여성주의은 그 은밀한 향유를 도덕적인 것으로 포장하는 알리바이가 되었음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1245649768002359300,
+		"in_reply_to_status_id_str": "1245649768002359299",
+		"in_reply_to_user_id": 868108949920170000,
+		"in_reply_to_user_id_str": "868108949920169984",
+		"in_reply_to_screen_name": "Schattnlos",
+		"user": {
+			"id": 868108949920170000,
+			"id_str": "868108949920169984",
+			"name": "🎩 킬러 BLM 13",
+			"screen_name": "Schattnlos",
+			"location": "",
+			"description": "산지직송 산송장",
+			"url": "https://t.co/HeCSU6Anbx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HeCSU6Anbx",
+							"expanded_url": "http://hintmintchocolat.postype.com",
+							"display_url": "hintmintchocolat.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 110,
+			"listed_count": 0,
+			"created_at": "Fri May 26 14:17:57 +0000 2017",
+			"favourites_count": 17194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216066353410408449/Bgn-oCyD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216066353410408449/Bgn-oCyD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/868108949920169984/1578767790",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "미러링은 그러한 폭력을 “대상만 바꾸어” 재현함으로써 한편으로 동료 여성(비남성)에게 우리가 일상적으로 겪는 일들이 폭력이었음을 일깨웠지만 다른 한편으로는 그 굴절된 폭력을 즐기도록 만들었다.\n\n이미 15년부터 여성주의은 그 은밀한 향유를 도덕적인 것으로 포장하는 알리바이가 되었음."
+	},
+	{
 		"created_at": "Thu Apr 02 22:09:29 +0000 2020",
 		"id": 1245584385396506600,
 		"id_str": "1245835772734783502",
