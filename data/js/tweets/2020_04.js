@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 02 23:11:18 +0000 2020",
+		"id": 1245609586993725400,
+		"id_str": "1245851330943451138",
+		"full_text": "대처 방법은 의외로 간단한데 괜히 여기에 말려들어서 미안하다거나 하는 말을 절대로 하면 안되고 건조하게 사실 관계만 지적하는 식으로 이어가야 합니다. 경험상 이런 치들은 죄책감 자극하기가 통한다 싶으면 끝도 없이 날뛰기 때문에 초장부터 싹을 잘라야 해요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1245609055478935600,
+		"in_reply_to_status_id_str": "1245609055478935559",
+		"in_reply_to_user_id": 1310891526,
+		"in_reply_to_user_id_str": "1310891526",
+		"in_reply_to_screen_name": "yorathegamer",
+		"user": {
+			"id": 1310891526,
+			"id_str": "1310891526",
+			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"screen_name": "yorathegamer",
+			"location": "포스타입 주소 : ",
+			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨 사절. The dose makes the poison. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
+			"url": "https://t.co/w9FhnIUQ2M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w9FhnIUQ2M",
+							"expanded_url": "https://blacklilybear.postype.com/",
+							"display_url": "blacklilybear.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 478,
+			"friends_count": 291,
+			"listed_count": 6,
+			"created_at": "Thu Mar 28 15:11:52 +0000 2013",
+			"favourites_count": 5809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/977701415442198528/fZoJKu78_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/977701415442198528/fZoJKu78_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1310891526/1492340334",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 145,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "대처 방법은 의외로 간단한데 괜히 여기에 말려들어서 미안하다거나 하는 말을 절대로 하면 안되고 건조하게 사실 관계만 지적하는 식으로 이어가야 합니다. 경험상 이런 치들은 죄책감 자극하기가 통한다 싶으면 끝도 없이 날뛰기 때문에 초장부터 싹을 잘라야 해요."
+	},
+	{
+		"created_at": "Thu Apr 02 23:11:17 +0000 2020",
+		"id": 1245609055478935600,
+		"id_str": "1245851325528563712",
+		"full_text": "트위터 키배에서도 많이 보이는데 싸우다가 갑자기 자기가 상대로 인해 너무나 상처를 받았고 손이 떨리고 어쩌고저쩌고 구구절절 늘어놓죠. 보면 볼수록 황당한데 그래서 뭐 어쩌라고 너랑 나는 지금 싸우는 중이잖아. 당연히 때렸으면 쳐맞을 각오도 해야지.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1245607442659983400,
+		"in_reply_to_status_id_str": "1245607442659983361",
+		"in_reply_to_user_id": 1310891526,
+		"in_reply_to_user_id_str": "1310891526",
+		"in_reply_to_screen_name": "yorathegamer",
+		"user": {
+			"id": 1310891526,
+			"id_str": "1310891526",
+			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"screen_name": "yorathegamer",
+			"location": "포스타입 주소 : ",
+			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨 사절. The dose makes the poison. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
+			"url": "https://t.co/w9FhnIUQ2M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w9FhnIUQ2M",
+							"expanded_url": "https://blacklilybear.postype.com/",
+							"display_url": "blacklilybear.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 478,
+			"friends_count": 291,
+			"listed_count": 6,
+			"created_at": "Thu Mar 28 15:11:52 +0000 2013",
+			"favourites_count": 5809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/977701415442198528/fZoJKu78_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/977701415442198528/fZoJKu78_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1310891526/1492340334",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 226,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "트위터 키배에서도 많이 보이는데 싸우다가 갑자기 자기가 상대로 인해 너무나 상처를 받았고 손이 떨리고 어쩌고저쩌고 구구절절 늘어놓죠. 보면 볼수록 황당한데 그래서 뭐 어쩌라고 너랑 나는 지금 싸우는 중이잖아. 당연히 때렸으면 쳐맞을 각오도 해야지."
+	},
+	{
 		"created_at": "Thu Apr 02 23:09:13 +0000 2020",
 		"id": 1245847054938558500,
 		"id_str": "1245850806663802882",
