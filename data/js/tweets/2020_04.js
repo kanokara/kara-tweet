@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 03 04:19:49 +0000 2020",
+		"id": 1245928969817305000,
+		"id_str": "1245928969817305094",
+		"full_text": "@cocomi_twit 평소에는 어느 정도 메타인지하에 정체화했는데, 방금 전엔 그런 게 전혀 없어서 화들짝 놀랐네요...",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cocomi_twit",
+					"name": "코코미",
+					"id": 993793751628722200,
+					"id_str": "993793751628722177",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1245928461211857000,
+		"in_reply_to_status_id_str": "1245928461211856898",
+		"in_reply_to_user_id": 993793751628722200,
+		"in_reply_to_user_id_str": "993793751628722177",
+		"in_reply_to_screen_name": "cocomi_twit",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 87,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@cocomi_twit 평소에는 어느 정도 메타인지하에 정체화했는데, 방금 전엔 그런 게 전혀 없어서 화들짝 놀랐네요..."
+	},
+	{
 		"created_at": "Thu Apr 02 23:11:18 +0000 2020",
 		"id": 1245609586993725400,
 		"id_str": "1245851330943451138",
@@ -25,7 +118,7 @@ Grailbird.data.tweets_2020_04 =
 		"user": {
 			"id": 1310891526,
 			"id_str": "1310891526",
-			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"name": "yora🌷🏳️⚧️엘사쳐돌이",
 			"screen_name": "yorathegamer",
 			"location": "포스타입 주소 : ",
 			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨 사절. The dose makes the poison. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
@@ -120,7 +213,7 @@ Grailbird.data.tweets_2020_04 =
 		"user": {
 			"id": 1310891526,
 			"id_str": "1310891526",
-			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"name": "yora🌷🏳️⚧️엘사쳐돌이",
 			"screen_name": "yorathegamer",
 			"location": "포스타입 주소 : ",
 			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨 사절. The dose makes the poison. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
