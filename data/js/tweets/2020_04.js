@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 04 17:34:26 +0000 2020",
+		"id": 1246491329229541400,
+		"id_str": "1246491329229541381",
+		"full_text": "아득한 절망.\nhttps://t.co/TBoFJlHBav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TBoFJlHBav",
+					"expanded_url": "https://twitter.com/Hadrianus753/status/1246482326621523968",
+					"display_url": "twitter.com/Hadrianus753/s…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 87,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1662,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11629,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1246482326621524000,
+		"quoted_status_id_str": "1246482326621523968",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TBoFJlHBav",
+			"expanded": "https://twitter.com/Hadrianus753/status/1246482326621523968",
+			"display": "twitter.com/Hadrianus753/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 04 16:58:39 +0000 2020",
+			"id": 1246482326621524000,
+			"id_str": "1246482326621523968",
+			"full_text": "방금 리서치뷰 전국 여론조사 돌린 것 보다가 눈깔 돌아가는 줄 알았네;; 20대 남성 지역구 후보 지지율 보니까; 여성이랑 정반대 정도를 떠나서 다른 세계야.. https://t.co/ybbXjEzpqr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				89
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1246482281826377700,
+						"id_str": "1246482281826377729",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/EUxlB_sUYAEQ6hC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUxlB_sUYAEQ6hC.jpg",
+						"url": "https://t.co/ybbXjEzpqr",
+						"display_url": "pic.twitter.com/ybbXjEzpqr",
+						"expanded_url": "https://twitter.com/Hadrianus753/status/1246482326621523968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 308,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 978,
+								"h": 443,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 978,
+								"h": 443,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1246482281826377700,
+						"id_str": "1246482281826377729",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/media/EUxlB_sUYAEQ6hC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUxlB_sUYAEQ6hC.jpg",
+						"url": "https://t.co/ybbXjEzpqr",
+						"display_url": "pic.twitter.com/ybbXjEzpqr",
+						"expanded_url": "https://twitter.com/Hadrianus753/status/1246482326621523968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 308,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 978,
+								"h": 443,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 978,
+								"h": 443,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1140251360,
+				"id_str": "1140251360",
+				"name": "■까만사각형 레고■",
+				"screen_name": "Hadrianus753",
+				"location": "조선",
+				"description": "이것저것 씁니다 / 이것저것 혐오 안받아요 / 사회주의입니다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 972,
+				"friends_count": 292,
+				"listed_count": 21,
+				"created_at": "Fri Feb 01 17:18:12 +0000 2013",
+				"favourites_count": 4695,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 146289,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1245364879134838785/V2S6hTA2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245364879134838785/V2S6hTA2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1140251360/1566542009",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 54,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아득한 절망.\nhttps://t.co/TBoFJlHBav"
+	},
+	{
 		"created_at": "Sat Apr 04 07:34:22 +0000 2020",
 		"id": 1246337306300166100,
 		"id_str": "1246340316711407616",
