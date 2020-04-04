@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 04 07:34:22 +0000 2020",
+		"id": 1246337306300166100,
+		"id_str": "1246340316711407616",
+		"full_text": "구글의 mobility report를 모아 소매업과 여가 분야에서 이동량이 얼마나 줄었는지 국가간 비교한 그래프. 한국은 진짜 일상을 그래도 일정 수준 유지하면서 방역을 하고 있구나. 거의 집단면역(이라고 쓰고 손 놨다고 읽는다)을 시도하고 있는 스웨덴 보다 높은 수준. https://t.co/KnJ08h84RY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1246337302584012800,
+					"id_str": "1246337302584012801",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EUvhLF7WsAEYL5t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUvhLF7WsAEYL5t.jpg",
+					"url": "https://t.co/KnJ08h84RY",
+					"display_url": "pic.twitter.com/KnJ08h84RY",
+					"expanded_url": "https://twitter.com/shinhh/status/1246337306300166149/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1236,
+							"h": 832,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 808,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246337302584012800,
+					"id_str": "1246337302584012801",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EUvhLF7WsAEYL5t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUvhLF7WsAEYL5t.jpg",
+					"url": "https://t.co/KnJ08h84RY",
+					"display_url": "pic.twitter.com/KnJ08h84RY",
+					"expanded_url": "https://twitter.com/shinhh/status/1246337306300166149/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1236,
+							"h": 832,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 808,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 53305769,
+			"id_str": "53305769",
+			"name": "Hyunho Shin",
+			"screen_name": "shinhh",
+			"location": "New York, USA",
+			"description": "\"If this isn't nice, what is?” 원고문의: hyunho.shin@outlook.com",
+			"url": "https://t.co/LSaoU0hHJp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LSaoU0hHJp",
+							"expanded_url": "https://peing.net/ko/shinhh?event=0h",
+							"display_url": "peing.net/ko/shinhh?even…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22935,
+			"friends_count": 638,
+			"listed_count": 197,
+			"created_at": "Fri Jul 03 05:35:31 +0000 2009",
+			"favourites_count": 19915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54363,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264567085/beach_umbrella_71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264567085/beach_umbrella_71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53305769/1401459717",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 145,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구글의 mobility report를 모아 소매업과 여가 분야에서 이동량이 얼마나 줄었는지 국가간 비교한 그래프. 한국은 진짜 일상을 그래도 일정 수준 유지하면서 방역을 하고 있구나. 거의 집단면역(이라고 쓰고 손 놨다고 읽는다)을 시도하고 있는 스웨덴 보다 높은 수준. https://t.co/KnJ08h84RY"
+	},
+	{
 		"created_at": "Sat Apr 04 03:02:14 +0000 2020",
 		"id": 1246271834741334000,
 		"id_str": "1246271834741334017",
