@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 05 21:35:20 +0000 2020",
+		"id": 1246762624840282000,
+		"id_str": "1246914343456800768",
+		"full_text": "‘입이 심심하다’는 한국어는 이런 상황을 아주 절묘하게 포착하고 있는거죠. https://t.co/SknZWNTpeM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SknZWNTpeM",
+					"expanded_url": "https://twitter.com/pierregeoffroy1/status/1246717826397863936",
+					"display_url": "twitter.com/pierregeoffroy…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 53305769,
+			"id_str": "53305769",
+			"name": "Hyunho Shin",
+			"screen_name": "shinhh",
+			"location": "New York, USA",
+			"description": "\"If this isn't nice, what is?” 원고문의: hyunho.shin@outlook.com",
+			"url": "https://t.co/LSaoU0hHJp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LSaoU0hHJp",
+							"expanded_url": "https://peing.net/ko/shinhh?event=0h",
+							"display_url": "peing.net/ko/shinhh?even…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22996,
+			"friends_count": 636,
+			"listed_count": 199,
+			"created_at": "Fri Jul 03 05:35:31 +0000 2009",
+			"favourites_count": 19894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54402,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264567085/beach_umbrella_71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264567085/beach_umbrella_71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53305769/1401459717",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1246717826397864000,
+		"quoted_status_id_str": "1246717826397863936",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SknZWNTpeM",
+			"expanded": "https://twitter.com/pierregeoffroy1/status/1246717826397863936",
+			"display": "twitter.com/pierregeoffroy…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 05 08:34:27 +0000 2020",
+			"id": 1246717826397864000,
+			"id_str": "1246717826397863936",
+			"full_text": "Moi depuis le début du confinement https://t.co/gHMeYRm4Q2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				34
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1246717820693631000,
+						"id_str": "1246717820693630976",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/EU07QKWX0AADxMO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EU07QKWX0AADxMO.jpg",
+						"url": "https://t.co/gHMeYRm4Q2",
+						"display_url": "pic.twitter.com/gHMeYRm4Q2",
+						"expanded_url": "https://twitter.com/PierreGeoffroy1/status/1246717826397863936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1246717820693631000,
+						"id_str": "1246717820693630976",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/EU07QKWX0AADxMO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EU07QKWX0AADxMO.jpg",
+						"url": "https://t.co/gHMeYRm4Q2",
+						"display_url": "pic.twitter.com/gHMeYRm4Q2",
+						"expanded_url": "https://twitter.com/PierreGeoffroy1/status/1246717826397863936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 622671328,
+				"id_str": "622671328",
+				"name": "Pierre Geoffroy",
+				"screen_name": "PierreGeoffroy1",
+				"location": "",
+				"description": "Passion architecture, patrimoine et urbanisme",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 753,
+				"friends_count": 626,
+				"listed_count": 8,
+				"created_at": "Sat Jun 30 09:21:19 +0000 2012",
+				"favourites_count": 1462,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 836,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1176377071418953730/ZOjC0Ap8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176377071418953730/ZOjC0Ap8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/622671328/1533471865",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 339,
+			"favorite_count": 192,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 988,
+		"favorite_count": 399,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘입이 심심하다’는 한국어는 이런 상황을 아주 절묘하게 포착하고 있는거죠. https://t.co/SknZWNTpeM"
+	},
+	{
 		"created_at": "Sun Apr 05 19:22:44 +0000 2020",
 		"id": 1246679830445191200,
 		"id_str": "1246880973062467585",
