@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 00:34:35 +0000 2020",
+		"id": 1247321841896579000,
+		"id_str": "1247321841896579072",
+		"full_text": "징그럽게 쓴다, 정말. 2019년 말에는 1인당 월 평균 소비량이 10G를 넘었다고. https://t.co/oIAz5qtmH9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247321587067437000,
+					"id_str": "1247321587067437058",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EU9gX_XUwAIKreO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU9gX_XUwAIKreO.jpg",
+					"url": "https://t.co/oIAz5qtmH9",
+					"display_url": "pic.twitter.com/oIAz5qtmH9",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1247321841896579072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 385,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 385,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247321587067437000,
+					"id_str": "1247321587067437058",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EU9gX_XUwAIKreO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU9gX_XUwAIKreO.jpg",
+					"url": "https://t.co/oIAz5qtmH9",
+					"display_url": "pic.twitter.com/oIAz5qtmH9",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1247321841896579072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 385,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 385,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247311221474246700,
+		"in_reply_to_status_id_str": "1247311221474246656",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 87,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1685,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "징그럽게 쓴다, 정말. 2019년 말에는 1인당 월 평균 소비량이 10G를 넘었다고. https://t.co/oIAz5qtmH9"
+	},
+	{
 		"created_at": "Mon Apr 06 23:52:23 +0000 2020",
 		"id": 1247311221474246700,
 		"id_str": "1247311221474246656",
