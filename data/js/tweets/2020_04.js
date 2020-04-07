@@ -1,6 +1,371 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 11:29:54 +0000 2020",
+		"id": 1227677061424111600,
+		"id_str": "1247486756594671617",
+		"full_text": "유학 온 첫 해 학교 유학생들 위한 인터내셔널 센터에서 팟타임으로 일할 때 한국 공무원들 단체 연수 프로그램의 공동 통역 제의를 받은 적이 있었다. 그때 센터 직원들이 한국 4,50대 아재들의 음식부터 시작해 라이드, 관광 등등 별별 요구에 두 손, 두 발 다 들었음. Very demanding이라 표현ㅜㅜ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 409005686,
+			"id_str": "409005686",
+			"name": "RainB",
+			"screen_name": "angelesyogi",
+			"location": " Near Pathetic Ocean",
+			"description": "God bless the weatherman/Jimin Park 밥 사주기 미국 서부지역 모임/조용히 지랄맞습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6344,
+			"friends_count": 2269,
+			"listed_count": 46,
+			"created_at": "Thu Nov 10 04:57:19 +0000 2011",
+			"favourites_count": 6791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 127970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202804202633719814/I02rXG3e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202804202633719814/I02rXG3e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/409005686/1570490481",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "유학 온 첫 해 학교 유학생들 위한 인터내셔널 센터에서 팟타임으로 일할 때 한국 공무원들 단체 연수 프로그램의 공동 통역 제의를 받은 적이 있었다. 그때 센터 직원들이 한국 4,50대 아재들의 음식부터 시작해 라이드, 관광 등등 별별 요구에 두 손, 두 발 다 들었음. Very demanding이라 표현ㅜㅜ"
+	},
+	{
+		"created_at": "Tue Apr 07 11:28:21 +0000 2020",
+		"id": 1239492771699818500,
+		"id_str": "1247486365647794178",
+		"full_text": "강경화 장관의 BBC 인터뷰에서 인상적이었던 대목은 “우리 국민은 정부에 대한 요구 수준이 높다”였다. 동네북으로 때려대고 공무원 갈아먹고 갑질하는 걸 그렇게 고상하게 표현하다니... 이런 게 바로 국격을 높이는 일인가!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 470264629,
+			"id_str": "470264629",
+			"name": "논리 없고 무지한 웃 는 개",
+			"screen_name": "L_walkorthink",
+			"location": "대한민국 고양시",
+			"description": "",
+			"url": "https://t.co/nJkTDVg2mp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nJkTDVg2mp",
+							"expanded_url": "https://polle.com/inoo2",
+							"display_url": "polle.com/inoo2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3027,
+			"friends_count": 743,
+			"listed_count": 29,
+			"created_at": "Sat Jan 21 14:10:30 +0000 2012",
+			"favourites_count": 20116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 169953,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211998599799693312/EBi0wER0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211998599799693312/EBi0wER0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/470264629/1577799627",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6304,
+		"favorite_count": 3929,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "강경화 장관의 BBC 인터뷰에서 인상적이었던 대목은 “우리 국민은 정부에 대한 요구 수준이 높다”였다. 동네북으로 때려대고 공무원 갈아먹고 갑질하는 걸 그렇게 고상하게 표현하다니... 이런 게 바로 국격을 높이는 일인가!"
+	},
+	{
+		"created_at": "Tue Apr 07 11:26:28 +0000 2020",
+		"id": 1239415124965785600,
+		"id_str": "1247485890714144768",
+		"full_text": "\"Our public is very demanding and expects the highest standards from government services\"\n\n강경화 인터뷰 중 가장 마음에 들었던 부분. 시민들의 주권의식이 강하기 때문에 정부는 거기에 부응 할 수 밖에 없다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42567931,
+			"id_str": "42567931",
+			"name": "일기통관",
+			"screen_name": "corwin1129",
+			"location": "Seoul",
+			"description": "Mistborn, 오마이걸, NCT, 이달소 붐은 온다!",
+			"url": "https://t.co/8U3n76Lk4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8U3n76Lk4F",
+							"expanded_url": "http://blog.naver.com/corwin77",
+							"display_url": "blog.naver.com/corwin77",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2950,
+			"friends_count": 1378,
+			"listed_count": 80,
+			"created_at": "Tue May 26 04:55:02 +0000 2009",
+			"favourites_count": 3605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 111786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42567931/1565051000",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"Our public is very demanding and expects the highest standards from government services\"\n\n강경화 인터뷰 중 가장 마음에 들었던 부분. 시민들의 주권의식이 강하기 때문에 정부는 거기에 부응 할 수 밖에 없다."
+	},
+	{
+		"created_at": "Tue Apr 07 11:23:55 +0000 2020",
+		"id": 1247485248671076400,
+		"id_str": "1247485248671076353",
+		"full_text": "구현하는데 실패하고 말았다.\"\n* 대통령훈령 제70호, 1998.6.30, 제정.\nhttps://t.co/j3Pq8EVman",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j3Pq8EVman",
+					"expanded_url": "https://www.klri.re.kr/kor/publication/527/view.do",
+					"display_url": "klri.re.kr/kor/publicatio…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247484939894845400,
+		"in_reply_to_status_id_str": "1247484939894845440",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 87,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구현하는데 실패하고 말았다.\"\n* 대통령훈령 제70호, 1998.6.30, 제정.\nhttps://t.co/j3Pq8EVman"
+	},
+	{
 		"created_at": "Tue Apr 07 10:58:18 +0000 2020",
 		"id": 1247478803024081000,
 		"id_str": "1247478803024080901",
@@ -202,7 +567,7 @@ Grailbird.data.tweets_2020_04 =
 			"name": "중세인장 모드 아페리🍷",
 			"screen_name": "aperitif89",
 			"location": "厳島神社",
-			"description": "広島(2014.6-2016.3) 大阪(2016.3-2017.1 ) 알티 많음. 별거 없음.  #아페리수영일기 🏊‍♀️",
+			"description": "広島(2014.6-2016.3) 大阪(2016.3-2017.1 ) 알티 많음. 별거 없음.  #아페리수영일기 🏊♀️",
 			"url": null,
 			"entities": {
 				"description": {
@@ -284,7 +649,7 @@ Grailbird.data.tweets_2020_04 =
 			"name": "중세인장 모드 아페리🍷",
 			"screen_name": "aperitif89",
 			"location": "厳島神社",
-			"description": "広島(2014.6-2016.3) 大阪(2016.3-2017.1 ) 알티 많음. 별거 없음.  #아페리수영일기 🏊‍♀️",
+			"description": "広島(2014.6-2016.3) 大阪(2016.3-2017.1 ) 알티 많음. 별거 없음.  #아페리수영일기 🏊♀️",
 			"url": null,
 			"entities": {
 				"description": {
@@ -366,7 +731,7 @@ Grailbird.data.tweets_2020_04 =
 			"name": "중세인장 모드 아페리🍷",
 			"screen_name": "aperitif89",
 			"location": "厳島神社",
-			"description": "広島(2014.6-2016.3) 大阪(2016.3-2017.1 ) 알티 많음. 별거 없음.  #아페리수영일기 🏊‍♀️",
+			"description": "広島(2014.6-2016.3) 大阪(2016.3-2017.1 ) 알티 많음. 별거 없음.  #아페리수영일기 🏊♀️",
 			"url": null,
 			"entities": {
 				"description": {
