@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 09:53:02 +0000 2020",
+		"id": 1247355887468986400,
+		"id_str": "1247462378515468289",
+		"full_text": "한 마디만 더 얹자면... 그래서 저런 사회화 덜 된 새끼들이 사회의 요직을 독점할 걸 생각하니 너무 빡치네요... 아니 진심으로... 빡친다고... 정말 저런 새끼들한테 제 미래를 일부 믿고 맡겨도 될까요? 쟤네들이 우리 교수 고용주 주치의 국회의원 등등 하겠다고 설칠 거라고... 아오...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1247354016297701400,
+		"in_reply_to_status_id_str": "1247354016297701377",
+		"in_reply_to_user_id": 1242267715571601400,
+		"in_reply_to_user_id_str": "1242267715571601408",
+		"in_reply_to_screen_name": "Gwanseeumbosal_",
+		"user": {
+			"id": 1242267715571601400,
+			"id_str": "1242267715571601408",
+			"name": "릴라린 / 두루미",
+			"screen_name": "Gwanseeumbosal_",
+			"location": "극락 ",
+			"description": "星エコ / OC / 刀剣乱舞 / ラブライブ / History / TRPG 아무튼 릴라린 두루미의 계이계 내 본계를 돌리도",
+			"url": "https://t.co/WXREXzzTjR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WXREXzzTjR",
+							"expanded_url": "https://lilalindurumioc.postype.com/",
+							"display_url": "lilalindurumioc.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 163,
+			"friends_count": 172,
+			"listed_count": 0,
+			"created_at": "Tue Mar 24 01:51:28 +0000 2020",
+			"favourites_count": 375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242305565159616513/g_G5vHDh_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242305565159616513/g_G5vHDh_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1242267715571601408/1585014976",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 701,
+		"favorite_count": 129,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한 마디만 더 얹자면... 그래서 저런 사회화 덜 된 새끼들이 사회의 요직을 독점할 걸 생각하니 너무 빡치네요... 아니 진심으로... 빡친다고... 정말 저런 새끼들한테 제 미래를 일부 믿고 맡겨도 될까요? 쟤네들이 우리 교수 고용주 주치의 국회의원 등등 하겠다고 설칠 거라고... 아오..."
+	},
+	{
+		"created_at": "Tue Apr 07 09:53:01 +0000 2020",
+		"id": 1247354016297701400,
+		"id_str": "1247462372861595649",
+		"full_text": "그래서 뭔 말이냐... 당장 제 주변의 부잣집 친구들은 부유함이 어쩔 수 없이 드러나도 고의로 남을 상처입히거나 자신의 삶을 디폴트로 여기지는 않아서요... 내가 일방적으로 비참해졌을 순 있어도 걔네가 기만하고 지랄해서 내 기분 엿같았단 적은 거의 없음",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1247354008580186000,
+		"in_reply_to_status_id_str": "1247354008580186112",
+		"in_reply_to_user_id": 1242267715571601400,
+		"in_reply_to_user_id_str": "1242267715571601408",
+		"in_reply_to_screen_name": "Gwanseeumbosal_",
+		"user": {
+			"id": 1242267715571601400,
+			"id_str": "1242267715571601408",
+			"name": "릴라린 / 두루미",
+			"screen_name": "Gwanseeumbosal_",
+			"location": "극락 ",
+			"description": "星エコ / OC / 刀剣乱舞 / ラブライブ / History / TRPG 아무튼 릴라린 두루미의 계이계 내 본계를 돌리도",
+			"url": "https://t.co/WXREXzzTjR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WXREXzzTjR",
+							"expanded_url": "https://lilalindurumioc.postype.com/",
+							"display_url": "lilalindurumioc.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 163,
+			"friends_count": 172,
+			"listed_count": 0,
+			"created_at": "Tue Mar 24 01:51:28 +0000 2020",
+			"favourites_count": 375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242305565159616513/g_G5vHDh_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242305565159616513/g_G5vHDh_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1242267715571601408/1585014976",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 487,
+		"favorite_count": 107,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그래서 뭔 말이냐... 당장 제 주변의 부잣집 친구들은 부유함이 어쩔 수 없이 드러나도 고의로 남을 상처입히거나 자신의 삶을 디폴트로 여기지는 않아서요... 내가 일방적으로 비참해졌을 순 있어도 걔네가 기만하고 지랄해서 내 기분 엿같았단 적은 거의 없음"
+	},
+	{
+		"created_at": "Tue Apr 07 09:52:59 +0000 2020",
+		"id": 1247354008580186000,
+		"id_str": "1247462367874527232",
+		"full_text": "이런 게 사회화 아니겠어요... 다양한 삶을 목격하고 타인을 존중할 줄 알게 하기... 보통 학교에 가면 나보다 부자인 집 친구 조금 열악한 환경에서 사는 친구 다 만나니까 의무교육 거치면 정상적인 인간은 가만히 있을 줄을 안다... 근데 저어기 갱냄 친구들은 뭐 어쩌겠어요... 어휴씨발",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1247354000317411300,
+		"in_reply_to_status_id_str": "1247354000317411329",
+		"in_reply_to_user_id": 1242267715571601400,
+		"in_reply_to_user_id_str": "1242267715571601408",
+		"in_reply_to_screen_name": "Gwanseeumbosal_",
+		"user": {
+			"id": 1242267715571601400,
+			"id_str": "1242267715571601408",
+			"name": "릴라린 / 두루미",
+			"screen_name": "Gwanseeumbosal_",
+			"location": "극락 ",
+			"description": "星エコ / OC / 刀剣乱舞 / ラブライブ / History / TRPG 아무튼 릴라린 두루미의 계이계 내 본계를 돌리도",
+			"url": "https://t.co/WXREXzzTjR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WXREXzzTjR",
+							"expanded_url": "https://lilalindurumioc.postype.com/",
+							"display_url": "lilalindurumioc.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 163,
+			"friends_count": 172,
+			"listed_count": 0,
+			"created_at": "Tue Mar 24 01:51:28 +0000 2020",
+			"favourites_count": 375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242305565159616513/g_G5vHDh_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242305565159616513/g_G5vHDh_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1242267715571601408/1585014976",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 949,
+		"favorite_count": 149,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이런 게 사회화 아니겠어요... 다양한 삶을 목격하고 타인을 존중할 줄 알게 하기... 보통 학교에 가면 나보다 부자인 집 친구 조금 열악한 환경에서 사는 친구 다 만나니까 의무교육 거치면 정상적인 인간은 가만히 있을 줄을 안다... 근데 저어기 갱냄 친구들은 뭐 어쩌겠어요... 어휴씨발"
+	},
+	{
 		"created_at": "Tue Apr 07 08:26:51 +0000 2020",
 		"id": 1247440692151869400,
 		"id_str": "1247440692151869441",
