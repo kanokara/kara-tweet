@@ -1,6 +1,1179 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 08 06:19:09 +0000 2020",
+		"id": 1247472214540038100,
+		"id_str": "1247770940181626880",
+		"full_text": "#10 주기적 컨택\n협업을 해야 하는데 재택근무 때문에 협업이 잘 안된다면, 이것도 타이머를 설정해두고 주기적으로 컨택을 합시다. 일을 보고하거나 도움을 구하거나 진행 현황을 물어보는 식으로요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247472211914416000,
+		"in_reply_to_status_id_str": "1247472211914416134",
+		"in_reply_to_user_id": 943506007459733500,
+		"in_reply_to_user_id_str": "943506007459733504",
+		"in_reply_to_screen_name": "psychoseahorse",
+		"user": {
+			"id": 943506007459733500,
+			"id_str": "943506007459733504",
+			"name": "해마",
+			"screen_name": "psychoseahorse",
+			"location": "",
+			"description": "심리학 정병러인권 일상/ ADHD 양극성장애인 당사자",
+			"url": "https://t.co/KuuhBmS08h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KuuhBmS08h",
+							"expanded_url": "http://asked.kr/psychoseahorse",
+							"display_url": "asked.kr/psychoseahorse",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 831,
+			"friends_count": 120,
+			"listed_count": 2,
+			"created_at": "Wed Dec 20 15:38:56 +0000 2017",
+			"favourites_count": 19442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245285121407631362/2fvhRbBl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245285121407631362/2fvhRbBl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/943506007459733504/1578845938",
+			"profile_link_color": "7DC1C4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 142,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#10 주기적 컨택\n협업을 해야 하는데 재택근무 때문에 협업이 잘 안된다면, 이것도 타이머를 설정해두고 주기적으로 컨택을 합시다. 일을 보고하거나 도움을 구하거나 진행 현황을 물어보는 식으로요."
+	},
+	{
+		"created_at": "Wed Apr 08 06:19:04 +0000 2020",
+		"id": 1247472211914416000,
+		"id_str": "1247770920204161025",
+		"full_text": "#9 덜 지루하게 일하기\n한 가지 일에만 집중하는 것이 어려운 사람은 데드라인이 급한 일 3~4개 정도를 눈에 잘 띄는 곳에 크게 써 붙여놓고 이거 했다 저거 했다가 하는 식으로 작업하는 것도 방법일 수 있어요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247472210278625300,
+		"in_reply_to_status_id_str": "1247472210278625280",
+		"in_reply_to_user_id": 943506007459733500,
+		"in_reply_to_user_id_str": "943506007459733504",
+		"in_reply_to_screen_name": "psychoseahorse",
+		"user": {
+			"id": 943506007459733500,
+			"id_str": "943506007459733504",
+			"name": "해마",
+			"screen_name": "psychoseahorse",
+			"location": "",
+			"description": "심리학 정병러인권 일상/ ADHD 양극성장애인 당사자",
+			"url": "https://t.co/KuuhBmS08h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KuuhBmS08h",
+							"expanded_url": "http://asked.kr/psychoseahorse",
+							"display_url": "asked.kr/psychoseahorse",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 831,
+			"friends_count": 120,
+			"listed_count": 2,
+			"created_at": "Wed Dec 20 15:38:56 +0000 2017",
+			"favourites_count": 19442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245285121407631362/2fvhRbBl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245285121407631362/2fvhRbBl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/943506007459733504/1578845938",
+			"profile_link_color": "7DC1C4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 141,
+		"favorite_count": 204,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#9 덜 지루하게 일하기\n한 가지 일에만 집중하는 것이 어려운 사람은 데드라인이 급한 일 3~4개 정도를 눈에 잘 띄는 곳에 크게 써 붙여놓고 이거 했다 저거 했다가 하는 식으로 작업하는 것도 방법일 수 있어요."
+	},
+	{
+		"created_at": "Wed Apr 08 06:18:59 +0000 2020",
+		"id": 1247472210278625300,
+		"id_str": "1247770897391292419",
+		"full_text": "#8 북마크바 가리기\n컴퓨터 작업을 많이 한다면 북마크바는 가려두는 게 좋습니다. 웹서핑에 대한 유혹을 참는데 인지적 자원을 소모하지 말자고요ㅋㅋ (크롬기준) ‘보기’ &gt; ‘북마크바 항상 표시’ 체크 해제",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247472062601420800,
+		"in_reply_to_status_id_str": "1247472062601420801",
+		"in_reply_to_user_id": 943506007459733500,
+		"in_reply_to_user_id_str": "943506007459733504",
+		"in_reply_to_screen_name": "psychoseahorse",
+		"user": {
+			"id": 943506007459733500,
+			"id_str": "943506007459733504",
+			"name": "해마",
+			"screen_name": "psychoseahorse",
+			"location": "",
+			"description": "심리학 정병러인권 일상/ ADHD 양극성장애인 당사자",
+			"url": "https://t.co/KuuhBmS08h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KuuhBmS08h",
+							"expanded_url": "http://asked.kr/psychoseahorse",
+							"display_url": "asked.kr/psychoseahorse",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 831,
+			"friends_count": 120,
+			"listed_count": 2,
+			"created_at": "Wed Dec 20 15:38:56 +0000 2017",
+			"favourites_count": 19442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245285121407631362/2fvhRbBl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245285121407631362/2fvhRbBl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/943506007459733504/1578845938",
+			"profile_link_color": "7DC1C4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 159,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#8 북마크바 가리기\n컴퓨터 작업을 많이 한다면 북마크바는 가려두는 게 좋습니다. 웹서핑에 대한 유혹을 참는데 인지적 자원을 소모하지 말자고요ㅋㅋ (크롬기준) ‘보기’ &gt; ‘북마크바 항상 표시’ 체크 해제"
+	},
+	{
+		"created_at": "Wed Apr 08 06:18:50 +0000 2020",
+		"id": 1247472013234458600,
+		"id_str": "1247770861764874241",
+		"full_text": "#6 주변 사람들에게 양해 구하기\n노동시간을 딱 정해놓고 그 시간만큼은 방해하지 말아 달라고 동거자들에게 꼭 양해를 구해둡시다. 우리는 한번 집중이 깨지면 다시 일에 집중하기가 정말 힘들잖아요. 일과 관련된 공간적, 시간적 경계를 만듭시다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247471900810293200,
+		"in_reply_to_status_id_str": "1247471900810293248",
+		"in_reply_to_user_id": 943506007459733500,
+		"in_reply_to_user_id_str": "943506007459733504",
+		"in_reply_to_screen_name": "psychoseahorse",
+		"user": {
+			"id": 943506007459733500,
+			"id_str": "943506007459733504",
+			"name": "해마",
+			"screen_name": "psychoseahorse",
+			"location": "",
+			"description": "심리학 정병러인권 일상/ ADHD 양극성장애인 당사자",
+			"url": "https://t.co/KuuhBmS08h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KuuhBmS08h",
+							"expanded_url": "http://asked.kr/psychoseahorse",
+							"display_url": "asked.kr/psychoseahorse",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 831,
+			"friends_count": 120,
+			"listed_count": 2,
+			"created_at": "Wed Dec 20 15:38:56 +0000 2017",
+			"favourites_count": 19442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245285121407631362/2fvhRbBl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245285121407631362/2fvhRbBl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/943506007459733504/1578845938",
+			"profile_link_color": "7DC1C4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 124,
+		"favorite_count": 186,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#6 주변 사람들에게 양해 구하기\n노동시간을 딱 정해놓고 그 시간만큼은 방해하지 말아 달라고 동거자들에게 꼭 양해를 구해둡시다. 우리는 한번 집중이 깨지면 다시 일에 집중하기가 정말 힘들잖아요. 일과 관련된 공간적, 시간적 경계를 만듭시다."
+	},
+	{
+		"created_at": "Wed Apr 08 06:18:48 +0000 2020",
+		"id": 1247471900810293200,
+		"id_str": "1247770853456019463",
+		"full_text": "#5 유산소 운동\n유산소 운동을 하면 주의력이 바로 부스트된답니다. 그리고 주의력 부스트 효과는 보통 그 날 자기 전까지 강하게 지속이 된다고 하니까 기왕이면 아침에 운동하는게 좋겠지요! (물론 장기적 효과도 있어요! 여러모로 유산소운동은 뇌에 아주 좋아요.)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247471809974300700,
+		"in_reply_to_status_id_str": "1247471809974300681",
+		"in_reply_to_user_id": 943506007459733500,
+		"in_reply_to_user_id_str": "943506007459733504",
+		"in_reply_to_screen_name": "psychoseahorse",
+		"user": {
+			"id": 943506007459733500,
+			"id_str": "943506007459733504",
+			"name": "해마",
+			"screen_name": "psychoseahorse",
+			"location": "",
+			"description": "심리학 정병러인권 일상/ ADHD 양극성장애인 당사자",
+			"url": "https://t.co/KuuhBmS08h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KuuhBmS08h",
+							"expanded_url": "http://asked.kr/psychoseahorse",
+							"display_url": "asked.kr/psychoseahorse",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 831,
+			"friends_count": 120,
+			"listed_count": 2,
+			"created_at": "Wed Dec 20 15:38:56 +0000 2017",
+			"favourites_count": 19442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245285121407631362/2fvhRbBl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245285121407631362/2fvhRbBl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/943506007459733504/1578845938",
+			"profile_link_color": "7DC1C4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 294,
+		"favorite_count": 330,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#5 유산소 운동\n유산소 운동을 하면 주의력이 바로 부스트된답니다. 그리고 주의력 부스트 효과는 보통 그 날 자기 전까지 강하게 지속이 된다고 하니까 기왕이면 아침에 운동하는게 좋겠지요! (물론 장기적 효과도 있어요! 여러모로 유산소운동은 뇌에 아주 좋아요.)"
+	},
+	{
+		"created_at": "Wed Apr 08 06:18:46 +0000 2020",
+		"id": 1247471809974300700,
+		"id_str": "1247770843855241222",
+		"full_text": "#4 집중 잘되는 시간 파악하기\n뻔한 이야기일지도 모르겠습니다만, 하루 중 작업이 잘 되는 시간을 파악해서 그 시간은 일하는 시간으로 절대 사수합시다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247471698972008400,
+		"in_reply_to_status_id_str": "1247471698972008449",
+		"in_reply_to_user_id": 943506007459733500,
+		"in_reply_to_user_id_str": "943506007459733504",
+		"in_reply_to_screen_name": "psychoseahorse",
+		"user": {
+			"id": 943506007459733500,
+			"id_str": "943506007459733504",
+			"name": "해마",
+			"screen_name": "psychoseahorse",
+			"location": "",
+			"description": "심리학 정병러인권 일상/ ADHD 양극성장애인 당사자",
+			"url": "https://t.co/KuuhBmS08h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KuuhBmS08h",
+							"expanded_url": "http://asked.kr/psychoseahorse",
+							"display_url": "asked.kr/psychoseahorse",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 831,
+			"friends_count": 120,
+			"listed_count": 2,
+			"created_at": "Wed Dec 20 15:38:56 +0000 2017",
+			"favourites_count": 19442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245285121407631362/2fvhRbBl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245285121407631362/2fvhRbBl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/943506007459733504/1578845938",
+			"profile_link_color": "7DC1C4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 141,
+		"favorite_count": 209,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#4 집중 잘되는 시간 파악하기\n뻔한 이야기일지도 모르겠습니다만, 하루 중 작업이 잘 되는 시간을 파악해서 그 시간은 일하는 시간으로 절대 사수합시다."
+	},
+	{
+		"created_at": "Wed Apr 08 06:18:41 +0000 2020",
+		"id": 1247471698972008400,
+		"id_str": "1247770823038873600",
+		"full_text": "시간 계획에 익숙하지 않은 분이라면 도파루파님의 글을 참고하세요! 엄청 유익합니다. https://t.co/2tzKJdUjQt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2tzKJdUjQt",
+					"expanded_url": "https://twitter.com/doparupa_/status/1242368368176291840?s=20",
+					"display_url": "twitter.com/doparupa_/stat…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247471425557946400,
+		"in_reply_to_status_id_str": "1247471425557946368",
+		"in_reply_to_user_id": 943506007459733500,
+		"in_reply_to_user_id_str": "943506007459733504",
+		"in_reply_to_screen_name": "psychoseahorse",
+		"user": {
+			"id": 943506007459733500,
+			"id_str": "943506007459733504",
+			"name": "해마",
+			"screen_name": "psychoseahorse",
+			"location": "",
+			"description": "심리학 정병러인권 일상/ ADHD 양극성장애인 당사자",
+			"url": "https://t.co/KuuhBmS08h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KuuhBmS08h",
+							"expanded_url": "http://asked.kr/psychoseahorse",
+							"display_url": "asked.kr/psychoseahorse",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 831,
+			"friends_count": 120,
+			"listed_count": 2,
+			"created_at": "Wed Dec 20 15:38:56 +0000 2017",
+			"favourites_count": 19442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245285121407631362/2fvhRbBl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245285121407631362/2fvhRbBl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/943506007459733504/1578845938",
+			"profile_link_color": "7DC1C4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1242368368176291800,
+		"quoted_status_id_str": "1242368368176291840",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2tzKJdUjQt",
+			"expanded": "https://twitter.com/doparupa_/status/1242368368176291840?s=20",
+			"display": "twitter.com/doparupa_/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 24 08:31:15 +0000 2020",
+			"id": 1242368368176291800,
+			"id_str": "1242368368176291840",
+			"full_text": "ADHD를 위한 자기 계발①:  시간관리 by 도파루파 https://t.co/xqOuwDTK3i #브런치 \n여러분 저의 첫번째 글이 발행되었어요! 계획을 어떻게 짜야하는지 모르거나, 이상하게 Todo 리스트를 짜도 실행이 안되는 분들에게 추천하는 방법이에요🥰",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				145
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "브런치",
+						"indices": [
+							55,
+							59
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xqOuwDTK3i",
+						"expanded_url": "https://brunch.co.kr/@doparupa/1",
+						"display_url": "brunch.co.kr/@doparupa/1",
+						"indices": [
+							31,
+							54
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1191199396756459500,
+				"id_str": "1191199396756459520",
+				"name": "도파루파",
+				"screen_name": "doparupa_",
+				"location": "",
+				"description": "ADHD / ENFP / ADHD의 자기계발에 대해 글을 씁니다 / 맞팔은 DM 또는 멘션으로 https://t.co/5bOc68mFtg",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/5bOc68mFtg",
+								"expanded_url": "https://brunch.co.kr/@doparupa",
+								"display_url": "brunch.co.kr/@doparupa",
+								"indices": [
+									53,
+									76
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 353,
+				"friends_count": 129,
+				"listed_count": 0,
+				"created_at": "Mon Nov 04 03:44:09 +0000 2019",
+				"favourites_count": 2690,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1880,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1237170663535730688/16z4lOCS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1237170663535730688/16z4lOCS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1191199396756459520/1583799494",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1177,
+			"favorite_count": 1065,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "ko"
+		},
+		"retweet_count": 244,
+		"favorite_count": 348,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "시간 계획에 익숙하지 않은 분이라면 도파루파님의 글을 참고하세요! 엄청 유익합니다. https://t.co/2tzKJdUjQt"
+	},
+	{
+		"created_at": "Wed Apr 08 06:18:38 +0000 2020",
+		"id": 1247471425557946400,
+		"id_str": "1247770810279800837",
+		"full_text": "#3 계획표 쓰기\n2번 타이머에 더해서 시간별 스케줄표를 만들어서 루틴을 지키는 것을 매우 추천드려요. 주의력이 약한 사람 특성상 계획하는 게 너무 귀찮겠지만!! 건강하지 않은 과집중을 예방하고 건강한 생활을 하는 데 아주 좋아요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247471257269833700,
+		"in_reply_to_status_id_str": "1247471257269833728",
+		"in_reply_to_user_id": 943506007459733500,
+		"in_reply_to_user_id_str": "943506007459733504",
+		"in_reply_to_screen_name": "psychoseahorse",
+		"user": {
+			"id": 943506007459733500,
+			"id_str": "943506007459733504",
+			"name": "해마",
+			"screen_name": "psychoseahorse",
+			"location": "",
+			"description": "심리학 정병러인권 일상/ ADHD 양극성장애인 당사자",
+			"url": "https://t.co/KuuhBmS08h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KuuhBmS08h",
+							"expanded_url": "http://asked.kr/psychoseahorse",
+							"display_url": "asked.kr/psychoseahorse",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 831,
+			"friends_count": 120,
+			"listed_count": 2,
+			"created_at": "Wed Dec 20 15:38:56 +0000 2017",
+			"favourites_count": 19442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245285121407631362/2fvhRbBl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245285121407631362/2fvhRbBl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/943506007459733504/1578845938",
+			"profile_link_color": "7DC1C4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 246,
+		"favorite_count": 316,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#3 계획표 쓰기\n2번 타이머에 더해서 시간별 스케줄표를 만들어서 루틴을 지키는 것을 매우 추천드려요. 주의력이 약한 사람 특성상 계획하는 게 너무 귀찮겠지만!! 건강하지 않은 과집중을 예방하고 건강한 생활을 하는 데 아주 좋아요."
+	},
+	{
+		"created_at": "Wed Apr 08 06:18:36 +0000 2020",
+		"id": 1247471257269833700,
+		"id_str": "1247770801383731200",
+		"full_text": "전자는 시간을 낭비하게 하고 후자도 사람을 지치게 만들기 때문에 건강하지 않아요. 저는 포모도로 앱을 이용해서 20분 집중 - 10분 휴식을 반복하는 법을 채택하고 있어요. 텀을 길게 둬 식사 시간마다 알람을 울리는 방법도 좋다고 생각해요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247471255608946700,
+		"in_reply_to_status_id_str": "1247471255608946689",
+		"in_reply_to_user_id": 943506007459733500,
+		"in_reply_to_user_id_str": "943506007459733504",
+		"in_reply_to_screen_name": "psychoseahorse",
+		"user": {
+			"id": 943506007459733500,
+			"id_str": "943506007459733504",
+			"name": "해마",
+			"screen_name": "psychoseahorse",
+			"location": "",
+			"description": "심리학 정병러인권 일상/ ADHD 양극성장애인 당사자",
+			"url": "https://t.co/KuuhBmS08h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KuuhBmS08h",
+							"expanded_url": "http://asked.kr/psychoseahorse",
+							"display_url": "asked.kr/psychoseahorse",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 831,
+			"friends_count": 120,
+			"listed_count": 2,
+			"created_at": "Wed Dec 20 15:38:56 +0000 2017",
+			"favourites_count": 19442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245285121407631362/2fvhRbBl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245285121407631362/2fvhRbBl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/943506007459733504/1578845938",
+			"profile_link_color": "7DC1C4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 225,
+		"favorite_count": 337,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "전자는 시간을 낭비하게 하고 후자도 사람을 지치게 만들기 때문에 건강하지 않아요. 저는 포모도로 앱을 이용해서 20분 집중 - 10분 휴식을 반복하는 법을 채택하고 있어요. 텀을 길게 둬 식사 시간마다 알람을 울리는 방법도 좋다고 생각해요."
+	},
+	{
+		"created_at": "Wed Apr 08 06:18:33 +0000 2020",
+		"id": 1247471255608946700,
+		"id_str": "1247770791019556865",
+		"full_text": "#2 타이머 사용하기\nADHD는 시간관념이 약합니다. 동료들과 함께 작업하면 시간에 대한 큐를 알아차리기 쉽지만, 혼자서는 잠깐 휴식하려던 걸 너무 오래 쉬거나, 일하다가 적절히 휴식을 취해야 하는데 과집중해서 밥도 먹지 않고 화장실도 가지 않고 과로하기 쉽습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247470984640131000,
+		"in_reply_to_status_id_str": "1247470984640131072",
+		"in_reply_to_user_id": 943506007459733500,
+		"in_reply_to_user_id_str": "943506007459733504",
+		"in_reply_to_screen_name": "psychoseahorse",
+		"user": {
+			"id": 943506007459733500,
+			"id_str": "943506007459733504",
+			"name": "해마",
+			"screen_name": "psychoseahorse",
+			"location": "",
+			"description": "심리학 정병러인권 일상/ ADHD 양극성장애인 당사자",
+			"url": "https://t.co/KuuhBmS08h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KuuhBmS08h",
+							"expanded_url": "http://asked.kr/psychoseahorse",
+							"display_url": "asked.kr/psychoseahorse",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 831,
+			"friends_count": 120,
+			"listed_count": 2,
+			"created_at": "Wed Dec 20 15:38:56 +0000 2017",
+			"favourites_count": 19442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245285121407631362/2fvhRbBl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245285121407631362/2fvhRbBl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/943506007459733504/1578845938",
+			"profile_link_color": "7DC1C4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 564,
+		"favorite_count": 545,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#2 타이머 사용하기\nADHD는 시간관념이 약합니다. 동료들과 함께 작업하면 시간에 대한 큐를 알아차리기 쉽지만, 혼자서는 잠깐 휴식하려던 걸 너무 오래 쉬거나, 일하다가 적절히 휴식을 취해야 하는데 과집중해서 밥도 먹지 않고 화장실도 가지 않고 과로하기 쉽습니다."
+	},
+	{
+		"created_at": "Wed Apr 08 06:18:31 +0000 2020",
+		"id": 1247470984640131000,
+		"id_str": "1247770782496768001",
+		"full_text": "#1 서로 체크해 줄 사람 만들기\n강제성 없이 자신의 힘으로 일하다 보면 생활 관리가 어려워질 수 있습니다. 규칙적으로 하루의 계획과 성과를 체크할 동료를 만듭시다. 저 같은 경우에는 인증 오카방을 만들어서 회원들끼리 아침에 하루 계획표 올리기를 하고 저녁에 계획 완료 인증을 하고 있어요!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247470865295401000,
+		"in_reply_to_status_id_str": "1247470865295400961",
+		"in_reply_to_user_id": 943506007459733500,
+		"in_reply_to_user_id_str": "943506007459733504",
+		"in_reply_to_screen_name": "psychoseahorse",
+		"user": {
+			"id": 943506007459733500,
+			"id_str": "943506007459733504",
+			"name": "해마",
+			"screen_name": "psychoseahorse",
+			"location": "",
+			"description": "심리학 정병러인권 일상/ ADHD 양극성장애인 당사자",
+			"url": "https://t.co/KuuhBmS08h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KuuhBmS08h",
+							"expanded_url": "http://asked.kr/psychoseahorse",
+							"display_url": "asked.kr/psychoseahorse",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 831,
+			"friends_count": 120,
+			"listed_count": 2,
+			"created_at": "Wed Dec 20 15:38:56 +0000 2017",
+			"favourites_count": 19442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245285121407631362/2fvhRbBl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245285121407631362/2fvhRbBl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/943506007459733504/1578845938",
+			"profile_link_color": "7DC1C4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 561,
+		"favorite_count": 535,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#1 서로 체크해 줄 사람 만들기\n강제성 없이 자신의 힘으로 일하다 보면 생활 관리가 어려워질 수 있습니다. 규칙적으로 하루의 계획과 성과를 체크할 동료를 만듭시다. 저 같은 경우에는 인증 오카방을 만들어서 회원들끼리 아침에 하루 계획표 올리기를 하고 저녁에 계획 완료 인증을 하고 있어요!"
+	},
+	{
 		"created_at": "Wed Apr 08 06:09:30 +0000 2020",
 		"id": 1247768511704752000,
 		"id_str": "1247768511704752128",
