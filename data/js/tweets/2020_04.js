@@ -1,6 +1,619 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 08 14:43:58 +0000 2020",
+		"id": 1247863153083306000,
+		"id_str": "1247897982759911425",
+		"full_text": "ㅋㅋㅋㅋ웨딩피치라니까 전에 본 댓글 생각남ㅋㅋㅋㅋㅋㅋ개욱곀ㅋㅋㅋ https://t.co/Am6wsHEFwc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247863145877532700,
+					"id_str": "1247863145877532672",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/EVFM63JU8AAkHit.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVFM63JU8AAkHit.jpg",
+					"url": "https://t.co/Am6wsHEFwc",
+					"display_url": "pic.twitter.com/Am6wsHEFwc",
+					"expanded_url": "https://twitter.com/hang_ari8/status/1247863153083305984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1079,
+							"h": 614,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 614,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247863145877532700,
+					"id_str": "1247863145877532672",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/EVFM63JU8AAkHit.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVFM63JU8AAkHit.jpg",
+					"url": "https://t.co/Am6wsHEFwc",
+					"display_url": "pic.twitter.com/Am6wsHEFwc",
+					"expanded_url": "https://twitter.com/hang_ari8/status/1247863153083305984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1079,
+							"h": 614,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 614,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1247563311878508500,
+			"id_str": "1247563311878508544",
+			"name": "한아",
+			"screen_name": "hang_ari8",
+			"location": "",
+			"description": "주저리계",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2,
+			"friends_count": 6,
+			"listed_count": 0,
+			"created_at": "Tue Apr 07 16:34:24 +0000 2020",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247566317223161857/0-8m8bYo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247566317223161857/0-8m8bYo_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 479,
+		"favorite_count": 91,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ㅋㅋㅋㅋ웨딩피치라니까 전에 본 댓글 생각남ㅋㅋㅋㅋㅋㅋ개욱곀ㅋㅋㅋ https://t.co/Am6wsHEFwc"
+	},
+	{
+		"created_at": "Wed Apr 08 14:32:44 +0000 2020",
+		"id": 1247895157480910800,
+		"id_str": "1247895157480910855",
+		"full_text": "@GoblinCase 게임은 나쁜 문명. 분쇄해야!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoblinCase",
+					"name": "魍魉之匣",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247894864416530400,
+		"in_reply_to_status_id_str": "1247894864416530438",
+		"in_reply_to_user_id": 1047103952297254900,
+		"in_reply_to_user_id_str": "1047103952297254912",
+		"in_reply_to_screen_name": "GoblinCase",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 87,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@GoblinCase 게임은 나쁜 문명. 분쇄해야!"
+	},
+	{
+		"created_at": "Wed Apr 08 14:32:01 +0000 2020",
+		"id": 1247742886910636000,
+		"id_str": "1247894975582371843",
+		"full_text": "브루클린에서 자기집 현관에 쓰레기버리러 나온 아시아계 여성을 신원미상 남성이 염산테러 공격. 현재 얼굴과 몸에 2도 화상으로 고통받고 계시다고 😢자기집 앞마당도 안전하지 못한 상황이라니... https://t.co/9y24EFHxQz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9y24EFHxQz",
+					"expanded_url": "https://twitter.com/angryasianman/status/1247741492606554113",
+					"display_url": "twitter.com/angryasianman/…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1247145095960260600,
+			"id_str": "1247145095960260608",
+			"name": "Pedestrian_5678",
+			"screen_name": "5678Pedestrian",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 123,
+			"friends_count": 306,
+			"listed_count": 0,
+			"created_at": "Mon Apr 06 12:52:25 +0000 2020",
+			"favourites_count": 738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247145248699977728/ZSee_gpW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247145248699977728/ZSee_gpW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1247145095960260608/1586264356",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1247741492606554000,
+		"quoted_status_id_str": "1247741492606554113",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9y24EFHxQz",
+			"expanded": "https://twitter.com/angryasianman/status/1247741492606554113",
+			"display": "twitter.com/angryasianman/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 08 04:22:08 +0000 2020",
+			"id": 1247741492606554000,
+			"id_str": "1247741492606554113",
+			"full_text": "On Monday, an Asian woman was attacked by a man on her porch in Brooklyn. HE THREW ACID ON HER. She suffered severe second degree burns across her face and body. https://t.co/gf6t5wIcNo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				185
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1247563355482660900,
+						"id_str": "1247563355482660865",
+						"indices": [
+							162,
+							185
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1247563355482660865/pu/img/56_2bctxr3woEtrc.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1247563355482660865/pu/img/56_2bctxr3woEtrc.jpg",
+						"url": "https://t.co/gf6t5wIcNo",
+						"display_url": "pic.twitter.com/gf6t5wIcNo",
+						"expanded_url": "https://twitter.com/mqmqqmqm/status/1247564546581069826/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 643,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 365,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1276,
+								"h": 684,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1247564546581069800,
+						"source_status_id_str": "1247564546581069826",
+						"source_user_id": 802301495781691400,
+						"source_user_id_str": "802301495781691392"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1247563355482660900,
+						"id_str": "1247563355482660865",
+						"indices": [
+							162,
+							185
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1247563355482660865/pu/img/56_2bctxr3woEtrc.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1247563355482660865/pu/img/56_2bctxr3woEtrc.jpg",
+						"url": "https://t.co/gf6t5wIcNo",
+						"display_url": "pic.twitter.com/gf6t5wIcNo",
+						"expanded_url": "https://twitter.com/mqmqqmqm/status/1247564546581069826/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 643,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 365,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1276,
+								"h": 684,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1247564546581069800,
+						"source_status_id_str": "1247564546581069826",
+						"source_user_id": 802301495781691400,
+						"source_user_id_str": "802301495781691392",
+						"video_info": {
+							"aspect_ratio": [
+								319,
+								171
+							],
+							"duration_millis": 14900,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1247563355482660865/pu/vid/670x360/0VQN3kxjwYNVW8IK.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1247563355482660865/pu/vid/1276x684/3scq2fAXP5lV-iGM.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1247563355482660865/pu/vid/502x270/etlq3zBhde01K7Fi.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1247563355482660865/pu/pl/1x81bNg6LiX8bn9_.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 802301495781691400,
+								"id_str": "802301495781691392",
+								"name": ".",
+								"screen_name": "mqmqqmqm",
+								"location": "",
+								"description": "",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 19579,
+								"friends_count": 567,
+								"listed_count": 161,
+								"created_at": "Sat Nov 26 00:02:37 +0000 2016",
+								"favourites_count": 5852,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 2145,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1128684562924457984/QuS7OiH__normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128684562924457984/QuS7OiH__normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/802301495781691392/1557934346",
+								"profile_link_color": "300079",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "000000",
+								"profile_text_color": "000000",
+								"profile_use_background_image": false,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16005250,
+				"id_str": "16005250",
+				"name": "Angry Asian Man",
+				"screen_name": "angryasianman",
+				"location": "",
+				"description": "Stay Angry.",
+				"url": "http://t.co/BMT8yn2S1B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/BMT8yn2S1B",
+								"expanded_url": "http://www.angryasianman.com",
+								"display_url": "angryasianman.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 77700,
+				"friends_count": 3313,
+				"listed_count": 1377,
+				"created_at": "Wed Aug 27 00:43:20 +0000 2008",
+				"favourites_count": 11906,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 30129,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/630803528689192960/9cip4lyH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/630803528689192960/9cip4lyH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16005250/1483310199",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1580,
+			"favorite_count": 1583,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5949,
+		"favorite_count": 744,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "브루클린에서 자기집 현관에 쓰레기버리러 나온 아시아계 여성을 신원미상 남성이 염산테러 공격. 현재 얼굴과 몸에 2도 화상으로 고통받고 계시다고 😢자기집 앞마당도 안전하지 못한 상황이라니... https://t.co/9y24EFHxQz"
+	},
+	{
 		"created_at": "Wed Apr 08 12:23:00 +0000 2020",
 		"id": 1247862506942427100,
 		"id_str": "1247862506942427136",
