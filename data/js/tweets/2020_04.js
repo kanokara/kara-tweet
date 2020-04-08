@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 08 09:44:05 +0000 2020",
+		"id": 1247433110096134100,
+		"id_str": "1247822516250218496",
+		"full_text": "진짜 제이 케이 롤링 영국의 공지영… https://t.co/dtM5nNfZKN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dtM5nNfZKN",
+					"expanded_url": "https://twitter.com/jk_rowling/status/1247121896082157568",
+					"display_url": "twitter.com/jk_rowling/sta…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 579971887,
+			"id_str": "579971887",
+			"name": "농약같은 철학자",
+			"screen_name": "Auslaender98",
+			"location": "Berlin",
+			"description": "저 말고 플픽의 저 사람이요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7926,
+			"friends_count": 1013,
+			"listed_count": 93,
+			"created_at": "Mon May 14 15:25:32 +0000 2012",
+			"favourites_count": 981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44273,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1056105619567116288/zefqNbeh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1056105619567116288/zefqNbeh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/579971887/1522522303",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1247121896082157600,
+		"quoted_status_id_str": "1247121896082157568",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dtM5nNfZKN",
+			"expanded": "https://twitter.com/jk_rowling/status/1247121896082157568",
+			"display": "twitter.com/jk_rowling/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 06 11:20:05 +0000 2020",
+			"id": 1247121896082157600,
+			"id_str": "1247121896082157568",
+			"full_text": "Please watch this doc from Queens Hospital explain how to relieve respiratory symptoms. For last 2 weeks I've had all symptoms of C19 (tho haven't been tested) &amp; did this on doc husband's advice. I'm fully recovered &amp; technique helped a lot.\nhttps://t.co/xo8AansUvc via @YouTube",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				286
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "YouTube",
+						"name": "YouTube #StayHome",
+						"id": 10228272,
+						"id_str": "10228272",
+						"indices": [
+							278,
+							286
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/xo8AansUvc",
+						"expanded_url": "https://youtu.be/HwLzAdriec0",
+						"display_url": "youtu.be/HwLzAdriec0",
+						"indices": [
+							250,
+							273
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 62513246,
+				"id_str": "62513246",
+				"name": "J.K. Rowling",
+				"screen_name": "jk_rowling",
+				"location": "Scotland",
+				"description": "Writer sometimes known as Robert Galbraith",
+				"url": "https://t.co/7iaKMs3iC6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7iaKMs3iC6",
+								"expanded_url": "http://www.jkrowling.com",
+								"display_url": "jkrowling.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14598370,
+				"friends_count": 679,
+				"listed_count": 37919,
+				"created_at": "Mon Aug 03 13:23:45 +0000 2009",
+				"favourites_count": 26425,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 12347,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1240994661323411456/9CeA8lPP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240994661323411456/9CeA8lPP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/62513246/1585424161",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23332,
+			"favorite_count": 52750,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "진짜 제이 케이 롤링 영국의 공지영… https://t.co/dtM5nNfZKN"
+	},
+	{
 		"created_at": "Wed Apr 08 06:19:09 +0000 2020",
 		"id": 1247472214540038100,
 		"id_str": "1247770940181626880",
