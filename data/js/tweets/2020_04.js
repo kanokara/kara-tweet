@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 09 08:46:33 +0000 2020",
+		"id": 1248170422383722500,
+		"id_str": "1248170422383722497",
+		"full_text": "경제적으로도 중국식 모델보단 한국식 모델이 낫다는 지적인데... 독일어 기사까지 기계번역으로 자연스레 읽힐 수준에 왔단 게 더 새삼스럽네요 (...)\nhttps://t.co/fWLxTAUVpR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fWLxTAUVpR",
+					"expanded_url": "https://mobile.twitter.com/DialecticalMat/status/1247995680129417221",
+					"display_url": "mobile.twitter.com/DialecticalMat…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 87,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1247995680129417200,
+		"quoted_status_id_str": "1247995680129417221",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fWLxTAUVpR",
+			"expanded": "https://mobile.twitter.com/DialecticalMat/status/1247995680129417221",
+			"display": "mobile.twitter.com/DialecticalMat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 08 21:12:11 +0000 2020",
+			"id": 1247995680129417200,
+			"id_str": "1247995680129417221",
+			"full_text": "스위스 최대정론지 NZZ: 일본과 싱가폴의 비상조치로 봉쇄 대안으로서 한국모델만 남음.\n\n\"봉쇄와 그에 따른 경제 충격에 대한 가장 성공적 대안으로 한국모델은 온전히 남아 있다. 이 민주국가는 중국처럼 곡선을 평평하게 만들었지만, 주민들의 일상 생활엔 제약이 적었다.\"\nhttps://t.co/q2U7bb9hlb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				174
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/q2U7bb9hlb",
+						"expanded_url": "https://www.nzz.ch/meinung/coronavirus-suedkorea-bleibt-eine-gute-alternative-zum-lockdown-ld.1550982?utm_source=dlvr.it&utm_medium=twitter",
+						"display_url": "nzz.ch/meinung/corona…",
+						"indices": [
+							151,
+							174
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 420958673,
+				"id_str": "420958673",
+				"name": "VegeBartlebian",
+				"screen_name": "DialecticalMat",
+				"location": "",
+				"description": "특정조건에서, 바이러스는 생식세포에 연결, 자신을 복잡한 종의 세포 유전자로 전달한다. 바이러스는 다른 종의 세포로 이동할 수도 있지만, 반드시 첫숙주의 \"유전자 정보\"를 가져온다. 우리가 바이러스로 리좀을 만들거나, 바이러스가 우리에게 다른 동물들과 함께 리좀을 만들게 한다--천의고원",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2054,
+				"friends_count": 1221,
+				"listed_count": 9,
+				"created_at": "Fri Nov 25 09:40:28 +0000 2011",
+				"favourites_count": 7530,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5662,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1198297247756275718/TDPWupaV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198297247756275718/TDPWupaV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/420958673/1574531686",
+				"profile_link_color": "8F8F8F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "9C9C9C",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 306,
+			"favorite_count": 218,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "경제적으로도 중국식 모델보단 한국식 모델이 낫다는 지적인데... 독일어 기사까지 기계번역으로 자연스레 읽힐 수준에 왔단 게 더 새삼스럽네요 (...)\nhttps://t.co/fWLxTAUVpR"
+	},
+	{
 		"created_at": "Thu Apr 09 07:08:35 +0000 2020",
 		"id": 1248145770974339000,
 		"id_str": "1248145770974339072",
