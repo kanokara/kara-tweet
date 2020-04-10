@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 10 10:10:43 +0000 2020",
+		"id": 1248553994290524200,
+		"id_str": "1248553994290524160",
+		"full_text": "\"한 집단은 \"제발 나오지 마라, 그러다 나라 망한다\"처럼 아무 근거 없는 비난 댓글을 읽게 했고, 다른 집단은 '뇌물 수수' 같은 구체적 근거가 함께 제시된 비난 댓글을 읽게 했습니다. 그랬더니 이 정치인에 대한 호감도가 두 집단에서 거의 똑같이 낮아졌습니다.\"\nhttps://t.co/9M518ByJde",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9M518ByJde",
+					"expanded_url": "https://imnews.imbc.com/replay/2020/nwdesk/article/5716799_32524.html",
+					"display_url": "imnews.imbc.com/replay/2020/nw…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 87,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11727,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"한 집단은 \"제발 나오지 마라, 그러다 나라 망한다\"처럼 아무 근거 없는 비난 댓글을 읽게 했고, 다른 집단은 '뇌물 수수' 같은 구체적 근거가 함께 제시된 비난 댓글을 읽게 했습니다. 그랬더니 이 정치인에 대한 호감도가 두 집단에서 거의 똑같이 낮아졌습니다.\"\nhttps://t.co/9M518ByJde"
+	},
+	{
 		"created_at": "Thu Apr 09 23:16:48 +0000 2020",
 		"id": 1248329835333607400,
 		"id_str": "1248389430231961606",
