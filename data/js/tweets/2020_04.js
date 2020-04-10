@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 09 23:16:48 +0000 2020",
+		"id": 1248329835333607400,
+		"id_str": "1248389430231961606",
+		"full_text": "\"사재기는 31번 확진자 이후 3일간 '반짝'…빠르게 정상 되찾아\"\nhttps://t.co/B2VlEydpj5\n\n대구에서 신종 코로나바이러스 감염증(코로나19) 31번 확진자가 발생한 직후 3일간 '사재기성' 주문이 이어졌으나 이후 바로 안정을 찾았다는 분석이 나왔습니다 https://t.co/1dcQYYhhCn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B2VlEydpj5",
+					"expanded_url": "https://www.yna.co.kr/view/AKR20200409059400030?input=tw",
+					"display_url": "yna.co.kr/view/AKR202004…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1248137099716333600,
+					"id_str": "1248137099716333568",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EVJGFEuUEAAWeN2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVJGFEuUEAAWeN2.jpg",
+					"url": "https://t.co/1dcQYYhhCn",
+					"display_url": "pic.twitter.com/1dcQYYhhCn",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1248329835333607424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 622,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1097,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1097,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248137099716333600,
+					"id_str": "1248137099716333568",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EVJGFEuUEAAWeN2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVJGFEuUEAAWeN2.jpg",
+					"url": "https://t.co/1dcQYYhhCn",
+					"display_url": "pic.twitter.com/1dcQYYhhCn",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1248329835333607424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 622,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1097,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1097,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147451838,
+			"id_str": "147451838",
+			"name": "연합뉴스",
+			"screen_name": "yonhaptweet",
+			"location": "대한민국 서울",
+			"description": "[홈페이지] https://t.co/1xjsaY9KNh  \n제보는 카카오톡, 라인, 위챗 okjebo",
+			"url": "https://t.co/1xjsaY9KNh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								7,
+								30
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 313102,
+			"friends_count": 71370,
+			"listed_count": 4774,
+			"created_at": "Mon May 24 05:08:01 +0000 2010",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 209362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1548822583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"사재기는 31번 확진자 이후 3일간 '반짝'…빠르게 정상 되찾아\"\nhttps://t.co/B2VlEydpj5\n\n대구에서 신종 코로나바이러스 감염증(코로나19) 31번 확진자가 발생한 직후 3일간 '사재기성' 주문이 이어졌으나 이후 바로 안정을 찾았다는 분석이 나왔습니다 https://t.co/1dcQYYhhCn"
+	},
+	{
 		"created_at": "Thu Apr 09 13:00:06 +0000 2020",
 		"id": 1248234229336424400,
 		"id_str": "1248234229336424452",
