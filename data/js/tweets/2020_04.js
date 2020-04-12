@@ -1,6 +1,569 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 11 23:57:13 +0000 2020",
+		"id": 1248602044732043300,
+		"id_str": "1249124377297379329",
+		"full_text": "최근 거의 한국홍보대사로 취직한 듯한 어느 백수 유튜버 https://t.co/HoGRBrnSt9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248602033168339000,
+					"id_str": "1248602033168338946",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EVPs7wzUUAIqWsl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVPs7wzUUAIqWsl.jpg",
+					"url": "https://t.co/HoGRBrnSt9",
+					"display_url": "pic.twitter.com/HoGRBrnSt9",
+					"expanded_url": "https://twitter.com/tw_transworld/status/1248602044732043266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 262,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 262,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 262,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248602033168339000,
+					"id_str": "1248602033168338946",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EVPs7wzUUAIqWsl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVPs7wzUUAIqWsl.jpg",
+					"url": "https://t.co/HoGRBrnSt9",
+					"display_url": "pic.twitter.com/HoGRBrnSt9",
+					"expanded_url": "https://twitter.com/tw_transworld/status/1248602044732043266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 262,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 262,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 262,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1248602033155797000,
+					"id_str": "1248602033155796997",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EVPs7wwU8AUs7BT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVPs7wwU8AUs7BT.jpg",
+					"url": "https://t.co/HoGRBrnSt9",
+					"display_url": "pic.twitter.com/HoGRBrnSt9",
+					"expanded_url": "https://twitter.com/tw_transworld/status/1248602044732043266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1248602033164181500,
+					"id_str": "1248602033164181504",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EVPs7wyU4AAmdwy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVPs7wyU4AAmdwy.jpg",
+					"url": "https://t.co/HoGRBrnSt9",
+					"display_url": "pic.twitter.com/HoGRBrnSt9",
+					"expanded_url": "https://twitter.com/tw_transworld/status/1248602044732043266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 262,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 262,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 262,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1248602033159954400,
+					"id_str": "1248602033159954432",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EVPs7wxUYAAMLf4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVPs7wxUYAAMLf4.jpg",
+					"url": "https://t.co/HoGRBrnSt9",
+					"display_url": "pic.twitter.com/HoGRBrnSt9",
+					"expanded_url": "https://twitter.com/tw_transworld/status/1248602044732043266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1560352369,
+			"id_str": "1560352369",
+			"name": "번역세계",
+			"screen_name": "tw_transworld",
+			"location": "Seoul, Korea",
+			"description": "일이 많기를 바라는 영세업자...",
+			"url": "https://t.co/9UvUUAVAO5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9UvUUAVAO5",
+							"expanded_url": "http://www.trans-world.co.kr",
+							"display_url": "trans-world.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1229,
+			"friends_count": 52,
+			"listed_count": 11,
+			"created_at": "Mon Jul 01 11:34:32 +0000 2013",
+			"favourites_count": 73,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247715150599262210/LmsSyIuz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247715150599262210/LmsSyIuz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1560352369/1586313450",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2496,
+		"favorite_count": 1615,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "최근 거의 한국홍보대사로 취직한 듯한 어느 백수 유튜버 https://t.co/HoGRBrnSt9"
+	},
+	{
+		"created_at": "Sat Apr 11 23:47:49 +0000 2020",
+		"id": 1249118546698940400,
+		"id_str": "1249122009067532288",
+		"full_text": "사실 난 일본의 ‘변하지 않는 점’을 좋아했었다. 그건 한국이 너무 빨리 모든 게 변해버리는 것에 대한 피로감때문이기도 했다. 하지만 2010년대 이후, 일본은 변하지 않기 위한 노력조차도 하지 않게 되었는지 붕괴하기 시작했고 내가 좋아했던 많은 것들이 무너졌다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 931439262725161000,
+			"id_str": "931439262725160960",
+			"name": "白金騎士",
+			"screen_name": "gojulasmk3",
+			"location": "",
+			"description": "월간 뉴타입 한국판 최후의 편집장(대행). 뉴타입 없어진 뒤는 이런저런 캐릭터 관련 업무에 종사.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 460,
+			"friends_count": 489,
+			"listed_count": 6,
+			"created_at": "Fri Nov 17 08:30:00 +0000 2017",
+			"favourites_count": 164,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160544185482502144/rmUdDl40_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160544185482502144/rmUdDl40_normal.jpg",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "사실 난 일본의 ‘변하지 않는 점’을 좋아했었다. 그건 한국이 너무 빨리 모든 게 변해버리는 것에 대한 피로감때문이기도 했다. 하지만 2010년대 이후, 일본은 변하지 않기 위한 노력조차도 하지 않게 되었는지 붕괴하기 시작했고 내가 좋아했던 많은 것들이 무너졌다."
+	},
+	{
+		"created_at": "Sat Apr 11 23:47:14 +0000 2020",
+		"id": 1248553606174969900,
+		"id_str": "1249121861520232449",
+		"full_text": "사재기는 시스템에 대한 신뢰 부족+불안 때문에 생기는 것이지 물류의 문제는 아니라고 생각. 미국 대도시들에서 택배 및 물류가 안되서 사재기가 생겼겠습니까? 다들 앞으로 어떻게 될지 몰라 패닉 바잉하니까 그런거지... https://t.co/7ZP3ufsbgq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7ZP3ufsbgq",
+					"expanded_url": "http://news.kmib.co.kr/article/view.asp?arcid=0924132534&code=11151400&cp=nv",
+					"display_url": "news.kmib.co.kr/article/view.a…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 53305769,
+			"id_str": "53305769",
+			"name": "Hyunho Shin",
+			"screen_name": "shinhh",
+			"location": "New York, USA",
+			"description": "\"If this isn't nice, what is?” 원고문의: hyunho.shin@outlook.com",
+			"url": "https://t.co/LSaoU0hHJp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LSaoU0hHJp",
+							"expanded_url": "https://peing.net/ko/shinhh?event=0h",
+							"display_url": "peing.net/ko/shinhh?even…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23073,
+			"friends_count": 641,
+			"listed_count": 199,
+			"created_at": "Fri Jul 03 05:35:31 +0000 2009",
+			"favourites_count": 20062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264567085/beach_umbrella_71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264567085/beach_umbrella_71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53305769/1401459717",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 126,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사재기는 시스템에 대한 신뢰 부족+불안 때문에 생기는 것이지 물류의 문제는 아니라고 생각. 미국 대도시들에서 택배 및 물류가 안되서 사재기가 생겼겠습니까? 다들 앞으로 어떻게 될지 몰라 패닉 바잉하니까 그런거지... https://t.co/7ZP3ufsbgq"
+	},
+	{
+		"created_at": "Sat Apr 11 23:24:15 +0000 2020",
+		"id": 1249109760281964500,
+		"id_str": "1249116077914591234",
+		"full_text": "台湾では一月の時点ですでに買い占め騒動が起こっていたとも聞いた。なるほどな……。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1249107823918633000,
+		"in_reply_to_status_id_str": "1249107823918632960",
+		"in_reply_to_user_id": 135142222,
+		"in_reply_to_user_id_str": "135142222",
+		"in_reply_to_screen_name": "shinkai35",
+		"user": {
+			"id": 135142222,
+			"id_str": "135142222",
+			"name": "ロードランナー様（山川賢一）",
+			"screen_name": "shinkai35",
+			"location": "あいちちほー",
+			"description": "あとは祈るだけです。",
+			"url": "https://t.co/LgNOViNWQP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LgNOViNWQP",
+							"expanded_url": "https://note.mu/shinkai35/n/nade2fd8766e9",
+							"display_url": "note.mu/shinkai35/n/na…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5755,
+			"friends_count": 2108,
+			"listed_count": 380,
+			"created_at": "Tue Apr 20 13:08:34 +0000 2010",
+			"favourites_count": 9400,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 114667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114923359605645312/RgqImaX2_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114923359605645312/RgqImaX2_normal.png",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "台湾では一月の時点ですでに買い占め騒動が起こっていたとも聞いた。なるほどな……。"
+	},
+	{
 		"created_at": "Sat Apr 11 15:50:01 +0000 2020",
 		"id": 1249001768039547000,
 		"id_str": "1249001768039546880",
