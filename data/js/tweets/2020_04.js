@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 12 03:02:00 +0000 2020",
+		"id": 1248827165698855000,
+		"id_str": "1249170876559503368",
+		"full_text": "북한과의 대치 상황이 좀 완화되면 더 이상 선거철 북풍몰이는 없을거라고 생각했던 나는 너무 순진했다. 레퍼토리는 똑같은데 그 자리에 중국을 끼워넣더라고",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3163931143,
+			"id_str": "3163931143",
+			"name": "노엘",
+			"screen_name": "mr_clever17",
+			"location": "20↑",
+			"description": "나는 당신의 글을 좋아하게 될 것 같아요",
+			"url": "https://t.co/9z6M5nG1q9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9z6M5nG1q9",
+							"expanded_url": "https://inzukunft.postype.com/",
+							"display_url": "inzukunft.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 662,
+			"friends_count": 136,
+			"listed_count": 9,
+			"created_at": "Sun Apr 19 12:26:13 +0000 2015",
+			"favourites_count": 657,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45571,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/995476051449888768/dCC-XBYl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/995476051449888768/dCC-XBYl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3163931143/1467032340",
+			"profile_link_color": "666666",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 445,
+		"favorite_count": 98,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "북한과의 대치 상황이 좀 완화되면 더 이상 선거철 북풍몰이는 없을거라고 생각했던 나는 너무 순진했다. 레퍼토리는 똑같은데 그 자리에 중국을 끼워넣더라고"
+	},
+	{
 		"created_at": "Sat Apr 11 23:57:13 +0000 2020",
 		"id": 1248602044732043300,
 		"id_str": "1249124377297379329",
