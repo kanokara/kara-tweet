@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 12 11:07:32 +0000 2020",
+		"id": 1241175783571214300,
+		"id_str": "1249293065027596289",
+		"full_text": "재택으로 인해 음악 스트리밍 서비스 사용이 증가할거라 생각했지만 오히려 감소. https://t.co/h67KlgfPIx  Spotify 사례를 보면 이탈리아 23% 감소, 영국, 프랑스, 스페인도 다 감소. 심지어 미국도. 원래 사람들이 외출 시 많이 들어서라는. 행동 양식의 변화는 서비스 리텐션에 아주 큰 영향을 줌.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h67KlgfPIx",
+					"expanded_url": "https://hypebeast.com/2020/3/music-streaming-numbers-declining-coronavirus-spotify-data-report",
+					"display_url": "hypebeast.com/2020/3/music-s…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1013105929309417500,
+			"id_str": "1013105929309417472",
+			"name": "Alan Jinkyu Jang",
+			"screen_name": "alanjkjang",
+			"location": "",
+			"description": "Director of Companoid Labs / Ph.D. in HCI. / Prof. at Yonsei University / Partner of DHP / Researcher, Investor, and Entrepreneur",
+			"url": "https://t.co/cfGYqSQdEl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cfGYqSQdEl",
+							"expanded_url": "http://linkedin.com/in/alanjkjang",
+							"display_url": "linkedin.com/in/alanjkjang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25,
+			"friends_count": 39,
+			"listed_count": 1,
+			"created_at": "Sat Jun 30 17:04:10 +0000 2018",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228767107912830981/kRW8AL5j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228767107912830981/kRW8AL5j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1013105929309417472/1530378642",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "재택으로 인해 음악 스트리밍 서비스 사용이 증가할거라 생각했지만 오히려 감소. https://t.co/h67KlgfPIx  Spotify 사례를 보면 이탈리아 23% 감소, 영국, 프랑스, 스페인도 다 감소. 심지어 미국도. 원래 사람들이 외출 시 많이 들어서라는. 행동 양식의 변화는 서비스 리텐션에 아주 큰 영향을 줌."
+	},
+	{
 		"created_at": "Sun Apr 12 04:35:29 +0000 2020",
 		"id": 1249144225213698000,
 		"id_str": "1249194402607706112",
