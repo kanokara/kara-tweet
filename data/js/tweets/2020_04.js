@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 12 04:35:29 +0000 2020",
+		"id": 1249144225213698000,
+		"id_str": "1249194402607706112",
+		"full_text": "작년 12월에 대만이 중국내 폐렴전파와 격리치료 소식을 듣고 신종전염병 발생 가능성을 인지해 WHO에 경고 서한을 보냈음에도, WHO가 이를 묵살한 것도 모자라, 여전히 그런적 없다며 거짓말을 하고 있다니! WHO가 그때 제 역할만 했어도 세계가 이런 재앙을 맞지 않았을텐데 https://t.co/gIUgHCEn1c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gIUgHCEn1c",
+					"expanded_url": "https://news.v.daum.net/v/20200412060904529",
+					"display_url": "news.v.daum.net/v/202004120609…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 295488519,
+			"id_str": "295488519",
+			"name": "황진미",
+			"screen_name": "intifada69",
+			"location": "",
+			"description": "대중문화 평론가. 애견인",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20377,
+			"friends_count": 23682,
+			"listed_count": 331,
+			"created_at": "Mon May 09 03:49:03 +0000 2011",
+			"favourites_count": 10579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 105712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/884415796453048322/X8rEtbMh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/884415796453048322/X8rEtbMh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/295488519/1456982315",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "작년 12월에 대만이 중국내 폐렴전파와 격리치료 소식을 듣고 신종전염병 발생 가능성을 인지해 WHO에 경고 서한을 보냈음에도, WHO가 이를 묵살한 것도 모자라, 여전히 그런적 없다며 거짓말을 하고 있다니! WHO가 그때 제 역할만 했어도 세계가 이런 재앙을 맞지 않았을텐데 https://t.co/gIUgHCEn1c"
+	},
+	{
 		"created_at": "Sun Apr 12 03:59:19 +0000 2020",
 		"id": 1249185303757275100,
 		"id_str": "1249185303757275137",
