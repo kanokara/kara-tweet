@@ -1,6 +1,576 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 13 07:07:47 +0000 2020",
+		"id": 1249595120220962800,
+		"id_str": "1249595120220962816",
+		"full_text": "미국 배달앱 플랫폼 수수료는 15%선이고 이번에 배민이 제시한 수수료는 5%던데 과연 😂\nhttps://t.co/6mxOApddOx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6mxOApddOx",
+					"expanded_url": "https://twitter.com/Jaemyung_Lee/status/1248445521301082112?s=19",
+					"display_url": "twitter.com/Jaemyung_Lee/s…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 88,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11762,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1248445521301082000,
+		"quoted_status_id_str": "1248445521301082112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6mxOApddOx",
+			"expanded": "https://twitter.com/Jaemyung_Lee/status/1248445521301082112?s=19",
+			"display": "twitter.com/Jaemyung_Lee/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 10 02:59:41 +0000 2020",
+			"id": 1248445521301082000,
+			"id_str": "1248445521301082112",
+			"full_text": "\"배민 보고있나?\"..美 배달업체들, 코로나 피해 식당 수수료 앞다퉈 감면 | 다음 뉴스 https://t.co/YMmAoRlLI4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				73
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YMmAoRlLI4",
+						"expanded_url": "https://news.v.daum.net/v/20200410110402639",
+						"display_url": "news.v.daum.net/v/202004101104…",
+						"indices": [
+							50,
+							73
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 106379129,
+				"id_str": "106379129",
+				"name": "이재명",
+				"screen_name": "Jaemyung_Lee",
+				"location": "대한민국 경기도",
+				"description": "새로운 경기, 공정한 세상",
+				"url": "https://t.co/gGTuRJbF8j",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gGTuRJbF8j",
+								"expanded_url": "https://bit.ly/34bSZBL",
+								"display_url": "bit.ly/34bSZBL",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 538783,
+				"friends_count": 519556,
+				"listed_count": 2618,
+				"created_at": "Tue Jan 19 10:59:13 +0000 2010",
+				"favourites_count": 1138,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 59580,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/978253833389228032/wHax6iwo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/978253833389228032/wHax6iwo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/106379129/1545993981",
+				"profile_link_color": "557A74",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F0FFF4",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 766,
+			"favorite_count": 1271,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미국 배달앱 플랫폼 수수료는 15%선이고 이번에 배민이 제시한 수수료는 5%던데 과연 😂\nhttps://t.co/6mxOApddOx"
+	},
+	{
+		"created_at": "Mon Apr 13 07:02:38 +0000 2020",
+		"id": 1248987604847956000,
+		"id_str": "1249593824772407298",
+		"full_text": "배민이 없다면, 보이지도 않는 임대료 싼 가게의 요식업자가 제대로 경쟁이나 할 수 있을까? 업주가 배민수수료가 아깝다고 직접 감가먹는 배달용 자산을 사서 배달원을 고용해 고정비를 부담할 수 있을까? 배민은 고정비를 변동비로 바꾸어준 사실상 축복의 플랫폼인 것.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1248979422469742600,
+		"in_reply_to_status_id_str": "1248979422469742592",
+		"in_reply_to_user_id": 751396831297351700,
+		"in_reply_to_user_id_str": "751396831297351680",
+		"in_reply_to_screen_name": "prometaler",
+		"user": {
+			"id": 751396831297351700,
+			"id_str": "751396831297351680",
+			"name": "𝔗𝔥𝔢 𝔗𝔯𝔞𝔡𝔢𝔯",
+			"screen_name": "prometaler",
+			"location": "Capitol, Panem",
+			"description": "#Metals⛏️ Trader dreaming of #Oil🛢️ Trading. / Ride the market, don’t try to outguess it. / #OOTT #LME #Copper #Aluminum #Nickel",
+			"url": "https://t.co/B06lYLnzai",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B06lYLnzai",
+							"expanded_url": "https://brunch.co.kr/@prometaler",
+							"display_url": "brunch.co.kr/@prometaler",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1614,
+			"friends_count": 1014,
+			"listed_count": 55,
+			"created_at": "Fri Jul 08 12:45:39 +0000 2016",
+			"favourites_count": 704,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235347277927124992/iwKEqY0v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235347277927124992/iwKEqY0v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/751396831297351680/1584088054",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "배민이 없다면, 보이지도 않는 임대료 싼 가게의 요식업자가 제대로 경쟁이나 할 수 있을까? 업주가 배민수수료가 아깝다고 직접 감가먹는 배달용 자산을 사서 배달원을 고용해 고정비를 부담할 수 있을까? 배민은 고정비를 변동비로 바꾸어준 사실상 축복의 플랫폼인 것."
+	},
+	{
+		"created_at": "Mon Apr 13 06:58:15 +0000 2020",
+		"id": 1248979422469742600,
+		"id_str": "1249592722324746240",
+		"full_text": "무형의 것에 제대로 돈을 지불하지 않으려 하는 변태적 문화는 현재 배민 사태로 대변된다. 지금 배민의 인프라가 아니었으면 외식업 상당수는 아마 손가락이나 빨고 있을 것. 그리고 중요한 건 배민은 업계에서 가장 낮은 수수료 체계를 갖고 있으며 심지어 적자라는 것.\nhttps://t.co/fxnIfU374N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fxnIfU374N",
+					"expanded_url": "https://v.kakao.com/v/20200411000259926",
+					"display_url": "v.kakao.com/v/202004110002…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 751396831297351700,
+			"id_str": "751396831297351680",
+			"name": "𝔗𝔥𝔢 𝔗𝔯𝔞𝔡𝔢𝔯",
+			"screen_name": "prometaler",
+			"location": "Capitol, Panem",
+			"description": "#Metals⛏️ Trader dreaming of #Oil🛢️ Trading. / Ride the market, don’t try to outguess it. / #OOTT #LME #Copper #Aluminum #Nickel",
+			"url": "https://t.co/B06lYLnzai",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B06lYLnzai",
+							"expanded_url": "https://brunch.co.kr/@prometaler",
+							"display_url": "brunch.co.kr/@prometaler",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1614,
+			"friends_count": 1014,
+			"listed_count": 55,
+			"created_at": "Fri Jul 08 12:45:39 +0000 2016",
+			"favourites_count": 704,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235347277927124992/iwKEqY0v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235347277927124992/iwKEqY0v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/751396831297351680/1584088054",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "무형의 것에 제대로 돈을 지불하지 않으려 하는 변태적 문화는 현재 배민 사태로 대변된다. 지금 배민의 인프라가 아니었으면 외식업 상당수는 아마 손가락이나 빨고 있을 것. 그리고 중요한 건 배민은 업계에서 가장 낮은 수수료 체계를 갖고 있으며 심지어 적자라는 것.\nhttps://t.co/fxnIfU374N"
+	},
+	{
+		"created_at": "Mon Apr 13 06:57:46 +0000 2020",
+		"id": 1246463952243982300,
+		"id_str": "1249592599272255488",
+		"full_text": "다만 감염 우려로 홀 비중이 줄고 배달이 상대적 증가해도 전체적 매출감소가 확실한 시국에 상품전환을 하지 않으면 광고노출순위를 후순으로 두어 사실상 강권이나 다름없는 만큼 이 부분에 대해 더 고려했어야 하지 않나 싶다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1246463830890184700,
+		"in_reply_to_status_id_str": "1246463830890184704",
+		"in_reply_to_user_id": 167059014,
+		"in_reply_to_user_id_str": "167059014",
+		"in_reply_to_screen_name": "playmode_off",
+		"user": {
+			"id": 167059014,
+			"id_str": "167059014",
+			"name": "꽃개🏳️‍🌈",
+			"screen_name": "playmode_off",
+			"location": "",
+			"description": "👩‍❤️‍👩👩‍❤️‍💋‍👩🤟🌈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3723,
+			"friends_count": 496,
+			"listed_count": 38,
+			"created_at": "Thu Jul 15 17:12:55 +0000 2010",
+			"favourites_count": 3794,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82762,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1248670547182899200/t1RK0c41_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1248670547182899200/t1RK0c41_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/167059014/1437390315",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "다만 감염 우려로 홀 비중이 줄고 배달이 상대적 증가해도 전체적 매출감소가 확실한 시국에 상품전환을 하지 않으면 광고노출순위를 후순으로 두어 사실상 강권이나 다름없는 만큼 이 부분에 대해 더 고려했어야 하지 않나 싶다."
+	},
+	{
+		"created_at": "Mon Apr 13 06:57:42 +0000 2020",
+		"id": 1246463830890184700,
+		"id_str": "1249592583665242120",
+		"full_text": "배민의 입장에서는 억울할 수도 있겠다는 생각이 든다. 옛날 요율제 시절보다 요율을 낮게 책정했음에도(심지어  당시엔 광고료도 따로 받았다) 독과점 횡포라는 말을 들으니까.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1246462382089490400,
+		"in_reply_to_status_id_str": "1246462382089490433",
+		"in_reply_to_user_id": 167059014,
+		"in_reply_to_user_id_str": "167059014",
+		"in_reply_to_screen_name": "playmode_off",
+		"user": {
+			"id": 167059014,
+			"id_str": "167059014",
+			"name": "꽃개🏳️‍🌈",
+			"screen_name": "playmode_off",
+			"location": "",
+			"description": "👩‍❤️‍👩👩‍❤️‍💋‍👩🤟🌈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3723,
+			"friends_count": 496,
+			"listed_count": 38,
+			"created_at": "Thu Jul 15 17:12:55 +0000 2010",
+			"favourites_count": 3794,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 82762,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1248670547182899200/t1RK0c41_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1248670547182899200/t1RK0c41_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/167059014/1437390315",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "배민의 입장에서는 억울할 수도 있겠다는 생각이 든다. 옛날 요율제 시절보다 요율을 낮게 책정했음에도(심지어  당시엔 광고료도 따로 받았다) 독과점 횡포라는 말을 들으니까."
+	},
+	{
 		"created_at": "Sun Apr 12 14:07:25 +0000 2020",
 		"id": 1249338337346764800,
 		"id_str": "1249338337346764800",
