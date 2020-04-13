@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 13 08:10:00 +0000 2020",
+		"id": 1129606943071301600,
+		"id_str": "1249610776521760768",
+		"full_text": "@DMTechnica 전화주문 온리 상황에선 매장과 고객 1:1 관계기 때문에 위생 엉망이고 뭐 빼먹고 해도 클레임 걸어봐야 효과도 없으니 배짱장사가 됐는데 배달앱은 클레임으로 목록에서 업체 삭제같은 실제적인 제제효과가 가해짐 사장 막말하고 이런 가게들 요새는 배달앱 못올리고 소문도 빠르게 나니까 금방 망함",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DMTechnica",
+					"name": "정상인 (정체성 상실한 인간)",
+					"id": 551064757,
+					"id_str": "551064757",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://erased5434447.com\" rel=\"nofollow\">erased5434447</a>",
+		"in_reply_to_status_id": 1129603612546543600,
+		"in_reply_to_status_id_str": "1129603612546543616",
+		"in_reply_to_user_id": 551064757,
+		"in_reply_to_user_id_str": "551064757",
+		"in_reply_to_screen_name": "DMTechnica",
+		"user": {
+			"id": 174986172,
+			"id_str": "174986172",
+			"name": "Click",
+			"screen_name": "click_kr",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 460,
+			"friends_count": 381,
+			"listed_count": 9,
+			"created_at": "Thu Aug 05 09:39:15 +0000 2010",
+			"favourites_count": 2477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 272130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146760096006852608/Zy6v5ToF_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146760096006852608/Zy6v5ToF_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174986172/1410572178",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@DMTechnica 전화주문 온리 상황에선 매장과 고객 1:1 관계기 때문에 위생 엉망이고 뭐 빼먹고 해도 클레임 걸어봐야 효과도 없으니 배짱장사가 됐는데 배달앱은 클레임으로 목록에서 업체 삭제같은 실제적인 제제효과가 가해짐 사장 막말하고 이런 가게들 요새는 배달앱 못올리고 소문도 빠르게 나니까 금방 망함"
+	},
+	{
 		"created_at": "Mon Apr 13 07:07:47 +0000 2020",
 		"id": 1249595120220962800,
 		"id_str": "1249595120220962816",
@@ -431,10 +524,10 @@ Grailbird.data.tweets_2020_04 =
 		"user": {
 			"id": 167059014,
 			"id_str": "167059014",
-			"name": "꽃개🏳️‍🌈",
+			"name": "꽃개🏳️🌈",
 			"screen_name": "playmode_off",
 			"location": "",
-			"description": "👩‍❤️‍👩👩‍❤️‍💋‍👩🤟🌈",
+			"description": "👩❤️👩👩❤️💋👩🤟🌈",
 			"url": null,
 			"entities": {
 				"description": {
@@ -513,10 +606,10 @@ Grailbird.data.tweets_2020_04 =
 		"user": {
 			"id": 167059014,
 			"id_str": "167059014",
-			"name": "꽃개🏳️‍🌈",
+			"name": "꽃개🏳️🌈",
 			"screen_name": "playmode_off",
 			"location": "",
-			"description": "👩‍❤️‍👩👩‍❤️‍💋‍👩🤟🌈",
+			"description": "👩❤️👩👩❤️💋👩🤟🌈",
 			"url": null,
 			"entities": {
 				"description": {
