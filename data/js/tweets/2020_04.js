@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 14 07:38:02 +0000 2020",
+		"id": 1249833350346330000,
+		"id_str": "1249965118374305792",
+		"full_text": "韓国が2015年のＭＥＲＳ流行の失敗で学んだのは、検査体制など疫学的対応だけではありません。国民に信頼してもらえなければ感染症対策はうまくいかないことも痛感されました。何がまずかったのか、どう改善したのか。16年に新設された初代リスクコミュニケーション担当官に聞きました。1/8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 39016955,
+			"id_str": "39016955",
+			"name": "澤田克己『反日韓国という幻想』発売中！",
+			"screen_name": "SawadaKatsumi",
+			"location": "東京 千代田区",
+			"description": "毎日新聞記者（論説委員）。主に朝鮮半島を担当しています。最新刊『反日韓国という幻想』（2020年２月刊）は、嫌韓でもなく、ひいきの引き倒しでもない、冷徹に韓国を見て日韓関係を考えるために知っておきたいことをまとめました。ツイートは個人の見解です。RTは必ずしも賛同を意味しません。",
+			"url": "https://t.co/TciBE80vpe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TciBE80vpe",
+							"expanded_url": "https://www.amazon.co.jp/dp/4620326216/ref=cm_sw_r_tw_dp_U_x_ksksEbQP1RZCC",
+							"display_url": "amazon.co.jp/dp/4620326216/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3914,
+			"friends_count": 142,
+			"listed_count": 211,
+			"created_at": "Sun May 10 08:00:25 +0000 2009",
+			"favourites_count": 2743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10953,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2208450712/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2208450712/image_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/39016955/1582172943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1595,
+		"favorite_count": 3086,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "韓国が2015年のＭＥＲＳ流行の失敗で学んだのは、検査体制など疫学的対応だけではありません。国民に信頼してもらえなければ感染症対策はうまくいかないことも痛感されました。何がまずかったのか、どう改善したのか。16年に新設された初代リスクコミュニケーション担当官に聞きました。1/8"
+	},
+	{
 		"created_at": "Mon Apr 13 14:20:20 +0000 2020",
 		"id": 1108527248410214400,
 		"id_str": "1249703973931479041",
