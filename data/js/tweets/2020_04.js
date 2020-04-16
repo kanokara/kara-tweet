@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 07:03:30 +0000 2020",
+		"id": 1250681204824666000,
+		"id_str": "1250681204824666113",
+		"full_text": "지역구 단일화해서 진보 약진으로 윈윈하고 개헌저지선을 무너트렸어야 했는데... 정치 공학적으로 동정의 여지가 없어요.\nhttps://t.co/lG25B2Cqjg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lG25B2Cqjg",
+					"expanded_url": "https://twitter.com/SBS8news/status/1250677850471927808?s=19",
+					"display_url": "twitter.com/SBS8news/statu…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 88,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11775,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1250677850471927800,
+		"quoted_status_id_str": "1250677850471927808",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lG25B2Cqjg",
+			"expanded": "https://twitter.com/SBS8news/status/1250677850471927808?s=19",
+			"display": "twitter.com/SBS8news/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 16 06:50:10 +0000 2020",
+			"id": 1250677850471927800,
+			"id_str": "1250677850471927808",
+			"full_text": "눈물 보인 심상정 \"고단한 길 개척해온 후보들에게 정말 미안\" #SBS뉴스 https://t.co/X5490olAxO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				65
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SBS뉴스",
+						"indices": [
+							35,
+							41
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/X5490olAxO",
+						"expanded_url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1005749687&plink=TWEET&cooper=TWITTER",
+						"display_url": "news.sbs.co.kr/news/endPage.d…",
+						"indices": [
+							42,
+							65
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://news.sbs.co.kr\" rel=\"nofollow\">sbs8news</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 91946403,
+				"id_str": "91946403",
+				"name": "SBS 뉴스",
+				"screen_name": "SBS8news",
+				"location": "KOREA",
+				"description": "SBS 보도본부 공식 트위터입니다. 시청자 여러분과 함께 하는 뉴스를 만들도록 최선을 다하겠습니다. 제보는 이메일 sbs8news@sbs.co.kr로 연락 주시기 바랍니다.",
+				"url": "http://t.co/Vv46jRzW9N",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Vv46jRzW9N",
+								"expanded_url": "http://news.sbs.co.kr",
+								"display_url": "news.sbs.co.kr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 425672,
+				"friends_count": 95108,
+				"listed_count": 4144,
+				"created_at": "Mon Nov 23 05:47:28 +0000 2009",
+				"favourites_count": 2059,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 188765,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1086075115551354880/P91M6DEi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086075115551354880/P91M6DEi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/91946403/1434703804",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지역구 단일화해서 진보 약진으로 윈윈하고 개헌저지선을 무너트렸어야 했는데... 정치 공학적으로 동정의 여지가 없어요.\nhttps://t.co/lG25B2Cqjg"
+	},
+	{
 		"created_at": "Wed Apr 15 05:48:35 +0000 2020",
 		"id": 1250299964854399000,
 		"id_str": "1250299964854398983",
