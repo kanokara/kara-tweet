@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 13:50:21 +0000 2020",
+		"id": 1250678894270660600,
+		"id_str": "1250783591753150469",
+		"full_text": "そのような販売はしていません。と\nリプを頂いたので\nこれが昨日4/15 15:00〜 コストコ幕張倉庫でのマスク販売の様子です。\n\n人の多さにお顔が隠せないので\nこの動画は本日で削除します\n\nこれが現状です😰\n\n#コストコ #マスク\n#コロナ https://t.co/HHySuUZXpB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "コストコ",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "マスク",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "コロナ",
+					"indices": [
+						117,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250678843674751000,
+					"id_str": "1250678843674750976",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1250678843674750976/pu/img/vQLkBHAVpJ0Lr_WY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1250678843674750976/pu/img/vQLkBHAVpJ0Lr_WY.jpg",
+					"url": "https://t.co/HHySuUZXpB",
+					"display_url": "pic.twitter.com/HHySuUZXpB",
+					"expanded_url": "https://twitter.com/ronken04/status/1250678894270660608/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250678843674751000,
+					"id_str": "1250678843674750976",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1250678843674750976/pu/img/vQLkBHAVpJ0Lr_WY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1250678843674750976/pu/img/vQLkBHAVpJ0Lr_WY.jpg",
+					"url": "https://t.co/HHySuUZXpB",
+					"display_url": "pic.twitter.com/HHySuUZXpB",
+					"expanded_url": "https://twitter.com/ronken04/status/1250678894270660608/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 15000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1250678843674750976/pu/vid/720x1280/aqizpq_O4vVBgJsN.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1250678843674750976/pu/pl/9p27VHchOI0Qb1cv.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1250678843674750976/pu/vid/360x640/LlQTw3EPlP7zh7-l.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1250678843674750976/pu/vid/320x568/Yduy--AJdK6KdysC.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1243472543496855600,
+			"id_str": "1243472543496855554",
+			"name": "marie",
+			"screen_name": "ronken04",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Fri Mar 27 09:39:07 +0000 2020",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1248265092581322753/ZZyrvQpV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1248265092581322753/ZZyrvQpV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1243472543496855554/1586444565",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16179,
+		"favorite_count": 14026,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "そのような販売はしていません。と\nリプを頂いたので\nこれが昨日4/15 15:00〜 コストコ幕張倉庫でのマスク販売の様子です。\n\n人の多さにお顔が隠せないので\nこの動画は本日で削除します\n\nこれが現状です😰\n\n#コストコ #マスク\n#コロナ https://t.co/HHySuUZXpB"
+	},
+	{
 		"created_at": "Thu Apr 16 07:39:43 +0000 2020",
 		"id": 1250690320565547000,
 		"id_str": "1250690320565547008",
