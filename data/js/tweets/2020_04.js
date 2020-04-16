@@ -1,6 +1,437 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 22:09:10 +0000 2020",
+		"id": 642714014531752000,
+		"id_str": "1250909124629417984",
+		"full_text": "일본에도 도심 등의 빌딩가라던가 상점가에는 택배 트럭이 일일히 들어가지 못하는데, 해결책이 일단 근처의 주차장을 빌려 차를 세운 뒤에 전동 자전거에 수레를 매달고 끌고 다니거나 아예 전동 수레를 사용한다고 한다. 물론 배달 부하가 늘어났는데(계속)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63764417,
+			"id_str": "63764417",
+			"name": "푸른곰",
+			"screen_name": "purengom",
+			"location": "Gyeonggi Province, South Korea",
+			"description": "IT블로거. 맥, 윈도우, iOS, 안드로이드 사용중. MCP. 고양이와 커피, 하겐다즈 좋아하는 잡식성 오타쿠. 국제 뉴스나 IT 소식/트렌드, 애니, 서브컬처, 일상 위주 트윗. 모든 팔로우/RT/링크/좋아요가 찬동/추천의 의미는 아니며 멘션등에 전부는 대답 못드림을 양해 바랍니다.",
+			"url": "https://t.co/axyNeG94zY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/axyNeG94zY",
+							"expanded_url": "http://purengom.com",
+							"display_url": "purengom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4003,
+			"friends_count": 3145,
+			"listed_count": 140,
+			"created_at": "Fri Aug 07 16:24:30 +0000 2009",
+			"favourites_count": 59097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 219131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245327825759924230/dD30UhPq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245327825759924230/dD30UhPq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63764417/1446705317",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "일본에도 도심 등의 빌딩가라던가 상점가에는 택배 트럭이 일일히 들어가지 못하는데, 해결책이 일단 근처의 주차장을 빌려 차를 세운 뒤에 전동 자전거에 수레를 매달고 끌고 다니거나 아예 전동 수레를 사용한다고 한다. 물론 배달 부하가 늘어났는데(계속)"
+	},
+	{
+		"created_at": "Thu Apr 16 22:09:06 +0000 2020",
+		"id": 647698811159081000,
+		"id_str": "1250909106270945280",
+		"full_text": "두부배달용으로 보이는 혼다 수퍼커브 발견. 일본 거리엔 자전거와 커브가 참 많음 http://t.co/g3e19ZGigD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 647698787993980900,
+					"id_str": "647698787993980929",
+					"indices": [
+						45,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/CP0WnbPVEAEaWA6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CP0WnbPVEAEaWA6.jpg",
+					"url": "http://t.co/g3e19ZGigD",
+					"display_url": "pic.twitter.com/g3e19ZGigD",
+					"expanded_url": "https://twitter.com/marvelstone/status/647698811159080960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 647698787993980900,
+					"id_str": "647698787993980929",
+					"indices": [
+						45,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/CP0WnbPVEAEaWA6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CP0WnbPVEAEaWA6.jpg",
+					"url": "http://t.co/g3e19ZGigD",
+					"display_url": "pic.twitter.com/g3e19ZGigD",
+					"expanded_url": "https://twitter.com/marvelstone/status/647698811159080960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95622192,
+			"id_str": "95622192",
+			"name": "김종형",
+			"screen_name": "marvelstone",
+			"location": "Korea",
+			"description": "Vespa GTS 125/Royal Enfield Intercepter650, 라브라도리트리버 Vory 아빠.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 116,
+			"friends_count": 220,
+			"listed_count": 6,
+			"created_at": "Wed Dec 09 10:53:22 +0000 2009",
+			"favourites_count": 1057,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1877,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986221444458672128/n7Hy4OLz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986221444458672128/n7Hy4OLz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95622192/1432220523",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "두부배달용으로 보이는 혼다 수퍼커브 발견. 일본 거리엔 자전거와 커브가 참 많음 http://t.co/g3e19ZGigD"
+	},
+	{
+		"created_at": "Thu Apr 16 22:08:56 +0000 2020",
+		"id": 784609120502550500,
+		"id_str": "1250909064365629441",
+		"full_text": "도로구성의 차이 때문에 그래도 한국은 나은 편이라고 생각하는데 일본은 배달에 소요되는 모든 비용을 구매자가 내고도 남을 수요가 있다고 쳐도 음식 같은 물건이 제 시간에 배달 되는 유통망 구성이 안될듯. 같은 상점가나 동네 주변 수백미터 정도가 한계.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 784602238417244200,
+		"in_reply_to_status_id_str": "784602238417244160",
+		"in_reply_to_user_id": 68196419,
+		"in_reply_to_user_id_str": "68196419",
+		"in_reply_to_screen_name": "lidless_eye",
+		"user": {
+			"id": 68196419,
+			"id_str": "68196419",
+			"name": "sangeun@фракция(нет)",
+			"screen_name": "lidless_eye",
+			"location": "",
+			"description": "존버 또 존버하십시오.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1056,
+			"friends_count": 150,
+			"listed_count": 59,
+			"created_at": "Sun Aug 23 17:55:29 +0000 2009",
+			"favourites_count": 253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28957,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1243752635372408833/jIrJt5xE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1243752635372408833/jIrJt5xE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68196419/1515943432",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "도로구성의 차이 때문에 그래도 한국은 나은 편이라고 생각하는데 일본은 배달에 소요되는 모든 비용을 구매자가 내고도 남을 수요가 있다고 쳐도 음식 같은 물건이 제 시간에 배달 되는 유통망 구성이 안될듯. 같은 상점가나 동네 주변 수백미터 정도가 한계."
+	},
+	{
+		"created_at": "Thu Apr 16 22:08:54 +0000 2020",
+		"id": 784602238417244200,
+		"id_str": "1250909058397167616",
+		"full_text": "@lidless_eye 인건비만 가지고 이야기 하기엔 중국 배달시장과 한국 배민라이더스의 비용 격차가 그리 크지 않다. 중국의 2륜차 인프라는 굉장히 잘 되어있고 (일본가서 보도에서 자전거 타는 모습에 충격먹을 정도) 소형물류의 사업성 차원이 다름.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lidless_eye",
+					"name": "sangeun@фракция(нет)",
+					"id": 68196419,
+					"id_str": "68196419",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 784600783107006500,
+		"in_reply_to_status_id_str": "784600783107006465",
+		"in_reply_to_user_id": 68196419,
+		"in_reply_to_user_id_str": "68196419",
+		"in_reply_to_screen_name": "lidless_eye",
+		"user": {
+			"id": 68196419,
+			"id_str": "68196419",
+			"name": "sangeun@фракция(нет)",
+			"screen_name": "lidless_eye",
+			"location": "",
+			"description": "존버 또 존버하십시오.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1056,
+			"friends_count": 150,
+			"listed_count": 59,
+			"created_at": "Sun Aug 23 17:55:29 +0000 2009",
+			"favourites_count": 253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28957,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1243752635372408833/jIrJt5xE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1243752635372408833/jIrJt5xE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68196419/1515943432",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@lidless_eye 인건비만 가지고 이야기 하기엔 중국 배달시장과 한국 배민라이더스의 비용 격차가 그리 크지 않다. 중국의 2륜차 인프라는 굉장히 잘 되어있고 (일본가서 보도에서 자전거 타는 모습에 충격먹을 정도) 소형물류의 사업성 차원이 다름."
+	},
+	{
 		"created_at": "Thu Apr 16 13:50:21 +0000 2020",
 		"id": 1250678894270660600,
 		"id_str": "1250783591753150469",
