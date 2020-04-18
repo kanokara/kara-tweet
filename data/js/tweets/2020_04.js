@@ -1,6 +1,665 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 18 07:09:02 +0000 2020",
+		"id": 1250618451992797200,
+		"id_str": "1251407375434608642",
+		"full_text": "20대 여성에게서 온전히 희망만을 찾을 수 있다니 부럽다. https://t.co/P5Ouc7AQqr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P5Ouc7AQqr",
+					"expanded_url": "https://twitter.com/chiclix/status/1223072725821845507",
+					"display_url": "twitter.com/chiclix/status…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 167779084,
+			"id_str": "167779084",
+			"name": "쉭릯(트랝쓰남성)",
+			"screen_name": "chiclix",
+			"location": "무신론수도원 수면실",
+			"description": "잠자는 비덕의 잠자는 정치계정 😴",
+			"url": "https://t.co/66Ufi5Bhp3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/66Ufi5Bhp3",
+							"expanded_url": "http://chiclix.wordpress.com",
+							"display_url": "chiclix.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3054,
+			"friends_count": 151,
+			"listed_count": 77,
+			"created_at": "Sat Jul 17 13:49:55 +0000 2010",
+			"favourites_count": 4430,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69744,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238973703762759680/OCp7llw__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238973703762759680/OCp7llw__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/167779084/1491471149",
+			"profile_link_color": "7FCFDF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1223072725821845500,
+		"quoted_status_id_str": "1223072725821845507",
+		"quoted_status_permalink": {
+			"url": "https://t.co/P5Ouc7AQqr",
+			"expanded": "https://twitter.com/chiclix/status/1223072725821845507",
+			"display": "twitter.com/chiclix/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 31 02:37:16 +0000 2020",
+			"id": 1223072725821845500,
+			"id_str": "1223072725821845507",
+			"full_text": "설문조사 결과에서 20/30대 여성/남성 집단에서 20대 남성이 이질적인 경우가 많았는데 이번에는 20대 여성이 이질적이다. 트랜스여성을 “트젠남” 내지 “남트젠”이라고 부르는 33%. https://t.co/iQiYZCo576",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				103
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1223072714857971700,
+						"id_str": "1223072714857971712",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/EPk6J2-VAAAFnJ7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPk6J2-VAAAFnJ7.jpg",
+						"url": "https://t.co/iQiYZCo576",
+						"display_url": "pic.twitter.com/iQiYZCo576",
+						"expanded_url": "https://twitter.com/chiclix/status/1223072725821845507/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 574,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 361,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 574,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1223072714857971700,
+						"id_str": "1223072714857971712",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/EPk6J2-VAAAFnJ7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPk6J2-VAAAFnJ7.jpg",
+						"url": "https://t.co/iQiYZCo576",
+						"display_url": "pic.twitter.com/iQiYZCo576",
+						"expanded_url": "https://twitter.com/chiclix/status/1223072725821845507/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 574,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 361,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 574,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 167779084,
+				"id_str": "167779084",
+				"name": "쉭릯(트랝쓰남성)",
+				"screen_name": "chiclix",
+				"location": "무신론수도원 수면실",
+				"description": "잠자는 비덕의 잠자는 정치계정 😴",
+				"url": "https://t.co/66Ufi5Bhp3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/66Ufi5Bhp3",
+								"expanded_url": "http://chiclix.wordpress.com",
+								"display_url": "chiclix.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3054,
+				"friends_count": 151,
+				"listed_count": 77,
+				"created_at": "Sat Jul 17 13:49:55 +0000 2010",
+				"favourites_count": 4430,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 69744,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1238973703762759680/OCp7llw__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238973703762759680/OCp7llw__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/167779084/1491471149",
+				"profile_link_color": "7FCFDF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 509,
+			"favorite_count": 113,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 292,
+		"favorite_count": 107,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "20대 여성에게서 온전히 희망만을 찾을 수 있다니 부럽다. https://t.co/P5Ouc7AQqr"
+	},
+	{
+		"created_at": "Sat Apr 18 07:07:52 +0000 2020",
+		"id": 1250526788507168800,
+		"id_str": "1251407078792368128",
+		"full_text": "이 그래프 보니까 오히려 현 정부의 가장 강한 지지를 보내주는 계층이 20대 여성이고  20대 남성이 60,70대 이상보다도 현 정부에 대한 지지율이 낮고, 비토여론이 겁나 커서 20대 평균값을 다 깎아먹네.... https://t.co/6akvSAnKn1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6akvSAnKn1",
+					"expanded_url": "https://twitter.com/MADCAT135/status/1250526402115297282",
+					"display_url": "twitter.com/MADCAT135/stat…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87702189,
+			"id_str": "87702189",
+			"name": "MADCAT🍊",
+			"screen_name": "MADCAT135",
+			"location": "대한민국",
+			"description": "사진/영상촬영,편집/그림쟁이/러브라이브,페그오 광인/작품 아카이브 계정 @artmadcat / 디스코드 MADCAT135#2688/ Team CNS (@teamcns) / 트위치 https://t.co/dm1XYqKOsC",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dm1XYqKOsC",
+							"expanded_url": "http://twitch.tv/madcat2790",
+							"display_url": "twitch.tv/madcat2790",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4345,
+			"friends_count": 2750,
+			"listed_count": 77,
+			"created_at": "Thu Nov 05 14:42:17 +0000 2009",
+			"favourites_count": 6039,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 587873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249268094435913729/V27wcia7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249268094435913729/V27wcia7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87702189/1583796184",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1250526402115297300,
+		"quoted_status_id_str": "1250526402115297282",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6akvSAnKn1",
+			"expanded": "https://twitter.com/MADCAT135/status/1250526402115297282",
+			"display": "twitter.com/MADCAT135/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 15 20:48:22 +0000 2020",
+			"id": 1250526402115297300,
+			"id_str": "1250526402115297282",
+			"full_text": "와 씹;;;;;;;이게 뭐야;;;;;;;;;;;;;; https://t.co/dCe1nVlqiF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				29
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1250526392955007000,
+						"id_str": "1250526392955006976",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/EVrDIPpVcAAXjmX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVrDIPpVcAAXjmX.jpg",
+						"url": "https://t.co/dCe1nVlqiF",
+						"display_url": "pic.twitter.com/dCe1nVlqiF",
+						"expanded_url": "https://twitter.com/MADCAT135/status/1250526402115297282/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1055,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1055,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 516,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1250526392955007000,
+						"id_str": "1250526392955006976",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/EVrDIPpVcAAXjmX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVrDIPpVcAAXjmX.jpg",
+						"url": "https://t.co/dCe1nVlqiF",
+						"display_url": "pic.twitter.com/dCe1nVlqiF",
+						"expanded_url": "https://twitter.com/MADCAT135/status/1250526402115297282/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1055,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1055,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 516,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 87702189,
+				"id_str": "87702189",
+				"name": "MADCAT🍊",
+				"screen_name": "MADCAT135",
+				"location": "대한민국",
+				"description": "사진/영상촬영,편집/그림쟁이/러브라이브,페그오 광인/작품 아카이브 계정 @artmadcat / 디스코드 MADCAT135#2688/ Team CNS (@teamcns) / 트위치 https://t.co/dm1XYqKOsC",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/dm1XYqKOsC",
+								"expanded_url": "http://twitch.tv/madcat2790",
+								"display_url": "twitch.tv/madcat2790",
+								"indices": [
+									100,
+									123
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4345,
+				"friends_count": 2750,
+				"listed_count": 77,
+				"created_at": "Thu Nov 05 14:42:17 +0000 2009",
+				"favourites_count": 6039,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 587873,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1249268094435913729/V27wcia7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249268094435913729/V27wcia7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/87702189/1583796184",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 531,
+			"favorite_count": 77,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1307,
+		"favorite_count": 168,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 그래프 보니까 오히려 현 정부의 가장 강한 지지를 보내주는 계층이 20대 여성이고  20대 남성이 60,70대 이상보다도 현 정부에 대한 지지율이 낮고, 비토여론이 겁나 커서 20대 평균값을 다 깎아먹네.... https://t.co/6akvSAnKn1"
+	},
+	{
+		"created_at": "Sat Apr 18 06:59:08 +0000 2020",
+		"id": 1251349556429652000,
+		"id_str": "1251404883674062848",
+		"full_text": "https://t.co/6rlP5vcKLq\n\n알티 조금타니 원문 궁금한분들을 위해 링크",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6rlP5vcKLq",
+					"expanded_url": "https://n.news.naver.com/article/056/0010821364",
+					"display_url": "n.news.naver.com/article/056/00…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1251345283624996900,
+		"in_reply_to_status_id_str": "1251345283624996864",
+		"in_reply_to_user_id": 312519441,
+		"in_reply_to_user_id_str": "312519441",
+		"in_reply_to_screen_name": "0_Alucard_",
+		"user": {
+			"id": 312519441,
+			"id_str": "312519441",
+			"name": "백쟉",
+			"screen_name": "0_Alucard_",
+			"location": "숲 너머 땅",
+			"description": "성인남성 / 인용RT 마음껏 하십쇼/ 티알피지, 보드게임, 프로레슬링, 드라큘라(넷플릭스아님), 롤, #GenG , 해적, SD건프라 등등 헛소리 계정 / 체인블락 20만명 돌파 (블락수 상위 1000명) / 차별계를 비롯한 헛소리 계정들 블락함",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 92,
+			"friends_count": 132,
+			"listed_count": 0,
+			"created_at": "Tue Jun 07 07:43:56 +0000 2011",
+			"favourites_count": 135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19338,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1239505775971594242/ElfEaCF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239505775971594242/ElfEaCF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/312519441/1551375121",
+			"profile_link_color": "000050",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/6rlP5vcKLq\n\n알티 조금타니 원문 궁금한분들을 위해 링크"
+	},
+	{
 		"created_at": "Fri Apr 17 11:07:38 +0000 2020",
 		"id": 1250793583268868000,
 		"id_str": "1251105029877972992",
