@@ -1,6 +1,98 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 18 20:31:55 +0000 2020",
+		"id": 1251603220763377700,
+		"id_str": "1251609423753052160",
+		"full_text": "https://t.co/PuHQPamsEZ 와 이 기사를 읽는데 정말 CDC가 어디까지 추락했냐, 연방정부기관들이면 다 예산 삭감하고 부자들에게 다 벗겨먹은 벌거벗은 미국 공공시스템의 현실이 이렇게 드러날 수 있나 싶어서 그렇게 죽은 사람들이 얼마인지 드러나서 막 눈물이 난다. 정말 미친...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PuHQPamsEZ",
+					"expanded_url": "https://www.washingtonpost.com/investigations/contamination-at-cdc-lab-delayed-rollout-of-coronavirus-tests/2020/04/18/fd7d3824-7139-11ea-aa80-c2470c6b2034_story.html",
+					"display_url": "washingtonpost.com/investigations…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 167069659,
+			"id_str": "167069659",
+			"name": "Nobody",
+			"screen_name": "nobody_indepth",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3251,
+			"friends_count": 376,
+			"listed_count": 89,
+			"created_at": "Thu Jul 15 17:43:31 +0000 2010",
+			"favourites_count": 60130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4148,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/435566372555214848/ONN-Wmvd_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/435566372555214848/ONN-Wmvd_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/PuHQPamsEZ 와 이 기사를 읽는데 정말 CDC가 어디까지 추락했냐, 연방정부기관들이면 다 예산 삭감하고 부자들에게 다 벗겨먹은 벌거벗은 미국 공공시스템의 현실이 이렇게 드러날 수 있나 싶어서 그렇게 죽은 사람들이 얼마인지 드러나서 막 눈물이 난다. 정말 미친..."
+	},
+	{
 		"created_at": "Sat Apr 18 11:20:30 +0000 2020",
 		"id": 1251470656832602000,
 		"id_str": "1251470656832602112",
