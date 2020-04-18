@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 18 23:04:04 +0000 2020",
+		"id": 1251647716121129000,
+		"id_str": "1251647716121128960",
+		"full_text": "사회적 거리두기 같은 캠페인이 성공적인 거야 고맥락 문화 덕이 있고, 사재기가 보이지 않는 건 이문덕(...)이 맞죠.\nhttps://t.co/3sqij0JxR1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3sqij0JxR1",
+					"expanded_url": "https://twitter.com/KimSovidence/status/1251632235574226944?s=19",
+					"display_url": "twitter.com/KimSovidence/s…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 88,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1251632235574227000,
+		"quoted_status_id_str": "1251632235574226944",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3sqij0JxR1",
+			"expanded": "https://twitter.com/KimSovidence/status/1251632235574226944?s=19",
+			"display": "twitter.com/KimSovidence/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 18 22:02:33 +0000 2020",
+			"id": 1251632235574227000,
+			"id_str": "1251632235574226944",
+			"full_text": "한국 코로나 대응이 타국에 비해 상대적으로 성공한 이유 중 하나로 등장하는게 \"사회적 신뢰\". 그런데 한국은 사회자본/신뢰가 부족해서 문제인 사회라고 지금까지 마구 비판. 없던 사회적 자본과 신뢰가 코로나 사태 속에 갑자기 뿅하고 나타난 이유는? 이문덕? 1/ https://t.co/HDRTCe3O9e",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				169
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HDRTCe3O9e",
+						"expanded_url": "https://sovidence.tistory.com/1052",
+						"display_url": "sovidence.tistory.com/1052",
+						"indices": [
+							146,
+							169
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3357881951,
+				"id_str": "3357881951",
+				"name": "Sociological Evidence",
+				"screen_name": "KimSovidence",
+				"location": "",
+				"description": "ChangHwan Kim, Sociology Professor, Specialized in labor markets, stratification, education, & Asian American studies",
+				"url": "https://t.co/TPYdhkbTzf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TPYdhkbTzf",
+								"expanded_url": "https://sovidence.tistory.com/",
+								"display_url": "sovidence.tistory.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2603,
+				"friends_count": 332,
+				"listed_count": 21,
+				"created_at": "Sat Jul 04 01:45:39 +0000 2015",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 132,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+				"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": true,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 41,
+			"favorite_count": 47,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사회적 거리두기 같은 캠페인이 성공적인 거야 고맥락 문화 덕이 있고, 사재기가 보이지 않는 건 이문덕(...)이 맞죠.\nhttps://t.co/3sqij0JxR1"
+	},
+	{
 		"created_at": "Sat Apr 18 20:31:55 +0000 2020",
 		"id": 1251603220763377700,
 		"id_str": "1251609423753052160",
