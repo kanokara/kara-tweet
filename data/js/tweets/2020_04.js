@@ -1,6 +1,415 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 18 11:05:02 +0000 2020",
+		"id": 975560438254485500,
+		"id_str": "1251466762660442112",
+		"full_text": "Twitter mute chain\n체인블락이 아니라 체인뮤트하는 확장기능. \n\nhttps://t.co/PFWcvr0hZm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PFWcvr0hZm",
+					"expanded_url": "https://chrome.google.com/webstore/detail/twitter-mute-chain/lfojnlpiefgcionjnjjmlpdiccohpejn",
+					"display_url": "chrome.google.com/webstore/detai…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2594273106,
+			"id_str": "2594273106",
+			"name": "가을별",
+			"screen_name": "gaeulbyul",
+			"location": "🌠",
+			"description": "",
+			"url": "https://t.co/AIynNIkWts",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AIynNIkWts",
+							"expanded_url": "https://twitter.com/gaeulbyul",
+							"display_url": "twitter.com/gaeulbyul",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 901,
+			"friends_count": 4996,
+			"listed_count": 18,
+			"created_at": "Sun Jun 29 05:52:09 +0000 2014",
+			"favourites_count": 144126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 93106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1219397619862011905/VtIvKHrp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1219397619862011905/VtIvKHrp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2594273106/1571047538",
+			"profile_link_color": "069690",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Twitter mute chain\n체인블락이 아니라 체인뮤트하는 확장기능. \n\nhttps://t.co/PFWcvr0hZm"
+	},
+	{
+		"created_at": "Sat Apr 18 10:59:23 +0000 2020",
+		"id": 1251465343924449300,
+		"id_str": "1251465343924449280",
+		"full_text": "클러스터 간에 분단과 고립을 만들어내는 체인블락은 대체 누가 개발한 걸까...\nhttps://t.co/h3MyLkurc3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h3MyLkurc3",
+					"expanded_url": "https://twitter.com/lotusid/status/1251441517580828672?s=19",
+					"display_url": "twitter.com/lotusid/status…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 88,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1806,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11793,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1251441517580828700,
+		"quoted_status_id_str": "1251441517580828672",
+		"quoted_status_permalink": {
+			"url": "https://t.co/h3MyLkurc3",
+			"expanded": "https://twitter.com/lotusid/status/1251441517580828672?s=19",
+			"display": "twitter.com/lotusid/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 18 09:24:43 +0000 2020",
+			"id": 1251441517580828700,
+			"id_str": "1251441517580828672",
+			"full_text": "우리가 받는 박해와 차별과 억울함이 훨씬 큰데 무슨 소리냐고 생각하는 것이다. 그런데 바로 이게 정치적 부족 주의다. \n부족 본능은 동일시가 시작이자 끝. \n보편주의적 화법이 실제 역사에서 주변화되어 온 소수자들의 억압과 그들의 경험이 가진 특수성을 지워버리려는 시도와 다르지 않다고 생각 https://t.co/j2RRtRN0jR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				161
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1251441491454509000,
+						"id_str": "1251441491454509057",
+						"indices": [
+							162,
+							185
+						],
+						"media_url": "http://pbs.twimg.com/media/EV4DZ_NUwAEETaV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EV4DZ_NUwAEETaV.jpg",
+						"url": "https://t.co/j2RRtRN0jR",
+						"display_url": "pic.twitter.com/j2RRtRN0jR",
+						"expanded_url": "https://twitter.com/lotusid/status/1251441517580828672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1251441491454509000,
+						"id_str": "1251441491454509057",
+						"indices": [
+							162,
+							185
+						],
+						"media_url": "http://pbs.twimg.com/media/EV4DZ_NUwAEETaV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EV4DZ_NUwAEETaV.jpg",
+						"url": "https://t.co/j2RRtRN0jR",
+						"display_url": "pic.twitter.com/j2RRtRN0jR",
+						"expanded_url": "https://twitter.com/lotusid/status/1251441517580828672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1251441484500353000,
+			"in_reply_to_status_id_str": "1251441484500353025",
+			"in_reply_to_user_id": 308361637,
+			"in_reply_to_user_id_str": "308361637",
+			"in_reply_to_screen_name": "lotusid",
+			"user": {
+				"id": 308361637,
+				"id_str": "308361637",
+				"name": "김봉석",
+				"screen_name": "lotusid",
+				"location": "",
+				"description": "Que Sera Sera! 나의 대중문화표류기, 하드보일드는 나의 힘, 내 안의 음란마귀, 전방위 글쓰기, 컬처매거진 브뤼트 에이코믹스. 평론가라기보다 애호가. https://t.co/wDcpRg3AUK",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/wDcpRg3AUK",
+								"expanded_url": "https://www.facebook.com/kimbongseok4",
+								"display_url": "facebook.com/kimbongseok4",
+								"indices": [
+									90,
+									113
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6121,
+				"friends_count": 1166,
+				"listed_count": 150,
+				"created_at": "Tue May 31 08:32:01 +0000 2011",
+				"favourites_count": 736,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 27926,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1236233566528212992/1ynFyliB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1236233566528212992/1ynFyliB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/308361637/1468431108",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0128384e56168024",
+				"url": "https://api.twitter.com/1.1/geo/id/0128384e56168024.json",
+				"place_type": "city",
+				"name": "관악구",
+				"full_name": "대한민국 관악구",
+				"country_code": "KR",
+				"country": "대한민국",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								126.912914087461,
+								37.4453391936246
+							],
+							[
+								126.998170782234,
+								37.4453391936246
+							],
+							[
+								126.998170782234,
+								37.4882391535802
+							],
+							[
+								126.912914087461,
+								37.4882391535802
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "클러스터 간에 분단과 고립을 만들어내는 체인블락은 대체 누가 개발한 걸까...\nhttps://t.co/h3MyLkurc3"
+	},
+	{
 		"created_at": "Sat Apr 18 09:31:32 +0000 2020",
 		"id": 1251432580945080300,
 		"id_str": "1251443234342965256",
