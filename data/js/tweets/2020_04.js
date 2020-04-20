@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 20 15:52:44 +0000 2020",
+		"id": 1252261137602605000,
+		"id_str": "1252263943378096133",
+		"full_text": "なんかもう信じられないものを見ている感じだ。ホワイトハウスは気に入らない州に対して連邦が備蓄している医療防護具の移転を阻止していたとのこと。マサチューセッツ州の医学雑誌にその顛末が掲載されているとのこと。\nhttps://t.co/8XpJb3DurY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8XpJb3DurY",
+					"expanded_url": "https://nymag.com/intelligencer/2020/04/hospitals-face-a-white-house-blockade-for-coronavirus-ppe.html",
+					"display_url": "nymag.com/intelligencer/…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 286800703,
+			"id_str": "286800703",
+			"name": "Kazuto Suzuki",
+			"screen_name": "KS_1013",
+			"location": "",
+			"description": "国際政治経済学、欧州統合、科学技術政策、宇宙政策、輸出管理、 グローバリゼーションなどについて勉強したり教えたりしています。 2013年12月から2015年7月まで国連安保理のイラン制裁パネルで勤務。Sorry folks, all tweets are in Japanese.",
+			"url": "https://t.co/AoSfjEexlV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AoSfjEexlV",
+							"expanded_url": "http://www.juris.hokudai.ac.jp/~kazutos/",
+							"display_url": "juris.hokudai.ac.jp/~kazutos/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39067,
+			"friends_count": 612,
+			"listed_count": 1391,
+			"created_at": "Sat Apr 23 18:35:58 +0000 2011",
+			"favourites_count": 4283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 171466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1418809809/____normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1418809809/____normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/286800703/1472649322",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 235,
+		"favorite_count": 245,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "なんかもう信じられないものを見ている感じだ。ホワイトハウスは気に入らない州に対して連邦が備蓄している医療防護具の移転を阻止していたとのこと。マサチューセッツ州の医学雑誌にその顛末が掲載されているとのこと。\nhttps://t.co/8XpJb3DurY"
+	},
+	{
 		"created_at": "Mon Apr 20 10:27:02 +0000 2020",
 		"id": 1252181977882476500,
 		"id_str": "1252181977882476546",
