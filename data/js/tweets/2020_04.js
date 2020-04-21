@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 21 09:08:41 +0000 2020",
+		"id": 1252524646789873700,
+		"id_str": "1252524646789873664",
+		"full_text": "@GoblinCase \nhttps://t.co/MNPVgRjgMS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoblinCase",
+					"name": "魍魉之匣",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MNPVgRjgMS",
+					"expanded_url": "https://twitter.com/qqquuuiiiii/status/1252209507121295361?s=19",
+					"display_url": "twitter.com/qqquuuiiiii/st…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1047103952297254900,
+		"in_reply_to_user_id_str": "1047103952297254912",
+		"in_reply_to_screen_name": "GoblinCase",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 87,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1252209507121295400,
+		"quoted_status_id_str": "1252209507121295361",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MNPVgRjgMS",
+			"expanded": "https://twitter.com/qqquuuiiiii/status/1252209507121295361?s=19",
+			"display": "twitter.com/qqquuuiiiii/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 20 12:16:26 +0000 2020",
+			"id": 1252209507121295400,
+			"id_str": "1252209507121295361",
+			"full_text": "박원순 인용알티해서 룸싸롱 간 사람들 동선 파악해서 검사하고 자가격리 시켰냐고 묻고 왜 후속 기사가 없냐고 회초리 치던데 이미 진작에 추가 확진자 없다고 나왔음. 룸살롱 남자들 호된맛좀 봤으면 하는건 이해하는데 좀 찾아보지..",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				126
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 860859157028655100,
+				"id_str": "860859157028655104",
+				"name": "그러게말이야",
+				"screen_name": "qqquuuiiiii",
+				"location": "",
+				"description": "40대 레즈비언🌈/문재인 좋아합니다/출근하자마자 퇴근하고싶습니다/애매한입맛과 귀얇는 취향/혼잣말 짱 많음",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 304,
+				"friends_count": 420,
+				"listed_count": 4,
+				"created_at": "Sat May 06 14:09:51 +0000 2017",
+				"favourites_count": 1720,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22582,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1201520312698826757/Wog2TGWz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201520312698826757/Wog2TGWz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/860859157028655104/1563457984",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 275,
+			"favorite_count": 42,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@GoblinCase \nhttps://t.co/MNPVgRjgMS"
+	},
+	{
 		"created_at": "Tue Apr 21 07:45:18 +0000 2020",
 		"id": 1252430580605571000,
 		"id_str": "1252503665337700352",
