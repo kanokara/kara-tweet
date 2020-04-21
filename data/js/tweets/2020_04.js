@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 21 20:23:38 +0000 2020",
+		"id": 1252694504668139500,
+		"id_str": "1252694504668139520",
+		"full_text": "국민 다수가 정치를 혐오하는데 과연 순수한 지지층이 얼마나 될까요. 선거에 반영되는 것은 지지가 아닌 비토인데, 지지만 놓고 보니 엇갈림이 발생하는 것. 여론조사에서도 지지율이 아니라 비토율을 계산해야 할지 몰라요.\nhttps://t.co/EKNNOXvy6n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EKNNOXvy6n",
+					"expanded_url": "https://twitter.com/steadyG11/status/1250722993136783367?s=19",
+					"display_url": "twitter.com/steadyG11/stat…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 87,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11808,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1250722993136783400,
+		"quoted_status_id_str": "1250722993136783367",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EKNNOXvy6n",
+			"expanded": "https://twitter.com/steadyG11/status/1250722993136783367?s=19",
+			"display": "twitter.com/steadyG11/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 16 09:49:33 +0000 2020",
+			"id": 1250722993136783400,
+			"id_str": "1250722993136783367",
+			"full_text": "#승자독식 구조의 #소선거구제 문제점\n\n40%도 안되는 지지를 받은 정당이 60%넘는 의석을 가져가 버리고,\n\n10% 지지를 받은 정당은 2%의석을 점유함 -.-;\n\n(100명중 10명이나 지지한 정당인데도!!!)\n\nhttps://t.co/vPvjVtTMY2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				144
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "승자독식",
+						"indices": [
+							0,
+							5
+						]
+					},
+					{
+						"text": "소선거구제",
+						"indices": [
+							10,
+							16
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vPvjVtTMY2",
+						"expanded_url": "https://n.news.naver.com/article/001/0011554202",
+						"display_url": "n.news.naver.com/article/001/00…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 614233155,
+				"id_str": "614233155",
+				"name": "SteadyGrowth",
+				"screen_name": "steadyG11",
+				"location": "",
+				"description": "Steve 처럼... 근데 어떤 Steve??? (One of the 금융쟁이) 어느 누구도 열렬히 지지하지않는 회색분자를 지향합니다. 하지만 자영업자분들을 위한 건전한 소비 장려운동을 적극 지지합니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2134,
+				"friends_count": 72,
+				"listed_count": 51,
+				"created_at": "Thu Jun 21 09:00:51 +0000 2012",
+				"favourites_count": 6134,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14359,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/620158554587070464/7EpYAo7H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/620158554587070464/7EpYAo7H_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/614233155/1362116997",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "국민 다수가 정치를 혐오하는데 과연 순수한 지지층이 얼마나 될까요. 선거에 반영되는 것은 지지가 아닌 비토인데, 지지만 놓고 보니 엇갈림이 발생하는 것. 여론조사에서도 지지율이 아니라 비토율을 계산해야 할지 몰라요.\nhttps://t.co/EKNNOXvy6n"
+	},
+	{
 		"created_at": "Tue Apr 21 14:11:36 +0000 2020",
 		"id": 1252600878663491600,
 		"id_str": "1252600878663491584",
