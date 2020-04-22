@@ -1,6 +1,295 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 22 20:56:39 +0000 2020",
+		"id": 1252944590262370300,
+		"id_str": "1253065199583522816",
+		"full_text": "이 판데믹 후에 수많은 사람들이 이혼 할 거라는 말에 동의하는 한편, 또 반대편 상당수의 사람들이 연애나 결혼 또는 다른 어떤 형태든 조금 더 밀접한 파트너쉽을 원할지 모른다는 생각을 했다. 집에만 있고 사회적 관계가 사라지는건 생각보다 큰 고립감이더라고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1252930488613961700,
+		"in_reply_to_status_id_str": "1252930488613961729",
+		"in_reply_to_user_id": 53305769,
+		"in_reply_to_user_id_str": "53305769",
+		"in_reply_to_screen_name": "shinhh",
+		"user": {
+			"id": 53305769,
+			"id_str": "53305769",
+			"name": "Hyunho Shin",
+			"screen_name": "shinhh",
+			"location": "New York, USA",
+			"description": "\"If this isn't nice, what is?” 원고문의: hyunho.shin@outlook.com",
+			"url": "https://t.co/LSaoU0hHJp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LSaoU0hHJp",
+							"expanded_url": "https://peing.net/ko/shinhh?event=0h",
+							"display_url": "peing.net/ko/shinhh?even…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23180,
+			"friends_count": 651,
+			"listed_count": 201,
+			"created_at": "Fri Jul 03 05:35:31 +0000 2009",
+			"favourites_count": 20383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54859,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264567085/beach_umbrella_71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264567085/beach_umbrella_71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53305769/1401459717",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 82,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이 판데믹 후에 수많은 사람들이 이혼 할 거라는 말에 동의하는 한편, 또 반대편 상당수의 사람들이 연애나 결혼 또는 다른 어떤 형태든 조금 더 밀접한 파트너쉽을 원할지 모른다는 생각을 했다. 집에만 있고 사회적 관계가 사라지는건 생각보다 큰 고립감이더라고."
+	},
+	{
+		"created_at": "Wed Apr 22 20:56:25 +0000 2020",
+		"id": 1253065142092193800,
+		"id_str": "1253065142092193792",
+		"full_text": "탈-외로움. 온라인은 어떻게 기존 관계를 해체하였는가.\nhttps://t.co/DiS5YbtSMU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DiS5YbtSMU",
+					"expanded_url": "https://twitter.com/shinhh/status/1252944590262370304?s=19",
+					"display_url": "twitter.com/shinhh/status/…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 86,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1252944590262370300,
+		"quoted_status_id_str": "1252944590262370304",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DiS5YbtSMU",
+			"expanded": "https://twitter.com/shinhh/status/1252944590262370304?s=19",
+			"display": "twitter.com/shinhh/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 22 12:57:23 +0000 2020",
+			"id": 1252944590262370300,
+			"id_str": "1252944590262370304",
+			"full_text": "이 판데믹 후에 수많은 사람들이 이혼 할 거라는 말에 동의하는 한편, 또 반대편 상당수의 사람들이 연애나 결혼 또는 다른 어떤 형태든 조금 더 밀접한 파트너쉽을 원할지 모른다는 생각을 했다. 집에만 있고 사회적 관계가 사라지는건 생각보다 큰 고립감이더라고.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				143
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1252930488613961700,
+			"in_reply_to_status_id_str": "1252930488613961729",
+			"in_reply_to_user_id": 53305769,
+			"in_reply_to_user_id_str": "53305769",
+			"in_reply_to_screen_name": "shinhh",
+			"user": {
+				"id": 53305769,
+				"id_str": "53305769",
+				"name": "Hyunho Shin",
+				"screen_name": "shinhh",
+				"location": "New York, USA",
+				"description": "\"If this isn't nice, what is?” 원고문의: hyunho.shin@outlook.com",
+				"url": "https://t.co/LSaoU0hHJp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LSaoU0hHJp",
+								"expanded_url": "https://peing.net/ko/shinhh?event=0h",
+								"display_url": "peing.net/ko/shinhh?even…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23180,
+				"friends_count": 651,
+				"listed_count": 201,
+				"created_at": "Fri Jul 03 05:35:31 +0000 2009",
+				"favourites_count": 20383,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 54859,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1264567085/beach_umbrella_71_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264567085/beach_umbrella_71_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/53305769/1401459717",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 82,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "탈-외로움. 온라인은 어떻게 기존 관계를 해체하였는가.\nhttps://t.co/DiS5YbtSMU"
+	},
+	{
 		"created_at": "Wed Apr 22 15:35:17 +0000 2020",
 		"id": 1252984016862539800,
 		"id_str": "1252984326511136771",
