@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 22 15:35:17 +0000 2020",
+		"id": 1252984016862539800,
+		"id_str": "1252984326511136771",
+		"full_text": "한국문학계의 새로움이란...\nhttps://t.co/Hl4j9qXgT2 https://t.co/ujqeypGU4a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Hl4j9qXgT2",
+					"expanded_url": "https://twitter.com/and_so_0n/status/1252821557904211968",
+					"display_url": "twitter.com/and_so_0n/stat…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1252982511572971500,
+					"id_str": "1252982511572971521",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/EWN89KgVcAEttVl.png",
+					"media_url_https": "https://pbs.twimg.com/media/EWN89KgVcAEttVl.png",
+					"url": "https://t.co/ujqeypGU4a",
+					"display_url": "pic.twitter.com/ujqeypGU4a",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1252984016862539776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 472,
+							"h": 718,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 472,
+							"h": 718,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 447,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1252982511572971500,
+					"id_str": "1252982511572971521",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/EWN89KgVcAEttVl.png",
+					"media_url_https": "https://pbs.twimg.com/media/EWN89KgVcAEttVl.png",
+					"url": "https://t.co/ujqeypGU4a",
+					"display_url": "pic.twitter.com/ujqeypGU4a",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1252984016862539776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 472,
+							"h": 718,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 472,
+							"h": 718,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 447,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1252982635640443000,
+					"id_str": "1252982635640442880",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/EWN9EYsU0AAdFgv.png",
+					"media_url_https": "https://pbs.twimg.com/media/EWN9EYsU0AAdFgv.png",
+					"url": "https://t.co/ujqeypGU4a",
+					"display_url": "pic.twitter.com/ujqeypGU4a",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1252984016862539776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 551,
+							"h": 824,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 551,
+							"h": 824,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2,
+			"friends_count": 27,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 186,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 56,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1252821557904212000,
+		"quoted_status_id_str": "1252821557904211968",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Hl4j9qXgT2",
+			"expanded": "https://twitter.com/and_so_0n/status/1252821557904211968",
+			"display": "twitter.com/and_so_0n/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 22 04:48:30 +0000 2020",
+			"id": 1252821557904212000,
+			"id_str": "1252821557904211968",
+			"full_text": "자본력이 없기 때문에 아이디어로 승부해야 하는 이들에겐 아이디어가 그들의 자산입니다. 이들이 빛나는 아이디어를 통해 자력으로 가능케 해놓은 새로운 방식을 자본력을 가진 출판사가 쉽게 가져다 쓴다면 누가 이 업계에서 더 멋진 아이디어를 고심하겠습니까. 그렇지 않나요?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				148
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1252820328947961900,
+			"in_reply_to_status_id_str": "1252820328947961857",
+			"in_reply_to_user_id": 317200841,
+			"in_reply_to_user_id_str": "317200841",
+			"in_reply_to_screen_name": "and_so_0n",
+			"user": {
+				"id": 317200841,
+				"id_str": "317200841",
+				"name": "응정",
+				"screen_name": "and_so_0n",
+				"location": "",
+				"description": "나한테는 계획이 다 있구나?",
+				"url": "https://t.co/EcfFf1ZpPL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EcfFf1ZpPL",
+								"expanded_url": "https://ice-summer.tistory.com/notice",
+								"display_url": "ice-summer.tistory.com/notice",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1652,
+				"friends_count": 1009,
+				"listed_count": 10,
+				"created_at": "Tue Jun 14 15:46:49 +0000 2011",
+				"favourites_count": 2400,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3005,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1168600490419998720/3y-g8D2__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168600490419998720/3y-g8D2__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/317200841/1567451372",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 100,
+			"favorite_count": 96,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한국문학계의 새로움이란...\nhttps://t.co/Hl4j9qXgT2 https://t.co/ujqeypGU4a"
+	},
+	{
 		"created_at": "Wed Apr 22 13:52:21 +0000 2020",
 		"id": 1252958422745534500,
 		"id_str": "1252958422745534470",
