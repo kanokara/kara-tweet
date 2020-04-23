@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 23 01:24:37 +0000 2020",
+		"id": 1253132638967062500,
+		"id_str": "1253132638967062528",
+		"full_text": "글쎄요. 너무 민주적이고 숙의를 선호하는 성향의 문제라고 생각해요. 비상시라서 답답한 거지...\nhttps://t.co/2bxau5hlRB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2bxau5hlRB",
+					"expanded_url": "https://twitter.com/historia9110/status/1252789052635406337?s=19",
+					"display_url": "twitter.com/historia9110/s…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1253127738795294700,
+		"in_reply_to_status_id_str": "1253127738795294721",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 86,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1252789052635406300,
+		"quoted_status_id_str": "1252789052635406337",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2bxau5hlRB",
+			"expanded": "https://twitter.com/historia9110/status/1252789052635406337?s=19",
+			"display": "twitter.com/historia9110/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 22 02:39:20 +0000 2020",
+			"id": 1252789052635406300,
+			"id_str": "1252789052635406337",
+			"full_text": "지켜본 바로는 문재인의 통치 방식은 자기는 아무말도 안하고 꿍하고 있으면 밑의 것들이 알아서 어허 무엄하다! 하면서 지지고 볶고 싸우다가 대충 '민의'가 드러난 것 같으면 그제서야 한 마디 툭 던지는 식이다. 이건 왕정이지, 민주적인 통치가 아니다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				139
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1252789050945048600,
+			"in_reply_to_status_id_str": "1252789050945048577",
+			"in_reply_to_user_id": 630907747,
+			"in_reply_to_user_id_str": "630907747",
+			"in_reply_to_screen_name": "historia9110",
+			"user": {
+				"id": 630907747,
+				"id_str": "630907747",
+				"name": "햄벨스",
+				"screen_name": "historia9110",
+				"location": "쳇바퀴",
+				"description": "",
+				"url": "https://t.co/sepArh5Mkd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sepArh5Mkd",
+								"expanded_url": "http://ask.fm/historia9108",
+								"display_url": "ask.fm/historia9108",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2319,
+				"friends_count": 527,
+				"listed_count": 89,
+				"created_at": "Mon Jul 09 08:15:48 +0000 2012",
+				"favourites_count": 2270,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 162447,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/993699833071353857/ScMg61WN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/993699833071353857/ScMg61WN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/630907747/1485832709",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "글쎄요. 너무 민주적이고 숙의를 선호하는 성향의 문제라고 생각해요. 비상시라서 답답한 거지...\nhttps://t.co/2bxau5hlRB"
+	},
+	{
 		"created_at": "Thu Apr 23 01:05:09 +0000 2020",
 		"id": 1253127738795294700,
 		"id_str": "1253127738795294721",
