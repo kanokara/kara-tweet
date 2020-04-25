@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 25 15:26:24 +0000 2020",
+		"id": 1254069255319875600,
+		"id_str": "1254069255319875584",
+		"full_text": "@GoblinCase 그러고 보니 저도 추천 알고리즘이 엉망이 될까봐 무심결에 '관리'하는 경향이 있었네요.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoblinCase",
+					"name": "魍魉之匣",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1254052872821436400,
+		"in_reply_to_status_id_str": "1254052872821436417",
+		"in_reply_to_user_id": 1047103952297254900,
+		"in_reply_to_user_id_str": "1047103952297254912",
+		"in_reply_to_screen_name": "GoblinCase",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 86,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@GoblinCase 그러고 보니 저도 추천 알고리즘이 엉망이 될까봐 무심결에 '관리'하는 경향이 있었네요."
+	},
+	{
+		"created_at": "Sat Apr 25 15:18:11 +0000 2020",
+		"id": 1253543769514799000,
+		"id_str": "1254067186013855745",
+		"full_text": "이게 몇 년 간 축적된 결과 자신들의 ‘입장’을 확장하고 강화하는 시나리오가 어느 정도 정형화되었음. 상대를 세대로 나누는 것(어린 여자/늙은 여자), 상대의 상태를 문제삼는 것(연애/기혼/양육/퀴어), 상대의 발언을 특정 의제 조롱으로 해석하기. 이걸 잘 조합하면 못 몰아낼 사람이 거의 없지.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1253541324956942300,
+		"in_reply_to_status_id_str": "1253541324956942338",
+		"in_reply_to_user_id": 723923171745751000,
+		"in_reply_to_user_id_str": "723923171745751043",
+		"in_reply_to_screen_name": "taeng_al",
+		"user": {
+			"id": 723923171745751000,
+			"id_str": "723923171745751043",
+			"name": "탱알",
+			"screen_name": "taeng_al",
+			"location": "Sydney, New South Wales",
+			"description": "책 〈다 된 만화에 페미니즘 끼얹기: 여성 서사 웹툰 읽기〉를 썼습니다.",
+			"url": "https://t.co/YadBM7vwxJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YadBM7vwxJ",
+							"expanded_url": "http://taengal.com",
+							"display_url": "taengal.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8283,
+			"friends_count": 96,
+			"listed_count": 61,
+			"created_at": "Sat Apr 23 17:15:08 +0000 2016",
+			"favourites_count": 5787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1223440807190941696/Bwtsq7o5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1223440807190941696/Bwtsq7o5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/723923171745751043/1557550502",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 196,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이게 몇 년 간 축적된 결과 자신들의 ‘입장’을 확장하고 강화하는 시나리오가 어느 정도 정형화되었음. 상대를 세대로 나누는 것(어린 여자/늙은 여자), 상대의 상태를 문제삼는 것(연애/기혼/양육/퀴어), 상대의 발언을 특정 의제 조롱으로 해석하기. 이걸 잘 조합하면 못 몰아낼 사람이 거의 없지."
+	},
+	{
+		"created_at": "Sat Apr 25 15:18:08 +0000 2020",
+		"id": 1253541324956942300,
+		"id_str": "1254067174932541440",
+		"full_text": "그들이 말하는 연대가 조건적인 연대라는 걸 경험한 사람들이 얼마나 많은데 연대 얘기를 해. 나를 비롯해 내가 팔로하는 사람들 중에도 수두룩하고 그 밖의 사람들까지 합하면 다 셀 수도 없다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 723923171745751000,
+			"id_str": "723923171745751043",
+			"name": "탱알",
+			"screen_name": "taeng_al",
+			"location": "Sydney, New South Wales",
+			"description": "책 〈다 된 만화에 페미니즘 끼얹기: 여성 서사 웹툰 읽기〉를 썼습니다.",
+			"url": "https://t.co/YadBM7vwxJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YadBM7vwxJ",
+							"expanded_url": "http://taengal.com",
+							"display_url": "taengal.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8283,
+			"friends_count": 96,
+			"listed_count": 61,
+			"created_at": "Sat Apr 23 17:15:08 +0000 2016",
+			"favourites_count": 5787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1223440807190941696/Bwtsq7o5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1223440807190941696/Bwtsq7o5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/723923171745751043/1557550502",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 210,
+		"favorite_count": 119,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그들이 말하는 연대가 조건적인 연대라는 걸 경험한 사람들이 얼마나 많은데 연대 얘기를 해. 나를 비롯해 내가 팔로하는 사람들 중에도 수두룩하고 그 밖의 사람들까지 합하면 다 셀 수도 없다."
+	},
+	{
 		"created_at": "Sat Apr 25 15:06:00 +0000 2020",
 		"id": 1254048036637905000,
 		"id_str": "1254064122561323009",
