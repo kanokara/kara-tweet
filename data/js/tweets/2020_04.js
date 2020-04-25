@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 25 13:00:20 +0000 2020",
+		"id": 1254032497328840700,
+		"id_str": "1254032497328840704",
+		"full_text": "저도 이전에 이 문제로 궁금해하며 지붕이 닫힌 밀폐형 승용차의 보급, (제모 문제와 같이) 위생 관념의 변화, 신분제 질서의 쇠퇴 등에서 원인을 찾았는데... 이동 중에도 계속 실내에 있게 된 것이 가장 큰 것 같아요.\nhttps://t.co/cARvUGW1xa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cARvUGW1xa",
+					"expanded_url": "https://twitter.com/djuna01/status/1253998045844267009",
+					"display_url": "twitter.com/djuna01/status…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 86,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1865,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1253998045844267000,
+		"quoted_status_id_str": "1253998045844267009",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cARvUGW1xa",
+			"expanded": "https://twitter.com/djuna01/status/1253998045844267009",
+			"display": "twitter.com/djuna01/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 25 10:43:26 +0000 2020",
+			"id": 1253998045844267000,
+			"id_str": "1253998045844267009",
+			"full_text": "왜 사람들이 모자를 안 쓰게 되었을까. 하긴 18세기, 19세기의 유럽 배경의 영화에서도 사람들이 은근슬쩍 모자를 안 쓰고 외출을 하는데, 이건 완전히 고증에 안 맞거든요. 전문가들이니 몰라서 그랬을 리는 없고 고증을 어길만큼 모자를 싫어한 걸까.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 151807455,
+				"id_str": "151807455",
+				"name": "djuna",
+				"screen_name": "djuna01",
+				"location": "South Korea",
+				"description": "[캘리번], [그깟 공놀이], [장르 세계를 떠도는 듀나의 탐사기], [왕의 넋], [구부전], [두 번째 유모], [아르카디아에도 나는 있었다], [네 몸 속에 웅크리고 있는 것], [바쁜 꿀벌들의 나라], [우리 미나리 좀 챙겨주세요], [대본 밖에서], [여자 주인공만 모른다]",
+				"url": "https://t.co/hO1XEzYVfJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hO1XEzYVfJ",
+								"expanded_url": "http://djuna.kr",
+								"display_url": "djuna.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 78809,
+				"friends_count": 220,
+				"listed_count": 722,
+				"created_at": "Fri Jun 04 08:44:20 +0000 2010",
+				"favourites_count": 1041,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 328132,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F2F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/151807455/1570884283",
+				"profile_link_color": "464A5C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FB274A",
+				"profile_text_color": "DB6955",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저도 이전에 이 문제로 궁금해하며 지붕이 닫힌 밀폐형 승용차의 보급, (제모 문제와 같이) 위생 관념의 변화, 신분제 질서의 쇠퇴 등에서 원인을 찾았는데... 이동 중에도 계속 실내에 있게 된 것이 가장 큰 것 같아요.\nhttps://t.co/cARvUGW1xa"
+	},
+	{
 		"created_at": "Fri Apr 24 17:11:34 +0000 2020",
 		"id": 1253733335093743600,
 		"id_str": "1253733335093743616",
