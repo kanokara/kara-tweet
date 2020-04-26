@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 26 13:53:40 +0000 2020",
+		"id": 1254408307025997800,
+		"id_str": "1254408307025997826",
+		"full_text": "그러고 보니 차등과 균등에 대한 좌우의 전도는 흥미롭네요. 세금 = 네거티브 복지이고 (...)\nhttps://t.co/fWj6qzJwzp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fWj6qzJwzp",
+					"expanded_url": "https://twitter.com/1NR3alien/status/1254004736660959232?s=19",
+					"display_url": "twitter.com/1NR3alien/stat…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 86,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1254004736660959200,
+		"quoted_status_id_str": "1254004736660959232",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fWj6qzJwzp",
+			"expanded": "https://twitter.com/1NR3alien/status/1254004736660959232?s=19",
+			"display": "twitter.com/1NR3alien/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 25 11:10:02 +0000 2020",
+			"id": 1254004736660959200,
+			"id_str": "1254004736660959232",
+			"full_text": "우파의 복지가 오른쪽이라고 생각되신다먼 선생님은 우파가 아니라 좌파 빨갱이십니다. https://t.co/J0uxUTWzLG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				45
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/J0uxUTWzLG",
+						"expanded_url": "https://twitter.com/eGxB0fFgYjNk1pu/status/1253979725887750145",
+						"display_url": "twitter.com/eGxB0fFgYjNk1p…",
+						"indices": [
+							46,
+							69
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1147524183833735200,
+				"id_str": "1147524183833735168",
+				"name": "인레",
+				"screen_name": "1NR3alien",
+				"location": "중앙 도서관 하늘의 구멍 지부",
+				"description": "문제가 발생했습니다. 내 잘못이 아니니 걱정하지 마세요.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 594,
+				"friends_count": 256,
+				"listed_count": 4,
+				"created_at": "Sat Jul 06 15:14:20 +0000 2019",
+				"favourites_count": 1036,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2806,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1253585859657338881/oRC_gZhg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253585859657338881/oRC_gZhg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1147524183833735168/1587485775",
+				"profile_link_color": "C21807",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0190ea0c6981204e",
+				"url": "https://api.twitter.com/1.1/geo/id/0190ea0c6981204e.json",
+				"place_type": "city",
+				"name": "강남구",
+				"full_name": "대한민국 강남구",
+				"country_code": "KR",
+				"country": "대한민국",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								127.005165636288,
+								37.4385022172146
+							],
+							[
+								127.106354128286,
+								37.4385022172146
+							],
+							[
+								127.106354128286,
+								37.5386131091282
+							],
+							[
+								127.005165636288,
+								37.5386131091282
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1253979725887750100,
+			"quoted_status_id_str": "1253979725887750145",
+			"quoted_status_permalink": {
+				"url": "https://t.co/J0uxUTWzLG",
+				"expanded": "https://twitter.com/eGxB0fFgYjNk1pu/status/1253979725887750145",
+				"display": "twitter.com/eGxB0fFgYjNk1p…"
+			},
+			"retweet_count": 1133,
+			"favorite_count": 208,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그러고 보니 차등과 균등에 대한 좌우의 전도는 흥미롭네요. 세금 = 네거티브 복지이고 (...)\nhttps://t.co/fWj6qzJwzp"
+	},
+	{
 		"created_at": "Sat Apr 25 15:26:24 +0000 2020",
 		"id": 1254069255319875600,
 		"id_str": "1254069255319875584",
