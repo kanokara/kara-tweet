@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 27 23:10:28 +0000 2020",
+		"id": 1254910816949657600,
+		"id_str": "1254910816949657600",
+		"full_text": "많이 봐서 그렇다기보단 작품에서도 가성비를 찾게 되는 게 1차적인 문제죠. 기대를 안 하는 게 아니라 불러일으켜진 기대(지평)에 그 이상으로 부합을 못 하면 거부하는 것이고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 87,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "많이 봐서 그렇다기보단 작품에서도 가성비를 찾게 되는 게 1차적인 문제죠. 기대를 안 하는 게 아니라 불러일으켜진 기대(지평)에 그 이상으로 부합을 못 하면 거부하는 것이고."
+	},
+	{
+		"created_at": "Mon Apr 27 23:08:41 +0000 2020",
+		"id": 1254750877853704200,
+		"id_str": "1254910369375510530",
+		"full_text": "최근에 읽은 책에도 비슷한 얘기가 나왔는데. 이런 최근의 독자 경향은전문가의 이야기를 신뢰하지 않고 이미 자신이 “모든 걸 다 안다”는 태도에서 비롯된다고. 이걸 픽션 장르로 치환하면, 독자들은 이제 너무 많은 이야기 봐버린거여... 그래서 작가를 신뢰하지 않는 것.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1254748400764907500,
+		"in_reply_to_status_id_str": "1254748400764907522",
+		"in_reply_to_user_id": 1068677058459402200,
+		"in_reply_to_user_id_str": "1068677058459402240",
+		"in_reply_to_screen_name": "hawaiian_pizza1",
+		"user": {
+			"id": 1068677058459402200,
+			"id_str": "1068677058459402240",
+			"name": "타오르는 하피라슈의 초상",
+			"screen_name": "hawaiian_pizza1",
+			"location": "주버가또 팟캐 비정기적 운영 중",
+			"description": "나를 부른 건 진짜 나였던 거야",
+			"url": "https://t.co/iiS93WNaja",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iiS93WNaja",
+							"expanded_url": "https://peing.net/ko/hawaiian_pizza1",
+							"display_url": "peing.net/ko/hawaiian_pi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1694,
+			"friends_count": 197,
+			"listed_count": 12,
+			"created_at": "Sat Dec 01 01:24:00 +0000 2018",
+			"favourites_count": 1579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198216092621004800/cNIc2MqP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198216092621004800/cNIc2MqP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1068677058459402240/1573464534",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 268,
+		"favorite_count": 110,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "최근에 읽은 책에도 비슷한 얘기가 나왔는데. 이런 최근의 독자 경향은전문가의 이야기를 신뢰하지 않고 이미 자신이 “모든 걸 다 안다”는 태도에서 비롯된다고. 이걸 픽션 장르로 치환하면, 독자들은 이제 너무 많은 이야기 봐버린거여... 그래서 작가를 신뢰하지 않는 것."
+	},
+	{
+		"created_at": "Mon Apr 27 23:08:39 +0000 2020",
+		"id": 1254748400764907500,
+		"id_str": "1254910358889721857",
+		"full_text": "독자들이 이야기를 기다리는 인내심이 적어졌고, 자신이 아는 것을 좀 더 매끈하게 말하는 작품을 좋아하는 것 뿐임. 명쾌한 사이다 같은 이야기들을 좋아하고 익숙하지 않은, 혹은 자신이 생각해보지 않은 영역의 이야기를 보면 심지어 감정까지 상해함.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1254747936107315200,
+		"in_reply_to_status_id_str": "1254747936107315200",
+		"in_reply_to_user_id": 1068677058459402200,
+		"in_reply_to_user_id_str": "1068677058459402240",
+		"in_reply_to_screen_name": "hawaiian_pizza1",
+		"user": {
+			"id": 1068677058459402200,
+			"id_str": "1068677058459402240",
+			"name": "타오르는 하피라슈의 초상",
+			"screen_name": "hawaiian_pizza1",
+			"location": "주버가또 팟캐 비정기적 운영 중",
+			"description": "나를 부른 건 진짜 나였던 거야",
+			"url": "https://t.co/iiS93WNaja",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iiS93WNaja",
+							"expanded_url": "https://peing.net/ko/hawaiian_pizza1",
+							"display_url": "peing.net/ko/hawaiian_pi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1694,
+			"friends_count": 197,
+			"listed_count": 12,
+			"created_at": "Sat Dec 01 01:24:00 +0000 2018",
+			"favourites_count": 1579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198216092621004800/cNIc2MqP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198216092621004800/cNIc2MqP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1068677058459402240/1573464534",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 284,
+		"favorite_count": 113,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "독자들이 이야기를 기다리는 인내심이 적어졌고, 자신이 아는 것을 좀 더 매끈하게 말하는 작품을 좋아하는 것 뿐임. 명쾌한 사이다 같은 이야기들을 좋아하고 익숙하지 않은, 혹은 자신이 생각해보지 않은 영역의 이야기를 보면 심지어 감정까지 상해함."
+	},
+	{
+		"created_at": "Mon Apr 27 23:08:37 +0000 2020",
+		"id": 1254747936107315200,
+		"id_str": "1254910349855191040",
+		"full_text": "물론 요새의 이야기 소비자들도 깜짝 놀랄만한 이야기꾼의 스킬을 좋아하는데, 그건 안전한 방식의 반전을 기대한다는 것임ㅋㅋㅋ 헉 대박 반전! 이런것만 기대함. 아니면 장르적 색다름을 새로움이라고 착각하던가.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1254747554538860500,
+		"in_reply_to_status_id_str": "1254747554538860545",
+		"in_reply_to_user_id": 1068677058459402200,
+		"in_reply_to_user_id_str": "1068677058459402240",
+		"in_reply_to_screen_name": "hawaiian_pizza1",
+		"user": {
+			"id": 1068677058459402200,
+			"id_str": "1068677058459402240",
+			"name": "타오르는 하피라슈의 초상",
+			"screen_name": "hawaiian_pizza1",
+			"location": "주버가또 팟캐 비정기적 운영 중",
+			"description": "나를 부른 건 진짜 나였던 거야",
+			"url": "https://t.co/iiS93WNaja",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iiS93WNaja",
+							"expanded_url": "https://peing.net/ko/hawaiian_pizza1",
+							"display_url": "peing.net/ko/hawaiian_pi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1694,
+			"friends_count": 197,
+			"listed_count": 12,
+			"created_at": "Sat Dec 01 01:24:00 +0000 2018",
+			"favourites_count": 1579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198216092621004800/cNIc2MqP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198216092621004800/cNIc2MqP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1068677058459402240/1573464534",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 156,
+		"favorite_count": 76,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "물론 요새의 이야기 소비자들도 깜짝 놀랄만한 이야기꾼의 스킬을 좋아하는데, 그건 안전한 방식의 반전을 기대한다는 것임ㅋㅋㅋ 헉 대박 반전! 이런것만 기대함. 아니면 장르적 색다름을 새로움이라고 착각하던가."
+	},
+	{
 		"created_at": "Mon Apr 27 06:18:30 +0000 2020",
 		"id": 1254656148159860700,
 		"id_str": "1254656148159860736",
