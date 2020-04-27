@@ -1,6 +1,403 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 27 05:45:34 +0000 2020",
+		"id": 1254647858650726400,
+		"id_str": "1254647858650726400",
+		"full_text": "일본 데이터 분석도 주세요.\nhttps://t.co/mpGxwGNGQT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mpGxwGNGQT",
+					"expanded_url": "https://twitter.com/jburnmurdoch/status/1254461123753054209?s=19",
+					"display_url": "twitter.com/jburnmurdoch/s…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 87,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11847,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1254461123753054200,
+		"quoted_status_id_str": "1254461123753054209",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mpGxwGNGQT",
+			"expanded": "https://twitter.com/jburnmurdoch/status/1254461123753054209?s=19",
+			"display": "twitter.com/jburnmurdoch/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 26 17:23:33 +0000 2020",
+			"id": 1254461123753054200,
+			"id_str": "1254461123753054209",
+			"full_text": "NEW: a lot of data on reported Covid deaths is highly suspect, so we’ve been looking into excess mortality — how many more people than usual have been dying around the world in recent weeks?\n\nStory by me, @ChrisGiles_ &amp; @valentinaromei (free to read): https://t.co/EiE5Q3OSmR https://t.co/AiTdBnBma9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ChrisGiles_",
+						"name": "Chris Giles",
+						"id": 305073570,
+						"id_str": "305073570",
+						"indices": [
+							205,
+							217
+						]
+					},
+					{
+						"screen_name": "valentinaromei",
+						"name": "Valentina Romei",
+						"id": 715627334,
+						"id_str": "715627334",
+						"indices": [
+							224,
+							239
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/EiE5Q3OSmR",
+						"expanded_url": "https://www.ft.com/content/6bd88b7d-3386-4543-b2e9-0d5c6fac846c",
+						"display_url": "ft.com/content/6bd88b…",
+						"indices": [
+							256,
+							279
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1254460652963410000,
+						"id_str": "1254460652963409922",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EWi9UUSWsAImuGR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EWi9UUSWsAImuGR.jpg",
+						"url": "https://t.co/AiTdBnBma9",
+						"display_url": "pic.twitter.com/AiTdBnBma9",
+						"expanded_url": "https://twitter.com/jburnmurdoch/status/1254461123753054209/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1291,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 757,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 429,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1254460652963410000,
+						"id_str": "1254460652963409922",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EWi9UUSWsAImuGR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EWi9UUSWsAImuGR.jpg",
+						"url": "https://t.co/AiTdBnBma9",
+						"display_url": "pic.twitter.com/AiTdBnBma9",
+						"expanded_url": "https://twitter.com/jburnmurdoch/status/1254461123753054209/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1291,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 757,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 429,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 43878033,
+				"id_str": "43878033",
+				"name": "John Burn-Murdoch",
+				"screen_name": "jburnmurdoch",
+				"location": "Doncaster ➡️ London",
+				"description": "Stories, stats & scatterplots for @FinancialTimes | Daily updates of the coronavirus trajectory tracker | john.burn-murdoch@ft.com | #dataviz",
+				"url": "https://t.co/VZF28wenJw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VZF28wenJw",
+								"expanded_url": "https://www.ft.com/jbm",
+								"display_url": "ft.com/jbm",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 297524,
+				"friends_count": 3962,
+				"listed_count": 4638,
+				"created_at": "Mon Jun 01 12:48:11 +0000 2009",
+				"favourites_count": 32080,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 49332,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/922511756110557184/IDxUQ_rr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/922511756110557184/IDxUQ_rr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/43878033/1584563578",
+				"profile_link_color": "B1493F",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6854,
+			"favorite_count": 10463,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일본 데이터 분석도 주세요.\nhttps://t.co/mpGxwGNGQT"
+	},
+	{
+		"created_at": "Mon Apr 27 05:43:19 +0000 2020",
+		"id": 1254647291312365600,
+		"id_str": "1254647291312365568",
+		"full_text": "@GoblinCase 불매 운동처럼 드러나게 하는 건 반대지만, 개인 차원에선 해당국들의 소비를 자숙하는 게 좋다고 생각해요.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoblinCase",
+					"name": "魍魉之匣",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1254644257777807400,
+		"in_reply_to_status_id_str": "1254644257777807360",
+		"in_reply_to_user_id": 1047103952297254900,
+		"in_reply_to_user_id_str": "1047103952297254912",
+		"in_reply_to_screen_name": "GoblinCase",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 87,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11847,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@GoblinCase 불매 운동처럼 드러나게 하는 건 반대지만, 개인 차원에선 해당국들의 소비를 자숙하는 게 좋다고 생각해요."
+	},
+	{
 		"created_at": "Sun Apr 26 20:01:49 +0000 2020",
 		"id": 1254500954017116200,
 		"id_str": "1254500954017116160",
