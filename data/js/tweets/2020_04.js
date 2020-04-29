@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 29 01:31:40 +0000 2020",
+		"id": 1255308737675513900,
+		"id_str": "1255308737675513858",
+		"full_text": "이제는 상상할 수 있는 모든 분야가 플랫폼화되네요. 시장 사이즈가 너무 작거나 가치를 충분히 창출하지 못해서 실패한 경우도 많지만...\nhttps://t.co/lMTI7vplQh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lMTI7vplQh",
+					"expanded_url": "https://twitter.com/estima7/status/1254931097370030080?s=19",
+					"display_url": "twitter.com/estima7/status…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 87,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11868,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1254931097370030000,
+		"quoted_status_id_str": "1254931097370030080",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lMTI7vplQh",
+			"expanded": "https://twitter.com/estima7/status/1254931097370030080?s=19",
+			"display": "twitter.com/estima7/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 28 00:31:03 +0000 2020",
+			"id": 1254931097370030000,
+			"id_str": "1254931097370030080",
+			"full_text": "‘강남언니’ 운영사 ‘힐링페이퍼’, 레전드캐피탈 등으로부터 185억 규모 투자 유치…글로벌 사업 확장 https://t.co/xNxIxDI3k3 요즘 서울거리에서 많이 보이는 강남언니 광고. 전국 1700여개 성형외과, 피부과 등 미용의료 관련 평가와 후기를 제공하는 플랫폼. https://t.co/rV9FiHVxq0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				154
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xNxIxDI3k3",
+						"expanded_url": "https://platum.kr/archives/140478",
+						"display_url": "platum.kr/archives/140478",
+						"indices": [
+							57,
+							80
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1254931088725561300,
+						"id_str": "1254931088725561344",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/EWppLSEU0AAS1ny.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EWppLSEU0AAS1ny.jpg",
+						"url": "https://t.co/rV9FiHVxq0",
+						"display_url": "pic.twitter.com/rV9FiHVxq0",
+						"expanded_url": "https://twitter.com/estima7/status/1254931097370030080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1254931088725561300,
+						"id_str": "1254931088725561344",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/EWppLSEU0AAS1ny.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EWppLSEU0AAS1ny.jpg",
+						"url": "https://t.co/rV9FiHVxq0",
+						"display_url": "pic.twitter.com/rV9FiHVxq0",
+						"expanded_url": "https://twitter.com/estima7/status/1254931097370030080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14060875,
+				"id_str": "14060875",
+				"name": "에스티마",
+				"screen_name": "estima7",
+				"location": "Seoul",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 374400,
+				"friends_count": 2284,
+				"listed_count": 4726,
+				"created_at": "Fri Feb 29 16:22:03 +0000 2008",
+				"favourites_count": 2878,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 73061,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112330442638684161/7OL2Wea4_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14060875/1554035096",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이제는 상상할 수 있는 모든 분야가 플랫폼화되네요. 시장 사이즈가 너무 작거나 가치를 충분히 창출하지 못해서 실패한 경우도 많지만...\nhttps://t.co/lMTI7vplQh"
+	},
+	{
 		"created_at": "Tue Apr 28 06:42:36 +0000 2020",
 		"id": 1253283952665608200,
 		"id_str": "1255024598199877632",
