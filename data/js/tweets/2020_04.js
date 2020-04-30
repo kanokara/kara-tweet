@@ -1,6 +1,536 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 30 06:50:19 +0000 2020",
+		"id": 1249405605241958400,
+		"id_str": "1255751319660277760",
+		"full_text": "‘20대 보수화’라는  문제설정의 빈곤함에 대하여 https://t.co/2u73qBkgYy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2u73qBkgYy",
+					"expanded_url": "https://brunch.co.kr/@fermata/95",
+					"display_url": "brunch.co.kr/@fermata/95",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 928203921733988400,
+			"id_str": "928203921733988352",
+			"name": "Happy Life",
+			"screen_name": "StGifted",
+			"location": "대한민국 김천시",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 0,
+			"friends_count": 4,
+			"listed_count": 0,
+			"created_at": "Wed Nov 08 10:13:54 +0000 2017",
+			"favourites_count": 495,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 105759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250758326872240130/xL_vztbC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250758326872240130/xL_vztbC_normal.jpg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘20대 보수화’라는  문제설정의 빈곤함에 대하여 https://t.co/2u73qBkgYy"
+	},
+	{
+		"created_at": "Thu Apr 30 06:47:13 +0000 2020",
+		"id": 1250337091709358000,
+		"id_str": "1255750537183543296",
+		"full_text": ".\n.\n.\n20대 남성이 보수화 되었다는 담론에 대한 반박으로 같은 20대 남자라도 그들이 속한 계층에 따라 정치적 양극화가 심해 같은 집단으로 볼 수 없다는 조사자료를 제시한다. https://t.co/ihHJCe4tgk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250337070293192700,
+					"id_str": "1250337070293192705",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EVoW8NxUEAEIgN7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVoW8NxUEAEIgN7.jpg",
+					"url": "https://t.co/ihHJCe4tgk",
+					"display_url": "pic.twitter.com/ihHJCe4tgk",
+					"expanded_url": "https://twitter.com/H_TECHNC/status/1250337091709358081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 966,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1648,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 547,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250337070293192700,
+					"id_str": "1250337070293192705",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EVoW8NxUEAEIgN7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVoW8NxUEAEIgN7.jpg",
+					"url": "https://t.co/ihHJCe4tgk",
+					"display_url": "pic.twitter.com/ihHJCe4tgk",
+					"expanded_url": "https://twitter.com/H_TECHNC/status/1250337091709358081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 966,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1648,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 547,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1250336753480659000,
+		"in_reply_to_status_id_str": "1250336753480658944",
+		"in_reply_to_user_id": 1089920458244317200,
+		"in_reply_to_user_id_str": "1089920458244317184",
+		"in_reply_to_screen_name": "H_TECHNC",
+		"user": {
+			"id": 1089920458244317200,
+			"id_str": "1089920458244317184",
+			"name": "TEC (稼ぎ形)",
+			"screen_name": "H_TECHNC",
+			"location": "嵐山竹森",
+			"description": "グルメ、紅茶、投資など。とにかく金がかかる。\n\n金にならない愚か者→@L_TECHNC\n\n미식/홍차/투자 등의 이야기를 하기위한 계정, 정보 구독용으로도 사용중.\n\n당연한 말이지만, 투자는 본인의 책임입니다.\n원치않는 팔로워는 받지않습니다.\n\nhttps://t.co/M0UiC32rLT",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/M0UiC32rLT",
+							"expanded_url": "https://blog.naver.com/hisps2",
+							"display_url": "blog.naver.com/hisps2",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 45,
+			"listed_count": 3,
+			"created_at": "Mon Jan 28 16:17:41 +0000 2019",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1089921183653322752/AS8PnoI0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089921183653322752/AS8PnoI0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1089920458244317184/1548695350",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": ".\n.\n.\n20대 남성이 보수화 되었다는 담론에 대한 반박으로 같은 20대 남자라도 그들이 속한 계층에 따라 정치적 양극화가 심해 같은 집단으로 볼 수 없다는 조사자료를 제시한다. https://t.co/ihHJCe4tgk"
+	},
+	{
+		"created_at": "Thu Apr 30 06:47:10 +0000 2020",
+		"id": 1250336753480659000,
+		"id_str": "1255750524676173824",
+		"full_text": "[독서] 세습 중산층 사회\n\n특히 한국사회의 주역으로 활동하며 부동산 등으로 지위를 쌓아올린 586 베이비붐 세대는 잘 안다. IMF로 무너질 등잔위의 촛불같은 샐러리맨의 삶보다 어떻게든 자기자식을 전문직 만들어놔야 지위가 유지될 수 있다는 것을.\n\nhttps://t.co/hu86Vow9S6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hu86Vow9S6",
+					"expanded_url": "https://m.blog.naver.com/hisps2/221909752072",
+					"display_url": "m.blog.naver.com/hisps2/2219097…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1089920458244317200,
+			"id_str": "1089920458244317184",
+			"name": "TEC (稼ぎ形)",
+			"screen_name": "H_TECHNC",
+			"location": "嵐山竹森",
+			"description": "グルメ、紅茶、投資など。とにかく金がかかる。\n\n金にならない愚か者→@L_TECHNC\n\n미식/홍차/투자 등의 이야기를 하기위한 계정, 정보 구독용으로도 사용중.\n\n당연한 말이지만, 투자는 본인의 책임입니다.\n원치않는 팔로워는 받지않습니다.\n\nhttps://t.co/M0UiC32rLT",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/M0UiC32rLT",
+							"expanded_url": "https://blog.naver.com/hisps2",
+							"display_url": "blog.naver.com/hisps2",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 45,
+			"listed_count": 3,
+			"created_at": "Mon Jan 28 16:17:41 +0000 2019",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1089921183653322752/AS8PnoI0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089921183653322752/AS8PnoI0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1089920458244317184/1548695350",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[독서] 세습 중산층 사회\n\n특히 한국사회의 주역으로 활동하며 부동산 등으로 지위를 쌓아올린 586 베이비붐 세대는 잘 안다. IMF로 무너질 등잔위의 촛불같은 샐러리맨의 삶보다 어떻게든 자기자식을 전문직 만들어놔야 지위가 유지될 수 있다는 것을.\n\nhttps://t.co/hu86Vow9S6"
+	},
+	{
+		"created_at": "Thu Apr 30 06:37:21 +0000 2020",
+		"id": 1252762008195223600,
+		"id_str": "1255748056047222786",
+		"full_text": "프듀 조작 같은 경우 10~30대 여성이 주축이 되어 캐낸 사례인데, 옛날 같으면 게시판이나 웅성웅성하다 말았을 것.\n정치와 하등 상관없는 사안이기 때문에 지금 20대들의 이런 특성을 잘 보여준다고 생각한다. 조금이라도 손해보는 건 못 참는다, 손해봤을 때 어떤 식으로 해결해야 하는지 알고 있다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1252761514588561400,
+		"in_reply_to_status_id_str": "1252761514588561409",
+		"in_reply_to_user_id": 1243484985660604400,
+		"in_reply_to_user_id_str": "1243484985660604416",
+		"in_reply_to_screen_name": "moon_breeze_",
+		"user": {
+			"id": 1243484985660604400,
+			"id_str": "1243484985660604416",
+			"name": "달 바람 부는 곳",
+			"screen_name": "moon_breeze_",
+			"location": "",
+			"description": "페미니스트인 듯 아닌 듯.\n그때 그때 생각나는 단상을 씁니다. 틀린 생각일 수도 있어요.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 45,
+			"listed_count": 0,
+			"created_at": "Fri Mar 27 10:28:25 +0000 2020",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1255031474828402688/4mY4lKbD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255031474828402688/4mY4lKbD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1243484985660604416/1585308488",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "프듀 조작 같은 경우 10~30대 여성이 주축이 되어 캐낸 사례인데, 옛날 같으면 게시판이나 웅성웅성하다 말았을 것.\n정치와 하등 상관없는 사안이기 때문에 지금 20대들의 이런 특성을 잘 보여준다고 생각한다. 조금이라도 손해보는 건 못 참는다, 손해봤을 때 어떤 식으로 해결해야 하는지 알고 있다."
+	},
+	{
+		"created_at": "Thu Apr 30 06:36:48 +0000 2020",
+		"id": 1252761134886645800,
+		"id_str": "1255747915588333568",
+		"full_text": "다만 20대들의 '내 것 뺏기는 걸 못 참는다' 정서가 더욱 확고해진 건 맞는 것 같다. 신자유주의 교육 때문인지.\n그러나 이게 보수화나 반페미화라고는 단정할 수가 없는 게, 이 정서가 난민 문제나 비정규직 문제에서 발현되면 보수지만 20대 여성들이 이 정서를 강하게 보일 땐 불용 집회가 있었다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1252760614058901500,
+		"in_reply_to_status_id_str": "1252760614058901504",
+		"in_reply_to_user_id": 1243484985660604400,
+		"in_reply_to_user_id_str": "1243484985660604416",
+		"in_reply_to_screen_name": "moon_breeze_",
+		"user": {
+			"id": 1243484985660604400,
+			"id_str": "1243484985660604416",
+			"name": "달 바람 부는 곳",
+			"screen_name": "moon_breeze_",
+			"location": "",
+			"description": "페미니스트인 듯 아닌 듯.\n그때 그때 생각나는 단상을 씁니다. 틀린 생각일 수도 있어요.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 45,
+			"listed_count": 0,
+			"created_at": "Fri Mar 27 10:28:25 +0000 2020",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1255031474828402688/4mY4lKbD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255031474828402688/4mY4lKbD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1243484985660604416/1585308488",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "다만 20대들의 '내 것 뺏기는 걸 못 참는다' 정서가 더욱 확고해진 건 맞는 것 같다. 신자유주의 교육 때문인지.\n그러나 이게 보수화나 반페미화라고는 단정할 수가 없는 게, 이 정서가 난민 문제나 비정규직 문제에서 발현되면 보수지만 20대 여성들이 이 정서를 강하게 보일 땐 불용 집회가 있었다."
+	},
+	{
 		"created_at": "Wed Apr 29 01:31:40 +0000 2020",
 		"id": 1255308737675513900,
 		"id_str": "1255308737675513858",
