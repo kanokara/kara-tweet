@@ -1,6 +1,386 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 30 20:07:27 +0000 2020",
+		"id": 1255798507966877700,
+		"id_str": "1255951920834818048",
+		"full_text": "최소한 이벤트를 위한 가챠 뽑아 버리기 전에는... 그렇지 않고서야 정보의 불균형을 이용하는 기망이잖아요?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1255798505366417400,
+		"in_reply_to_status_id_str": "1255798505366417408",
+		"in_reply_to_user_id": 964154823598686200,
+		"in_reply_to_user_id_str": "964154823598686208",
+		"in_reply_to_screen_name": "Yumeno_Uragawa_",
+		"user": {
+			"id": 964154823598686200,
+			"id_str": "964154823598686208",
+			"name": "에농쑥쑥",
+			"screen_name": "Yumeno_Uragawa_",
+			"location": "빻취 필터링 x",
+			"description": "안녕하세요 앙상블라빈스입니다 31가지맛 커플링을 드셔보세요 ^^\n\n스테디셀러 : 에이와타에이",
+			"url": "https://t.co/qnOvz0zchi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qnOvz0zchi",
+							"expanded_url": "https://yumeno-uragawa.postype.com/",
+							"display_url": "yumeno-uragawa.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 464,
+			"friends_count": 53,
+			"listed_count": 2,
+			"created_at": "Thu Feb 15 15:09:57 +0000 2018",
+			"favourites_count": 21183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245404352153448449/5xHdWzc8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245404352153448449/5xHdWzc8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/964154823598686208/1547389574",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "최소한 이벤트를 위한 가챠 뽑아 버리기 전에는... 그렇지 않고서야 정보의 불균형을 이용하는 기망이잖아요?"
+	},
+	{
+		"created_at": "Thu Apr 30 20:07:25 +0000 2020",
+		"id": 1255798505366417400,
+		"id_str": "1255951913419370496",
+		"full_text": "이벤트 컨텐츠 소개가 서프라이즈 효과를 도모하고 있다고 해도, 그건 스토리와 캐릭터 선상에서 제공하면 좋은 것이고, 시스템 차원에서는요, 파트너쉽 관계라고 생각한다면 '이번 시스템에는 이러한 이벤트 종류가 있고 이렇게 진행합니다', 라고는 사전 공지할 수 있다고 생각해요,",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1255798248721092600,
+		"in_reply_to_status_id_str": "1255798248721092608",
+		"in_reply_to_user_id": 964154823598686200,
+		"in_reply_to_user_id_str": "964154823598686208",
+		"in_reply_to_screen_name": "Yumeno_Uragawa_",
+		"user": {
+			"id": 964154823598686200,
+			"id_str": "964154823598686208",
+			"name": "에농쑥쑥",
+			"screen_name": "Yumeno_Uragawa_",
+			"location": "빻취 필터링 x",
+			"description": "안녕하세요 앙상블라빈스입니다 31가지맛 커플링을 드셔보세요 ^^\n\n스테디셀러 : 에이와타에이",
+			"url": "https://t.co/qnOvz0zchi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qnOvz0zchi",
+							"expanded_url": "https://yumeno-uragawa.postype.com/",
+							"display_url": "yumeno-uragawa.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 464,
+			"friends_count": 53,
+			"listed_count": 2,
+			"created_at": "Thu Feb 15 15:09:57 +0000 2018",
+			"favourites_count": 21183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245404352153448449/5xHdWzc8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245404352153448449/5xHdWzc8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/964154823598686208/1547389574",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이벤트 컨텐츠 소개가 서프라이즈 효과를 도모하고 있다고 해도, 그건 스토리와 캐릭터 선상에서 제공하면 좋은 것이고, 시스템 차원에서는요, 파트너쉽 관계라고 생각한다면 '이번 시스템에는 이러한 이벤트 종류가 있고 이렇게 진행합니다', 라고는 사전 공지할 수 있다고 생각해요,"
+	},
+	{
+		"created_at": "Thu Apr 30 20:07:23 +0000 2020",
+		"id": 1255798248721092600,
+		"id_str": "1255951906972643329",
+		"full_text": "대화에서도 사용하잖아요? 이를테면 고객에게 지금까지 &lt;'이벤트' 니까 새로운 컨텐츠가 포함되어 있어요&gt; 라고 몇 회 동일하게 진행해 왔다면 '이벤트' 가 '신 컨텐츠' 를 포함하는 것은 암묵적 약속, 상대는 그것을 바탕으로 판단하는 상황에 있다. 알면서도 말하지 않았네요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1255798246598832000,
+		"in_reply_to_status_id_str": "1255798246598832128",
+		"in_reply_to_user_id": 964154823598686200,
+		"in_reply_to_user_id_str": "964154823598686208",
+		"in_reply_to_screen_name": "Yumeno_Uragawa_",
+		"user": {
+			"id": 964154823598686200,
+			"id_str": "964154823598686208",
+			"name": "에농쑥쑥",
+			"screen_name": "Yumeno_Uragawa_",
+			"location": "빻취 필터링 x",
+			"description": "안녕하세요 앙상블라빈스입니다 31가지맛 커플링을 드셔보세요 ^^\n\n스테디셀러 : 에이와타에이",
+			"url": "https://t.co/qnOvz0zchi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qnOvz0zchi",
+							"expanded_url": "https://yumeno-uragawa.postype.com/",
+							"display_url": "yumeno-uragawa.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 464,
+			"friends_count": 53,
+			"listed_count": 2,
+			"created_at": "Thu Feb 15 15:09:57 +0000 2018",
+			"favourites_count": 21183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245404352153448449/5xHdWzc8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245404352153448449/5xHdWzc8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/964154823598686208/1547389574",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "대화에서도 사용하잖아요? 이를테면 고객에게 지금까지 &lt;'이벤트' 니까 새로운 컨텐츠가 포함되어 있어요&gt; 라고 몇 회 동일하게 진행해 왔다면 '이벤트' 가 '신 컨텐츠' 를 포함하는 것은 암묵적 약속, 상대는 그것을 바탕으로 판단하는 상황에 있다. 알면서도 말하지 않았네요."
+	},
+	{
+		"created_at": "Thu Apr 30 20:07:14 +0000 2020",
+		"id": 1255798246598832000,
+		"id_str": "1255951866833190912",
+		"full_text": "고생해서 만드는 쪽이 있다면, 노력해서 소비하는 쪽도 있다, 라는 것 ... 과금하는 계획을 세워야 하는 입장에서, 지금까지 '이벤트' 에서 '☆5' 인 경우 당연히 신곡이며 의상이 있다, 이전에 진행한 내역으로부터 추론하여 전제로 삼는다고 생각합니다. 일종의 보이지 않는 커뮤니케이션이네요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1255797844771917800,
+		"in_reply_to_status_id_str": "1255797844771917825",
+		"in_reply_to_user_id": 964154823598686200,
+		"in_reply_to_user_id_str": "964154823598686208",
+		"in_reply_to_screen_name": "Yumeno_Uragawa_",
+		"user": {
+			"id": 964154823598686200,
+			"id_str": "964154823598686208",
+			"name": "에농쑥쑥",
+			"screen_name": "Yumeno_Uragawa_",
+			"location": "빻취 필터링 x",
+			"description": "안녕하세요 앙상블라빈스입니다 31가지맛 커플링을 드셔보세요 ^^\n\n스테디셀러 : 에이와타에이",
+			"url": "https://t.co/qnOvz0zchi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qnOvz0zchi",
+							"expanded_url": "https://yumeno-uragawa.postype.com/",
+							"display_url": "yumeno-uragawa.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 464,
+			"friends_count": 53,
+			"listed_count": 2,
+			"created_at": "Thu Feb 15 15:09:57 +0000 2018",
+			"favourites_count": 21183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245404352153448449/5xHdWzc8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245404352153448449/5xHdWzc8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/964154823598686208/1547389574",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "고생해서 만드는 쪽이 있다면, 노력해서 소비하는 쪽도 있다, 라는 것 ... 과금하는 계획을 세워야 하는 입장에서, 지금까지 '이벤트' 에서 '☆5' 인 경우 당연히 신곡이며 의상이 있다, 이전에 진행한 내역으로부터 추론하여 전제로 삼는다고 생각합니다. 일종의 보이지 않는 커뮤니케이션이네요."
+	},
+	{
 		"created_at": "Thu Apr 30 06:50:19 +0000 2020",
 		"id": 1249405605241958400,
 		"id_str": "1255751319660277760",
