@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 02 03:21:12 +0000 2020",
+		"id": 1255682147987255300,
+		"id_str": "1256423468335280128",
+		"full_text": "그 외의 이유라면...\n앞으로 사용할 (가능성이 높은) 데이터를 예측해서 캐쉬 같이 더빠른 메모리로 옮겨놓는 걸 prefetch 라고 하죠. 책도 사서 집에 옮겨놓으면 그 책의 접근성을 향상시켜 읽게 될 확률이 높아지긴 함. (그리고 갑자기 필요해졌을 때 신속히 찾아볼수도 있고) https://t.co/5CugaWKwRk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5CugaWKwRk",
+					"expanded_url": "https://twitter.com/windxellos/status/1255675331173744645",
+					"display_url": "twitter.com/windxellos/sta…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 262353521,
+			"id_str": "262353521",
+			"name": "sonnet",
+			"screen_name": "quarantineSta",
+			"location": "Seoul, ROK",
+			"description": "이전에 나는 죄가 있기 때문에 사형을 당하거나 감옥에 갇히는 것이라고 생각했다. 그러나 이제는 먼저 누군가에게 ‘괘씸하다’는 판정을 받게 된 연후에 죄를 얻게 되는 것임을 알게 되었다. - 루쉰(魯迅), 「괘씸죄」-",
+			"url": "http://t.co/jHtektmz9j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/jHtektmz9j",
+							"expanded_url": "http://sonnet.egloos.com/",
+							"display_url": "sonnet.egloos.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3978,
+			"friends_count": 266,
+			"listed_count": 122,
+			"created_at": "Mon Mar 07 22:03:27 +0000 2011",
+			"favourites_count": 881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11558,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1401335216/hm100px_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1401335216/hm100px_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/262353521/1398770126",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1255675331173744600,
+		"quoted_status_id_str": "1255675331173744645",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5CugaWKwRk",
+			"expanded": "https://twitter.com/windxellos/status/1255675331173744645",
+			"display": "twitter.com/windxellos/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 30 01:48:22 +0000 2020",
+			"id": 1255675331173744600,
+			"id_str": "1255675331173744645",
+			"full_text": "Q : 읽는 속도가 사는 속도를 못 쫓아가면서 왜 또 책을 사나요? 허세인가요?\n\nA : 당장은 못 볼 듯하니 나중에 사야지 했다가 그 나중에 절판돼 있는 꼴을 몇 번 겪어보면 사람이 그렇게 됩니다.(…)\n\n#통곡",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				119
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "통곡",
+						"indices": [
+							116,
+							119
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 967655546,
+				"id_str": "967655546",
+				"name": "windxellos",
+				"screen_name": "windxellos",
+				"location": "",
+				"description": "절대평범지극정상인",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 367,
+				"friends_count": 274,
+				"listed_count": 14,
+				"created_at": "Sat Nov 24 08:58:38 +0000 2012",
+				"favourites_count": 2820,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 21238,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/641620555305648128/EoN48Fza_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/641620555305648128/EoN48Fza_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/967655546/1387272225",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3869,
+			"favorite_count": 1204,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 102,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그 외의 이유라면...\n앞으로 사용할 (가능성이 높은) 데이터를 예측해서 캐쉬 같이 더빠른 메모리로 옮겨놓는 걸 prefetch 라고 하죠. 책도 사서 집에 옮겨놓으면 그 책의 접근성을 향상시켜 읽게 될 확률이 높아지긴 함. (그리고 갑자기 필요해졌을 때 신속히 찾아볼수도 있고) https://t.co/5CugaWKwRk"
+	},
+	{
 		"created_at": "Fri May 01 13:53:29 +0000 2020",
 		"id": 1256220197616267300,
 		"id_str": "1256220197616267269",
