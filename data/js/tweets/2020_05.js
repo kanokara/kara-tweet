@@ -1,6 +1,669 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 03 08:10:02 +0000 2020",
+		"id": 1256858541169635300,
+		"id_str": "1256858541169635328",
+		"full_text": "레닌의 지도에 따라 프로 혁명가를 지향한 볼셰비키가 모든 경쟁을 물리치고 지지자들을 배반하며 집권한 과정을 보면 너무하다 싶긴 한데, 결국 사회주의와 공산주의의 대명사 그 자체가 된 건 바로 그 계보.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1256857312242757600,
+		"in_reply_to_status_id_str": "1256857312242757632",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 87,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11903,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "레닌의 지도에 따라 프로 혁명가를 지향한 볼셰비키가 모든 경쟁을 물리치고 지지자들을 배반하며 집권한 과정을 보면 너무하다 싶긴 한데, 결국 사회주의와 공산주의의 대명사 그 자체가 된 건 바로 그 계보."
+	},
+	{
+		"created_at": "Sun May 03 08:05:09 +0000 2020",
+		"id": 1256857312242757600,
+		"id_str": "1256857312242757632",
+		"full_text": "소수점 아래의 지지율 얻는 아마추어 정당보단, 정의당이 1석이라도 더 챙기는 게 나았을 텐데...\nhttps://t.co/WjtFGrD6jP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WjtFGrD6jP",
+					"expanded_url": "https://twitter.com/soundly_s/status/1255440981303926786?s=19",
+					"display_url": "twitter.com/soundly_s/stat…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 87,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11903,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1255440981303926800,
+		"quoted_status_id_str": "1255440981303926786",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WjtFGrD6jP",
+			"expanded": "https://twitter.com/soundly_s/status/1255440981303926786?s=19",
+			"display": "twitter.com/soundly_s/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 29 10:17:09 +0000 2020",
+			"id": 1255440981303926800,
+			"id_str": "1255440981303926786",
+			"full_text": "수정주의란 좋은 것. 과감하게 민주당과 손잡고 원내 입성한 기본소득당 용혜인 선생의 당선증 자랑과 대비되는 (비례 득표 0.12% 받은 노동당 후원회장) 홍세화 선생의 민주당에 대한 저주. 박용진, 강상구, 김종철이 비록 한때 출발은 함께였어도, 지금 서있는 위치와 제도적 성과는 한참 다른 것.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				165
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 391204503,
+				"id_str": "391204503",
+				"name": "Hooo",
+				"screen_name": "soundly_s",
+				"location": "",
+				"description": "충분한 수면과 균형 잡힌 식단",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5616,
+				"friends_count": 78,
+				"listed_count": 79,
+				"created_at": "Sat Oct 15 06:32:10 +0000 2011",
+				"favourites_count": 182,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 717,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880360927903666176/e9jbIlsR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880360927903666176/e9jbIlsR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/391204503/1494939949",
+				"profile_link_color": "616161",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소수점 아래의 지지율 얻는 아마추어 정당보단, 정의당이 1석이라도 더 챙기는 게 나았을 텐데...\nhttps://t.co/WjtFGrD6jP"
+	},
+	{
+		"created_at": "Sun May 03 07:57:09 +0000 2020",
+		"id": 783707296899670000,
+		"id_str": "1256855301107539968",
+		"full_text": "이런 사람들은 보통의 우리에게는 늘 결점이 있다는 것을 고려하고, 애초에 타인에 대해 완벽함 또는 선의를 상정할 권리도 없다고 믿는다. 그들은 그의 행동이 불러온 모든 결과에 책임을 지려고 한다. 심지어 의도하지 않은 결과까지도 응답하려고 한다는 것.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 783706905285947400,
+		"in_reply_to_status_id_str": "783706905285947396",
+		"in_reply_to_user_id": 53305769,
+		"in_reply_to_user_id_str": "53305769",
+		"in_reply_to_screen_name": "shinhh",
+		"user": {
+			"id": 53305769,
+			"id_str": "53305769",
+			"name": "Hyunho Shin",
+			"screen_name": "shinhh",
+			"location": "New York, USA",
+			"description": "\"If this isn't nice, what is?” 원고문의: hyunho.shin@outlook.com",
+			"url": "https://t.co/LSaoU0hHJp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LSaoU0hHJp",
+							"expanded_url": "https://peing.net/ko/shinhh?event=0h",
+							"display_url": "peing.net/ko/shinhh?even…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23385,
+			"friends_count": 659,
+			"listed_count": 205,
+			"created_at": "Fri Jul 03 05:35:31 +0000 2009",
+			"favourites_count": 20718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264567085/beach_umbrella_71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264567085/beach_umbrella_71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53305769/1401459717",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이런 사람들은 보통의 우리에게는 늘 결점이 있다는 것을 고려하고, 애초에 타인에 대해 완벽함 또는 선의를 상정할 권리도 없다고 믿는다. 그들은 그의 행동이 불러온 모든 결과에 책임을 지려고 한다. 심지어 의도하지 않은 결과까지도 응답하려고 한다는 것."
+	},
+	{
+		"created_at": "Sun May 03 07:57:03 +0000 2020",
+		"id": 783706905285947400,
+		"id_str": "1256855275195129857",
+		"full_text": "그러니까 신념윤리자들은 결과와 상관없이 자신들의 도덕적 순수성을 지키려고 하는 쪽이다. 이들은 좋은 의도가 좋은 결과를 가져오지 못했을 때, 그것을 세상이나 타인의 무지함 탓으로 돌린다. 반면에 책임윤리자들는 선의보다 결과를 더 중요하게 생각한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 783706496752296000,
+		"in_reply_to_status_id_str": "783706496752295936",
+		"in_reply_to_user_id": 53305769,
+		"in_reply_to_user_id_str": "53305769",
+		"in_reply_to_screen_name": "shinhh",
+		"user": {
+			"id": 53305769,
+			"id_str": "53305769",
+			"name": "Hyunho Shin",
+			"screen_name": "shinhh",
+			"location": "New York, USA",
+			"description": "\"If this isn't nice, what is?” 원고문의: hyunho.shin@outlook.com",
+			"url": "https://t.co/LSaoU0hHJp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LSaoU0hHJp",
+							"expanded_url": "https://peing.net/ko/shinhh?event=0h",
+							"display_url": "peing.net/ko/shinhh?even…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23385,
+			"friends_count": 659,
+			"listed_count": 205,
+			"created_at": "Fri Jul 03 05:35:31 +0000 2009",
+			"favourites_count": 20718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264567085/beach_umbrella_71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264567085/beach_umbrella_71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53305769/1401459717",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그러니까 신념윤리자들은 결과와 상관없이 자신들의 도덕적 순수성을 지키려고 하는 쪽이다. 이들은 좋은 의도가 좋은 결과를 가져오지 못했을 때, 그것을 세상이나 타인의 무지함 탓으로 돌린다. 반면에 책임윤리자들는 선의보다 결과를 더 중요하게 생각한다."
+	},
+	{
+		"created_at": "Sun May 03 07:56:59 +0000 2020",
+		"id": 783706496752296000,
+		"id_str": "1256855259634257926",
+		"full_text": "얼마 전에 어떤 논쟁 때 막연하게 생각했지만 분명하게 설명하지 못했던 개념이 있었는데 이 이코노미스트 기사를 읽고 깨달았다. 그러니까 신념윤리와 책임윤리로 대표되는, 둘 사이 도저히 건널 수 없는 심연의 계곡이 가로지르는 이상주의와 실용주의의 대립. https://t.co/NLqmHq4P02",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 783704771035267100,
+					"id_str": "783704771035267072",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/CuBHVkZWAAAK85_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuBHVkZWAAAK85_.jpg",
+					"url": "https://t.co/NLqmHq4P02",
+					"display_url": "pic.twitter.com/NLqmHq4P02",
+					"expanded_url": "https://twitter.com/shinhh/status/783706496752295936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 486,
+							"h": 383,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 486,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 783704771035267100,
+					"id_str": "783704771035267072",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/CuBHVkZWAAAK85_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuBHVkZWAAAK85_.jpg",
+					"url": "https://t.co/NLqmHq4P02",
+					"display_url": "pic.twitter.com/NLqmHq4P02",
+					"expanded_url": "https://twitter.com/shinhh/status/783706496752295936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 486,
+							"h": 383,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 486,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 783704838861365200,
+					"id_str": "783704838861365248",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/CuBHZhEWIAA_1d_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CuBHZhEWIAA_1d_.jpg",
+					"url": "https://t.co/NLqmHq4P02",
+					"display_url": "pic.twitter.com/NLqmHq4P02",
+					"expanded_url": "https://twitter.com/shinhh/status/783706496752295936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 495,
+							"h": 299,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 495,
+							"h": 299,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 495,
+							"h": 299,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 53305769,
+			"id_str": "53305769",
+			"name": "Hyunho Shin",
+			"screen_name": "shinhh",
+			"location": "New York, USA",
+			"description": "\"If this isn't nice, what is?” 원고문의: hyunho.shin@outlook.com",
+			"url": "https://t.co/LSaoU0hHJp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LSaoU0hHJp",
+							"expanded_url": "https://peing.net/ko/shinhh?event=0h",
+							"display_url": "peing.net/ko/shinhh?even…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23385,
+			"friends_count": 659,
+			"listed_count": 205,
+			"created_at": "Fri Jul 03 05:35:31 +0000 2009",
+			"favourites_count": 20718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264567085/beach_umbrella_71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264567085/beach_umbrella_71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53305769/1401459717",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "얼마 전에 어떤 논쟁 때 막연하게 생각했지만 분명하게 설명하지 못했던 개념이 있었는데 이 이코노미스트 기사를 읽고 깨달았다. 그러니까 신념윤리와 책임윤리로 대표되는, 둘 사이 도저히 건널 수 없는 심연의 계곡이 가로지르는 이상주의와 실용주의의 대립. https://t.co/NLqmHq4P02"
+	},
+	{
 		"created_at": "Sun May 03 02:18:22 +0000 2020",
 		"id": 1256770040814112800,
 		"id_str": "1256770040814112768",
