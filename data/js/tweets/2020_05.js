@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 04 06:02:29 +0000 2020",
+		"id": 1257188830135742500,
+		"id_str": "1257188830135742464",
+		"full_text": "지적하면서, 남성들이 자신의 남성성을 추구하기 때문에 이를 동력으로 삼아서 일터에서 기꺼이 갈려나가려 하는 것이라고 제안한다.\"\nhttps://t.co/7sjorzhBzh\n\n적잖은 여성들이 남성성을 추구하고 선망하는 것 역시...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7sjorzhBzh",
+					"expanded_url": "https://namu.wiki/w/%EC%86%8C%EB%AA%A8%EB%90%98%EB%8A%94%20%EB%82%A8%EC%9E%90",
+					"display_url": "namu.wiki/w/%EC%86%8C%EB…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1257188615186116600,
+		"in_reply_to_status_id_str": "1257188615186116613",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 87,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1922,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지적하면서, 남성들이 자신의 남성성을 추구하기 때문에 이를 동력으로 삼아서 일터에서 기꺼이 갈려나가려 하는 것이라고 제안한다.\"\nhttps://t.co/7sjorzhBzh\n\n적잖은 여성들이 남성성을 추구하고 선망하는 것 역시..."
+	},
+	{
 		"created_at": "Mon May 04 01:00:07 +0000 2020",
 		"id": 1257112738297348000,
 		"id_str": "1257112738297348097",
