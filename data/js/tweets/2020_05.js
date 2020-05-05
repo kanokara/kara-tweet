@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 05 13:24:41 +0000 2020",
+		"id": 1257662503586168800,
+		"id_str": "1257662503586168832",
+		"full_text": "\"자신의 최적화\"\nhttps://t.co/KdQq9K8xTQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KdQq9K8xTQ",
+					"expanded_url": "https://twitter.com/atmostbeautiful/status/1257643668799774726?s=19",
+					"display_url": "twitter.com/atmostbeautifu…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 87,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1926,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1257643668799774700,
+		"quoted_status_id_str": "1257643668799774726",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KdQq9K8xTQ",
+			"expanded": "https://twitter.com/atmostbeautiful/status/1257643668799774726?s=19",
+			"display": "twitter.com/atmostbeautifu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 05 12:09:51 +0000 2020",
+			"id": 1257643668799774700,
+			"id_str": "1257643668799774726",
+			"full_text": "고전어를 왜 배우나. 우리 인생 이야기도 모든 역사의 파편일 뿐. 삶은 우리가 태어나기 오래 전에 시작됐다. 이런 변론은 실용적 목적과는 반대된다. 2000년 전 어떤 탁월한 사람들이 한 말이어서 그 언어를 배우는 것은 세계를 기리는 것. 자신의 최적화가 아닌 넘어서는 길 https://t.co/WVTgohwetp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				176
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WVTgohwetp",
+						"expanded_url": "https://www.economist.com/books-and-arts/2020/04/30/the-real-reason-to-study-the-classics",
+						"display_url": "economist.com/books-and-arts…",
+						"indices": [
+							153,
+							176
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27725896,
+				"id_str": "27725896",
+				"name": "Journey",
+				"screen_name": "atmostbeautiful",
+				"location": "Seoul",
+				"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+				"url": "https://t.co/MzklD4fR8k",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MzklD4fR8k",
+								"expanded_url": "http://1boon.kakao.com/bookclub",
+								"display_url": "1boon.kakao.com/bookclub",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 101037,
+				"friends_count": 2411,
+				"listed_count": 393,
+				"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+				"favourites_count": 44,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15275,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 52,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"자신의 최적화\"\nhttps://t.co/KdQq9K8xTQ"
+	},
+	{
 		"created_at": "Mon May 04 06:02:29 +0000 2020",
 		"id": 1257188830135742500,
 		"id_str": "1257188830135742464",
