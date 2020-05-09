@@ -1,6 +1,414 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 09 14:37:23 +0000 2020",
+		"id": 1259094683415793700,
+		"id_str": "1259130349440778246",
+		"full_text": "그래서 제가 브금을 바꿔봤습니다 https://t.co/N6mDyH9jAN https://t.co/lrFEVrfJSG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N6mDyH9jAN",
+					"expanded_url": "https://twitter.com/MINTFOODLE/status/1258809906905284608",
+					"display_url": "twitter.com/MINTFOODLE/sta…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1259094516897771500,
+					"id_str": "1259094516897771521",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1259094516897771521/pu/img/p5dnUFNt5ckge1r0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1259094516897771521/pu/img/p5dnUFNt5ckge1r0.jpg",
+					"url": "https://t.co/lrFEVrfJSG",
+					"display_url": "pic.twitter.com/lrFEVrfJSG",
+					"expanded_url": "https://twitter.com/ZAPHKIEL2B/status/1259094683415793664/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259094516897771500,
+					"id_str": "1259094516897771521",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1259094516897771521/pu/img/p5dnUFNt5ckge1r0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1259094516897771521/pu/img/p5dnUFNt5ckge1r0.jpg",
+					"url": "https://t.co/lrFEVrfJSG",
+					"display_url": "pic.twitter.com/lrFEVrfJSG",
+					"expanded_url": "https://twitter.com/ZAPHKIEL2B/status/1259094683415793664/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 22856,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259094516897771521/pu/vid/1280x720/gt-JXoXhCgZ_eoJY.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259094516897771521/pu/vid/480x270/WmQxHaBWs5BZAOmm.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259094516897771521/pu/vid/640x360/Tk7LVrZPFmP8TF_r.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1259094516897771521/pu/pl/0-rj12BictscilSn.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 905070791212929000,
+			"id_str": "905070791212929025",
+			"name": "자프「ლ(╹ε╹ლ)」",
+			"screen_name": "ZAPHKIEL2B",
+			"location": "Somewhere in Earth",
+			"description": "GAME/PROGRAMING/MOVIE EDIT/MUSIC/PHOTO•            \n흔하디 흔한 트잉여, 일상러, 일상사진, 영상편집, 탐라 마음빌런•                  \n레식/소전/명방/하프라이프/니어 오토마타/유로트럭 유저•\n편하게 말 걸어주세요!",
+			"url": "https://t.co/qZmumQ6PH1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qZmumQ6PH1",
+							"expanded_url": "https://http.cat/404",
+							"display_url": "http.cat/404",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 136,
+			"friends_count": 237,
+			"listed_count": 5,
+			"created_at": "Tue Sep 05 14:11:06 +0000 2017",
+			"favourites_count": 77069,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250959747135582208/lQSFtYgD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250959747135582208/lQSFtYgD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/905070791212929025/1576254429",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1258809906905284600,
+		"quoted_status_id_str": "1258809906905284608",
+		"quoted_status_permalink": {
+			"url": "https://t.co/N6mDyH9jAN",
+			"expanded": "https://twitter.com/MINTFOODLE/status/1258809906905284608",
+			"display": "twitter.com/MINTFOODLE/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 08 17:24:04 +0000 2020",
+			"id": 1258809906905284600,
+			"id_str": "1258809906905284608",
+			"full_text": "이태원 킹클럽 단체영상이라고 돌아다니는 영상인데 반응이 너무 웃겼다\n조명만 없으면 걍 서코아니냐고 ㅋㅋㅋㅋㅋ https://t.co/HK0sZ7JlnB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				60
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1258809657423917000,
+						"id_str": "1258809657423917056",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258809657423917056/pu/img/u912W48qzIX_5yHY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258809657423917056/pu/img/u912W48qzIX_5yHY.jpg",
+						"url": "https://t.co/HK0sZ7JlnB",
+						"display_url": "pic.twitter.com/HK0sZ7JlnB",
+						"expanded_url": "https://twitter.com/MINTFOODLE/status/1258809906905284608/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1258809657423917000,
+						"id_str": "1258809657423917056",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258809657423917056/pu/img/u912W48qzIX_5yHY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258809657423917056/pu/img/u912W48qzIX_5yHY.jpg",
+						"url": "https://t.co/HK0sZ7JlnB",
+						"display_url": "pic.twitter.com/HK0sZ7JlnB",
+						"expanded_url": "https://twitter.com/MINTFOODLE/status/1258809906905284608/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 22834,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1258809657423917056/pu/pl/D-h1hVtyJhzYYV85.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1258809657423917056/pu/vid/480x480/TD7tZOzrqU8KQBSz.mp4?tag=10"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1258809657423917056/pu/vid/320x320/rmPrVCfWpQmqmsu7.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1246929250004824000,
+				"id_str": "1246929250004824064",
+				"name": "모여봐요 푸들의숲🔫",
+				"screen_name": "MINTFOODLE",
+				"location": "",
+				"description": "동물의숲 뉴비 / 전자⚡담배🌬🌪💨 전도사🤷‍♀️를 찯으셛나요¿ 재림베이퍼를 찯으셛나요¿ 자덕🚲을 찯르셨나요¿ 아마도 저🧏‍♀️🙋‍♀️일걷같내요 9쳐¿ 🙃🙃🙃🙃🙃🙃🙃 유사품에 주의🙅‍♀️🙅‍♀️🚫 짝퉁주의💢",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 87,
+				"friends_count": 105,
+				"listed_count": 1,
+				"created_at": "Sun Apr 05 22:34:39 +0000 2020",
+				"favourites_count": 60,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3415,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1257709840660484096/URMYJ06U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257709840660484096/URMYJ06U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1246929250004824064/1588005141",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 469,
+			"favorite_count": 141,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 112,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그래서 제가 브금을 바꿔봤습니다 https://t.co/N6mDyH9jAN https://t.co/lrFEVrfJSG"
+	},
+	{
 		"created_at": "Sat May 09 09:34:42 +0000 2020",
 		"id": 1259054178770419700,
 		"id_str": "1259054178770419712",
