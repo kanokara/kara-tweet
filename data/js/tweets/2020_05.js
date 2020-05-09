@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 09 09:00:59 +0000 2020",
+		"id": 1259045691306827800,
+		"id_str": "1259045691306827776",
+		"full_text": "중국 인터넷 사업자의 부상 이후로 종래의 우편제도에 대한 재검토가 필요로 된 것과 마찬가지로, 넷플릭스 이후로 망중립성은 끝났다고 봐야죠. 이미 서구에서는 사용료를 지불하면서 한국에서만 반발하는 것은 낯두꺼운 행태.\nhttps://t.co/TnhfmAgyDo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TnhfmAgyDo",
+					"expanded_url": "https://twitter.com/ApteryxChan/status/1258989351247044609?s=19",
+					"display_url": "twitter.com/ApteryxChan/st…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 87,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1935,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1258989351247044600,
+		"quoted_status_id_str": "1258989351247044609",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TnhfmAgyDo",
+			"expanded": "https://twitter.com/ApteryxChan/status/1258989351247044609?s=19",
+			"display": "twitter.com/ApteryxChan/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 09 05:17:06 +0000 2020",
+			"id": 1258989351247044600,
+			"id_str": "1258989351247044609",
+			"full_text": "무임승차는 누가 하고 있는가 https://t.co/RxYNjeYreD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				39
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RxYNjeYreD",
+						"expanded_url": "https://blog.apteryx.moe/posts/1472/",
+						"display_url": "blog.apteryx.moe/posts/1472/",
+						"indices": [
+							16,
+							39
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1000735325675638800,
+				"id_str": "1000735325675638784",
+				"name": "키위",
+				"screen_name": "ApteryxChan",
+				"location": "엘리시움",
+				"description": "컴맹 / 전산병 / 메린이 보마",
+				"url": "https://t.co/povmJFNrjC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/povmJFNrjC",
+								"expanded_url": "http://apteryx.moe",
+								"display_url": "apteryx.moe",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 122,
+				"friends_count": 230,
+				"listed_count": 1,
+				"created_at": "Sun May 27 13:47:49 +0000 2018",
+				"favourites_count": 826,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14042,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1138751911258075136/VTjRJwW3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138751911258075136/VTjRJwW3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1000735325675638784/1527666854",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 48,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "중국 인터넷 사업자의 부상 이후로 종래의 우편제도에 대한 재검토가 필요로 된 것과 마찬가지로, 넷플릭스 이후로 망중립성은 끝났다고 봐야죠. 이미 서구에서는 사용료를 지불하면서 한국에서만 반발하는 것은 낯두꺼운 행태.\nhttps://t.co/TnhfmAgyDo"
+	},
+	{
 		"created_at": "Sat May 09 05:35:58 +0000 2020",
 		"id": 1258959954125500400,
 		"id_str": "1258994098486181888",
@@ -28,7 +233,7 @@ Grailbird.data.tweets_2020_05 =
 			"name": "𝙰𝙽𝙾𝚃𝙷𝙴𝚁 𝙳𝙸𝚂𝚃𝙰𝙽𝙲𝙴",
 			"screen_name": "FR0M_xWH3R3",
 			"location": "헤더 @1OO_2THE",
-			"description": "김정연 김재범 같극존버단 | ❄👼🦋 | 💇‍♀️ 🎓 🏠 📕 ⛑ 🅱️ 🏴‍☠️ 🔭 👩‍👧‍👦 ♀️ 🌌 🌏 💌 🦌 🪓 | 🐯",
+			"description": "김정연 김재범 같극존버단 | ❄👼🦋 | 💇♀️ 🎓 🏠 📕 ⛑ 🅱️ 🏴☠️ 🔭 👩👧👦 ♀️ 🌌 🌏 💌 🦌 🪓 | 🐯",
 			"url": "https://t.co/PngHv2eVma",
 			"entities": {
 				"url": {
@@ -123,7 +328,7 @@ Grailbird.data.tweets_2020_05 =
 			"name": "𝙰𝙽𝙾𝚃𝙷𝙴𝚁 𝙳𝙸𝚂𝚃𝙰𝙽𝙲𝙴",
 			"screen_name": "FR0M_xWH3R3",
 			"location": "헤더 @1OO_2THE",
-			"description": "김정연 김재범 같극존버단 | ❄👼🦋 | 💇‍♀️ 🎓 🏠 📕 ⛑ 🅱️ 🏴‍☠️ 🔭 👩‍👧‍👦 ♀️ 🌌 🌏 💌 🦌 🪓 | 🐯",
+			"description": "김정연 김재범 같극존버단 | ❄👼🦋 | 💇♀️ 🎓 🏠 📕 ⛑ 🅱️ 🏴☠️ 🔭 👩👧👦 ♀️ 🌌 🌏 💌 🦌 🪓 | 🐯",
 			"url": "https://t.co/PngHv2eVma",
 			"entities": {
 				"url": {
