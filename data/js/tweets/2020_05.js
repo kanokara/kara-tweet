@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 09 05:35:58 +0000 2020",
+		"id": 1258959954125500400,
+		"id_str": "1258994098486181888",
+		"full_text": "성애 연정 구분못하고 트위터에서 모르면외우세요식으로 접하니까 뭐만 하면 유성애 유성애 .. 성애와 로맨스를 무조건 연결지어생각하는것 자체가 유성애중심성이라는 인지는 전혀 없음.. 걍 우리 말은 우리가 좀 쓰게 두세요 차라리 더 상위의 의미범주인 사랑이라고 말하면 알아서 구분할텐데",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1258959238623305700,
+		"in_reply_to_status_id_str": "1258959238623305730",
+		"in_reply_to_user_id": 1009230483903819800,
+		"in_reply_to_user_id_str": "1009230483903819776",
+		"in_reply_to_screen_name": "FR0M_xWH3R3",
+		"user": {
+			"id": 1009230483903819800,
+			"id_str": "1009230483903819776",
+			"name": "𝙰𝙽𝙾𝚃𝙷𝙴𝚁 𝙳𝙸𝚂𝚃𝙰𝙽𝙲𝙴",
+			"screen_name": "FR0M_xWH3R3",
+			"location": "헤더 @1OO_2THE",
+			"description": "김정연 김재범 같극존버단 | ❄👼🦋 | 💇‍♀️ 🎓 🏠 📕 ⛑ 🅱️ 🏴‍☠️ 🔭 👩‍👧‍👦 ♀️ 🌌 🌏 💌 🦌 🪓 | 🐯",
+			"url": "https://t.co/PngHv2eVma",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PngHv2eVma",
+							"expanded_url": "https://youtu.be/DeUjQfTnLqM",
+							"display_url": "youtu.be/DeUjQfTnLqM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 194,
+			"listed_count": 1,
+			"created_at": "Wed Jun 20 00:24:32 +0000 2018",
+			"favourites_count": 301439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 177842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1239768435086602241/WLd6DABW_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239768435086602241/WLd6DABW_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1009230483903819776/1587199233",
+			"profile_link_color": "186CF4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "성애 연정 구분못하고 트위터에서 모르면외우세요식으로 접하니까 뭐만 하면 유성애 유성애 .. 성애와 로맨스를 무조건 연결지어생각하는것 자체가 유성애중심성이라는 인지는 전혀 없음.. 걍 우리 말은 우리가 좀 쓰게 두세요 차라리 더 상위의 의미범주인 사랑이라고 말하면 알아서 구분할텐데"
+	},
+	{
+		"created_at": "Sat May 09 05:35:56 +0000 2020",
+		"id": 1258959238623305700,
+		"id_str": "1258994088872837120",
+		"full_text": "퀴어 용어를 뭔가 피씨함의 상징처럼 생각하고 사유 없이 쓰는 사람이 너무 많음 .. 당사자들은 제대로 배운게 아니어도 혼동해서 안 쓰는데 ㅋㅋㅋ 잘못쓰는거 보면 꼭 비당사자임.. 모르면 걍 원래 하던대로만 말하는게 의미전달이 훨씬 잘되는데",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1009230483903819800,
+			"id_str": "1009230483903819776",
+			"name": "𝙰𝙽𝙾𝚃𝙷𝙴𝚁 𝙳𝙸𝚂𝚃𝙰𝙽𝙲𝙴",
+			"screen_name": "FR0M_xWH3R3",
+			"location": "헤더 @1OO_2THE",
+			"description": "김정연 김재범 같극존버단 | ❄👼🦋 | 💇‍♀️ 🎓 🏠 📕 ⛑ 🅱️ 🏴‍☠️ 🔭 👩‍👧‍👦 ♀️ 🌌 🌏 💌 🦌 🪓 | 🐯",
+			"url": "https://t.co/PngHv2eVma",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PngHv2eVma",
+							"expanded_url": "https://youtu.be/DeUjQfTnLqM",
+							"display_url": "youtu.be/DeUjQfTnLqM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 194,
+			"listed_count": 1,
+			"created_at": "Wed Jun 20 00:24:32 +0000 2018",
+			"favourites_count": 301439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 177842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1239768435086602241/WLd6DABW_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239768435086602241/WLd6DABW_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1009230483903819776/1587199233",
+			"profile_link_color": "186CF4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "퀴어 용어를 뭔가 피씨함의 상징처럼 생각하고 사유 없이 쓰는 사람이 너무 많음 .. 당사자들은 제대로 배운게 아니어도 혼동해서 안 쓰는데 ㅋㅋㅋ 잘못쓰는거 보면 꼭 비당사자임.. 모르면 걍 원래 하던대로만 말하는게 의미전달이 훨씬 잘되는데"
+	},
+	{
 		"created_at": "Fri May 08 11:30:48 +0000 2020",
 		"id": 1258721006522228700,
 		"id_str": "1258721006522228736",
