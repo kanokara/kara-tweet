@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 10 05:43:08 +0000 2020",
+		"id": 1253935463556984800,
+		"id_str": "1259358287109054464",
+		"full_text": "&lt;안나 카레니나&gt;의 ‘행복한 가정은 모두 비슷한 이유로 행복하지만, 불행한 가정은 저마다의 이유로 불행하다’라는 첫 문장이 유명한데 방금 신학자 디오니시우스의 &lt;신명론&gt; 제4장에 ‘선은 한 가지 방식으로 이루어지는 데 비해 악은 온갖 방식으로 이루어진다’는 문장이 있다는 걸 알게 됨",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3109450026,
+			"id_str": "3109450026",
+			"name": "김다홍",
+			"screen_name": "transparent_pig",
+			"location": "",
+			"description": "#뉴스기사_남성성별_표기운동 https://t.co/yiCydZw3ms 마블디씨대부분의남돌을싫어함 / 넷플릭스유저",
+			"url": "https://t.co/sfgHUzIkT0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sfgHUzIkT0",
+							"expanded_url": "http://ask.fm/transparent_pig?utm_source=twitter&utm_medium=social&utm_campaign=profile_own",
+							"display_url": "ask.fm/transparent_pi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yiCydZw3ms",
+							"expanded_url": "http://media.daum.net/v/20150916171404806",
+							"display_url": "media.daum.net/v/201509161714…",
+							"indices": [
+								16,
+								39
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 804,
+			"friends_count": 690,
+			"listed_count": 4,
+			"created_at": "Fri Mar 27 07:41:24 +0000 2015",
+			"favourites_count": 13775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245459619415126017/Ox1ofBpm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245459619415126017/Ox1ofBpm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3109450026/1540267147",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2529,
+		"favorite_count": 1404,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "&lt;안나 카레니나&gt;의 ‘행복한 가정은 모두 비슷한 이유로 행복하지만, 불행한 가정은 저마다의 이유로 불행하다’라는 첫 문장이 유명한데 방금 신학자 디오니시우스의 &lt;신명론&gt; 제4장에 ‘선은 한 가지 방식으로 이루어지는 데 비해 악은 온갖 방식으로 이루어진다’는 문장이 있다는 걸 알게 됨"
+	},
+	{
 		"created_at": "Sat May 09 15:34:58 +0000 2020",
 		"id": 1259144839691554800,
 		"id_str": "1259144839691554817",
