@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 11 14:19:19 +0000 2020",
+		"id": 1259850578575986700,
+		"id_str": "1259850578575986688",
+		"full_text": "중립성이란 가치를 폄하하고 싶지는 않지만, 근래의 '중립기어'라는 표현이 가리키듯 기울어진 운동장임에도 자꾸 중립을 외치는 분들은 그 신념이 의구스럽달까...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1259849704982171600,
+		"in_reply_to_status_id_str": "1259849704982171654",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 87,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "중립성이란 가치를 폄하하고 싶지는 않지만, 근래의 '중립기어'라는 표현이 가리키듯 기울어진 운동장임에도 자꾸 중립을 외치는 분들은 그 신념이 의구스럽달까..."
+	},
+	{
+		"created_at": "Mon May 11 14:15:51 +0000 2020",
+		"id": 1259849704982171600,
+		"id_str": "1259849704982171654",
+		"full_text": "구미와 떨어진 만큼 비용을 지불해야 하는, 명백한 힘의 논리가 작용하는 게 인터넷의 위계 구조이고, 박경신 씨가 제시한 접속료 도표에서도 동아시아 그룹만 비용이 더 크단 사실을 알 수 있죠.\nhttps://t.co/RPp8srwL7V https://t.co/nduJFnJGOW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RPp8srwL7V",
+					"expanded_url": "https://blog.telegeography.com/outlook-for-ip-transit-prices-in-2018",
+					"display_url": "blog.telegeography.com/outlook-for-ip…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1259849339385643000,
+					"id_str": "1259849339385643008",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EXviTJiXgAAlUoZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXviTJiXgAAlUoZ.png",
+					"url": "https://t.co/nduJFnJGOW",
+					"display_url": "pic.twitter.com/nduJFnJGOW",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1259849704982171654/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 582,
+							"h": 583,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 582,
+							"h": 583,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 582,
+							"h": 583,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259849339385643000,
+					"id_str": "1259849339385643008",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/EXviTJiXgAAlUoZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXviTJiXgAAlUoZ.png",
+					"url": "https://t.co/nduJFnJGOW",
+					"display_url": "pic.twitter.com/nduJFnJGOW",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1259849704982171654/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 582,
+							"h": 583,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 582,
+							"h": 583,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 582,
+							"h": 583,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1259849268040515600,
+		"in_reply_to_status_id_str": "1259849268040515587",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 87,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구미와 떨어진 만큼 비용을 지불해야 하는, 명백한 힘의 논리가 작용하는 게 인터넷의 위계 구조이고, 박경신 씨가 제시한 접속료 도표에서도 동아시아 그룹만 비용이 더 크단 사실을 알 수 있죠.\nhttps://t.co/RPp8srwL7V https://t.co/nduJFnJGOW"
+	},
+	{
 		"created_at": "Mon May 11 12:28:39 +0000 2020",
 		"id": 1259822728263028700,
 		"id_str": "1259822728263028736",
