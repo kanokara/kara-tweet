@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 13 17:46:31 +0000 2020",
+		"id": 1260627496740872200,
+		"id_str": "1260627496740872192",
+		"full_text": "인과 관계적으로, 피가 특별하니까 자연스레 귀족 계급으로 형성된 거 아닐까... 이 장면만 보면 '그럼에도' 보편 교육의 기회를 주는 게 더 대단하네요. \nhttps://t.co/UI8XRkyopU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UI8XRkyopU",
+					"expanded_url": "https://twitter.com/nepkinkim/status/1260374409627353088?s=19",
+					"display_url": "twitter.com/nepkinkim/stat…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 86,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1944,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11945,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1260374409627353000,
+		"quoted_status_id_str": "1260374409627353088",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UI8XRkyopU",
+			"expanded": "https://twitter.com/nepkinkim/status/1260374409627353088?s=19",
+			"display": "twitter.com/nepkinkim/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 13 01:00:50 +0000 2020",
+			"id": 1260374409627353000,
+			"id_str": "1260374409627353088",
+			"full_text": "아니 진짜 잽스들아 이딴 설정 끼워넣지 말라고 https://t.co/obMeBfE7Lf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				25
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1260374394725007400,
+						"id_str": "1260374394725007360",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/EX2_1ZGVAAAdKim.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EX2_1ZGVAAAdKim.jpg",
+						"url": "https://t.co/obMeBfE7Lf",
+						"display_url": "pic.twitter.com/obMeBfE7Lf",
+						"expanded_url": "https://twitter.com/nepkinkim/status/1260374409627353088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 996,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 331,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 584,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1260374394725007400,
+						"id_str": "1260374394725007360",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/EX2_1ZGVAAAdKim.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EX2_1ZGVAAAdKim.jpg",
+						"url": "https://t.co/obMeBfE7Lf",
+						"display_url": "pic.twitter.com/obMeBfE7Lf",
+						"expanded_url": "https://twitter.com/nepkinkim/status/1260374409627353088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 996,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 331,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 584,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1083558591846441000,
+				"id_str": "1083558591846440967",
+				"name": "냅킨김",
+				"screen_name": "nepkinkim",
+				"location": "",
+				"description": "내일 없이 사는 사람",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 575,
+				"friends_count": 280,
+				"listed_count": 1,
+				"created_at": "Fri Jan 11 02:57:54 +0000 2019",
+				"favourites_count": 430,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5094,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1083558938157563904/Al1IA-FS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083558938157563904/Al1IA-FS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1083558591846440967/1565505669",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 50,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인과 관계적으로, 피가 특별하니까 자연스레 귀족 계급으로 형성된 거 아닐까... 이 장면만 보면 '그럼에도' 보편 교육의 기회를 주는 게 더 대단하네요. \nhttps://t.co/UI8XRkyopU"
+	},
+	{
 		"created_at": "Wed May 13 01:25:54 +0000 2020",
 		"id": 1260375502226731000,
 		"id_str": "1260380719794147328",
