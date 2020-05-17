@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 17 16:45:50 +0000 2020",
+		"id": 1260195280130982000,
+		"id_str": "1262061778944442368",
+		"full_text": "@kirame7 @godkaz0608 슈로대를 좋아하고 즐기신다면 머리는 풍성해도 마음만은 훌륭한 대머리가 된것이라 볼 수 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kirame7",
+					"name": "内田'キラメ'キ☆7P) 요즘은 방구석 라이브 영상 본다",
+					"id": 91617092,
+					"id_str": "91617092",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "godkaz0608",
+					"name": "FK行雲流水‏(The Cursed Jaehyun)",
+					"id": 94285384,
+					"id_str": "94285384",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1260193030318878700,
+		"in_reply_to_status_id_str": "1260193030318878724",
+		"in_reply_to_user_id": 91617092,
+		"in_reply_to_user_id_str": "91617092",
+		"in_reply_to_screen_name": "kirame7",
+		"user": {
+			"id": 125220577,
+			"id_str": "125220577",
+			"name": "KimVulcan",
+			"screen_name": "erozam",
+			"location": "칼데아",
+			"description": "뽑기중독자",
+			"url": "https://t.co/skuvNeO4rK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/skuvNeO4rK",
+							"expanded_url": "http://erozam.egloos.com",
+							"display_url": "erozam.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 223,
+			"friends_count": 240,
+			"listed_count": 2,
+			"created_at": "Mon Mar 22 03:21:55 +0000 2010",
+			"favourites_count": 781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/892983857347047424/vhKrdCOL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/892983857347047424/vhKrdCOL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125220577/1501768377",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@kirame7 @godkaz0608 슈로대를 좋아하고 즐기신다면 머리는 풍성해도 마음만은 훌륭한 대머리가 된것이라 볼 수 있습니다."
+	},
+	{
+		"created_at": "Sun May 17 16:45:48 +0000 2020",
+		"id": 1260193030318878700,
+		"id_str": "1262061770379718656",
+		"full_text": "@erozam @godkaz0608 저는 대머리 아닌데요...",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erozam",
+					"name": "KimVulcan",
+					"id": 125220577,
+					"id_str": "125220577",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "godkaz0608",
+					"name": "고드재현스(The Cursed Jaehyun)",
+					"id": 94285384,
+					"id_str": "94285384",
+					"indices": [
+						8,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1260191373031903200,
+		"in_reply_to_status_id_str": "1260191373031903233",
+		"in_reply_to_user_id": 125220577,
+		"in_reply_to_user_id_str": "125220577",
+		"in_reply_to_screen_name": "erozam",
+		"user": {
+			"id": 91617092,
+			"id_str": "91617092",
+			"name": "内田'キラメ'キ☆7P) 요즘은 방구석 라이브 영상 본다",
+			"screen_name": "kirame7",
+			"location": "대한민국 김해시",
+			"description": "μ'sは世界1! (뮤즈는 세계제일) こんにちわ アニメとかゲームどか好きです。 最近は ドルフロ、アイマス, ときドル など 好きです 안녕하세요 직장인 오타쿠 키라메키 럭키스타이라고 합니다 코토리오시 러브라이버 P(프로듀서) 시키칸 프리파라 아저씨 입니다.",
+			"url": "https://t.co/psta7Va3FX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/psta7Va3FX",
+							"expanded_url": "http://kirame7.egloos.com/",
+							"display_url": "kirame7.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2357,
+			"friends_count": 4962,
+			"listed_count": 25,
+			"created_at": "Sat Nov 21 17:39:40 +0000 2009",
+			"favourites_count": 22486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 543343,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245367743030759424/qO0C82vX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245367743030759424/qO0C82vX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91617092/1560934519",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@erozam @godkaz0608 저는 대머리 아닌데요..."
+	},
+	{
 		"created_at": "Fri May 15 12:01:01 +0000 2020",
 		"id": 1261265325116420000,
 		"id_str": "1261265325116420096",
