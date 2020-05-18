@@ -1,6 +1,183 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 18 20:35:37 +0000 2020",
+		"id": 1262481990655160300,
+		"id_str": "1262481990655160323",
+		"full_text": "비록 시대착오적으로 틀린 이론이어도 한 시대를 풍미한 이론은 그 시대의 정신을 그대로 비추어보이기에 다시 펼쳐볼 가치가 있다고 봐요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 85,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "비록 시대착오적으로 틀린 이론이어도 한 시대를 풍미한 이론은 그 시대의 정신을 그대로 비추어보이기에 다시 펼쳐볼 가치가 있다고 봐요."
+	},
+	{
+		"created_at": "Mon May 18 20:32:16 +0000 2020",
+		"id": 1181393840302723000,
+		"id_str": "1262481150846500864",
+		"full_text": "다 한국은 공동체주의 사회인데 무슨 소리냐. 후쿠야마가 한국을 잘 몰라서 그렇다, 역사의 종언 운운하더니 ㅎㅎ 하면서 비웃었지만 곧이어 외환위기가 터지고.. 이제는 저신뢰 사회라는 말이 너무 당연하게 나오지만.. 그땐 그랬답니다..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1181393837912027100,
+		"in_reply_to_status_id_str": "1181393837912027136",
+		"in_reply_to_user_id": 630907747,
+		"in_reply_to_user_id_str": "630907747",
+		"in_reply_to_screen_name": "historia9110",
+		"user": {
+			"id": 630907747,
+			"id_str": "630907747",
+			"name": "햄벨스",
+			"screen_name": "historia9110",
+			"location": "쳇바퀴",
+			"description": "",
+			"url": "https://t.co/sepArh5Mkd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sepArh5Mkd",
+							"expanded_url": "http://ask.fm/historia9108",
+							"display_url": "ask.fm/historia9108",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2333,
+			"friends_count": 526,
+			"listed_count": 53,
+			"created_at": "Mon Jul 09 08:15:48 +0000 2012",
+			"favourites_count": 2310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 163446,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993699833071353857/ScMg61WN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993699833071353857/ScMg61WN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/630907747/1485832709",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "다 한국은 공동체주의 사회인데 무슨 소리냐. 후쿠야마가 한국을 잘 몰라서 그렇다, 역사의 종언 운운하더니 ㅎㅎ 하면서 비웃었지만 곧이어 외환위기가 터지고.. 이제는 저신뢰 사회라는 말이 너무 당연하게 나오지만.. 그땐 그랬답니다.."
+	},
+	{
 		"created_at": "Mon May 18 14:06:47 +0000 2020",
 		"id": 1262216050461995000,
 		"id_str": "1262384138134458374",
