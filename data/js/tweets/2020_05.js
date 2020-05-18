@@ -1,6 +1,667 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 18 14:06:47 +0000 2020",
+		"id": 1262216050461995000,
+		"id_str": "1262384138134458374",
+		"full_text": "@NOT_DiGITAL_ 관련 동호회에서 '상영회' 같은 걸 행사로 걸었던 추억의 시절이 있었죠; 1화물 시대 이후로는 사실상 멸종한 풍경이긴 합니다만;; 마지막으로 가본 그런 쪽 '상영회'가 아마 S모 대학에서 했던 '에스테반 최종화 상영회' 였던가 그렇네요. ㅎㅎㅎ\n\n……아니 근데 천사의 알은 좀 아니죠 선생님.(…)",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NOT_DiGITAL_",
+					"name": "NOT DiGITAL",
+					"id": 192260168,
+					"id_str": "192260168",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1262209997494038500,
+		"in_reply_to_status_id_str": "1262209997494038529",
+		"in_reply_to_user_id": 192260168,
+		"in_reply_to_user_id_str": "192260168",
+		"in_reply_to_screen_name": "NOT_DiGITAL_",
+		"user": {
+			"id": 967655546,
+			"id_str": "967655546",
+			"name": "windxellos",
+			"screen_name": "windxellos",
+			"location": "",
+			"description": "절대평범지극정상인",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 368,
+			"friends_count": 276,
+			"listed_count": 10,
+			"created_at": "Sat Nov 24 08:58:38 +0000 2012",
+			"favourites_count": 2817,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/641620555305648128/EoN48Fza_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/641620555305648128/EoN48Fza_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/967655546/1387272225",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@NOT_DiGITAL_ 관련 동호회에서 '상영회' 같은 걸 행사로 걸었던 추억의 시절이 있었죠; 1화물 시대 이후로는 사실상 멸종한 풍경이긴 합니다만;; 마지막으로 가본 그런 쪽 '상영회'가 아마 S모 대학에서 했던 '에스테반 최종화 상영회' 였던가 그렇네요. ㅎㅎㅎ\n\n……아니 근데 천사의 알은 좀 아니죠 선생님.(…)"
+	},
+	{
+		"created_at": "Mon May 18 14:06:28 +0000 2020",
+		"id": 1262209997494038500,
+		"id_str": "1262384058987950082",
+		"full_text": "제작 국가, 장르, 상업성 여부 등 모든 게 고려할 대상이 아니고 그냥 볼 수 있으면 다 본다는 게 기본이라 야오이도 그쪽 취미가 없더라도 다들 보고, 천사의 알 같은 것도 볼 수 있으면 보고(...), 정체를 알 수 없는 유럽 작품도 애니메이션이라고 하면 다 보고...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1262209939772072000,
+		"in_reply_to_status_id_str": "1262209939772071937",
+		"in_reply_to_user_id": 192260168,
+		"in_reply_to_user_id_str": "192260168",
+		"in_reply_to_screen_name": "NOT_DiGITAL_",
+		"user": {
+			"id": 192260168,
+			"id_str": "192260168",
+			"name": "NOT DiGITAL",
+			"screen_name": "NOT_DiGITAL_",
+			"location": "Korea, Republic of",
+			"description": "이 시대의 지극히 건전하고 평범한 직장인.",
+			"url": "http://t.co/2ElYr39Zcc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/2ElYr39Zcc",
+							"expanded_url": "http://notdigital.net",
+							"display_url": "notdigital.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2473,
+			"friends_count": 897,
+			"listed_count": 46,
+			"created_at": "Sat Sep 18 16:45:29 +0000 2010",
+			"favourites_count": 13397,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 225923,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1743001919/twitter_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1743001919/twitter_normal.png",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "제작 국가, 장르, 상업성 여부 등 모든 게 고려할 대상이 아니고 그냥 볼 수 있으면 다 본다는 게 기본이라 야오이도 그쪽 취미가 없더라도 다들 보고, 천사의 알 같은 것도 볼 수 있으면 보고(...), 정체를 알 수 없는 유럽 작품도 애니메이션이라고 하면 다 보고..."
+	},
+	{
+		"created_at": "Mon May 18 14:06:25 +0000 2020",
+		"id": 1262209939772072000,
+		"id_str": "1262384047159984128",
+		"full_text": "90년대 이전에 애니메이션을 보던 사람들이 지금보다도 장르라는 측면에서는 더 폭 넓게 수용했다는 생각도 드는데, 이유는 단순히 모든게 부족했던 시기였기 때문임. 유입 통로도 극히 제한되어 정보도 작품도 굶주려 있던 시절이라 일단 볼 수 있으면 다 보는 게 기본 스탠스였음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 192260168,
+			"id_str": "192260168",
+			"name": "NOT DiGITAL",
+			"screen_name": "NOT_DiGITAL_",
+			"location": "Korea, Republic of",
+			"description": "이 시대의 지극히 건전하고 평범한 직장인.",
+			"url": "http://t.co/2ElYr39Zcc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/2ElYr39Zcc",
+							"expanded_url": "http://notdigital.net",
+							"display_url": "notdigital.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2473,
+			"friends_count": 897,
+			"listed_count": 46,
+			"created_at": "Sat Sep 18 16:45:29 +0000 2010",
+			"favourites_count": 13397,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 225923,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1743001919/twitter_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1743001919/twitter_normal.png",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 168,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "90년대 이전에 애니메이션을 보던 사람들이 지금보다도 장르라는 측면에서는 더 폭 넓게 수용했다는 생각도 드는데, 이유는 단순히 모든게 부족했던 시기였기 때문임. 유입 통로도 극히 제한되어 정보도 작품도 굶주려 있던 시절이라 일단 볼 수 있으면 다 보는 게 기본 스탠스였음."
+	},
+	{
+		"created_at": "Mon May 18 14:03:38 +0000 2020",
+		"id": 1262383346543480800,
+		"id_str": "1262383346543480832",
+		"full_text": "공통언어(엄밀히 말해 '거대서사'와는 다른.)의 구축을 위한 노력, 균질한 대중(=중산층=국민)이 실종되고 소집단의 방언이 우후죽순 생겨나는 시대(=부족주의/소우주로의 분화). 한 시기 서브컬처에서도 그러한 교양의 습득이 중시되던 시기가 있었으나, 끝내 퇴조하고...\nhttps://t.co/J36CowGVD4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J36CowGVD4",
+					"expanded_url": "https://twitter.com/NyaNyaNyangC/status/1262371290129694720",
+					"display_url": "twitter.com/NyaNyaNyangC/s…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 85,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1965,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11964,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1262371290129694700,
+		"quoted_status_id_str": "1262371290129694720",
+		"quoted_status_permalink": {
+			"url": "https://t.co/J36CowGVD4",
+			"expanded": "https://twitter.com/NyaNyaNyangC/status/1262371290129694720",
+			"display": "twitter.com/NyaNyaNyangC/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 18 13:15:43 +0000 2020",
+			"id": 1262371290129694700,
+			"id_str": "1262371290129694720",
+			"full_text": "예전에 장르문학 작가들이 문단문학의 SF 비평에 빡쳐서(늘 있는 일이다) '문단문학도 하나의 장르일 뿐이다'라고 말한 적이 있는데 난 그게 굉장히 흥미로웠다. 문학은 본디 이 '교양'의 첨병이었는데 그 부분이 전면 부정되는 말. https://t.co/yG0xs7xbYf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				127
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/yG0xs7xbYf",
+						"expanded_url": "https://twitter.com/NyaNyaNyangC/status/1262294463096864768",
+						"display_url": "twitter.com/NyaNyaNyangC/s…",
+						"indices": [
+							128,
+							151
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3235646006,
+				"id_str": "3235646006",
+				"name": "그냥냥씨",
+				"screen_name": "NyaNyaNyangC",
+				"location": "오타쿠웨이",
+				"description": "어딜 보고있습니까? 여긴 제 잔상입니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1361,
+				"friends_count": 885,
+				"listed_count": 18,
+				"created_at": "Thu Jun 04 03:14:06 +0000 2015",
+				"favourites_count": 6043,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 72658,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1219291075044491264/QthmbTRq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1219291075044491264/QthmbTRq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3235646006/1568464337",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1262294463096864800,
+			"quoted_status_id_str": "1262294463096864768",
+			"quoted_status_permalink": {
+				"url": "https://t.co/yG0xs7xbYf",
+				"expanded": "https://twitter.com/NyaNyaNyangC/status/1262294463096864768",
+				"display": "twitter.com/NyaNyaNyangC/s…"
+			},
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공통언어(엄밀히 말해 '거대서사'와는 다른.)의 구축을 위한 노력, 균질한 대중(=중산층=국민)이 실종되고 소집단의 방언이 우후죽순 생겨나는 시대(=부족주의/소우주로의 분화). 한 시기 서브컬처에서도 그러한 교양의 습득이 중시되던 시기가 있었으나, 끝내 퇴조하고...\nhttps://t.co/J36CowGVD4"
+	},
+	{
+		"created_at": "Mon May 18 13:57:59 +0000 2020",
+		"id": 1262371290129694700,
+		"id_str": "1262381925710299140",
+		"full_text": "예전에 장르문학 작가들이 문단문학의 SF 비평에 빡쳐서(늘 있는 일이다) '문단문학도 하나의 장르일 뿐이다'라고 말한 적이 있는데 난 그게 굉장히 흥미로웠다. 문학은 본디 이 '교양'의 첨병이었는데 그 부분이 전면 부정되는 말. https://t.co/yG0xs7xbYf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yG0xs7xbYf",
+					"expanded_url": "https://twitter.com/NyaNyaNyangC/status/1262294463096864768",
+					"display_url": "twitter.com/NyaNyaNyangC/s…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3235646006,
+			"id_str": "3235646006",
+			"name": "그냥냥씨",
+			"screen_name": "NyaNyaNyangC",
+			"location": "오타쿠웨이",
+			"description": "어딜 보고있습니까? 여긴 제 잔상입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1361,
+			"friends_count": 885,
+			"listed_count": 18,
+			"created_at": "Thu Jun 04 03:14:06 +0000 2015",
+			"favourites_count": 6043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1219291075044491264/QthmbTRq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1219291075044491264/QthmbTRq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3235646006/1568464337",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1262294463096864800,
+		"quoted_status_id_str": "1262294463096864768",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yG0xs7xbYf",
+			"expanded": "https://twitter.com/NyaNyaNyangC/status/1262294463096864768",
+			"display": "twitter.com/NyaNyaNyangC/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 18 08:10:26 +0000 2020",
+			"id": 1262294463096864800,
+			"id_str": "1262294463096864768",
+			"full_text": "좀 이야기를 더 연장하면 오늘날은 '교양'이란 개념이 죽어가는 시대라서 취향과 사회적인 인정 사이의 상관관계가 약해지고 있고 고오급 어른 취향으로 이동할 유인동기는 더욱더 사라져갈 것이다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				105
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1262293780499071000,
+			"in_reply_to_status_id_str": "1262293780499070977",
+			"in_reply_to_user_id": 3235646006,
+			"in_reply_to_user_id_str": "3235646006",
+			"in_reply_to_screen_name": "NyaNyaNyangC",
+			"user": {
+				"id": 3235646006,
+				"id_str": "3235646006",
+				"name": "그냥냥씨",
+				"screen_name": "NyaNyaNyangC",
+				"location": "오타쿠웨이",
+				"description": "어딜 보고있습니까? 여긴 제 잔상입니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1361,
+				"friends_count": 885,
+				"listed_count": 18,
+				"created_at": "Thu Jun 04 03:14:06 +0000 2015",
+				"favourites_count": 6043,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 72658,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1219291075044491264/QthmbTRq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1219291075044491264/QthmbTRq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3235646006/1568464337",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "예전에 장르문학 작가들이 문단문학의 SF 비평에 빡쳐서(늘 있는 일이다) '문단문학도 하나의 장르일 뿐이다'라고 말한 적이 있는데 난 그게 굉장히 흥미로웠다. 문학은 본디 이 '교양'의 첨병이었는데 그 부분이 전면 부정되는 말. https://t.co/yG0xs7xbYf"
+	},
+	{
 		"created_at": "Sun May 17 16:45:50 +0000 2020",
 		"id": 1260195280130982000,
 		"id_str": "1262061778944442368",
@@ -26,7 +687,7 @@ Grailbird.data.tweets_2020_05 =
 				},
 				{
 					"screen_name": "godkaz0608",
-					"name": "FK行雲流水‏(The Cursed Jaehyun)",
+					"name": "FK行雲流水(The Cursed Jaehyun)",
 					"id": 94285384,
 					"id_str": "94285384",
 					"indices": [
