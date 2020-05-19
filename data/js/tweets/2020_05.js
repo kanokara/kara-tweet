@@ -1,6 +1,1881 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 19 03:07:04 +0000 2020",
+		"id": 1262578727512391700,
+		"id_str": "1262580502763954176",
+		"full_text": "제우미디어, 라이트노벨 전문 레이블 「JM노벨」 창간 소식 안내!\n\n다양한 장르와 뛰어난 퀄리티를 선보이기 위해, 제우미디어의 노하우와 편집부의 덕력을 담았습니다.\n\n읽을수록 즐겁다! JM노벨\n5월 25일 첫 발매!\nhttps://t.co/dkF6a7dunY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dkF6a7dunY",
+					"expanded_url": "https://www.youtube.com/watch?v=KkNKyI10koI&feature=youtu.be",
+					"display_url": "youtube.com/watch?v=KkNKyI…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1212584834737922000,
+			"id_str": "1212584834737922048",
+			"name": "JM노벨&북스",
+			"screen_name": "JMBOOKNOVEL",
+			"location": "제우미디어 편집부",
+			"description": "제우미디어의 일본소설&라이트노벨 전문 브랜드, JM BOOKS와 JM NOVEL의 공식 계정입니다. 다소 자유분방하게 잡다한 소식을 전합니다.",
+			"url": "https://t.co/hIeZnuBLkk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hIeZnuBLkk",
+							"expanded_url": "http://www.jeumedia.com",
+							"display_url": "jeumedia.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75,
+			"friends_count": 167,
+			"listed_count": 1,
+			"created_at": "Thu Jan 02 04:03:00 +0000 2020",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262569065379295233/zS4-AEH6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262569065379295233/zS4-AEH6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1212584834737922048/1577948814",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제우미디어, 라이트노벨 전문 레이블 「JM노벨」 창간 소식 안내!\n\n다양한 장르와 뛰어난 퀄리티를 선보이기 위해, 제우미디어의 노하우와 편집부의 덕력을 담았습니다.\n\n읽을수록 즐겁다! JM노벨\n5월 25일 첫 발매!\nhttps://t.co/dkF6a7dunY"
+	},
+	{
+		"created_at": "Tue May 19 03:01:33 +0000 2020",
+		"id": 1262579118018707500,
+		"id_str": "1262579118018707457",
+		"full_text": "@pranagik 내일의 내가 오늘의 나를 잊지 말길...",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pranagik",
+					"name": "코코미🌸",
+					"id": 965504304046944300,
+					"id_str": "965504304046944257",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1262578252561842200,
+		"in_reply_to_status_id_str": "1262578252561842178",
+		"in_reply_to_user_id": 965504304046944300,
+		"in_reply_to_user_id_str": "965504304046944257",
+		"in_reply_to_screen_name": "pranagik",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 85,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1968,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@pranagik 내일의 내가 오늘의 나를 잊지 말길..."
+	},
+	{
+		"created_at": "Tue May 19 02:53:35 +0000 2020",
+		"id": 1262577112432566300,
+		"id_str": "1262577112432566273",
+		"full_text": "@GoblinCase 현대사회에서 총체적 이해는 그 누구라도 불가능하고, 다만 그런 이해를 구하는 유보적 열린 태도를 지향하는 것은 가능하겠죠. 저리 단언하고 매도하는 건 글쎄...",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoblinCase",
+					"name": "魍魉之匣",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1262574773642510300,
+		"in_reply_to_status_id_str": "1262574773642510336",
+		"in_reply_to_user_id": 1047103952297254900,
+		"in_reply_to_user_id_str": "1047103952297254912",
+		"in_reply_to_screen_name": "GoblinCase",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 85,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1968,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@GoblinCase 현대사회에서 총체적 이해는 그 누구라도 불가능하고, 다만 그런 이해를 구하는 유보적 열린 태도를 지향하는 것은 가능하겠죠. 저리 단언하고 매도하는 건 글쎄..."
+	},
+	{
+		"created_at": "Tue May 19 02:38:37 +0000 2020",
+		"id": 1157270221440241700,
+		"id_str": "1262573346669031424",
+		"full_text": "뭔가 탈정치적이라고 느껴진다면 아마 그것이 당연하다고 생각되기 때문일 겁니다. 페미니즘이 '사상'이라고 민감하게 반응하는 사람들은 대개 민주주의나 천부인권이 '사상'이라는 걸 생각 안할 거에요. 그건 공기처럼 자연스러운 거니까.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1157269891147161600,
+		"in_reply_to_status_id_str": "1157269891147161600",
+		"in_reply_to_user_id": 2542714939,
+		"in_reply_to_user_id_str": "2542714939",
+		"in_reply_to_screen_name": "hl970226",
+		"user": {
+			"id": 2542714939,
+			"id_str": "2542714939",
+			"name": "(몬덴킨트KR) 道寭 고양잇과 쉬흘라P",
+			"screen_name": "hl970226",
+			"location": "상자",
+			"description": "如月千早P/XENOGLOSSIAがダイスキな虎/비밀결사 문사철/리코더 빌런/유교힙스터/삼덕 아님/부계 @DuxValentinus 유머계 @chihaya_judge 박제계 @shihla_bakje",
+			"url": "https://t.co/see6cyBMHT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/see6cyBMHT",
+							"expanded_url": "http://ask.fm/hl970226",
+							"display_url": "ask.fm/hl970226",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2331,
+			"friends_count": 1804,
+			"listed_count": 26,
+			"created_at": "Tue Jun 03 03:42:11 +0000 2014",
+			"favourites_count": 5663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 586568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245341058650656768/GG1egRr6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245341058650656768/GG1egRr6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2542714939/1522588567",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00e403080f8bd377",
+			"url": "https://api.twitter.com/1.1/geo/id/00e403080f8bd377.json",
+			"place_type": "city",
+			"name": "송파구",
+			"full_name": "대한민국 송파구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							127.061155610644,
+							37.4627092579116
+						],
+						[
+							127.163469808684,
+							37.4627092579116
+						],
+						[
+							127.163469808684,
+							37.5388928360323
+						],
+						[
+							127.061155610644,
+							37.5388928360323
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "뭔가 탈정치적이라고 느껴진다면 아마 그것이 당연하다고 생각되기 때문일 겁니다. 페미니즘이 '사상'이라고 민감하게 반응하는 사람들은 대개 민주주의나 천부인권이 '사상'이라는 걸 생각 안할 거에요. 그건 공기처럼 자연스러운 거니까."
+	},
+	{
+		"created_at": "Tue May 19 02:38:31 +0000 2020",
+		"id": 1157269891147161600,
+		"id_str": "1262573317455663105",
+		"full_text": "19세기에 상업적 오락물로 소비되었던 방각본 영웅소설들(내용을 보면 거의 19세기 한양의 양판소라 하겠습니다만) 에 진지한 정치적 의도가 보이지는 않지만 연구자들은 그 양판소에서 소중화사상과 복고적 유교 이데올로기를 읽어내거든요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1157269435532509200,
+		"in_reply_to_status_id_str": "1157269435532509190",
+		"in_reply_to_user_id": 2542714939,
+		"in_reply_to_user_id_str": "2542714939",
+		"in_reply_to_screen_name": "hl970226",
+		"user": {
+			"id": 2542714939,
+			"id_str": "2542714939",
+			"name": "(몬덴킨트KR) 道寭 고양잇과 쉬흘라P",
+			"screen_name": "hl970226",
+			"location": "상자",
+			"description": "如月千早P/XENOGLOSSIAがダイスキな虎/비밀결사 문사철/리코더 빌런/유교힙스터/삼덕 아님/부계 @DuxValentinus 유머계 @chihaya_judge 박제계 @shihla_bakje",
+			"url": "https://t.co/see6cyBMHT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/see6cyBMHT",
+							"expanded_url": "http://ask.fm/hl970226",
+							"display_url": "ask.fm/hl970226",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2331,
+			"friends_count": 1804,
+			"listed_count": 26,
+			"created_at": "Tue Jun 03 03:42:11 +0000 2014",
+			"favourites_count": 5663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 586568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245341058650656768/GG1egRr6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245341058650656768/GG1egRr6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2542714939/1522588567",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00e403080f8bd377",
+			"url": "https://api.twitter.com/1.1/geo/id/00e403080f8bd377.json",
+			"place_type": "city",
+			"name": "송파구",
+			"full_name": "대한민국 송파구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							127.061155610644,
+							37.4627092579116
+						],
+						[
+							127.163469808684,
+							37.4627092579116
+						],
+						[
+							127.163469808684,
+							37.5388928360323
+						],
+						[
+							127.061155610644,
+							37.5388928360323
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "19세기에 상업적 오락물로 소비되었던 방각본 영웅소설들(내용을 보면 거의 19세기 한양의 양판소라 하겠습니다만) 에 진지한 정치적 의도가 보이지는 않지만 연구자들은 그 양판소에서 소중화사상과 복고적 유교 이데올로기를 읽어내거든요."
+	},
+	{
+		"created_at": "Tue May 19 02:38:20 +0000 2020",
+		"id": 1157269435532509200,
+		"id_str": "1262573272429780992",
+		"full_text": "아마도 탈정치적 오락물로 소비되던 것이 해당 맥락을 벗어나면 진한 정치성이 느껴지곤 하죠",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2542714939,
+			"id_str": "2542714939",
+			"name": "(몬덴킨트KR) 道寭 고양잇과 쉬흘라P",
+			"screen_name": "hl970226",
+			"location": "상자",
+			"description": "如月千早P/XENOGLOSSIAがダイスキな虎/비밀결사 문사철/리코더 빌런/유교힙스터/삼덕 아님/부계 @DuxValentinus 유머계 @chihaya_judge 박제계 @shihla_bakje",
+			"url": "https://t.co/see6cyBMHT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/see6cyBMHT",
+							"expanded_url": "http://ask.fm/hl970226",
+							"display_url": "ask.fm/hl970226",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2331,
+			"friends_count": 1804,
+			"listed_count": 26,
+			"created_at": "Tue Jun 03 03:42:11 +0000 2014",
+			"favourites_count": 5663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 586568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245341058650656768/GG1egRr6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245341058650656768/GG1egRr6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2542714939/1522588567",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00e403080f8bd377",
+			"url": "https://api.twitter.com/1.1/geo/id/00e403080f8bd377.json",
+			"place_type": "city",
+			"name": "송파구",
+			"full_name": "대한민국 송파구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							127.061155610644,
+							37.4627092579116
+						],
+						[
+							127.163469808684,
+							37.4627092579116
+						],
+						[
+							127.163469808684,
+							37.5388928360323
+						],
+						[
+							127.061155610644,
+							37.5388928360323
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아마도 탈정치적 오락물로 소비되던 것이 해당 맥락을 벗어나면 진한 정치성이 느껴지곤 하죠"
+	},
+	{
+		"created_at": "Tue May 19 02:37:52 +0000 2020",
+		"id": 1114197287767396400,
+		"id_str": "1262573154423042048",
+		"full_text": "탈정치 운운하는 이들은 기본 성정이 체리피커다. 얘들이 주의주장이 없는 게 아니다. 어떤 상황에서도 자신을 냉소하고 깔보는 위치에 둬야 하기에 자신을 훈수두는 자리에 놓는 거. 탈정치 운운하는 이들이 대부분 보리수인 것은, 그런 하찮은 생각이나 하면서는 진보 노릇 못 해먹기 때문이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3235646006,
+			"id_str": "3235646006",
+			"name": "그냥냥씨",
+			"screen_name": "NyaNyaNyangC",
+			"location": "오타쿠웨이",
+			"description": "어딜 보고있습니까? 여긴 제 잔상입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1362,
+			"friends_count": 884,
+			"listed_count": 18,
+			"created_at": "Thu Jun 04 03:14:06 +0000 2015",
+			"favourites_count": 6044,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1219291075044491264/QthmbTRq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1219291075044491264/QthmbTRq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3235646006/1568464337",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 166,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "탈정치 운운하는 이들은 기본 성정이 체리피커다. 얘들이 주의주장이 없는 게 아니다. 어떤 상황에서도 자신을 냉소하고 깔보는 위치에 둬야 하기에 자신을 훈수두는 자리에 놓는 거. 탈정치 운운하는 이들이 대부분 보리수인 것은, 그런 하찮은 생각이나 하면서는 진보 노릇 못 해먹기 때문이다."
+	},
+	{
+		"created_at": "Tue May 19 02:31:40 +0000 2020",
+		"id": 1262571597065449500,
+		"id_str": "1262571597065449475",
+		"full_text": "@GoblinCase 아무데나 '문재앙'을 외치는 것조차도 음모론적이거나 성리학적(...) 세계관을 가져서 그렇겠죠...",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoblinCase",
+					"name": "魍魉之匣",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1262570642110419000,
+		"in_reply_to_status_id_str": "1262570642110418944",
+		"in_reply_to_user_id": 1047103952297254900,
+		"in_reply_to_user_id_str": "1047103952297254912",
+		"in_reply_to_screen_name": "GoblinCase",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 85,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1968,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@GoblinCase 아무데나 '문재앙'을 외치는 것조차도 음모론적이거나 성리학적(...) 세계관을 가져서 그렇겠죠..."
+	},
+	{
+		"created_at": "Tue May 19 02:29:15 +0000 2020",
+		"id": 1262408487180464000,
+		"id_str": "1262570987909820417",
+		"full_text": "현상에 대한 입체적이고 총체적인 사고를 중지하고 지엽적인 디테일 무더기에 사고를 기꺼이 의탁하는 것이 한국어역으로는 덕, 소위 ‘오타쿠’의 본질이다. 이 ‘기꺼이 의탁함’이 탈정치성을 거쳐 보수화로 가는 특급열차. 자기 객관화와 반성이 되면 밀덕 따위가 아니라 전쟁사학자가 되었겠지. https://t.co/be0DSFNSWk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/be0DSFNSWk",
+					"expanded_url": "https://twitter.com/coervos/status/1262378434476609537",
+					"display_url": "twitter.com/coervos/status…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 368212732,
+			"id_str": "368212732",
+			"name": "마뜨료나의 줌",
+			"screen_name": "matrenin_dvor",
+			"location": "Zoom",
+			"description": "방금 들으신 애들 목소리는 님의 환청입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4371,
+			"friends_count": 1264,
+			"listed_count": 31,
+			"created_at": "Mon Sep 05 08:18:14 +0000 2011",
+			"favourites_count": 8886,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3169475909/aad9a9a4cf346fc6d559adc2bc1fb5c9_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3169475909/aad9a9a4cf346fc6d559adc2bc1fb5c9_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/368212732/1586641435",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1262378434476609500,
+		"quoted_status_id_str": "1262378434476609537",
+		"quoted_status_permalink": {
+			"url": "https://t.co/be0DSFNSWk",
+			"expanded": "https://twitter.com/coervos/status/1262378434476609537",
+			"display": "twitter.com/coervos/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 18 13:44:07 +0000 2020",
+			"id": 1262378434476609500,
+			"id_str": "1262378434476609537",
+			"full_text": "어떤 사고 과정을 거치면 이 멘션이 자기들을 공격한 걸로 보이는 걸까. https://t.co/7sWDJvAPck",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				39
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1262378425513316400,
+						"id_str": "1262378425513316356",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/EYTefVjWkAQm8T0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYTefVjWkAQm8T0.jpg",
+						"url": "https://t.co/7sWDJvAPck",
+						"display_url": "pic.twitter.com/7sWDJvAPck",
+						"expanded_url": "https://twitter.com/coervos/status/1262378434476609537/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 607,
+								"h": 388,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 607,
+								"h": 388,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 607,
+								"h": 388,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1262378425513316400,
+						"id_str": "1262378425513316356",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/EYTefVjWkAQm8T0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYTefVjWkAQm8T0.jpg",
+						"url": "https://t.co/7sWDJvAPck",
+						"display_url": "pic.twitter.com/7sWDJvAPck",
+						"expanded_url": "https://twitter.com/coervos/status/1262378434476609537/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 607,
+								"h": 388,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 607,
+								"h": 388,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 607,
+								"h": 388,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 992990532,
+				"id_str": "992990532",
+				"name": "고기말이 밥 😷",
+				"screen_name": "coervos",
+				"location": "",
+				"description": "오래 전에 쓴 트윗은 RT되면 지웁니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 718,
+				"friends_count": 337,
+				"listed_count": 8,
+				"created_at": "Thu Dec 06 12:43:21 +0000 2012",
+				"favourites_count": 2507,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 92207,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1078439719191511040/wP2sSe4i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1078439719191511040/wP2sSe4i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/992990532/1460534019",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1138,
+			"favorite_count": 262,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 112,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "현상에 대한 입체적이고 총체적인 사고를 중지하고 지엽적인 디테일 무더기에 사고를 기꺼이 의탁하는 것이 한국어역으로는 덕, 소위 ‘오타쿠’의 본질이다. 이 ‘기꺼이 의탁함’이 탈정치성을 거쳐 보수화로 가는 특급열차. 자기 객관화와 반성이 되면 밀덕 따위가 아니라 전쟁사학자가 되었겠지. https://t.co/be0DSFNSWk"
+	},
+	{
+		"created_at": "Tue May 19 02:21:54 +0000 2020",
+		"id": 1262569139035451400,
+		"id_str": "1262569139035451392",
+		"full_text": "리트윗한 이런 '파편적 팩트', '밈적 요소만으로 소통한다' 같은 지적들은... 근래 들어서 생각하기엔 그저 상대방의 코드-논리-가치관을 거부하고 타자화하기에 발생하는 일종의 몰이해적 디스커뮤니케이션이 아닌가 싶어요. 아즈마 히로키가 이런 식으로 서브컬처를 팔아치웠던 거고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 85,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1968,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "리트윗한 이런 '파편적 팩트', '밈적 요소만으로 소통한다' 같은 지적들은... 근래 들어서 생각하기엔 그저 상대방의 코드-논리-가치관을 거부하고 타자화하기에 발생하는 일종의 몰이해적 디스커뮤니케이션이 아닌가 싶어요. 아즈마 히로키가 이런 식으로 서브컬처를 팔아치웠던 거고."
+	},
+	{
+		"created_at": "Tue May 19 02:18:28 +0000 2020",
+		"id": 1262443322921988000,
+		"id_str": "1262568272030883841",
+		"full_text": "그리고 샐러드도 만만한 음식은 아니잖음. 가공을 최소화한다 해도 팩트를 내어놓는 사람의 간단한 주관과 의견이 드레싱처럼 어우러져야 하는데 그러한 글쓰기가 제대로 이루어지고 있느냐고 하면...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1262441709591384000,
+		"in_reply_to_status_id_str": "1262441709591384064",
+		"in_reply_to_user_id": 755766321267310600,
+		"in_reply_to_user_id_str": "755766321267310592",
+		"in_reply_to_screen_name": "lee3an1",
+		"user": {
+			"id": 755766321267310600,
+			"id_str": "755766321267310592",
+			"name": "이재훈",
+			"screen_name": "lee3an1",
+			"location": "",
+			"description": "대학원생, 아무말 잘함. DM확인 잘 안함.\n永吉昴P/園田海未のファン",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1856,
+			"friends_count": 806,
+			"listed_count": 23,
+			"created_at": "Wed Jul 20 14:08:27 +0000 2016",
+			"favourites_count": 8762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 136410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245367425240985600/iKeDEZ1__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245367425240985600/iKeDEZ1__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755766321267310592/1587398673",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그리고 샐러드도 만만한 음식은 아니잖음. 가공을 최소화한다 해도 팩트를 내어놓는 사람의 간단한 주관과 의견이 드레싱처럼 어우러져야 하는데 그러한 글쓰기가 제대로 이루어지고 있느냐고 하면..."
+	},
+	{
+		"created_at": "Tue May 19 02:18:26 +0000 2020",
+		"id": 1262441709591384000,
+		"id_str": "1262568264556621829",
+		"full_text": "비유하자면 환단고기류의 유사역사학이 먹지 못하는 가짜 식재료를 요리해 속여파는 것이라면 역밀덕식 접근에서의 오류란 멀쩡한 식재료를 먹지 못할 음식으로 만들어서 버리는 것과 같다.  날것 그대로 내놓으면 차라리 샐러드라도 만들 수 있는데 그 이상을 하려는 순간 망가짐.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1262441708068864000,
+		"in_reply_to_status_id_str": "1262441708068864002",
+		"in_reply_to_user_id": 755766321267310600,
+		"in_reply_to_user_id_str": "755766321267310592",
+		"in_reply_to_screen_name": "lee3an1",
+		"user": {
+			"id": 755766321267310600,
+			"id_str": "755766321267310592",
+			"name": "이재훈",
+			"screen_name": "lee3an1",
+			"location": "",
+			"description": "대학원생, 아무말 잘함. DM확인 잘 안함.\n永吉昴P/園田海未のファン",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1856,
+			"friends_count": 806,
+			"listed_count": 23,
+			"created_at": "Wed Jul 20 14:08:27 +0000 2016",
+			"favourites_count": 8762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 136410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245367425240985600/iKeDEZ1__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245367425240985600/iKeDEZ1__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755766321267310592/1587398673",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "비유하자면 환단고기류의 유사역사학이 먹지 못하는 가짜 식재료를 요리해 속여파는 것이라면 역밀덕식 접근에서의 오류란 멀쩡한 식재료를 먹지 못할 음식으로 만들어서 버리는 것과 같다.  날것 그대로 내놓으면 차라리 샐러드라도 만들 수 있는데 그 이상을 하려는 순간 망가짐."
+	},
+	{
+		"created_at": "Tue May 19 02:18:17 +0000 2020",
+		"id": 1262441708068864000,
+		"id_str": "1262568227210530817",
+		"full_text": "다수의 밀덕이나 역덕들이 팩트에 집착하는 것까지는 좋은데 그걸 꿰어서 하나의 말로 만들어내지 못하니까 자기들이 무슨 말을 하고 있는지도 모르고 팩트를 왜 가져다 쓰는 건지도 모르고 심지어 그 와중에 자신의 관점에 대한 아집을 버린 것도 아니라서 팩트조차 취사선택함.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755766321267310600,
+			"id_str": "755766321267310592",
+			"name": "이재훈",
+			"screen_name": "lee3an1",
+			"location": "",
+			"description": "대학원생, 아무말 잘함. DM확인 잘 안함.\n永吉昴P/園田海未のファン",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1856,
+			"friends_count": 806,
+			"listed_count": 23,
+			"created_at": "Wed Jul 20 14:08:27 +0000 2016",
+			"favourites_count": 8762,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 136410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245367425240985600/iKeDEZ1__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245367425240985600/iKeDEZ1__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755766321267310592/1587398673",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "다수의 밀덕이나 역덕들이 팩트에 집착하는 것까지는 좋은데 그걸 꿰어서 하나의 말로 만들어내지 못하니까 자기들이 무슨 말을 하고 있는지도 모르고 팩트를 왜 가져다 쓰는 건지도 모르고 심지어 그 와중에 자신의 관점에 대한 아집을 버린 것도 아니라서 팩트조차 취사선택함."
+	},
+	{
+		"created_at": "Tue May 19 02:17:51 +0000 2020",
+		"id": 1262557972816736300,
+		"id_str": "1262568117667942400",
+		"full_text": "https://t.co/ceJGeKAvgb\n\n근본적으로 커뮤니케이션이 이루어지지 못하는 인덕밀셀식의 파편적 팩트 천착을 잘 함축한 말\n\n\"80만발이 많냐적냐 태클거는 사람에게만 답멘션을 달고 어느 쪽이 더 타당한지 결론내리려고 하는 모습을 보세요. 저런 대화를 계속 이어가는 게 무슨 쓸모가 있겠나요\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ceJGeKAvgb",
+					"expanded_url": "https://twitter.com/ChiC_hi/status/1130063329060253698",
+					"display_url": "twitter.com/ChiC_hi/status…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1262557150930329600,
+		"in_reply_to_status_id_str": "1262557150930329601",
+		"in_reply_to_user_id": 102602316,
+		"in_reply_to_user_id_str": "102602316",
+		"in_reply_to_screen_name": "klazykon",
+		"user": {
+			"id": 102602316,
+			"id_str": "102602316",
+			"name": "konjoe ☔",
+			"screen_name": "klazykon",
+			"location": "외주 관련 문의 klazykon☆gmail.com",
+			"description": "- ̗̀  ٩(`ᗜ´๑)و   ̖́- https://t.co/JIeCX4CgtA 레진코믹스에서 마리(MARi) 연재했었습니다. / 픽시브 https://t.co/HI3h5AiLKB / 텀블러 https://t.co/ZqdB4NkcfL #에이스펙트럼우산습격단",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JIeCX4CgtA",
+							"expanded_url": "http://lezhin.com/comic/mari",
+							"display_url": "lezhin.com/comic/mari",
+							"indices": [
+								21,
+								44
+							]
+						},
+						{
+							"url": "https://t.co/HI3h5AiLKB",
+							"expanded_url": "http://pixiv.me/klazykon",
+							"display_url": "pixiv.me/klazykon",
+							"indices": [
+								77,
+								100
+							]
+						},
+						{
+							"url": "https://t.co/ZqdB4NkcfL",
+							"expanded_url": "http://jeonjagyezip.tumblr.com",
+							"display_url": "jeonjagyezip.tumblr.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1636,
+			"friends_count": 2031,
+			"listed_count": 35,
+			"created_at": "Thu Jan 07 06:56:45 +0000 2010",
+			"favourites_count": 116479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 219334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163017186375426048/9QQ8An6Y_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163017186375426048/9QQ8An6Y_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/102602316/1579593581",
+			"profile_link_color": "F55E0C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1130063329060253700,
+		"quoted_status_id_str": "1130063329060253698",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ceJGeKAvgb",
+			"expanded": "https://twitter.com/ChiC_hi/status/1130063329060253698",
+			"display": "twitter.com/ChiC_hi/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 19 10:51:07 +0000 2019",
+			"id": 1130063329060253700,
+			"id_str": "1130063329060253698",
+			"full_text": "음 사실 잘 모르겠음. 베트콩 하나 죽이는데도 5만발이 들어갔다는 말을 내뱉는 밀덕새끼에게 “시가전이랑 밀림은 상황이 다르다” “발포당시 시민군이 조직되어있지 않았다”같은 무지를 비난하는 게 얼마나 적확한지...논쟁은 계속되고 ‘입밖으로 꺼내서는 안 될 말’이라는 본질은 사라지는 게 아닌가.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				163
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 142254915,
+				"id_str": "142254915",
+				"name": "CHICHI(다시출근함)",
+				"screen_name": "ChiC_hi",
+				"location": "FFXIV 카벙클 치치언니",
+				"description": "모바일게임개발사들은부디노노잼여름이벤트기획을멈춰주시기바랍니다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 957,
+				"friends_count": 563,
+				"listed_count": 13,
+				"created_at": "Mon May 10 11:31:44 +0000 2010",
+				"favourites_count": 29481,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 332644,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1261308630793478145/RcZjeI5I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261308630793478145/RcZjeI5I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/142254915/1571045671",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 17,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/ceJGeKAvgb\n\n근본적으로 커뮤니케이션이 이루어지지 못하는 인덕밀셀식의 파편적 팩트 천착을 잘 함축한 말\n\n\"80만발이 많냐적냐 태클거는 사람에게만 답멘션을 달고 어느 쪽이 더 타당한지 결론내리려고 하는 모습을 보세요. 저런 대화를 계속 이어가는 게 무슨 쓸모가 있겠나요\""
+	},
+	{
+		"created_at": "Tue May 19 02:17:47 +0000 2020",
+		"id": 1262557150930329600,
+		"id_str": "1262568102388088833",
+		"full_text": "https://t.co/fXQnUi14AQ\nhttps://t.co/DCqYZwguWS\nhttps://t.co/oH9BXNnyWV\n\n오타쿠 인셀이나 인덕밀셀들의 행동을 지금 있는 단어에서 고를만한게 독해력…이 그나마 가까운 표현이라 그렇지 사실 저정도로 자극에 대한 파편적 반응밖에 못하는 걸 독해력 부족이라고 해야할지도 잘 모르겠다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fXQnUi14AQ",
+					"expanded_url": "https://twitter.com/sqwt456/status/1262340995875655680",
+					"display_url": "twitter.com/sqwt456/status…",
+					"indices": [
+						0,
+						23
+					]
+				},
+				{
+					"url": "https://t.co/DCqYZwguWS",
+					"expanded_url": "https://twitter.com/lee3an1/status/1262441708068864002",
+					"display_url": "twitter.com/lee3an1/status…",
+					"indices": [
+						24,
+						47
+					]
+				},
+				{
+					"url": "https://t.co/oH9BXNnyWV",
+					"expanded_url": "https://twitter.com/lee3an1/status/1262415054508396547?s=19",
+					"display_url": "twitter.com/lee3an1/status…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1262556329714937900,
+		"in_reply_to_status_id_str": "1262556329714937857",
+		"in_reply_to_user_id": 102602316,
+		"in_reply_to_user_id_str": "102602316",
+		"in_reply_to_screen_name": "klazykon",
+		"user": {
+			"id": 102602316,
+			"id_str": "102602316",
+			"name": "konjoe ☔",
+			"screen_name": "klazykon",
+			"location": "외주 관련 문의 klazykon☆gmail.com",
+			"description": "- ̗̀  ٩(`ᗜ´๑)و   ̖́- https://t.co/JIeCX4CgtA 레진코믹스에서 마리(MARi) 연재했었습니다. / 픽시브 https://t.co/HI3h5AiLKB / 텀블러 https://t.co/ZqdB4NkcfL #에이스펙트럼우산습격단",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JIeCX4CgtA",
+							"expanded_url": "http://lezhin.com/comic/mari",
+							"display_url": "lezhin.com/comic/mari",
+							"indices": [
+								21,
+								44
+							]
+						},
+						{
+							"url": "https://t.co/HI3h5AiLKB",
+							"expanded_url": "http://pixiv.me/klazykon",
+							"display_url": "pixiv.me/klazykon",
+							"indices": [
+								77,
+								100
+							]
+						},
+						{
+							"url": "https://t.co/ZqdB4NkcfL",
+							"expanded_url": "http://jeonjagyezip.tumblr.com",
+							"display_url": "jeonjagyezip.tumblr.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1636,
+			"friends_count": 2031,
+			"listed_count": 35,
+			"created_at": "Thu Jan 07 06:56:45 +0000 2010",
+			"favourites_count": 116479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 219334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163017186375426048/9QQ8An6Y_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163017186375426048/9QQ8An6Y_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/102602316/1579593581",
+			"profile_link_color": "F55E0C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1262415054508396500,
+		"quoted_status_id_str": "1262415054508396547",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oH9BXNnyWV",
+			"expanded": "https://twitter.com/lee3an1/status/1262415054508396547?s=19",
+			"display": "twitter.com/lee3an1/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 18 16:09:38 +0000 2020",
+			"id": 1262415054508396500,
+			"id_str": "1262415054508396547",
+			"full_text": "\"전쟁은 여자의 얼굴을 하지 않았다\"는 제목의 책을 읽으면서 전쟁에서 여성의 목소리가 잊혀졌다는 이야기가 책의 감상으로 적절하지 않다고 생각한다면 이건 독서 이전에 기본적인 독해력의 문제잖아요.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				108
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 755766321267310600,
+				"id_str": "755766321267310592",
+				"name": "이재훈",
+				"screen_name": "lee3an1",
+				"location": "",
+				"description": "대학원생, 아무말 잘함. DM확인 잘 안함.\n永吉昴P/園田海未のファン",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1856,
+				"friends_count": 806,
+				"listed_count": 23,
+				"created_at": "Wed Jul 20 14:08:27 +0000 2016",
+				"favourites_count": 8762,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 136410,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1245367425240985600/iKeDEZ1__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245367425240985600/iKeDEZ1__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/755766321267310592/1587398673",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 251,
+			"favorite_count": 146,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 12,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/fXQnUi14AQ\nhttps://t.co/DCqYZwguWS\nhttps://t.co/oH9BXNnyWV\n\n오타쿠 인셀이나 인덕밀셀들의 행동을 지금 있는 단어에서 고를만한게 독해력…이 그나마 가까운 표현이라 그렇지 사실 저정도로 자극에 대한 파편적 반응밖에 못하는 걸 독해력 부족이라고 해야할지도 잘 모르겠다"
+	},
+	{
 		"created_at": "Tue May 19 02:07:28 +0000 2020",
 		"id": 1262565506533351400,
 		"id_str": "1262565506533351424",
