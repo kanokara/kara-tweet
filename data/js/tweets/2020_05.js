@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 19 20:10:16 +0000 2020",
+		"id": 1262837999361855500,
+		"id_str": "1262837999361855488",
+		"full_text": "동물과 인간을 구분짓던 선인들의 '멍청한 소리'는 과거에는 이런 결정적 순간들을 포착하여 공유하는 것이 어려웠기 때문이었으리란 생각이 자주 드네요.\nhttps://t.co/fHocHnlPC2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fHocHnlPC2",
+					"expanded_url": "https://twitter.com/naroo_mon/status/1262370075044003850?s=19",
+					"display_url": "twitter.com/naroo_mon/stat…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 85,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1262370075044003800,
+		"quoted_status_id_str": "1262370075044003850",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fHocHnlPC2",
+			"expanded": "https://twitter.com/naroo_mon/status/1262370075044003850?s=19",
+			"display": "twitter.com/naroo_mon/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 18 13:10:54 +0000 2020",
+			"id": 1262370075044003800,
+			"id_str": "1262370075044003850",
+			"full_text": "너구리 짤 찾다 이런 거 발견. 고양이한테 쫓겨나서 복수로 물대포 쏘는 너구맄ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/x7K3UHCVmg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				85
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1262370057482465300,
+						"id_str": "1262370057482465280",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EYTW4QNU8AAOJEL.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EYTW4QNU8AAOJEL.jpg",
+						"url": "https://t.co/x7K3UHCVmg",
+						"display_url": "pic.twitter.com/x7K3UHCVmg",
+						"expanded_url": "https://twitter.com/naroo_mon/status/1262370075044003850/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 332,
+								"h": 330,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 332,
+								"h": 330,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 332,
+								"h": 330,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1262370057482465300,
+						"id_str": "1262370057482465280",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EYTW4QNU8AAOJEL.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EYTW4QNU8AAOJEL.jpg",
+						"url": "https://t.co/x7K3UHCVmg",
+						"display_url": "pic.twitter.com/x7K3UHCVmg",
+						"expanded_url": "https://twitter.com/naroo_mon/status/1262370075044003850/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 332,
+								"h": 330,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 332,
+								"h": 330,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 332,
+								"h": 330,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								166,
+								165
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EYTW4QNU8AAOJEL.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 757254302456909800,
+				"id_str": "757254302456909824",
+				"name": "맘모스빵🍞",
+				"screen_name": "naroo_mon",
+				"location": "쥰이와",
+				"description": "쥰 010226 / 코코 091028 / 하루 100603 / 나루 100603 / 우누 190115 / 우봉구 190220",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7719,
+				"friends_count": 901,
+				"listed_count": 72,
+				"created_at": "Sun Jul 24 16:41:09 +0000 2016",
+				"favourites_count": 41204,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 32108,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1137773206951956480/u-IKgdhI_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137773206951956480/u-IKgdhI_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/757254302456909824/1479481937",
+				"profile_link_color": "E0CBBD",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7723,
+			"favorite_count": 4878,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "동물과 인간을 구분짓던 선인들의 '멍청한 소리'는 과거에는 이런 결정적 순간들을 포착하여 공유하는 것이 어려웠기 때문이었으리란 생각이 자주 드네요.\nhttps://t.co/fHocHnlPC2"
+	},
+	{
 		"created_at": "Tue May 19 03:07:04 +0000 2020",
 		"id": 1262578727512391700,
 		"id_str": "1262580502763954176",
