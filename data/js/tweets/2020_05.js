@@ -1,6 +1,337 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 21 20:04:35 +0000 2020",
+		"id": 1263561346186018800,
+		"id_str": "1263561346186018816",
+		"full_text": "이런 기록을 보면 당시의 공식적인 일본어 구사자 통계가 실상을 전부 보여주지는 못하는구나 싶고...\nhttps://t.co/2QVvplwtCw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2QVvplwtCw",
+					"expanded_url": "https://twitter.com/8b_og/status/1263407469788717056?s=19",
+					"display_url": "twitter.com/8b_og/status/1…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 85,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 1991,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1263407469788717000,
+		"quoted_status_id_str": "1263407469788717056",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2QVvplwtCw",
+			"expanded": "https://twitter.com/8b_og/status/1263407469788717056?s=19",
+			"display": "twitter.com/8b_og/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 21 09:53:08 +0000 2020",
+			"id": 1263407469788717000,
+			"id_str": "1263407469788717056",
+			"full_text": "옛날사람들이 얼마나 한글복원에 힘썼는지 깨닺게 되는 짤 https://t.co/TKRu9lRHsH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				30
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1263407408581193700,
+						"id_str": "1263407408581193728",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/EYiGWCMUMAAnFBo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYiGWCMUMAAnFBo.jpg",
+						"url": "https://t.co/TKRu9lRHsH",
+						"display_url": "pic.twitter.com/TKRu9lRHsH",
+						"expanded_url": "https://twitter.com/8b_og/status/1263407469788717056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 762,
+								"h": 944,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 762,
+								"h": 944,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 549,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1263407408581193700,
+						"id_str": "1263407408581193728",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/EYiGWCMUMAAnFBo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYiGWCMUMAAnFBo.jpg",
+						"url": "https://t.co/TKRu9lRHsH",
+						"display_url": "pic.twitter.com/TKRu9lRHsH",
+						"expanded_url": "https://twitter.com/8b_og/status/1263407469788717056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 762,
+								"h": 944,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 762,
+								"h": 944,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 549,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1263407412666486800,
+						"id_str": "1263407412666486784",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/EYiGWRaU0AAIsSH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYiGWRaU0AAIsSH.jpg",
+						"url": "https://t.co/TKRu9lRHsH",
+						"display_url": "pic.twitter.com/TKRu9lRHsH",
+						"expanded_url": "https://twitter.com/8b_og/status/1263407469788717056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 859,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1508,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 487,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1263407465615388700,
+						"id_str": "1263407465615388672",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/EYiGZWqU8AAFyM-.png",
+						"media_url_https": "https://pbs.twimg.com/media/EYiGZWqU8AAFyM-.png",
+						"url": "https://t.co/TKRu9lRHsH",
+						"display_url": "pic.twitter.com/TKRu9lRHsH",
+						"expanded_url": "https://twitter.com/8b_og/status/1263407469788717056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 254,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1147,
+								"h": 428,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1147,
+								"h": 428,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1242397062181748700,
+				"id_str": "1242397062181748737",
+				"name": "실제로 쳐웃은거 저장용",
+				"screen_name": "8b_og",
+				"location": "",
+				"description": "볼꺼면 갠소하셈",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 29426,
+				"friends_count": 0,
+				"listed_count": 45,
+				"created_at": "Tue Mar 24 10:25:21 +0000 2020",
+				"favourites_count": 227,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 277,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1258328698366783489/107jhrFI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1258328698366783489/107jhrFI_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4784,
+			"favorite_count": 1671,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이런 기록을 보면 당시의 공식적인 일본어 구사자 통계가 실상을 전부 보여주지는 못하는구나 싶고...\nhttps://t.co/2QVvplwtCw"
+	},
+	{
 		"created_at": "Wed May 20 22:55:23 +0000 2020",
 		"id": 1263241940708937700,
 		"id_str": "1263241940708937730",
