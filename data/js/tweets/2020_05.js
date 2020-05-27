@@ -1,6 +1,166 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 27 05:57:23 +0000 2020",
+		"id": 1231921826764247000,
+		"id_str": "1265522469953245184",
+		"full_text": "https://t.co/9P1bGIiEM2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1231921754898980900,
+					"id_str": "1231921754898980865",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ERiqTx_UYAE0Qmb.png",
+					"media_url_https": "https://pbs.twimg.com/media/ERiqTx_UYAE0Qmb.png",
+					"url": "https://t.co/9P1bGIiEM2",
+					"display_url": "pic.twitter.com/9P1bGIiEM2",
+					"expanded_url": "https://twitter.com/DIRECT_MEME/status/1231921826764247040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 587,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 587,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 587,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1231921754898980900,
+					"id_str": "1231921754898980865",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ERiqTx_UYAE0Qmb.png",
+					"media_url_https": "https://pbs.twimg.com/media/ERiqTx_UYAE0Qmb.png",
+					"url": "https://t.co/9P1bGIiEM2",
+					"display_url": "pic.twitter.com/9P1bGIiEM2",
+					"expanded_url": "https://twitter.com/DIRECT_MEME/status/1231921826764247040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 587,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 587,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 587,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1230393547464962000,
+			"id_str": "1230393547464962048",
+			"name": "다이렉트 밈 번역",
+			"screen_name": "DIRECT_MEME",
+			"location": "",
+			"description": "다시 외국 밈을 한국어로 즐겨 보세요 @DIRECTHlT",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8743,
+			"friends_count": 2,
+			"listed_count": 14,
+			"created_at": "Thu Feb 20 07:27:40 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230393830479761409/l7b-tbnk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230393830479761409/l7b-tbnk_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17433,
+		"favorite_count": 6876,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/9P1bGIiEM2"
+	},
+	{
 		"created_at": "Mon May 25 05:25:49 +0000 2020",
 		"id": 1264789747978780700,
 		"id_str": "1264789747978780673",
