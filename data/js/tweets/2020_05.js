@@ -1,6 +1,766 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 29 15:32:40 +0000 2020",
+		"id": 1265957762292310000,
+		"id_str": "1266392020756520960",
+		"full_text": "(지금 보니까 트위터에서 포도 달고 있는 애들도 똑같네",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1265865669456695300,
+		"in_reply_to_status_id_str": "1265865669456695301",
+		"in_reply_to_user_id": 1234811988271722500,
+		"in_reply_to_user_id_str": "1234811988271722497",
+		"in_reply_to_screen_name": "post_spectacle",
+		"user": {
+			"id": 1234811988271722500,
+			"id_str": "1234811988271722497",
+			"name": "rösaliachen",
+			"screen_name": "post_spectacle",
+			"location": "Cinémathèque, Daydream Nation",
+			"description": "노이즈 록-현장음악 창작집단 '파업전야(Streiknacht)'에서 가사와 곡을 쓰고 發話했던 사람. 변증법을 도구로 미적인 것을 감각하는 대중문화애호가. 몸을 둘러싼 권력의 경계 위에 선 트랜스휴먼. 아포리아 너머의 아포리즘. / e-mail: rozakim@o.cnu.ac.kr",
+			"url": "https://t.co/OFOcOKfxd4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OFOcOKfxd4",
+							"expanded_url": "https://brunch.co.kr/@zappa",
+							"display_url": "brunch.co.kr/@zappa",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 452,
+			"friends_count": 415,
+			"listed_count": 1,
+			"created_at": "Tue Mar 03 12:05:01 +0000 2020",
+			"favourites_count": 2701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263902085692551168/K4W3xP4C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263902085692551168/K4W3xP4C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1234811988271722497/1590167287",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "(지금 보니까 트위터에서 포도 달고 있는 애들도 똑같네"
+	},
+	{
+		"created_at": "Fri May 29 15:32:34 +0000 2020",
+		"id": 1265865669456695300,
+		"id_str": "1266391994240126976",
+		"full_text": "내가 무엇을 왜 조롱했나, 나를 화나게 한 것이 무엇인가를 생각하려면, 사회적 모순을 들추어야 하기 때문이다. 누구도 불안의 시대에 내던져지고 싶지 않기에, 그렇다는 사실을 필사적으로 부정할 수밖에.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1265865596844925000,
+		"in_reply_to_status_id_str": "1265865596844924934",
+		"in_reply_to_user_id": 1234811988271722500,
+		"in_reply_to_user_id_str": "1234811988271722497",
+		"in_reply_to_screen_name": "post_spectacle",
+		"user": {
+			"id": 1234811988271722500,
+			"id_str": "1234811988271722497",
+			"name": "rösaliachen",
+			"screen_name": "post_spectacle",
+			"location": "Cinémathèque, Daydream Nation",
+			"description": "노이즈 록-현장음악 창작집단 '파업전야(Streiknacht)'에서 가사와 곡을 쓰고 發話했던 사람. 변증법을 도구로 미적인 것을 감각하는 대중문화애호가. 몸을 둘러싼 권력의 경계 위에 선 트랜스휴먼. 아포리아 너머의 아포리즘. / e-mail: rozakim@o.cnu.ac.kr",
+			"url": "https://t.co/OFOcOKfxd4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OFOcOKfxd4",
+							"expanded_url": "https://brunch.co.kr/@zappa",
+							"display_url": "brunch.co.kr/@zappa",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 452,
+			"friends_count": 415,
+			"listed_count": 1,
+			"created_at": "Tue Mar 03 12:05:01 +0000 2020",
+			"favourites_count": 2701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263902085692551168/K4W3xP4C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263902085692551168/K4W3xP4C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1234811988271722497/1590167287",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "내가 무엇을 왜 조롱했나, 나를 화나게 한 것이 무엇인가를 생각하려면, 사회적 모순을 들추어야 하기 때문이다. 누구도 불안의 시대에 내던져지고 싶지 않기에, 그렇다는 사실을 필사적으로 부정할 수밖에."
+	},
+	{
+		"created_at": "Fri May 29 15:32:26 +0000 2020",
+		"id": 1265865596844925000,
+		"id_str": "1266391962568912897",
+		"full_text": "에타의 익명성 뒤에서 이러한 조롱들을 일종의 게임처럼 즐기는 이들은, 이면의 모순들을 현실에서의 정치한 전선으로 마주하고 싶어하지 않는다. 내 주변을 둘러싼 세계가, 별 탈 없이 원만하게 굴러가기를 바란다. 그래서 조롱에 대한 해명을 요구받으면 뒤로 숨어버린다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1265865482487214000,
+		"in_reply_to_status_id_str": "1265865482487214080",
+		"in_reply_to_user_id": 1234811988271722500,
+		"in_reply_to_user_id_str": "1234811988271722497",
+		"in_reply_to_screen_name": "post_spectacle",
+		"user": {
+			"id": 1234811988271722500,
+			"id_str": "1234811988271722497",
+			"name": "rösaliachen",
+			"screen_name": "post_spectacle",
+			"location": "Cinémathèque, Daydream Nation",
+			"description": "노이즈 록-현장음악 창작집단 '파업전야(Streiknacht)'에서 가사와 곡을 쓰고 發話했던 사람. 변증법을 도구로 미적인 것을 감각하는 대중문화애호가. 몸을 둘러싼 권력의 경계 위에 선 트랜스휴먼. 아포리아 너머의 아포리즘. / e-mail: rozakim@o.cnu.ac.kr",
+			"url": "https://t.co/OFOcOKfxd4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OFOcOKfxd4",
+							"expanded_url": "https://brunch.co.kr/@zappa",
+							"display_url": "brunch.co.kr/@zappa",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 452,
+			"friends_count": 415,
+			"listed_count": 1,
+			"created_at": "Tue Mar 03 12:05:01 +0000 2020",
+			"favourites_count": 2701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263902085692551168/K4W3xP4C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263902085692551168/K4W3xP4C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1234811988271722497/1590167287",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "에타의 익명성 뒤에서 이러한 조롱들을 일종의 게임처럼 즐기는 이들은, 이면의 모순들을 현실에서의 정치한 전선으로 마주하고 싶어하지 않는다. 내 주변을 둘러싼 세계가, 별 탈 없이 원만하게 굴러가기를 바란다. 그래서 조롱에 대한 해명을 요구받으면 뒤로 숨어버린다."
+	},
+	{
+		"created_at": "Fri May 29 15:32:20 +0000 2020",
+		"id": 1265865482487214000,
+		"id_str": "1266391936937549830",
+		"full_text": "그리고 이러한 화법 속에서도 역시, 그들은 스스로가 진짜로 원하는 게 무엇인지는 여전히 말해주지 않는다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1265865368943263700,
+		"in_reply_to_status_id_str": "1265865368943263744",
+		"in_reply_to_user_id": 1234811988271722500,
+		"in_reply_to_user_id_str": "1234811988271722497",
+		"in_reply_to_screen_name": "post_spectacle",
+		"user": {
+			"id": 1234811988271722500,
+			"id_str": "1234811988271722497",
+			"name": "rösaliachen",
+			"screen_name": "post_spectacle",
+			"location": "Cinémathèque, Daydream Nation",
+			"description": "노이즈 록-현장음악 창작집단 '파업전야(Streiknacht)'에서 가사와 곡을 쓰고 發話했던 사람. 변증법을 도구로 미적인 것을 감각하는 대중문화애호가. 몸을 둘러싼 권력의 경계 위에 선 트랜스휴먼. 아포리아 너머의 아포리즘. / e-mail: rozakim@o.cnu.ac.kr",
+			"url": "https://t.co/OFOcOKfxd4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OFOcOKfxd4",
+							"expanded_url": "https://brunch.co.kr/@zappa",
+							"display_url": "brunch.co.kr/@zappa",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 452,
+			"friends_count": 415,
+			"listed_count": 1,
+			"created_at": "Tue Mar 03 12:05:01 +0000 2020",
+			"favourites_count": 2701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263902085692551168/K4W3xP4C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263902085692551168/K4W3xP4C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1234811988271722497/1590167287",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그리고 이러한 화법 속에서도 역시, 그들은 스스로가 진짜로 원하는 게 무엇인지는 여전히 말해주지 않는다."
+	},
+	{
+		"created_at": "Fri May 29 15:32:17 +0000 2020",
+		"id": 1265865368943263700,
+		"id_str": "1266391923247341570",
+		"full_text": "‘그남’들의 삶은 체제의 여러 정치경제적 모순들로 인해 여전히 팍팍할 것인데. 이게 문제 해결에 무슨 도움이 되나? 이런 의미에서, 우리는 소위 “안티-페미니즘”을 악질적 정체성 정치의 전형으로 꼽을 수 있을지 모른다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1265865264547029000,
+		"in_reply_to_status_id_str": "1265865264547028993",
+		"in_reply_to_user_id": 1234811988271722500,
+		"in_reply_to_user_id_str": "1234811988271722497",
+		"in_reply_to_screen_name": "post_spectacle",
+		"user": {
+			"id": 1234811988271722500,
+			"id_str": "1234811988271722497",
+			"name": "rösaliachen",
+			"screen_name": "post_spectacle",
+			"location": "Cinémathèque, Daydream Nation",
+			"description": "노이즈 록-현장음악 창작집단 '파업전야(Streiknacht)'에서 가사와 곡을 쓰고 發話했던 사람. 변증법을 도구로 미적인 것을 감각하는 대중문화애호가. 몸을 둘러싼 권력의 경계 위에 선 트랜스휴먼. 아포리아 너머의 아포리즘. / e-mail: rozakim@o.cnu.ac.kr",
+			"url": "https://t.co/OFOcOKfxd4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OFOcOKfxd4",
+							"expanded_url": "https://brunch.co.kr/@zappa",
+							"display_url": "brunch.co.kr/@zappa",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 452,
+			"friends_count": 415,
+			"listed_count": 1,
+			"created_at": "Tue Mar 03 12:05:01 +0000 2020",
+			"favourites_count": 2701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263902085692551168/K4W3xP4C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263902085692551168/K4W3xP4C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1234811988271722497/1590167287",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "‘그남’들의 삶은 체제의 여러 정치경제적 모순들로 인해 여전히 팍팍할 것인데. 이게 문제 해결에 무슨 도움이 되나? 이런 의미에서, 우리는 소위 “안티-페미니즘”을 악질적 정체성 정치의 전형으로 꼽을 수 있을지 모른다."
+	},
+	{
+		"created_at": "Fri May 29 15:32:11 +0000 2020",
+		"id": 1265865264547029000,
+		"id_str": "1266391899004264449",
+		"full_text": "자기들의 정동을 만만히 분출할 수 있는 이들로부터 억압의 원인을 찾는 사고방식이, 화를 풀고 ‘정신승리’하는 데에 도움을 줄 지는 모른다. 그런데 오늘 당장 그런 방식으로 분노를 해소한다고 해도, 당장 내일 아침이 돌아오면",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1265865141528047600,
+		"in_reply_to_status_id_str": "1265865141528047617",
+		"in_reply_to_user_id": 1234811988271722500,
+		"in_reply_to_user_id_str": "1234811988271722497",
+		"in_reply_to_screen_name": "post_spectacle",
+		"user": {
+			"id": 1234811988271722500,
+			"id_str": "1234811988271722497",
+			"name": "rösaliachen",
+			"screen_name": "post_spectacle",
+			"location": "Cinémathèque, Daydream Nation",
+			"description": "노이즈 록-현장음악 창작집단 '파업전야(Streiknacht)'에서 가사와 곡을 쓰고 發話했던 사람. 변증법을 도구로 미적인 것을 감각하는 대중문화애호가. 몸을 둘러싼 권력의 경계 위에 선 트랜스휴먼. 아포리아 너머의 아포리즘. / e-mail: rozakim@o.cnu.ac.kr",
+			"url": "https://t.co/OFOcOKfxd4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OFOcOKfxd4",
+							"expanded_url": "https://brunch.co.kr/@zappa",
+							"display_url": "brunch.co.kr/@zappa",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 452,
+			"friends_count": 415,
+			"listed_count": 1,
+			"created_at": "Tue Mar 03 12:05:01 +0000 2020",
+			"favourites_count": 2701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263902085692551168/K4W3xP4C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263902085692551168/K4W3xP4C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1234811988271722497/1590167287",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "자기들의 정동을 만만히 분출할 수 있는 이들로부터 억압의 원인을 찾는 사고방식이, 화를 풀고 ‘정신승리’하는 데에 도움을 줄 지는 모른다. 그런데 오늘 당장 그런 방식으로 분노를 해소한다고 해도, 당장 내일 아침이 돌아오면"
+	},
+	{
+		"created_at": "Fri May 29 15:32:08 +0000 2020",
+		"id": 1265865141528047600,
+		"id_str": "1266391883367936000",
+		"full_text": "“페미니즘은 남자를 싫어하나요?” 와 같은 질문은 그나마 솔직한 편이다. 적어도 정동이 어떠한 억압 상태에서 자기의 욕망이 좌절되는 지점으로부터 구성된다는 점은 인지하고 있는 셈이기도 하다. 하지만 이들이 악질적인 허위의식에 사로잡혀 있다는 사실은 변하지 않는다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1265864707262447600,
+		"in_reply_to_status_id_str": "1265864707262447621",
+		"in_reply_to_user_id": 1234811988271722500,
+		"in_reply_to_user_id_str": "1234811988271722497",
+		"in_reply_to_screen_name": "post_spectacle",
+		"user": {
+			"id": 1234811988271722500,
+			"id_str": "1234811988271722497",
+			"name": "rösaliachen",
+			"screen_name": "post_spectacle",
+			"location": "Cinémathèque, Daydream Nation",
+			"description": "노이즈 록-현장음악 창작집단 '파업전야(Streiknacht)'에서 가사와 곡을 쓰고 發話했던 사람. 변증법을 도구로 미적인 것을 감각하는 대중문화애호가. 몸을 둘러싼 권력의 경계 위에 선 트랜스휴먼. 아포리아 너머의 아포리즘. / e-mail: rozakim@o.cnu.ac.kr",
+			"url": "https://t.co/OFOcOKfxd4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OFOcOKfxd4",
+							"expanded_url": "https://brunch.co.kr/@zappa",
+							"display_url": "brunch.co.kr/@zappa",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 452,
+			"friends_count": 415,
+			"listed_count": 1,
+			"created_at": "Tue Mar 03 12:05:01 +0000 2020",
+			"favourites_count": 2701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263902085692551168/K4W3xP4C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263902085692551168/K4W3xP4C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1234811988271722497/1590167287",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "“페미니즘은 남자를 싫어하나요?” 와 같은 질문은 그나마 솔직한 편이다. 적어도 정동이 어떠한 억압 상태에서 자기의 욕망이 좌절되는 지점으로부터 구성된다는 점은 인지하고 있는 셈이기도 하다. 하지만 이들이 악질적인 허위의식에 사로잡혀 있다는 사실은 변하지 않는다."
+	},
+	{
+		"created_at": "Fri May 29 15:32:04 +0000 2020",
+		"id": 1265864707262447600,
+		"id_str": "1266391869556023296",
+		"full_text": "“ㅓㅜㅑ”, “ㅋㅋㅋㅋ” 따위의 일차원적 조롱을 늘어놓는 것 뿐인데, 그래서 네가 원하는 것이 뭐냐고 물으면 모호한 변명을 꺼내며 도망친다. “저는 ^그^ 페미니즘이 싫은 건데요... ^그^ 페미니즘이 뭔지는 이야기하기 싫어요!” 같은 식. 이들은 자기의 불만조차 언어화하지 못하고 있는 셈이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1265864634126307300,
+		"in_reply_to_status_id_str": "1265864634126307331",
+		"in_reply_to_user_id": 1234811988271722500,
+		"in_reply_to_user_id_str": "1234811988271722497",
+		"in_reply_to_screen_name": "post_spectacle",
+		"user": {
+			"id": 1234811988271722500,
+			"id_str": "1234811988271722497",
+			"name": "rösaliachen",
+			"screen_name": "post_spectacle",
+			"location": "Cinémathèque, Daydream Nation",
+			"description": "노이즈 록-현장음악 창작집단 '파업전야(Streiknacht)'에서 가사와 곡을 쓰고 發話했던 사람. 변증법을 도구로 미적인 것을 감각하는 대중문화애호가. 몸을 둘러싼 권력의 경계 위에 선 트랜스휴먼. 아포리아 너머의 아포리즘. / e-mail: rozakim@o.cnu.ac.kr",
+			"url": "https://t.co/OFOcOKfxd4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OFOcOKfxd4",
+							"expanded_url": "https://brunch.co.kr/@zappa",
+							"display_url": "brunch.co.kr/@zappa",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 452,
+			"friends_count": 415,
+			"listed_count": 1,
+			"created_at": "Tue Mar 03 12:05:01 +0000 2020",
+			"favourites_count": 2701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263902085692551168/K4W3xP4C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263902085692551168/K4W3xP4C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1234811988271722497/1590167287",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 152,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "“ㅓㅜㅑ”, “ㅋㅋㅋㅋ” 따위의 일차원적 조롱을 늘어놓는 것 뿐인데, 그래서 네가 원하는 것이 뭐냐고 물으면 모호한 변명을 꺼내며 도망친다. “저는 ^그^ 페미니즘이 싫은 건데요... ^그^ 페미니즘이 뭔지는 이야기하기 싫어요!” 같은 식. 이들은 자기의 불만조차 언어화하지 못하고 있는 셈이다."
+	},
+	{
 		"created_at": "Fri May 29 06:45:40 +0000 2020",
 		"id": 1266259395614109700,
 		"id_str": "1266259395614109696",
