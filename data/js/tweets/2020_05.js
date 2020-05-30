@@ -1,6 +1,567 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 30 10:43:42 +0000 2020",
+		"id": 1266681686135193600,
+		"id_str": "1266681686135193606",
+		"full_text": "인간의 기본 기작이 그렇지만, 스낵컬처하에서 수용자의 가성비적 면모가 극대화되며 알고리즘과 상호작용하는 것이 원인이기도 하고요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1266679370887786500,
+		"in_reply_to_status_id_str": "1266679370887786497",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 84,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12015,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "인간의 기본 기작이 그렇지만, 스낵컬처하에서 수용자의 가성비적 면모가 극대화되며 알고리즘과 상호작용하는 것이 원인이기도 하고요."
+	},
+	{
+		"created_at": "Sat May 30 10:34:30 +0000 2020",
+		"id": 1266679370887786500,
+		"id_str": "1266679370887786497",
+		"full_text": "추천이 막는다기보단 공약수적인 축소지향의 커뮤니케이션, 추천 알고리즘의 한계.\nhttps://t.co/mWl4i4XM25",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mWl4i4XM25",
+					"expanded_url": "https://twitter.com/djuna01/status/1266668034288050176?s=19",
+					"display_url": "twitter.com/djuna01/status…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1266678629057978400,
+		"in_reply_to_status_id_str": "1266678629057978368",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 84,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12015,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1266668034288050200,
+		"quoted_status_id_str": "1266668034288050176",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mWl4i4XM25",
+			"expanded": "https://twitter.com/djuna01/status/1266668034288050176?s=19",
+			"display": "twitter.com/djuna01/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 30 09:49:27 +0000 2020",
+			"id": 1266668034288050200,
+			"id_str": "1266668034288050176",
+			"full_text": "지금도 유튜브에 들어가면 갑갑한데, 저는 이 단순한 알고리듬이 생각하는 것보다 관심영역이 넓으니까요. 분명 유튜브에 있는 더 다양한 걸 보고 싶은데 추천이 막죠.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				90
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1266665682868945000,
+			"in_reply_to_status_id_str": "1266665682868944898",
+			"in_reply_to_user_id": 151807455,
+			"in_reply_to_user_id_str": "151807455",
+			"in_reply_to_screen_name": "djuna01",
+			"user": {
+				"id": 151807455,
+				"id_str": "151807455",
+				"name": "djuna",
+				"screen_name": "djuna01",
+				"location": "South Korea",
+				"description": "[캘리번], [그깟 공놀이], [장르 세계를 떠도는 듀나의 탐사기], [왕의 넋], [구부전], [두 번째 유모], [아르카디아에도 나는 있었다], [네 몸 속에 웅크리고 있는 것], [바쁜 꿀벌들의 나라], [우리 미나리 좀 챙겨주세요], [대본 밖에서], [여자 주인공만 모른다]",
+				"url": "https://t.co/hO1XEzYVfJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hO1XEzYVfJ",
+								"expanded_url": "http://djuna.kr",
+								"display_url": "djuna.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 78279,
+				"friends_count": 220,
+				"listed_count": 538,
+				"created_at": "Fri Jun 04 08:44:20 +0000 2010",
+				"favourites_count": 1043,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 332777,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F2F5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/151807455/1570884283",
+				"profile_link_color": "464A5C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FB274A",
+				"profile_text_color": "DB6955",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 46,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "추천이 막는다기보단 공약수적인 축소지향의 커뮤니케이션, 추천 알고리즘의 한계.\nhttps://t.co/mWl4i4XM25"
+	},
+	{
+		"created_at": "Sat May 30 10:31:51 +0000 2020",
+		"id": 1266668034288050200,
+		"id_str": "1266678705482420224",
+		"full_text": "지금도 유튜브에 들어가면 갑갑한데, 저는 이 단순한 알고리듬이 생각하는 것보다 관심영역이 넓으니까요. 분명 유튜브에 있는 더 다양한 걸 보고 싶은데 추천이 막죠.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1266665682868945000,
+		"in_reply_to_status_id_str": "1266665682868944898",
+		"in_reply_to_user_id": 151807455,
+		"in_reply_to_user_id_str": "151807455",
+		"in_reply_to_screen_name": "djuna01",
+		"user": {
+			"id": 151807455,
+			"id_str": "151807455",
+			"name": "djuna",
+			"screen_name": "djuna01",
+			"location": "South Korea",
+			"description": "[캘리번], [그깟 공놀이], [장르 세계를 떠도는 듀나의 탐사기], [왕의 넋], [구부전], [두 번째 유모], [아르카디아에도 나는 있었다], [네 몸 속에 웅크리고 있는 것], [바쁜 꿀벌들의 나라], [우리 미나리 좀 챙겨주세요], [대본 밖에서], [여자 주인공만 모른다]",
+			"url": "https://t.co/hO1XEzYVfJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hO1XEzYVfJ",
+							"expanded_url": "http://djuna.kr",
+							"display_url": "djuna.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78279,
+			"friends_count": 220,
+			"listed_count": 538,
+			"created_at": "Fri Jun 04 08:44:20 +0000 2010",
+			"favourites_count": 1043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 332777,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F2F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/151807455/1570884283",
+			"profile_link_color": "464A5C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FB274A",
+			"profile_text_color": "DB6955",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "지금도 유튜브에 들어가면 갑갑한데, 저는 이 단순한 알고리듬이 생각하는 것보다 관심영역이 넓으니까요. 분명 유튜브에 있는 더 다양한 걸 보고 싶은데 추천이 막죠."
+	},
+	{
+		"created_at": "Sat May 30 10:31:50 +0000 2020",
+		"id": 1266665682868945000,
+		"id_str": "1266678698045915136",
+		"full_text": "정보화 세계가 되면 넓고 다양한 정보를 접하게 될 줄 알았는데, 이 세계는 좁은 영역의 사람들이 평생 퍼먹을 비슷비슷한 떡밥을 무한히 제공해주는 곳이기도 하단 말이죠.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1266664709245132800,
+		"in_reply_to_status_id_str": "1266664709245132800",
+		"in_reply_to_user_id": 151807455,
+		"in_reply_to_user_id_str": "151807455",
+		"in_reply_to_screen_name": "djuna01",
+		"user": {
+			"id": 151807455,
+			"id_str": "151807455",
+			"name": "djuna",
+			"screen_name": "djuna01",
+			"location": "South Korea",
+			"description": "[캘리번], [그깟 공놀이], [장르 세계를 떠도는 듀나의 탐사기], [왕의 넋], [구부전], [두 번째 유모], [아르카디아에도 나는 있었다], [네 몸 속에 웅크리고 있는 것], [바쁜 꿀벌들의 나라], [우리 미나리 좀 챙겨주세요], [대본 밖에서], [여자 주인공만 모른다]",
+			"url": "https://t.co/hO1XEzYVfJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hO1XEzYVfJ",
+							"expanded_url": "http://djuna.kr",
+							"display_url": "djuna.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78279,
+			"friends_count": 220,
+			"listed_count": 538,
+			"created_at": "Fri Jun 04 08:44:20 +0000 2010",
+			"favourites_count": 1043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 332777,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F2F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/151807455/1570884283",
+			"profile_link_color": "464A5C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FB274A",
+			"profile_text_color": "DB6955",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 117,
+		"favorite_count": 77,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "정보화 세계가 되면 넓고 다양한 정보를 접하게 될 줄 알았는데, 이 세계는 좁은 영역의 사람들이 평생 퍼먹을 비슷비슷한 떡밥을 무한히 제공해주는 곳이기도 하단 말이죠."
+	},
+	{
+		"created_at": "Sat May 30 10:31:46 +0000 2020",
+		"id": 1266664709245132800,
+		"id_str": "1266678681658732551",
+		"full_text": "모든 게 유튜브 추천처럼 흘러가요. 클립 몇 개를 보면 그걸 바탕으로 비슷한 클립이 추천으로 몇 개 뜨고 이걸 몇 번 주고 받다보면 유튜브가 짐작하는 취향 속에 갇히게 되지.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 151807455,
+			"id_str": "151807455",
+			"name": "djuna",
+			"screen_name": "djuna01",
+			"location": "South Korea",
+			"description": "[캘리번], [그깟 공놀이], [장르 세계를 떠도는 듀나의 탐사기], [왕의 넋], [구부전], [두 번째 유모], [아르카디아에도 나는 있었다], [네 몸 속에 웅크리고 있는 것], [바쁜 꿀벌들의 나라], [우리 미나리 좀 챙겨주세요], [대본 밖에서], [여자 주인공만 모른다]",
+			"url": "https://t.co/hO1XEzYVfJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hO1XEzYVfJ",
+							"expanded_url": "http://djuna.kr",
+							"display_url": "djuna.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78279,
+			"friends_count": 220,
+			"listed_count": 538,
+			"created_at": "Fri Jun 04 08:44:20 +0000 2010",
+			"favourites_count": 1043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 332777,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F2F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/151807455/1570884283",
+			"profile_link_color": "464A5C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FB274A",
+			"profile_text_color": "DB6955",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 152,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "모든 게 유튜브 추천처럼 흘러가요. 클립 몇 개를 보면 그걸 바탕으로 비슷한 클립이 추천으로 몇 개 뜨고 이걸 몇 번 주고 받다보면 유튜브가 짐작하는 취향 속에 갇히게 되지."
+	},
+	{
 		"created_at": "Sat May 30 06:00:11 +0000 2020",
 		"id": 1265907851282677800,
 		"id_str": "1266610338104934402",
