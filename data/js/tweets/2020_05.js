@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 30 13:10:44 +0000 2020",
+		"id": 1266673690185363500,
+		"id_str": "1266718689878933504",
+		"full_text": "아오이 츠키네 그는 대체 얼마나 오지는 신청서를 썼길래 트돌커로 n커를 뛰었단 말인가 와중에 전신은 다 새로 판듯\n본인 자캐 장르화를 노린 큰그림인지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1148204124783042600,
+			"id_str": "1148204124783042560",
+			"name": "호시 오너 🌟 도련",
+			"screen_name": "_pansy_0415_S2",
+			"location": "이별은 블블 | 무멘팔 구독간주",
+			"description": "인스타 doryeon_s2 / 1차 괴조 로오히 앺라 플챤 / 인장헨님그림",
+			"url": "https://t.co/DBggqgObWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DBggqgObWN",
+							"expanded_url": "https://open.kakao.com/o/snXDfz0",
+							"display_url": "open.kakao.com/o/snXDfz0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 289,
+			"friends_count": 279,
+			"listed_count": 4,
+			"created_at": "Mon Jul 08 12:16:10 +0000 2019",
+			"favourites_count": 11614,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1266267557037608960/FNlfz4C5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266267557037608960/FNlfz4C5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1148204124783042560/1586233870",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아오이 츠키네 그는 대체 얼마나 오지는 신청서를 썼길래 트돌커로 n커를 뛰었단 말인가 와중에 전신은 다 새로 판듯\n본인 자캐 장르화를 노린 큰그림인지"
+	},
+	{
+		"created_at": "Sat May 30 13:10:40 +0000 2020",
+		"id": 1266689825496641500,
+		"id_str": "1266718672522862592",
+		"full_text": "편리하게 구어체로만 지엽적 관계와 세계관을 구성할 수 있어서 트위터란 매체 위에 캐릭터 역할극이 (가)건설되기 쉽긴한데 그 바람에 같은 캐릭터가 여러 세계관에 동시에 소속된단 이유로 싸불을 한다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1266689410759708700,
+		"in_reply_to_status_id_str": "1266689410759708672",
+		"in_reply_to_user_id": 1072303479656345600,
+		"in_reply_to_user_id_str": "1072303479656345600",
+		"in_reply_to_screen_name": "StrangeAnecdote",
+		"user": {
+			"id": 1072303479656345600,
+			"id_str": "1072303479656345600",
+			"name": "기이한 만타레이",
+			"screen_name": "StrangeAnecdote",
+			"location": "",
+			"description": "느리게 헤엄쳐 내일로 가오... 리.",
+			"url": "https://t.co/BOigidXlpj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BOigidXlpj",
+							"expanded_url": "https://open.kakao.com/o/s2W5Yl7",
+							"display_url": "open.kakao.com/o/s2W5Yl7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77,
+			"friends_count": 307,
+			"listed_count": 0,
+			"created_at": "Tue Dec 11 01:34:06 +0000 2018",
+			"favourites_count": 15939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11083,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1073204754472267777/WdzPadXl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073204754472267777/WdzPadXl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1072303479656345600/1544770110",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "편리하게 구어체로만 지엽적 관계와 세계관을 구성할 수 있어서 트위터란 매체 위에 캐릭터 역할극이 (가)건설되기 쉽긴한데 그 바람에 같은 캐릭터가 여러 세계관에 동시에 소속된단 이유로 싸불을 한다"
+	},
+	{
 		"created_at": "Sat May 30 12:09:48 +0000 2020",
 		"id": 1266703352273858600,
 		"id_str": "1266703352273858560",
