@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 09 00:25:26 +0000 2020",
+		"id": 1270147188589392000,
+		"id_str": "1270149972378284032",
+		"full_text": "#BRIC [바이오토픽] 까마귀가 영리한 건, 사람처럼 유년기가 길기 때문 https://t.co/Saniyiqp4j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BRIC",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Saniyiqp4j",
+					"expanded_url": "https://www.ibric.org/myboard/read.php?Board=news&id=318052",
+					"display_url": "ibric.org/myboard/read.p…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 185941794,
+			"id_str": "185941794",
+			"name": "BRIC",
+			"screen_name": "BioBRIC",
+			"location": "korea",
+			"description": "생물학연구정보센터(이하 BRIC, 브릭)는 국내・외 바이오관련 전문정보들을 종합적・체계적으로 수집, 가공, 정리하여 데이터베이스화 하고 인터넷을 통해 연구자들에게 제공",
+			"url": "http://t.co/86QpnHrT38",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/86QpnHrT38",
+							"expanded_url": "http://www.ibric.org/",
+							"display_url": "ibric.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 810,
+			"friends_count": 142,
+			"listed_count": 32,
+			"created_at": "Thu Sep 02 05:42:20 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225597768527298560/5noyW1a2_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225597768527298560/5noyW1a2_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/185941794/1581040290",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BRIC [바이오토픽] 까마귀가 영리한 건, 사람처럼 유년기가 길기 때문 https://t.co/Saniyiqp4j"
+	},
+	{
 		"created_at": "Thu Jun 04 19:50:17 +0000 2020",
 		"id": 1268631178744979500,
 		"id_str": "1268631178744979456",
