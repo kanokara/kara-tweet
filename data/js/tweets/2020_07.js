@@ -1,6 +1,119 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 23 17:50:09 +0000 2020",
+		"id": 1285915203964555300,
+		"id_str": "1286357950982795266",
+		"full_text": "유튜브 영상을 하나 봤는데, 어떤 일을 미루게 되는 원인은 스트레스를 피하기 위한 습관의 일환이라고 한다. 이런 상태를 알아차렸을 때 5부터 1까지 거꾸로 세면 전두엽이 활상화되어 미루기습관으로부터 스스로를 분리할 수 있고, 곧바로 미루던 일을 5분동안 유지하면 통제감을 얻을 수 있다고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 837663935587205100,
+			"id_str": "837663935587205120",
+			"name": "빔바",
+			"screen_name": "vimva1",
+			"location": "대한민국",
+			"description": "병원에서 정신건강 임상심리사, 임상심리 전문가 수련 중/무해한 사람이 되고 싶습니다.\n\n임상심리 슬쩍 들춰보기\n팟빵: https://t.co/Q6b1o95QzK\n네이버 오디오 클립: https://t.co/nVQq3h8Lov",
+			"url": "https://t.co/ug0ZTqvqnq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ug0ZTqvqnq",
+							"expanded_url": "https://www.youtube.com/channel/UCgVcRMRPovHC5_KABflHJdQ?view_as=subscriber",
+							"display_url": "youtube.com/channel/UCgVcR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Q6b1o95QzK",
+							"expanded_url": "http://podbbang.com/ch/12911",
+							"display_url": "podbbang.com/ch/12911",
+							"indices": [
+								66,
+								89
+							]
+						},
+						{
+							"url": "https://t.co/nVQq3h8Lov",
+							"expanded_url": "http://audioclip.naver.com/channels/4796",
+							"display_url": "audioclip.naver.com/channels/4796",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 437,
+			"friends_count": 294,
+			"listed_count": 1,
+			"created_at": "Fri Mar 03 14:00:20 +0000 2017",
+			"favourites_count": 1830,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/847101208078692353/yDAIfET1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/847101208078692353/yDAIfET1_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24788,
+		"favorite_count": 12899,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "유튜브 영상을 하나 봤는데, 어떤 일을 미루게 되는 원인은 스트레스를 피하기 위한 습관의 일환이라고 한다. 이런 상태를 알아차렸을 때 5부터 1까지 거꾸로 세면 전두엽이 활상화되어 미루기습관으로부터 스스로를 분리할 수 있고, 곧바로 미루던 일을 5분동안 유지하면 통제감을 얻을 수 있다고."
+	},
+	{
 		"created_at": "Fri Jul 03 04:13:17 +0000 2020",
 		"id": 1278904621855957000,
 		"id_str": "1278904621855956992",
