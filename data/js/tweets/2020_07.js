@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 31 23:46:42 +0000 2020",
+		"id": 1286078627738574800,
+		"id_str": "1289346783684915201",
+		"full_text": "사과 하는 방법도 배워야 하지만 사과 받는 방법도 좀 배울 필요가 있다. 사과하는 사람에게 끝까지 가르치고 굴욕을 선사. 심지어 자기가 당사자도 어니면서 왜 저러는건지. 트위터 보고 있노라면 아무 죄도 짓지 않은 사람들이 모인 배심원단같은 기분을 느낄때가 많음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 800470563550433300,
+			"id_str": "800470563550433281",
+			"name": "니나히 ninahi",
+			"screen_name": "ninahi_official",
+			"location": "대한민국 강남구",
+			"description": "우리 곁에서 만져지고 보여지는 것들을 더 쓸모있고 아름답게 만들기 위하여 애쓰는 곳, 니나히의 공식 트위터 계정입니다. 코팅태양계뱃지 판매 폼 https://t.co/sKZXw60vW9",
+			"url": "https://t.co/5WWPyHRpqk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5WWPyHRpqk",
+							"expanded_url": "http://www.ninahi.co.kr",
+							"display_url": "ninahi.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/sKZXw60vW9",
+							"expanded_url": "http://naver.me/GkO7VWNJ",
+							"display_url": "naver.me/GkO7VWNJ",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7237,
+			"friends_count": 25,
+			"listed_count": 15,
+			"created_at": "Sun Nov 20 22:47:09 +0000 2016",
+			"favourites_count": 550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093840397799813120/ohO3HWuM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093840397799813120/ohO3HWuM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/800470563550433281/1594744931",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 956,
+		"favorite_count": 585,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "사과 하는 방법도 배워야 하지만 사과 받는 방법도 좀 배울 필요가 있다. 사과하는 사람에게 끝까지 가르치고 굴욕을 선사. 심지어 자기가 당사자도 어니면서 왜 저러는건지. 트위터 보고 있노라면 아무 죄도 짓지 않은 사람들이 모인 배심원단같은 기분을 느낄때가 많음."
+	},
+	{
 		"created_at": "Fri Jul 31 01:41:09 +0000 2020",
 		"id": 1289013194975899600,
 		"id_str": "1289013194975899649",
