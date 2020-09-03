@@ -1,6 +1,1025 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 03 13:47:20 +0000 2020",
+		"id": 1301517135924011000,
+		"id_str": "1301517135924011008",
+		"full_text": "문득 생각해보니 '국가의 어른'이란 게 한국에는 없네요. 영연방에서야 여왕이 그 역할을 수행하는데... 국가원로회라도 존치시켰어야 하나(...)\nhttps://t.co/2XGrB9SpC9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2XGrB9SpC9",
+					"expanded_url": "https://twitter.com/nannyoun/status/1252153794722320386",
+					"display_url": "twitter.com/nannyoun/statu…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 84,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1252153794722320400,
+		"quoted_status_id_str": "1252153794722320386",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2XGrB9SpC9",
+			"expanded": "https://twitter.com/nannyoun/status/1252153794722320386",
+			"display": "twitter.com/nannyoun/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 20 08:35:03 +0000 2020",
+			"id": 1252153794722320400,
+			"id_str": "1252153794722320386",
+			"full_text": "요 근래 문득 그런 생각이 들었다. 할아버지, 할머니급의 늙은이가 가족과 친족 조직을 유지하는 핵심이구나 하는. 대충 사촌 정도 범주까지는 어릴 때부터 같이 놀고 자라는 것이 조부모의 역할 덕분이구나 하는 걸 깨달음.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				121
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1252153297730855000,
+			"in_reply_to_status_id_str": "1252153297730854913",
+			"in_reply_to_user_id": 59380957,
+			"in_reply_to_user_id_str": "59380957",
+			"in_reply_to_screen_name": "nannyoun",
+			"user": {
+				"id": 59380957,
+				"id_str": "59380957",
+				"name": "적츄",
+				"screen_name": "nannyoun",
+				"location": "",
+				"description": "수다, 툴툴, 귀차니즘",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2225,
+				"friends_count": 1122,
+				"listed_count": 26,
+				"created_at": "Thu Jul 23 06:19:13 +0000 2009",
+				"favourites_count": 1444,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 58468,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1074937029492764673/6eJ7q2E-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074937029492764673/6eJ7q2E-_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "문득 생각해보니 '국가의 어른'이란 게 한국에는 없네요. 영연방에서야 여왕이 그 역할을 수행하는데... 국가원로회라도 존치시켰어야 하나(...)\nhttps://t.co/2XGrB9SpC9"
+	},
+	{
+		"created_at": "Thu Sep 03 13:36:46 +0000 2020",
+		"id": 1195710415516225500,
+		"id_str": "1301514475514724352",
+		"full_text": "홈스쿨링도 너무 긴 기간이 아니라면 고려할 수 있다. 대략 이런 것들이 성공적인 자녀의 인생을 위해서 실제로 부모가 해야 할 일들이다. 양육 assumption에서 말하는 것들이 아니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1195710412999684000,
+		"in_reply_to_status_id_str": "1195710412999684096",
+		"in_reply_to_user_id": 124100465,
+		"in_reply_to_user_id_str": "124100465",
+		"in_reply_to_screen_name": "routitz",
+		"user": {
+			"id": 124100465,
+			"id_str": "124100465",
+			"name": "Normal One",
+			"screen_name": "routitz",
+			"location": "서울",
+			"description": "별 일 없이 삽니다.\r\nhttp://t.co/gPkRKXHaDk",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/gPkRKXHaDk",
+							"expanded_url": "http://ask.fm/routitz",
+							"display_url": "ask.fm/routitz",
+							"indices": [
+								13,
+								35
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3047,
+			"friends_count": 249,
+			"listed_count": 68,
+			"created_at": "Thu Mar 18 07:36:33 +0000 2010",
+			"favourites_count": 798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 113741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228104040409526272/av_oEoE4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228104040409526272/av_oEoE4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124100465/1581614566",
+			"profile_link_color": "674846",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "홈스쿨링도 너무 긴 기간이 아니라면 고려할 수 있다. 대략 이런 것들이 성공적인 자녀의 인생을 위해서 실제로 부모가 해야 할 일들이다. 양육 assumption에서 말하는 것들이 아니다."
+	},
+	{
+		"created_at": "Thu Sep 03 13:36:44 +0000 2020",
+		"id": 1195710412999684000,
+		"id_str": "1301514468086575104",
+		"full_text": "여건이 허락한다면 피부관리 등의 외모 관리를 해주는 것이 좋다. 전학은 친교활동을 처음부터 다시 시작해야 하게 만들기 때문에 학교에서의 지위를 쌓기 어렵게 만든다. 그러나 학교에서 오메가의 자리를 차지하게 되어 폭행을 당하는 지경이라면 전학이 차라리 낫다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1195710410348888000,
+		"in_reply_to_status_id_str": "1195710410348888064",
+		"in_reply_to_user_id": 124100465,
+		"in_reply_to_user_id_str": "124100465",
+		"in_reply_to_screen_name": "routitz",
+		"user": {
+			"id": 124100465,
+			"id_str": "124100465",
+			"name": "Normal One",
+			"screen_name": "routitz",
+			"location": "서울",
+			"description": "별 일 없이 삽니다.\r\nhttp://t.co/gPkRKXHaDk",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/gPkRKXHaDk",
+							"expanded_url": "http://ask.fm/routitz",
+							"display_url": "ask.fm/routitz",
+							"indices": [
+								13,
+								35
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3047,
+			"friends_count": 249,
+			"listed_count": 68,
+			"created_at": "Thu Mar 18 07:36:33 +0000 2010",
+			"favourites_count": 798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 113741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228104040409526272/av_oEoE4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228104040409526272/av_oEoE4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124100465/1581614566",
+			"profile_link_color": "674846",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "여건이 허락한다면 피부관리 등의 외모 관리를 해주는 것이 좋다. 전학은 친교활동을 처음부터 다시 시작해야 하게 만들기 때문에 학교에서의 지위를 쌓기 어렵게 만든다. 그러나 학교에서 오메가의 자리를 차지하게 되어 폭행을 당하는 지경이라면 전학이 차라리 낫다."
+	},
+	{
+		"created_at": "Thu Sep 03 13:36:41 +0000 2020",
+		"id": 1195710410348888000,
+		"id_str": "1301514453976936448",
+		"full_text": "맹모삼천. 적어도 어린 나이에는 어떤 친구와 놀지에 대해서 부모가 관여할 수 있으므로 하는 것이 좋다. '그들'로 구분되어 또래집단에서 낮은 지위를 차지하게 만들 빌미를 제공하지 않아야 한다. 너무 독특하고 놀림감이 되기 쉬운 이름을 짓지 말아야 한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1195710407895240700,
+		"in_reply_to_status_id_str": "1195710407895240704",
+		"in_reply_to_user_id": 124100465,
+		"in_reply_to_user_id_str": "124100465",
+		"in_reply_to_screen_name": "routitz",
+		"user": {
+			"id": 124100465,
+			"id_str": "124100465",
+			"name": "Normal One",
+			"screen_name": "routitz",
+			"location": "서울",
+			"description": "별 일 없이 삽니다.\r\nhttp://t.co/gPkRKXHaDk",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/gPkRKXHaDk",
+							"expanded_url": "http://ask.fm/routitz",
+							"display_url": "ask.fm/routitz",
+							"indices": [
+								13,
+								35
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3047,
+			"friends_count": 249,
+			"listed_count": 68,
+			"created_at": "Thu Mar 18 07:36:33 +0000 2010",
+			"favourites_count": 798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 113741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228104040409526272/av_oEoE4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228104040409526272/av_oEoE4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124100465/1581614566",
+			"profile_link_color": "674846",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "맹모삼천. 적어도 어린 나이에는 어떤 친구와 놀지에 대해서 부모가 관여할 수 있으므로 하는 것이 좋다. '그들'로 구분되어 또래집단에서 낮은 지위를 차지하게 만들 빌미를 제공하지 않아야 한다. 너무 독특하고 놀림감이 되기 쉬운 이름을 짓지 말아야 한다."
+	},
+	{
+		"created_at": "Thu Sep 03 13:36:38 +0000 2020",
+		"id": 1195710407895240700,
+		"id_str": "1301514439825350657",
+		"full_text": "따라서 아이가 성공적인 인생을 살게 해주기 위해서 부모가 해야 할 일도 양육 assumption에서 제시하는 것은 잘못되었다. 실제로 해줘야 하는 일들은 이런 것들이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1195710406381060000,
+		"in_reply_to_status_id_str": "1195710406381060096",
+		"in_reply_to_user_id": 124100465,
+		"in_reply_to_user_id_str": "124100465",
+		"in_reply_to_screen_name": "routitz",
+		"user": {
+			"id": 124100465,
+			"id_str": "124100465",
+			"name": "Normal One",
+			"screen_name": "routitz",
+			"location": "서울",
+			"description": "별 일 없이 삽니다.\r\nhttp://t.co/gPkRKXHaDk",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/gPkRKXHaDk",
+							"expanded_url": "http://ask.fm/routitz",
+							"display_url": "ask.fm/routitz",
+							"indices": [
+								13,
+								35
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3047,
+			"friends_count": 249,
+			"listed_count": 68,
+			"created_at": "Thu Mar 18 07:36:33 +0000 2010",
+			"favourites_count": 798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 113741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228104040409526272/av_oEoE4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228104040409526272/av_oEoE4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124100465/1581614566",
+			"profile_link_color": "674846",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "따라서 아이가 성공적인 인생을 살게 해주기 위해서 부모가 해야 할 일도 양육 assumption에서 제시하는 것은 잘못되었다. 실제로 해줘야 하는 일들은 이런 것들이다."
+	},
+	{
+		"created_at": "Thu Sep 03 13:36:35 +0000 2020",
+		"id": 1195710406381060000,
+		"id_str": "1301514429821980672",
+		"full_text": "오히려 비행청소년으로 성공한 것이다. 장기적으로 성공적인 어른이 되는 코스에 실패중이라는 관점이 옳을 수도 있지만 그들의 관점에서는 그러하며 단기적으로는 사실이기까지 하다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1195710403784802300,
+		"in_reply_to_status_id_str": "1195710403784802305",
+		"in_reply_to_user_id": 124100465,
+		"in_reply_to_user_id_str": "124100465",
+		"in_reply_to_screen_name": "routitz",
+		"user": {
+			"id": 124100465,
+			"id_str": "124100465",
+			"name": "Normal One",
+			"screen_name": "routitz",
+			"location": "서울",
+			"description": "별 일 없이 삽니다.\r\nhttp://t.co/gPkRKXHaDk",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/gPkRKXHaDk",
+							"expanded_url": "http://ask.fm/routitz",
+							"display_url": "ask.fm/routitz",
+							"indices": [
+								13,
+								35
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3047,
+			"friends_count": 249,
+			"listed_count": 68,
+			"created_at": "Thu Mar 18 07:36:33 +0000 2010",
+			"favourites_count": 798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 113741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228104040409526272/av_oEoE4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228104040409526272/av_oEoE4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124100465/1581614566",
+			"profile_link_color": "674846",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "오히려 비행청소년으로 성공한 것이다. 장기적으로 성공적인 어른이 되는 코스에 실패중이라는 관점이 옳을 수도 있지만 그들의 관점에서는 그러하며 단기적으로는 사실이기까지 하다."
+	},
+	{
+		"created_at": "Thu Sep 03 13:36:34 +0000 2020",
+		"id": 1195710403784802300,
+		"id_str": "1301514424423858176",
+		"full_text": "이것은 세분화되고 고등학생 쯤 되면 모범생 그룹이나 반항아 그룹 등으로 나뉘어 스스로를 그에 일치시킬 것이다. 일단 한 번 스스로를 그에 일치시키면, 자기실현적으로 그 특성을 점점 더 강화해 나간다. 문제를 일으키는 비행청소년은 성공적인 어른이 되는 코스에서 실패한 청소년이 아니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1195710401251405800,
+		"in_reply_to_status_id_str": "1195710401251405825",
+		"in_reply_to_user_id": 124100465,
+		"in_reply_to_user_id_str": "124100465",
+		"in_reply_to_screen_name": "routitz",
+		"user": {
+			"id": 124100465,
+			"id_str": "124100465",
+			"name": "Normal One",
+			"screen_name": "routitz",
+			"location": "서울",
+			"description": "별 일 없이 삽니다.\r\nhttp://t.co/gPkRKXHaDk",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/gPkRKXHaDk",
+							"expanded_url": "http://ask.fm/routitz",
+							"display_url": "ask.fm/routitz",
+							"indices": [
+								13,
+								35
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3047,
+			"friends_count": 249,
+			"listed_count": 68,
+			"created_at": "Thu Mar 18 07:36:33 +0000 2010",
+			"favourites_count": 798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 113741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228104040409526272/av_oEoE4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228104040409526272/av_oEoE4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124100465/1581614566",
+			"profile_link_color": "674846",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이것은 세분화되고 고등학생 쯤 되면 모범생 그룹이나 반항아 그룹 등으로 나뉘어 스스로를 그에 일치시킬 것이다. 일단 한 번 스스로를 그에 일치시키면, 자기실현적으로 그 특성을 점점 더 강화해 나간다. 문제를 일으키는 비행청소년은 성공적인 어른이 되는 코스에서 실패한 청소년이 아니다."
+	},
+	{
+		"created_at": "Thu Sep 03 13:36:31 +0000 2020",
+		"id": 1195710401251405800,
+		"id_str": "1301514412474294272",
+		"full_text": "아이의 '환경'은 이러한 또래 집단이다. 가장 중요한 기준은 나이와 성별이다. 예를 들면 3학년 여자아이와 같은 식으로 스스로를 규정해 나간다. 아이는 자신의 인지능력 안에서 이러한 소속 집단의 평균 또는 이상적 상을 그려나간다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1195710398663516200,
+		"in_reply_to_status_id_str": "1195710398663516160",
+		"in_reply_to_user_id": 124100465,
+		"in_reply_to_user_id_str": "124100465",
+		"in_reply_to_screen_name": "routitz",
+		"user": {
+			"id": 124100465,
+			"id_str": "124100465",
+			"name": "Normal One",
+			"screen_name": "routitz",
+			"location": "서울",
+			"description": "별 일 없이 삽니다.\r\nhttp://t.co/gPkRKXHaDk",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/gPkRKXHaDk",
+							"expanded_url": "http://ask.fm/routitz",
+							"display_url": "ask.fm/routitz",
+							"indices": [
+								13,
+								35
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3047,
+			"friends_count": 249,
+			"listed_count": 68,
+			"created_at": "Thu Mar 18 07:36:33 +0000 2010",
+			"favourites_count": 798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 113741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228104040409526272/av_oEoE4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228104040409526272/av_oEoE4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124100465/1581614566",
+			"profile_link_color": "674846",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아이의 '환경'은 이러한 또래 집단이다. 가장 중요한 기준은 나이와 성별이다. 예를 들면 3학년 여자아이와 같은 식으로 스스로를 규정해 나간다. 아이는 자신의 인지능력 안에서 이러한 소속 집단의 평균 또는 이상적 상을 그려나간다."
+	},
+	{
+		"created_at": "Thu Sep 03 13:36:23 +0000 2020",
+		"id": 1195710393907200000,
+		"id_str": "1301514377841971200",
+		"full_text": "이것들이 결합한다면 아이의 성장은 어떤 그림이 되는가? 아이가 부모를 흉내내지 않는다는 점은 중요하다. 성인인 부모는 아이가 모방하기에는 너무나 다른 존재다. 캘로그 실험에서, 인간 아이는 인간인 부모보다 같은 아기인 침팬지 형제를 모방 대상으로 삼았다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1195710392309145600,
+		"in_reply_to_status_id_str": "1195710392309145602",
+		"in_reply_to_user_id": 124100465,
+		"in_reply_to_user_id_str": "124100465",
+		"in_reply_to_screen_name": "routitz",
+		"user": {
+			"id": 124100465,
+			"id_str": "124100465",
+			"name": "Normal One",
+			"screen_name": "routitz",
+			"location": "서울",
+			"description": "별 일 없이 삽니다.\r\nhttp://t.co/gPkRKXHaDk",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/gPkRKXHaDk",
+							"expanded_url": "http://ask.fm/routitz",
+							"display_url": "ask.fm/routitz",
+							"indices": [
+								13,
+								35
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3047,
+			"friends_count": 249,
+			"listed_count": 68,
+			"created_at": "Thu Mar 18 07:36:33 +0000 2010",
+			"favourites_count": 798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 113741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228104040409526272/av_oEoE4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228104040409526272/av_oEoE4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124100465/1581614566",
+			"profile_link_color": "674846",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이것들이 결합한다면 아이의 성장은 어떤 그림이 되는가? 아이가 부모를 흉내내지 않는다는 점은 중요하다. 성인인 부모는 아이가 모방하기에는 너무나 다른 존재다. 캘로그 실험에서, 인간 아이는 인간인 부모보다 같은 아기인 침팬지 형제를 모방 대상으로 삼았다."
+	},
+	{
+		"created_at": "Thu Sep 03 13:36:11 +0000 2020",
+		"id": 1195710389805125600,
+		"id_str": "1301514328999247872",
+		"full_text": "마지막이 특히 중요한데, 인간은 '우리'와 '그들'을 본능적으로 구분하며, 일단 그렇게 구분한 다음에는 '우리'와 '그들'의 차이를 과장해서 생각하고, 이것을 자기실현적으로 만들어 나간다는 점이다. https://t.co/Yr4yHBDMfe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yr4yHBDMfe",
+					"expanded_url": "https://wonderfulmind.co.kr/the-robbers-cave-a-curious-experiment/",
+					"display_url": "wonderfulmind.co.kr/the-robbers-ca…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1195710387867373600,
+		"in_reply_to_status_id_str": "1195710387867373569",
+		"in_reply_to_user_id": 124100465,
+		"in_reply_to_user_id_str": "124100465",
+		"in_reply_to_screen_name": "routitz",
+		"user": {
+			"id": 124100465,
+			"id_str": "124100465",
+			"name": "Normal One",
+			"screen_name": "routitz",
+			"location": "서울",
+			"description": "별 일 없이 삽니다.\r\nhttp://t.co/gPkRKXHaDk",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/gPkRKXHaDk",
+							"expanded_url": "http://ask.fm/routitz",
+							"display_url": "ask.fm/routitz",
+							"indices": [
+								13,
+								35
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3047,
+			"friends_count": 249,
+			"listed_count": 68,
+			"created_at": "Thu Mar 18 07:36:33 +0000 2010",
+			"favourites_count": 798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 113741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228104040409526272/av_oEoE4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228104040409526272/av_oEoE4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124100465/1581614566",
+			"profile_link_color": "674846",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마지막이 특히 중요한데, 인간은 '우리'와 '그들'을 본능적으로 구분하며, 일단 그렇게 구분한 다음에는 '우리'와 '그들'의 차이를 과장해서 생각하고, 이것을 자기실현적으로 만들어 나간다는 점이다. https://t.co/Yr4yHBDMfe"
+	},
+	{
 		"created_at": "Thu Sep 03 12:46:41 +0000 2020",
 		"id": 1301331109133709300,
 		"id_str": "1301501870599364609",
@@ -295,7 +1314,7 @@ Grailbird.data.tweets_2020_09 =
 		"user": {
 			"id": 990327204230844400,
 			"id_str": "990327204230844418",
-			"name": "타래를 다 봐주세요...🏳️‍🌈🏳️‍⚧️",
+			"name": "타래를 다 봐주세요...🏳️🌈🏳️⚧️",
 			"screen_name": "evelovestory",
 			"location": "",
 			"description": "비계는 맞팔만 받습니다.",
@@ -377,7 +1396,7 @@ Grailbird.data.tweets_2020_09 =
 		"user": {
 			"id": 990327204230844400,
 			"id_str": "990327204230844418",
-			"name": "타래를 다 봐주세요...🏳️‍🌈🏳️‍⚧️",
+			"name": "타래를 다 봐주세요...🏳️🌈🏳️⚧️",
 			"screen_name": "evelovestory",
 			"location": "",
 			"description": "비계는 맞팔만 받습니다.",
@@ -2383,7 +3402,7 @@ Grailbird.data.tweets_2020_09 =
 		"user": {
 			"id": 1310891526,
 			"id_str": "1310891526",
-			"name": "yora🌷🏳️‍⚧️엘사쳐돌이 키배금지",
+			"name": "yora🌷🏳️⚧️엘사쳐돌이 키배금지",
 			"screen_name": "yorathegamer",
 			"location": "동숲합니다 포스타입 주소 : ",
 			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, BL러 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
@@ -5502,7 +6521,7 @@ Grailbird.data.tweets_2020_09 =
 			"name": "정소연",
 			"screen_name": "sy876",
 			"location": "여의도, 서울",
-			"description": "변호사. SF작가・번역가. 여기에는 제가 쓰고 싶은 글을 씁니다. // 온라인 법률상담 X // 상담문의 02-780-0328 //🏳️‍🌈// 체인블락 사용// 마이붐:뉴이스트(렌) // instagram: sfwriterjeong (EN)",
+			"description": "변호사. SF작가・번역가. 여기에는 제가 쓰고 싶은 글을 씁니다. // 온라인 법률상담 X // 상담문의 02-780-0328 //🏳️🌈// 체인블락 사용// 마이붐:뉴이스트(렌) // instagram: sfwriterjeong (EN)",
 			"url": "https://t.co/p43kC6e82H",
 			"entities": {
 				"url": {
@@ -5597,7 +6616,7 @@ Grailbird.data.tweets_2020_09 =
 			"name": "정소연",
 			"screen_name": "sy876",
 			"location": "여의도, 서울",
-			"description": "변호사. SF작가・번역가. 여기에는 제가 쓰고 싶은 글을 씁니다. // 온라인 법률상담 X // 상담문의 02-780-0328 //🏳️‍🌈// 체인블락 사용// 마이붐:뉴이스트(렌) // instagram: sfwriterjeong (EN)",
+			"description": "변호사. SF작가・번역가. 여기에는 제가 쓰고 싶은 글을 씁니다. // 온라인 법률상담 X // 상담문의 02-780-0328 //🏳️🌈// 체인블락 사용// 마이붐:뉴이스트(렌) // instagram: sfwriterjeong (EN)",
 			"url": "https://t.co/p43kC6e82H",
 			"entities": {
 				"url": {
