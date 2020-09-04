@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 04 15:41:37 +0000 2020",
+		"id": 1301829819739455500,
+		"id_str": "1301908283859505154",
+		"full_text": "물리학사 연구자 폴 포먼이 냉전기 미국 물리학 연구자들의 한 단면을 보여준 논문에 보면 이런 구절이 있다.(정확한 인용은 아님) “자율성이라는 환상을 유지하는데 성공했을지 모르지만 자신들의 통제권은 상실했다.”고. 이 논문을 읽었던 시기가 &lt;관료제 유토피아&gt;를 읽었던 시기와 겹쳤지...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1301827941635035100,
+		"in_reply_to_status_id_str": "1301827941635035136",
+		"in_reply_to_user_id": 149830678,
+		"in_reply_to_user_id_str": "149830678",
+		"in_reply_to_screen_name": "luxsecuritatis",
+		"user": {
+			"id": 149830678,
+			"id_str": "149830678",
+			"name": "lux securitatis",
+			"screen_name": "luxsecuritatis",
+			"location": "",
+			"description": "제가 팔로우하지 않는 잠금계정 정리합니다.",
+			"url": "https://t.co/Bta4X9o7OC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Bta4X9o7OC",
+							"expanded_url": "https://blogluxsecuritatis.wordpress.com",
+							"display_url": "blogluxsecuritatis.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2351,
+			"friends_count": 599,
+			"listed_count": 24,
+			"created_at": "Sun May 30 10:06:22 +0000 2010",
+			"favourites_count": 37476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856036743178354688/B4p_M38v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856036743178354688/B4p_M38v_normal.jpg",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "물리학사 연구자 폴 포먼이 냉전기 미국 물리학 연구자들의 한 단면을 보여준 논문에 보면 이런 구절이 있다.(정확한 인용은 아님) “자율성이라는 환상을 유지하는데 성공했을지 모르지만 자신들의 통제권은 상실했다.”고. 이 논문을 읽었던 시기가 &lt;관료제 유토피아&gt;를 읽었던 시기와 겹쳤지..."
+	},
+	{
+		"created_at": "Fri Sep 04 15:41:35 +0000 2020",
+		"id": 1301827941635035100,
+		"id_str": "1301908272442564608",
+		"full_text": "규제가 만들어진 역사/맥락은 제거하고 “규제 철폐” “규제 완화”가 일상적으로 들리는 업계에서 내가 막연히 품고 있던 의구심이 저 문제였으니까. 그렇다고 “규제 철폐”를  했을 때 스스로를 어떻게 통제할 것인지에 대한 얘기도 없고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1301827069177815000,
+		"in_reply_to_status_id_str": "1301827069177815043",
+		"in_reply_to_user_id": 149830678,
+		"in_reply_to_user_id_str": "149830678",
+		"in_reply_to_screen_name": "luxsecuritatis",
+		"user": {
+			"id": 149830678,
+			"id_str": "149830678",
+			"name": "lux securitatis",
+			"screen_name": "luxsecuritatis",
+			"location": "",
+			"description": "제가 팔로우하지 않는 잠금계정 정리합니다.",
+			"url": "https://t.co/Bta4X9o7OC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Bta4X9o7OC",
+							"expanded_url": "https://blogluxsecuritatis.wordpress.com",
+							"display_url": "blogluxsecuritatis.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2351,
+			"friends_count": 599,
+			"listed_count": 24,
+			"created_at": "Sun May 30 10:06:22 +0000 2010",
+			"favourites_count": 37476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856036743178354688/B4p_M38v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856036743178354688/B4p_M38v_normal.jpg",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "규제가 만들어진 역사/맥락은 제거하고 “규제 철폐” “규제 완화”가 일상적으로 들리는 업계에서 내가 막연히 품고 있던 의구심이 저 문제였으니까. 그렇다고 “규제 철폐”를  했을 때 스스로를 어떻게 통제할 것인지에 대한 얘기도 없고."
+	},
+	{
 		"created_at": "Fri Sep 04 11:51:12 +0000 2020",
 		"id": 1301850297568915500,
 		"id_str": "1301850297568915456",
