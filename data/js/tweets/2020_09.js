@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 06 14:44:02 +0000 2020",
+		"id": 1302441740901601300,
+		"id_str": "1302618565980246019",
+		"full_text": "아 ㄱㅇㄱ https://t.co/4sQGX2joqX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1302441738800259000,
+					"id_str": "1302441738800259072",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/EhMz3F3U4AAwHFy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhMz3F3U4AAwHFy.jpg",
+					"url": "https://t.co/4sQGX2joqX",
+					"display_url": "pic.twitter.com/4sQGX2joqX",
+					"expanded_url": "https://twitter.com/MAX__MAXIMIZER/status/1302441740901601281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 266,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 266,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 266,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1302441738800259000,
+					"id_str": "1302441738800259072",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/EhMz3F3U4AAwHFy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhMz3F3U4AAwHFy.jpg",
+					"url": "https://t.co/4sQGX2joqX",
+					"display_url": "pic.twitter.com/4sQGX2joqX",
+					"expanded_url": "https://twitter.com/MAX__MAXIMIZER/status/1302441740901601281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 266,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 266,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 266,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 186063908,
+			"id_str": "186063908",
+			"name": "진",
+			"screen_name": "MAX__MAXIMIZER",
+			"location": "Access Denied",
+			"description": "리겜 / BL♂️ / FFXIV",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 831,
+			"friends_count": 672,
+			"listed_count": 21,
+			"created_at": "Thu Sep 02 14:14:48 +0000 2010",
+			"favourites_count": 3852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1004380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273107064815063040/Eu4vXzUS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273107064815063040/Eu4vXzUS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/186063908/1503662950",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18110,
+		"favorite_count": 5609,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아 ㄱㅇㄱ https://t.co/4sQGX2joqX"
+	},
+	{
 		"created_at": "Fri Sep 04 15:41:37 +0000 2020",
 		"id": 1301829819739455500,
 		"id_str": "1301908283859505154",
