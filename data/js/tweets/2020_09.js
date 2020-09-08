@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 08 08:20:16 +0000 2020",
+		"id": 1303098572120834000,
+		"id_str": "1303246766326734850",
+		"full_text": "공정을 이야기하면서 그 반의어로 \"평등하게 살자\"는 개념을 내세우는 게 흥미롭다. 그러니까 이런 사람들이 이야기하는 공정은 차등을 위한 공정임. 특히나 자신보다 더 불행하고 가지지못할 것을 강조함. https://t.co/zgCmTFcyRZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zgCmTFcyRZ",
+					"expanded_url": "https://twitter.com/Timesegment/status/1302138197879607296",
+					"display_url": "twitter.com/Timesegment/st…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2167975296,
+			"id_str": "2167975296",
+			"name": "Holden🔻Weatherfield",
+			"screen_name": "psychokinesis23",
+			"location": "",
+			"description": "🤬😖😤🤤☺️😭😡",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2231,
+			"friends_count": 594,
+			"listed_count": 10,
+			"created_at": "Fri Nov 01 07:44:16 +0000 2013",
+			"favourites_count": 7885,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 136926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1287403657953071105/C2btsRWu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1287403657953071105/C2btsRWu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2167975296/1595776876",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1302138197879607300,
+		"quoted_status_id_str": "1302138197879607296",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zgCmTFcyRZ",
+			"expanded": "https://twitter.com/Timesegment/status/1302138197879607296",
+			"display": "twitter.com/Timesegment/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 05 06:55:13 +0000 2020",
+			"id": 1302138197879607300,
+			"id_str": "1302138197879607296",
+			"full_text": "얜 도대체 공정을 어떻게 이해하고 있는 거임? 당연히 젊은이들이 말하는 공정이 공정한 경쟁의 기회를 달라는거지 무슨 평등하게 살자는 얘기겠음? 최소한 경쟁이라도 해야 하는데 오로지 부모 빽만 믿고 살아야 하는 시대니까 절망속에서 그런 요구가 터져나오는거지. https://t.co/66rif1BxHB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				143
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/66rif1BxHB",
+						"expanded_url": "https://twitter.com/2LizaKim/status/1301965746424090626",
+						"display_url": "twitter.com/2LizaKim/statu…",
+						"indices": [
+							144,
+							167
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1222492026593132500,
+				"id_str": "1222492026593132546",
+				"name": "Time🍊",
+				"screen_name": "Timesegment",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 432,
+				"friends_count": 396,
+				"listed_count": 0,
+				"created_at": "Wed Jan 29 12:09:52 +0000 2020",
+				"favourites_count": 34680,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 32019,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1252867927763640321/oFXYI7V3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252867927763640321/oFXYI7V3_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1301965746424090600,
+			"quoted_status_id_str": "1301965746424090626",
+			"quoted_status_permalink": {
+				"url": "https://t.co/66rif1BxHB",
+				"expanded": "https://twitter.com/2LizaKim/status/1301965746424090626",
+				"display": "twitter.com/2LizaKim/statu…"
+			},
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 160,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공정을 이야기하면서 그 반의어로 \"평등하게 살자\"는 개념을 내세우는 게 흥미롭다. 그러니까 이런 사람들이 이야기하는 공정은 차등을 위한 공정임. 특히나 자신보다 더 불행하고 가지지못할 것을 강조함. https://t.co/zgCmTFcyRZ"
+	},
+	{
 		"created_at": "Sun Sep 06 14:44:02 +0000 2020",
 		"id": 1302441740901601300,
 		"id_str": "1302618565980246019",
