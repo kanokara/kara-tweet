@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 10 14:10:21 +0000 2020",
+		"id": 1304059643065319400,
+		"id_str": "1304059643065319424",
+		"full_text": "@GoblinCase 이 건은 물론 잘못이죠. 안에서 새는 바가지가 밖에서도 새는 거고... (다만 해당 시점에서 몇 년 전의 군사적 교류와 지원을 갖고 한국정부와의 연루를 말하는 건 과하다 싶네요.)",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoblinCase",
+					"name": "魍魉之匣",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1304047194371059700,
+		"in_reply_to_status_id_str": "1304047194371059713",
+		"in_reply_to_user_id": 1047103952297254900,
+		"in_reply_to_user_id_str": "1047103952297254912",
+		"in_reply_to_screen_name": "GoblinCase",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 84,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@GoblinCase 이 건은 물론 잘못이죠. 안에서 새는 바가지가 밖에서도 새는 거고... (다만 해당 시점에서 몇 년 전의 군사적 교류와 지원을 갖고 한국정부와의 연루를 말하는 건 과하다 싶네요.)"
+	},
+	{
+		"created_at": "Thu Sep 10 14:01:33 +0000 2020",
+		"id": 1304057426417655800,
+		"id_str": "1304057426417655808",
+		"full_text": "@GoblinCase 관련 기사와 논문들을 읽어봐도 불신으로 인한 충돌이었고, 정치쟁점화하며 한쪽으로 몰려가며 파국에 이르렀던 거지 개발사업 자체를 식민주의적이라고 단정할 수는 없고요.\nhttps://t.co/aW7dEm40Ug\nhttps://t.co/FBjPD8Msyf Vinciguerra.pdf\nhttps://t.co/0A7bIJcZfw",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoblinCase",
+					"name": "魍魉之匣",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aW7dEm40Ug",
+					"expanded_url": "https://www.farmlandgrab.org/post/view/2768-the-lessons-of-daewoo-s-failed-madagascar-land-lease-deal",
+					"display_url": "farmlandgrab.org/post/view/2768…",
+					"indices": [
+						104,
+						127
+					]
+				},
+				{
+					"url": "https://t.co/FBjPD8Msyf",
+					"expanded_url": "https://www.future-agricultures.org/wp-content/uploads/pdf-archive/Venusia",
+					"display_url": "future-agricultures.org/wp-content/upl…",
+					"indices": [
+						128,
+						151
+					]
+				},
+				{
+					"url": "https://t.co/0A7bIJcZfw",
+					"expanded_url": "http://www.oads.or.kr/upload_file/bbs/2013_%EB%8C%80%EC%9A%B0%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%EC%8A%A4_%EB%A7%88%EB%8B%A4%EA%B0%80%EC%8A%A4%EC%B9%B4%EB%A5%B4%20%EB%86%8D%EC%97%85%ED%99%98%EA%B2%BD%EC%A1%B0%EC%82%AC%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf",
+					"display_url": "oads.or.kr/upload_file/bb…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1304055720640303000,
+		"in_reply_to_status_id_str": "1304055720640303106",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 84,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@GoblinCase 관련 기사와 논문들을 읽어봐도 불신으로 인한 충돌이었고, 정치쟁점화하며 한쪽으로 몰려가며 파국에 이르렀던 거지 개발사업 자체를 식민주의적이라고 단정할 수는 없고요.\nhttps://t.co/aW7dEm40Ug\nhttps://t.co/FBjPD8Msyf Vinciguerra.pdf\nhttps://t.co/0A7bIJcZfw"
+	},
+	{
 		"created_at": "Thu Sep 10 12:52:37 +0000 2020",
 		"id": 1304040077497049000,
 		"id_str": "1304040077497049089",
