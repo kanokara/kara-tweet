@@ -1,6 +1,651 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 11 19:41:34 +0000 2020",
+		"id": 1304505381192978400,
+		"id_str": "1304505381192978436",
+		"full_text": "아니... 다시 생각해보니 제가 갈등회피적인 성격은 아니네요. 그저 분쟁을 싫어하는 것뿐.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1304499556902514700,
+		"in_reply_to_status_id_str": "1304499556902514689",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 84,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2219,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "아니... 다시 생각해보니 제가 갈등회피적인 성격은 아니네요. 그저 분쟁을 싫어하는 것뿐."
+	},
+	{
+		"created_at": "Fri Sep 11 19:18:25 +0000 2020",
+		"id": 1304499556902514700,
+		"id_str": "1304499556902514689",
+		"full_text": "분쟁을 싫어하고 갈등회피적인 성격 때문에 여성적으로 취급받는 것들을 좋아하고, 진보에 지지를 하게 되는 거겠죠.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1304499056819937300,
+		"in_reply_to_status_id_str": "1304499056819937280",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 84,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2219,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "분쟁을 싫어하고 갈등회피적인 성격 때문에 여성적으로 취급받는 것들을 좋아하고, 진보에 지지를 하게 되는 거겠죠."
+	},
+	{
+		"created_at": "Fri Sep 11 19:16:26 +0000 2020",
+		"id": 1304499056819937300,
+		"id_str": "1304499056819937280",
+		"full_text": "과거...라기보다 '특정한 종류의'로 정정. 일정한 전제에 따른 것이니.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1304498193791475700,
+		"in_reply_to_status_id_str": "1304498193791475713",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 84,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2219,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "과거...라기보다 '특정한 종류의'로 정정. 일정한 전제에 따른 것이니."
+	},
+	{
+		"created_at": "Fri Sep 11 19:14:29 +0000 2020",
+		"id": 1304088145047167000,
+		"id_str": "1304498566300184577",
+		"full_text": "이런 성향을 가진 사람들을 authoritarian follower라고 부릅니다.\n\n이들에 대한 연구결과와 설명을 담은 심리학 책이 있어요\nhttps://t.co/UNTr4yXldc\n무료 PDF도 줍니다. 강추\n\n독재자는 왜 지지받을까, 트럼프 지지자들은 왜 트럼프가 뭘 해도 지지할까에 대한 아주 명확한 설명과 예측이 가능해짐 https://t.co/1HjkXdavar https://t.co/t0PBacvuwC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UNTr4yXldc",
+					"expanded_url": "http://theauthoritarians.org",
+					"display_url": "theauthoritarians.org",
+					"indices": [
+						78,
+						101
+					]
+				},
+				{
+					"url": "https://t.co/1HjkXdavar",
+					"expanded_url": "https://twitter.com/overthe40ss/status/1303930915941355521",
+					"display_url": "twitter.com/overthe40ss/st…",
+					"indices": [
+						184,
+						207
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1304088138994847700,
+					"id_str": "1304088138994847745",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EhkNQMiWkAE-8c0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhkNQMiWkAE-8c0.jpg",
+					"url": "https://t.co/t0PBacvuwC",
+					"display_url": "pic.twitter.com/t0PBacvuwC",
+					"expanded_url": "https://twitter.com/simnalamburt/status/1304088145047166977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 438,
+							"h": 642,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 438,
+							"h": 642,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 438,
+							"h": 642,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1304088138994847700,
+					"id_str": "1304088138994847745",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EhkNQMiWkAE-8c0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhkNQMiWkAE-8c0.jpg",
+					"url": "https://t.co/t0PBacvuwC",
+					"display_url": "pic.twitter.com/t0PBacvuwC",
+					"expanded_url": "https://twitter.com/simnalamburt/status/1304088145047166977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 438,
+							"h": 642,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 438,
+							"h": 642,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 438,
+							"h": 642,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1304088138990706700,
+					"id_str": "1304088138990706692",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EhkNQMhXYAQYYqk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhkNQMhXYAQYYqk.jpg",
+					"url": "https://t.co/t0PBacvuwC",
+					"display_url": "pic.twitter.com/t0PBacvuwC",
+					"expanded_url": "https://twitter.com/simnalamburt/status/1304088145047166977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 388,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 388,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 388,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 130779448,
+			"id_str": "130779448",
+			"name": "김지현",
+			"screen_name": "simnalamburt",
+			"location": "Seoul, Republic of Korea",
+			"description": "Feminist, Software Engineer, Free Software Supporter, SNUCSE",
+			"url": "https://t.co/yAvhAV56iP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yAvhAV56iP",
+							"expanded_url": "https://hyeon.me",
+							"display_url": "hyeon.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2233,
+			"friends_count": 1447,
+			"listed_count": 52,
+			"created_at": "Thu Apr 08 08:32:30 +0000 2010",
+			"favourites_count": 82479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52080,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715977322235437056/GvSspd9w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715977322235437056/GvSspd9w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/130779448/1475522732",
+			"profile_link_color": "744D25",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1303930915941355500,
+		"quoted_status_id_str": "1303930915941355521",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1HjkXdavar",
+			"expanded": "https://twitter.com/overthe40ss/status/1303930915941355521",
+			"display": "twitter.com/overthe40ss/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 10 05:38:50 +0000 2020",
+			"id": 1303930915941355500,
+			"id_str": "1303930915941355521",
+			"full_text": "대통령 지지율 보면 한국사람들은 무조건 시끄럽고 논란이 되는 상황을 싫어함. 나쁘게 보면 독재자를 좋아하는 경향.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 46383396,
+				"id_str": "46383396",
+				"name": "Montana_SF",
+				"screen_name": "overthe40ss",
+				"location": "ÜT: 37.323343,127.116014",
+				"description": "아빠, 남편, 중소기업CEO, 자본주의세상에서 같이 발전할 수 있는 작은 기업을 만들어 보려는 희망, RT는 동의가 아닙니다. #Girls_Can_Do_Anything",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2804,
+				"friends_count": 404,
+				"listed_count": 32,
+				"created_at": "Thu Jun 11 13:15:55 +0000 2009",
+				"favourites_count": 108,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2614,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/766442348968415233/qR5FMPoh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/766442348968415233/qR5FMPoh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/46383396/1471569103",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 71,
+			"favorite_count": 41,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 479,
+		"favorite_count": 279,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이런 성향을 가진 사람들을 authoritarian follower라고 부릅니다.\n\n이들에 대한 연구결과와 설명을 담은 심리학 책이 있어요\nhttps://t.co/UNTr4yXldc\n무료 PDF도 줍니다. 강추\n\n독재자는 왜 지지받을까, 트럼프 지지자들은 왜 트럼프가 뭘 해도 지지할까에 대한 아주 명확한 설명과 예측이 가능해짐 https://t.co/1HjkXdavar https://t.co/t0PBacvuwC"
+	},
+	{
+		"created_at": "Fri Sep 11 19:14:25 +0000 2020",
+		"id": 1303930915941355500,
+		"id_str": "1304498551230136321",
+		"full_text": "대통령 지지율 보면 한국사람들은 무조건 시끄럽고 논란이 되는 상황을 싫어함. 나쁘게 보면 독재자를 좋아하는 경향.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46383396,
+			"id_str": "46383396",
+			"name": "Montana_SF",
+			"screen_name": "overthe40ss",
+			"location": "ÜT: 37.323343,127.116014",
+			"description": "아빠, 남편, 중소기업CEO, 자본주의세상에서 같이 발전할 수 있는 작은 기업을 만들어 보려는 희망, RT는 동의가 아닙니다. #Girls_Can_Do_Anything",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2804,
+			"friends_count": 404,
+			"listed_count": 32,
+			"created_at": "Thu Jun 11 13:15:55 +0000 2009",
+			"favourites_count": 108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2614,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/766442348968415233/qR5FMPoh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/766442348968415233/qR5FMPoh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46383396/1471569103",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "대통령 지지율 보면 한국사람들은 무조건 시끄럽고 논란이 되는 상황을 싫어함. 나쁘게 보면 독재자를 좋아하는 경향."
+	},
+	{
 		"created_at": "Fri Sep 11 18:31:01 +0000 2020",
 		"id": 1304487630499799000,
 		"id_str": "1304487630499799041",
