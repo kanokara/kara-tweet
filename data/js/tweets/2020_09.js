@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 11 10:51:01 +0000 2020",
+		"id": 1304369680551833600,
+		"id_str": "1304371867797475329",
+		"full_text": "캘리포니아 진짜 난리났나보네 https://t.co/eB0C5kUEgQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1304369644682186800,
+					"id_str": "1304369644682186753",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/EhoNR-8VkAEII3S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhoNR-8VkAEII3S.jpg",
+					"url": "https://t.co/eB0C5kUEgQ",
+					"display_url": "pic.twitter.com/eB0C5kUEgQ",
+					"expanded_url": "https://twitter.com/kut_sutang/status/1304369680551833600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 536,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1012,
+							"h": 798,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1012,
+							"h": 798,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1304369644682186800,
+					"id_str": "1304369644682186753",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/EhoNR-8VkAEII3S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhoNR-8VkAEII3S.jpg",
+					"url": "https://t.co/eB0C5kUEgQ",
+					"display_url": "pic.twitter.com/eB0C5kUEgQ",
+					"expanded_url": "https://twitter.com/kut_sutang/status/1304369680551833600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 536,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1012,
+							"h": 798,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1012,
+							"h": 798,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 980843924313948200,
+			"id_str": "980843924313948160",
+			"name": "소나무",
+			"screen_name": "kut_sutang",
+			"location": "",
+			"description": "엄마 젖줘",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 116,
+			"friends_count": 117,
+			"listed_count": 0,
+			"created_at": "Mon Apr 02 16:26:29 +0000 2018",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207197528120119297/GpZtMfoj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207197528120119297/GpZtMfoj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/980843924313948160/1587599333",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "캘리포니아 진짜 난리났나보네 https://t.co/eB0C5kUEgQ"
+	},
+	{
 		"created_at": "Thu Sep 10 16:17:18 +0000 2020",
 		"id": 1304091588268712000,
 		"id_str": "1304091588268711937",
