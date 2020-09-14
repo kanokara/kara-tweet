@@ -1,6 +1,1909 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 14 17:08:20 +0000 2020",
+		"id": 1305553986057941000,
+		"id_str": "1305553986057940993",
+		"full_text": "미국 선거의 향배가 민주체제의 파탄 여부를 판명해줄 것.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 83,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2231,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "미국 선거의 향배가 민주체제의 파탄 여부를 판명해줄 것."
+	},
+	{
+		"created_at": "Mon Sep 14 17:02:12 +0000 2020",
+		"id": 1304598846065049600,
+		"id_str": "1305552439957843968",
+		"full_text": "@summerlight00 네 당장 바이든 백악관 입성해도 상원 탈환 못하면, 상원 탈환해도 웨스트버지니아 manchin이 캐스팅보트를 쥐고 있으면, 게다가 이미 엉망이 되어버린 EPA의 청장 인준 질질 끌리고 회복시키는거 생각하면 당최 답이 안 보입니다. 힙스럽게 테슬라만 타면 되는 수준이 아닌 듯요",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "summerlight00",
+					"name": "minchul park",
+					"id": 68664432,
+					"id_str": "68664432",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1304597775946973200,
+		"in_reply_to_status_id_str": "1304597775946973184",
+		"in_reply_to_user_id": 68664432,
+		"in_reply_to_user_id_str": "68664432",
+		"in_reply_to_screen_name": "summerlight00",
+		"user": {
+			"id": 167069659,
+			"id_str": "167069659",
+			"name": "Nobody",
+			"screen_name": "nobody_indepth",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3595,
+			"friends_count": 455,
+			"listed_count": 60,
+			"created_at": "Thu Jul 15 17:43:31 +0000 2010",
+			"favourites_count": 65205,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/435566372555214848/ONN-Wmvd_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/435566372555214848/ONN-Wmvd_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@summerlight00 네 당장 바이든 백악관 입성해도 상원 탈환 못하면, 상원 탈환해도 웨스트버지니아 manchin이 캐스팅보트를 쥐고 있으면, 게다가 이미 엉망이 되어버린 EPA의 청장 인준 질질 끌리고 회복시키는거 생각하면 당최 답이 안 보입니다. 힙스럽게 테슬라만 타면 되는 수준이 아닌 듯요"
+	},
+	{
+		"created_at": "Mon Sep 14 17:02:06 +0000 2020",
+		"id": 1304597775946973200,
+		"id_str": "1305552417321181184",
+		"full_text": "@nobody_indepth 그저 트럼프가 아웃라이어라면 이번만 넘기면 된다라고 희망적으로 생각해볼텐데 현실은 공화당 집권 자체가 기후 위기 대응을 10년씩 늦추는데 미국 정치는 이미 공화당 테라포밍이 반쯤 끝나서 한 10~20년 뒤면 민주당 암흑기가 올 가능성이 높아보이고 암담합니다 ㅜㅜ",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nobody_indepth",
+					"name": "Nobody",
+					"id": 167069659,
+					"id_str": "167069659",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1304595806369075200,
+		"in_reply_to_status_id_str": "1304595806369075206",
+		"in_reply_to_user_id": 167069659,
+		"in_reply_to_user_id_str": "167069659",
+		"in_reply_to_screen_name": "nobody_indepth",
+		"user": {
+			"id": 68664432,
+			"id_str": "68664432",
+			"name": "minchul park",
+			"screen_name": "summerlight00",
+			"location": "CA",
+			"description": "Software engineer. My tweets do not represent the view of my employer.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1358,
+			"friends_count": 1597,
+			"listed_count": 41,
+			"created_at": "Tue Aug 25 10:55:51 +0000 2009",
+			"favourites_count": 20687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 112713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAF7E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254958154044989445/ITtFb9db_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254958154044989445/ITtFb9db_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68664432/1398148612",
+			"profile_link_color": "FF6699",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@nobody_indepth 그저 트럼프가 아웃라이어라면 이번만 넘기면 된다라고 희망적으로 생각해볼텐데 현실은 공화당 집권 자체가 기후 위기 대응을 10년씩 늦추는데 미국 정치는 이미 공화당 테라포밍이 반쯤 끝나서 한 10~20년 뒤면 민주당 암흑기가 올 가능성이 높아보이고 암담합니다 ㅜㅜ"
+	},
+	{
+		"created_at": "Mon Sep 14 17:02:05 +0000 2020",
+		"id": 1304595806369075200,
+		"id_str": "1305552409339416578",
+		"full_text": "@summerlight00 민주당 집권은 필요조건이지 충분조건엔 어림도 없고, 이 문제 겅격 자체가 시간을 까먹을수록 무한대로 과업이 늘어나는거라 4년 까먹은거, 넓겐 20년 까먹은거 대체 답이 안 나옵니다.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "summerlight00",
+					"name": "minchul park",
+					"id": 68664432,
+					"id_str": "68664432",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1304593695472197600,
+		"in_reply_to_status_id_str": "1304593695472197632",
+		"in_reply_to_user_id": 68664432,
+		"in_reply_to_user_id_str": "68664432",
+		"in_reply_to_screen_name": "summerlight00",
+		"user": {
+			"id": 167069659,
+			"id_str": "167069659",
+			"name": "Nobody",
+			"screen_name": "nobody_indepth",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3595,
+			"friends_count": 455,
+			"listed_count": 60,
+			"created_at": "Thu Jul 15 17:43:31 +0000 2010",
+			"favourites_count": 65205,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/435566372555214848/ONN-Wmvd_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/435566372555214848/ONN-Wmvd_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@summerlight00 민주당 집권은 필요조건이지 충분조건엔 어림도 없고, 이 문제 겅격 자체가 시간을 까먹을수록 무한대로 과업이 늘어나는거라 4년 까먹은거, 넓겐 20년 까먹은거 대체 답이 안 나옵니다."
+	},
+	{
+		"created_at": "Mon Sep 14 17:01:55 +0000 2020",
+		"id": 1304593695472197600,
+		"id_str": "1305552370923839493",
+		"full_text": "중국은 올해 장마에 크게 당해서 체제의 위협으로 인식하기 시작하는 것 같은데 미국은 민주당 집권 말고는 답이 없다...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1304592481523323000,
+		"in_reply_to_status_id_str": "1304592481523322880",
+		"in_reply_to_user_id": 68664432,
+		"in_reply_to_user_id_str": "68664432",
+		"in_reply_to_screen_name": "summerlight00",
+		"user": {
+			"id": 68664432,
+			"id_str": "68664432",
+			"name": "minchul park",
+			"screen_name": "summerlight00",
+			"location": "CA",
+			"description": "Software engineer. My tweets do not represent the view of my employer.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1358,
+			"friends_count": 1597,
+			"listed_count": 41,
+			"created_at": "Tue Aug 25 10:55:51 +0000 2009",
+			"favourites_count": 20687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 112713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAF7E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254958154044989445/ITtFb9db_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254958154044989445/ITtFb9db_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68664432/1398148612",
+			"profile_link_color": "FF6699",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "중국은 올해 장마에 크게 당해서 체제의 위협으로 인식하기 시작하는 것 같은데 미국은 민주당 집권 말고는 답이 없다..."
+	},
+	{
+		"created_at": "Mon Sep 14 17:01:53 +0000 2020",
+		"id": 1304592481523323000,
+		"id_str": "1305552362908516353",
+		"full_text": "https://t.co/9jsELvjLW7 \"미국 대선이다. 변수 그 이상의 사건이다. 트럼프 정권은 기후변화협약의 최대 걸림돌이다.\" ㅜㅜ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9jsELvjLW7",
+					"expanded_url": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002673665",
+					"display_url": "ohmynews.com/NWS_Web/View/a…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 68664432,
+			"id_str": "68664432",
+			"name": "minchul park",
+			"screen_name": "summerlight00",
+			"location": "CA",
+			"description": "Software engineer. My tweets do not represent the view of my employer.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1358,
+			"friends_count": 1597,
+			"listed_count": 41,
+			"created_at": "Tue Aug 25 10:55:51 +0000 2009",
+			"favourites_count": 20687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 112713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAF7E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254958154044989445/ITtFb9db_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254958154044989445/ITtFb9db_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68664432/1398148612",
+			"profile_link_color": "FF6699",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/9jsELvjLW7 \"미국 대선이다. 변수 그 이상의 사건이다. 트럼프 정권은 기후변화협약의 최대 걸림돌이다.\" ㅜㅜ"
+	},
+	{
+		"created_at": "Mon Sep 14 16:40:23 +0000 2020",
+		"id": 1305546948825374700,
+		"id_str": "1305546948825374735",
+		"full_text": "제가 구상한 아포칼립스 스토리 중에 기후위기의 파국이 도래함에 따라 선진 각국에서 인류의 총량을 줄이려 모든 체면을 내려놓고 산발적인 역테러로 후진국 국민을 차례로 학살하는 배경이 있었는데... 머지 않은 느낌.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 83,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2231,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "제가 구상한 아포칼립스 스토리 중에 기후위기의 파국이 도래함에 따라 선진 각국에서 인류의 총량을 줄이려 모든 체면을 내려놓고 산발적인 역테러로 후진국 국민을 차례로 학살하는 배경이 있었는데... 머지 않은 느낌."
+	},
+	{
+		"created_at": "Mon Sep 14 16:29:54 +0000 2020",
+		"id": 1304987923658539000,
+		"id_str": "1305544312755683328",
+		"full_text": "@VeganAri I like Newsom calling them climate fires as opposed to wild fires. Coz that's what they are. Wildfires in CA appear to be have been relegated to a cooler past.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VeganAri",
+					"name": "Ari Solomon",
+					"id": 75137937,
+					"id_str": "75137937",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1304982238254170000,
+		"in_reply_to_status_id_str": "1304982238254170112",
+		"in_reply_to_user_id": 75137937,
+		"in_reply_to_user_id_str": "75137937",
+		"in_reply_to_screen_name": "VeganAri",
+		"user": {
+			"id": 809504597278687200,
+			"id_str": "809504597278687232",
+			"name": "Calling all (Better) Angels Ⓥ",
+			"screen_name": "thiscatherineH",
+			"location": "",
+			"description": "Mom. BLM. Animal rights. Refugees & Displaced persons. Planet Earth. Be nice. Be kind. Good trouble. Politically vegan. Edgy vs. obnoxious.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85,
+			"friends_count": 258,
+			"listed_count": 0,
+			"created_at": "Thu Dec 15 21:05:10 +0000 2016",
+			"favourites_count": 2443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2516,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1288254523174277120/4givIUu-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288254523174277120/4givIUu-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/809504597278687232/1597858166",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@VeganAri I like Newsom calling them climate fires as opposed to wild fires. Coz that's what they are. Wildfires in CA appear to be have been relegated to a cooler past."
+	},
+	{
+		"created_at": "Mon Sep 14 16:29:29 +0000 2020",
+		"id": 1304982238254170000,
+		"id_str": "1305544207944220679",
+		"full_text": "A fire tornado in California. This is why we should call it a climate crisis. Climate change deniers are pure filth. https://t.co/w7qBHlsXN7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1304378511432577000,
+					"id_str": "1304378511432577025",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1304378511432577025/pu/img/e1I2eqy2W0yBAFS8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1304378511432577025/pu/img/e1I2eqy2W0yBAFS8.jpg",
+					"url": "https://t.co/w7qBHlsXN7",
+					"display_url": "pic.twitter.com/w7qBHlsXN7",
+					"expanded_url": "https://twitter.com/4TheCulture____/status/1304378550234087424/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1304378550234087400,
+					"source_status_id_str": "1304378550234087424",
+					"source_user_id": 1169308620129034200,
+					"source_user_id_str": "1169308620129034240"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1304378511432577000,
+					"id_str": "1304378511432577025",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1304378511432577025/pu/img/e1I2eqy2W0yBAFS8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1304378511432577025/pu/img/e1I2eqy2W0yBAFS8.jpg",
+					"url": "https://t.co/w7qBHlsXN7",
+					"display_url": "pic.twitter.com/w7qBHlsXN7",
+					"expanded_url": "https://twitter.com/4TheCulture____/status/1304378550234087424/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1304378550234087400,
+					"source_status_id_str": "1304378550234087424",
+					"source_user_id": 1169308620129034200,
+					"source_user_id_str": "1169308620129034240",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 17433,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1304378511432577025/pu/vid/320x568/Tf6700bv3aSbSU8r.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1304378511432577025/pu/vid/576x1024/RML92moUxscXQMhL.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1304378511432577025/pu/vid/360x640/IxtvPlrmQY-N5c5i.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1304378511432577025/pu/pl/DhQa6A6dQXe6EC3A.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1169308620129034200,
+							"id_str": "1169308620129034240",
+							"name": "BlackCultureEntertainment🗣",
+							"screen_name": "4TheCulture____",
+							"location": "",
+							"description": "Bringing You Daily Media & Breaking News Email: BlackCultureEntertainmentt@gmail.com or DM us For Video Credit & Business #BlackLivesMatter",
+							"url": "https://t.co/ScNVY5d91C",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/ScNVY5d91C",
+											"expanded_url": "https://blacklivesmatters.carrd.co/",
+											"display_url": "blacklivesmatters.carrd.co",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 167434,
+							"friends_count": 8277,
+							"listed_count": 149,
+							"created_at": "Wed Sep 04 17:58:02 +0000 2019",
+							"favourites_count": 1159,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 39607,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1299569615652229122/WYPXdqOX_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1299569615652229122/WYPXdqOX_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1169308620129034240/1595232612",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 75137937,
+			"id_str": "75137937",
+			"name": "Ari Solomon",
+			"screen_name": "VeganAri",
+			"location": "Los Angeles, CA",
+			"description": "Fierce animal rights activist. Founder/Editor https://t.co/fPBYxc8Ex7. Host of The VeganAri Show podcast, https://t.co/NS9A0eKvyz or https://t.co/IY47xtQRZk. He/him.",
+			"url": "https://t.co/fPBYxc8Ex7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fPBYxc8Ex7",
+							"expanded_url": "http://Veganista.co",
+							"display_url": "Veganista.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fPBYxc8Ex7",
+							"expanded_url": "http://Veganista.co",
+							"display_url": "Veganista.co",
+							"indices": [
+								46,
+								69
+							]
+						},
+						{
+							"url": "https://t.co/NS9A0eKvyz",
+							"expanded_url": "http://apple.co/1UCaVsw",
+							"display_url": "apple.co/1UCaVsw",
+							"indices": [
+								106,
+								129
+							]
+						},
+						{
+							"url": "https://t.co/IY47xtQRZk",
+							"expanded_url": "http://veganari.com",
+							"display_url": "veganari.com",
+							"indices": [
+								133,
+								156
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 21139,
+			"friends_count": 134,
+			"listed_count": 375,
+			"created_at": "Thu Sep 17 22:49:37 +0000 2009",
+			"favourites_count": 16681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 22522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100636834663522304/_m5SR7JG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100636834663522304/_m5SR7JG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/75137937/1398311336",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 178,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A fire tornado in California. This is why we should call it a climate crisis. Climate change deniers are pure filth. https://t.co/w7qBHlsXN7"
+	},
+	{
+		"created_at": "Mon Sep 14 16:15:19 +0000 2020",
+		"id": 1305540640197943300,
+		"id_str": "1305540640197943296",
+		"full_text": "이래서 한국어가 논리정연하고 자유롭게 말하기에 영어보다 안 좋은 언어라는 지적을 접한 적이 있네요.\nhttps://t.co/7ZwQwiI4cD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7ZwQwiI4cD",
+					"expanded_url": "https://twitter.com/transparent_pig/status/1305341834613276672?s=19",
+					"display_url": "twitter.com/transparent_pi…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 83,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2231,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1305341834613276700,
+		"quoted_status_id_str": "1305341834613276672",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7ZwQwiI4cD",
+			"expanded": "https://twitter.com/transparent_pig/status/1305341834613276672?s=19",
+			"display": "twitter.com/transparent_pi…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 14 03:05:20 +0000 2020",
+			"id": 1305341834613276700,
+			"id_str": "1305341834613276672",
+			"full_text": "+ ‘문장 처음부터 끝까지 완벽한 구조로 말하고 있는지’도 확인해보면 좋을 것 같아요. 의외로 문장을 끝까지 말하는 사람이 드묾. 아님 주어+서술어만 일단 말한 뒤 나머지 내용(형용사 부사 등등)을 야금야금 붙인다든지... https://t.co/DeYleKITfq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				124
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DeYleKITfq",
+						"expanded_url": "https://twitter.com/lshlj/status/1305146632543956992",
+						"display_url": "twitter.com/lshlj/status/1…",
+						"indices": [
+							125,
+							148
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3109450026,
+				"id_str": "3109450026",
+				"name": "김다홍",
+				"screen_name": "transparent_pig",
+				"location": "",
+				"description": "#뉴스기사_남성성별_표기운동 https://t.co/yiCydZw3ms 마블디씨대부분의남돌을싫어함 / 넷플릭스유저",
+				"url": "https://t.co/sfgHUzIkT0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sfgHUzIkT0",
+								"expanded_url": "http://ask.fm/transparent_pig?utm_source=twitter&utm_medium=social&utm_campaign=profile_own",
+								"display_url": "ask.fm/transparent_pi…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/yiCydZw3ms",
+								"expanded_url": "http://media.daum.net/v/20150916171404806",
+								"display_url": "media.daum.net/v/201509161714…",
+								"indices": [
+									16,
+									39
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 783,
+				"friends_count": 676,
+				"listed_count": 2,
+				"created_at": "Fri Mar 27 07:41:24 +0000 2015",
+				"favourites_count": 14199,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 26647,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1245459619415126017/Ox1ofBpm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245459619415126017/Ox1ofBpm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3109450026/1540267147",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1305146632543957000,
+			"quoted_status_id_str": "1305146632543956992",
+			"quoted_status_permalink": {
+				"url": "https://t.co/DeYleKITfq",
+				"expanded": "https://twitter.com/lshlj/status/1305146632543956992",
+				"display": "twitter.com/lshlj/status/1…"
+			},
+			"retweet_count": 1082,
+			"favorite_count": 317,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이래서 한국어가 논리정연하고 자유롭게 말하기에 영어보다 안 좋은 언어라는 지적을 접한 적이 있네요.\nhttps://t.co/7ZwQwiI4cD"
+	},
+	{
+		"created_at": "Mon Sep 14 16:14:10 +0000 2020",
+		"id": 1305341834613276700,
+		"id_str": "1305540352598667266",
+		"full_text": "+ ‘문장 처음부터 끝까지 완벽한 구조로 말하고 있는지’도 확인해보면 좋을 것 같아요. 의외로 문장을 끝까지 말하는 사람이 드묾. 아님 주어+서술어만 일단 말한 뒤 나머지 내용(형용사 부사 등등)을 야금야금 붙인다든지... https://t.co/DeYleKITfq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DeYleKITfq",
+					"expanded_url": "https://twitter.com/lshlj/status/1305146632543956992",
+					"display_url": "twitter.com/lshlj/status/1…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3109450026,
+			"id_str": "3109450026",
+			"name": "김다홍",
+			"screen_name": "transparent_pig",
+			"location": "",
+			"description": "#뉴스기사_남성성별_표기운동 https://t.co/yiCydZw3ms 마블디씨대부분의남돌을싫어함 / 넷플릭스유저",
+			"url": "https://t.co/sfgHUzIkT0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sfgHUzIkT0",
+							"expanded_url": "http://ask.fm/transparent_pig?utm_source=twitter&utm_medium=social&utm_campaign=profile_own",
+							"display_url": "ask.fm/transparent_pi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yiCydZw3ms",
+							"expanded_url": "http://media.daum.net/v/20150916171404806",
+							"display_url": "media.daum.net/v/201509161714…",
+							"indices": [
+								16,
+								39
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 783,
+			"friends_count": 676,
+			"listed_count": 2,
+			"created_at": "Fri Mar 27 07:41:24 +0000 2015",
+			"favourites_count": 14199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245459619415126017/Ox1ofBpm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245459619415126017/Ox1ofBpm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3109450026/1540267147",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1305146632543957000,
+		"quoted_status_id_str": "1305146632543956992",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DeYleKITfq",
+			"expanded": "https://twitter.com/lshlj/status/1305146632543956992",
+			"display": "twitter.com/lshlj/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 13 14:09:40 +0000 2020",
+			"id": 1305146632543957000,
+			"id_str": "1305146632543956992",
+			"full_text": "일반인 챌린지: 녹음/녹화 버튼 눌러놓고 10분동안 하고 싶은 말을 마음껏 하되 어 ... 그 ... 저 ... 음 ... 같은 말 한 번도 안 써 보기. 아마 대부분 실패할 것이고, 아나운서/전문방송인들은 이게 가능한 사람들임.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				128
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1305146188086214700,
+			"in_reply_to_status_id_str": "1305146188086214656",
+			"in_reply_to_user_id": 43831302,
+			"in_reply_to_user_id_str": "43831302",
+			"in_reply_to_screen_name": "lshlj",
+			"user": {
+				"id": 43831302,
+				"id_str": "43831302",
+				"name": "Sang Hoon Lee",
+				"screen_name": "lshlj",
+				"location": "Jinju-si, Republic of Korea",
+				"description": "Assistant Professor @ Department of Liberal Arts, Gyeongnam National University of Science and Technology",
+				"url": "https://t.co/Tkk1jP7FPl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Tkk1jP7FPl",
+								"expanded_url": "https://sites.google.com/site/lshlj82/",
+								"display_url": "sites.google.com/site/lshlj82/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1914,
+				"friends_count": 514,
+				"listed_count": 100,
+				"created_at": "Mon Jun 01 04:42:10 +0000 2009",
+				"favourites_count": 24,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10487,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1064077331252183040/5IEFN0t7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064077331252183040/5IEFN0t7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/43831302/1570243120",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 636,
+			"favorite_count": 216,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1082,
+		"favorite_count": 317,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "+ ‘문장 처음부터 끝까지 완벽한 구조로 말하고 있는지’도 확인해보면 좋을 것 같아요. 의외로 문장을 끝까지 말하는 사람이 드묾. 아님 주어+서술어만 일단 말한 뒤 나머지 내용(형용사 부사 등등)을 야금야금 붙인다든지... https://t.co/DeYleKITfq"
+	},
+	{
+		"created_at": "Mon Sep 14 16:13:00 +0000 2020",
+		"id": 1305475126113104000,
+		"id_str": "1305540057856581634",
+		"full_text": "동물한테 하면 동물행동학 실험 \n사람한테 하면 UX 사용자 리서치",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114184885,
+			"id_str": "114184885",
+			"name": "21세기는이해하기어렵군🌏",
+			"screen_name": "LemobazSpngeWab",
+			"location": "초고속인터넷 ",
+			"description": "우리 더 살만한 세계에 살자 🍵🥤🙄🥬🌴🌲🍝🐸😴🌿🦕☕😸🔫🤭",
+			"url": "https://t.co/3c3AfT1CKq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3c3AfT1CKq",
+							"expanded_url": "http://puppyhardsociety.or.kr",
+							"display_url": "puppyhardsociety.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 855,
+			"listed_count": 8,
+			"created_at": "Sun Feb 14 12:57:02 +0000 2010",
+			"favourites_count": 10313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61906,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1302247092350414849/jWuzGeKz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1302247092350414849/jWuzGeKz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114184885/1582364689",
+			"profile_link_color": "4CA64F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "동물한테 하면 동물행동학 실험 \n사람한테 하면 UX 사용자 리서치"
+	},
+	{
+		"created_at": "Mon Sep 14 16:12:12 +0000 2020",
+		"id": 1305539857129681000,
+		"id_str": "1305539857129680896",
+		"full_text": "성장이 아니라 회복이라고 표현하는 점이 좋네요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 83,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2231,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "성장이 아니라 회복이라고 표현하는 점이 좋네요."
+	},
+	{
+		"created_at": "Mon Sep 14 16:11:44 +0000 2020",
+		"id": 1296317908897788000,
+		"id_str": "1305539739672485894",
+		"full_text": "그게 언젠간 나아지리라는 미약한 기대만을 품고 가는 길이라 할지라도. 그 길이 아닌 다른 길을 걸으면 조금 더 행복할 수 있음에도 굳이 함께하길 선택하는 걸 좋아해.... ㅠ....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1296317547466252300,
+		"in_reply_to_status_id_str": "1296317547466252288",
+		"in_reply_to_user_id": 4843522512,
+		"in_reply_to_user_id_str": "4843522512",
+		"in_reply_to_screen_name": "chickcitrus",
+		"user": {
+			"id": 4843522512,
+			"id_str": "4843522512",
+			"name": "젱",
+			"screen_name": "chickcitrus",
+			"location": "",
+			"description": "20↑/ 아무거나 파고싶은거 파고있음\n베스타 규혁도윤💙(고정)\nFUB free / 장르팔로 비추천합니다\nhttps://t.co/X5ozbozZWW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/X5ozbozZWW",
+							"expanded_url": "http://citrusbox.postype.com",
+							"display_url": "citrusbox.postype.com",
+							"indices": [
+								58,
+								81
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 488,
+			"friends_count": 168,
+			"listed_count": 5,
+			"created_at": "Mon Feb 01 07:47:47 +0000 2016",
+			"favourites_count": 15515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43863,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1296134107752050688/AbB6uA0U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1296134107752050688/AbB6uA0U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4843522512/1567948348",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 729,
+		"favorite_count": 643,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그게 언젠간 나아지리라는 미약한 기대만을 품고 가는 길이라 할지라도. 그 길이 아닌 다른 길을 걸으면 조금 더 행복할 수 있음에도 굳이 함께하길 선택하는 걸 좋아해.... ㅠ...."
+	},
+	{
+		"created_at": "Mon Sep 14 16:11:43 +0000 2020",
+		"id": 1296317547466252300,
+		"id_str": "1305539735486570497",
+		"full_text": "네 손을 잡지 않으면 일어날 수 없으니 도와달라는 것보다 내가 구르고 넘어지고 가끔은 길을 헤매도 그 옆에 마찬가지로 앞을 보면서 걸어갈 네가 있어줬으면 한다는 이야기를. 그냥 함께 있는 것에 의미가 있을 뿐인데도 옆을 지키고 지켜봐주고 때로 혼자가 너무 힘들 때 서로 손을 내밀어주는..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1296317189109067800,
+		"in_reply_to_status_id_str": "1296317189109067779",
+		"in_reply_to_user_id": 4843522512,
+		"in_reply_to_user_id_str": "4843522512",
+		"in_reply_to_screen_name": "chickcitrus",
+		"user": {
+			"id": 4843522512,
+			"id_str": "4843522512",
+			"name": "젱",
+			"screen_name": "chickcitrus",
+			"location": "",
+			"description": "20↑/ 아무거나 파고싶은거 파고있음\n베스타 규혁도윤💙(고정)\nFUB free / 장르팔로 비추천합니다\nhttps://t.co/X5ozbozZWW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/X5ozbozZWW",
+							"expanded_url": "http://citrusbox.postype.com",
+							"display_url": "citrusbox.postype.com",
+							"indices": [
+								58,
+								81
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 488,
+			"friends_count": 168,
+			"listed_count": 5,
+			"created_at": "Mon Feb 01 07:47:47 +0000 2016",
+			"favourites_count": 15515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43863,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1296134107752050688/AbB6uA0U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1296134107752050688/AbB6uA0U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4843522512/1567948348",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 964,
+		"favorite_count": 786,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "네 손을 잡지 않으면 일어날 수 없으니 도와달라는 것보다 내가 구르고 넘어지고 가끔은 길을 헤매도 그 옆에 마찬가지로 앞을 보면서 걸어갈 네가 있어줬으면 한다는 이야기를. 그냥 함께 있는 것에 의미가 있을 뿐인데도 옆을 지키고 지켜봐주고 때로 혼자가 너무 힘들 때 서로 손을 내밀어주는.."
+	},
+	{
+		"created_at": "Mon Sep 14 16:11:23 +0000 2020",
+		"id": 1296317189109067800,
+		"id_str": "1305539650291863552",
+		"full_text": "외로웠으면 외로웠다는 사실을. 화가 났으면 화가 났다는 사실을 전부 인정하고 받아들이고. 자신의 감정을 마주보고 앞으로 나아가는 것도...   그 길에 네가 꼭 필요한 게 아니라 나는 앞으로 나아가려 하는데, 같이 걸었으면 한다는 이야기를 제일 좋아해....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1296316767833223200,
+		"in_reply_to_status_id_str": "1296316767833223168",
+		"in_reply_to_user_id": 4843522512,
+		"in_reply_to_user_id_str": "4843522512",
+		"in_reply_to_screen_name": "chickcitrus",
+		"user": {
+			"id": 4843522512,
+			"id_str": "4843522512",
+			"name": "젱",
+			"screen_name": "chickcitrus",
+			"location": "",
+			"description": "20↑/ 아무거나 파고싶은거 파고있음\n베스타 규혁도윤💙(고정)\nFUB free / 장르팔로 비추천합니다\nhttps://t.co/X5ozbozZWW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/X5ozbozZWW",
+							"expanded_url": "http://citrusbox.postype.com",
+							"display_url": "citrusbox.postype.com",
+							"indices": [
+								58,
+								81
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 488,
+			"friends_count": 168,
+			"listed_count": 5,
+			"created_at": "Mon Feb 01 07:47:47 +0000 2016",
+			"favourites_count": 15515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43863,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1296134107752050688/AbB6uA0U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1296134107752050688/AbB6uA0U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4843522512/1567948348",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2095,
+		"favorite_count": 1393,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "외로웠으면 외로웠다는 사실을. 화가 났으면 화가 났다는 사실을 전부 인정하고 받아들이고. 자신의 감정을 마주보고 앞으로 나아가는 것도...   그 길에 네가 꼭 필요한 게 아니라 나는 앞으로 나아가려 하는데, 같이 걸었으면 한다는 이야기를 제일 좋아해...."
+	},
+	{
 		"created_at": "Mon Sep 14 16:10:36 +0000 2020",
 		"id": 1305539456598831000,
 		"id_str": "1305539456598831104",
