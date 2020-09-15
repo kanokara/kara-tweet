@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 14 23:39:13 +0000 2020",
+		"id": 1305652353949810700,
+		"id_str": "1305652353949810688",
+		"full_text": "후진국이 아니라 선진국 내에서부터 기후이주로 변동성이 심화될 수도 있겠네요.\nhttps://t.co/sTW8fj3VLy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sTW8fj3VLy",
+					"expanded_url": "https://twitter.com/ecolibertas/status/1305393346429427712?s=19",
+					"display_url": "twitter.com/ecolibertas/st…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1305555839244103700,
+		"in_reply_to_status_id_str": "1305555839244103680",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 83,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12258,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1305393346429427700,
+		"quoted_status_id_str": "1305393346429427712",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sTW8fj3VLy",
+			"expanded": "https://twitter.com/ecolibertas/status/1305393346429427712?s=19",
+			"display": "twitter.com/ecolibertas/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 14 06:30:01 +0000 2020",
+			"id": 1305393346429427700,
+			"id_str": "1305393346429427712",
+			"full_text": "정치인이 못 하는 일을 시장(market)이 한다. 보험사들이 이제 이 지역은 너무 위험하니 보험상품을 팔지 않겠다고 한 거다. 화재보험을 살 수 없는 지역에서 집을 살 사람은 없다. 그러면 그 부동산의 가격은 폭락하는 거고, 사람들은 자산을 잃고, 점점 그 지역을 떠나게 된다. https://t.co/LcN4WXAcC9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				156
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LcN4WXAcC9",
+						"expanded_url": "https://twitter.com/ppsskr/status/1305373379474518016",
+						"display_url": "twitter.com/ppsskr/status/…",
+						"indices": [
+							157,
+							180
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 919435176555327500,
+				"id_str": "919435176555327489",
+				"name": "Montani semper liberi",
+				"screen_name": "ecolibertas",
+				"location": "",
+				"description": "일을 취미로 하는 것을 지향합니다. 트윗은 코멘트위주.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 955,
+				"friends_count": 417,
+				"listed_count": 14,
+				"created_at": "Sun Oct 15 05:30:03 +0000 2017",
+				"favourites_count": 375,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5649,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1291884198890860546/YpmcUY27_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291884198890860546/YpmcUY27_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/919435176555327489/1528629950",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1305373379474518000,
+			"quoted_status_id_str": "1305373379474518016",
+			"quoted_status_permalink": {
+				"url": "https://t.co/LcN4WXAcC9",
+				"expanded": "https://twitter.com/ppsskr/status/1305373379474518016",
+				"display": "twitter.com/ppsskr/status/…"
+			},
+			"retweet_count": 183,
+			"favorite_count": 93,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "후진국이 아니라 선진국 내에서부터 기후이주로 변동성이 심화될 수도 있겠네요.\nhttps://t.co/sTW8fj3VLy"
+	},
+	{
 		"created_at": "Mon Sep 14 21:27:05 +0000 2020",
 		"id": 1305619100471681000,
 		"id_str": "1305619100471681024",
