@@ -1,6 +1,601 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 23 05:09:32 +0000 2020",
+		"id": 1308228035221414000,
+		"id_str": "1308634582187610117",
+		"full_text": "오랜 시간 함께하다 보면 관계는 진전된다. 어째서? 적정선을 유지했기 때문이다. 인간관계에서 경계는 BLACK(거리감), GREEN(적정), GRAY(위험함), RED(손절)의 4단계로 나뉜다고 생각하는데, 초록색에 오래 머물러준 사람에게는 경계가 너그러워져서 경계탄력성이 생기고 선을 넘더라도 용서가 쉬움. https://t.co/PN6gfM8luA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PN6gfM8luA",
+					"expanded_url": "https://twitter.com/racommu/status/1308225735211900928",
+					"display_url": "twitter.com/racommu/status…",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 122556604,
+			"id_str": "122556604",
+			"name": "플라피나🌕",
+			"screen_name": "plafina",
+			"location": "에스피나 암흑신전",
+			"description": "⚖🎲 게임 기획자 (밸런스) / 🎡🎢 CK Game / 🎉🎊 ENFP / 🧀💫 린 애자일 / 🌠🔭 트윗 저장용 위성계정 @plafinia",
+			"url": "https://t.co/1gDheFAqvQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1gDheFAqvQ",
+							"expanded_url": "https://discord.gg/cDhCqTg",
+							"display_url": "discord.gg/cDhCqTg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13939,
+			"friends_count": 267,
+			"listed_count": 52,
+			"created_at": "Sat Mar 13 03:35:17 +0000 2010",
+			"favourites_count": 18505,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 42230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267443708233826304/kO-rZi1u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267443708233826304/kO-rZi1u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/122556604/1594251160",
+			"profile_link_color": "8DCAA1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1308225735211901000,
+		"quoted_status_id_str": "1308225735211900928",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PN6gfM8luA",
+			"expanded": "https://twitter.com/racommu/status/1308225735211900928",
+			"display": "twitter.com/racommu/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 22 02:04:55 +0000 2020",
+			"id": 1308225735211901000,
+			"id_str": "1308225735211900928",
+			"full_text": "그러나 역시 모든 관계에 깡패인 건 시간이다 오래 함께 하다보면 결국 사람은 조금씩 나아갈 수 밖에 없으니까. 거리감이 있더라도 아주 천천히 나아갈 수 있게 되더라고. 그러니까 그냥 서로에게 부담 안되는 선에서 적절히 오래 유지하는게 제일 인거 같어",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				139
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1308224757293179000,
+			"in_reply_to_status_id_str": "1308224757293178880",
+			"in_reply_to_user_id": 1042080141969477600,
+			"in_reply_to_user_id_str": "1042080141969477632",
+			"in_reply_to_screen_name": "racommu",
+			"user": {
+				"id": 1042080141969477600,
+				"id_str": "1042080141969477632",
+				"name": "온다",
+				"screen_name": "racommu",
+				"location": "진짜 잡덕임 ",
+				"description": "개인 의견 정리 및 감상계 l 잡덕이고 말 많음 l 장르팔로 비추 l RT 가끔 많이함 l 탐라 잘 놓침 l 타래까지 다 읽어주세요 l 미러블락, 체인블락 가끔 씀",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6148,
+				"friends_count": 256,
+				"listed_count": 22,
+				"created_at": "Tue Sep 18 15:57:21 +0000 2018",
+				"favourites_count": 37518,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 74204,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1260191866944811015/_kJbLVIP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260191866944811015/_kJbLVIP_normal.jpg",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 100,
+			"favorite_count": 111,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1667,
+		"favorite_count": 727,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오랜 시간 함께하다 보면 관계는 진전된다. 어째서? 적정선을 유지했기 때문이다. 인간관계에서 경계는 BLACK(거리감), GREEN(적정), GRAY(위험함), RED(손절)의 4단계로 나뉜다고 생각하는데, 초록색에 오래 머물러준 사람에게는 경계가 너그러워져서 경계탄력성이 생기고 선을 넘더라도 용서가 쉬움. https://t.co/PN6gfM8luA"
+	},
+	{
+		"created_at": "Wed Sep 23 05:01:45 +0000 2020",
+		"id": 1308632625586647000,
+		"id_str": "1308632625586647040",
+		"full_text": "게임패스가 정착하면 콘솔과 거리가 먼 한국 게임시장도 뒤흔들릴 거라 생각했는데, 애플 구글은 이러고 있었네요. 정말 양아치다...\nhttps://t.co/4BmLCwe2Ag",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4BmLCwe2Ag",
+					"expanded_url": "https://twitter.com/KudoKun_/status/1291533705744326657?s=19",
+					"display_url": "twitter.com/KudoKun_/statu…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 83,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1291533705744326700,
+		"quoted_status_id_str": "1291533705744326657",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4BmLCwe2Ag",
+			"expanded": "https://twitter.com/KudoKun_/status/1291533705744326657?s=19",
+			"display": "twitter.com/KudoKun_/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 07 00:36:45 +0000 2020",
+			"id": 1291533705744326700,
+			"id_str": "1291533705744326657",
+			"full_text": "애플이 구글 스타디아나 엑스박스 게임 패스 같은 클라우드 게이밍 서비스가 앱 스토어 약관을 위반한다고 밝혔다.\n해당 서비스에서 제공하는 게임을 따로 앱 스토어에 심사를 맡기고, 따로 차트에 올라올 수 있어야 한다고. https://t.co/HXZ16oHv2G",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				120
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HXZ16oHv2G",
+						"expanded_url": "https://twitter.com/verge/status/1291493175983517698",
+						"display_url": "twitter.com/verge/status/1…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19096202,
+				"id_str": "19096202",
+				"name": "쿠도군",
+				"screen_name": "KudoKun_",
+				"location": "Seoul, Korea",
+				"description": "회사도 다니다가, 글도 쓰다가, 팟캐스트도 하다가.\n(딱히 순서가 있는건 아닙니다?)",
+				"url": "https://t.co/kMGzcO4CwG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kMGzcO4CwG",
+								"expanded_url": "http://kudokun.me",
+								"display_url": "kudokun.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2766,
+				"friends_count": 612,
+				"listed_count": 94,
+				"created_at": "Sat Jan 17 01:29:51 +0000 2009",
+				"favourites_count": 378,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 163093,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1073607743519498251/qERB0jvb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073607743519498251/qERB0jvb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19096202/1529023418",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1291493175983517700,
+			"quoted_status_id_str": "1291493175983517698",
+			"quoted_status_permalink": {
+				"url": "https://t.co/HXZ16oHv2G",
+				"expanded": "https://twitter.com/verge/status/1291493175983517698",
+				"display": "twitter.com/verge/status/1…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "게임패스가 정착하면 콘솔과 거리가 먼 한국 게임시장도 뒤흔들릴 거라 생각했는데, 애플 구글은 이러고 있었네요. 정말 양아치다...\nhttps://t.co/4BmLCwe2Ag"
+	},
+	{
+		"created_at": "Wed Sep 23 04:56:30 +0000 2020",
+		"id": 1308321152939352000,
+		"id_str": "1308631301285535744",
+		"full_text": "출처: 책 [공부하기가 죽기보다 싫을 때 읽는 책]\n\n벼락치기, 미루기, 공부 싫어맨들이 읽어보면 좋을 책임다.\n내부 타이틀들이 강렬함.\n\n\"책상이 싫으면 책상 앞에 앉지 마라\"\n\"벼락치기는 공부를 점점 더 싫어하게 만든다\"\n\"내가 공부한다는 사실을 뇌가 모르게 하라\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1308320113205018600,
+		"in_reply_to_status_id_str": "1308320113205018624",
+		"in_reply_to_user_id": 1199486844208967700,
+		"in_reply_to_user_id_str": "1199486844208967680",
+		"in_reply_to_screen_name": "2kago",
+		"user": {
+			"id": 1199486844208967700,
+			"id_str": "1199486844208967680",
+			"name": "이카고🍇🍒",
+			"screen_name": "2kago",
+			"location": "에브리바디즘 안 삽니다",
+			"description": "극렬 여성주의자. 그대들을 달곰한 사랑으로 감싸고 싶다\n#레즈라이트 #GetTheLout #SexNotGender",
+			"url": "https://t.co/GmFl9MijsO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GmFl9MijsO",
+							"expanded_url": "https://2kago-press.postype.com",
+							"display_url": "2kago-press.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2449,
+			"friends_count": 292,
+			"listed_count": 6,
+			"created_at": "Wed Nov 27 00:35:38 +0000 2019",
+			"favourites_count": 15738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265952620172042241/EkW971CJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265952620172042241/EkW971CJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1199486844208967680/1578892721",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 608,
+		"favorite_count": 480,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "출처: 책 [공부하기가 죽기보다 싫을 때 읽는 책]\n\n벼락치기, 미루기, 공부 싫어맨들이 읽어보면 좋을 책임다.\n내부 타이틀들이 강렬함.\n\n\"책상이 싫으면 책상 앞에 앉지 마라\"\n\"벼락치기는 공부를 점점 더 싫어하게 만든다\"\n\"내가 공부한다는 사실을 뇌가 모르게 하라\""
+	},
+	{
+		"created_at": "Wed Sep 23 04:56:23 +0000 2020",
+		"id": 1308320113205018600,
+		"id_str": "1308631273494044672",
+		"full_text": "\"벼락치기를 한 사람들은 '나보다 점수 높은 애들은 나보다 더 괴롭게 공부했겠지'하고 생각한다. 그러면서 나도 지금 이렇게 괴로웠는데 이 이상은 무리라고 생각한다\" 이거 굉장한 착각이라고. 왜냐하면 시간적 여유를 두고 공부했기 때문에 컨디션 조절이 가능했던 사람의 힘듦과 질적 차이가 있음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1308319103086542800,
+		"in_reply_to_status_id_str": "1308319103086542849",
+		"in_reply_to_user_id": 1199486844208967700,
+		"in_reply_to_user_id_str": "1199486844208967680",
+		"in_reply_to_screen_name": "2kago",
+		"user": {
+			"id": 1199486844208967700,
+			"id_str": "1199486844208967680",
+			"name": "이카고🍇🍒",
+			"screen_name": "2kago",
+			"location": "에브리바디즘 안 삽니다",
+			"description": "극렬 여성주의자. 그대들을 달곰한 사랑으로 감싸고 싶다\n#레즈라이트 #GetTheLout #SexNotGender",
+			"url": "https://t.co/GmFl9MijsO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GmFl9MijsO",
+							"expanded_url": "https://2kago-press.postype.com",
+							"display_url": "2kago-press.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2449,
+			"friends_count": 292,
+			"listed_count": 6,
+			"created_at": "Wed Nov 27 00:35:38 +0000 2019",
+			"favourites_count": 15738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265952620172042241/EkW971CJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265952620172042241/EkW971CJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1199486844208967680/1578892721",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 498,
+		"favorite_count": 360,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"벼락치기를 한 사람들은 '나보다 점수 높은 애들은 나보다 더 괴롭게 공부했겠지'하고 생각한다. 그러면서 나도 지금 이렇게 괴로웠는데 이 이상은 무리라고 생각한다\" 이거 굉장한 착각이라고. 왜냐하면 시간적 여유를 두고 공부했기 때문에 컨디션 조절이 가능했던 사람의 힘듦과 질적 차이가 있음."
+	},
+	{
 		"created_at": "Wed Sep 16 22:13:17 +0000 2020",
 		"id": 1306355503665000400,
 		"id_str": "1306355503665000448",
