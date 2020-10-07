@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 07 16:56:20 +0000 2020",
+		"id": 1313803458529558500,
+		"id_str": "1313885885876772864",
+		"full_text": "オランダのデルフト工科大学が開発した、劣化して亀裂が入ると自動的に修復されるコンクリートを紹介した動画。コンクリートの中にバクテリアとその餌を加えておく。亀裂が入り水が浸透すると、バクテリアが活動し始めて炭酸カルシウムを生成し、亀裂を埋める。 via @mashable https://t.co/md0GTJC0fP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mashable",
+					"name": "Mashable",
+					"id": 972651,
+					"id_str": "972651",
+					"indices": [
+						126,
+						135
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 857575769555521500,
+					"id_str": "857575769555521536",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/857575769555521536/img/w1COcIsny7KlDMkT.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/857575769555521536/img/w1COcIsny7KlDMkT.jpg",
+					"url": "https://t.co/md0GTJC0fP",
+					"display_url": "pic.twitter.com/md0GTJC0fP",
+					"expanded_url": "https://twitter.com/mashable/status/1118201637535768576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1118201637535768600,
+					"source_status_id_str": "1118201637535768576",
+					"source_user_id": 972651,
+					"source_user_id_str": "972651"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 857575769555521500,
+					"id_str": "857575769555521536",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/857575769555521536/img/w1COcIsny7KlDMkT.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/857575769555521536/img/w1COcIsny7KlDMkT.jpg",
+					"url": "https://t.co/md0GTJC0fP",
+					"display_url": "pic.twitter.com/md0GTJC0fP",
+					"expanded_url": "https://twitter.com/mashable/status/1118201637535768576/photo/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1118201637535768600,
+					"source_status_id_str": "1118201637535768576",
+					"source_user_id": 972651,
+					"source_user_id_str": "972651",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 101835,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/857575769555521536/pl/TDw0ibghx8-OJzAT.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/857575769555521536/vid/320x180/OWCdbOEbutQjhaiT.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/857575769555521536/vid/1280x720/sSD3ASPkKrEfHcJ0.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/857575769555521536/vid/640x360/554ufp-IpNWIEL00.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Healing concrete",
+						"description": "Dead concrete infused with bacteria awakens when cracks appear, then produces limestone to fills the cracks in a matter of weeks. The concrete lasts for 200 years and self-activates if damage occurs.",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://www.youtube.com/channel/UC9jj-YYSGUXvY2J2nYw9dNQ"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true,
+						"source_user": {
+							"id": 972651,
+							"id_str": "972651",
+							"name": "Mashable",
+							"screen_name": "mashable",
+							"location": "",
+							"description": "Mashable is for superfans. We're not for the casually curious. Obsess with us.",
+							"url": "http://t.co/1Gm8aVACKn",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/1Gm8aVACKn",
+											"expanded_url": "http://mashable.com",
+											"display_url": "mashable.com",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 9688167,
+							"friends_count": 2742,
+							"listed_count": 120764,
+							"created_at": "Mon Mar 12 01:28:01 +0000 2007",
+							"favourites_count": 1552,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 400189,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "00AEEF",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1145679135873933312/OF0s1_Pe_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145679135873933312/OF0s1_Pe_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/972651/1401484849",
+							"profile_link_color": "00AEEF",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "88DBF4",
+							"profile_text_color": "3B3B3B",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 136621994,
+			"id_str": "136621994",
+			"name": "Oguchi T／小口 高",
+			"screen_name": "ogugeo",
+			"location": "柏の葉キャンパス",
+			"description": "地形と地理情報の研究者。中東調査などで考古学者とも連携。風景、地図、地理学、地学、自然エネルギー、音楽（ロック）等についてツイートします。信州諏訪の出身。さいたま市在住。平和をシリアに。Professor, CSIS, The University of Tokyo",
+			"url": "http://t.co/xVtJwoBU9x",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/xVtJwoBU9x",
+							"expanded_url": "http://bit.ly/N7W11J",
+							"display_url": "bit.ly/N7W11J",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42711,
+			"friends_count": 256,
+			"listed_count": 1157,
+			"created_at": "Sat Apr 24 12:55:04 +0000 2010",
+			"favourites_count": 10262,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16516,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "3705FF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1218029800461176833/FH4eTvc0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218029800461176833/FH4eTvc0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/136621994/1401328409",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2324,
+		"favorite_count": 5897,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "オランダのデルフト工科大学が開発した、劣化して亀裂が入ると自動的に修復されるコンクリートを紹介した動画。コンクリートの中にバクテリアとその餌を加えておく。亀裂が入り水が浸透すると、バクテリアが活動し始めて炭酸カルシウムを生成し、亀裂を埋める。 via @mashable https://t.co/md0GTJC0fP"
+	},
+	{
 		"created_at": "Tue Oct 06 09:45:11 +0000 2020",
 		"id": 1313342399234494500,
 		"id_str": "1313414994311081986",
