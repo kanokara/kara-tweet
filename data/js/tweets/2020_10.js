@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 09 14:37:35 +0000 2020",
+		"id": 1314483955836436500,
+		"id_str": "1314575744161345538",
+		"full_text": "울적한 날의 하겐다즈 https://t.co/S5wFzWklKJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314483735929077800,
+					"id_str": "1314483735929077761",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej37_k8UwAECywm.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ej37_k8UwAECywm.png",
+					"url": "https://t.co/S5wFzWklKJ",
+					"display_url": "pic.twitter.com/S5wFzWklKJ",
+					"expanded_url": "https://twitter.com/KyangKyang/status/1314483955836436480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 612,
+							"h": 812,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 612,
+							"h": 812,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 513,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314483735929077800,
+					"id_str": "1314483735929077761",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej37_k8UwAECywm.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ej37_k8UwAECywm.png",
+					"url": "https://t.co/S5wFzWklKJ",
+					"display_url": "pic.twitter.com/S5wFzWklKJ",
+					"expanded_url": "https://twitter.com/KyangKyang/status/1314483955836436480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 612,
+							"h": 812,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 612,
+							"h": 812,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 513,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1314483794024394800,
+					"id_str": "1314483794024394752",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej38C9XU8AA6Dh5.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ej38C9XU8AA6Dh5.png",
+					"url": "https://t.co/S5wFzWklKJ",
+					"display_url": "pic.twitter.com/S5wFzWklKJ",
+					"expanded_url": "https://twitter.com/KyangKyang/status/1314483955836436480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 644,
+							"h": 787,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 644,
+							"h": 787,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314483884927512600,
+					"id_str": "1314483884927512577",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej38IQAUcAE14zK.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ej38IQAUcAE14zK.png",
+					"url": "https://t.co/S5wFzWklKJ",
+					"display_url": "pic.twitter.com/S5wFzWklKJ",
+					"expanded_url": "https://twitter.com/KyangKyang/status/1314483955836436480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 532,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 663,
+							"h": 848,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 663,
+							"h": 848,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314483946701250600,
+					"id_str": "1314483946701250561",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej38L2IU4AEOxec.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ej38L2IU4AEOxec.png",
+					"url": "https://t.co/S5wFzWklKJ",
+					"display_url": "pic.twitter.com/S5wFzWklKJ",
+					"expanded_url": "https://twitter.com/KyangKyang/status/1314483955836436480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 613,
+							"h": 358,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 613,
+							"h": 358,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 613,
+							"h": 358,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19147419,
+			"id_str": "19147419",
+			"name": "홍환",
+			"screen_name": "KyangKyang",
+			"location": "",
+			"description": "게임 시나리오 노동자",
+			"url": "https://t.co/jpPYOr3man",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jpPYOr3man",
+							"expanded_url": "http://honghwan.pe.kr",
+							"display_url": "honghwan.pe.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2846,
+			"friends_count": 335,
+			"listed_count": 22,
+			"created_at": "Sun Jan 18 15:45:41 +0000 2009",
+			"favourites_count": 575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928130926483193856/I1ffjszF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928130926483193856/I1ffjszF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19147419/1356656024",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 483,
+		"favorite_count": 324,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "울적한 날의 하겐다즈 https://t.co/S5wFzWklKJ"
+	},
+	{
 		"created_at": "Fri Oct 09 13:56:42 +0000 2020",
 		"id": 1314565455030354000,
 		"id_str": "1314565455030353920",
