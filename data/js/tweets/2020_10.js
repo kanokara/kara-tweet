@@ -1,6 +1,1155 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 14 14:50:05 +0000 2020",
+		"id": 1316304675197526000,
+		"id_str": "1316390826595938304",
+		"full_text": "@r8teULJ9k7CzAKn 예전에 좌백이 \"내가 말이야 무협이 뭔지 존나 오래 생각해 봤는데... 무협은 중국적인 것이다\" 라고 말했을 때 흥 과연 그럴까 하고 삐딱하게 받아들인 적이 있는데 지금은 어느 정도 동의하게 되었습니다 서부극이 미국인 것처럼 무협은 중국의 땅 물 문화 역사의 일부분이고 곧 중국적인 것이며...",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "r8teULJ9k7CzAKn",
+					"name": "天魔大劫皇",
+					"id": 1297103642374189000,
+					"id_str": "1297103642374189056",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1316303224211562500,
+		"in_reply_to_status_id_str": "1316303224211562496",
+		"in_reply_to_user_id": 1297103642374189000,
+		"in_reply_to_user_id_str": "1297103642374189056",
+		"in_reply_to_screen_name": "r8teULJ9k7CzAKn",
+		"user": {
+			"id": 315583544,
+			"id_str": "315583544",
+			"name": "피어스 호th론",
+			"screen_name": "sub_plot",
+			"location": "",
+			"description": "이러시는 이유가 있을 거 아니에요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11655,
+			"friends_count": 12328,
+			"listed_count": 74,
+			"created_at": "Sun Jun 12 03:34:43 +0000 2011",
+			"favourites_count": 1061979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/543864389233692672/Iv92TTlQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/543864389233692672/Iv92TTlQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/315583544/1356864547",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@r8teULJ9k7CzAKn 예전에 좌백이 \"내가 말이야 무협이 뭔지 존나 오래 생각해 봤는데... 무협은 중국적인 것이다\" 라고 말했을 때 흥 과연 그럴까 하고 삐딱하게 받아들인 적이 있는데 지금은 어느 정도 동의하게 되었습니다 서부극이 미국인 것처럼 무협은 중국의 땅 물 문화 역사의 일부분이고 곧 중국적인 것이며..."
+	},
+	{
+		"created_at": "Wed Oct 14 14:50:02 +0000 2020",
+		"id": 1316302244715749400,
+		"id_str": "1316390817817219073",
+		"full_text": "비슷한 사례를 들자면 일본인들은 일본 애니메이션과 라이트노벨처럼 말하고 외국인들이 보기에 한국인은 정말로 한류 드라마에 나오는 것처럼 말한다고 하지요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1316302243491053600,
+		"in_reply_to_status_id_str": "1316302243491053569",
+		"in_reply_to_user_id": 315583544,
+		"in_reply_to_user_id_str": "315583544",
+		"in_reply_to_screen_name": "sub_plot",
+		"user": {
+			"id": 315583544,
+			"id_str": "315583544",
+			"name": "피어스 호th론",
+			"screen_name": "sub_plot",
+			"location": "",
+			"description": "이러시는 이유가 있을 거 아니에요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11655,
+			"friends_count": 12328,
+			"listed_count": 74,
+			"created_at": "Sun Jun 12 03:34:43 +0000 2011",
+			"favourites_count": 1061979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/543864389233692672/Iv92TTlQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/543864389233692672/Iv92TTlQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/315583544/1356864547",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "비슷한 사례를 들자면 일본인들은 일본 애니메이션과 라이트노벨처럼 말하고 외국인들이 보기에 한국인은 정말로 한류 드라마에 나오는 것처럼 말한다고 하지요."
+	},
+	{
+		"created_at": "Wed Oct 14 14:50:01 +0000 2020",
+		"id": 1316302243491053600,
+		"id_str": "1316390810498203648",
+		"full_text": "무협소설에서 볼 수 있는 특유의 어떤 문체 억양 어조에 대해 나는 그것이 무협 고유의 것이라고 생각했지만 시간이 지나 좀 더 중국 서브컬쳐와 중국인들이 하는 말을 읽고 나자 그것이 그냥 중국인들의 문체고 억양이고 어조라는 것을 알게 되었다 그러니까 중국인들은 무협소설처럼 말하는 것이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 315583544,
+			"id_str": "315583544",
+			"name": "피어스 호th론",
+			"screen_name": "sub_plot",
+			"location": "",
+			"description": "이러시는 이유가 있을 거 아니에요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11655,
+			"friends_count": 12328,
+			"listed_count": 74,
+			"created_at": "Sun Jun 12 03:34:43 +0000 2011",
+			"favourites_count": 1061979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/543864389233692672/Iv92TTlQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/543864389233692672/Iv92TTlQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/315583544/1356864547",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 126,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "무협소설에서 볼 수 있는 특유의 어떤 문체 억양 어조에 대해 나는 그것이 무협 고유의 것이라고 생각했지만 시간이 지나 좀 더 중국 서브컬쳐와 중국인들이 하는 말을 읽고 나자 그것이 그냥 중국인들의 문체고 억양이고 어조라는 것을 알게 되었다 그러니까 중국인들은 무협소설처럼 말하는 것이다."
+	},
+	{
+		"created_at": "Wed Oct 14 14:28:16 +0000 2020",
+		"id": 1204392300475867100,
+		"id_str": "1316385340018442240",
+		"full_text": "마르케스의 이 말이 생각나요 “아직 젊을 때는 영감이 끝없이 솟구치고 있기 때문에 우연에 맡기는 방식으로 일해도 괜찮지만 소설 쓰는 기법을 배우지 않는다면, 영감이 사라지고 이를 보사할 수 있는 기법이 필요하게 되는 훗날에 곤경에 빠질 것이라는 이야기” https://t.co/8uoSlznMHD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204392285284126700,
+					"id_str": "1204392285284126720",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/ELbcZv6U0AAIrp6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELbcZv6U0AAIrp6.jpg",
+					"url": "https://t.co/8uoSlznMHD",
+					"display_url": "pic.twitter.com/8uoSlznMHD",
+					"expanded_url": "https://twitter.com/racommu/status/1204392300475867136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1667,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 553,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 977,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204392285284126700,
+					"id_str": "1204392285284126720",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/ELbcZv6U0AAIrp6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELbcZv6U0AAIrp6.jpg",
+					"url": "https://t.co/8uoSlznMHD",
+					"display_url": "pic.twitter.com/8uoSlznMHD",
+					"expanded_url": "https://twitter.com/racommu/status/1204392300475867136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1667,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 553,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 977,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1042080141969477600,
+			"id_str": "1042080141969477632",
+			"name": "온다",
+			"screen_name": "racommu",
+			"location": "진짜 잡덕임 ",
+			"description": "개인 의견 정리 및 감상계 l 잡덕이고 말 많음 l 장르팔로 비추 l RT 가끔 많이함 l 탐라 잘 놓침 l 타래까지 다 읽어주세요 l 미러블락, 체인블락 가끔 씀",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6233,
+			"friends_count": 253,
+			"listed_count": 27,
+			"created_at": "Tue Sep 18 15:57:21 +0000 2018",
+			"favourites_count": 38215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71029,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260191866944811015/_kJbLVIP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260191866944811015/_kJbLVIP_normal.jpg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 231,
+		"favorite_count": 199,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마르케스의 이 말이 생각나요 “아직 젊을 때는 영감이 끝없이 솟구치고 있기 때문에 우연에 맡기는 방식으로 일해도 괜찮지만 소설 쓰는 기법을 배우지 않는다면, 영감이 사라지고 이를 보사할 수 있는 기법이 필요하게 되는 훗날에 곤경에 빠질 것이라는 이야기” https://t.co/8uoSlznMHD"
+	},
+	{
+		"created_at": "Wed Oct 14 14:22:17 +0000 2020",
+		"id": 1316290282803978200,
+		"id_str": "1316383831138549763",
+		"full_text": "초창기 트위터에 전독시를 메타소설이 아니라 피폐물이라 읽으신 분들도 꽤 있었는데 아마 남판소 코드가 낯설었던 부분이 있기 때문 아닌가 생각 됨",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1042080141969477600,
+			"id_str": "1042080141969477632",
+			"name": "온다",
+			"screen_name": "racommu",
+			"location": "진짜 잡덕임 ",
+			"description": "개인 의견 정리 및 감상계 l 잡덕이고 말 많음 l 장르팔로 비추 l RT 가끔 많이함 l 탐라 잘 놓침 l 타래까지 다 읽어주세요 l 미러블락, 체인블락 가끔 씀",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6233,
+			"friends_count": 253,
+			"listed_count": 27,
+			"created_at": "Tue Sep 18 15:57:21 +0000 2018",
+			"favourites_count": 38215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71029,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260191866944811015/_kJbLVIP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260191866944811015/_kJbLVIP_normal.jpg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "초창기 트위터에 전독시를 메타소설이 아니라 피폐물이라 읽으신 분들도 꽤 있었는데 아마 남판소 코드가 낯설었던 부분이 있기 때문 아닌가 생각 됨"
+	},
+	{
+		"created_at": "Wed Oct 14 14:22:05 +0000 2020",
+		"id": 1316289731924123600,
+		"id_str": "1316383780794322944",
+		"full_text": "아 뻘하게 갑자기 성좌들이 여주판 가서 보호자롤 된 거 생각남",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1042080141969477600,
+			"id_str": "1042080141969477632",
+			"name": "온다",
+			"screen_name": "racommu",
+			"location": "진짜 잡덕임 ",
+			"description": "개인 의견 정리 및 감상계 l 잡덕이고 말 많음 l 장르팔로 비추 l RT 가끔 많이함 l 탐라 잘 놓침 l 타래까지 다 읽어주세요 l 미러블락, 체인블락 가끔 씀",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6233,
+			"friends_count": 253,
+			"listed_count": 27,
+			"created_at": "Tue Sep 18 15:57:21 +0000 2018",
+			"favourites_count": 38215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71029,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260191866944811015/_kJbLVIP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260191866944811015/_kJbLVIP_normal.jpg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아 뻘하게 갑자기 성좌들이 여주판 가서 보호자롤 된 거 생각남"
+	},
+	{
+		"created_at": "Wed Oct 14 14:16:31 +0000 2020",
+		"id": 1316284871682056200,
+		"id_str": "1316382379649298432",
+		"full_text": "어떻게 이 플롯으로 1화를 보낼 수 있는가 하는 의문이 들었기 때문이다. 물론, 텍스트와 이미지, 영상은 각기 다른 층위에서 작동하는건 알고, 웹소설 또한 '장르소설'로서 폐쇄된 구조가 존재한다. 그러나 매체가 시대성을 가진다고 할 때 이런 특징은 시대성이 아닐까 생각했던 것.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1316284058574364700,
+		"in_reply_to_status_id_str": "1316284058574364672",
+		"in_reply_to_user_id": 1144631613638099000,
+		"in_reply_to_user_id_str": "1144631613638098947",
+		"in_reply_to_screen_name": "Whuibin_Info",
+		"user": {
+			"id": 1144631613638099000,
+			"id_str": "1144631613638098947",
+			"name": "김휘빈",
+			"screen_name": "Whuibin_Info",
+			"location": "대한민국 서울",
+			"description": "쿨하게 공지만 때리고 싶었는데 3트윗만에 망한 장르 작가 계정. 키배, 자덕질, 장르평론으로 삼위일체중. 멘션답변 없을 가능성 높음. whuibink@지메일",
+			"url": "https://t.co/pPCX54qiRR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pPCX54qiRR",
+							"expanded_url": "http://dillyhub.com/home/whuibin",
+							"display_url": "dillyhub.com/home/whuibin",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1383,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Fri Jun 28 15:40:17 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1266670278962081793/5JYUM7r8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266670278962081793/5JYUM7r8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144631613638098947/1561756317",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "어떻게 이 플롯으로 1화를 보낼 수 있는가 하는 의문이 들었기 때문이다. 물론, 텍스트와 이미지, 영상은 각기 다른 층위에서 작동하는건 알고, 웹소설 또한 '장르소설'로서 폐쇄된 구조가 존재한다. 그러나 매체가 시대성을 가진다고 할 때 이런 특징은 시대성이 아닐까 생각했던 것."
+	},
+	{
+		"created_at": "Wed Oct 14 14:16:22 +0000 2020",
+		"id": 1316284058574364700,
+		"id_str": "1316382344496857088",
+		"full_text": "뭐 호구는 남판소 필드에서만 나오는 말이긴 한데 결국 이것이 시대정서를 반영한다는 점에서 어느정도는 상통하는 맥락이 있지 않을까 생각했는데 음.. 정말 아니었습니다. 사실 이건 &lt;90일, 지정생존자&gt;를 봤을 때도 어느정도 느끼긴 했던 거였다. 웹소설의 소모성이 대중의 입맛에 맞춘거라면",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1316283513079881700,
+		"in_reply_to_status_id_str": "1316283513079881729",
+		"in_reply_to_user_id": 1144631613638099000,
+		"in_reply_to_user_id_str": "1144631613638098947",
+		"in_reply_to_screen_name": "Whuibin_Info",
+		"user": {
+			"id": 1144631613638099000,
+			"id_str": "1144631613638098947",
+			"name": "김휘빈",
+			"screen_name": "Whuibin_Info",
+			"location": "대한민국 서울",
+			"description": "쿨하게 공지만 때리고 싶었는데 3트윗만에 망한 장르 작가 계정. 키배, 자덕질, 장르평론으로 삼위일체중. 멘션답변 없을 가능성 높음. whuibink@지메일",
+			"url": "https://t.co/pPCX54qiRR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pPCX54qiRR",
+							"expanded_url": "http://dillyhub.com/home/whuibin",
+							"display_url": "dillyhub.com/home/whuibin",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1383,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Fri Jun 28 15:40:17 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1266670278962081793/5JYUM7r8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266670278962081793/5JYUM7r8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144631613638098947/1561756317",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "뭐 호구는 남판소 필드에서만 나오는 말이긴 한데 결국 이것이 시대정서를 반영한다는 점에서 어느정도는 상통하는 맥락이 있지 않을까 생각했는데 음.. 정말 아니었습니다. 사실 이건 &lt;90일, 지정생존자&gt;를 봤을 때도 어느정도 느끼긴 했던 거였다. 웹소설의 소모성이 대중의 입맛에 맞춘거라면"
+	},
+	{
+		"created_at": "Wed Oct 14 14:16:20 +0000 2020",
+		"id": 1316283513079881700,
+		"id_str": "1316382335101620226",
+		"full_text": "이걸 본 나는 담배 피며 술 바께스로 처마시며 광발작 일어날 듯한 사이키델릭 조명이 번쩍이는 클럽에서 병아리옷 입고 동요에 맞춰 춤추는 유치원생의 순수를 발견한 썩은 어른 1인의 기분이 되는데 이게 또 베댓임... 몇천 추천이 붙어 있는 거고... 그래... 필드가 다르다는 건 알았지만...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1316282757362794500,
+		"in_reply_to_status_id_str": "1316282757362794500",
+		"in_reply_to_user_id": 1144631613638099000,
+		"in_reply_to_user_id_str": "1144631613638098947",
+		"in_reply_to_screen_name": "Whuibin_Info",
+		"user": {
+			"id": 1144631613638099000,
+			"id_str": "1144631613638098947",
+			"name": "김휘빈",
+			"screen_name": "Whuibin_Info",
+			"location": "대한민국 서울",
+			"description": "쿨하게 공지만 때리고 싶었는데 3트윗만에 망한 장르 작가 계정. 키배, 자덕질, 장르평론으로 삼위일체중. 멘션답변 없을 가능성 높음. whuibink@지메일",
+			"url": "https://t.co/pPCX54qiRR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pPCX54qiRR",
+							"expanded_url": "http://dillyhub.com/home/whuibin",
+							"display_url": "dillyhub.com/home/whuibin",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1383,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Fri Jun 28 15:40:17 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1266670278962081793/5JYUM7r8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266670278962081793/5JYUM7r8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144631613638098947/1561756317",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이걸 본 나는 담배 피며 술 바께스로 처마시며 광발작 일어날 듯한 사이키델릭 조명이 번쩍이는 클럽에서 병아리옷 입고 동요에 맞춰 춤추는 유치원생의 순수를 발견한 썩은 어른 1인의 기분이 되는데 이게 또 베댓임... 몇천 추천이 붙어 있는 거고... 그래... 필드가 다르다는 건 알았지만..."
+	},
+	{
+		"created_at": "Wed Oct 14 14:16:12 +0000 2020",
+		"id": 1316282757362794500,
+		"id_str": "1316382300007878658",
+		"full_text": "초반에 \"당신이 호구가 아님에 안심합니다\" 라는 텍스트가 뜨는 장면이 있다. 남판 독자들이야 이게 주인공이 절대로 꽁으로 남에게 뭐 안 주고 갑질도 해서 이익을 챙겼다는 의미로 받아들일텐데 웹툰 독자들의 말은 달랐다.\n\n\"그래도 성좌들이 주인공 걱정을 해 주네요 호구일까봐 걱정한듯\"\n\n띠용",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1316282125994262500,
+		"in_reply_to_status_id_str": "1316282125994262531",
+		"in_reply_to_user_id": 1144631613638099000,
+		"in_reply_to_user_id_str": "1144631613638098947",
+		"in_reply_to_screen_name": "Whuibin_Info",
+		"user": {
+			"id": 1144631613638099000,
+			"id_str": "1144631613638098947",
+			"name": "김휘빈",
+			"screen_name": "Whuibin_Info",
+			"location": "대한민국 서울",
+			"description": "쿨하게 공지만 때리고 싶었는데 3트윗만에 망한 장르 작가 계정. 키배, 자덕질, 장르평론으로 삼위일체중. 멘션답변 없을 가능성 높음. whuibink@지메일",
+			"url": "https://t.co/pPCX54qiRR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pPCX54qiRR",
+							"expanded_url": "http://dillyhub.com/home/whuibin",
+							"display_url": "dillyhub.com/home/whuibin",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1383,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Fri Jun 28 15:40:17 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1266670278962081793/5JYUM7r8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266670278962081793/5JYUM7r8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144631613638098947/1561756317",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 137,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "초반에 \"당신이 호구가 아님에 안심합니다\" 라는 텍스트가 뜨는 장면이 있다. 남판 독자들이야 이게 주인공이 절대로 꽁으로 남에게 뭐 안 주고 갑질도 해서 이익을 챙겼다는 의미로 받아들일텐데 웹툰 독자들의 말은 달랐다.\n\n\"그래도 성좌들이 주인공 걱정을 해 주네요 호구일까봐 걱정한듯\"\n\n띠용"
+	},
+	{
+		"created_at": "Wed Oct 14 14:16:10 +0000 2020",
+		"id": 1316282125994262500,
+		"id_str": "1316382293791895555",
+		"full_text": "남에게 뭔가 자비나 베풂이 있으면 그 순간 주인공은 호구가 되고, 독자에게 욕을 존나 처먹고, 하차합니다 댓글이 뜬다... 이건 내가 노블레스 있을 때부터 관측되던 현상인데, 그런게 독식에서 나혼렙 같은 것까지 발전한 거고 전독시도 보면 호구소리 안 들으려고 엄청 어거지로 틀어놓은게 보인다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1316281762230669300,
+		"in_reply_to_status_id_str": "1316281762230669312",
+		"in_reply_to_user_id": 1144631613638099000,
+		"in_reply_to_user_id_str": "1144631613638098947",
+		"in_reply_to_screen_name": "Whuibin_Info",
+		"user": {
+			"id": 1144631613638099000,
+			"id_str": "1144631613638098947",
+			"name": "김휘빈",
+			"screen_name": "Whuibin_Info",
+			"location": "대한민국 서울",
+			"description": "쿨하게 공지만 때리고 싶었는데 3트윗만에 망한 장르 작가 계정. 키배, 자덕질, 장르평론으로 삼위일체중. 멘션답변 없을 가능성 높음. whuibink@지메일",
+			"url": "https://t.co/pPCX54qiRR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pPCX54qiRR",
+							"expanded_url": "http://dillyhub.com/home/whuibin",
+							"display_url": "dillyhub.com/home/whuibin",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1383,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Fri Jun 28 15:40:17 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1266670278962081793/5JYUM7r8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266670278962081793/5JYUM7r8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144631613638098947/1561756317",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "남에게 뭔가 자비나 베풂이 있으면 그 순간 주인공은 호구가 되고, 독자에게 욕을 존나 처먹고, 하차합니다 댓글이 뜬다... 이건 내가 노블레스 있을 때부터 관측되던 현상인데, 그런게 독식에서 나혼렙 같은 것까지 발전한 거고 전독시도 보면 호구소리 안 들으려고 엄청 어거지로 틀어놓은게 보인다."
+	},
+	{
+		"created_at": "Wed Oct 14 14:16:07 +0000 2020",
+		"id": 1316281762230669300,
+		"id_str": "1316382279694868482",
+		"full_text": "전독시는 현재 남판의 독자 태도가 잘 나오는 작품인데 예를 들면 \"독식을 좋아하는 성좌\" \"고구마 전개에 분개하는 성좌\" \"사이다패스 성좌\"... 그 중에는 '호구력'이야기도 계속 나온다. 남판에서 '이 새끼 호구네 하차합니다'는 꽤 흔한 상용구인데, 호구... 쉽게 말하면 이기적이지 않은 놈이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1316281264131825700,
+		"in_reply_to_status_id_str": "1316281264131825664",
+		"in_reply_to_user_id": 1144631613638099000,
+		"in_reply_to_user_id_str": "1144631613638098947",
+		"in_reply_to_screen_name": "Whuibin_Info",
+		"user": {
+			"id": 1144631613638099000,
+			"id_str": "1144631613638098947",
+			"name": "김휘빈",
+			"screen_name": "Whuibin_Info",
+			"location": "대한민국 서울",
+			"description": "쿨하게 공지만 때리고 싶었는데 3트윗만에 망한 장르 작가 계정. 키배, 자덕질, 장르평론으로 삼위일체중. 멘션답변 없을 가능성 높음. whuibink@지메일",
+			"url": "https://t.co/pPCX54qiRR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pPCX54qiRR",
+							"expanded_url": "http://dillyhub.com/home/whuibin",
+							"display_url": "dillyhub.com/home/whuibin",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1383,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Fri Jun 28 15:40:17 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1266670278962081793/5JYUM7r8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266670278962081793/5JYUM7r8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144631613638098947/1561756317",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 131,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "전독시는 현재 남판의 독자 태도가 잘 나오는 작품인데 예를 들면 \"독식을 좋아하는 성좌\" \"고구마 전개에 분개하는 성좌\" \"사이다패스 성좌\"... 그 중에는 '호구력'이야기도 계속 나온다. 남판에서 '이 새끼 호구네 하차합니다'는 꽤 흔한 상용구인데, 호구... 쉽게 말하면 이기적이지 않은 놈이다."
+	},
+	{
 		"created_at": "Wed Oct 14 13:57:56 +0000 2020",
 		"id": 1316377702576738300,
 		"id_str": "1316377702576738304",
