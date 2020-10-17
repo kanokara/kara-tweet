@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 17 02:43:09 +0000 2020",
+		"id": 1317295053782487000,
+		"id_str": "1317295053782487040",
+		"full_text": "직원님 or 여기요. 저기요로 호칭하는 건 무례하다고 봐요.\nhttps://t.co/qFVJdbntb2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qFVJdbntb2",
+					"expanded_url": "https://twitter.com/dennoch1919/status/1316940519013044225",
+					"display_url": "twitter.com/dennoch1919/st…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 84,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2378,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1316940519013044200,
+		"quoted_status_id_str": "1316940519013044225",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qFVJdbntb2",
+			"expanded": "https://twitter.com/dennoch1919/status/1316940519013044225",
+			"display": "twitter.com/dennoch1919/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 16 03:14:21 +0000 2020",
+			"id": 1316940519013044200,
+			"id_str": "1316940519013044225",
+			"full_text": "식당에서 주인 또는 종업원을 호출할 때 사용하는 표현으로 저기요/여기요은 연령대에 따라 뚜렷한 차이가 나타난다고 한다. 저기요는 듣는 이, 여기요는 말하는 이 기준. 젊을수록 저기요를 사용하고, 연령대가 올라갈수록 여기요를 많이 사용한다고. 국립국어원의 대도시 지역사회 방언 조사(2015). https://t.co/FpP8hFxIOs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				163
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1316940512113217500,
+						"id_str": "1316940512113217536",
+						"indices": [
+							164,
+							187
+						],
+						"media_url": "http://pbs.twimg.com/media/Eka2axbUUAA_z7y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eka2axbUUAA_z7y.jpg",
+						"url": "https://t.co/FpP8hFxIOs",
+						"display_url": "pic.twitter.com/FpP8hFxIOs",
+						"expanded_url": "https://twitter.com/dennoch1919/status/1316940519013044225/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 865,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 490,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1298,
+								"h": 936,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1316940512113217500,
+						"id_str": "1316940512113217536",
+						"indices": [
+							164,
+							187
+						],
+						"media_url": "http://pbs.twimg.com/media/Eka2axbUUAA_z7y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eka2axbUUAA_z7y.jpg",
+						"url": "https://t.co/FpP8hFxIOs",
+						"display_url": "pic.twitter.com/FpP8hFxIOs",
+						"expanded_url": "https://twitter.com/dennoch1919/status/1316940519013044225/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 865,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 490,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1298,
+								"h": 936,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 35781837,
+				"id_str": "35781837",
+				"name": "dennoch",
+				"screen_name": "dennoch1919",
+				"location": "Seoul, South Korea",
+				"description": "良夜須堪惜",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3440,
+				"friends_count": 394,
+				"listed_count": 26,
+				"created_at": "Mon Apr 27 16:15:57 +0000 2009",
+				"favourites_count": 6421,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8151,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1064083726928203777/N6EMQwyz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064083726928203777/N6EMQwyz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/35781837/1542530531",
+				"profile_link_color": "001871",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1081,
+			"favorite_count": 400,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "직원님 or 여기요. 저기요로 호칭하는 건 무례하다고 봐요.\nhttps://t.co/qFVJdbntb2"
+	},
+	{
 		"created_at": "Sat Oct 17 01:08:36 +0000 2020",
 		"id": 1317271257360916500,
 		"id_str": "1317271257360916480",
