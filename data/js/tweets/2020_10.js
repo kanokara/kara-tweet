@@ -1,6 +1,295 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 17 15:57:54 +0000 2020",
+		"id": 1317495058031992800,
+		"id_str": "1317495058031992832",
+		"full_text": "이 문맥을 엄밀화하자면 페미니즘은 반군사적인 게 아닌, 반국가적 사상. 하지만 현실 정치는 일국 단위의 구성만 가능하기에 한계가.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 83,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이 문맥을 엄밀화하자면 페미니즘은 반군사적인 게 아닌, 반국가적 사상. 하지만 현실 정치는 일국 단위의 구성만 가능하기에 한계가."
+	},
+	{
+		"created_at": "Sat Oct 17 15:55:25 +0000 2020",
+		"id": 1317450055754735600,
+		"id_str": "1317494433068118016",
+		"full_text": "더불어, 안티 페미 여러분께. \nhttps://t.co/1KDz9WdzuH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1KDz9WdzuH",
+					"expanded_url": "https://twitter.com/and_so_0n/status/1317017796186832897?s=19",
+					"display_url": "twitter.com/and_so_0n/stat…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1317375878888714200,
+		"in_reply_to_status_id_str": "1317375878888714240",
+		"in_reply_to_user_id": 317200841,
+		"in_reply_to_user_id_str": "317200841",
+		"in_reply_to_screen_name": "and_so_0n",
+		"user": {
+			"id": 317200841,
+			"id_str": "317200841",
+			"name": "응정",
+			"screen_name": "and_so_0n",
+			"location": "",
+			"description": "조금씩 천천히",
+			"url": "https://t.co/EcfFf1ZpPL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EcfFf1ZpPL",
+							"expanded_url": "https://ice-summer.tistory.com/notice",
+							"display_url": "ice-summer.tistory.com/notice",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3946,
+			"friends_count": 826,
+			"listed_count": 10,
+			"created_at": "Tue Jun 14 15:46:49 +0000 2011",
+			"favourites_count": 4982,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1317128847888805888/xBoj4O-s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317128847888805888/xBoj4O-s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/317200841/1602863171",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1317017796186833000,
+		"quoted_status_id_str": "1317017796186832897",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1KDz9WdzuH",
+			"expanded": "https://twitter.com/and_so_0n/status/1317017796186832897?s=19",
+			"display": "twitter.com/and_so_0n/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 16 08:21:26 +0000 2020",
+			"id": 1317017796186833000,
+			"id_str": "1317017796186832897",
+			"full_text": "페미니즘은 현재 한국사회에서 남성과 여성의 평등을 주장하는 학문으로 대중적으로 알려져있습니다. 이 정의 때문에 남자들이 '우리도 피해자다' 논리를 펴지요. 하지만 남녀평등은 페미니즘의 수많은 의제 중 하나일 뿐입니다. 저는 페미니즘이 궁극적으로 군사주의에 대항하는 이론이라고 여깁니다",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				158
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 317200841,
+				"id_str": "317200841",
+				"name": "응정",
+				"screen_name": "and_so_0n",
+				"location": "",
+				"description": "조금씩 천천히",
+				"url": "https://t.co/EcfFf1ZpPL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EcfFf1ZpPL",
+								"expanded_url": "https://ice-summer.tistory.com/notice",
+								"display_url": "ice-summer.tistory.com/notice",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3946,
+				"friends_count": 826,
+				"listed_count": 10,
+				"created_at": "Tue Jun 14 15:46:49 +0000 2011",
+				"favourites_count": 4982,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6012,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1317128847888805888/xBoj4O-s_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317128847888805888/xBoj4O-s_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/317200841/1602863171",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 61,
+			"favorite_count": 81,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 26,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "더불어, 안티 페미 여러분께. \nhttps://t.co/1KDz9WdzuH"
+	},
+	{
 		"created_at": "Sat Oct 17 05:34:57 +0000 2020",
 		"id": 1317338289662091300,
 		"id_str": "1317338289662091264",
