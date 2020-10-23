@@ -1,6 +1,118 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 23 12:22:49 +0000 2020",
+		"id": 1319615257036292000,
+		"id_str": "1319615257036292097",
+		"full_text": "Korean Lesbians Short Film | 온 에어 ON AIR (2018) // 씨네허브 단편영화 Korean Shor... https://t.co/QjxjK969mn 출처 @YouTube \n\n백합(퀴어) 영화라고 해서 갈무리는 하지만 이걸 과연 볼까... #귀차니즘",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "귀차니즘",
+					"indices": [
+						150,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						103,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QjxjK969mn",
+					"expanded_url": "https://youtu.be/xsjy0uvAAB8",
+					"display_url": "youtu.be/xsjy0uvAAB8",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 85,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2474,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Korean Lesbians Short Film | 온 에어 ON AIR (2018) // 씨네허브 단편영화 Korean Shor... https://t.co/QjxjK969mn 출처 @YouTube \n\n백합(퀴어) 영화라고 해서 갈무리는 하지만 이걸 과연 볼까... #귀차니즘"
+	},
+	{
 		"created_at": "Thu Oct 22 09:57:58 +0000 2020",
 		"id": 1319216418685026300,
 		"id_str": "1319216418685026304",
