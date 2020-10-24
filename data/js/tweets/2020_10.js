@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 24 05:57:36 +0000 2020",
+		"id": 1316647064592281600,
+		"id_str": "1319880703937396737",
+		"full_text": "@easteners 명청 소설 속 남성 동성애 유형 비교- 이 논문이요",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "easteners",
+					"name": "Easteners",
+					"id": 1282920674193899500,
+					"id_str": "1282920674193899521",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1316381004651667500,
+		"in_reply_to_status_id_str": "1316381004651667458",
+		"in_reply_to_user_id": 1282920674193899500,
+		"in_reply_to_user_id_str": "1282920674193899521",
+		"in_reply_to_screen_name": "easteners",
+		"user": {
+			"id": 947830735737520100,
+			"id_str": "947830735737520135",
+			"name": "hoifa",
+			"screen_name": "leoglet433",
+			"location": "",
+			"description": "프랑스, 여진족, 바르셀로나 좋아해요",
+			"url": "https://t.co/QPsKkRnsvY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QPsKkRnsvY",
+							"expanded_url": "https://blog.naver.com/pepcityone",
+							"display_url": "blog.naver.com/pepcityone",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 206,
+			"friends_count": 117,
+			"listed_count": 0,
+			"created_at": "Mon Jan 01 14:03:52 +0000 2018",
+			"favourites_count": 1299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312041214699474948/w0U6DM_A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312041214699474948/w0U6DM_A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/947830735737520135/1602308064",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@easteners 명청 소설 속 남성 동성애 유형 비교- 이 논문이요"
+	},
+	{
 		"created_at": "Sat Oct 24 01:49:09 +0000 2020",
 		"id": 1319669868375863300,
 		"id_str": "1319818179665747969",
