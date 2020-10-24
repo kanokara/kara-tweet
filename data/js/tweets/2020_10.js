@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 24 01:49:09 +0000 2020",
+		"id": 1319669868375863300,
+		"id_str": "1319818179665747969",
+		"full_text": "この木村幹先生の指摘がすべてを物語っている。「韓国経済崩壊」ビジネスの人たちはまぼろしとヘイトでメシを食ってきたということ。韓国は経済的なパフォーマンスも現在は日本より上向いているし、米軍基地の返還交渉にも着々と成功している。 https://t.co/WGT7FtcAg3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WGT7FtcAg3",
+					"expanded_url": "https://twitter.com/kankimura/status/1319661815924551680",
+					"display_url": "twitter.com/kankimura/stat…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 99852164,
+			"id_str": "99852164",
+			"name": "Ikuo Gonoï",
+			"screen_name": "gonoi",
+			"location": "いまは　どこにも　住んでいないの（©田村隆一）",
+			"description": "Political theorist -democratic theory, world order proposals & aesthetics. 政治学・国際関係論，美と政治，モード論.『現代用語の基礎知識』「政治」項目の執筆. 朝日新聞論座等に連載．近頃は『現代思想』に論文載せたりなど.",
+			"url": "https://t.co/J6gZUqruEt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J6gZUqruEt",
+							"expanded_url": "https://researchmap.jp/gonoi_ikuo",
+							"display_url": "researchmap.jp/gonoi_ikuo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18065,
+			"friends_count": 278,
+			"listed_count": 669,
+			"created_at": "Mon Dec 28 03:45:55 +0000 2009",
+			"favourites_count": 107318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/462922728287137792/amjiqLU2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/462922728287137792/amjiqLU2_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/99852164/1593679103",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1319661815924551700,
+		"quoted_status_id_str": "1319661815924551680",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WGT7FtcAg3",
+			"expanded": "https://twitter.com/kankimura/status/1319661815924551680",
+			"display": "twitter.com/kankimura/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 23 15:27:49 +0000 2020",
+			"id": 1319661815924551700,
+			"id_str": "1319661815924551680",
+			"full_text": "日本のメディアが「韓国経済崩壊」とか適当に言い続けている間に、こうなっているというのはもう笑うしかない。そしてそんなメディア言説にしがみついている人たちもどうかしている。",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				85
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1319657793578696700,
+			"in_reply_to_status_id_str": "1319657793578696705",
+			"in_reply_to_user_id": 14072861,
+			"in_reply_to_user_id_str": "14072861",
+			"in_reply_to_screen_name": "kankimura",
+			"user": {
+				"id": 14072861,
+				"id_str": "14072861",
+				"name": "Kan Kimura",
+				"screen_name": "kankimura",
+				"location": "Earth",
+				"description": "No comment at all.",
+				"url": "https://t.co/iaiU6FjeCI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iaiU6FjeCI",
+								"expanded_url": "http://kankimura.epizy.com/",
+								"display_url": "kankimura.epizy.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44651,
+				"friends_count": 1307,
+				"listed_count": 1542,
+				"created_at": "Mon Mar 03 15:05:22 +0000 2008",
+				"favourites_count": 36667,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 59615,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1057171640935534592/BvO4IcCc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057171640935534592/BvO4IcCc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14072861/1555222995",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 75,
+			"favorite_count": 188,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ja"
+		},
+		"retweet_count": 46,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "この木村幹先生の指摘がすべてを物語っている。「韓国経済崩壊」ビジネスの人たちはまぼろしとヘイトでメシを食ってきたということ。韓国は経済的なパフォーマンスも現在は日本より上向いているし、米軍基地の返還交渉にも着々と成功している。 https://t.co/WGT7FtcAg3"
+	},
+	{
 		"created_at": "Fri Oct 23 12:22:49 +0000 2020",
 		"id": 1319615257036292000,
 		"id_str": "1319615257036292097",
