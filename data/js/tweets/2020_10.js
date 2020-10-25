@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 25 11:25:16 +0000 2020",
+		"id": 1320325551630905300,
+		"id_str": "1320325551630905344",
+		"full_text": "공리적으로 구분되는 주술은 Sorcery. 남에게 해를 입히는 마법은 Black Magic, 남에게 이득을 주는 마법은 White Magic. 이런 식으로 구분하며, Hex, Curse, Jinx등의 \"같은 저주\"도 그 용도나 구분에 따라서 다양한 단계로 나뉘는게 서양의 용어입니다.\"\nhttps://t.co/RQuUdnPSFK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RQuUdnPSFK",
+					"expanded_url": "https://mobile.typemoon.net/plugin/mobile/board.php?bo_table=write_nirvana&wr_id=26594",
+					"display_url": "mobile.typemoon.net/plugin/mobile/…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1320325402057867300,
+		"in_reply_to_status_id_str": "1320325402057867264",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 85,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2499,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공리적으로 구분되는 주술은 Sorcery. 남에게 해를 입히는 마법은 Black Magic, 남에게 이득을 주는 마법은 White Magic. 이런 식으로 구분하며, Hex, Curse, Jinx등의 \"같은 저주\"도 그 용도나 구분에 따라서 다양한 단계로 나뉘는게 서양의 용어입니다.\"\nhttps://t.co/RQuUdnPSFK"
+	},
+	{
 		"created_at": "Sun Oct 25 03:58:39 +0000 2020",
 		"id": 1320213155151114200,
 		"id_str": "1320213155151114241",
