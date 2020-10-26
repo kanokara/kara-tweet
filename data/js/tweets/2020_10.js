@@ -1,6 +1,912 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 26 02:41:27 +0000 2020",
+		"id": 1320536428564996000,
+		"id_str": "1320556114455396352",
+		"full_text": "가까운 것은 이해하기 쉽지만 로망으로 기억하기에는 어렵지요ㅇㅇ 하지만 이 이야기의 시절에는 명과 암이 모두 모이는 그 세기말의 대도시를 아주 \"싫어\"하고 또한... 싫어하는 만큼 들여다보고 싶어했던 거에요 미스터 도넛의 엔젤크림, 나카모리 아키나의 난파선, 샤넬 립스틱. 동경이나 사랑처럼. https://t.co/83LtjFjqM3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1320534936126775300,
+					"id_str": "1320534936126775296",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/ElN7hyVUYAAyQdT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElN7hyVUYAAyQdT.jpg",
+					"url": "https://t.co/83LtjFjqM3",
+					"display_url": "pic.twitter.com/83LtjFjqM3",
+					"expanded_url": "https://twitter.com/netsukei/status/1320536428564996096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 468,
+							"h": 566,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 468,
+							"h": 566,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 468,
+							"h": 566,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1320534936126775300,
+					"id_str": "1320534936126775296",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/ElN7hyVUYAAyQdT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElN7hyVUYAAyQdT.jpg",
+					"url": "https://t.co/83LtjFjqM3",
+					"display_url": "pic.twitter.com/83LtjFjqM3",
+					"expanded_url": "https://twitter.com/netsukei/status/1320536428564996096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 468,
+							"h": 566,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 468,
+							"h": 566,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 468,
+							"h": 566,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1320536418637103000,
+		"in_reply_to_status_id_str": "1320536418637103104",
+		"in_reply_to_user_id": 264361205,
+		"in_reply_to_user_id_str": "264361205",
+		"in_reply_to_screen_name": "netsukei",
+		"user": {
+			"id": 264361205,
+			"id_str": "264361205",
+			"name": "네츠케 동바애니화 안됨",
+			"screen_name": "netsukei",
+			"location": "",
+			"description": "덕질하는 네츠케+고양이 키움",
+			"url": "https://t.co/vOXg9kmHE2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vOXg9kmHE2",
+							"expanded_url": "http://playgo.postype.com",
+							"display_url": "playgo.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9984,
+			"friends_count": 253,
+			"listed_count": 51,
+			"created_at": "Fri Mar 11 19:43:29 +0000 2011",
+			"favourites_count": 89296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 137948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1290965280043098117/BzHFD4Ss_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290965280043098117/BzHFD4Ss_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/264361205/1585715993",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "가까운 것은 이해하기 쉽지만 로망으로 기억하기에는 어렵지요ㅇㅇ 하지만 이 이야기의 시절에는 명과 암이 모두 모이는 그 세기말의 대도시를 아주 \"싫어\"하고 또한... 싫어하는 만큼 들여다보고 싶어했던 거에요 미스터 도넛의 엔젤크림, 나카모리 아키나의 난파선, 샤넬 립스틱. 동경이나 사랑처럼. https://t.co/83LtjFjqM3"
+	},
+	{
+		"created_at": "Mon Oct 26 02:41:21 +0000 2020",
+		"id": 1320536418637103000,
+		"id_str": "1320556089398546434",
+		"full_text": "아마 관서와 관동의 거리가 엄청나게 가까워지고(인터넷이란!)세상의 모든 명암이 잘잘 끓고 있는 2020년의 도쿄는 1990년의 도쿄가 되지 못할 거에요 도시의 명암은 무뎌졌고도시의 삶은 이야기가 되지 않을 만큼 도처에서 일상이 되었으니까. 하지만 그 시절에는 비일상과 일상의 경계였던 거에요 https://t.co/VZrzGiRh94",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1320536136440148000,
+					"id_str": "1320536136440147969",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/ElN8np2U8AEPjZ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElN8np2U8AEPjZ5.jpg",
+					"url": "https://t.co/VZrzGiRh94",
+					"display_url": "pic.twitter.com/VZrzGiRh94",
+					"expanded_url": "https://twitter.com/netsukei/status/1320536418637103104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1283,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 752,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 426,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1320536136440148000,
+					"id_str": "1320536136440147969",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/ElN8np2U8AEPjZ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElN8np2U8AEPjZ5.jpg",
+					"url": "https://t.co/VZrzGiRh94",
+					"display_url": "pic.twitter.com/VZrzGiRh94",
+					"expanded_url": "https://twitter.com/netsukei/status/1320536418637103104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1283,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 752,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 426,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1320536411129303000,
+		"in_reply_to_status_id_str": "1320536411129303040",
+		"in_reply_to_user_id": 264361205,
+		"in_reply_to_user_id_str": "264361205",
+		"in_reply_to_screen_name": "netsukei",
+		"user": {
+			"id": 264361205,
+			"id_str": "264361205",
+			"name": "네츠케 동바애니화 안됨",
+			"screen_name": "netsukei",
+			"location": "",
+			"description": "덕질하는 네츠케+고양이 키움",
+			"url": "https://t.co/vOXg9kmHE2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vOXg9kmHE2",
+							"expanded_url": "http://playgo.postype.com",
+							"display_url": "playgo.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9984,
+			"friends_count": 253,
+			"listed_count": 51,
+			"created_at": "Fri Mar 11 19:43:29 +0000 2011",
+			"favourites_count": 89296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 137948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1290965280043098117/BzHFD4Ss_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290965280043098117/BzHFD4Ss_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/264361205/1585715993",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아마 관서와 관동의 거리가 엄청나게 가까워지고(인터넷이란!)세상의 모든 명암이 잘잘 끓고 있는 2020년의 도쿄는 1990년의 도쿄가 되지 못할 거에요 도시의 명암은 무뎌졌고도시의 삶은 이야기가 되지 않을 만큼 도처에서 일상이 되었으니까. 하지만 그 시절에는 비일상과 일상의 경계였던 거에요 https://t.co/VZrzGiRh94"
+	},
+	{
+		"created_at": "Mon Oct 26 02:41:17 +0000 2020",
+		"id": 1320536411129303000,
+		"id_str": "1320556072348729345",
+		"full_text": "범프 오브 치킨의 동경찬가에서 \"멋대로 선택하고 멋대로 미워한 이 거리만이 돌아가지 못하는 네가 돌아갈 곳을 알고 있어\"하고 노래했었잖아요 그것과도 비슷한.. 아마 세기말이었기 때문에 이렇게 이 도시에 바빌론의 이름을 붙여 애상을 논했을 거에요 번영했으니 타락하고 또 멸망을 향해가겠지. https://t.co/VucnmooJON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1320534099077914600,
+					"id_str": "1320534099077914624",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/ElN6xEFUYAA_HtP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElN6xEFUYAA_HtP.jpg",
+					"url": "https://t.co/VucnmooJON",
+					"display_url": "pic.twitter.com/VucnmooJON",
+					"expanded_url": "https://twitter.com/netsukei/status/1320536411129303040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 650,
+							"h": 557,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 650,
+							"h": 557,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 650,
+							"h": 557,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1320534099077914600,
+					"id_str": "1320534099077914624",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/ElN6xEFUYAA_HtP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElN6xEFUYAA_HtP.jpg",
+					"url": "https://t.co/VucnmooJON",
+					"display_url": "pic.twitter.com/VucnmooJON",
+					"expanded_url": "https://twitter.com/netsukei/status/1320536411129303040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 650,
+							"h": 557,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 650,
+							"h": 557,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 650,
+							"h": 557,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1320534114387128300,
+					"id_str": "1320534114387128320",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/ElN6x9HUcAAwRg3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElN6x9HUcAAwRg3.jpg",
+					"url": "https://t.co/VucnmooJON",
+					"display_url": "pic.twitter.com/VucnmooJON",
+					"expanded_url": "https://twitter.com/netsukei/status/1320536411129303040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 574,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 325,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 1254,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1320530447600812000,
+		"in_reply_to_status_id_str": "1320530447600812032",
+		"in_reply_to_user_id": 264361205,
+		"in_reply_to_user_id_str": "264361205",
+		"in_reply_to_screen_name": "netsukei",
+		"user": {
+			"id": 264361205,
+			"id_str": "264361205",
+			"name": "네츠케 동바애니화 안됨",
+			"screen_name": "netsukei",
+			"location": "",
+			"description": "덕질하는 네츠케+고양이 키움",
+			"url": "https://t.co/vOXg9kmHE2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vOXg9kmHE2",
+							"expanded_url": "http://playgo.postype.com",
+							"display_url": "playgo.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9984,
+			"friends_count": 253,
+			"listed_count": 51,
+			"created_at": "Fri Mar 11 19:43:29 +0000 2011",
+			"favourites_count": 89296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 137948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1290965280043098117/BzHFD4Ss_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290965280043098117/BzHFD4Ss_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/264361205/1585715993",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "범프 오브 치킨의 동경찬가에서 \"멋대로 선택하고 멋대로 미워한 이 거리만이 돌아가지 못하는 네가 돌아갈 곳을 알고 있어\"하고 노래했었잖아요 그것과도 비슷한.. 아마 세기말이었기 때문에 이렇게 이 도시에 바빌론의 이름을 붙여 애상을 논했을 거에요 번영했으니 타락하고 또 멸망을 향해가겠지. https://t.co/VucnmooJON"
+	},
+	{
+		"created_at": "Mon Oct 26 02:41:12 +0000 2020",
+		"id": 1320530447600812000,
+		"id_str": "1320556051419201536",
+		"full_text": "그래서 이 짧다면 짧은 이야기는 음양사 스바루가 마주하는 도쿄의 사람들에 대한 옴니버스식 스토리로 이어져있어요 (어떤점에서 XXX홀릭의 전신같네요) 자살한 도쿄타워의 무명배우, 살해당한 딸을 위해 복수하려는 어머니, 도시에 적응하지 못하는 불법체류 외국인, 저주채팅에 빠진 10대 소녀들. https://t.co/UrsakLwN7E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1320530404932157400,
+					"id_str": "1320530404932157440",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/ElN3aCUVgAAd_re.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElN3aCUVgAAd_re.jpg",
+					"url": "https://t.co/UrsakLwN7E",
+					"display_url": "pic.twitter.com/UrsakLwN7E",
+					"expanded_url": "https://twitter.com/netsukei/status/1320530447600812032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 910,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1445,
+							"h": 1096,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 516,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1320530404932157400,
+					"id_str": "1320530404932157440",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/ElN3aCUVgAAd_re.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElN3aCUVgAAd_re.jpg",
+					"url": "https://t.co/UrsakLwN7E",
+					"display_url": "pic.twitter.com/UrsakLwN7E",
+					"expanded_url": "https://twitter.com/netsukei/status/1320530447600812032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 910,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1445,
+							"h": 1096,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 516,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1320530440684408800,
+		"in_reply_to_status_id_str": "1320530440684408832",
+		"in_reply_to_user_id": 264361205,
+		"in_reply_to_user_id_str": "264361205",
+		"in_reply_to_screen_name": "netsukei",
+		"user": {
+			"id": 264361205,
+			"id_str": "264361205",
+			"name": "네츠케 동바애니화 안됨",
+			"screen_name": "netsukei",
+			"location": "",
+			"description": "덕질하는 네츠케+고양이 키움",
+			"url": "https://t.co/vOXg9kmHE2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vOXg9kmHE2",
+							"expanded_url": "http://playgo.postype.com",
+							"display_url": "playgo.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9984,
+			"friends_count": 253,
+			"listed_count": 51,
+			"created_at": "Fri Mar 11 19:43:29 +0000 2011",
+			"favourites_count": 89296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 137948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1290965280043098117/BzHFD4Ss_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290965280043098117/BzHFD4Ss_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/264361205/1585715993",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그래서 이 짧다면 짧은 이야기는 음양사 스바루가 마주하는 도쿄의 사람들에 대한 옴니버스식 스토리로 이어져있어요 (어떤점에서 XXX홀릭의 전신같네요) 자살한 도쿄타워의 무명배우, 살해당한 딸을 위해 복수하려는 어머니, 도시에 적응하지 못하는 불법체류 외국인, 저주채팅에 빠진 10대 소녀들. https://t.co/UrsakLwN7E"
+	},
+	{
+		"created_at": "Mon Oct 26 02:41:02 +0000 2020",
+		"id": 1320530440684408800,
+		"id_str": "1320556009241243648",
+		"full_text": "트위터에서 \"클램프가 관서출신이라 도쿄를 그렇게 동경의 도시로 그려낼 수 있었다\"라는 말을 보고 엄청나게 무릎을 치며 그렇구나!하고 생각했었는데ㅋㅋ 아마 작가들에게도 이 도시는 어떤 상징이었을 것입니다 번영하고 사람이 모이고 다치고 무너지는 그런 곳. 소돔과 고모라같은? 바벨탑같은? https://t.co/IlJCPRTNR3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1320527832838074400,
+					"id_str": "1320527832838074368",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/ElN1EUhUcAAes4f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElN1EUhUcAAes4f.jpg",
+					"url": "https://t.co/IlJCPRTNR3",
+					"display_url": "pic.twitter.com/IlJCPRTNR3",
+					"expanded_url": "https://twitter.com/netsukei/status/1320530440684408832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1347,
+							"h": 1681,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1320527832838074400,
+					"id_str": "1320527832838074368",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/ElN1EUhUcAAes4f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElN1EUhUcAAes4f.jpg",
+					"url": "https://t.co/IlJCPRTNR3",
+					"display_url": "pic.twitter.com/IlJCPRTNR3",
+					"expanded_url": "https://twitter.com/netsukei/status/1320530440684408832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1347,
+							"h": 1681,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1320530435152068600,
+		"in_reply_to_status_id_str": "1320530435152068608",
+		"in_reply_to_user_id": 264361205,
+		"in_reply_to_user_id_str": "264361205",
+		"in_reply_to_screen_name": "netsukei",
+		"user": {
+			"id": 264361205,
+			"id_str": "264361205",
+			"name": "네츠케 동바애니화 안됨",
+			"screen_name": "netsukei",
+			"location": "",
+			"description": "덕질하는 네츠케+고양이 키움",
+			"url": "https://t.co/vOXg9kmHE2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vOXg9kmHE2",
+							"expanded_url": "http://playgo.postype.com",
+							"display_url": "playgo.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9984,
+			"friends_count": 253,
+			"listed_count": 51,
+			"created_at": "Fri Mar 11 19:43:29 +0000 2011",
+			"favourites_count": 89296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 137948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1290965280043098117/BzHFD4Ss_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290965280043098117/BzHFD4Ss_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/264361205/1585715993",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 152,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트위터에서 \"클램프가 관서출신이라 도쿄를 그렇게 동경의 도시로 그려낼 수 있었다\"라는 말을 보고 엄청나게 무릎을 치며 그렇구나!하고 생각했었는데ㅋㅋ 아마 작가들에게도 이 도시는 어떤 상징이었을 것입니다 번영하고 사람이 모이고 다치고 무너지는 그런 곳. 소돔과 고모라같은? 바벨탑같은? https://t.co/IlJCPRTNR3"
+	},
+	{
 		"created_at": "Sun Oct 25 11:25:16 +0000 2020",
 		"id": 1320325551630905300,
 		"id_str": "1320325551630905344",
