@@ -1,6 +1,386 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 27 09:40:12 +0000 2020",
+		"id": 1320747957809860600,
+		"id_str": "1321023885077143552",
+		"full_text": "독자는 일시적인 그 단면을 잘라내어 작품을 읽어낼 수 밖에 없으므로 작가의 의도와 달리 미완의 글만이 독자와 상호작용하는 셈이다. 따라서 작가는 자신의 내면의 작가 자아와 외부 요인을 화해시키고 글을 독자에게 드러내야만 한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1320747943888965600,
+		"in_reply_to_status_id_str": "1320747943888965632",
+		"in_reply_to_user_id": 1627227828,
+		"in_reply_to_user_id_str": "1627227828",
+		"in_reply_to_screen_name": "N91211",
+		"user": {
+			"id": 1627227828,
+			"id_str": "1627227828",
+			"name": "위래",
+			"screen_name": "N91211",
+			"location": "n91211.postype.com",
+			"description": "단편 「미궁에는 괴물이」가 2010년 10월 네이버 ‘오늘의 문학’란 게재 되어 첫 고료를 받았다. 이후 여러 지면에 장르소설 단편을 썼고, 웹소설 『마왕이 너무 많다』를 11권으로 문피아에서 완결했다. 최근 문피아에서 『슬기로운 문명생활』을 연재중이다.",
+			"url": "https://t.co/OfoZqj1u83",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OfoZqj1u83",
+							"expanded_url": "https://britg.kr/user/wirae",
+							"display_url": "britg.kr/user/wirae",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1964,
+			"friends_count": 772,
+			"listed_count": 18,
+			"created_at": "Sun Jul 28 06:48:52 +0000 2013",
+			"favourites_count": 193576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 154504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250807726638198785/U2TPPNJn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250807726638198785/U2TPPNJn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1627227828/1585831639",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "독자는 일시적인 그 단면을 잘라내어 작품을 읽어낼 수 밖에 없으므로 작가의 의도와 달리 미완의 글만이 독자와 상호작용하는 셈이다. 따라서 작가는 자신의 내면의 작가 자아와 외부 요인을 화해시키고 글을 독자에게 드러내야만 한다."
+	},
+	{
+		"created_at": "Tue Oct 27 09:40:09 +0000 2020",
+		"id": 1320747943888965600,
+		"id_str": "1321023874599948289",
+		"full_text": "작가가 인간인 이상 필멸의 시간을 지니고 있기에 무한한 시간 동안 완벽한 창작 활동에 매진할 수 없고, 설사 작가가 불멸의 시간을 가지고 있다고한들 지속되는 작가 개인의 변화를 글에 반영한다면,",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1320747885160353800,
+		"in_reply_to_status_id_str": "1320747885160353794",
+		"in_reply_to_user_id": 1627227828,
+		"in_reply_to_user_id_str": "1627227828",
+		"in_reply_to_screen_name": "N91211",
+		"user": {
+			"id": 1627227828,
+			"id_str": "1627227828",
+			"name": "위래",
+			"screen_name": "N91211",
+			"location": "n91211.postype.com",
+			"description": "단편 「미궁에는 괴물이」가 2010년 10월 네이버 ‘오늘의 문학’란 게재 되어 첫 고료를 받았다. 이후 여러 지면에 장르소설 단편을 썼고, 웹소설 『마왕이 너무 많다』를 11권으로 문피아에서 완결했다. 최근 문피아에서 『슬기로운 문명생활』을 연재중이다.",
+			"url": "https://t.co/OfoZqj1u83",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OfoZqj1u83",
+							"expanded_url": "https://britg.kr/user/wirae",
+							"display_url": "britg.kr/user/wirae",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1964,
+			"friends_count": 772,
+			"listed_count": 18,
+			"created_at": "Sun Jul 28 06:48:52 +0000 2013",
+			"favourites_count": 193576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 154504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250807726638198785/U2TPPNJn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250807726638198785/U2TPPNJn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1627227828/1585831639",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "작가가 인간인 이상 필멸의 시간을 지니고 있기에 무한한 시간 동안 완벽한 창작 활동에 매진할 수 없고, 설사 작가가 불멸의 시간을 가지고 있다고한들 지속되는 작가 개인의 변화를 글에 반영한다면,"
+	},
+	{
+		"created_at": "Tue Oct 27 09:40:07 +0000 2020",
+		"id": 1320747885160353800,
+		"id_str": "1321023866102165504",
+		"full_text": "내적으로는 작품을 독자에게 내보이고 그로부터 반응을 얻고 싶다는 욕심을 말한다. 그럼에도 작가는 그 내부(예술적 심미안을 간직한 작가 자아)에서 작품의 미숙점을 찾아내고 완성되지 못함을 자각하게 된다. 하지만 이 자각은 허상이나 다름없다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1320747856278421500,
+		"in_reply_to_status_id_str": "1320747856278421505",
+		"in_reply_to_user_id": 1627227828,
+		"in_reply_to_user_id_str": "1627227828",
+		"in_reply_to_screen_name": "N91211",
+		"user": {
+			"id": 1627227828,
+			"id_str": "1627227828",
+			"name": "위래",
+			"screen_name": "N91211",
+			"location": "n91211.postype.com",
+			"description": "단편 「미궁에는 괴물이」가 2010년 10월 네이버 ‘오늘의 문학’란 게재 되어 첫 고료를 받았다. 이후 여러 지면에 장르소설 단편을 썼고, 웹소설 『마왕이 너무 많다』를 11권으로 문피아에서 완결했다. 최근 문피아에서 『슬기로운 문명생활』을 연재중이다.",
+			"url": "https://t.co/OfoZqj1u83",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OfoZqj1u83",
+							"expanded_url": "https://britg.kr/user/wirae",
+							"display_url": "britg.kr/user/wirae",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1964,
+			"friends_count": 772,
+			"listed_count": 18,
+			"created_at": "Sun Jul 28 06:48:52 +0000 2013",
+			"favourites_count": 193576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 154504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250807726638198785/U2TPPNJn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250807726638198785/U2TPPNJn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1627227828/1585831639",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "내적으로는 작품을 독자에게 내보이고 그로부터 반응을 얻고 싶다는 욕심을 말한다. 그럼에도 작가는 그 내부(예술적 심미안을 간직한 작가 자아)에서 작품의 미숙점을 찾아내고 완성되지 못함을 자각하게 된다. 하지만 이 자각은 허상이나 다름없다."
+	},
+	{
+		"created_at": "Tue Oct 27 09:40:05 +0000 2020",
+		"id": 1320747856278421500,
+		"id_str": "1321023855691849728",
+		"full_text": "때문에 서점에 판매되는 서적 조차 완성된 글이 실린 것이 아니다. 서적은 그저 작가가 완성된 글이라는 일시적 착오에서 비롯되었거나(물론 그 작가는 착오를 체념했을 것이다), 마감이라는 외부 요인에 굴복했기 때문이다. 마감이라는 외부 요인은 외적으로는 출간 제의일테고",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1320747808870166500,
+		"in_reply_to_status_id_str": "1320747808870166528",
+		"in_reply_to_user_id": 1627227828,
+		"in_reply_to_user_id_str": "1627227828",
+		"in_reply_to_screen_name": "N91211",
+		"user": {
+			"id": 1627227828,
+			"id_str": "1627227828",
+			"name": "위래",
+			"screen_name": "N91211",
+			"location": "n91211.postype.com",
+			"description": "단편 「미궁에는 괴물이」가 2010년 10월 네이버 ‘오늘의 문학’란 게재 되어 첫 고료를 받았다. 이후 여러 지면에 장르소설 단편을 썼고, 웹소설 『마왕이 너무 많다』를 11권으로 문피아에서 완결했다. 최근 문피아에서 『슬기로운 문명생활』을 연재중이다.",
+			"url": "https://t.co/OfoZqj1u83",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OfoZqj1u83",
+							"expanded_url": "https://britg.kr/user/wirae",
+							"display_url": "britg.kr/user/wirae",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1964,
+			"friends_count": 772,
+			"listed_count": 18,
+			"created_at": "Sun Jul 28 06:48:52 +0000 2013",
+			"favourites_count": 193576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 154504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250807726638198785/U2TPPNJn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250807726638198785/U2TPPNJn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1627227828/1585831639",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "때문에 서점에 판매되는 서적 조차 완성된 글이 실린 것이 아니다. 서적은 그저 작가가 완성된 글이라는 일시적 착오에서 비롯되었거나(물론 그 작가는 착오를 체념했을 것이다), 마감이라는 외부 요인에 굴복했기 때문이다. 마감이라는 외부 요인은 외적으로는 출간 제의일테고"
+	},
+	{
 		"created_at": "Tue Oct 27 03:56:48 +0000 2020",
 		"id": 1320937466954616800,
 		"id_str": "1320937466954616832",
