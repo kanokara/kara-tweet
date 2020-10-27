@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 27 03:56:48 +0000 2020",
+		"id": 1320937466954616800,
+		"id_str": "1320937466954616832",
+		"full_text": "요즘 한국 애니메이션 제작사는 (웹소설을 만화화하는) 웹툰 스튜디오를 차리는 방향으로 활로를 찾았고, 스카우트 경쟁이 치열하다고 하네요. 한국 내수 시장도 컸고 일본과 중국에 수출하는 시장도 커져서... 단일 회사에서 이미 수백억 대 매출을 올리기도 한다고.\nhttps://t.co/1zzRuhLA1W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1zzRuhLA1W",
+					"expanded_url": "https://twitter.com/kcanari/status/1320882002908770304",
+					"display_url": "twitter.com/kcanari/status…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 85,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12354,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1320882002908770300,
+		"quoted_status_id_str": "1320882002908770304",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1zzRuhLA1W",
+			"expanded": "https://twitter.com/kcanari/status/1320882002908770304",
+			"display": "twitter.com/kcanari/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 27 00:16:24 +0000 2020",
+			"id": 1320882002908770300,
+			"id_str": "1320882002908770304",
+			"full_text": "콘텐트 업계가 다 그렇지만 재능기부 비슷하게 꿈을 보고 낮은 페이를 감수하며 들어오는 인력은 언제나 있지만, 워낙 페이가 박하니까 숙련자가 되기 전에 업계를 떠나는 경우가 많다.\n\n페이가 낮으니까 여성 인력 비율은 높은데 경력을 쌓아 위로 올라가는 기회가 없는 것도 한 몫함. https://t.co/9erjgOTdlg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				154
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1320881998563430400,
+						"id_str": "1320881998563430400",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/ElS3LeqU0AAwHT-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElS3LeqU0AAwHT-.jpg",
+						"url": "https://t.co/9erjgOTdlg",
+						"display_url": "pic.twitter.com/9erjgOTdlg",
+						"expanded_url": "https://twitter.com/kcanari/status/1320882002908770304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 355,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 627,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 627,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1320881998563430400,
+						"id_str": "1320881998563430400",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/ElS3LeqU0AAwHT-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElS3LeqU0AAwHT-.jpg",
+						"url": "https://t.co/9erjgOTdlg",
+						"display_url": "pic.twitter.com/9erjgOTdlg",
+						"expanded_url": "https://twitter.com/kcanari/status/1320882002908770304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 355,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 627,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 627,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1320880060446826500,
+			"in_reply_to_status_id_str": "1320880060446826496",
+			"in_reply_to_user_id": 101148636,
+			"in_reply_to_user_id_str": "101148636",
+			"in_reply_to_screen_name": "kcanari",
+			"user": {
+				"id": 101148636,
+				"id_str": "101148636",
+				"name": "까날(오승택)",
+				"screen_name": "kcanari",
+				"location": "KOREA Sungnam",
+				"description": "'홋카이도에 먹으러가자' 글쓴이. 일본 식도락 여행 전문 블로그 운영중. 우리음식, 일본음식, 우리술, 일본술에 관심이 많은 사람.",
+				"url": "https://t.co/lBdKLdgZ3Z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lBdKLdgZ3Z",
+								"expanded_url": "http://kcanari.egloos.com",
+								"display_url": "kcanari.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 48179,
+				"friends_count": 282,
+				"listed_count": 175,
+				"created_at": "Sat Jan 02 05:42:27 +0000 2010",
+				"favourites_count": 849,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 135801,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/101148636/1365251288",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 53,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "요즘 한국 애니메이션 제작사는 (웹소설을 만화화하는) 웹툰 스튜디오를 차리는 방향으로 활로를 찾았고, 스카우트 경쟁이 치열하다고 하네요. 한국 내수 시장도 컸고 일본과 중국에 수출하는 시장도 커져서... 단일 회사에서 이미 수백억 대 매출을 올리기도 한다고.\nhttps://t.co/1zzRuhLA1W"
+	},
+	{
 		"created_at": "Mon Oct 26 05:47:14 +0000 2020",
 		"id": 1320602871369396200,
 		"id_str": "1320602871369396224",
