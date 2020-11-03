@@ -1,6 +1,449 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 03 11:45:21 +0000 2020",
+		"id": 1323592097237094400,
+		"id_str": "1323592097237094400",
+		"full_text": "패배감 속에 드디어 유튜브 구독 시작.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1323590424599036000,
+		"in_reply_to_status_id_str": "1323590424599035904",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 86,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "패배감 속에 드디어 유튜브 구독 시작."
+	},
+	{
+		"created_at": "Tue Nov 03 11:38:43 +0000 2020",
+		"id": 1323590424599036000,
+		"id_str": "1323590424599035904",
+		"full_text": "유튜브 시작해야 하나...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 86,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "유튜브 시작해야 하나..."
+	},
+	{
+		"created_at": "Tue Nov 03 11:19:39 +0000 2020",
+		"id": 1319633487247282200,
+		"id_str": "1323585629322534914",
+		"full_text": "그러니까......\n2시간 전에 올라온 다즈비님 신곡이\n\n다즈비님이 앨리스 역이고\n\nSou님이 흰토끼 역이고\n\n라온님이 여왕님 역이고\n\n그림삽화는 양말도깨비 별떨곳 작가이신\n만물상님이 그리셨다는 거?\n\n....??어서 안보러 가고 뭐함?\nhttps://t.co/U2LRUeBzWP https://t.co/9JJY3SHthM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U2LRUeBzWP",
+					"expanded_url": "https://youtu.be/doGHTVEEsgk",
+					"display_url": "youtu.be/doGHTVEEsgk",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1319633469001986000,
+					"id_str": "1319633469001986049",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/ElBHpfmUcAEcPHx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElBHpfmUcAEcPHx.jpg",
+					"url": "https://t.co/9JJY3SHthM",
+					"display_url": "pic.twitter.com/9JJY3SHthM",
+					"expanded_url": "https://twitter.com/ryongyul_0417/status/1319633487247282176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 331,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 996,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 584,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1319633469001986000,
+					"id_str": "1319633469001986049",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/ElBHpfmUcAEcPHx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElBHpfmUcAEcPHx.jpg",
+					"url": "https://t.co/9JJY3SHthM",
+					"display_url": "pic.twitter.com/9JJY3SHthM",
+					"expanded_url": "https://twitter.com/ryongyul_0417/status/1319633487247282176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 331,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 996,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 584,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1319633473833898000,
+					"id_str": "1319633473833897984",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/ElBHpxmVkAABiCc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElBHpxmVkAABiCc.jpg",
+					"url": "https://t.co/9JJY3SHthM",
+					"display_url": "pic.twitter.com/9JJY3SHthM",
+					"expanded_url": "https://twitter.com/ryongyul_0417/status/1319633487247282176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 331,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 996,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1319633478795677700,
+					"id_str": "1319633478795677697",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/ElBHqEFUUAE-8kK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElBHqEFUUAE-8kK.jpg",
+					"url": "https://t.co/9JJY3SHthM",
+					"display_url": "pic.twitter.com/9JJY3SHthM",
+					"expanded_url": "https://twitter.com/ryongyul_0417/status/1319633487247282176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 331,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 996,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1319633483816259600,
+					"id_str": "1319633483816259584",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/ElBHqWyUUAAdrsk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElBHqWyUUAAdrsk.jpg",
+					"url": "https://t.co/9JJY3SHthM",
+					"display_url": "pic.twitter.com/9JJY3SHthM",
+					"expanded_url": "https://twitter.com/ryongyul_0417/status/1319633487247282176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 331,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 996,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1251114338187796500,
+			"id_str": "1251114338187796482",
+			"name": "矓栗",
+			"screen_name": "ryongyul_0417",
+			"location": "",
+			"description": "※유리멘탈 깨짐 주의※",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54,
+			"friends_count": 92,
+			"listed_count": 2,
+			"created_at": "Fri Apr 17 11:44:54 +0000 2020",
+			"favourites_count": 2475,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6642,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306602651417587713/Clvl33rt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306602651417587713/Clvl33rt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1251114338187796482/1602502145",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2312,
+		"favorite_count": 1339,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그러니까......\n2시간 전에 올라온 다즈비님 신곡이\n\n다즈비님이 앨리스 역이고\n\nSou님이 흰토끼 역이고\n\n라온님이 여왕님 역이고\n\n그림삽화는 양말도깨비 별떨곳 작가이신\n만물상님이 그리셨다는 거?\n\n....??어서 안보러 가고 뭐함?\nhttps://t.co/U2LRUeBzWP https://t.co/9JJY3SHthM"
+	},
+	{
 		"created_at": "Tue Nov 03 11:01:24 +0000 2020",
 		"id": 1323581036870029300,
 		"id_str": "1323581036870029312",
