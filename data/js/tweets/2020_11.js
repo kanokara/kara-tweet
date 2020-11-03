@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 03 11:01:24 +0000 2020",
+		"id": 1323581036870029300,
+		"id_str": "1323581036870029312",
+		"full_text": "한국 동인 수준 너무 높아진 거 아닌가요 #당혹\nhttps://t.co/KZpwwuPTUH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "당혹",
+					"indices": [
+						23,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KZpwwuPTUH",
+					"expanded_url": "https://twitter.com/raon_leee/status/1319611025302392832",
+					"display_url": "twitter.com/raon_leee/stat…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 86,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2516,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1319611025302392800,
+		"quoted_status_id_str": "1319611025302392832",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KZpwwuPTUH",
+			"expanded": "https://twitter.com/raon_leee/status/1319611025302392832",
+			"display": "twitter.com/raon_leee/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 23 12:06:00 +0000 2020",
+			"id": 1319611025302392800,
+			"id_str": "1319611025302392832",
+			"full_text": "보카 델라 베리타 (Bocca della Verità, ボッカデラベリタ)\n\n할로윈 특집으로 「보카 델라 베리타」를 커버해봤습니다!👻🎃 정말 오랜만에 M/V 촬영까지 함께 했어요!(*´꒳`*) Today I covered 「Bocca della Verità」 as a Halloween special! Click the link now ◡̈*✧\n\nhttps://t.co/cIMzJT5hwY https://t.co/Be2VwuOpge",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				216
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cIMzJT5hwY",
+						"expanded_url": "https://youtu.be/MAuyIEk-bb8",
+						"display_url": "youtu.be/MAuyIEk-bb8",
+						"indices": [
+							193,
+							216
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1319607342858563600,
+						"id_str": "1319607342858563585",
+						"indices": [
+							217,
+							240
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1319607342858563585/pu/img/AKb0lLEVQ9gKrwFS.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1319607342858563585/pu/img/AKb0lLEVQ9gKrwFS.jpg",
+						"url": "https://t.co/Be2VwuOpge",
+						"display_url": "pic.twitter.com/Be2VwuOpge",
+						"expanded_url": "https://twitter.com/raon_leee/status/1319611025302392832/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1319607342858563600,
+						"id_str": "1319607342858563585",
+						"indices": [
+							217,
+							240
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1319607342858563585/pu/img/AKb0lLEVQ9gKrwFS.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1319607342858563585/pu/img/AKb0lLEVQ9gKrwFS.jpg",
+						"url": "https://t.co/Be2VwuOpge",
+						"display_url": "pic.twitter.com/Be2VwuOpge",
+						"expanded_url": "https://twitter.com/raon_leee/status/1319611025302392832/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 52135,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1319607342858563585/pu/pl/ZGDZKzEvNXYP9eHo.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1319607342858563585/pu/vid/640x360/Txlq6M_Aj0SvxMp8.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1319607342858563585/pu/vid/480x270/i2golnbHluI-LRK4.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1319607342858563585/pu/vid/1280x720/BcAMlBl_6Mx_ZjJc.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2512990352,
+				"id_str": "2512990352",
+				"name": "이라온 Raon Lee",
+				"screen_name": "raon_leee",
+				"location": "Korea, in Seoul",
+				"description": "Singer 🇰🇷 Korean\n✿ New song / Every Friday\n「라온스럽게 Be Like Raon Lee」",
+				"url": "https://t.co/3W51gG6Vo2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3W51gG6Vo2",
+								"expanded_url": "http://youtube.com/c/RaonLee",
+								"display_url": "youtube.com/c/RaonLee",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 89480,
+				"friends_count": 60,
+				"listed_count": 127,
+				"created_at": "Wed May 21 16:13:58 +0000 2014",
+				"favourites_count": 8306,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10186,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1179727388051034112/_mjfLtfJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1179727388051034112/_mjfLtfJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2512990352/1570103901",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 314,
+			"favorite_count": 813,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한국 동인 수준 너무 높아진 거 아닌가요 #당혹\nhttps://t.co/KZpwwuPTUH"
+	},
+	{
 		"created_at": "Tue Nov 03 09:02:05 +0000 2020",
 		"id": 1186085922732834800,
 		"id_str": "1323551008685924352",
