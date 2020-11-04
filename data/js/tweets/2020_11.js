@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 04 12:06:10 +0000 2020",
+		"id": 1321790867649163300,
+		"id_str": "1323959723566137344",
+		"full_text": "https://t.co/df4kyo1g6l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1321790860682391600,
+					"id_str": "1321790860682391553",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ElfxyN5U8AEc-VQ.png",
+					"media_url_https": "https://pbs.twimg.com/media/ElfxyN5U8AEc-VQ.png",
+					"url": "https://t.co/df4kyo1g6l",
+					"display_url": "pic.twitter.com/df4kyo1g6l",
+					"expanded_url": "https://twitter.com/R_De2_/status/1321790867649163265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 617,
+							"h": 875,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 617,
+							"h": 875,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1321790860682391600,
+					"id_str": "1321790860682391553",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ElfxyN5U8AEc-VQ.png",
+					"media_url_https": "https://pbs.twimg.com/media/ElfxyN5U8AEc-VQ.png",
+					"url": "https://t.co/df4kyo1g6l",
+					"display_url": "pic.twitter.com/df4kyo1g6l",
+					"expanded_url": "https://twitter.com/R_De2_/status/1321790867649163265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 617,
+							"h": 875,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 617,
+							"h": 875,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3057341023,
+			"id_str": "3057341023",
+			"name": "데릿시",
+			"screen_name": "R_De2_",
+			"location": "그림의 도용, 트레이싱 등은 하지 말아주세요~! / 미",
+			"description": "프사 피돈님의 마트료시카~ 헤더 빌끼님 엑박 5주년~  / deritsi411@gmail.com",
+			"url": "https://t.co/RxwWKJwoqW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RxwWKJwoqW",
+							"expanded_url": "https://ritcommi.tistory.com/1?category=839172",
+							"display_url": "ritcommi.tistory.com/1?category=839…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3942,
+			"friends_count": 223,
+			"listed_count": 28,
+			"created_at": "Mon Mar 02 17:28:46 +0000 2015",
+			"favourites_count": 1696,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1237352809709723648/62In6CO7_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1237352809709723648/62In6CO7_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3057341023/1541667723",
+			"profile_link_color": "CD0D5E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/df4kyo1g6l"
+	},
+	{
 		"created_at": "Tue Nov 03 18:11:38 +0000 2020",
 		"id": 1323689309468205000,
 		"id_str": "1323689309468205057",
