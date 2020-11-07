@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 07 08:29:00 +0000 2020",
+		"id": 1324992235964829700,
+		"id_str": "1324992235964829702",
+		"full_text": "@server8key 그리고 교류라고 하지만 사상적 근원이 다 같은 학문들이죠.\nhttps://t.co/kIJ3iqFEGw",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "server8key",
+					"name": "電磁式サカナ@ジパング",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kIJ3iqFEGw",
+					"expanded_url": "https://twitter.com/server8key/status/1324911665888980993?s=19",
+					"display_url": "twitter.com/server8key/sta…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1324988915179122700,
+		"in_reply_to_status_id_str": "1324988915179122694",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 86,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12404,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1324911665888981000,
+		"quoted_status_id_str": "1324911665888980993",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kIJ3iqFEGw",
+			"expanded": "https://twitter.com/server8key/status/1324911665888980993?s=19",
+			"display": "twitter.com/server8key/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 07 03:08:51 +0000 2020",
+			"id": 1324911665888981000,
+			"id_str": "1324911665888980993",
+			"full_text": "실천과 운동으로서 페미니즘이 피해자 주의를 은탄환으로 쓰고 있는 게 아니냔 점은 부정할 수 없겠지만, 페미니즘이 독립되서 형성되는 것도 아니고 당연히 문화연구나 포스트-콜로니얼리즘, 퀴어이론과의 교류 속에서 피해자성과 가해자성이 그리 간단히 나뉘지 않음을 보인지라 이론적 공격은 좀?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				158
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1324909936137044000,
+			"in_reply_to_status_id_str": "1324909936137043968",
+			"in_reply_to_user_id": 1047103952297254900,
+			"in_reply_to_user_id_str": "1047103952297254912",
+			"in_reply_to_screen_name": "server8key",
+			"user": {
+				"id": 1047103952297254900,
+				"id_str": "1047103952297254912",
+				"name": "電磁式サカナ@ジパング",
+				"screen_name": "server8key",
+				"location": "",
+				"description": "幸せよ、君はいずこに",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": true,
+				"followers_count": 64,
+				"friends_count": 69,
+				"listed_count": 0,
+				"created_at": "Tue Oct 02 12:40:11 +0000 2018",
+				"favourites_count": 9258,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 133407,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1316739911945388032/ySErhnwQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1316739911945388032/ySErhnwQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1047103952297254912/1600519311",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@server8key 그리고 교류라고 하지만 사상적 근원이 다 같은 학문들이죠.\nhttps://t.co/kIJ3iqFEGw"
+	},
+	{
 		"created_at": "Sat Nov 07 00:50:24 +0000 2020",
 		"id": 1324876824967442400,
 		"id_str": "1324876824967442433",
