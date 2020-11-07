@@ -1,6 +1,937 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 07 11:36:48 +0000 2020",
+		"id": 1225963768384909300,
+		"id_str": "1325039495301853185",
+		"full_text": "트렌스젠더에 대한 폭력이 무려 페미니즘이라는 이름으로 벌어지는 작금의 사태는, 많은 이들이 예상하고 우려하던 일이 현실화 된 것.\n(현실은 언제나 상상보다 끔찍하다)\n\n최근 페미니즘에 부상하는 이런 경향을 사회진보연대는 \"전투적 여성주의\"라고 비판해왔다.\n\nhttps://t.co/dWv1fs7xuk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dWv1fs7xuk",
+					"expanded_url": "http://www.pssp.org/bbs/view.php?board=j2019&category1=1&nid=7852",
+					"display_url": "pssp.org/bbs/view.php?b…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 144092619,
+			"id_str": "144092619",
+			"name": "겨울철쭉__박준형",
+			"screen_name": "191710",
+			"location": "글쎄,지금 있고싶은곳에 있겠지",
+			"description": "노동자운동으로 대안세계를! 플픽은 플루토의 아톰 :) 애국자가 없는 세상(권정생) https://t.co/6E9YmhkOi0",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6E9YmhkOi0",
+							"expanded_url": "http://www.twitlonger.com/show/h17gle",
+							"display_url": "twitlonger.com/show/h17gle",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4245,
+			"friends_count": 1817,
+			"listed_count": 85,
+			"created_at": "Sat May 15 08:12:38 +0000 2010",
+			"favourites_count": 2940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121100238/___-022_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121100238/___-022_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/144092619/1351336150",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트렌스젠더에 대한 폭력이 무려 페미니즘이라는 이름으로 벌어지는 작금의 사태는, 많은 이들이 예상하고 우려하던 일이 현실화 된 것.\n(현실은 언제나 상상보다 끔찍하다)\n\n최근 페미니즘에 부상하는 이런 경향을 사회진보연대는 \"전투적 여성주의\"라고 비판해왔다.\n\nhttps://t.co/dWv1fs7xuk"
+	},
+	{
+		"created_at": "Sat Nov 07 11:31:27 +0000 2020",
+		"id": 1115467677668012000,
+		"id_str": "1325038148401815559",
+		"full_text": "이미 빻을대로빻은 20대 남성들 욕할것도 없이, 경쟁적으로 타락한 행태라 할 만.\n\n결국 자신들의 이익이 중요하다는 정체성의 정치, 보편적인 이념없는 포퓰리즘적 운동이 이 모양을 낳고 말았다. \n\n최근 워마드류의 행보까지 연결된 지점일텐데, 이들에 열광했던 사회운동들의 진지한 반성 필요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1115467675285610500,
+		"in_reply_to_status_id_str": "1115467675285610496",
+		"in_reply_to_user_id": 144092619,
+		"in_reply_to_user_id_str": "144092619",
+		"in_reply_to_screen_name": "191710",
+		"user": {
+			"id": 144092619,
+			"id_str": "144092619",
+			"name": "겨울철쭉__박준형",
+			"screen_name": "191710",
+			"location": "글쎄,지금 있고싶은곳에 있겠지",
+			"description": "노동자운동으로 대안세계를! 플픽은 플루토의 아톰 :) 애국자가 없는 세상(권정생) https://t.co/6E9YmhkOi0",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6E9YmhkOi0",
+							"expanded_url": "http://www.twitlonger.com/show/h17gle",
+							"display_url": "twitlonger.com/show/h17gle",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4245,
+			"friends_count": 1817,
+			"listed_count": 85,
+			"created_at": "Sat May 15 08:12:38 +0000 2010",
+			"favourites_count": 2940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121100238/___-022_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121100238/___-022_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/144092619/1351336150",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이미 빻을대로빻은 20대 남성들 욕할것도 없이, 경쟁적으로 타락한 행태라 할 만.\n\n결국 자신들의 이익이 중요하다는 정체성의 정치, 보편적인 이념없는 포퓰리즘적 운동이 이 모양을 낳고 말았다. \n\n최근 워마드류의 행보까지 연결된 지점일텐데, 이들에 열광했던 사회운동들의 진지한 반성 필요."
+	},
+	{
+		"created_at": "Sat Nov 07 11:31:24 +0000 2020",
+		"id": 1115467675285610500,
+		"id_str": "1325038137643425792",
+		"full_text": "숙명여대 총학생회가 결국 '5·18 망언' 김순례 규탄 성명 철회하고 말았다는 것인데.. 그 이유들이 가관이다.\n\n20대 여성이 어떤 쟁점에서 빛나는 사회적 진보를 보여주었지만, 보수화로 가는 것인가. \n\nhttps://t.co/Ggochx3GbS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ggochx3GbS",
+					"expanded_url": "http://m.mediaus.co.kr/news/articleView.html?idxno=149917#_theptep",
+					"display_url": "m.mediaus.co.kr/news/articleVi…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1114775654761881600,
+		"in_reply_to_status_id_str": "1114775654761881600",
+		"in_reply_to_user_id": 144092619,
+		"in_reply_to_user_id_str": "144092619",
+		"in_reply_to_screen_name": "191710",
+		"user": {
+			"id": 144092619,
+			"id_str": "144092619",
+			"name": "겨울철쭉__박준형",
+			"screen_name": "191710",
+			"location": "글쎄,지금 있고싶은곳에 있겠지",
+			"description": "노동자운동으로 대안세계를! 플픽은 플루토의 아톰 :) 애국자가 없는 세상(권정생) https://t.co/6E9YmhkOi0",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6E9YmhkOi0",
+							"expanded_url": "http://www.twitlonger.com/show/h17gle",
+							"display_url": "twitlonger.com/show/h17gle",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4245,
+			"friends_count": 1817,
+			"listed_count": 85,
+			"created_at": "Sat May 15 08:12:38 +0000 2010",
+			"favourites_count": 2940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121100238/___-022_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121100238/___-022_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/144092619/1351336150",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "숙명여대 총학생회가 결국 '5·18 망언' 김순례 규탄 성명 철회하고 말았다는 것인데.. 그 이유들이 가관이다.\n\n20대 여성이 어떤 쟁점에서 빛나는 사회적 진보를 보여주었지만, 보수화로 가는 것인가. \n\nhttps://t.co/Ggochx3GbS"
+	},
+	{
+		"created_at": "Sat Nov 07 11:31:22 +0000 2020",
+		"id": 1114775654761881600,
+		"id_str": "1325038129259048960",
+		"full_text": "워마드가 이렇게 가는 것을 보면, 이들을 옹호했던 좌파, 페미니즘 운동은 상황이 왜 이렇게 되었는지 자기반성부터 하는 것이 당연하겠지만, 침묵으로 일관.\n\n일례로 민주노총까지 \"우리 모두가 메갈\"이란 논평도 냈지만, 지금 상황에 대해서는 어떻게 보는지 모르겠다.\n\nhttps://t.co/gTy20WXVCj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gTy20WXVCj",
+					"expanded_url": "http://nodong.org/statement/7233820",
+					"display_url": "nodong.org/statement/7233…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1114416737594699800,
+		"in_reply_to_status_id_str": "1114416737594699777",
+		"in_reply_to_user_id": 144092619,
+		"in_reply_to_user_id_str": "144092619",
+		"in_reply_to_screen_name": "191710",
+		"user": {
+			"id": 144092619,
+			"id_str": "144092619",
+			"name": "겨울철쭉__박준형",
+			"screen_name": "191710",
+			"location": "글쎄,지금 있고싶은곳에 있겠지",
+			"description": "노동자운동으로 대안세계를! 플픽은 플루토의 아톰 :) 애국자가 없는 세상(권정생) https://t.co/6E9YmhkOi0",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6E9YmhkOi0",
+							"expanded_url": "http://www.twitlonger.com/show/h17gle",
+							"display_url": "twitlonger.com/show/h17gle",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4245,
+			"friends_count": 1817,
+			"listed_count": 85,
+			"created_at": "Sat May 15 08:12:38 +0000 2010",
+			"favourites_count": 2940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121100238/___-022_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121100238/___-022_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/144092619/1351336150",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "워마드가 이렇게 가는 것을 보면, 이들을 옹호했던 좌파, 페미니즘 운동은 상황이 왜 이렇게 되었는지 자기반성부터 하는 것이 당연하겠지만, 침묵으로 일관.\n\n일례로 민주노총까지 \"우리 모두가 메갈\"이란 논평도 냈지만, 지금 상황에 대해서는 어떻게 보는지 모르겠다.\n\nhttps://t.co/gTy20WXVCj"
+	},
+	{
+		"created_at": "Sat Nov 07 11:31:20 +0000 2020",
+		"id": 1114416737594699800,
+		"id_str": "1325038118907441152",
+		"full_text": "늙은 태극기 우파들이 워마드 들어가서, 혹은 트위터에서 주작하는 것이라는 주장도 있는데,\n\n물론 그런 인간들도 없진 않겠지만, 그 보다는 (내가 페미-포퓰리즘이라 부른) 이쪽 판 자체가 변모하고 있는 것은 어느 정도 사실인 것같고.\n\nhttps://t.co/SxgI9rg2qM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SxgI9rg2qM",
+					"expanded_url": "http://ilyo.co.kr/?ac=article_view&entry_id=329827",
+					"display_url": "ilyo.co.kr/?ac=article_vi…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1114416128472649700,
+		"in_reply_to_status_id_str": "1114416128472649728",
+		"in_reply_to_user_id": 144092619,
+		"in_reply_to_user_id_str": "144092619",
+		"in_reply_to_screen_name": "191710",
+		"user": {
+			"id": 144092619,
+			"id_str": "144092619",
+			"name": "겨울철쭉__박준형",
+			"screen_name": "191710",
+			"location": "글쎄,지금 있고싶은곳에 있겠지",
+			"description": "노동자운동으로 대안세계를! 플픽은 플루토의 아톰 :) 애국자가 없는 세상(권정생) https://t.co/6E9YmhkOi0",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6E9YmhkOi0",
+							"expanded_url": "http://www.twitlonger.com/show/h17gle",
+							"display_url": "twitlonger.com/show/h17gle",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4245,
+			"friends_count": 1817,
+			"listed_count": 85,
+			"created_at": "Sat May 15 08:12:38 +0000 2010",
+			"favourites_count": 2940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121100238/___-022_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121100238/___-022_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/144092619/1351336150",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "늙은 태극기 우파들이 워마드 들어가서, 혹은 트위터에서 주작하는 것이라는 주장도 있는데,\n\n물론 그런 인간들도 없진 않겠지만, 그 보다는 (내가 페미-포퓰리즘이라 부른) 이쪽 판 자체가 변모하고 있는 것은 어느 정도 사실인 것같고.\n\nhttps://t.co/SxgI9rg2qM"
+	},
+	{
+		"created_at": "Sat Nov 07 11:31:17 +0000 2020",
+		"id": 1114416128472649700,
+		"id_str": "1325038107767439360",
+		"full_text": "'좌파-포퓰리스트'들은 자신들은 다를 것이라 생각하겠지만, 메갈-워마드 지지한 '페미-포퓰리스트'들도 이런 꼴이 될줄은 몰랐겠지.\n\n그러니 그냥 좌파, 그냥 페미니즘 합시다(물론 페미니즈스트 좌파라면 더 좋겠고). 포퓰리즘으로 안빠지려면 인터넷 뒤지는게 아니라 제대로 책보고 공부도 좀 하고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1114415463130206200,
+		"in_reply_to_status_id_str": "1114415463130206208",
+		"in_reply_to_user_id": 144092619,
+		"in_reply_to_user_id_str": "144092619",
+		"in_reply_to_screen_name": "191710",
+		"user": {
+			"id": 144092619,
+			"id_str": "144092619",
+			"name": "겨울철쭉__박준형",
+			"screen_name": "191710",
+			"location": "글쎄,지금 있고싶은곳에 있겠지",
+			"description": "노동자운동으로 대안세계를! 플픽은 플루토의 아톰 :) 애국자가 없는 세상(권정생) https://t.co/6E9YmhkOi0",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6E9YmhkOi0",
+							"expanded_url": "http://www.twitlonger.com/show/h17gle",
+							"display_url": "twitlonger.com/show/h17gle",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4245,
+			"friends_count": 1817,
+			"listed_count": 85,
+			"created_at": "Sat May 15 08:12:38 +0000 2010",
+			"favourites_count": 2940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121100238/___-022_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121100238/___-022_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/144092619/1351336150",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "'좌파-포퓰리스트'들은 자신들은 다를 것이라 생각하겠지만, 메갈-워마드 지지한 '페미-포퓰리스트'들도 이런 꼴이 될줄은 몰랐겠지.\n\n그러니 그냥 좌파, 그냥 페미니즘 합시다(물론 페미니즈스트 좌파라면 더 좋겠고). 포퓰리즘으로 안빠지려면 인터넷 뒤지는게 아니라 제대로 책보고 공부도 좀 하고."
+	},
+	{
+		"created_at": "Sat Nov 07 11:31:14 +0000 2020",
+		"id": 1114415463130206200,
+		"id_str": "1325038096627331072",
+		"full_text": "워마드하다 극우로 가서 박근혜 지지하는 사람들 실제로 있나보네. 상당히 황당하면서도 좀 이해도 되고 시사점도 있는 것같다.\n\n애초에는 '위악'으로 시작한 장난이 시간이 지나면서 진짜 자신을 설득해 버린 건가 싶고,\n\n또 '페미-포퓰리즘'이라할만한 워마드류의 변모는 포퓰리즘에 대해서도 시사점",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 144092619,
+			"id_str": "144092619",
+			"name": "겨울철쭉__박준형",
+			"screen_name": "191710",
+			"location": "글쎄,지금 있고싶은곳에 있겠지",
+			"description": "노동자운동으로 대안세계를! 플픽은 플루토의 아톰 :) 애국자가 없는 세상(권정생) https://t.co/6E9YmhkOi0",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6E9YmhkOi0",
+							"expanded_url": "http://www.twitlonger.com/show/h17gle",
+							"display_url": "twitlonger.com/show/h17gle",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4245,
+			"friends_count": 1817,
+			"listed_count": 85,
+			"created_at": "Sat May 15 08:12:38 +0000 2010",
+			"favourites_count": 2940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121100238/___-022_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121100238/___-022_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/144092619/1351336150",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "워마드하다 극우로 가서 박근혜 지지하는 사람들 실제로 있나보네. 상당히 황당하면서도 좀 이해도 되고 시사점도 있는 것같다.\n\n애초에는 '위악'으로 시작한 장난이 시간이 지나면서 진짜 자신을 설득해 버린 건가 싶고,\n\n또 '페미-포퓰리즘'이라할만한 워마드류의 변모는 포퓰리즘에 대해서도 시사점"
+	},
+	{
+		"created_at": "Sat Nov 07 11:29:41 +0000 2020",
+		"id": 1325037706250842000,
+		"id_str": "1325037706250842113",
+		"full_text": "https://t.co/GUBYmjrhQi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1325037675263357000,
+					"id_str": "1325037675263356929",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EmN6vswU8AEuPDb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmN6vswU8AEuPDb.jpg",
+					"url": "https://t.co/GUBYmjrhQi",
+					"display_url": "pic.twitter.com/GUBYmjrhQi",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1325037706250842113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 550,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 655,
+							"h": 810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 655,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325037675263357000,
+					"id_str": "1325037675263356929",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EmN6vswU8AEuPDb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmN6vswU8AEuPDb.jpg",
+					"url": "https://t.co/GUBYmjrhQi",
+					"display_url": "pic.twitter.com/GUBYmjrhQi",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1325037706250842113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 550,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 655,
+							"h": 810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 655,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1325036904446713900,
+		"in_reply_to_status_id_str": "1325036904446713862",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 86,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/GUBYmjrhQi"
+	},
+	{
+		"created_at": "Sat Nov 07 11:26:30 +0000 2020",
+		"id": 1325036904446713900,
+		"id_str": "1325036904446713862",
+		"full_text": "도덕적ㆍ전략적 전몰로 가는 길을 아연히 지켜봐야만 했던 그 심정.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1325036273413750800,
+		"in_reply_to_status_id_str": "1325036273413750785",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 86,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "도덕적ㆍ전략적 전몰로 가는 길을 아연히 지켜봐야만 했던 그 심정."
+	},
+	{
 		"created_at": "Sat Nov 07 11:00:01 +0000 2020",
 		"id": 1325030238594633700,
 		"id_str": "1325030238594633728",
