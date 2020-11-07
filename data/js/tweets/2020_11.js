@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 07 18:04:41 +0000 2020",
+		"id": 1324363033020297200,
+		"id_str": "1325137109406023683",
+		"full_text": "정작 에이미 추아는 이렇게 지적하고 있다.\n\n\"좌파는 늘 이전 좌파보다 더 좌파적이고자 하므로, (중략) 누가 특권을 가장 덜 가지고 있는지 겨루는 제로섬 경쟁이 될 수 있다. '억압당하기 선수 올림픽'이라고 하는 듯이 말이다. 대개 이런 과정은 진보를 분열시키고 서로 적대하게 만든다.\" https://t.co/JJUk3CraG2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324362716534861800,
+					"id_str": "1324362716534861825",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EmEU37jU8AEJsta.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmEU37jU8AEJsta.jpg",
+					"url": "https://t.co/JJUk3CraG2",
+					"display_url": "pic.twitter.com/JJUk3CraG2",
+					"expanded_url": "https://twitter.com/bakkabun/status/1324363033020297216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324362716534861800,
+					"id_str": "1324362716534861825",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EmEU37jU8AEJsta.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmEU37jU8AEJsta.jpg",
+					"url": "https://t.co/JJUk3CraG2",
+					"display_url": "pic.twitter.com/JJUk3CraG2",
+					"expanded_url": "https://twitter.com/bakkabun/status/1324363033020297216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1324363027416711200,
+		"in_reply_to_status_id_str": "1324363027416711168",
+		"in_reply_to_user_id": 280318036,
+		"in_reply_to_user_id_str": "280318036",
+		"in_reply_to_screen_name": "bakkabun",
+		"user": {
+			"id": 280318036,
+			"id_str": "280318036",
+			"name": "박가분",
+			"screen_name": "bakkabun",
+			"location": "세계공화국",
+			"description": "일베의 사상 & 혐오의 미러링 & 포비아 페미니즘 저자 & 공정하지 않다 저자. 당분간 책 홍보 모드.",
+			"url": "https://t.co/rk6S7Z2KH2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rk6S7Z2KH2",
+							"expanded_url": "http://blog.naver.com/paxwonik",
+							"display_url": "blog.naver.com/paxwonik",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4500,
+			"friends_count": 703,
+			"listed_count": 79,
+			"created_at": "Mon Apr 11 03:05:12 +0000 2011",
+			"favourites_count": 897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1169200277984964608/YStMo0Ik_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169200277984964608/YStMo0Ik_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/280318036/1505205472",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정작 에이미 추아는 이렇게 지적하고 있다.\n\n\"좌파는 늘 이전 좌파보다 더 좌파적이고자 하므로, (중략) 누가 특권을 가장 덜 가지고 있는지 겨루는 제로섬 경쟁이 될 수 있다. '억압당하기 선수 올림픽'이라고 하는 듯이 말이다. 대개 이런 과정은 진보를 분열시키고 서로 적대하게 만든다.\" https://t.co/JJUk3CraG2"
+	},
+	{
 		"created_at": "Sat Nov 07 15:59:22 +0000 2020",
 		"id": 1325105574757900300,
 		"id_str": "1325105574757900289",
