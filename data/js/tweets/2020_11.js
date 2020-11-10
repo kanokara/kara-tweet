@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 10 10:25:21 +0000 2020",
+		"id": 1326049555184447500,
+		"id_str": "1326108678676570112",
+		"full_text": "\"기득권은 아무리 불평등을 재생산할지언정 그냥 사회적 흐름에 순응할 뿐인 주체성 없는 존재이고, 저항하는 약자는 대단한 주체성을 가진 개인으로 둚으로써 약자에게 더 신중한 행동을 요구하는 것.. 문재인 나중에 때가 생각나네. 문재인은 어쩔 수 없이 당선되기 위해 동성애 반대 입장도\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1326049550696476700,
+		"in_reply_to_status_id_str": "1326049550696476672",
+		"in_reply_to_user_id": 1094225572354355200,
+		"in_reply_to_user_id_str": "1094225572354355200",
+		"in_reply_to_screen_name": "Mop_ssi_",
+		"user": {
+			"id": 1094225572354355200,
+			"id_str": "1094225572354355200",
+			"name": "몹시",
+			"screen_name": "Mop_ssi_",
+			"location": "각종잼 제조기 ",
+			"description": "De Profundis Clamavi",
+			"url": "https://t.co/szZK2JPadJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/szZK2JPadJ",
+							"expanded_url": "https://ask.fm/Sin_diary",
+							"display_url": "ask.fm/Sin_diary",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 914,
+			"friends_count": 519,
+			"listed_count": 4,
+			"created_at": "Sat Feb 09 13:24:40 +0000 2019",
+			"favourites_count": 111340,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262730258144321536/sf06F46d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262730258144321536/sf06F46d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1094225572354355200/1556790373",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 101,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"기득권은 아무리 불평등을 재생산할지언정 그냥 사회적 흐름에 순응할 뿐인 주체성 없는 존재이고, 저항하는 약자는 대단한 주체성을 가진 개인으로 둚으로써 약자에게 더 신중한 행동을 요구하는 것.. 문재인 나중에 때가 생각나네. 문재인은 어쩔 수 없이 당선되기 위해 동성애 반대 입장도\""
+	},
+	{
 		"created_at": "Tue Nov 10 06:25:35 +0000 2020",
 		"id": 1326048339087958000,
 		"id_str": "1326048339087958017",
