@@ -1,6 +1,2001 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 10 11:13:07 +0000 2020",
+		"id": 1325773660129435600,
+		"id_str": "1326120697580544001",
+		"full_text": "그리고 그날 밤에 당연히 모텔감 ㅋ 바이가 의욕은 앞서는데 여자들끼리 섹스를 어떻게 하는지 하나도 몰라서 어버버하니까 레즈가 어머나 맛있는 송아지 고기구나 하고 후루룩 냠냠했다고 합니다~ 그리고 둘이 행복하게 잘 사귀었대요 기빨리니까 여기까지 읽어 주셔서 감사합니다 ㅂㅂ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1325772889585406000,
+		"in_reply_to_status_id_str": "1325772889585405952",
+		"in_reply_to_user_id": 1310891526,
+		"in_reply_to_user_id_str": "1310891526",
+		"in_reply_to_screen_name": "yorathegamer",
+		"user": {
+			"id": 1310891526,
+			"id_str": "1310891526",
+			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"screen_name": "yorathegamer",
+			"location": "동숲합니다 포스타입 주소 : ",
+			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
+			"url": "https://t.co/w9FhnIUQ2M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w9FhnIUQ2M",
+							"expanded_url": "https://blacklilybear.postype.com/",
+							"display_url": "blacklilybear.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472,
+			"friends_count": 309,
+			"listed_count": 1,
+			"created_at": "Thu Mar 28 15:11:52 +0000 2013",
+			"favourites_count": 5907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1310891526/1600585974",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그리고 그날 밤에 당연히 모텔감 ㅋ 바이가 의욕은 앞서는데 여자들끼리 섹스를 어떻게 하는지 하나도 몰라서 어버버하니까 레즈가 어머나 맛있는 송아지 고기구나 하고 후루룩 냠냠했다고 합니다~ 그리고 둘이 행복하게 잘 사귀었대요 기빨리니까 여기까지 읽어 주셔서 감사합니다 ㅂㅂ"
+	},
+	{
+		"created_at": "Tue Nov 10 11:13:01 +0000 2020",
+		"id": 1325772889585406000,
+		"id_str": "1326120673425596422",
+		"full_text": "그리고 둘은 손을 잡고서 퀴퍼 행진에 참석했어요 7월의 서울은 폭염이 한창이어서 땡볕이 강하게 내리쬐었지만 둘은 이미 주변에 사랑의 결계를 치고 있었어요 사랑의 위대함을 모르는 너님은 불쌍해요 오오라를 사방에 내뿜으며 둘은 걷다가도 멈춰서서 키스를 했어요 주변에서 박수쳐줌 오메데또~~",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1325772149307572200,
+		"in_reply_to_status_id_str": "1325772149307572225",
+		"in_reply_to_user_id": 1310891526,
+		"in_reply_to_user_id_str": "1310891526",
+		"in_reply_to_screen_name": "yorathegamer",
+		"user": {
+			"id": 1310891526,
+			"id_str": "1310891526",
+			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"screen_name": "yorathegamer",
+			"location": "동숲합니다 포스타입 주소 : ",
+			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
+			"url": "https://t.co/w9FhnIUQ2M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w9FhnIUQ2M",
+							"expanded_url": "https://blacklilybear.postype.com/",
+							"display_url": "blacklilybear.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472,
+			"friends_count": 309,
+			"listed_count": 1,
+			"created_at": "Thu Mar 28 15:11:52 +0000 2013",
+			"favourites_count": 5907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1310891526/1600585974",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그리고 둘은 손을 잡고서 퀴퍼 행진에 참석했어요 7월의 서울은 폭염이 한창이어서 땡볕이 강하게 내리쬐었지만 둘은 이미 주변에 사랑의 결계를 치고 있었어요 사랑의 위대함을 모르는 너님은 불쌍해요 오오라를 사방에 내뿜으며 둘은 걷다가도 멈춰서서 키스를 했어요 주변에서 박수쳐줌 오메데또~~"
+	},
+	{
+		"created_at": "Tue Nov 10 11:12:57 +0000 2020",
+		"id": 1325772149307572200,
+		"id_str": "1326120659408187393",
+		"full_text": "로맨스물이니까 키스 한번 찐하게 합시다! 애가 눈물이랑 땀이 줄줄 흘러서 하도 얼굴이 엉망진창이니까 무지개색 손수건으로 좀 닦아주고 그늘에 가서 열을 좀 식힌 다음에 레즈가 헤녀... 아니 이제는 바이죠 바이한테 입으로 포카리스웨트 먹여 줬어요 둘이서 처음으로 나눈 키스는 포카리맛!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1325771440482783200,
+		"in_reply_to_status_id_str": "1325771440482783232",
+		"in_reply_to_user_id": 1310891526,
+		"in_reply_to_user_id_str": "1310891526",
+		"in_reply_to_screen_name": "yorathegamer",
+		"user": {
+			"id": 1310891526,
+			"id_str": "1310891526",
+			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"screen_name": "yorathegamer",
+			"location": "동숲합니다 포스타입 주소 : ",
+			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
+			"url": "https://t.co/w9FhnIUQ2M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w9FhnIUQ2M",
+							"expanded_url": "https://blacklilybear.postype.com/",
+							"display_url": "blacklilybear.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472,
+			"friends_count": 309,
+			"listed_count": 1,
+			"created_at": "Thu Mar 28 15:11:52 +0000 2013",
+			"favourites_count": 5907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1310891526/1600585974",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "로맨스물이니까 키스 한번 찐하게 합시다! 애가 눈물이랑 땀이 줄줄 흘러서 하도 얼굴이 엉망진창이니까 무지개색 손수건으로 좀 닦아주고 그늘에 가서 열을 좀 식힌 다음에 레즈가 헤녀... 아니 이제는 바이죠 바이한테 입으로 포카리스웨트 먹여 줬어요 둘이서 처음으로 나눈 키스는 포카리맛!"
+	},
+	{
+		"created_at": "Tue Nov 10 11:12:55 +0000 2020",
+		"id": 1325771440482783200,
+		"id_str": "1326120648494641152",
+		"full_text": "레즈는 그제서야 아 얘 처음부터 진심이었구나.. 하고 의심을 풀었어요 헤녀는 원래 인도어파여서 이런 사람 많은 곳 질색했거든요 게다가 7월 시발 땡볕이잖아 꼭 그런 계절에 해야겠냐 원래 액세서리류 싫어해서 치장도 안 하던 애가 뭐 주렁주렁 달고 보고 싶다면서 징징 짜잖아요 믿어줘야지 뭐",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1325770800390041600,
+		"in_reply_to_status_id_str": "1325770800390041601",
+		"in_reply_to_user_id": 1310891526,
+		"in_reply_to_user_id_str": "1310891526",
+		"in_reply_to_screen_name": "yorathegamer",
+		"user": {
+			"id": 1310891526,
+			"id_str": "1310891526",
+			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"screen_name": "yorathegamer",
+			"location": "동숲합니다 포스타입 주소 : ",
+			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
+			"url": "https://t.co/w9FhnIUQ2M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w9FhnIUQ2M",
+							"expanded_url": "https://blacklilybear.postype.com/",
+							"display_url": "blacklilybear.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472,
+			"friends_count": 309,
+			"listed_count": 1,
+			"created_at": "Thu Mar 28 15:11:52 +0000 2013",
+			"favourites_count": 5907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1310891526/1600585974",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "레즈는 그제서야 아 얘 처음부터 진심이었구나.. 하고 의심을 풀었어요 헤녀는 원래 인도어파여서 이런 사람 많은 곳 질색했거든요 게다가 7월 시발 땡볕이잖아 꼭 그런 계절에 해야겠냐 원래 액세서리류 싫어해서 치장도 안 하던 애가 뭐 주렁주렁 달고 보고 싶다면서 징징 짜잖아요 믿어줘야지 뭐"
+	},
+	{
+		"created_at": "Tue Nov 10 11:12:52 +0000 2020",
+		"id": 1325770800390041600,
+		"id_str": "1326120637908221952",
+		"full_text": "헤녀는 머릿속으로 온갖 시뮬레이션을 돌렸는데 막상 레즈 마주치니까 얼어 버렸어요 무슨 말을 해야 할지도 모르겠고 그간의 진심이 뒤엉켜서... 이번엔 어떻게 해야 믿어줄까... 나 남자랑 섹스하다가 네 이름 불렀다고 해야 믿어줄까... 그러다가 결국은 그냥 쥐어짜내듯이 한 마디 \n\n\"보고 싶었어\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1325770210117210000,
+		"in_reply_to_status_id_str": "1325770210117210113",
+		"in_reply_to_user_id": 1310891526,
+		"in_reply_to_user_id_str": "1310891526",
+		"in_reply_to_screen_name": "yorathegamer",
+		"user": {
+			"id": 1310891526,
+			"id_str": "1310891526",
+			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"screen_name": "yorathegamer",
+			"location": "동숲합니다 포스타입 주소 : ",
+			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
+			"url": "https://t.co/w9FhnIUQ2M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w9FhnIUQ2M",
+							"expanded_url": "https://blacklilybear.postype.com/",
+							"display_url": "blacklilybear.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472,
+			"friends_count": 309,
+			"listed_count": 1,
+			"created_at": "Thu Mar 28 15:11:52 +0000 2013",
+			"favourites_count": 5907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1310891526/1600585974",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "헤녀는 머릿속으로 온갖 시뮬레이션을 돌렸는데 막상 레즈 마주치니까 얼어 버렸어요 무슨 말을 해야 할지도 모르겠고 그간의 진심이 뒤엉켜서... 이번엔 어떻게 해야 믿어줄까... 나 남자랑 섹스하다가 네 이름 불렀다고 해야 믿어줄까... 그러다가 결국은 그냥 쥐어짜내듯이 한 마디 \n\n\"보고 싶었어\""
+	},
+	{
+		"created_at": "Tue Nov 10 11:12:49 +0000 2020",
+		"id": 1325770210117210000,
+		"id_str": "1326120625031716865",
+		"full_text": "그리고 놀랍게도....! 운명의 여신이 그들을 축복했는지...! 아니면 퀴어문화축제가 아니라 전애인들만나는축제라는 말을 충실히 반영한 결과인지는 몰라도...! 레즈와 헤녀는 실로 N년 만에 재회했어요 레즈는 깜짝 놀랐어요 쟤 정레 짓거리 한다더니 냉글 돌아버려서 이런 데까지 오는구나 싶었죠",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1325769850745024500,
+		"in_reply_to_status_id_str": "1325769850745024513",
+		"in_reply_to_user_id": 1310891526,
+		"in_reply_to_user_id_str": "1310891526",
+		"in_reply_to_screen_name": "yorathegamer",
+		"user": {
+			"id": 1310891526,
+			"id_str": "1310891526",
+			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"screen_name": "yorathegamer",
+			"location": "동숲합니다 포스타입 주소 : ",
+			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
+			"url": "https://t.co/w9FhnIUQ2M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w9FhnIUQ2M",
+							"expanded_url": "https://blacklilybear.postype.com/",
+							"display_url": "blacklilybear.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472,
+			"friends_count": 309,
+			"listed_count": 1,
+			"created_at": "Thu Mar 28 15:11:52 +0000 2013",
+			"favourites_count": 5907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1310891526/1600585974",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그리고 놀랍게도....! 운명의 여신이 그들을 축복했는지...! 아니면 퀴어문화축제가 아니라 전애인들만나는축제라는 말을 충실히 반영한 결과인지는 몰라도...! 레즈와 헤녀는 실로 N년 만에 재회했어요 레즈는 깜짝 놀랐어요 쟤 정레 짓거리 한다더니 냉글 돌아버려서 이런 데까지 오는구나 싶었죠"
+	},
+	{
+		"created_at": "Tue Nov 10 11:12:46 +0000 2020",
+		"id": 1325769850745024500,
+		"id_str": "1326120612985593856",
+		"full_text": "헤녀는 점점 자신이 없어졌어요 이거 완전 서울에서 김 서방 찾기 아냐... 세상에 레즈랑 게이랑 바이가 이렇게 많았나.. 하면서 혼자서 풀이 죽은 채 부스를 돌았어요 혹시라도 레즈랑 다시 마주치면 자신의 진정성을 증명하기 위해 알록달록한 무지개색 굿즈를 사서 몸에 주렁주렁 걸쳤어요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1325769224002760700,
+		"in_reply_to_status_id_str": "1325769224002760705",
+		"in_reply_to_user_id": 1310891526,
+		"in_reply_to_user_id_str": "1310891526",
+		"in_reply_to_screen_name": "yorathegamer",
+		"user": {
+			"id": 1310891526,
+			"id_str": "1310891526",
+			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"screen_name": "yorathegamer",
+			"location": "동숲합니다 포스타입 주소 : ",
+			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
+			"url": "https://t.co/w9FhnIUQ2M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w9FhnIUQ2M",
+							"expanded_url": "https://blacklilybear.postype.com/",
+							"display_url": "blacklilybear.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472,
+			"friends_count": 309,
+			"listed_count": 1,
+			"created_at": "Thu Mar 28 15:11:52 +0000 2013",
+			"favourites_count": 5907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1310891526/1600585974",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "헤녀는 점점 자신이 없어졌어요 이거 완전 서울에서 김 서방 찾기 아냐... 세상에 레즈랑 게이랑 바이가 이렇게 많았나.. 하면서 혼자서 풀이 죽은 채 부스를 돌았어요 혹시라도 레즈랑 다시 마주치면 자신의 진정성을 증명하기 위해 알록달록한 무지개색 굿즈를 사서 몸에 주렁주렁 걸쳤어요"
+	},
+	{
+		"created_at": "Tue Nov 10 11:12:45 +0000 2020",
+		"id": 1325769224002760700,
+		"id_str": "1326120607977676805",
+		"full_text": "불쌍한 헤녀는 퀴어퍼레이드가 시골 마을의 동네 잔치 수준이라고 생각했어요 그럴 수 있죠 작정하고 성소수자 인구 비율 같은 거 딱히 찾아보지는 않잖아요 그래서 헤녀는 레즈를 만날 수 있을 거라고 생각하고 퀴어날에 시청역에 갔어요 아 맞다 서울퀴어예요 그리고 부채줌을 추는 광경에 압도당함",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1325768781327601700,
+		"in_reply_to_status_id_str": "1325768781327601664",
+		"in_reply_to_user_id": 1310891526,
+		"in_reply_to_user_id_str": "1310891526",
+		"in_reply_to_screen_name": "yorathegamer",
+		"user": {
+			"id": 1310891526,
+			"id_str": "1310891526",
+			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"screen_name": "yorathegamer",
+			"location": "동숲합니다 포스타입 주소 : ",
+			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
+			"url": "https://t.co/w9FhnIUQ2M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w9FhnIUQ2M",
+							"expanded_url": "https://blacklilybear.postype.com/",
+							"display_url": "blacklilybear.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472,
+			"friends_count": 309,
+			"listed_count": 1,
+			"created_at": "Thu Mar 28 15:11:52 +0000 2013",
+			"favourites_count": 5907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1310891526/1600585974",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "불쌍한 헤녀는 퀴어퍼레이드가 시골 마을의 동네 잔치 수준이라고 생각했어요 그럴 수 있죠 작정하고 성소수자 인구 비율 같은 거 딱히 찾아보지는 않잖아요 그래서 헤녀는 레즈를 만날 수 있을 거라고 생각하고 퀴어날에 시청역에 갔어요 아 맞다 서울퀴어예요 그리고 부채줌을 추는 광경에 압도당함"
+	},
+	{
+		"created_at": "Tue Nov 10 11:12:41 +0000 2020",
+		"id": 1325768781327601700,
+		"id_str": "1326120591351406594",
+		"full_text": "레즈는 최근에 쏠로가 된 모양이었어요 외롭다느니 가슴이 허하다느니 뭐 그런 갬성글 있죠 그런 글들만 잔뜩이었어요 페북은 다행히 차단은 안 당했더라고요 그래서 메시지 보내볼까... 하는데 레즈가 퀴어퍼레이드 어쩌구 글을 올리면서 축제 가니까 신난다고 하는 거예요 배경은 대역병 이전입니다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1325768334227370000,
+		"in_reply_to_status_id_str": "1325768334227369986",
+		"in_reply_to_user_id": 1310891526,
+		"in_reply_to_user_id_str": "1310891526",
+		"in_reply_to_screen_name": "yorathegamer",
+		"user": {
+			"id": 1310891526,
+			"id_str": "1310891526",
+			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"screen_name": "yorathegamer",
+			"location": "동숲합니다 포스타입 주소 : ",
+			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
+			"url": "https://t.co/w9FhnIUQ2M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w9FhnIUQ2M",
+							"expanded_url": "https://blacklilybear.postype.com/",
+							"display_url": "blacklilybear.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472,
+			"friends_count": 309,
+			"listed_count": 1,
+			"created_at": "Thu Mar 28 15:11:52 +0000 2013",
+			"favourites_count": 5907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1310891526/1600585974",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "레즈는 최근에 쏠로가 된 모양이었어요 외롭다느니 가슴이 허하다느니 뭐 그런 갬성글 있죠 그런 글들만 잔뜩이었어요 페북은 다행히 차단은 안 당했더라고요 그래서 메시지 보내볼까... 하는데 레즈가 퀴어퍼레이드 어쩌구 글을 올리면서 축제 가니까 신난다고 하는 거예요 배경은 대역병 이전입니다"
+	},
+	{
+		"created_at": "Tue Nov 10 11:12:38 +0000 2020",
+		"id": 1325768334227370000,
+		"id_str": "1326120577623453699",
+		"full_text": "너 너 사실 레즈인데 나랑 결혼해서 신분세탁(?) 하려는 거지! 하고 말이에요 헤녀는 황당했어요 레즈한테서는 퀴어 코스한다고 욕을 먹었는데 말이에요 다행히 남자는 그렇게 쓰레기는 아니어서 안전이별을 할 수 있었어요 그리고 오랜만에 그 레즈의 싸이...는 너무 구시대적이죠 페북에 들어갔어요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1325767825030439000,
+		"in_reply_to_status_id_str": "1325767825030438914",
+		"in_reply_to_user_id": 1310891526,
+		"in_reply_to_user_id_str": "1310891526",
+		"in_reply_to_screen_name": "yorathegamer",
+		"user": {
+			"id": 1310891526,
+			"id_str": "1310891526",
+			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"screen_name": "yorathegamer",
+			"location": "동숲합니다 포스타입 주소 : ",
+			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
+			"url": "https://t.co/w9FhnIUQ2M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w9FhnIUQ2M",
+							"expanded_url": "https://blacklilybear.postype.com/",
+							"display_url": "blacklilybear.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472,
+			"friends_count": 309,
+			"listed_count": 1,
+			"created_at": "Thu Mar 28 15:11:52 +0000 2013",
+			"favourites_count": 5907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1310891526/1600585974",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "너 너 사실 레즈인데 나랑 결혼해서 신분세탁(?) 하려는 거지! 하고 말이에요 헤녀는 황당했어요 레즈한테서는 퀴어 코스한다고 욕을 먹었는데 말이에요 다행히 남자는 그렇게 쓰레기는 아니어서 안전이별을 할 수 있었어요 그리고 오랜만에 그 레즈의 싸이...는 너무 구시대적이죠 페북에 들어갔어요"
+	},
+	{
+		"created_at": "Tue Nov 10 11:12:34 +0000 2020",
+		"id": 1325767825030439000,
+		"id_str": "1326120562763071488",
+		"full_text": "...님들 이거 재밌나 보네 힘내서 더 써봅니다 헤녀는 열심히 스스로를 부정했지만 원래 자기기만이라는 게 그렇잖아요 엘사가 컨실돈필 13년 간 하다가 돌아버렸듯이 헤녀도 점점 돌아버렸어요 급기야는 남자랑 섹스하다가 그 레즈의 이름을 불러 버렸어요 남자는 길길이 날뛰었어요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1325767331696423000,
+		"in_reply_to_status_id_str": "1325767331696422914",
+		"in_reply_to_user_id": 1310891526,
+		"in_reply_to_user_id_str": "1310891526",
+		"in_reply_to_screen_name": "yorathegamer",
+		"user": {
+			"id": 1310891526,
+			"id_str": "1310891526",
+			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"screen_name": "yorathegamer",
+			"location": "동숲합니다 포스타입 주소 : ",
+			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
+			"url": "https://t.co/w9FhnIUQ2M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w9FhnIUQ2M",
+							"expanded_url": "https://blacklilybear.postype.com/",
+							"display_url": "blacklilybear.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472,
+			"friends_count": 309,
+			"listed_count": 1,
+			"created_at": "Thu Mar 28 15:11:52 +0000 2013",
+			"favourites_count": 5907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1310891526/1600585974",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "...님들 이거 재밌나 보네 힘내서 더 써봅니다 헤녀는 열심히 스스로를 부정했지만 원래 자기기만이라는 게 그렇잖아요 엘사가 컨실돈필 13년 간 하다가 돌아버렸듯이 헤녀도 점점 돌아버렸어요 급기야는 남자랑 섹스하다가 그 레즈의 이름을 불러 버렸어요 남자는 길길이 날뛰었어요"
+	},
+	{
+		"created_at": "Tue Nov 10 11:12:31 +0000 2020",
+		"id": 1325767331696423000,
+		"id_str": "1326120549144170498",
+		"full_text": "하지만 아무리 후회공 짓거리 해봤자 소용이 없었어요 연애는 원래 타이밍을 놓치면 끝이에요 헤녀는 역시 나는 이성애자라며 다시 디나이얼 짓거리를 시작하고 남자를 열심히 만나고 다니기 시작했어요 그런데 말입니다 남자랑 키스할 때마다 자꾸만 그 레즈가 떠오르는 거예요 걔는 훨씬 잘했는데",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1325766904863023000,
+		"in_reply_to_status_id_str": "1325766904863023104",
+		"in_reply_to_user_id": 1310891526,
+		"in_reply_to_user_id_str": "1310891526",
+		"in_reply_to_screen_name": "yorathegamer",
+		"user": {
+			"id": 1310891526,
+			"id_str": "1310891526",
+			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"screen_name": "yorathegamer",
+			"location": "동숲합니다 포스타입 주소 : ",
+			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
+			"url": "https://t.co/w9FhnIUQ2M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w9FhnIUQ2M",
+							"expanded_url": "https://blacklilybear.postype.com/",
+							"display_url": "blacklilybear.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472,
+			"friends_count": 309,
+			"listed_count": 1,
+			"created_at": "Thu Mar 28 15:11:52 +0000 2013",
+			"favourites_count": 5907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1310891526/1600585974",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "하지만 아무리 후회공 짓거리 해봤자 소용이 없었어요 연애는 원래 타이밍을 놓치면 끝이에요 헤녀는 역시 나는 이성애자라며 다시 디나이얼 짓거리를 시작하고 남자를 열심히 만나고 다니기 시작했어요 그런데 말입니다 남자랑 키스할 때마다 자꾸만 그 레즈가 떠오르는 거예요 걔는 훨씬 잘했는데"
+	},
+	{
+		"created_at": "Tue Nov 10 11:12:28 +0000 2020",
+		"id": 1325766904863023000,
+		"id_str": "1326120534510202880",
+		"full_text": "그 뒤로는 정말로 레즈한테서 단 한 번의 연락이 없었어요 페북도 끊겼고 트위터는 차단당했어요 정말 정나미가 떨어진 모양인지 겹트친까지 죄다 잘라냈더라고요 헤녀는 속으로 가슴을 쳤죠 조금만 더 용기를 낼걸...! 하지만 이미 때는 늦었고 엎지른 물이었죠",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1325766517238083600,
+		"in_reply_to_status_id_str": "1325766517238083584",
+		"in_reply_to_user_id": 1310891526,
+		"in_reply_to_user_id_str": "1310891526",
+		"in_reply_to_screen_name": "yorathegamer",
+		"user": {
+			"id": 1310891526,
+			"id_str": "1310891526",
+			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"screen_name": "yorathegamer",
+			"location": "동숲합니다 포스타입 주소 : ",
+			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
+			"url": "https://t.co/w9FhnIUQ2M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w9FhnIUQ2M",
+							"expanded_url": "https://blacklilybear.postype.com/",
+							"display_url": "blacklilybear.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472,
+			"friends_count": 309,
+			"listed_count": 1,
+			"created_at": "Thu Mar 28 15:11:52 +0000 2013",
+			"favourites_count": 5907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1310891526/1600585974",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그 뒤로는 정말로 레즈한테서 단 한 번의 연락이 없었어요 페북도 끊겼고 트위터는 차단당했어요 정말 정나미가 떨어진 모양인지 겹트친까지 죄다 잘라냈더라고요 헤녀는 속으로 가슴을 쳤죠 조금만 더 용기를 낼걸...! 하지만 이미 때는 늦었고 엎지른 물이었죠"
+	},
+	{
+		"created_at": "Tue Nov 10 11:12:25 +0000 2020",
+		"id": 1325766517238083600,
+		"id_str": "1326120523600814080",
+		"full_text": "그 모습을 싸늘하게 지켜보던 레즈는 거봐, 넌 역시 이성애자니까, 이렇게 사람 놀리면 즐거워? 퀴어로 사는 게 그렇게 만만해 보여? 내가 늘 연애하는 거 숨기고 다니는 모습 뻔히 봤으면서도 그렇게 가짜로 고백을 하고 다녀? 하면서 다다다다 쏘아붙였어요 그리고 문 밖으로 밀어냈어요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1325766098940174300,
+		"in_reply_to_status_id_str": "1325766098940174338",
+		"in_reply_to_user_id": 1310891526,
+		"in_reply_to_user_id_str": "1310891526",
+		"in_reply_to_screen_name": "yorathegamer",
+		"user": {
+			"id": 1310891526,
+			"id_str": "1310891526",
+			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"screen_name": "yorathegamer",
+			"location": "동숲합니다 포스타입 주소 : ",
+			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
+			"url": "https://t.co/w9FhnIUQ2M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w9FhnIUQ2M",
+							"expanded_url": "https://blacklilybear.postype.com/",
+							"display_url": "blacklilybear.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472,
+			"friends_count": 309,
+			"listed_count": 1,
+			"created_at": "Thu Mar 28 15:11:52 +0000 2013",
+			"favourites_count": 5907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1310891526/1600585974",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그 모습을 싸늘하게 지켜보던 레즈는 거봐, 넌 역시 이성애자니까, 이렇게 사람 놀리면 즐거워? 퀴어로 사는 게 그렇게 만만해 보여? 내가 늘 연애하는 거 숨기고 다니는 모습 뻔히 봤으면서도 그렇게 가짜로 고백을 하고 다녀? 하면서 다다다다 쏘아붙였어요 그리고 문 밖으로 밀어냈어요"
+	},
+	{
+		"created_at": "Tue Nov 10 11:12:22 +0000 2020",
+		"id": 1325766098940174300,
+		"id_str": "1326120510392946688",
+		"full_text": "여기서 헤녀가 용기를 내서 키스 성공하면 뭐 해피엔딩이겠죠 그러면 재미없으니까 좀 더 꼬아 봅시다\n\n아직 디나이얼을 완전히 극복하지 못했던 헤녀는 입술이 닿고 혀가 섞이는 그 물컹한 느낌에 그만 몸을 뒤로 빼고 말았어요 이 선만 넘어가면 자기는 '퀴어'가 되고 '성소수자'가 되거든요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1325765507564236800,
+		"in_reply_to_status_id_str": "1325765507564236800",
+		"in_reply_to_user_id": 1310891526,
+		"in_reply_to_user_id_str": "1310891526",
+		"in_reply_to_screen_name": "yorathegamer",
+		"user": {
+			"id": 1310891526,
+			"id_str": "1310891526",
+			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"screen_name": "yorathegamer",
+			"location": "동숲합니다 포스타입 주소 : ",
+			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
+			"url": "https://t.co/w9FhnIUQ2M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w9FhnIUQ2M",
+							"expanded_url": "https://blacklilybear.postype.com/",
+							"display_url": "blacklilybear.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472,
+			"friends_count": 309,
+			"listed_count": 1,
+			"created_at": "Thu Mar 28 15:11:52 +0000 2013",
+			"favourites_count": 5907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1310891526/1600585974",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "여기서 헤녀가 용기를 내서 키스 성공하면 뭐 해피엔딩이겠죠 그러면 재미없으니까 좀 더 꼬아 봅시다\n\n아직 디나이얼을 완전히 극복하지 못했던 헤녀는 입술이 닿고 혀가 섞이는 그 물컹한 느낌에 그만 몸을 뒤로 빼고 말았어요 이 선만 넘어가면 자기는 '퀴어'가 되고 '성소수자'가 되거든요"
+	},
+	{
+		"created_at": "Tue Nov 10 11:12:19 +0000 2020",
+		"id": 1325765507564236800,
+		"id_str": "1326120497378025474",
+		"full_text": "좋아 그러면 난이도를 낮춰 주마 우선 키스부터 해보자 \n\n헤녀는 심호흡을 했어요 이 선을 넘으면 자기는 더 이상 헤녀가 아닌 거예요 디나이얼 짓거리는 이제 지쳤고 욕망에 충실하고 싶어졌어요 그런데 너무 떨리고 긴장해서 사온 술을 한 모금 마시기로 했어요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1325764894449303600,
+		"in_reply_to_status_id_str": "1325764894449303552",
+		"in_reply_to_user_id": 1310891526,
+		"in_reply_to_user_id_str": "1310891526",
+		"in_reply_to_screen_name": "yorathegamer",
+		"user": {
+			"id": 1310891526,
+			"id_str": "1310891526",
+			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"screen_name": "yorathegamer",
+			"location": "동숲합니다 포스타입 주소 : ",
+			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
+			"url": "https://t.co/w9FhnIUQ2M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w9FhnIUQ2M",
+							"expanded_url": "https://blacklilybear.postype.com/",
+							"display_url": "blacklilybear.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472,
+			"friends_count": 309,
+			"listed_count": 1,
+			"created_at": "Thu Mar 28 15:11:52 +0000 2013",
+			"favourites_count": 5907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1310891526/1600585974",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "좋아 그러면 난이도를 낮춰 주마 우선 키스부터 해보자 \n\n헤녀는 심호흡을 했어요 이 선을 넘으면 자기는 더 이상 헤녀가 아닌 거예요 디나이얼 짓거리는 이제 지쳤고 욕망에 충실하고 싶어졌어요 그런데 너무 떨리고 긴장해서 사온 술을 한 모금 마시기로 했어요"
+	},
+	{
+		"created_at": "Tue Nov 10 11:12:16 +0000 2020",
+		"id": 1325764894449303600,
+		"id_str": "1326120483427819525",
+		"full_text": "좋아 그럼 너의 진심을 나에게 몸으로 표현해 보려무나 레즈비언은 여자와 섹스하는 여자란다 여자 거시기를 빨 수 없다면 너는 여성애자가 아니란다 거만하게 팔짱을 끼는 레즈를 향해 헤녀는 발끈했어요 이성애자라고 해서 남자 만나면 ㅍㄹㅊㅇ 부터 하는 거 아니거든 나는 그거 원래 싫어한다고!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1325764052614738000,
+		"in_reply_to_status_id_str": "1325764052614737920",
+		"in_reply_to_user_id": 1310891526,
+		"in_reply_to_user_id_str": "1310891526",
+		"in_reply_to_screen_name": "yorathegamer",
+		"user": {
+			"id": 1310891526,
+			"id_str": "1310891526",
+			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"screen_name": "yorathegamer",
+			"location": "동숲합니다 포스타입 주소 : ",
+			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
+			"url": "https://t.co/w9FhnIUQ2M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w9FhnIUQ2M",
+							"expanded_url": "https://blacklilybear.postype.com/",
+							"display_url": "blacklilybear.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472,
+			"friends_count": 309,
+			"listed_count": 1,
+			"created_at": "Thu Mar 28 15:11:52 +0000 2013",
+			"favourites_count": 5907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1310891526/1600585974",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "좋아 그럼 너의 진심을 나에게 몸으로 표현해 보려무나 레즈비언은 여자와 섹스하는 여자란다 여자 거시기를 빨 수 없다면 너는 여성애자가 아니란다 거만하게 팔짱을 끼는 레즈를 향해 헤녀는 발끈했어요 이성애자라고 해서 남자 만나면 ㅍㄹㅊㅇ 부터 하는 거 아니거든 나는 그거 원래 싫어한다고!"
+	},
+	{
+		"created_at": "Tue Nov 10 11:12:11 +0000 2020",
+		"id": 1325764052614738000,
+		"id_str": "1326120463739711489",
+		"full_text": "빡친 헤녀는 결국 레즈의 집에 술을 들고 쳐들어갔어요 둘은 소꿉친구였거든요 그리고 헤녀는 레즈의 멱살을 잡았어요 야 고백 거절하고서 친구로 지내는 선택지는 없냐고 안 받아줘도 되니까 제대로 거절이라도 해달라고 엉엉 우니까 레즈는 조금 마음이가 아팠어요 우는 모습이 안쓰럽고 꼴렸어요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1325763083797581800,
+		"in_reply_to_status_id_str": "1325763083797581824",
+		"in_reply_to_user_id": 1310891526,
+		"in_reply_to_user_id_str": "1310891526",
+		"in_reply_to_screen_name": "yorathegamer",
+		"user": {
+			"id": 1310891526,
+			"id_str": "1310891526",
+			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"screen_name": "yorathegamer",
+			"location": "동숲합니다 포스타입 주소 : ",
+			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
+			"url": "https://t.co/w9FhnIUQ2M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w9FhnIUQ2M",
+							"expanded_url": "https://blacklilybear.postype.com/",
+							"display_url": "blacklilybear.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472,
+			"friends_count": 309,
+			"listed_count": 1,
+			"created_at": "Thu Mar 28 15:11:52 +0000 2013",
+			"favourites_count": 5907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1310891526/1600585974",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "빡친 헤녀는 결국 레즈의 집에 술을 들고 쳐들어갔어요 둘은 소꿉친구였거든요 그리고 헤녀는 레즈의 멱살을 잡았어요 야 고백 거절하고서 친구로 지내는 선택지는 없냐고 안 받아줘도 되니까 제대로 거절이라도 해달라고 엉엉 우니까 레즈는 조금 마음이가 아팠어요 우는 모습이 안쓰럽고 꼴렸어요"
+	},
+	{
+		"created_at": "Tue Nov 10 11:12:08 +0000 2020",
+		"id": 1325763083797581800,
+		"id_str": "1326120449764286464",
+		"full_text": "레즈의 반응은 사실 지당한 것이었어요 헤녀는 고등학교 시절부터 나 너 사랑해~ 네가 남자였으면 사귀었을 텐데~를 시전했거든요 레즈는 헤녀우정인 줄 뻔히 알아서 헛된 기대는 하지 않고 그때부터 탑X을 했어요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1325762559580860400,
+		"in_reply_to_status_id_str": "1325762559580860416",
+		"in_reply_to_user_id": 1310891526,
+		"in_reply_to_user_id_str": "1310891526",
+		"in_reply_to_screen_name": "yorathegamer",
+		"user": {
+			"id": 1310891526,
+			"id_str": "1310891526",
+			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"screen_name": "yorathegamer",
+			"location": "동숲합니다 포스타입 주소 : ",
+			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
+			"url": "https://t.co/w9FhnIUQ2M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w9FhnIUQ2M",
+							"expanded_url": "https://blacklilybear.postype.com/",
+							"display_url": "blacklilybear.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472,
+			"friends_count": 309,
+			"listed_count": 1,
+			"created_at": "Thu Mar 28 15:11:52 +0000 2013",
+			"favourites_count": 5907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1310891526/1600585974",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "레즈의 반응은 사실 지당한 것이었어요 헤녀는 고등학교 시절부터 나 너 사랑해~ 네가 남자였으면 사귀었을 텐데~를 시전했거든요 레즈는 헤녀우정인 줄 뻔히 알아서 헛된 기대는 하지 않고 그때부터 탑X을 했어요"
+	},
+	{
+		"created_at": "Tue Nov 10 11:12:04 +0000 2020",
+		"id": 1325762559580860400,
+		"id_str": "1326120434538983424",
+		"full_text": "하지만 우리의 레즈는 의심이 많은 백합러여서 저 헤녀새끼가 욕망당하고 싶은 욕망을 나한테 푸는구나 하고 빡쳐서 연락을 끊어 버렸어요 요새 정레가 여기저기 설치더니 정치적 바이도 있구나 근데 내 친구가 그러면 싫어 허허",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1325761957270483000,
+		"in_reply_to_status_id_str": "1325761957270482944",
+		"in_reply_to_user_id": 1310891526,
+		"in_reply_to_user_id_str": "1310891526",
+		"in_reply_to_screen_name": "yorathegamer",
+		"user": {
+			"id": 1310891526,
+			"id_str": "1310891526",
+			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"screen_name": "yorathegamer",
+			"location": "동숲합니다 포스타입 주소 : ",
+			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
+			"url": "https://t.co/w9FhnIUQ2M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w9FhnIUQ2M",
+							"expanded_url": "https://blacklilybear.postype.com/",
+							"display_url": "blacklilybear.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472,
+			"friends_count": 309,
+			"listed_count": 1,
+			"created_at": "Thu Mar 28 15:11:52 +0000 2013",
+			"favourites_count": 5907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1310891526/1600585974",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "하지만 우리의 레즈는 의심이 많은 백합러여서 저 헤녀새끼가 욕망당하고 싶은 욕망을 나한테 푸는구나 하고 빡쳐서 연락을 끊어 버렸어요 요새 정레가 여기저기 설치더니 정치적 바이도 있구나 근데 내 친구가 그러면 싫어 허허"
+	},
+	{
+		"created_at": "Tue Nov 10 11:11:58 +0000 2020",
+		"id": 1325761957270483000,
+		"id_str": "1326120411629723650",
+		"full_text": "아니야 나 너 정말로 사랑한다니까\n\n네가 남친한테 또 차여서 헛소리하는구나 허허\n\n나 사실 바이로 재정체화했다니까\n\n어디서 LGBT 첫걸음 주워 읽었구나 허허 혹시 너도 그거니 정치적 레즈비언?\n\n아니야 아니라고 난 진심이라고",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1325761366041395200,
+		"in_reply_to_status_id_str": "1325761366041395202",
+		"in_reply_to_user_id": 1310891526,
+		"in_reply_to_user_id_str": "1310891526",
+		"in_reply_to_screen_name": "yorathegamer",
+		"user": {
+			"id": 1310891526,
+			"id_str": "1310891526",
+			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"screen_name": "yorathegamer",
+			"location": "동숲합니다 포스타입 주소 : ",
+			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
+			"url": "https://t.co/w9FhnIUQ2M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w9FhnIUQ2M",
+							"expanded_url": "https://blacklilybear.postype.com/",
+							"display_url": "blacklilybear.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472,
+			"friends_count": 309,
+			"listed_count": 1,
+			"created_at": "Thu Mar 28 15:11:52 +0000 2013",
+			"favourites_count": 5907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307528723588030468/WKeCpvpU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1310891526/1600585974",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아니야 나 너 정말로 사랑한다니까\n\n네가 남친한테 또 차여서 헛소리하는구나 허허\n\n나 사실 바이로 재정체화했다니까\n\n어디서 LGBT 첫걸음 주워 읽었구나 허허 혹시 너도 그거니 정치적 레즈비언?\n\n아니야 아니라고 난 진심이라고"
+	},
+	{
 		"created_at": "Tue Nov 10 10:25:21 +0000 2020",
 		"id": 1326049555184447500,
 		"id_str": "1326108678676570112",
