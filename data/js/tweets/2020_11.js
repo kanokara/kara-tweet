@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 11 01:07:29 +0000 2020",
+		"id": 1326330673234276400,
+		"id_str": "1326330673234276352",
+		"full_text": "왜냐하면 작품으로부터 제가 받은 바대로 갚아야 할, 그러나 갚지 못하는 부채감에 사로잡혔기 때문에...\n\n이 트윗을 보고 한 소리.\nhttps://t.co/MQXS2vbqPp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MQXS2vbqPp",
+					"expanded_url": "https://twitter.com/theprofkiller/status/1326113614571302912",
+					"display_url": "twitter.com/theprofkiller/…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1326325324813009000,
+		"in_reply_to_status_id_str": "1326325324813008896",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 86,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2596,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1326113614571303000,
+		"quoted_status_id_str": "1326113614571302912",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MQXS2vbqPp",
+			"expanded": "https://twitter.com/theprofkiller/status/1326113614571302912",
+			"display": "twitter.com/theprofkiller/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 10 10:44:58 +0000 2020",
+			"id": 1326113614571303000,
+			"id_str": "1326113614571302912",
+			"full_text": "아니 난 완전 이해됨 여기선 아버지가 폭력을 휘두른 대상이 본인이고 이번에 문제 된 글에선 어머니잖아요 자기가 맞을 땐 폭행인데 어머니가 맞은 데 대해서는 폭행 피해자로서 어머니한테 공감하는 게 먼저가 아니라 가부장으로서 ‘나보다 똑똑한 아내’에 대한 아버지의 열등감에 먼저 이입한 것뿐 https://t.co/HlSpn0ygaH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				160
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HlSpn0ygaH",
+						"expanded_url": "https://twitter.com/henty30634559/status/1326107369860812800",
+						"display_url": "twitter.com/henty30634559/…",
+						"indices": [
+							161,
+							184
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 907469829249962000,
+				"id_str": "907469829249961984",
+				"name": "구피🌹☂️",
+				"screen_name": "theprofkiller",
+				"location": "혐오자 차단!!",
+				"description": "울기엔 원래 그런 세상",
+				"url": "https://t.co/0ekqMbl5gG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0ekqMbl5gG",
+								"expanded_url": "https://blog.naver.com/season_8_",
+								"display_url": "blog.naver.com/season_8_",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28,
+				"friends_count": 61,
+				"listed_count": 0,
+				"created_at": "Tue Sep 12 05:04:02 +0000 2017",
+				"favourites_count": 1257,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3913,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1294311377108996096/8jvd7BWc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1294311377108996096/8jvd7BWc_normal.jpg",
+				"profile_link_color": "A3B1D7",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1326107369860812800,
+			"quoted_status_id_str": "1326107369860812800",
+			"quoted_status_permalink": {
+				"url": "https://t.co/HlSpn0ygaH",
+				"expanded": "https://twitter.com/henty30634559/status/1326107369860812800",
+				"display": "twitter.com/henty30634559/…"
+			},
+			"retweet_count": 93,
+			"favorite_count": 49,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "왜냐하면 작품으로부터 제가 받은 바대로 갚아야 할, 그러나 갚지 못하는 부채감에 사로잡혔기 때문에...\n\n이 트윗을 보고 한 소리.\nhttps://t.co/MQXS2vbqPp"
+	},
+	{
+		"created_at": "Wed Nov 11 00:46:14 +0000 2020",
+		"id": 1326325324813009000,
+		"id_str": "1326325324813008896",
+		"full_text": "인생에서 부모가 중요하다고 느낀 건 글자를 읽을 줄 알게 된 이래로 급격히 옅어졌고, 누군가를 스승이나 부모로 섬기고자 하는 마음이 들었던 적도 없어요. 다만 '동족'으로서 어떤 의무감, 책무감만이 구동되었을 뿐.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1326324350299955200,
+		"in_reply_to_status_id_str": "1326324350299955200",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 86,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2596,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "인생에서 부모가 중요하다고 느낀 건 글자를 읽을 줄 알게 된 이래로 급격히 옅어졌고, 누군가를 스승이나 부모로 섬기고자 하는 마음이 들었던 적도 없어요. 다만 '동족'으로서 어떤 의무감, 책무감만이 구동되었을 뿐."
+	},
+	{
 		"created_at": "Tue Nov 10 11:13:07 +0000 2020",
 		"id": 1325773660129435600,
 		"id_str": "1326120697580544001",
@@ -25,7 +318,7 @@ Grailbird.data.tweets_2020_11 =
 		"user": {
 			"id": 1310891526,
 			"id_str": "1310891526",
-			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"name": "yora🌷🏳️⚧️엘사쳐돌이",
 			"screen_name": "yorathegamer",
 			"location": "동숲합니다 포스타입 주소 : ",
 			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
@@ -120,7 +413,7 @@ Grailbird.data.tweets_2020_11 =
 		"user": {
 			"id": 1310891526,
 			"id_str": "1310891526",
-			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"name": "yora🌷🏳️⚧️엘사쳐돌이",
 			"screen_name": "yorathegamer",
 			"location": "동숲합니다 포스타입 주소 : ",
 			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
@@ -215,7 +508,7 @@ Grailbird.data.tweets_2020_11 =
 		"user": {
 			"id": 1310891526,
 			"id_str": "1310891526",
-			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"name": "yora🌷🏳️⚧️엘사쳐돌이",
 			"screen_name": "yorathegamer",
 			"location": "동숲합니다 포스타입 주소 : ",
 			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
@@ -310,7 +603,7 @@ Grailbird.data.tweets_2020_11 =
 		"user": {
 			"id": 1310891526,
 			"id_str": "1310891526",
-			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"name": "yora🌷🏳️⚧️엘사쳐돌이",
 			"screen_name": "yorathegamer",
 			"location": "동숲합니다 포스타입 주소 : ",
 			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
@@ -405,7 +698,7 @@ Grailbird.data.tweets_2020_11 =
 		"user": {
 			"id": 1310891526,
 			"id_str": "1310891526",
-			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"name": "yora🌷🏳️⚧️엘사쳐돌이",
 			"screen_name": "yorathegamer",
 			"location": "동숲합니다 포스타입 주소 : ",
 			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
@@ -500,7 +793,7 @@ Grailbird.data.tweets_2020_11 =
 		"user": {
 			"id": 1310891526,
 			"id_str": "1310891526",
-			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"name": "yora🌷🏳️⚧️엘사쳐돌이",
 			"screen_name": "yorathegamer",
 			"location": "동숲합니다 포스타입 주소 : ",
 			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
@@ -595,7 +888,7 @@ Grailbird.data.tweets_2020_11 =
 		"user": {
 			"id": 1310891526,
 			"id_str": "1310891526",
-			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"name": "yora🌷🏳️⚧️엘사쳐돌이",
 			"screen_name": "yorathegamer",
 			"location": "동숲합니다 포스타입 주소 : ",
 			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
@@ -690,7 +983,7 @@ Grailbird.data.tweets_2020_11 =
 		"user": {
 			"id": 1310891526,
 			"id_str": "1310891526",
-			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"name": "yora🌷🏳️⚧️엘사쳐돌이",
 			"screen_name": "yorathegamer",
 			"location": "동숲합니다 포스타입 주소 : ",
 			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
@@ -785,7 +1078,7 @@ Grailbird.data.tweets_2020_11 =
 		"user": {
 			"id": 1310891526,
 			"id_str": "1310891526",
-			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"name": "yora🌷🏳️⚧️엘사쳐돌이",
 			"screen_name": "yorathegamer",
 			"location": "동숲합니다 포스타입 주소 : ",
 			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
@@ -880,7 +1173,7 @@ Grailbird.data.tweets_2020_11 =
 		"user": {
 			"id": 1310891526,
 			"id_str": "1310891526",
-			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"name": "yora🌷🏳️⚧️엘사쳐돌이",
 			"screen_name": "yorathegamer",
 			"location": "동숲합니다 포스타입 주소 : ",
 			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
@@ -975,7 +1268,7 @@ Grailbird.data.tweets_2020_11 =
 		"user": {
 			"id": 1310891526,
 			"id_str": "1310891526",
-			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"name": "yora🌷🏳️⚧️엘사쳐돌이",
 			"screen_name": "yorathegamer",
 			"location": "동숲합니다 포스타입 주소 : ",
 			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
@@ -1070,7 +1363,7 @@ Grailbird.data.tweets_2020_11 =
 		"user": {
 			"id": 1310891526,
 			"id_str": "1310891526",
-			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"name": "yora🌷🏳️⚧️엘사쳐돌이",
 			"screen_name": "yorathegamer",
 			"location": "동숲합니다 포스타입 주소 : ",
 			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
@@ -1165,7 +1458,7 @@ Grailbird.data.tweets_2020_11 =
 		"user": {
 			"id": 1310891526,
 			"id_str": "1310891526",
-			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"name": "yora🌷🏳️⚧️엘사쳐돌이",
 			"screen_name": "yorathegamer",
 			"location": "동숲합니다 포스타입 주소 : ",
 			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
@@ -1260,7 +1553,7 @@ Grailbird.data.tweets_2020_11 =
 		"user": {
 			"id": 1310891526,
 			"id_str": "1310891526",
-			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"name": "yora🌷🏳️⚧️엘사쳐돌이",
 			"screen_name": "yorathegamer",
 			"location": "동숲합니다 포스타입 주소 : ",
 			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
@@ -1355,7 +1648,7 @@ Grailbird.data.tweets_2020_11 =
 		"user": {
 			"id": 1310891526,
 			"id_str": "1310891526",
-			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"name": "yora🌷🏳️⚧️엘사쳐돌이",
 			"screen_name": "yorathegamer",
 			"location": "동숲합니다 포스타입 주소 : ",
 			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
@@ -1450,7 +1743,7 @@ Grailbird.data.tweets_2020_11 =
 		"user": {
 			"id": 1310891526,
 			"id_str": "1310891526",
-			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"name": "yora🌷🏳️⚧️엘사쳐돌이",
 			"screen_name": "yorathegamer",
 			"location": "동숲합니다 포스타입 주소 : ",
 			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
@@ -1545,7 +1838,7 @@ Grailbird.data.tweets_2020_11 =
 		"user": {
 			"id": 1310891526,
 			"id_str": "1310891526",
-			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"name": "yora🌷🏳️⚧️엘사쳐돌이",
 			"screen_name": "yorathegamer",
 			"location": "동숲합니다 포스타입 주소 : ",
 			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
@@ -1640,7 +1933,7 @@ Grailbird.data.tweets_2020_11 =
 		"user": {
 			"id": 1310891526,
 			"id_str": "1310891526",
-			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"name": "yora🌷🏳️⚧️엘사쳐돌이",
 			"screen_name": "yorathegamer",
 			"location": "동숲합니다 포스타입 주소 : ",
 			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
@@ -1735,7 +2028,7 @@ Grailbird.data.tweets_2020_11 =
 		"user": {
 			"id": 1310891526,
 			"id_str": "1310891526",
-			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"name": "yora🌷🏳️⚧️엘사쳐돌이",
 			"screen_name": "yorathegamer",
 			"location": "동숲합니다 포스타입 주소 : ",
 			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
@@ -1830,7 +2123,7 @@ Grailbird.data.tweets_2020_11 =
 		"user": {
 			"id": 1310891526,
 			"id_str": "1310891526",
-			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"name": "yora🌷🏳️⚧️엘사쳐돌이",
 			"screen_name": "yorathegamer",
 			"location": "동숲합니다 포스타입 주소 : ",
 			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
@@ -1925,7 +2218,7 @@ Grailbird.data.tweets_2020_11 =
 		"user": {
 			"id": 1310891526,
 			"id_str": "1310891526",
-			"name": "yora🌷🏳️‍⚧️엘사쳐돌이",
+			"name": "yora🌷🏳️⚧️엘사쳐돌이",
 			"screen_name": "yorathegamer",
 			"location": "동숲합니다 포스타입 주소 : ",
 			"description": "게임을 하고 영화를 보고 책을 읽고 때로는 감상을 씁니다. 웜/랟펨, 남덕, 부녀자 절대 사절. 비팔알림은 꺼둡니다. 15년째 여캐 / 백합 팡인. 백합 소설을 씁니다.  홍차와 중국차를 골고루 마십니다. 플텍 구독은 사양합니다\n출간작 : 수렁, 그리고 파랑새",
