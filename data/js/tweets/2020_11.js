@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 12 16:13:12 +0000 2020",
+		"id": 1326140512777113600,
+		"id_str": "1326920992229261312",
+		"full_text": "그날 가장 중요하게 생각되는 일 한 가지에 2~3 시간을 집중하면. https://t.co/BNB53suQyM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326140506447835100,
+					"id_str": "1326140506447835136",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/Emdlw7EUcAAn-qT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emdlw7EUcAAn-qT.jpg",
+					"url": "https://t.co/BNB53suQyM",
+					"display_url": "pic.twitter.com/BNB53suQyM",
+					"expanded_url": "https://twitter.com/John_Grib/status/1326140512777113600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1110,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 369,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 650,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326140506447835100,
+					"id_str": "1326140506447835136",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/Emdlw7EUcAAn-qT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emdlw7EUcAAn-qT.jpg",
+					"url": "https://t.co/BNB53suQyM",
+					"display_url": "pic.twitter.com/BNB53suQyM",
+					"expanded_url": "https://twitter.com/John_Grib/status/1326140512777113600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1110,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 369,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 650,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 732911923,
+			"id_str": "732911923",
+			"name": "기계인간 John Grib",
+			"screen_name": "John_Grib",
+			"location": "기하학의 이념",
+			"description": "유물론자.",
+			"url": "https://t.co/7YPkFr8iLb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7YPkFr8iLb",
+							"expanded_url": "https://johngrib.github.io",
+							"display_url": "johngrib.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8256,
+			"friends_count": 340,
+			"listed_count": 53,
+			"created_at": "Thu Aug 02 14:16:06 +0000 2012",
+			"favourites_count": 10188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29008,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244148341669158912/K1jzDqew_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244148341669158912/K1jzDqew_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/732911923/1472973825",
+			"profile_link_color": "45619D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3830,
+		"favorite_count": 3535,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그날 가장 중요하게 생각되는 일 한 가지에 2~3 시간을 집중하면. https://t.co/BNB53suQyM"
+	},
+	{
 		"created_at": "Thu Nov 12 16:10:19 +0000 2020",
 		"id": 1326920266677710800,
 		"id_str": "1326920266677710848",
