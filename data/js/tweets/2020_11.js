@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 13 14:02:22 +0000 2020",
+		"id": 1327250455563358200,
+		"id_str": "1327250455563358213",
+		"full_text": "후대의 출판사가 전집을 내놓으며 임의로 분류한 것이기 때문에 큰 의미는 없어요. 물론 그 분류에는 당대의 비평 이론이 영향을 끼친 것이지만 당시에도 그 경직된 규범성에 대해 '사이비 비평'이라는 둥의 비판이 있었기 때문에...\nhttps://t.co/qXGP1gMEv0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qXGP1gMEv0",
+					"expanded_url": "https://twitter.com/don_degiri/status/1327191830094462976?s=19",
+					"display_url": "twitter.com/don_degiri/sta…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 86,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1327191830094463000,
+		"quoted_status_id_str": "1327191830094462976",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qXGP1gMEv0",
+			"expanded": "https://twitter.com/don_degiri/status/1327191830094462976?s=19",
+			"display": "twitter.com/don_degiri/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 13 10:09:24 +0000 2020",
+			"id": 1327191830094463000,
+			"id_str": "1327191830094462976",
+			"full_text": "로미오와 줄리엣은 애초에 비극이 아닙니다. 이는 아리스토텔레스의 시학에 따른 비극의 법칙에 어긋나기 때문인데요. 그 고전적 비극의 요소 중 비범한 혈통 등이 어긋나 현대에는 비극이 존재할 수 없음에 대한 논의가 있었습니다. 그런데 미국의 극자가 아서 밀러는 현대비극을 주장하며 https://t.co/9XU9Bvaj0c",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				154
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9XU9Bvaj0c",
+						"expanded_url": "https://twitter.com/itakasb/status/1327172605132955648",
+						"display_url": "twitter.com/itakasb/status…",
+						"indices": [
+							155,
+							178
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2818751803,
+				"id_str": "2818751803",
+				"name": "오타와 비문의 아이콘🌹🌂",
+				"screen_name": "don_degiri",
+				"location": "낫과 망치의 교차점",
+				"description": "가난한 자는 복이 있나니 천국이 저희 것임이요! 천국이 저희 것임이요. 투쟁! 투쟁! 단! 결! 투쟁!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1062,
+				"friends_count": 184,
+				"listed_count": 1,
+				"created_at": "Fri Sep 19 01:44:43 +0000 2014",
+				"favourites_count": 4940,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 58,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1318917983012417536/sjlCFOsb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318917983012417536/sjlCFOsb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2818751803/1586235541",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1327172605132955600,
+			"quoted_status_id_str": "1327172605132955648",
+			"quoted_status_permalink": {
+				"url": "https://t.co/9XU9Bvaj0c",
+				"expanded": "https://twitter.com/itakasb/status/1327172605132955648",
+				"display": "twitter.com/itakasb/status…"
+			},
+			"retweet_count": 40,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "후대의 출판사가 전집을 내놓으며 임의로 분류한 것이기 때문에 큰 의미는 없어요. 물론 그 분류에는 당대의 비평 이론이 영향을 끼친 것이지만 당시에도 그 경직된 규범성에 대해 '사이비 비평'이라는 둥의 비판이 있었기 때문에...\nhttps://t.co/qXGP1gMEv0"
+	},
+	{
 		"created_at": "Thu Nov 12 16:13:12 +0000 2020",
 		"id": 1326140512777113600,
 		"id_str": "1326920992229261312",
