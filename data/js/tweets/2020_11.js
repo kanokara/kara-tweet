@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 17 07:51:45 +0000 2020",
+		"id": 1328606737046368300,
+		"id_str": "1328606737046368256",
+		"full_text": "브이라이브에 열람+소장+수집+가챠 요소를 접목하고, 독자 차트를 내놓으면 어떨까 싶어요.\nhttps://t.co/DaQRtWzxee",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DaQRtWzxee",
+					"expanded_url": "https://twitter.com/dream4ines/status/1328158015069900801",
+					"display_url": "twitter.com/dream4ines/sta…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 86,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2646,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1328158015069900800,
+		"quoted_status_id_str": "1328158015069900801",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DaQRtWzxee",
+			"expanded": "https://twitter.com/dream4ines/status/1328158015069900801",
+			"display": "twitter.com/dream4ines/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 16 02:08:41 +0000 2020",
+			"id": 1328158015069900800,
+			"id_str": "1328158015069900801",
+			"full_text": "엔터사들이 CD 마케팅 방식으로 인한 환경오염에 책임의식을 가지고 시스템 좀 바꿨으면 좋겠음\n팬싸 응모권을 앨범 수로 치환해 100장, 200장씩 사야 당첨될 수 있는 시스템으로 버려지는 CD들 뿐만 아니라,\n랜덤 포카 + 랜덤 어쩌고 때문에 같은 물건을 n번 사게 만드는 것도 상당한 쓰레기를 만든다",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				168
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 767343784011046900,
+				"id_str": "767343784011046913",
+				"name": "이네즈💖💜💙",
+				"screen_name": "dream4ines",
+				"location": "",
+				"description": "안 건강한 대학생/페스코/우리는 아주 작고 놀라울 수 있어요👣🐾🌿",
+				"url": "https://t.co/9JRlAcIfkZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9JRlAcIfkZ",
+								"expanded_url": "http://asked.kr/dream4ines",
+								"display_url": "asked.kr/dream4ines",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 379,
+				"friends_count": 191,
+				"listed_count": 1,
+				"created_at": "Sun Aug 21 12:53:09 +0000 2016",
+				"favourites_count": 26165,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2682,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1312026608304177152/-2mQfPni_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312026608304177152/-2mQfPni_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/767343784011046913/1602117935",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3030,
+			"favorite_count": 1461,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "브이라이브에 열람+소장+수집+가챠 요소를 접목하고, 독자 차트를 내놓으면 어떨까 싶어요.\nhttps://t.co/DaQRtWzxee"
+	},
+	{
 		"created_at": "Tue Nov 17 05:50:03 +0000 2020",
 		"id": 1328576112507629600,
 		"id_str": "1328576112507629568",
