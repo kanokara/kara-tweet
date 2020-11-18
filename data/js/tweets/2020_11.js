@@ -1,6 +1,518 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 18 05:59:31 +0000 2020",
+		"id": 1328940881618104300,
+		"id_str": "1328940881618104322",
+		"full_text": "@pranagik 공의 경계 주제네요 (정말임)",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pranagik",
+					"name": "코코미⭐",
+					"id": 965504304046944300,
+					"id_str": "965504304046944257",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1328917756327018500,
+		"in_reply_to_status_id_str": "1328917756327018496",
+		"in_reply_to_user_id": 965504304046944300,
+		"in_reply_to_user_id_str": "965504304046944257",
+		"in_reply_to_screen_name": "pranagik",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 89,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@pranagik 공의 경계 주제네요 (정말임)"
+	},
+	{
+		"created_at": "Wed Nov 18 05:58:57 +0000 2020",
+		"id": 1328862811238264800,
+		"id_str": "1328940739364085760",
+		"full_text": "일본에는 교류기획이라는 커뮤 비슷한게 있고 미국에는 OC라는게 있으며 중국에는 커뮤니티 사이트가 있습니다 한국에만 있는건 아니에요 https://t.co/gd5cSjj8bs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gd5cSjj8bs",
+					"expanded_url": "https://twitter.com/konut_/status/1328721846498254853",
+					"display_url": "twitter.com/konut_/status/…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1265494031167107000,
+			"id_str": "1265494031167107072",
+			"name": "💙ᴍɪɴɢɴᴜᴛ🧡",
+			"screen_name": "PetitMingming",
+			"location": "",
+			"description": "성인 ⚙ 이별=BUB💔 ⚙ 그림러",
+			"url": "https://t.co/fXXoJnOcJN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fXXoJnOcJN",
+							"expanded_url": "https://peing.net/ko/petitmingming?event=0",
+							"display_url": "peing.net/ko/petitmingmi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 212,
+			"friends_count": 201,
+			"listed_count": 1,
+			"created_at": "Wed May 27 04:04:46 +0000 2020",
+			"favourites_count": 895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 361,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326436561794183169/veatkYku_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326436561794183169/veatkYku_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1265494031167107072/1599246627",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1328721846498254800,
+		"quoted_status_id_str": "1328721846498254853",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gd5cSjj8bs",
+			"expanded": "https://twitter.com/konut_/status/1328721846498254853",
+			"display": "twitter.com/konut_/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 17 15:29:09 +0000 2020",
+			"id": 1328721846498254800,
+			"id_str": "1328721846498254853",
+			"full_text": "그에 대한 음지문화 전문가의 친절한 설명\n\n3줄 요악\n1.자캐에서 드림커플이 나온 것이 아니라, 드림커플에서 자캐가 탄생했습니다\n2.헌대적인 자캐는 '자바오'라는 그림 커뮤니티에서 처음 나타납니다\n3.자캐커뮤는 한국 서브컬처계에만 있는 고유한 문화입니다 https://t.co/maHZhgOM4o https://t.co/x35pUj9uU2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				165
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/maHZhgOM4o",
+						"expanded_url": "https://twitter.com/eptm00/status/1328719933979590657",
+						"display_url": "twitter.com/eptm00/status/…",
+						"indices": [
+							142,
+							165
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1328721833151983600,
+						"id_str": "1328721833151983617",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/media/EnCRd6ZUcAEM5Nr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnCRd6ZUcAEM5Nr.jpg",
+						"url": "https://t.co/x35pUj9uU2",
+						"display_url": "pic.twitter.com/x35pUj9uU2",
+						"expanded_url": "https://twitter.com/konut_/status/1328721846498254853/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1125,
+								"h": 1225,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 624,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1102,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1328721833151983600,
+						"id_str": "1328721833151983617",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/media/EnCRd6ZUcAEM5Nr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnCRd6ZUcAEM5Nr.jpg",
+						"url": "https://t.co/x35pUj9uU2",
+						"display_url": "pic.twitter.com/x35pUj9uU2",
+						"expanded_url": "https://twitter.com/konut_/status/1328721846498254853/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1125,
+								"h": 1225,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 624,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1102,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1328721833156198400,
+						"id_str": "1328721833156198400",
+						"indices": [
+							166,
+							189
+						],
+						"media_url": "http://pbs.twimg.com/media/EnCRd6aUwAAsycM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnCRd6aUwAAsycM.jpg",
+						"url": "https://t.co/x35pUj9uU2",
+						"display_url": "pic.twitter.com/x35pUj9uU2",
+						"expanded_url": "https://twitter.com/konut_/status/1328721846498254853/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 997,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 565,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1125,
+								"h": 1354,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2975662814,
+				"id_str": "2975662814",
+				"name": "콧",
+				"screen_name": "konut_",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 679,
+				"friends_count": 94,
+				"listed_count": 7,
+				"created_at": "Mon Jan 12 04:03:10 +0000 2015",
+				"favourites_count": 29381,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 105627,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EA6478",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1326196533474160642/q5hAZb6__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326196533474160642/q5hAZb6__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2975662814/1580828992",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1328719933979590700,
+			"quoted_status_id_str": "1328719933979590657",
+			"quoted_status_permalink": {
+				"url": "https://t.co/maHZhgOM4o",
+				"expanded": "https://twitter.com/eptm00/status/1328719933979590657",
+				"display": "twitter.com/eptm00/status/…"
+			},
+			"retweet_count": 2246,
+			"favorite_count": 452,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 442,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일본에는 교류기획이라는 커뮤 비슷한게 있고 미국에는 OC라는게 있으며 중국에는 커뮤니티 사이트가 있습니다 한국에만 있는건 아니에요 https://t.co/gd5cSjj8bs"
+	},
+	{
+		"created_at": "Wed Nov 18 05:58:52 +0000 2020",
+		"id": 1328723326609412000,
+		"id_str": "1328940719298514958",
+		"full_text": "PC통신시절에도 오타쿠는 있었을텐데 그렇다면 자캐커뮤도 있었을까? &lt; 생각하다가 궁금해서 구글링해봤어요\n\nhttps://t.co/T3nHxmu1WU\n\n제 1999년은 프린세스메이커가 전부인 시절이라 전 본문에 대해 잘 모릅니다... 역사의 산 증인이 계신다면 가면을 벗고 얼굴을 공개해주세요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T3nHxmu1WU",
+					"expanded_url": "https://m.dcinside.com/board/twitter/355400",
+					"display_url": "m.dcinside.com/board/twitter/…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1328721846498254800,
+		"in_reply_to_status_id_str": "1328721846498254853",
+		"in_reply_to_user_id": 2975662814,
+		"in_reply_to_user_id_str": "2975662814",
+		"in_reply_to_screen_name": "konut_",
+		"user": {
+			"id": 2975662814,
+			"id_str": "2975662814",
+			"name": "콧",
+			"screen_name": "konut_",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 679,
+			"friends_count": 94,
+			"listed_count": 7,
+			"created_at": "Mon Jan 12 04:03:10 +0000 2015",
+			"favourites_count": 29381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 105627,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EA6478",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326196533474160642/q5hAZb6__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326196533474160642/q5hAZb6__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2975662814/1580828992",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 260,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "PC통신시절에도 오타쿠는 있었을텐데 그렇다면 자캐커뮤도 있었을까? &lt; 생각하다가 궁금해서 구글링해봤어요\n\nhttps://t.co/T3nHxmu1WU\n\n제 1999년은 프린세스메이커가 전부인 시절이라 전 본문에 대해 잘 모릅니다... 역사의 산 증인이 계신다면 가면을 벗고 얼굴을 공개해주세요"
+	},
+	{
 		"created_at": "Tue Nov 17 09:55:31 +0000 2020",
 		"id": 1328637886669811700,
 		"id_str": "1328637886669811712",
