@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 19 04:32:53 +0000 2020",
+		"id": 1329281468569329700,
+		"id_str": "1329281468569329664",
+		"full_text": "\"이 외에도 웹툰은 '집에서(79%)', '8시부터 자정까지(46%)' 감상하는 콘텐츠로 개인 여가시간에 감상하는 콘텐츠이며, 서사물 위주로 제작이 넘어가면서 출퇴근 시간이나 등하교 시간에 보는 이른바 '스낵컬쳐'에서 멀어진 것으로 보입니다.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 89,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2657,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902611212990464001/uFpl92QO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1504034318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "\"이 외에도 웹툰은 '집에서(79%)', '8시부터 자정까지(46%)' 감상하는 콘텐츠로 개인 여가시간에 감상하는 콘텐츠이며, 서사물 위주로 제작이 넘어가면서 출퇴근 시간이나 등하교 시간에 보는 이른바 '스낵컬쳐'에서 멀어진 것으로 보입니다.\""
+	},
+	{
+		"created_at": "Thu Nov 19 04:17:51 +0000 2020",
+		"id": 1328261610599714800,
+		"id_str": "1329277682798870533",
+		"full_text": "그리고 그다음에 똑같은 기회가 주어지면 그는 여지없이 유대인을 밟고 지나갔다. \n서로 포커스를 맞추고 있는 지점은 다르지만 가학성을 증명하는 통과의례위에 공동체를 만들었다는건 마치 거울상처럼 유사하다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1328261608800325600,
+		"in_reply_to_status_id_str": "1328261608800325632",
+		"in_reply_to_user_id": 894720883289333800,
+		"in_reply_to_user_id_str": "894720883289333760",
+		"in_reply_to_screen_name": "CiceroFlager8",
+		"user": {
+			"id": 894720883289333800,
+			"id_str": "894720883289333760",
+			"name": "Cicero",
+			"screen_name": "CiceroFlager8",
+			"location": "대한민국 수원시",
+			"description": "19-20세기 유럽외교사 파는 정치학전공자.\n그러나 본 트위터는 계정주의 취향을 제외하곤 그 무엇도 보장하지 않습니다.",
+			"url": "https://t.co/B5Y3BAeBoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B5Y3BAeBoZ",
+							"expanded_url": "https://ask.fm/CiceroFlager8",
+							"display_url": "ask.fm/CiceroFlager8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2237,
+			"friends_count": 541,
+			"listed_count": 14,
+			"created_at": "Tue Aug 08 00:44:16 +0000 2017",
+			"favourites_count": 4615,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940434546494881792/zN3uYsdi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940434546494881792/zN3uYsdi_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그리고 그다음에 똑같은 기회가 주어지면 그는 여지없이 유대인을 밟고 지나갔다. \n서로 포커스를 맞추고 있는 지점은 다르지만 가학성을 증명하는 통과의례위에 공동체를 만들었다는건 마치 거울상처럼 유사하다."
+	},
+	{
+		"created_at": "Thu Nov 19 04:17:49 +0000 2020",
+		"id": 1328261608800325600,
+		"id_str": "1329277675597295617",
+		"full_text": "흥미롭게도 나는 이것과 유사한 얘기를 이미 들어본 적 있다. 독일 유대인수용소에서 친위대 간수들은 신임이 올때마다 드러누운 유대인위를 밟고 지나갈 것을 요구받았다. 하지못할 경우 그는 \"남성성이 결핍된 겁쟁이\"로 질타받았고 하급자에게 조차 무시당했다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1328261607189667800,
+		"in_reply_to_status_id_str": "1328261607189667840",
+		"in_reply_to_user_id": 894720883289333800,
+		"in_reply_to_user_id_str": "894720883289333760",
+		"in_reply_to_screen_name": "CiceroFlager8",
+		"user": {
+			"id": 894720883289333800,
+			"id_str": "894720883289333760",
+			"name": "Cicero",
+			"screen_name": "CiceroFlager8",
+			"location": "대한민국 수원시",
+			"description": "19-20세기 유럽외교사 파는 정치학전공자.\n그러나 본 트위터는 계정주의 취향을 제외하곤 그 무엇도 보장하지 않습니다.",
+			"url": "https://t.co/B5Y3BAeBoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B5Y3BAeBoZ",
+							"expanded_url": "https://ask.fm/CiceroFlager8",
+							"display_url": "ask.fm/CiceroFlager8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2237,
+			"friends_count": 541,
+			"listed_count": 14,
+			"created_at": "Tue Aug 08 00:44:16 +0000 2017",
+			"favourites_count": 4615,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940434546494881792/zN3uYsdi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940434546494881792/zN3uYsdi_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "흥미롭게도 나는 이것과 유사한 얘기를 이미 들어본 적 있다. 독일 유대인수용소에서 친위대 간수들은 신임이 올때마다 드러누운 유대인위를 밟고 지나갈 것을 요구받았다. 하지못할 경우 그는 \"남성성이 결핍된 겁쟁이\"로 질타받았고 하급자에게 조차 무시당했다."
+	},
+	{
+		"created_at": "Thu Nov 19 04:17:47 +0000 2020",
+		"id": 1328261607189667800,
+		"id_str": "1329277666256535553",
+		"full_text": "즉 폭력적 성착취에 가담하는 행위를 선임자가 후임들을 가담시키고 군 지도부는 이를 위한 인프라를 적극적으로 마련함으로서 부유층이 누리던 성착취적 문화의 편린을 하층민출신 장병들에게도 체험하게 해주면서 공범의식에 기반한 군 공동체를 만들었다는 것이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1328261605432311800,
+		"in_reply_to_status_id_str": "1328261605432311809",
+		"in_reply_to_user_id": 894720883289333800,
+		"in_reply_to_user_id_str": "894720883289333760",
+		"in_reply_to_screen_name": "CiceroFlager8",
+		"user": {
+			"id": 894720883289333800,
+			"id_str": "894720883289333760",
+			"name": "Cicero",
+			"screen_name": "CiceroFlager8",
+			"location": "대한민국 수원시",
+			"description": "19-20세기 유럽외교사 파는 정치학전공자.\n그러나 본 트위터는 계정주의 취향을 제외하곤 그 무엇도 보장하지 않습니다.",
+			"url": "https://t.co/B5Y3BAeBoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B5Y3BAeBoZ",
+							"expanded_url": "https://ask.fm/CiceroFlager8",
+							"display_url": "ask.fm/CiceroFlager8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2237,
+			"friends_count": 541,
+			"listed_count": 14,
+			"created_at": "Tue Aug 08 00:44:16 +0000 2017",
+			"favourites_count": 4615,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940434546494881792/zN3uYsdi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940434546494881792/zN3uYsdi_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "즉 폭력적 성착취에 가담하는 행위를 선임자가 후임들을 가담시키고 군 지도부는 이를 위한 인프라를 적극적으로 마련함으로서 부유층이 누리던 성착취적 문화의 편린을 하층민출신 장병들에게도 체험하게 해주면서 공범의식에 기반한 군 공동체를 만들었다는 것이다."
+	},
+	{
 		"created_at": "Wed Nov 18 07:42:47 +0000 2020",
 		"id": 1328966868179312600,
 		"id_str": "1328966868179312640",
