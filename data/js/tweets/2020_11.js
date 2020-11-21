@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 21 14:36:49 +0000 2020",
+		"id": 1230862315651764200,
+		"id_str": "1330158228425109505",
+		"full_text": "少女時代のgeeやらgenieなんかを初めて動画で見た時、何か鷲掴みにされるような圧倒的なものを感じたけど、iz*oneの群舞もあれに迫る勢いだな。キレのすごい竜宮城。https://t.co/tx5lYkSPf1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tx5lYkSPf1",
+					"expanded_url": "https://www.youtube.com/watch?v=qNCEIGCb3yM",
+					"display_url": "youtube.com/watch?v=qNCEIG…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91899602,
+			"id_str": "91899602",
+			"name": "よどがわ",
+			"screen_name": "yodogawa111",
+			"location": "尼崎",
+			"description": "『競輪文化～「働く者のスポーツ」の社会史』（青弓社・第30回橋本峰雄賞受賞）大学非常勤講師。大阪近郊で出来る仕事求めています。K-pop、韓国文化探究。noteもたまに更新。名刺代わりのfacebookもありますので個人的な連絡先が必要であれば、私の名前でそちらを探してください。",
+			"url": "https://t.co/QgEjypXpNQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QgEjypXpNQ",
+							"expanded_url": "https://note.com/yodogawa",
+							"display_url": "note.com/yodogawa",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1750,
+			"friends_count": 658,
+			"listed_count": 41,
+			"created_at": "Mon Nov 23 00:20:48 +0000 2009",
+			"favourites_count": 40370,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 100601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1716546233/DSCF9315-1_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1716546233/DSCF9315-1_normal.JPG",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91899602/1599099603",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "少女時代のgeeやらgenieなんかを初めて動画で見た時、何か鷲掴みにされるような圧倒的なものを感じたけど、iz*oneの群舞もあれに迫る勢いだな。キレのすごい竜宮城。https://t.co/tx5lYkSPf1"
+	},
+	{
 		"created_at": "Thu Nov 19 07:46:39 +0000 2020",
 		"id": 1329330230712963000,
 		"id_str": "1329330230712963073",
