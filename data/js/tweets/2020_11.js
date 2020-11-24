@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 24 04:10:50 +0000 2020",
+		"id": 1329991795309068300,
+		"id_str": "1331087859474808832",
+		"full_text": "과장된 공포와 만들어진 분노. 정말로 그게 보편의 감정이라고 믿어버리는 사람들과 그렇지 않은 사람에게 쉽게 쏟아지는 비난들~",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1329991615419617300,
+		"in_reply_to_status_id_str": "1329991615419617282",
+		"in_reply_to_user_id": 1068677058459402200,
+		"in_reply_to_user_id_str": "1068677058459402240",
+		"in_reply_to_screen_name": "hawaiian_pizza1",
+		"user": {
+			"id": 1068677058459402200,
+			"id_str": "1068677058459402240",
+			"name": "하피라슈",
+			"screen_name": "hawaiian_pizza1",
+			"location": "주버가또 팟캐 비정기적 운영 중",
+			"description": "요새는 뽈만 참",
+			"url": "https://t.co/iiS93WNaja",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iiS93WNaja",
+							"expanded_url": "https://peing.net/ko/hawaiian_pizza1",
+							"display_url": "peing.net/ko/hawaiian_pi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1905,
+			"friends_count": 227,
+			"listed_count": 3,
+			"created_at": "Sat Dec 01 01:24:00 +0000 2018",
+			"favourites_count": 1930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 70415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198216092621004800/cNIc2MqP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198216092621004800/cNIc2MqP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1068677058459402240/1596470418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "과장된 공포와 만들어진 분노. 정말로 그게 보편의 감정이라고 믿어버리는 사람들과 그렇지 않은 사람에게 쉽게 쏟아지는 비난들~"
+	},
+	{
+		"created_at": "Tue Nov 24 04:10:48 +0000 2020",
+		"id": 1329991615419617300,
+		"id_str": "1331087851337859072",
+		"full_text": "나 요새 여성들의 “만들어진 분노”에 대해 이야기하고 싶은 마음 굴뚝임. 하지만 못된 말은 그냥 친구들이랑 하고 말게 됩니다 이제 ㅋㅋㅋㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1068677058459402200,
+			"id_str": "1068677058459402240",
+			"name": "하피라슈",
+			"screen_name": "hawaiian_pizza1",
+			"location": "주버가또 팟캐 비정기적 운영 중",
+			"description": "요새는 뽈만 참",
+			"url": "https://t.co/iiS93WNaja",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iiS93WNaja",
+							"expanded_url": "https://peing.net/ko/hawaiian_pizza1",
+							"display_url": "peing.net/ko/hawaiian_pi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1905,
+			"friends_count": 227,
+			"listed_count": 3,
+			"created_at": "Sat Dec 01 01:24:00 +0000 2018",
+			"favourites_count": 1930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 70415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198216092621004800/cNIc2MqP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198216092621004800/cNIc2MqP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1068677058459402240/1596470418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 116,
+		"favorite_count": 98,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "나 요새 여성들의 “만들어진 분노”에 대해 이야기하고 싶은 마음 굴뚝임. 하지만 못된 말은 그냥 친구들이랑 하고 말게 됩니다 이제 ㅋㅋㅋㅋㅋㅋ"
+	},
+	{
 		"created_at": "Mon Nov 23 16:05:59 +0000 2020",
 		"id": 1330504939638907000,
 		"id_str": "1330905445628690432",
