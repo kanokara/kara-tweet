@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 25 14:02:45 +0000 2020",
+		"id": 1331461343333863400,
+		"id_str": "1331599208030224384",
+		"full_text": "엔하위키의 특정 운영진 중 한명이 자주 쓰던 어휘였는데 그게 엔하위키에 퍼졌다가 나무위키에 퍼졌다가 이제는 그냥 대중언어가 됨 https://t.co/uWcUBfZDeT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uWcUBfZDeT",
+					"expanded_url": "https://twitter.com/JaesikKwak/status/1331453869755252738",
+					"display_url": "twitter.com/JaesikKwak/sta…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 505833114,
+			"id_str": "505833114",
+			"name": "Crêpetown",
+			"screen_name": "Crptwn",
+			"location": "",
+			"description": "天网恢恢疏而不失\nhttps://t.co/6dVDNTRKXQ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6dVDNTRKXQ",
+							"expanded_url": "http://link.medium.com/vteSsaENN6",
+							"display_url": "link.medium.com/vteSsaENN6",
+							"indices": [
+								9,
+								32
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 242,
+			"friends_count": 98,
+			"listed_count": 1,
+			"created_at": "Mon Feb 27 13:06:15 +0000 2012",
+			"favourites_count": 889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781139286758338560/1aQsXOln_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781139286758338560/1aQsXOln_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/505833114/1489821999",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1331453869755252700,
+		"quoted_status_id_str": "1331453869755252738",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uWcUBfZDeT",
+			"expanded": "https://twitter.com/JaesikKwak/status/1331453869755252738",
+			"display": "twitter.com/JaesikKwak/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 25 04:25:14 +0000 2020",
+			"id": 1331453869755252700,
+			"id_str": "1331453869755252738",
+			"full_text": "흑역사라는 말은 본래 일본 애니매이션 건담 시리즈 중에서도 상대적으로 비인기였던 턴에이 건담에 나오는 말로 오타쿠 농담 단어에 불과했는데(진짜임) 어느새 스물스물 온라인에 퍼져가더니 마침내 대한민국 제일야당 원내대표가 중대한 정치발언을 할때도 쓰이게 되었구나 https://t.co/EU18G009VX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				168
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EU18G009VX",
+						"expanded_url": "https://n.news.naver.com/article/052/0001518229",
+						"display_url": "n.news.naver.com/article/052/00…",
+						"indices": [
+							145,
+							168
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 595154440,
+				"id_str": "595154440",
+				"name": "곽재식",
+				"screen_name": "JaesikKwak",
+				"location": "",
+				"description": "작가. 한편으로는 화학업체 직원. 공학박사. gerecter@gmail.com",
+				"url": "http://jaesikkwak.blogspot.kr/",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://jaesikkwak.blogspot.kr/",
+								"expanded_url": null,
+								"indices": [
+									0,
+									30
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14383,
+				"friends_count": 1409,
+				"listed_count": 117,
+				"created_at": "Thu May 31 03:57:29 +0000 2012",
+				"favourites_count": 680,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9775,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1131205676124913664/MhWhB1u8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131205676124913664/MhWhB1u8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/595154440/1600930380",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 760,
+			"favorite_count": 230,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "엔하위키의 특정 운영진 중 한명이 자주 쓰던 어휘였는데 그게 엔하위키에 퍼졌다가 나무위키에 퍼졌다가 이제는 그냥 대중언어가 됨 https://t.co/uWcUBfZDeT"
+	},
+	{
 		"created_at": "Tue Nov 24 17:01:11 +0000 2020",
 		"id": 1331281723762479000,
 		"id_str": "1331281723762479105",
