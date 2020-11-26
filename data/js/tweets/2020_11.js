@@ -1,6 +1,667 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 26 18:24:40 +0000 2020",
+		"id": 1247833050039255000,
+		"id_str": "1332027509156679681",
+		"full_text": "'호황이 온다 해도 불황으로 뭉개진 취향감과 소비감이 회복되는 데는 정말 오래 걸리겠지' 라는 생각을 하는 편인데, 문득 이 가설이 평생 검증할 수 없는 가설이 될 지도 모른다는 생각이 들었다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 283881311,
+			"id_str": "283881311",
+			"name": "tilt ; 4시오픈 - 9시 클로즈",
+			"screen_name": "barTILT",
+			"location": "Sinchon, Seoul, Korea",
+			"description": "aikoジャンキー/Baby Peenats/Team aiko/Seoul,Korea/서대문구 창천동 52-151 2층/Korea best bar 100/深海冷蔵庫/桜の時/透明ドロップ/ハナガサイタ/キスが巡る",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10338,
+			"friends_count": 1332,
+			"listed_count": 127,
+			"created_at": "Mon Apr 18 05:59:59 +0000 2011",
+			"favourites_count": 26712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40063,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315289473056268295/ycK0J7N4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315289473056268295/ycK0J7N4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/283881311/1598434060",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 40,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "'호황이 온다 해도 불황으로 뭉개진 취향감과 소비감이 회복되는 데는 정말 오래 걸리겠지' 라는 생각을 하는 편인데, 문득 이 가설이 평생 검증할 수 없는 가설이 될 지도 모른다는 생각이 들었다."
+	},
+	{
+		"created_at": "Thu Nov 26 18:14:30 +0000 2020",
+		"id": 1246003245744418800,
+		"id_str": "1332024951163940865",
+		"full_text": "https://t.co/7ITGOY7fB0\n다들 하지메 솔로곡 들어봐\n작사 모리 유리코 작곡 시이나 고우 조합임\n진짜 시이나 고우 필 팍팍 넣었네\n누군지 모르겠다면 둘이 같이 만든 노래가 태양의 젤러시, 파랑새, 잠자는 공주.\n시이나 고우 데레 작곡은 코이카제, 호타루비(카렌 커버곡), 미완성의 역사 등도 있음 https://t.co/leT8Udo7kz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7ITGOY7fB0",
+					"expanded_url": "https://www.youtube.com/watch?v=Cp4Qr4nb75A",
+					"display_url": "youtube.com/watch?v=Cp4Qr4…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1246002028595146800,
+					"id_str": "1246002028595146752",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1246002028595146752/pu/img/Jovw7pHT4TmkrONL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1246002028595146752/pu/img/Jovw7pHT4TmkrONL.jpg",
+					"url": "https://t.co/leT8Udo7kz",
+					"display_url": "pic.twitter.com/leT8Udo7kz",
+					"expanded_url": "https://twitter.com/DreameR_509/status/1246003245744418816/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246002028595146800,
+					"id_str": "1246002028595146752",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1246002028595146752/pu/img/Jovw7pHT4TmkrONL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1246002028595146752/pu/img/Jovw7pHT4TmkrONL.jpg",
+					"url": "https://t.co/leT8Udo7kz",
+					"display_url": "pic.twitter.com/leT8Udo7kz",
+					"expanded_url": "https://twitter.com/DreameR_509/status/1246003245744418816/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 127962,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1246002028595146752/pu/vid/1280x720/qY_YaOMy47Am7UFb.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1246002028595146752/pu/pl/u0ft0na_jUiGEbcz.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1246002028595146752/pu/vid/640x360/LmZ-xGaSBaD5L5ZZ.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1246002028595146752/pu/vid/480x270/A2JQ5pq3A0etdnEn.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 362978733,
+			"id_str": "362978733",
+			"name": "✨DreameR✨",
+			"screen_name": "DreameR_509",
+			"location": "アイマス",
+			"description": "RT多 / アイコン ラフ&カラー @pito_sh / ヘッダー @larcleS2 / 日本語OK / 百合好き",
+			"url": "https://t.co/0U6ifByR6T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0U6ifByR6T",
+							"expanded_url": "http://imas.gree-apps.net/app/index.php/mypage/user_profile/id/1100000000000001470",
+							"display_url": "imas.gree-apps.net/app/index.php/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5512,
+			"friends_count": 1869,
+			"listed_count": 75,
+			"created_at": "Sat Aug 27 09:28:15 +0000 2011",
+			"favourites_count": 128892,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 759290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1010102890071912449/ddYc6wsh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1010102890071912449/ddYc6wsh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/362978733/1567997251",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 174,
+		"favorite_count": 67,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/7ITGOY7fB0\n다들 하지메 솔로곡 들어봐\n작사 모리 유리코 작곡 시이나 고우 조합임\n진짜 시이나 고우 필 팍팍 넣었네\n누군지 모르겠다면 둘이 같이 만든 노래가 태양의 젤러시, 파랑새, 잠자는 공주.\n시이나 고우 데레 작곡은 코이카제, 호타루비(카렌 커버곡), 미완성의 역사 등도 있음 https://t.co/leT8Udo7kz"
+	},
+	{
+		"created_at": "Thu Nov 26 18:14:17 +0000 2020",
+		"id": 1247179370080305200,
+		"id_str": "1332024894972825600",
+		"full_text": "가난은 가격표를 주의 깊게 읽는 것이다. 가난은 공간 활용에 능숙해지면서 인테리어에 무감각해지는 것이고, 발열이나 복통보다 진료비를 더 괴롭게 느끼는 것이고, 비용 걱정이 해소된 후에야 비로소 무엇을 하고 싶은지 생각하는 것이고, 비겁한 행동이 수월해지는 것이다. 라고 쓴 적이 있었다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 231756493,
+			"id_str": "231756493",
+			"name": "오나선",
+			"screen_name": "lakinan",
+			"location": "",
+			"description": "그리고 결국 할 수 있는 일을 모두 한 후에는, 더 완벽한 것은 없으니, 그저 사람들을 믿는 수밖에 없다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8666,
+			"friends_count": 498,
+			"listed_count": 67,
+			"created_at": "Wed Dec 29 11:16:37 +0000 2010",
+			"favourites_count": 1084,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 44063,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082508750567628800/3FkYn9gv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082508750567628800/3FkYn9gv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/231756493/1503487449",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14804,
+		"favorite_count": 8202,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "가난은 가격표를 주의 깊게 읽는 것이다. 가난은 공간 활용에 능숙해지면서 인테리어에 무감각해지는 것이고, 발열이나 복통보다 진료비를 더 괴롭게 느끼는 것이고, 비용 걱정이 해소된 후에야 비로소 무엇을 하고 싶은지 생각하는 것이고, 비겁한 행동이 수월해지는 것이다. 라고 쓴 적이 있었다."
+	},
+	{
+		"created_at": "Thu Nov 26 18:11:54 +0000 2020",
+		"id": 1246642392129650700,
+		"id_str": "1332024296957378561",
+		"full_text": "소프트 뱅크, 손정의 대표 일 스타일\n\n1. 숫자에 익숙해질 것. 2. 우선순위를 정할 것. 3. 한 번에 한 가지가 아니라 동시다발로 일을 추진해서 그중에 잘 되는 것에 특화할 것. &lt;초고속 성장의 조건 PDCA&gt; 미키 다카노부. \n\n이것이 업무 성과를 3배 올리고 목표를 내 손안에 넣는 소프트 뱅크 스타일. https://t.co/k0WFKpHdmG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1246640661840793600,
+					"id_str": "1246640661840793601",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/EUz1E7OUEAEStx_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUz1E7OUEAEStx_.jpg",
+					"url": "https://t.co/k0WFKpHdmG",
+					"display_url": "pic.twitter.com/k0WFKpHdmG",
+					"expanded_url": "https://twitter.com/beewaa_/status/1246642392129650688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 986,
+							"h": 678,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 986,
+							"h": 678,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246640661840793600,
+					"id_str": "1246640661840793601",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/EUz1E7OUEAEStx_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUz1E7OUEAEStx_.jpg",
+					"url": "https://t.co/k0WFKpHdmG",
+					"display_url": "pic.twitter.com/k0WFKpHdmG",
+					"expanded_url": "https://twitter.com/beewaa_/status/1246642392129650688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 986,
+							"h": 678,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 986,
+							"h": 678,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1246640705142845400,
+					"id_str": "1246640705142845441",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/EUz1HciU8AEs3CY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUz1HciU8AEs3CY.jpg",
+					"url": "https://t.co/k0WFKpHdmG",
+					"display_url": "pic.twitter.com/k0WFKpHdmG",
+					"expanded_url": "https://twitter.com/beewaa_/status/1246642392129650688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1106,
+							"h": 604,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 371,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1106,
+							"h": 604,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1246640730736480300,
+					"id_str": "1246640730736480258",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/EUz1I74U0AIIMIe.png",
+					"media_url_https": "https://pbs.twimg.com/media/EUz1I74U0AIIMIe.png",
+					"url": "https://t.co/k0WFKpHdmG",
+					"display_url": "pic.twitter.com/k0WFKpHdmG",
+					"expanded_url": "https://twitter.com/beewaa_/status/1246642392129650688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 843,
+							"h": 544,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 439,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 843,
+							"h": 544,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1246640752458731500,
+					"id_str": "1246640752458731520",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/EUz1KMzUEAAzwIe.png",
+					"media_url_https": "https://pbs.twimg.com/media/EUz1KMzUEAAzwIe.png",
+					"url": "https://t.co/k0WFKpHdmG",
+					"display_url": "pic.twitter.com/k0WFKpHdmG",
+					"expanded_url": "https://twitter.com/beewaa_/status/1246642392129650688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 414,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 857,
+							"h": 522,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 522,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48958491,
+			"id_str": "48958491",
+			"name": "비와",
+			"screen_name": "beewaa_korea",
+			"location": "",
+			"description": "🍅 ░모░든░글░은░메░모░  🍋 인용 금지 🍊 쓰고 싶으면 너 글로 쓰세요, 희석하지 마시고. 너 생각을 내 생각에요.🍈 책, 맥주, 커피, 여행, 트레킹, 글쓰기, 메모장, 제주앓이,프리랜서, Ph.D. E&OE.\n\n* 책과 트레킹, 여행과 커피로 인생의 즐거움을 찾습니다",
+			"url": "https://t.co/E3HfJLqg3F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/E3HfJLqg3F",
+							"expanded_url": "http://blog.naver.com/kizzy",
+							"display_url": "blog.naver.com/kizzy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1446,
+			"friends_count": 22,
+			"listed_count": 7,
+			"created_at": "Sat Jun 20 08:07:06 +0000 2009",
+			"favourites_count": 2143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11878,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324347944791781376/mfFjMcKI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324347944791781376/mfFjMcKI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48958491/1606052245",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E32820",
+			"profile_text_color": "843AA9",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 700,
+		"favorite_count": 1233,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소프트 뱅크, 손정의 대표 일 스타일\n\n1. 숫자에 익숙해질 것. 2. 우선순위를 정할 것. 3. 한 번에 한 가지가 아니라 동시다발로 일을 추진해서 그중에 잘 되는 것에 특화할 것. &lt;초고속 성장의 조건 PDCA&gt; 미키 다카노부. \n\n이것이 업무 성과를 3배 올리고 목표를 내 손안에 넣는 소프트 뱅크 스타일. https://t.co/k0WFKpHdmG"
+	},
+	{
 		"created_at": "Thu Nov 26 17:36:57 +0000 2020",
 		"id": 1245678425576071200,
 		"id_str": "1332015498167402498",
