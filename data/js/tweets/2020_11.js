@@ -1,6 +1,609 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 26 16:09:12 +0000 2020",
+		"id": 1331993417916637200,
+		"id_str": "1331993417916637185",
+		"full_text": "@server8key 제 메모는 거의 포스트잇에 적는 수준이랍니다... #죽고싶음",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			45
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "죽고싶음",
+					"indices": [
+						40,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "server8key",
+					"name": "電磁式サカナ@ジパング",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1331992567466975200,
+		"in_reply_to_status_id_str": "1331992567466975233",
+		"in_reply_to_user_id": 1047103952297254900,
+		"in_reply_to_user_id_str": "1047103952297254912",
+		"in_reply_to_screen_name": "server8key",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 90,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330749528975175680/jQVVTx1D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330749528975175680/jQVVTx1D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@server8key 제 메모는 거의 포스트잇에 적는 수준이랍니다... #죽고싶음"
+	},
+	{
+		"created_at": "Thu Nov 26 16:02:42 +0000 2020",
+		"id": 1331991782800855000,
+		"id_str": "1331991782800855040",
+		"full_text": "@server8key @L3V14TH4N1104 @hear_darks 으악!\nhttps://t.co/TNyhsUGJ7P",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "server8key",
+					"name": "電磁式サカナ@ジパング",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "L3V14TH4N1104",
+					"name": "L3V14",
+					"id": 103580145,
+					"id_str": "103580145",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "hear_darks",
+					"name": "닥스",
+					"id": 897551724050694100,
+					"id_str": "897551724050694144",
+					"indices": [
+						27,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TNyhsUGJ7P",
+					"expanded_url": "https://twitter.com/Imseong/status/1239212007779229696",
+					"display_url": "twitter.com/Imseong/status…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1331990967168110600,
+		"in_reply_to_status_id_str": "1331990967168110597",
+		"in_reply_to_user_id": 1047103952297254900,
+		"in_reply_to_user_id_str": "1047103952297254912",
+		"in_reply_to_screen_name": "server8key",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 90,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330749528975175680/jQVVTx1D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330749528975175680/jQVVTx1D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1239212007779229700,
+		"quoted_status_id_str": "1239212007779229696",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TNyhsUGJ7P",
+			"expanded": "https://twitter.com/Imseong/status/1239212007779229696",
+			"display": "twitter.com/Imseong/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 15 15:29:00 +0000 2020",
+			"id": 1239212007779229700,
+			"id_str": "1239212007779229696",
+			"full_text": "'커리어를 완전히 바꾸는 메모 작성법' \n\n원문은  https://t.co/gNI5m4r8YN 트윗과 관련 타래입니다. 타래로 길어진 얘기를 한데 묶어서 이미지로 옮겼습니다. 언제나 그렇듯 의역이 많습니다. 링크와 이미지는 원문 타래를 참고해주세요. https://t.co/Dj9HV0VH9d",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				139
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gNI5m4r8YN",
+						"expanded_url": "https://twitter.com/intentionally/status/1234918066649272325",
+						"display_url": "twitter.com/intentionally/…",
+						"indices": [
+							29,
+							52
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1239211508250239000,
+						"id_str": "1239211508250238977",
+						"indices": [
+							140,
+							163
+						],
+						"media_url": "http://pbs.twimg.com/media/ETKQTRbU4AEw6Mo.png",
+						"media_url_https": "https://pbs.twimg.com/media/ETKQTRbU4AEw6Mo.png",
+						"url": "https://t.co/Dj9HV0VH9d",
+						"display_url": "pic.twitter.com/Dj9HV0VH9d",
+						"expanded_url": "https://twitter.com/Imseong/status/1239212007779229696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 900,
+								"h": 1600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1239211508250239000,
+						"id_str": "1239211508250238977",
+						"indices": [
+							140,
+							163
+						],
+						"media_url": "http://pbs.twimg.com/media/ETKQTRbU4AEw6Mo.png",
+						"media_url_https": "https://pbs.twimg.com/media/ETKQTRbU4AEw6Mo.png",
+						"url": "https://t.co/Dj9HV0VH9d",
+						"display_url": "pic.twitter.com/Dj9HV0VH9d",
+						"expanded_url": "https://twitter.com/Imseong/status/1239212007779229696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 900,
+								"h": 1600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 35664814,
+				"id_str": "35664814",
+				"name": "Imseong Kang",
+				"screen_name": "Imseong",
+				"location": "대한민국 광명시",
+				"description": "🎉 Game designer / imseongkang@gmail.com / 읽고 쓰고 그리고 만듭니다 / 광명&삼성 / 개인 계정입니다. 회사나 팀의 방침과 다를 수 있습니다.",
+				"url": "https://t.co/sPvvAhcMnG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sPvvAhcMnG",
+								"expanded_url": "http://imseongkang.wordpress.com",
+								"display_url": "imseongkang.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1967,
+				"friends_count": 361,
+				"listed_count": 57,
+				"created_at": "Mon Apr 27 04:01:14 +0000 2009",
+				"favourites_count": 366,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15415,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1212055847817236480/jtOr-1PF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212055847817236480/jtOr-1PF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/35664814/1588345269",
+				"profile_link_color": "193A73",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1234918066649272300,
+			"quoted_status_id_str": "1234918066649272325",
+			"quoted_status_permalink": {
+				"url": "https://t.co/gNI5m4r8YN",
+				"expanded": "https://twitter.com/intentionally/status/1234918066649272325",
+				"display": "twitter.com/intentionally/…"
+			},
+			"retweet_count": 19705,
+			"favorite_count": 19237,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@server8key @L3V14TH4N1104 @hear_darks 으악!\nhttps://t.co/TNyhsUGJ7P"
+	},
+	{
+		"created_at": "Thu Nov 26 15:59:14 +0000 2020",
+		"id": 1331990909890687000,
+		"id_str": "1331990909890686976",
+		"full_text": "하지만 사람은 선인들의 사고 위에 서서 사고하는 법이고, 모든 것을 의심하고 해체하기엔 코스트퍼포먼스가 안 나오는 철학자가 되니까요...\nhttps://t.co/w3dcXys8H9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w3dcXys8H9",
+					"expanded_url": "https://twitter.com/2618823227282q/status/1239134284570431488",
+					"display_url": "twitter.com/2618823227282q…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 90,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330749528975175680/jQVVTx1D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330749528975175680/jQVVTx1D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1239134284570431500,
+		"quoted_status_id_str": "1239134284570431488",
+		"quoted_status_permalink": {
+			"url": "https://t.co/w3dcXys8H9",
+			"expanded": "https://twitter.com/2618823227282q/status/1239134284570431488",
+			"display": "twitter.com/2618823227282q…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 15 10:20:10 +0000 2020",
+			"id": 1239134284570431500,
+			"id_str": "1239134284570431488",
+			"full_text": "그러니까 밈적 사고가 저런 것임... 뭐 처음에는 문화적 사유니 어쩌니 했는데 모든것이 열화복제되는 인터넷에선 사유가 전달되는 것이 아니라 사유와 사고과정 전부를 밈에 위탁하는",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				98
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 881788384871465000,
+				"id_str": "881788384871464962",
+				"name": "마귀피스",
+				"screen_name": "2618823227282q",
+				"location": "",
+				"description": "마귀 한마리 몰고가세요\n오타 많은데 알아서 뇌내수정합시다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1704,
+				"friends_count": 301,
+				"listed_count": 9,
+				"created_at": "Mon Jul 03 08:15:08 +0000 2017",
+				"favourites_count": 15323,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 107505,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1295475096828616704/UW7RDLCa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1295475096828616704/UW7RDLCa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/881788384871464962/1578622794",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "하지만 사람은 선인들의 사고 위에 서서 사고하는 법이고, 모든 것을 의심하고 해체하기엔 코스트퍼포먼스가 안 나오는 철학자가 되니까요...\nhttps://t.co/w3dcXys8H9"
+	},
+	{
 		"created_at": "Wed Nov 25 14:02:45 +0000 2020",
 		"id": 1331461343333863400,
 		"id_str": "1331599208030224384",
