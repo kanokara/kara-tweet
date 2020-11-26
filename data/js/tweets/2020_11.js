@@ -1,6 +1,668 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 26 17:36:57 +0000 2020",
+		"id": 1245678425576071200,
+		"id_str": "1332015498167402498",
+		"full_text": "인간의 인간에 대한 자만은 오만을 넘어 절망적일 때가 많죠. 놀이의 인간이다 뭐다 해서 공부했던 것들이 얼마나 개뻥인지 깨닫게 되는 데는 많은 시간이 걸리지 않았습니다. https://t.co/5jHPayNqzf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5jHPayNqzf",
+					"expanded_url": "https://twitter.com/N91211/status/1245348008641703938",
+					"display_url": "twitter.com/N91211/status/…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 704285254312263700,
+			"id_str": "704285254312263680",
+			"name": "마음의풍경",
+			"screen_name": "TreeNStories",
+			"location": "대한민국",
+			"description": "작가를 꿈꾸는 소박한 몽상가. 브릿지 https://t.co/Av9XHfKjO2 에서 활동합니다. SF '붉은 별의 조난자', '달에서 온 32번째 메시지', '고스트 워커' 등을 썼습니다.",
+			"url": "https://t.co/cJynGgKSIA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cJynGgKSIA",
+							"expanded_url": "https://britg.kr/novel-author/1211/",
+							"display_url": "britg.kr/novel-author/1…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Av9XHfKjO2",
+							"expanded_url": "http://britg.kr",
+							"display_url": "britg.kr",
+							"indices": [
+								21,
+								44
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 283,
+			"friends_count": 281,
+			"listed_count": 2,
+			"created_at": "Mon Feb 29 12:41:04 +0000 2016",
+			"favourites_count": 14502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292792356098334723/D-IMyJzj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292792356098334723/D-IMyJzj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/704285254312263680/1591407081",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1245348008641704000,
+		"quoted_status_id_str": "1245348008641703938",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5jHPayNqzf",
+			"expanded": "https://twitter.com/N91211/status/1245348008641703938",
+			"display": "twitter.com/N91211/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 01 13:51:17 +0000 2020",
+			"id": 1245348008641704000,
+			"id_str": "1245348008641703938",
+			"full_text": "역시 곰한테도 내재한 미학이 있는 거겠지? 저게 '넘어져 있다'고 인식하고 있다는 말이니까. 고양이들이 높은 곳에서 물건을 밀어 떨구는 것이 '어떻게 되나 궁금해서'라는 것도 생각난다. 동물들도 부서진 것과 아닌 걸 구분한다. 질서와 무질서를 구분하면 나름의 미와 추에 대한 기준도 있을 것. https://t.co/HmwmGaALKR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				163
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HmwmGaALKR",
+						"expanded_url": "https://twitter.com/NaturelsLit/status/1245185176855908352",
+						"display_url": "twitter.com/NaturelsLit/st…",
+						"indices": [
+							164,
+							187
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1627227828,
+				"id_str": "1627227828",
+				"name": "위래🌹☂️",
+				"screen_name": "N91211",
+				"location": "n91211.postype.com",
+				"description": "단편 「미궁에는 괴물이」가 2010년 10월 네이버 ‘오늘의 문학’란 게재 되어 첫 고료를 받았다. 이후 여러 지면에 장르소설 단편을 썼고, 웹소설 『마왕이 너무 많다』를 11권으로 문피아에서 완결했다. 최근 문피아에서 『슬기로운 문명생활』을 연재중이다.",
+				"url": "https://t.co/OfoZqj1u83",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OfoZqj1u83",
+								"expanded_url": "https://britg.kr/user/wirae",
+								"display_url": "britg.kr/user/wirae",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1990,
+				"friends_count": 777,
+				"listed_count": 18,
+				"created_at": "Sun Jul 28 06:48:52 +0000 2013",
+				"favourites_count": 197375,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 155524,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1250807726638198785/U2TPPNJn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250807726638198785/U2TPPNJn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1627227828/1585831639",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1245185176855908400,
+			"quoted_status_id_str": "1245185176855908352",
+			"quoted_status_permalink": {
+				"url": "https://t.co/HmwmGaALKR",
+				"expanded": "https://twitter.com/NaturelsLit/status/1245185176855908352",
+				"display": "twitter.com/NaturelsLit/st…"
+			},
+			"retweet_count": 8192,
+			"favorite_count": 4562,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인간의 인간에 대한 자만은 오만을 넘어 절망적일 때가 많죠. 놀이의 인간이다 뭐다 해서 공부했던 것들이 얼마나 개뻥인지 깨닫게 되는 데는 많은 시간이 걸리지 않았습니다. https://t.co/5jHPayNqzf"
+	},
+	{
+		"created_at": "Thu Nov 26 17:36:35 +0000 2020",
+		"id": 1245507573240873000,
+		"id_str": "1332015405670354944",
+		"full_text": "@N91211 질서도 높은(건강, 안전, 아름다움) 걸 선택하는 건 생존에 필요한 정보라서. 그리고 고양이는...^^* 여러 이유로 물건 떨어뜨리지요. 뭘 떨어뜨렸을 때 무슨 소리가 나서 집사를 깨울지 알고 그걸 떨어뜨리죠. 날 보지 않으면 이거 떨어뜨릴 거다, 경고도 해요ㅎㅎ 호기심에도 재미로도 떨어뜨려요",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "N91211",
+					"name": "위래🌹☂️",
+					"id": 1627227828,
+					"id_str": "1627227828",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1245348008641704000,
+		"in_reply_to_status_id_str": "1245348008641703938",
+		"in_reply_to_user_id": 1627227828,
+		"in_reply_to_user_id_str": "1627227828",
+		"in_reply_to_screen_name": "N91211",
+		"user": {
+			"id": 133724580,
+			"id_str": "133724580",
+			"name": "코치_그레잇🎗 🍇",
+			"screen_name": "drloveSOS",
+			"location": "seoul",
+			"description": "여성주의 코칭 연구소 Fem! Coaching Lab./ 닥터엘 연애상담소 LUV_and_SEX/ 라이프 코칭 프로그램 *12번의 성찰:자아성장 워크샵*/ 코칭,상담,강연 문의 E. drlovesos@gmail.com K. @drlovesos/여성의 목표,계획,실천,성취 RT 해드림",
+			"url": "https://t.co/l8XfrZlGp5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l8XfrZlGp5",
+							"expanded_url": "http://luvnluv.egloos.com",
+							"display_url": "luvnluv.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1748,
+			"friends_count": 413,
+			"listed_count": 16,
+			"created_at": "Fri Apr 16 13:32:32 +0000 2010",
+			"favourites_count": 1142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164685524327518208/wMZ0CsCm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164685524327518208/wMZ0CsCm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/133724580/1578493549",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@N91211 질서도 높은(건강, 안전, 아름다움) 걸 선택하는 건 생존에 필요한 정보라서. 그리고 고양이는...^^* 여러 이유로 물건 떨어뜨리지요. 뭘 떨어뜨렸을 때 무슨 소리가 나서 집사를 깨울지 알고 그걸 떨어뜨리죠. 날 보지 않으면 이거 떨어뜨릴 거다, 경고도 해요ㅎㅎ 호기심에도 재미로도 떨어뜨려요"
+	},
+	{
+		"created_at": "Thu Nov 26 17:36:32 +0000 2020",
+		"id": 1245348008641704000,
+		"id_str": "1332015396518445058",
+		"full_text": "역시 곰한테도 내재한 미학이 있는 거겠지? 저게 '넘어져 있다'고 인식하고 있다는 말이니까. 고양이들이 높은 곳에서 물건을 밀어 떨구는 것이 '어떻게 되나 궁금해서'라는 것도 생각난다. 동물들도 부서진 것과 아닌 걸 구분한다. 질서와 무질서를 구분하면 나름의 미와 추에 대한 기준도 있을 것. https://t.co/HmwmGaALKR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HmwmGaALKR",
+					"expanded_url": "https://twitter.com/NaturelsLit/status/1245185176855908352",
+					"display_url": "twitter.com/NaturelsLit/st…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1627227828,
+			"id_str": "1627227828",
+			"name": "위래🌹☂️",
+			"screen_name": "N91211",
+			"location": "n91211.postype.com",
+			"description": "단편 「미궁에는 괴물이」가 2010년 10월 네이버 ‘오늘의 문학’란 게재 되어 첫 고료를 받았다. 이후 여러 지면에 장르소설 단편을 썼고, 웹소설 『마왕이 너무 많다』를 11권으로 문피아에서 완결했다. 최근 문피아에서 『슬기로운 문명생활』을 연재중이다.",
+			"url": "https://t.co/OfoZqj1u83",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OfoZqj1u83",
+							"expanded_url": "https://britg.kr/user/wirae",
+							"display_url": "britg.kr/user/wirae",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1990,
+			"friends_count": 777,
+			"listed_count": 18,
+			"created_at": "Sun Jul 28 06:48:52 +0000 2013",
+			"favourites_count": 197375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 155524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250807726638198785/U2TPPNJn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250807726638198785/U2TPPNJn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1627227828/1585831639",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1245185176855908400,
+		"quoted_status_id_str": "1245185176855908352",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HmwmGaALKR",
+			"expanded": "https://twitter.com/NaturelsLit/status/1245185176855908352",
+			"display": "twitter.com/NaturelsLit/st…"
+		},
+		"retweet_count": 8192,
+		"favorite_count": 4562,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "역시 곰한테도 내재한 미학이 있는 거겠지? 저게 '넘어져 있다'고 인식하고 있다는 말이니까. 고양이들이 높은 곳에서 물건을 밀어 떨구는 것이 '어떻게 되나 궁금해서'라는 것도 생각난다. 동물들도 부서진 것과 아닌 걸 구분한다. 질서와 무질서를 구분하면 나름의 미와 추에 대한 기준도 있을 것. https://t.co/HmwmGaALKR"
+	},
+	{
+		"created_at": "Thu Nov 26 17:35:09 +0000 2020",
+		"id": 1325682069872074800,
+		"id_str": "1332015047904661504",
+		"full_text": "이와 비슷한 게 한국어에도 있으면 좋지 않을까… 생각하여 만든 게 지난해에 만든 〈선비〉(https://t.co/ko3sThmZ0v)인데, API가 좋지 않아서 워드프레스 같이 널리 쓰이는 웹 출판 플랫폼에 붙이기는 아직 좀 성가신 것 같네요…\n\n웹 데모: https://t.co/b64UG7C8B2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ko3sThmZ0v",
+					"expanded_url": "https://github.com/dahlia/seonbi",
+					"display_url": "github.com/dahlia/seonbi",
+					"indices": [
+						50,
+						73
+					]
+				},
+				{
+					"url": "https://t.co/b64UG7C8B2",
+					"expanded_url": "https://dahlia.github.io/seonbi/",
+					"display_url": "dahlia.github.io/seonbi/",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": 1325681505155215400,
+		"in_reply_to_status_id_str": "1325681505155215363",
+		"in_reply_to_user_id": 19953501,
+		"in_reply_to_user_id_str": "19953501",
+		"in_reply_to_screen_name": "hongminhee",
+		"user": {
+			"id": 19953501,
+			"id_str": "19953501",
+			"name": "Hong Minhee · 洪 民憙",
+			"screen_name": "hongminhee",
+			"location": "Seoul, Republic of Korea",
+			"description": "Little by little we subtract / \nFaith and fallacy from fact, / \nThe illusory from the true, / \nAnd starve upon the residue.",
+			"url": "https://t.co/omIumqM5yy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/omIumqM5yy",
+							"expanded_url": "https://hongminhee.org/",
+							"display_url": "hongminhee.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2836,
+			"friends_count": 619,
+			"listed_count": 124,
+			"created_at": "Tue Feb 03 04:12:41 +0000 2009",
+			"favourites_count": 7158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14641,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/712673855341367296/WY6aLbBV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/712673855341367296/WY6aLbBV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19953501/1443509227",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F2FFBF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이와 비슷한 게 한국어에도 있으면 좋지 않을까… 생각하여 만든 게 지난해에 만든 〈선비〉(https://t.co/ko3sThmZ0v)인데, API가 좋지 않아서 워드프레스 같이 널리 쓰이는 웹 출판 플랫폼에 붙이기는 아직 좀 성가신 것 같네요…\n\n웹 데모: https://t.co/b64UG7C8B2"
+	},
+	{
+		"created_at": "Thu Nov 26 17:30:12 +0000 2020",
+		"id": 1332013800355029000,
+		"id_str": "1332013800355028992",
+		"full_text": "\"이론적 정의와 조작적 정의를 병용하는 절충적 접근은, 이런 현실 속에서 생물종 개념에 대해 일관되고 통일성있는 해명을 위해 선택할 수 있는 거의 유일한 길처럼 보인다.\"\nhttps://t.co/jxzhqE417s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jxzhqE417s",
+					"expanded_url": "https://m.ibric.org/trend/news/subread.php?Board=news&id=315485&BackLink=L21haW4v",
+					"display_url": "m.ibric.org/trend/news/sub…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1332013726359187500,
+		"in_reply_to_status_id_str": "1332013726359187456",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 90,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330749528975175680/jQVVTx1D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330749528975175680/jQVVTx1D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"이론적 정의와 조작적 정의를 병용하는 절충적 접근은, 이런 현실 속에서 생물종 개념에 대해 일관되고 통일성있는 해명을 위해 선택할 수 있는 거의 유일한 길처럼 보인다.\"\nhttps://t.co/jxzhqE417s"
+	},
+	{
 		"created_at": "Thu Nov 26 17:07:37 +0000 2020",
 		"id": 1244287653211541500,
 		"id_str": "1332008119342252032",
