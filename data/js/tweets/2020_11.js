@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 26 19:14:28 +0000 2020",
+		"id": 1332040040378077200,
+		"id_str": "1332040040378077184",
+		"full_text": "선택적 공감에서 '공감'에 방점을 찍고 공감 능력에 대한 회의를 하는 것보다는, '선택'을 쏠리게 만드는 환경 변화에 주목한 매리언 울프의 문제의식에 동감할 수밖에...\nhttps://t.co/pyEikSrUtX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pyEikSrUtX",
+					"expanded_url": "https://newspeppermint.com/2019/04/21/the-end-of-empathy/",
+					"display_url": "newspeppermint.com/2019/04/21/the…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 90,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330749528975175680/jQVVTx1D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330749528975175680/jQVVTx1D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "선택적 공감에서 '공감'에 방점을 찍고 공감 능력에 대한 회의를 하는 것보다는, '선택'을 쏠리게 만드는 환경 변화에 주목한 매리언 울프의 문제의식에 동감할 수밖에...\nhttps://t.co/pyEikSrUtX"
+	},
+	{
 		"created_at": "Thu Nov 26 18:24:40 +0000 2020",
 		"id": 1247833050039255000,
 		"id_str": "1332027509156679681",
