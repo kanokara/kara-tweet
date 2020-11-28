@@ -1,6 +1,563 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 28 01:10:06 +0000 2020",
+		"id": 1332491927183192000,
+		"id_str": "1332491927183192065",
+		"full_text": "노래가 이렇게 좋은데 유튜브 구독자 6.5만이라니...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1332491277913399300,
+		"in_reply_to_status_id_str": "1332491277913399296",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 90,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330749528975175680/jQVVTx1D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330749528975175680/jQVVTx1D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "노래가 이렇게 좋은데 유튜브 구독자 6.5만이라니..."
+	},
+	{
+		"created_at": "Sat Nov 28 01:07:31 +0000 2020",
+		"id": 1332491277913399300,
+		"id_str": "1332491277913399296",
+		"full_text": "헬스장에서 자주 들었던 노래의 주인공들인데, 좋은 음질로 들으니 예상치 못하게 좋네요. 인기그룹인 줄 알았는데 거의 무명그룹인가...?\nhttps://t.co/IkiSYC7Zhw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IkiSYC7Zhw",
+					"expanded_url": "https://www.youtube.com/watch?v=dxtkhAl4p2w&list=OLAK5uy_m47njQ5ZYYl4tzpXEFfEY1QYA_Ivk4hHM",
+					"display_url": "youtube.com/watch?v=dxtkhA…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 90,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330749528975175680/jQVVTx1D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330749528975175680/jQVVTx1D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "헬스장에서 자주 들었던 노래의 주인공들인데, 좋은 음질로 들으니 예상치 못하게 좋네요. 인기그룹인 줄 알았는데 거의 무명그룹인가...?\nhttps://t.co/IkiSYC7Zhw"
+	},
+	{
+		"created_at": "Sat Nov 28 00:59:30 +0000 2020",
+		"id": 1332489259488481300,
+		"id_str": "1332489259488481280",
+		"full_text": "@server8key 빨리 만족할 만한 성취를 거두고 추해지기 전에 죽어야... (← 데드라인이 서른에서 마흔으로 늘어났다)",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "server8key",
+					"name": "電磁式サカナ@ジパング",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1332488841450512400,
+		"in_reply_to_status_id_str": "1332488841450512384",
+		"in_reply_to_user_id": 1047103952297254900,
+		"in_reply_to_user_id_str": "1047103952297254912",
+		"in_reply_to_screen_name": "server8key",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 90,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330749528975175680/jQVVTx1D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330749528975175680/jQVVTx1D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@server8key 빨리 만족할 만한 성취를 거두고 추해지기 전에 죽어야... (← 데드라인이 서른에서 마흔으로 늘어났다)"
+	},
+	{
+		"created_at": "Sat Nov 28 00:51:58 +0000 2020",
+		"id": 1332487362496979000,
+		"id_str": "1332487362496978944",
+		"full_text": "사실 그래서 적당한 시점에 죽어야 한다고 옛날부터 생각해왔는데... 사람들이 '요절'에 대한 어떤 동경 같은 것을 갖는 이유이기도 하고요.\nhttps://t.co/RH823g2Xdp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RH823g2Xdp",
+					"expanded_url": "https://twitter.com/taeng_al/status/1331644415513821187",
+					"display_url": "twitter.com/taeng_al/statu…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 90,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330749528975175680/jQVVTx1D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330749528975175680/jQVVTx1D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1331644415513821200,
+		"quoted_status_id_str": "1331644415513821187",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RH823g2Xdp",
+			"expanded": "https://twitter.com/taeng_al/status/1331644415513821187",
+			"display": "twitter.com/taeng_al/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 25 17:02:24 +0000 2020",
+			"id": 1331644415513821200,
+			"id_str": "1331644415513821187",
+			"full_text": "근데 죽음이 한 사람의 끝이 아니라는 것임. 남겨진 사람들의 기억을 통해서 화해도 하고 손가락질도 당하고 회복도 하고 사랑도 받고 그렇게 어떤 존재가 몸 없이도 계속 이 세계에 머무르며 유동할 수 있다는 거. 죽음을 이런 식으로 생각해 본 적은 없었네....",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				144
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1331644146382106600,
+			"in_reply_to_status_id_str": "1331644146382106626",
+			"in_reply_to_user_id": 723923171745751000,
+			"in_reply_to_user_id_str": "723923171745751043",
+			"in_reply_to_screen_name": "taeng_al",
+			"user": {
+				"id": 723923171745751000,
+				"id_str": "723923171745751043",
+				"name": "탱알🎍",
+				"screen_name": "taeng_al",
+				"location": "Sydney, New South Wales",
+				"description": "책 〈다 된 만화에 페미니즘 끼얹기: 여성 서사 웹툰 읽기〉를 썼습니다.",
+				"url": "https://t.co/0Jc7sFBRrQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0Jc7sFBRrQ",
+								"expanded_url": "http://taengalpost.blogspot.com",
+								"display_url": "taengalpost.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8276,
+				"friends_count": 108,
+				"listed_count": 22,
+				"created_at": "Sat Apr 23 17:15:08 +0000 2016",
+				"favourites_count": 7585,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12993,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1322135252425338880/UAqmDBqv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322135252425338880/UAqmDBqv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/723923171745751043/1557550502",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사실 그래서 적당한 시점에 죽어야 한다고 옛날부터 생각해왔는데... 사람들이 '요절'에 대한 어떤 동경 같은 것을 갖는 이유이기도 하고요.\nhttps://t.co/RH823g2Xdp"
+	},
+	{
+		"created_at": "Sat Nov 28 00:50:50 +0000 2020",
+		"id": 1331644415513821200,
+		"id_str": "1332487076567076864",
+		"full_text": "근데 죽음이 한 사람의 끝이 아니라는 것임. 남겨진 사람들의 기억을 통해서 화해도 하고 손가락질도 당하고 회복도 하고 사랑도 받고 그렇게 어떤 존재가 몸 없이도 계속 이 세계에 머무르며 유동할 수 있다는 거. 죽음을 이런 식으로 생각해 본 적은 없었네....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1331644146382106600,
+		"in_reply_to_status_id_str": "1331644146382106626",
+		"in_reply_to_user_id": 723923171745751000,
+		"in_reply_to_user_id_str": "723923171745751043",
+		"in_reply_to_screen_name": "taeng_al",
+		"user": {
+			"id": 723923171745751000,
+			"id_str": "723923171745751043",
+			"name": "탱알🎍",
+			"screen_name": "taeng_al",
+			"location": "Sydney, New South Wales",
+			"description": "책 〈다 된 만화에 페미니즘 끼얹기: 여성 서사 웹툰 읽기〉를 썼습니다.",
+			"url": "https://t.co/0Jc7sFBRrQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0Jc7sFBRrQ",
+							"expanded_url": "http://taengalpost.blogspot.com",
+							"display_url": "taengalpost.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8276,
+			"friends_count": 108,
+			"listed_count": 22,
+			"created_at": "Sat Apr 23 17:15:08 +0000 2016",
+			"favourites_count": 7585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322135252425338880/UAqmDBqv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322135252425338880/UAqmDBqv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/723923171745751043/1557550502",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "근데 죽음이 한 사람의 끝이 아니라는 것임. 남겨진 사람들의 기억을 통해서 화해도 하고 손가락질도 당하고 회복도 하고 사랑도 받고 그렇게 어떤 존재가 몸 없이도 계속 이 세계에 머무르며 유동할 수 있다는 거. 죽음을 이런 식으로 생각해 본 적은 없었네...."
+	},
+	{
 		"created_at": "Fri Nov 27 23:43:54 +0000 2020",
 		"id": 1254969118840647700,
 		"id_str": "1332470234876297216",
