@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 27 23:43:54 +0000 2020",
+		"id": 1254969118840647700,
+		"id_str": "1332470234876297216",
+		"full_text": "&lt;체언/용언&gt;이라는 개념어보다 &lt;주어/동사&gt;라는 개념어가 더 익숙한 어떤 비극. 비극이 아니려나. 그러다가 &gt;형용동사&gt;라는 개념을 마주친 한국인 A씨의 머리속에선 미드웨이 해전이 발발하는데...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 283881311,
+			"id_str": "283881311",
+			"name": "tilt; AM 11:00 - PM 9:00",
+			"screen_name": "barTILT",
+			"location": "Sinchon, Seoul, Korea",
+			"description": "aikoジャンキー/Baby Peenats/Team aiko/Seoul,Korea/서대문구 창천동 52-151 2층/Korea best bar 100/深海冷蔵庫/桜の時/透明ドロップ/ハナガサイタ/キスが巡る",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10348,
+			"friends_count": 1332,
+			"listed_count": 127,
+			"created_at": "Mon Apr 18 05:59:59 +0000 2011",
+			"favourites_count": 26801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315289473056268295/ycK0J7N4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315289473056268295/ycK0J7N4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/283881311/1598434060",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "&lt;체언/용언&gt;이라는 개념어보다 &lt;주어/동사&gt;라는 개념어가 더 익숙한 어떤 비극. 비극이 아니려나. 그러다가 &gt;형용동사&gt;라는 개념을 마주친 한국인 A씨의 머리속에선 미드웨이 해전이 발발하는데..."
+	},
+	{
+		"created_at": "Fri Nov 27 23:42:11 +0000 2020",
+		"id": 1255115601971839000,
+		"id_str": "1332469800702861312",
+		"full_text": "그 말은 전에 누구도, 적어도 그런 똑같은 형식으로는 이야기한 적이 없을 거예요.. 그 단어들이 서로를 잃지 않은 게 다행이네요, 그 단어들은 자신들을 합쳐줄 사람이 필요했어요, 누가 알아요, 우리가 혼자 떠도는 단어들 몇 개를 합쳐줄 수 있다면 세상이 조금은 더 나아질지. /‘눈뜬 자들의 도시’",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1255115349449564200,
+		"in_reply_to_status_id_str": "1255115349449564160",
+		"in_reply_to_user_id": 27725896,
+		"in_reply_to_user_id_str": "27725896",
+		"in_reply_to_screen_name": "atmostbeautiful",
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101497,
+			"friends_count": 2385,
+			"listed_count": 316,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그 말은 전에 누구도, 적어도 그런 똑같은 형식으로는 이야기한 적이 없을 거예요.. 그 단어들이 서로를 잃지 않은 게 다행이네요, 그 단어들은 자신들을 합쳐줄 사람이 필요했어요, 누가 알아요, 우리가 혼자 떠도는 단어들 몇 개를 합쳐줄 수 있다면 세상이 조금은 더 나아질지. /‘눈뜬 자들의 도시’"
+	},
+	{
+		"created_at": "Fri Nov 27 23:42:08 +0000 2020",
+		"id": 1255115349449564200,
+		"id_str": "1332469789093023745",
+		"full_text": "말이나 글을 이치에 맞게 할 수 있으면 실제 상황도 그렇게 만들 수 있을 것 같았다. /엘레나 페란테, ‘잃어버린 아이 이야기’",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1254870829562687500,
+		"in_reply_to_status_id_str": "1254870829562687488",
+		"in_reply_to_user_id": 27725896,
+		"in_reply_to_user_id_str": "27725896",
+		"in_reply_to_screen_name": "atmostbeautiful",
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101497,
+			"friends_count": 2385,
+			"listed_count": 316,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "말이나 글을 이치에 맞게 할 수 있으면 실제 상황도 그렇게 만들 수 있을 것 같았다. /엘레나 페란테, ‘잃어버린 아이 이야기’"
+	},
+	{
 		"created_at": "Thu Nov 26 20:23:04 +0000 2020",
 		"id": 1251582664794087400,
 		"id_str": "1332057306482151424",
@@ -103,7 +375,7 @@ Grailbird.data.tweets_2020_11 =
 		"user": {
 			"id": 593761955,
 			"id_str": "593761955",
-			"name": "🏳️‍🌈여섯ㅅl🏳️‍🌈",
+			"name": "🏳️🌈여섯ㅅl🏳️🌈",
 			"screen_name": "SixiS_oClock",
 			"location": "아발론 궁정",
 			"description": "{ 비팔알람X } 사찰/초멘/인알 하세요 | 취미: 항공정비사 | 직업: 과몰입오타쿠 | 노을 속 쇠고기수프의 만족 | 여자아님",
