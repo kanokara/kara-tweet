@@ -1,6 +1,2391 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 30 08:09:50 +0000 2020",
+		"id": 1329818781753909200,
+		"id_str": "1333322332564176897",
+		"full_text": "독립적 개인을 지향하던 젊고 날카로운 지성이 나이가 들자 동일성을 구하며 공동체로 회귀하는 경우들을 본다. 이런 '노화의 궤도'란 것이 존재한다면 미시마는 일종의 '조로'를 연기하고 있었던 것이 아닌가 싶기도...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94777676,
+			"id_str": "94777676",
+			"name": "Grard",
+			"screen_name": "muyoh",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1352,
+			"friends_count": 993,
+			"listed_count": 17,
+			"created_at": "Sat Dec 05 11:49:00 +0000 2009",
+			"favourites_count": 8355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242815985880461313/JjZ5OkPv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242815985880461313/JjZ5OkPv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94777676/1585145397",
+			"profile_link_color": "9F99A6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "독립적 개인을 지향하던 젊고 날카로운 지성이 나이가 들자 동일성을 구하며 공동체로 회귀하는 경우들을 본다. 이런 '노화의 궤도'란 것이 존재한다면 미시마는 일종의 '조로'를 연기하고 있었던 것이 아닌가 싶기도..."
+	},
+	{
+		"created_at": "Mon Nov 30 08:09:41 +0000 2020",
+		"id": 1329814311422759000,
+		"id_str": "1333322293187989505",
+		"full_text": "현대의 인물이지만 흑백으로 남은 마지막 사진을 통해 근대인의 이미지로 남은 게 아닌가 하는 생각이 가끔 든다. 유명한 역사적 인물들을 연상케 하는 저 선 굵은 얼굴조차 컬러 사진에 담기는 순간 일종의 코스프레에 그치고 만달까... https://t.co/cQAWmMZyQ0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1329814263666335700,
+					"id_str": "1329814263666335747",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EnRzBvMUYAMuRld.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnRzBvMUYAMuRld.jpg",
+					"url": "https://t.co/cQAWmMZyQ0",
+					"display_url": "pic.twitter.com/cQAWmMZyQ0",
+					"expanded_url": "https://twitter.com/muyoh/status/1329814311422758914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 436,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 436,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 436,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1329814263666335700,
+					"id_str": "1329814263666335747",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EnRzBvMUYAMuRld.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnRzBvMUYAMuRld.jpg",
+					"url": "https://t.co/cQAWmMZyQ0",
+					"display_url": "pic.twitter.com/cQAWmMZyQ0",
+					"expanded_url": "https://twitter.com/muyoh/status/1329814311422758914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 436,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 436,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 436,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1329814264236834800,
+					"id_str": "1329814264236834817",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EnRzBxUVgAE5F18.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnRzBxUVgAE5F18.jpg",
+					"url": "https://t.co/cQAWmMZyQ0",
+					"display_url": "pic.twitter.com/cQAWmMZyQ0",
+					"expanded_url": "https://twitter.com/muyoh/status/1329814311422758914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 862,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 862,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 572,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1329813680515530800,
+		"in_reply_to_status_id_str": "1329813680515530752",
+		"in_reply_to_user_id": 94777676,
+		"in_reply_to_user_id_str": "94777676",
+		"in_reply_to_screen_name": "muyoh",
+		"user": {
+			"id": 94777676,
+			"id_str": "94777676",
+			"name": "Grard",
+			"screen_name": "muyoh",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1352,
+			"friends_count": 993,
+			"listed_count": 17,
+			"created_at": "Sat Dec 05 11:49:00 +0000 2009",
+			"favourites_count": 8355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242815985880461313/JjZ5OkPv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242815985880461313/JjZ5OkPv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94777676/1585145397",
+			"profile_link_color": "9F99A6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "현대의 인물이지만 흑백으로 남은 마지막 사진을 통해 근대인의 이미지로 남은 게 아닌가 하는 생각이 가끔 든다. 유명한 역사적 인물들을 연상케 하는 저 선 굵은 얼굴조차 컬러 사진에 담기는 순간 일종의 코스프레에 그치고 만달까... https://t.co/cQAWmMZyQ0"
+	},
+	{
+		"created_at": "Mon Nov 30 08:08:21 +0000 2020",
+		"id": 1330212156017700900,
+		"id_str": "1333321960613314562",
+		"full_text": "디자이너/아트디렉터 이시오카 에이코전. 도쿄도현대미술관. 유명 감독과 고전의 반열에 든 영화, 오페라, 국책행사까지 그의 손을 거쳐간 작품도 많지만 개인적으론 70-80년대 고도성장기의 파르코 백화점 광고가 가장 압도적이었다. 무려 백화점 광고 카피가 “서양은 동양을 (입어)소화할 수 있는가” https://t.co/IzQyNH4zgy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1330212150292451300,
+					"id_str": "1330212150292451333",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EnXc5yYXEAU-jZV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnXc5yYXEAU-jZV.jpg",
+					"url": "https://t.co/IzQyNH4zgy",
+					"display_url": "pic.twitter.com/IzQyNH4zgy",
+					"expanded_url": "https://twitter.com/matrenin_dvor/status/1330212156017700873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 911,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 911,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1330212150292451300,
+					"id_str": "1330212150292451333",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EnXc5yYXEAU-jZV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnXc5yYXEAU-jZV.jpg",
+					"url": "https://t.co/IzQyNH4zgy",
+					"display_url": "pic.twitter.com/IzQyNH4zgy",
+					"expanded_url": "https://twitter.com/matrenin_dvor/status/1330212156017700873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 911,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 911,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 368212732,
+			"id_str": "368212732",
+			"name": "마뜨료나의 줌",
+			"screen_name": "matrenin_dvor",
+			"location": "Zoom",
+			"description": "트위터에 없으면 줌에 있습니다. 연합뉴스가 국가기간통신사면 내가 조선의 국모다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4439,
+			"friends_count": 1287,
+			"listed_count": 31,
+			"created_at": "Mon Sep 05 08:18:14 +0000 2011",
+			"favourites_count": 9819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3169475909/aad9a9a4cf346fc6d559adc2bc1fb5c9_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3169475909/aad9a9a4cf346fc6d559adc2bc1fb5c9_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/368212732/1594012117",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "디자이너/아트디렉터 이시오카 에이코전. 도쿄도현대미술관. 유명 감독과 고전의 반열에 든 영화, 오페라, 국책행사까지 그의 손을 거쳐간 작품도 많지만 개인적으론 70-80년대 고도성장기의 파르코 백화점 광고가 가장 압도적이었다. 무려 백화점 광고 카피가 “서양은 동양을 (입어)소화할 수 있는가” https://t.co/IzQyNH4zgy"
+	},
+	{
+		"created_at": "Mon Nov 30 08:06:50 +0000 2020",
+		"id": 1333312643851960300,
+		"id_str": "1333321577090351104",
+		"full_text": "@eun_gong 아마 &lt;주간 소년 매거진&gt;이었던 걸로 기억합니다. 폐회식이 있었던 70년 9월 이후의 어느 호였던 것 같은데 정확한 호수는 잊어버렸네요. 죄송합니다.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eun_gong",
+					"name": "隱公",
+					"id": 165325098,
+					"id_str": "165325098",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1333305125805330400,
+		"in_reply_to_status_id_str": "1333305125805330432",
+		"in_reply_to_user_id": 165325098,
+		"in_reply_to_user_id_str": "165325098",
+		"in_reply_to_screen_name": "eun_gong",
+		"user": {
+			"id": 94777676,
+			"id_str": "94777676",
+			"name": "Grard",
+			"screen_name": "muyoh",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1352,
+			"friends_count": 993,
+			"listed_count": 17,
+			"created_at": "Sat Dec 05 11:49:00 +0000 2009",
+			"favourites_count": 8355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242815985880461313/JjZ5OkPv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242815985880461313/JjZ5OkPv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94777676/1585145397",
+			"profile_link_color": "9F99A6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@eun_gong 아마 &lt;주간 소년 매거진&gt;이었던 걸로 기억합니다. 폐회식이 있었던 70년 9월 이후의 어느 호였던 것 같은데 정확한 호수는 잊어버렸네요. 죄송합니다."
+	},
+	{
+		"created_at": "Mon Nov 30 08:06:47 +0000 2020",
+		"id": 1333288736952467500,
+		"id_str": "1333321565488877568",
+		"full_text": "@eun_gong '인류의 진보와 조화'가 산산조각... https://t.co/pD6iAWZ5l2",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eun_gong",
+					"name": "隱公",
+					"id": 165325098,
+					"id_str": "165325098",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1333288578646851600,
+					"id_str": "1333288578646851584",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/EoDK5fFUwAAzomO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoDK5fFUwAAzomO.jpg",
+					"url": "https://t.co/pD6iAWZ5l2",
+					"display_url": "pic.twitter.com/pD6iAWZ5l2",
+					"expanded_url": "https://twitter.com/muyoh/status/1333288736952467456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1333288578646851600,
+					"id_str": "1333288578646851584",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/EoDK5fFUwAAzomO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoDK5fFUwAAzomO.jpg",
+					"url": "https://t.co/pD6iAWZ5l2",
+					"display_url": "pic.twitter.com/pD6iAWZ5l2",
+					"expanded_url": "https://twitter.com/muyoh/status/1333288736952467456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1333288661337575400,
+					"id_str": "1333288661337575424",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/EoDK-TIVEAAedcO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoDK-TIVEAAedcO.jpg",
+					"url": "https://t.co/pD6iAWZ5l2",
+					"display_url": "pic.twitter.com/pD6iAWZ5l2",
+					"expanded_url": "https://twitter.com/muyoh/status/1333288736952467456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1333287589344804900,
+		"in_reply_to_status_id_str": "1333287589344804865",
+		"in_reply_to_user_id": 165325098,
+		"in_reply_to_user_id_str": "165325098",
+		"in_reply_to_screen_name": "eun_gong",
+		"user": {
+			"id": 94777676,
+			"id_str": "94777676",
+			"name": "Grard",
+			"screen_name": "muyoh",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1352,
+			"friends_count": 993,
+			"listed_count": 17,
+			"created_at": "Sat Dec 05 11:49:00 +0000 2009",
+			"favourites_count": 8355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242815985880461313/JjZ5OkPv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242815985880461313/JjZ5OkPv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94777676/1585145397",
+			"profile_link_color": "9F99A6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@eun_gong '인류의 진보와 조화'가 산산조각... https://t.co/pD6iAWZ5l2"
+	},
+	{
+		"created_at": "Mon Nov 30 08:06:44 +0000 2020",
+		"id": 1333255930322927600,
+		"id_str": "1333321551211499522",
+		"full_text": "@eun_gong 당시 잡지에서 폐회식 이후 파빌리온 해체 과정을 실어 준 걸 봤는데, 이것도 압권이더군요. 초대형 낫과 망치... https://t.co/DBzIxAN0O7",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eun_gong",
+					"name": "隱公",
+					"id": 165325098,
+					"id_str": "165325098",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1333255464981655600,
+					"id_str": "1333255464981655552",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EoCsyBEUcAAd7hB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoCsyBEUcAAd7hB.jpg",
+					"url": "https://t.co/DBzIxAN0O7",
+					"display_url": "pic.twitter.com/DBzIxAN0O7",
+					"expanded_url": "https://twitter.com/muyoh/status/1333255930322927616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1333255464981655600,
+					"id_str": "1333255464981655552",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EoCsyBEUcAAd7hB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoCsyBEUcAAd7hB.jpg",
+					"url": "https://t.co/DBzIxAN0O7",
+					"display_url": "pic.twitter.com/DBzIxAN0O7",
+					"expanded_url": "https://twitter.com/muyoh/status/1333255930322927616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1333009171151667200,
+		"in_reply_to_status_id_str": "1333009171151667201",
+		"in_reply_to_user_id": 165325098,
+		"in_reply_to_user_id_str": "165325098",
+		"in_reply_to_screen_name": "eun_gong",
+		"user": {
+			"id": 94777676,
+			"id_str": "94777676",
+			"name": "Grard",
+			"screen_name": "muyoh",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1352,
+			"friends_count": 993,
+			"listed_count": 17,
+			"created_at": "Sat Dec 05 11:49:00 +0000 2009",
+			"favourites_count": 8355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242815985880461313/JjZ5OkPv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242815985880461313/JjZ5OkPv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94777676/1585145397",
+			"profile_link_color": "9F99A6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@eun_gong 당시 잡지에서 폐회식 이후 파빌리온 해체 과정을 실어 준 걸 봤는데, 이것도 압권이더군요. 초대형 낫과 망치... https://t.co/DBzIxAN0O7"
+	},
+	{
+		"created_at": "Mon Nov 30 08:06:27 +0000 2020",
+		"id": 1333059443307659300,
+		"id_str": "1333321478901620736",
+		"full_text": "@eun_gong 아쉽네요 ㅠ_ㅠ 찾아보니 제4의 얼굴도 행방을 알 수 없는 상태라니 대체 관리를 어떻게 한 건지... https://t.co/GYQrUyEZ3k",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eun_gong",
+					"name": "隱公",
+					"id": 165325098,
+					"id_str": "165325098",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1333059192572166100,
+					"id_str": "1333059192572166144",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/En_6RdXVQAAS9Z0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/En_6RdXVQAAS9Z0.jpg",
+					"url": "https://t.co/GYQrUyEZ3k",
+					"display_url": "pic.twitter.com/GYQrUyEZ3k",
+					"expanded_url": "https://twitter.com/Eolein/status/1333059443307659266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1333059192572166100,
+					"id_str": "1333059192572166144",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/En_6RdXVQAAS9Z0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/En_6RdXVQAAS9Z0.jpg",
+					"url": "https://t.co/GYQrUyEZ3k",
+					"display_url": "pic.twitter.com/GYQrUyEZ3k",
+					"expanded_url": "https://twitter.com/Eolein/status/1333059443307659266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1333056358225088500,
+		"in_reply_to_status_id_str": "1333056358225088512",
+		"in_reply_to_user_id": 165325098,
+		"in_reply_to_user_id_str": "165325098",
+		"in_reply_to_screen_name": "eun_gong",
+		"user": {
+			"id": 112715721,
+			"id_str": "112715721",
+			"name": "Rivian",
+			"screen_name": "Eolein",
+			"location": "Tokyo, Japan",
+			"description": "カバンちゃんを返して！",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 766,
+			"friends_count": 440,
+			"listed_count": 20,
+			"created_at": "Tue Feb 09 13:28:54 +0000 2010",
+			"favourites_count": 36601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 110495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/685216077/icon14_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/685216077/icon14_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@eun_gong 아쉽네요 ㅠ_ㅠ 찾아보니 제4의 얼굴도 행방을 알 수 없는 상태라니 대체 관리를 어떻게 한 건지... https://t.co/GYQrUyEZ3k"
+	},
+	{
+		"created_at": "Mon Nov 30 08:06:21 +0000 2020",
+		"id": 1333056358225088500,
+		"id_str": "1333321456449511425",
+		"full_text": "@Eolein 지하 전시물은 많이 소실되어서 지금 공개되어 있는 아래 사진의 지하 전시들도 복원품이라고 하더군요 ㅠㅠ https://t.co/BoYrq8TR3y",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Eolein",
+					"name": "Rivian",
+					"id": 112715721,
+					"id_str": "112715721",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1333056349236723700,
+					"id_str": "1333056349236723713",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/En_3r9HVgAEz3t3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/En_3r9HVgAEz3t3.jpg",
+					"url": "https://t.co/BoYrq8TR3y",
+					"display_url": "pic.twitter.com/BoYrq8TR3y",
+					"expanded_url": "https://twitter.com/eun_gong/status/1333056358225088512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1333056349236723700,
+					"id_str": "1333056349236723713",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/En_3r9HVgAEz3t3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/En_3r9HVgAEz3t3.jpg",
+					"url": "https://t.co/BoYrq8TR3y",
+					"display_url": "pic.twitter.com/BoYrq8TR3y",
+					"expanded_url": "https://twitter.com/eun_gong/status/1333056358225088512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1333003830682808300,
+		"in_reply_to_status_id_str": "1333003830682808321",
+		"in_reply_to_user_id": 112715721,
+		"in_reply_to_user_id_str": "112715721",
+		"in_reply_to_screen_name": "Eolein",
+		"user": {
+			"id": 165325098,
+			"id_str": "165325098",
+			"name": "隱公",
+			"screen_name": "eun_gong",
+			"location": "日本 東京",
+			"description": "도시 공간을 기록하고 여러 이슈를 파고듭니다 https://t.co/Q6ET768G3b.modern.seoul@gmail.com",
+			"url": "https://t.co/rRRANkO5ZI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rRRANkO5ZI",
+							"expanded_url": "http://instagram.com/journey.to.modern.seoul",
+							"display_url": "instagram.com/journey.to.mod…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Q6ET768G3b",
+							"expanded_url": "http://journey.to",
+							"display_url": "journey.to",
+							"indices": [
+								25,
+								48
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13736,
+			"friends_count": 682,
+			"listed_count": 107,
+			"created_at": "Sun Jul 11 07:04:00 +0000 2010",
+			"favourites_count": 11769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 279884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7EE6BD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326165885103476736/WW8vyV4J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326165885103476736/WW8vyV4J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/165325098/1596368900",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@Eolein 지하 전시물은 많이 소실되어서 지금 공개되어 있는 아래 사진의 지하 전시들도 복원품이라고 하더군요 ㅠㅠ https://t.co/BoYrq8TR3y"
+	},
+	{
+		"created_at": "Mon Nov 30 08:06:17 +0000 2020",
+		"id": 1333003830682808300,
+		"id_str": "1333321439236169729",
+		"full_text": "@eun_gong 예전에 본 방송에서 이거 생물 탄생 이전의 태초?를 묘사한 지하 공간이 정말 소름끼치게 압권이지만 지금은 비공개라고 하던데 좀 실제로 보고 싶더군요...",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eun_gong",
+					"name": "隱公",
+					"id": 165325098,
+					"id_str": "165325098",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1332876371836584000,
+		"in_reply_to_status_id_str": "1332876371836583936",
+		"in_reply_to_user_id": 165325098,
+		"in_reply_to_user_id_str": "165325098",
+		"in_reply_to_screen_name": "eun_gong",
+		"user": {
+			"id": 112715721,
+			"id_str": "112715721",
+			"name": "Rivian",
+			"screen_name": "Eolein",
+			"location": "Tokyo, Japan",
+			"description": "カバンちゃんを返して！",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 766,
+			"friends_count": 440,
+			"listed_count": 20,
+			"created_at": "Tue Feb 09 13:28:54 +0000 2010",
+			"favourites_count": 36601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 110495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/685216077/icon14_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/685216077/icon14_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@eun_gong 예전에 본 방송에서 이거 생물 탄생 이전의 태초?를 묘사한 지하 공간이 정말 소름끼치게 압권이지만 지금은 비공개라고 하던데 좀 실제로 보고 싶더군요..."
+	},
+	{
+		"created_at": "Mon Nov 30 08:06:12 +0000 2020",
+		"id": 1333056611099635700,
+		"id_str": "1333321418373623808",
+		"full_text": "@eggry 박람회 당시에는 내부에 5기의 에스컬레이터가 놓여져 있어서 천장으로 올라가는 구조였다고 합니다. 기기괴괴한 외양과 전시물과 효율적인 구조가 합쳐진 작품...",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eggry",
+					"name": "eggry",
+					"id": 47319345,
+					"id_str": "47319345",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1332896141323604000,
+		"in_reply_to_status_id_str": "1332896141323603968",
+		"in_reply_to_user_id": 47319345,
+		"in_reply_to_user_id_str": "47319345",
+		"in_reply_to_screen_name": "eggry",
+		"user": {
+			"id": 165325098,
+			"id_str": "165325098",
+			"name": "隱公",
+			"screen_name": "eun_gong",
+			"location": "日本 東京",
+			"description": "도시 공간을 기록하고 여러 이슈를 파고듭니다 https://t.co/Q6ET768G3b.modern.seoul@gmail.com",
+			"url": "https://t.co/rRRANkO5ZI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rRRANkO5ZI",
+							"expanded_url": "http://instagram.com/journey.to.modern.seoul",
+							"display_url": "instagram.com/journey.to.mod…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Q6ET768G3b",
+							"expanded_url": "http://journey.to",
+							"display_url": "journey.to",
+							"indices": [
+								25,
+								48
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13736,
+			"friends_count": 682,
+			"listed_count": 107,
+			"created_at": "Sun Jul 11 07:04:00 +0000 2010",
+			"favourites_count": 11769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 279884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7EE6BD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326165885103476736/WW8vyV4J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326165885103476736/WW8vyV4J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/165325098/1596368900",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@eggry 박람회 당시에는 내부에 5기의 에스컬레이터가 놓여져 있어서 천장으로 올라가는 구조였다고 합니다. 기기괴괴한 외양과 전시물과 효율적인 구조가 합쳐진 작품..."
+	},
+	{
+		"created_at": "Mon Nov 30 08:06:08 +0000 2020",
+		"id": 1333009171151667200,
+		"id_str": "1333321401357352960",
+		"full_text": "1970년 오사카 만국박람회 하면 높이 109미터(!)에 달했던 소련관을 빼 놓을 수 없다. 전시 기간 동안 가장 많은 2,800만 명의 관람객이 다녀간 곳으로, \"우주개발\"과 \"레닌 및 사회주의 체제의 문화적 우월성\"을 다룬 전시물로 보는 이를 압도했다고 한다. 냉전이 낳은 걸작 프로파간다 그 자체. https://t.co/dxHpFxkxPK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1333009155028779000,
+					"id_str": "1333009155028779009",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/En_Mw4_VgAEwcAe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/En_Mw4_VgAEwcAe.jpg",
+					"url": "https://t.co/dxHpFxkxPK",
+					"display_url": "pic.twitter.com/dxHpFxkxPK",
+					"expanded_url": "https://twitter.com/eun_gong/status/1333009171151667201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 623,
+							"h": 492,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 623,
+							"h": 492,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 623,
+							"h": 492,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1333009155028779000,
+					"id_str": "1333009155028779009",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/En_Mw4_VgAEwcAe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/En_Mw4_VgAEwcAe.jpg",
+					"url": "https://t.co/dxHpFxkxPK",
+					"display_url": "pic.twitter.com/dxHpFxkxPK",
+					"expanded_url": "https://twitter.com/eun_gong/status/1333009171151667201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 623,
+							"h": 492,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 623,
+							"h": 492,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 623,
+							"h": 492,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1333009155032895500,
+					"id_str": "1333009155032895488",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/En_Mw5AUUAAXD_0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/En_Mw5AUUAAXD_0.jpg",
+					"url": "https://t.co/dxHpFxkxPK",
+					"display_url": "pic.twitter.com/dxHpFxkxPK",
+					"expanded_url": "https://twitter.com/eun_gong/status/1333009171151667201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 619,
+							"h": 484,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 619,
+							"h": 484,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 619,
+							"h": 484,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1333009159629856800,
+					"id_str": "1333009159629856769",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/En_MxKIUYAEXQZB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/En_MxKIUYAEXQZB.jpg",
+					"url": "https://t.co/dxHpFxkxPK",
+					"display_url": "pic.twitter.com/dxHpFxkxPK",
+					"expanded_url": "https://twitter.com/eun_gong/status/1333009171151667201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 467,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 824,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1407,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1333009159634051000,
+					"id_str": "1333009159634051083",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/En_MxKJUYAsOTq_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/En_MxKJUYAsOTq_.jpg",
+					"url": "https://t.co/dxHpFxkxPK",
+					"display_url": "pic.twitter.com/dxHpFxkxPK",
+					"expanded_url": "https://twitter.com/eun_gong/status/1333009171151667201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1332929561865068500,
+		"in_reply_to_status_id_str": "1332929561865068544",
+		"in_reply_to_user_id": 165325098,
+		"in_reply_to_user_id_str": "165325098",
+		"in_reply_to_screen_name": "eun_gong",
+		"user": {
+			"id": 165325098,
+			"id_str": "165325098",
+			"name": "隱公",
+			"screen_name": "eun_gong",
+			"location": "日本 東京",
+			"description": "도시 공간을 기록하고 여러 이슈를 파고듭니다 https://t.co/Q6ET768G3b.modern.seoul@gmail.com",
+			"url": "https://t.co/rRRANkO5ZI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rRRANkO5ZI",
+							"expanded_url": "http://instagram.com/journey.to.modern.seoul",
+							"display_url": "instagram.com/journey.to.mod…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Q6ET768G3b",
+							"expanded_url": "http://journey.to",
+							"display_url": "journey.to",
+							"indices": [
+								25,
+								48
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13736,
+			"friends_count": 682,
+			"listed_count": 107,
+			"created_at": "Sun Jul 11 07:04:00 +0000 2010",
+			"favourites_count": 11769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 279884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7EE6BD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326165885103476736/WW8vyV4J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326165885103476736/WW8vyV4J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/165325098/1596368900",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "d191bfe24d5709e7",
+			"url": "https://api.twitter.com/1.1/geo/id/d191bfe24d5709e7.json",
+			"place_type": "city",
+			"name": "京都市 下京区",
+			"full_name": "京都 京都市 下京区",
+			"country_code": "JP",
+			"country": "일본",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							135.734404997853,
+							34.977134005726
+						],
+						[
+							135.778291993851,
+							34.977134005726
+						],
+						[
+							135.778291993851,
+							35.0007009941169
+						],
+						[
+							135.734404997853,
+							35.0007009941169
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "1970년 오사카 만국박람회 하면 높이 109미터(!)에 달했던 소련관을 빼 놓을 수 없다. 전시 기간 동안 가장 많은 2,800만 명의 관람객이 다녀간 곳으로, \"우주개발\"과 \"레닌 및 사회주의 체제의 문화적 우월성\"을 다룬 전시물로 보는 이를 압도했다고 한다. 냉전이 낳은 걸작 프로파간다 그 자체. https://t.co/dxHpFxkxPK"
+	},
+	{
+		"created_at": "Mon Nov 30 08:06:03 +0000 2020",
+		"id": 1332877559017607200,
+		"id_str": "1333321381723791360",
+		"full_text": "사진으로 보면 컴퓨터 그래픽 같지만 정말로 처음부터 이런 생김새였다. 심지어 1970년 당시보다 생명체 조형물을 292개에서 183개로 조금 줄여서 이 정도 규모라고 함. 지금이야 수많은 영상 체험이 손쉽게 가능하지만, 1970년의 시점에서 보면 얼마나 대단했을지. https://t.co/P8GSDnbH4s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1332877523881889800,
+					"id_str": "1332877523881889794",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1332877523881889794/pu/img/QMxlHLLUpOYLYSxi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1332877523881889794/pu/img/QMxlHLLUpOYLYSxi.jpg",
+					"url": "https://t.co/P8GSDnbH4s",
+					"display_url": "pic.twitter.com/P8GSDnbH4s",
+					"expanded_url": "https://twitter.com/eun_gong/status/1332877559017607170/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1332877523881889800,
+					"id_str": "1332877523881889794",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1332877523881889794/pu/img/QMxlHLLUpOYLYSxi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1332877523881889794/pu/img/QMxlHLLUpOYLYSxi.jpg",
+					"url": "https://t.co/P8GSDnbH4s",
+					"display_url": "pic.twitter.com/P8GSDnbH4s",
+					"expanded_url": "https://twitter.com/eun_gong/status/1332877559017607170/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 8473,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1332877523881889794/pu/vid/480x270/BaqqhK4Ql3a-rcKb.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1332877523881889794/pu/vid/640x360/1VzYLjSPcYf3xqoo.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1332877523881889794/pu/pl/D3OnJrPl4PbQ7UAn.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1332877523881889794/pu/vid/1280x720/4360bDGdxXRgXLLP.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1332876371836584000,
+		"in_reply_to_status_id_str": "1332876371836583936",
+		"in_reply_to_user_id": 165325098,
+		"in_reply_to_user_id_str": "165325098",
+		"in_reply_to_screen_name": "eun_gong",
+		"user": {
+			"id": 165325098,
+			"id_str": "165325098",
+			"name": "隱公",
+			"screen_name": "eun_gong",
+			"location": "日本 東京",
+			"description": "도시 공간을 기록하고 여러 이슈를 파고듭니다 https://t.co/Q6ET768G3b.modern.seoul@gmail.com",
+			"url": "https://t.co/rRRANkO5ZI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rRRANkO5ZI",
+							"expanded_url": "http://instagram.com/journey.to.modern.seoul",
+							"display_url": "instagram.com/journey.to.mod…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Q6ET768G3b",
+							"expanded_url": "http://journey.to",
+							"display_url": "journey.to",
+							"indices": [
+								25,
+								48
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13736,
+			"friends_count": 682,
+			"listed_count": 107,
+			"created_at": "Sun Jul 11 07:04:00 +0000 2010",
+			"favourites_count": 11769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 279884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7EE6BD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326165885103476736/WW8vyV4J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326165885103476736/WW8vyV4J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/165325098/1596368900",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0fc2e9e917d47001",
+			"url": "https://api.twitter.com/1.1/geo/id/0fc2e9e917d47001.json",
+			"place_type": "poi",
+			"name": "万博記念公園",
+			"full_name": "万博記念公園",
+			"country_code": "JP",
+			"country": "일본",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							135.53226088319596,
+							34.80808846171272
+						],
+						[
+							135.53226088319596,
+							34.80808846171272
+						],
+						[
+							135.53226088319596,
+							34.80808846171272
+						],
+						[
+							135.53226088319596,
+							34.80808846171272
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사진으로 보면 컴퓨터 그래픽 같지만 정말로 처음부터 이런 생김새였다. 심지어 1970년 당시보다 생명체 조형물을 292개에서 183개로 조금 줄여서 이 정도 규모라고 함. 지금이야 수많은 영상 체험이 손쉽게 가능하지만, 1970년의 시점에서 보면 얼마나 대단했을지. https://t.co/P8GSDnbH4s"
+	},
+	{
+		"created_at": "Mon Nov 30 08:06:00 +0000 2020",
+		"id": 1332876371836584000,
+		"id_str": "1333321366762704896",
+		"full_text": "반 세기 만에 상설 공개가 재개된 1970 오사카엑스포 기념물 '태양의 탑太陽の塔'. 단세포 생물부터 인간까지 이어지는 진화의 역사가 지상에서부터 높이 50미터까지의 무주 공간에 뻗어나가도록 구성한 생명의 나무生命の木 는 압권 그 자체였다. 마지막 사진은 설계자 오카모토 타로(1911-1997) https://t.co/3UStgaPNRO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1332876363368304600,
+					"id_str": "1332876363368304640",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/En9T_ZgVEAAPsPW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/En9T_ZgVEAAPsPW.jpg",
+					"url": "https://t.co/3UStgaPNRO",
+					"display_url": "pic.twitter.com/3UStgaPNRO",
+					"expanded_url": "https://twitter.com/eun_gong/status/1332876371836583936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1332876363368304600,
+					"id_str": "1332876363368304640",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/En9T_ZgVEAAPsPW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/En9T_ZgVEAAPsPW.jpg",
+					"url": "https://t.co/3UStgaPNRO",
+					"display_url": "pic.twitter.com/3UStgaPNRO",
+					"expanded_url": "https://twitter.com/eun_gong/status/1332876371836583936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1332876363355721700,
+					"id_str": "1332876363355721730",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/En9T_ZdVEAIw2Qd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/En9T_ZdVEAIw2Qd.jpg",
+					"url": "https://t.co/3UStgaPNRO",
+					"display_url": "pic.twitter.com/3UStgaPNRO",
+					"expanded_url": "https://twitter.com/eun_gong/status/1332876371836583936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1332876363393425400,
+					"id_str": "1332876363393425408",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/En9T_ZmUYAA-G_8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/En9T_ZmUYAA-G_8.jpg",
+					"url": "https://t.co/3UStgaPNRO",
+					"display_url": "pic.twitter.com/3UStgaPNRO",
+					"expanded_url": "https://twitter.com/eun_gong/status/1332876371836583936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1332876363393429500,
+					"id_str": "1332876363393429504",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/En9T_ZmUcAATS60.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/En9T_ZmUcAATS60.jpg",
+					"url": "https://t.co/3UStgaPNRO",
+					"display_url": "pic.twitter.com/3UStgaPNRO",
+					"expanded_url": "https://twitter.com/eun_gong/status/1332876371836583936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 914,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 518,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1560,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 165325098,
+			"id_str": "165325098",
+			"name": "隱公",
+			"screen_name": "eun_gong",
+			"location": "日本 東京",
+			"description": "도시 공간을 기록하고 여러 이슈를 파고듭니다 https://t.co/Q6ET768G3b.modern.seoul@gmail.com",
+			"url": "https://t.co/rRRANkO5ZI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rRRANkO5ZI",
+							"expanded_url": "http://instagram.com/journey.to.modern.seoul",
+							"display_url": "instagram.com/journey.to.mod…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Q6ET768G3b",
+							"expanded_url": "http://journey.to",
+							"display_url": "journey.to",
+							"indices": [
+								25,
+								48
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13736,
+			"friends_count": 682,
+			"listed_count": 107,
+			"created_at": "Sun Jul 11 07:04:00 +0000 2010",
+			"favourites_count": 11769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 279884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7EE6BD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326165885103476736/WW8vyV4J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326165885103476736/WW8vyV4J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/165325098/1596368900",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9d28505481000",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9d28505481000.json",
+			"place_type": "poi",
+			"name": "太陽の塔",
+			"full_name": "太陽の塔",
+			"country_code": "JP",
+			"country": "일본",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							135.532394,
+							34.809512
+						],
+						[
+							135.532394,
+							34.809512
+						],
+						[
+							135.532394,
+							34.809512
+						],
+						[
+							135.532394,
+							34.809512
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 116,
+		"favorite_count": 127,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "반 세기 만에 상설 공개가 재개된 1970 오사카엑스포 기념물 '태양의 탑太陽の塔'. 단세포 생물부터 인간까지 이어지는 진화의 역사가 지상에서부터 높이 50미터까지의 무주 공간에 뻗어나가도록 구성한 생명의 나무生命の木 는 압권 그 자체였다. 마지막 사진은 설계자 오카모토 타로(1911-1997) https://t.co/3UStgaPNRO"
+	},
+	{
 		"created_at": "Sat Nov 28 02:05:53 +0000 2020",
 		"id": 1332505966554693600,
 		"id_str": "1332505966554693633",
