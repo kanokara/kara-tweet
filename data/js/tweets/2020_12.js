@@ -1,6 +1,604 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 04 10:10:45 +0000 2020",
+		"id": 1334507618052653000,
+		"id_str": "1334802315035856896",
+		"full_text": "마음을 어렵게 연 사람은 상대방이 좀 이상해도 마음 여는 일이 흔치 않은 일이라 관계를 놓지 못하고, 그 문을 열고 들어온 사람은 원래 집요하고 상대가 거절해도 밀어붙이는 타입이라 그 둘의 관계는 안 좋게 흘러갈 가능성이 높다고 ㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1334507591548821500,
+		"in_reply_to_status_id_str": "1334507591548821504",
+		"in_reply_to_user_id": 1174123830953951200,
+		"in_reply_to_user_id_str": "1174123830953951234",
+		"in_reply_to_screen_name": "onlyswimmin",
+		"user": {
+			"id": 1174123830953951200,
+			"id_str": "1174123830953951234",
+			"name": "타미",
+			"screen_name": "onlyswimmin",
+			"location": "황현진🧡",
+			"description": "트위터 생활에 문제 생기면 죽어버리겟다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 219,
+			"friends_count": 287,
+			"listed_count": 1,
+			"created_at": "Wed Sep 18 01:27:16 +0000 2019",
+			"favourites_count": 371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323478560623923200/ivqZlSJh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323478560623923200/ivqZlSJh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1174123830953951234/1590763706",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1707,
+		"favorite_count": 1072,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "마음을 어렵게 연 사람은 상대방이 좀 이상해도 마음 여는 일이 흔치 않은 일이라 관계를 놓지 못하고, 그 문을 열고 들어온 사람은 원래 집요하고 상대가 거절해도 밀어붙이는 타입이라 그 둘의 관계는 안 좋게 흘러갈 가능성이 높다고 ㅋㅋ"
+	},
+	{
+		"created_at": "Fri Dec 04 10:10:43 +0000 2020",
+		"id": 1334507591548821500,
+		"id_str": "1334802305044992001",
+		"full_text": "요즘 유튜브에서 의사들 영상 많이 보는데 내 얘기 같아서 무릎을 친 내용이 있었음\n경계심 많은 사람은 타인에게 마음을 잘 안 여는데 그 문을 지속적으로 두드려서 기어코 들어가는 사람도 이상할 확률이 높음 (호감 표시했을 때 싫다고 하면 포기하는게 보통)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1174123830953951200,
+			"id_str": "1174123830953951234",
+			"name": "타미",
+			"screen_name": "onlyswimmin",
+			"location": "황현진🧡",
+			"description": "트위터 생활에 문제 생기면 죽어버리겟다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 219,
+			"friends_count": 287,
+			"listed_count": 1,
+			"created_at": "Wed Sep 18 01:27:16 +0000 2019",
+			"favourites_count": 371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323478560623923200/ivqZlSJh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323478560623923200/ivqZlSJh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1174123830953951234/1590763706",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4286,
+		"favorite_count": 3044,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "요즘 유튜브에서 의사들 영상 많이 보는데 내 얘기 같아서 무릎을 친 내용이 있었음\n경계심 많은 사람은 타인에게 마음을 잘 안 여는데 그 문을 지속적으로 두드려서 기어코 들어가는 사람도 이상할 확률이 높음 (호감 표시했을 때 싫다고 하면 포기하는게 보통)"
+	},
+	{
+		"created_at": "Fri Dec 04 10:09:25 +0000 2020",
+		"id": 1334801978791116800,
+		"id_str": "1334801978791116801",
+		"full_text": "@server8key 현해탄을 넘은 우리 우정~ https://t.co/ArZN4dPUZQ",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "server8key",
+					"name": "電磁式サカナ@ジパング",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334801938643181600,
+					"id_str": "1334801938643181571",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/EoYrSoZUYAMJA93.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoYrSoZUYAMJA93.jpg",
+					"url": "https://t.co/ArZN4dPUZQ",
+					"display_url": "pic.twitter.com/ArZN4dPUZQ",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1334801978791116801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 387,
+							"h": 430,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 387,
+							"h": 430,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 387,
+							"h": 430,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334801938643181600,
+					"id_str": "1334801938643181571",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/EoYrSoZUYAMJA93.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoYrSoZUYAMJA93.jpg",
+					"url": "https://t.co/ArZN4dPUZQ",
+					"display_url": "pic.twitter.com/ArZN4dPUZQ",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1334801978791116801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 387,
+							"h": 430,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 387,
+							"h": 430,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 387,
+							"h": 430,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1334799146708947000,
+		"in_reply_to_status_id_str": "1334799146708946947",
+		"in_reply_to_user_id": 1047103952297254900,
+		"in_reply_to_user_id_str": "1047103952297254912",
+		"in_reply_to_screen_name": "server8key",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 92,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1333355617130483712/ZeDhdkAy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1333355617130483712/ZeDhdkAy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@server8key 현해탄을 넘은 우리 우정~ https://t.co/ArZN4dPUZQ"
+	},
+	{
+		"created_at": "Fri Dec 04 09:56:51 +0000 2020",
+		"id": 1334798815166046200,
+		"id_str": "1334798815166046208",
+		"full_text": "인간 관계는 트위터가 있어요 (5명)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1334795849994391600,
+		"in_reply_to_status_id_str": "1334795849994391553",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 92,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1333355617130483712/ZeDhdkAy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1333355617130483712/ZeDhdkAy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "인간 관계는 트위터가 있어요 (5명)"
+	},
+	{
+		"created_at": "Fri Dec 04 09:45:04 +0000 2020",
+		"id": 1334795849994391600,
+		"id_str": "1334795849994391553",
+		"full_text": "남 얘기가 아닌데...\nhttps://t.co/M1qr7sgsSy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M1qr7sgsSy",
+					"expanded_url": "https://twitter.com/seemswicked/status/1332022336376233985?s=19",
+					"display_url": "twitter.com/seemswicked/st…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 92,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1333355617130483712/ZeDhdkAy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1333355617130483712/ZeDhdkAy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1332022336376234000,
+		"quoted_status_id_str": "1332022336376233985",
+		"quoted_status_permalink": {
+			"url": "https://t.co/M1qr7sgsSy",
+			"expanded": "https://twitter.com/seemswicked/status/1332022336376233985?s=19",
+			"display": "twitter.com/seemswicked/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 26 18:04:07 +0000 2020",
+			"id": 1332022336376234000,
+			"id_str": "1332022336376233985",
+			"full_text": "예를 들어 팔삭이를 내가 지금 4년째 보는데... 팔삭이는 친구가 그냥... 없고.. 회사도 그냥... 갔다만 오고... 걔네 집에 들어가본 사람이 걔 말고는 나 하나임... 걔네 엄마도 안가봄.. 그냥... 그런데... 너무 잘 살음...",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				134
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1332022335252140000,
+			"in_reply_to_status_id_str": "1332022335252140033",
+			"in_reply_to_user_id": 3033052879,
+			"in_reply_to_user_id_str": "3033052879",
+			"in_reply_to_screen_name": "seemswicked",
+			"user": {
+				"id": 3033052879,
+				"id_str": "3033052879",
+				"name": "Bluestocking",
+				"screen_name": "seemswicked",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4890,
+				"friends_count": 73,
+				"listed_count": 24,
+				"created_at": "Fri Feb 20 15:42:14 +0000 2015",
+				"favourites_count": 3584,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 68405,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1330988907069124608/th7bnN1m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330988907069124608/th7bnN1m_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 26,
+			"favorite_count": 71,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "남 얘기가 아닌데...\nhttps://t.co/M1qr7sgsSy"
+	},
+	{
 		"created_at": "Fri Dec 04 01:29:56 +0000 2020",
 		"id": 1334671246626226200,
 		"id_str": "1334671246626226177",
