@@ -1,6 +1,390 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 05 11:10:01 +0000 2020",
+		"id": 1335106029638455300,
+		"id_str": "1335179615476674560",
+		"full_text": "하여간... 한때 여주물 보고 싶으면 라노베를 뒤지는 게 좋은 시절이 있었습니다 사실 지금도 그렇게 다른 것 같진 않음. 늘 말하지만 '책벌레의 하극상' 잘 팔리는데 '노맨스 여주판' 원한다는 사람에게는 1도 말이 안나온다니까.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1335105787702603800,
+		"in_reply_to_status_id_str": "1335105787702603778",
+		"in_reply_to_user_id": 1144631613638099000,
+		"in_reply_to_user_id_str": "1144631613638098947",
+		"in_reply_to_screen_name": "Whuibin_Info",
+		"user": {
+			"id": 1144631613638099000,
+			"id_str": "1144631613638098947",
+			"name": "김휘빈",
+			"screen_name": "Whuibin_Info",
+			"location": "대한민국 서울",
+			"description": "쿨하게 공지만 때리고 싶었는데 3트윗만에 망한 장르 작가 계정. 키배, 자덕질, 장르평론으로 삼위일체중. 멘션답변 없을 가능성 높음. whuibink@지메일",
+			"url": "https://t.co/pPCX54qiRR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pPCX54qiRR",
+							"expanded_url": "http://dillyhub.com/home/whuibin",
+							"display_url": "dillyhub.com/home/whuibin",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1610,
+			"friends_count": 0,
+			"listed_count": 8,
+			"created_at": "Fri Jun 28 15:40:17 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10199,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1319561986749820929/aHTyBAeu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1319561986749820929/aHTyBAeu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144631613638098947/1561756317",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "하여간... 한때 여주물 보고 싶으면 라노베를 뒤지는 게 좋은 시절이 있었습니다 사실 지금도 그렇게 다른 것 같진 않음. 늘 말하지만 '책벌레의 하극상' 잘 팔리는데 '노맨스 여주판' 원한다는 사람에게는 1도 말이 안나온다니까."
+	},
+	{
+		"created_at": "Sat Dec 05 11:09:48 +0000 2020",
+		"id": 1335103655347818500,
+		"id_str": "1335179559575068678",
+		"full_text": "일본쪽 서브컬쳐 비평에서는 남성향 라노베가 소녀만화의 규칙을 이용해 소설을 썼다고 말했었어요. 저는 그 부분이 일본 사회의 남성상이 변하며 생긴 일 중 하나라고 생각하긴 하지만, 어쨌든 일본과 한국은 근연하게 관계를 주고 받기 때문에 그 영향은 한국에서도 그대로 이어지긴 했죠. https://t.co/ifyzAWqTwU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ifyzAWqTwU",
+					"expanded_url": "https://twitter.com/evelovestory/status/1335102432641044481",
+					"display_url": "twitter.com/evelovestory/s…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1144631613638099000,
+			"id_str": "1144631613638098947",
+			"name": "김휘빈",
+			"screen_name": "Whuibin_Info",
+			"location": "대한민국 서울",
+			"description": "쿨하게 공지만 때리고 싶었는데 3트윗만에 망한 장르 작가 계정. 키배, 자덕질, 장르평론으로 삼위일체중. 멘션답변 없을 가능성 높음. whuibink@지메일",
+			"url": "https://t.co/pPCX54qiRR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pPCX54qiRR",
+							"expanded_url": "http://dillyhub.com/home/whuibin",
+							"display_url": "dillyhub.com/home/whuibin",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1610,
+			"friends_count": 0,
+			"listed_count": 8,
+			"created_at": "Fri Jun 28 15:40:17 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10199,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1319561986749820929/aHTyBAeu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1319561986749820929/aHTyBAeu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144631613638098947/1561756317",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1335102432641044500,
+		"quoted_status_id_str": "1335102432641044481",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ifyzAWqTwU",
+			"expanded": "https://twitter.com/evelovestory/status/1335102432641044481",
+			"display": "twitter.com/evelovestory/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 05 06:03:19 +0000 2020",
+			"id": 1335102432641044500,
+			"id_str": "1335102432641044481",
+			"full_text": "아 그죠, 고전 순정만화에도 \"나는 그냥 가만히 있는데 다양한 매력의 남자들이 나를 좋아해?!!\"인 거 참 많았잖아요 ㅋㅋ\n\n순정만화 클리셰라고도 얘기되는 거 같은데.. 왜 그걸 \"라노베\" 특징이라고 남성향에 갖다주는지 의문 (..)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				130
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 990327204230844400,
+				"id_str": "990327204230844418",
+				"name": "🏳️‍🌈🏳️‍⚧️",
+				"screen_name": "evelovestory",
+				"location": "",
+				"description": "비계는 맞팔만 받습니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 455,
+				"friends_count": 335,
+				"listed_count": 2,
+				"created_at": "Sat Apr 28 20:29:39 +0000 2018",
+				"favourites_count": 16808,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 43629,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1260491500812734465/82ca2qSq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260491500812734465/82ca2qSq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/990327204230844418/1589359753",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 17,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일본쪽 서브컬쳐 비평에서는 남성향 라노베가 소녀만화의 규칙을 이용해 소설을 썼다고 말했었어요. 저는 그 부분이 일본 사회의 남성상이 변하며 생긴 일 중 하나라고 생각하긴 하지만, 어쨌든 일본과 한국은 근연하게 관계를 주고 받기 때문에 그 영향은 한국에서도 그대로 이어지긴 했죠. https://t.co/ifyzAWqTwU"
+	},
+	{
+		"created_at": "Sat Dec 05 10:57:48 +0000 2020",
+		"id": 1334903200499941400,
+		"id_str": "1335176541882347520",
+		"full_text": "나는 학생때 국어 교과서 받으면 무조건 집에 가서 바로 국어 교과서에 있는 작품 다 읽어보는 애였는데 (공부 잘하려고 x 걍 새 읽을거리 생겨서) 나는 다들 일케 사는줄알앗어 글고 트위터에도 이런 인간이 대다수고..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1212098251064610800,
+			"id_str": "1212098251064610817",
+			"name": "김리톨",
+			"screen_name": "litol_kim",
+			"location": "감성일상계기엔 쑥스럽고 케이팝계정이라기엔 좀...",
+			"description": "역마는 달리고싶다",
+			"url": "https://t.co/3EAuWfSePE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3EAuWfSePE",
+							"expanded_url": "http://peing.net/litol_kim",
+							"display_url": "peing.net/litol_kim",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1220,
+			"friends_count": 97,
+			"listed_count": 3,
+			"created_at": "Tue Dec 31 19:48:44 +0000 2019",
+			"favourites_count": 3395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212447152372248576/1-gfN6Vu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212447152372248576/1-gfN6Vu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1212098251064610817/1577822008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1345,
+		"favorite_count": 1136,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "나는 학생때 국어 교과서 받으면 무조건 집에 가서 바로 국어 교과서에 있는 작품 다 읽어보는 애였는데 (공부 잘하려고 x 걍 새 읽을거리 생겨서) 나는 다들 일케 사는줄알앗어 글고 트위터에도 이런 인간이 대다수고.."
+	},
+	{
 		"created_at": "Fri Dec 04 15:32:16 +0000 2020",
 		"id": 1334883224657436700,
 		"id_str": "1334883224657436674",
