@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 05 11:19:27 +0000 2020",
+		"id": 1335143750645895200,
+		"id_str": "1335181988500627456",
+		"full_text": "읽을 거 없으면 그 다음은 도덕 교과서 읽기 시작함 ㅋㅋ https://t.co/YxsyVslydZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YxsyVslydZ",
+					"expanded_url": "https://twitter.com/litol_kim/status/1334903200499941377",
+					"display_url": "twitter.com/litol_kim/stat…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1272099362475085800,
+			"id_str": "1272099362475085825",
+			"name": "좋은산삼",
+			"screen_name": "goodwildgenseng",
+			"location": "댠민국",
+			"description": "미성년자 | 원공로 사생팬집착녀 | 드림캐, 삼국지톡 코스프레, 손책은낭 주유은매 맞관 지뢰 | 햄버거 기름이 뇌수를 대체중이라서 햄버거먹고싶다가 디폴트임 | 뒷계 @terriblegenseng",
+			"url": "https://t.co/a3DwKt8HLb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a3DwKt8HLb",
+							"expanded_url": "https://goodwildgenseng.postype.com/",
+							"display_url": "goodwildgenseng.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 92,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Sun Jun 14 09:31:45 +0000 2020",
+			"favourites_count": 3821,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323938401624621057/jl5iFF9H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323938401624621057/jl5iFF9H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1272099362475085825/1604488381",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1334903200499941400,
+		"quoted_status_id_str": "1334903200499941377",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YxsyVslydZ",
+			"expanded": "https://twitter.com/litol_kim/status/1334903200499941377",
+			"display": "twitter.com/litol_kim/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 04 16:51:38 +0000 2020",
+			"id": 1334903200499941400,
+			"id_str": "1334903200499941377",
+			"full_text": "나는 학생때 국어 교과서 받으면 무조건 집에 가서 바로 국어 교과서에 있는 작품 다 읽어보는 애였는데 (공부 잘하려고 x 걍 새 읽을거리 생겨서) 나는 다들 일케 사는줄알앗어 글고 트위터에도 이런 인간이 대다수고..",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				120
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1212098251064610800,
+				"id_str": "1212098251064610817",
+				"name": "김리톨",
+				"screen_name": "litol_kim",
+				"location": "감성일상계기엔 쑥스럽고 케이팝계정이라기엔 좀...",
+				"description": "역마는 달리고싶다",
+				"url": "https://t.co/3EAuWfSePE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3EAuWfSePE",
+								"expanded_url": "http://peing.net/litol_kim",
+								"display_url": "peing.net/litol_kim",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1235,
+				"friends_count": 97,
+				"listed_count": 3,
+				"created_at": "Tue Dec 31 19:48:44 +0000 2019",
+				"favourites_count": 3402,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5882,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1212447152372248576/1-gfN6Vu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212447152372248576/1-gfN6Vu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1212098251064610817/1577822008",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1709,
+			"favorite_count": 1472,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "읽을 거 없으면 그 다음은 도덕 교과서 읽기 시작함 ㅋㅋ https://t.co/YxsyVslydZ"
+	},
+	{
 		"created_at": "Sat Dec 05 11:10:01 +0000 2020",
 		"id": 1335106029638455300,
 		"id_str": "1335179615476674560",
@@ -225,7 +432,7 @@ Grailbird.data.tweets_2020_12 =
 			"user": {
 				"id": 990327204230844400,
 				"id_str": "990327204230844418",
-				"name": "🏳️‍🌈🏳️‍⚧️",
+				"name": "🏳️🌈🏳️⚧️",
 				"screen_name": "evelovestory",
 				"location": "",
 				"description": "비계는 맞팔만 받습니다.",
