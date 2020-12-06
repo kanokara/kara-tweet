@@ -1,6 +1,914 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 06 05:03:36 +0000 2020",
+		"id": 1335190790339891200,
+		"id_str": "1335449790885154817",
+		"full_text": "이는 부의 축적 자체를 목적으로 하는 자본주의 경영논리와 같다. 이 논리를 받아들인다면 최근의 소설에서 '각성자' 라는  선택받은 인간을 주인공으로 만들어내는 게 단순히 개인의 노동만으로 자본소득을 역전하는 게 불가능해진 현대사회와 연관되어있지 않나 하는 생각이 듬.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1335190254924402700,
+		"in_reply_to_status_id_str": "1335190254924402689",
+		"in_reply_to_user_id": 1618383439,
+		"in_reply_to_user_id_str": "1618383439",
+		"in_reply_to_screen_name": "sosaring01",
+		"user": {
+			"id": 1618383439,
+			"id_str": "1618383439",
+			"name": "맙/소사🎗",
+			"screen_name": "sosaring01",
+			"location": "",
+			"description": "장르소설 읽고 마작치는 오타쿠. 전주 마작모임 차가운 새벽 진행중.\n프로텍트 계정은 맞팔만 받습니다.",
+			"url": "https://t.co/k5GVbSx9JC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k5GVbSx9JC",
+							"expanded_url": "http://mahjong.or.kr/stat22/",
+							"display_url": "mahjong.or.kr/stat22/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77,
+			"friends_count": 123,
+			"listed_count": 0,
+			"created_at": "Wed Jul 24 18:32:18 +0000 2013",
+			"favourites_count": 454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/612774420201869312/Xepvx2Lq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/612774420201869312/Xepvx2Lq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1618383439/1538739317",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이는 부의 축적 자체를 목적으로 하는 자본주의 경영논리와 같다. 이 논리를 받아들인다면 최근의 소설에서 '각성자' 라는  선택받은 인간을 주인공으로 만들어내는 게 단순히 개인의 노동만으로 자본소득을 역전하는 게 불가능해진 현대사회와 연관되어있지 않나 하는 생각이 듬."
+	},
+	{
+		"created_at": "Sun Dec 06 05:03:24 +0000 2020",
+		"id": 1335190254924402700,
+		"id_str": "1335449741602091008",
+		"full_text": "이 논문에서는 리니지 등의 한국 MMORPG와 그런 시스템을 배경으로 한 게임판타지에서 등장인물들의 목적이 자기절제와 노력을 통한 성장 자체에 있다고 이야기하며 이를 자본주의적 논리를 체화한 주체로 설명함. 게이머의 성장은 목적을 위한 수단이 아니라 그 자체가 목적이 된다는 것인데",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1335188411431309300,
+		"in_reply_to_status_id_str": "1335188411431309315",
+		"in_reply_to_user_id": 1618383439,
+		"in_reply_to_user_id_str": "1618383439",
+		"in_reply_to_screen_name": "sosaring01",
+		"user": {
+			"id": 1618383439,
+			"id_str": "1618383439",
+			"name": "맙/소사🎗",
+			"screen_name": "sosaring01",
+			"location": "",
+			"description": "장르소설 읽고 마작치는 오타쿠. 전주 마작모임 차가운 새벽 진행중.\n프로텍트 계정은 맞팔만 받습니다.",
+			"url": "https://t.co/k5GVbSx9JC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k5GVbSx9JC",
+							"expanded_url": "http://mahjong.or.kr/stat22/",
+							"display_url": "mahjong.or.kr/stat22/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77,
+			"friends_count": 123,
+			"listed_count": 0,
+			"created_at": "Wed Jul 24 18:32:18 +0000 2013",
+			"favourites_count": 454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/612774420201869312/Xepvx2Lq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/612774420201869312/Xepvx2Lq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1618383439/1538739317",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이 논문에서는 리니지 등의 한국 MMORPG와 그런 시스템을 배경으로 한 게임판타지에서 등장인물들의 목적이 자기절제와 노력을 통한 성장 자체에 있다고 이야기하며 이를 자본주의적 논리를 체화한 주체로 설명함. 게이머의 성장은 목적을 위한 수단이 아니라 그 자체가 목적이 된다는 것인데"
+	},
+	{
+		"created_at": "Sun Dec 06 05:03:21 +0000 2020",
+		"id": 1335188411431309300,
+		"id_str": "1335449729522565123",
+		"full_text": "겜판 생각난김에 관련 논문좀 찾아보고 있는데 이거 재밌네 &lt;노동은 어떻게 놀이가 됐는가? : 한국 MMORPG와 게임 판타지 장르소설에 나타난 자기계발의 주체&gt; https://t.co/ny2BTts3Zj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1335188399305543700,
+					"id_str": "1335188399305543681",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EoeKxmjUUAEMY4Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoeKxmjUUAEMY4Z.jpg",
+					"url": "https://t.co/ny2BTts3Zj",
+					"display_url": "pic.twitter.com/ny2BTts3Zj",
+					"expanded_url": "https://twitter.com/sosaring01/status/1335188411431309315/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 502,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 709,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 709,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335188399305543700,
+					"id_str": "1335188399305543681",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EoeKxmjUUAEMY4Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoeKxmjUUAEMY4Z.jpg",
+					"url": "https://t.co/ny2BTts3Zj",
+					"display_url": "pic.twitter.com/ny2BTts3Zj",
+					"expanded_url": "https://twitter.com/sosaring01/status/1335188411431309315/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 502,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 709,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 709,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1618383439,
+			"id_str": "1618383439",
+			"name": "맙/소사🎗",
+			"screen_name": "sosaring01",
+			"location": "",
+			"description": "장르소설 읽고 마작치는 오타쿠. 전주 마작모임 차가운 새벽 진행중.\n프로텍트 계정은 맞팔만 받습니다.",
+			"url": "https://t.co/k5GVbSx9JC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k5GVbSx9JC",
+							"expanded_url": "http://mahjong.or.kr/stat22/",
+							"display_url": "mahjong.or.kr/stat22/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77,
+			"friends_count": 123,
+			"listed_count": 0,
+			"created_at": "Wed Jul 24 18:32:18 +0000 2013",
+			"favourites_count": 454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/612774420201869312/Xepvx2Lq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/612774420201869312/Xepvx2Lq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1618383439/1538739317",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 124,
+		"favorite_count": 120,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "겜판 생각난김에 관련 논문좀 찾아보고 있는데 이거 재밌네 &lt;노동은 어떻게 놀이가 됐는가? : 한국 MMORPG와 게임 판타지 장르소설에 나타난 자기계발의 주체&gt; https://t.co/ny2BTts3Zj"
+	},
+	{
+		"created_at": "Sun Dec 06 05:01:21 +0000 2020",
+		"id": 1335444620398841900,
+		"id_str": "1335449226059235331",
+		"full_text": "@sh_2912 정말 독자를 완벽하게 고려하여 쓴 작품이니 역시 천재입니다!ㅋㅋㅋ자신과 전혀 다른 독자인데도요!ㅋㅋㅋ물론 그가 유교 가부장제서 가장 알파는 아니었고 그러다보니 약간은 좀 뭐랄까, 여성적 입장인 면도 있긴 했지만요....대단은 합니다ㅋㅋㅋㅋ한국로판의 역사는 17세기로 올라간다!ㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sh_2912",
+					"name": "pika😷🇭🇰manju",
+					"id": 1974557671,
+					"id_str": "1974557671",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1335444039919792000,
+		"in_reply_to_status_id_str": "1335444039919792134",
+		"in_reply_to_user_id": 1974557671,
+		"in_reply_to_user_id_str": "1974557671",
+		"in_reply_to_screen_name": "sh_2912",
+		"user": {
+			"id": 925541674889052200,
+			"id_str": "925541674889052160",
+			"name": "나하야",
+			"screen_name": "SnAsnaJA2221",
+			"location": "",
+			"description": "FUB Free. 현재 장국의 알타이르가 주력입니다. 쉬운 인간이고 장알토크는 환영이니 편하게 덕톡 걸어주세요. 아래 링크로 오시면.....제 비루한 팬픽과, 장알 사주 봐드립니다. 복채는 장알 영업, 신간 구입, 팬워크입니다.\nhttps://t.co/VSet4FtdAu",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VSet4FtdAu",
+							"expanded_url": "https://dearest-52.postype.com",
+							"display_url": "dearest-52.postype.com",
+							"indices": [
+								128,
+								151
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Wed Nov 01 01:55:05 +0000 2017",
+			"favourites_count": 6265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 128190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1190083594716434433/ydZuosk6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190083594716434433/ydZuosk6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/925541674889052160/1570963208",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@sh_2912 정말 독자를 완벽하게 고려하여 쓴 작품이니 역시 천재입니다!ㅋㅋㅋ자신과 전혀 다른 독자인데도요!ㅋㅋㅋ물론 그가 유교 가부장제서 가장 알파는 아니었고 그러다보니 약간은 좀 뭐랄까, 여성적 입장인 면도 있긴 했지만요....대단은 합니다ㅋㅋㅋㅋ한국로판의 역사는 17세기로 올라간다!ㅋㅋㅋ"
+	},
+	{
+		"created_at": "Sun Dec 06 05:01:19 +0000 2020",
+		"id": 1335444039919792000,
+		"id_str": "1335449215367974912",
+		"full_text": "@SnAsnaJA2221 어머니 취향으로 글쓰다 보니 로판의 시조가 된 셈이네요.....",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SnAsnaJA2221",
+					"name": "나하야",
+					"id": 925541674889052200,
+					"id_str": "925541674889052160",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1335443700902588400,
+		"in_reply_to_status_id_str": "1335443700902588416",
+		"in_reply_to_user_id": 925541674889052200,
+		"in_reply_to_user_id_str": "925541674889052160",
+		"in_reply_to_screen_name": "SnAsnaJA2221",
+		"user": {
+			"id": 1974557671,
+			"id_str": "1974557671",
+			"name": "pika😷🇭🇰manju",
+			"screen_name": "sh_2912",
+			"location": "탐라 최고의 고대 이집트 덕후 포지션을 맡고 있습니다.",
+			"description": "20↑ 구독&연성 홍보계. 더블오, 정딸, VVV, 내스급.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 93,
+			"friends_count": 63,
+			"listed_count": 0,
+			"created_at": "Sun Oct 20 09:34:46 +0000 2013",
+			"favourites_count": 17225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77923,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265305978154520580/Z_z6RjT2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265305978154520580/Z_z6RjT2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1974557671/1591962510",
+			"profile_link_color": "65737B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@SnAsnaJA2221 어머니 취향으로 글쓰다 보니 로판의 시조가 된 셈이네요....."
+	},
+	{
+		"created_at": "Sun Dec 06 05:01:05 +0000 2020",
+		"id": 1335443700902588400,
+		"id_str": "1335449159365586945",
+		"full_text": "그리고 보니 휘빈 작가님이 로판의 독자는 시어머니 관점이라고 한 트윗이 있었지.....드디어.....미스터리는 풀렸습니다!ㅋㅋㅋ그리고 김만중은 정말 난작가는 난작가로.....구운몽에 사씨남정기까지, 아니 이 아저씨 정말 현대 로판의 조상으로 제사 지내도 되잖아?!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 925541674889052200,
+			"id_str": "925541674889052160",
+			"name": "나하야",
+			"screen_name": "SnAsnaJA2221",
+			"location": "",
+			"description": "FUB Free. 현재 장국의 알타이르가 주력입니다. 쉬운 인간이고 장알토크는 환영이니 편하게 덕톡 걸어주세요. 아래 링크로 오시면.....제 비루한 팬픽과, 장알 사주 봐드립니다. 복채는 장알 영업, 신간 구입, 팬워크입니다.\nhttps://t.co/VSet4FtdAu",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VSet4FtdAu",
+							"expanded_url": "https://dearest-52.postype.com",
+							"display_url": "dearest-52.postype.com",
+							"indices": [
+								128,
+								151
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 74,
+			"listed_count": 0,
+			"created_at": "Wed Nov 01 01:55:05 +0000 2017",
+			"favourites_count": 6265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 128190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1190083594716434433/ydZuosk6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190083594716434433/ydZuosk6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/925541674889052160/1570963208",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그리고 보니 휘빈 작가님이 로판의 독자는 시어머니 관점이라고 한 트윗이 있었지.....드디어.....미스터리는 풀렸습니다!ㅋㅋㅋ그리고 김만중은 정말 난작가는 난작가로.....구운몽에 사씨남정기까지, 아니 이 아저씨 정말 현대 로판의 조상으로 제사 지내도 되잖아?!"
+	},
+	{
+		"created_at": "Sun Dec 06 05:00:15 +0000 2020",
+		"id": 1335427669840695300,
+		"id_str": "1335448947150659584",
+		"full_text": "근데 대부분은 그 가난에서 죽어가지 \n가난에서 성공을 하려면 자기가 가진 무형적인 자원이 뭔지 정확히 알고 끌어모아서 놓치지 말아야 한다...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1335419877033558000,
+		"in_reply_to_status_id_str": "1335419877033558017",
+		"in_reply_to_user_id": 1263094464626585600,
+		"in_reply_to_user_id_str": "1263094464626585603",
+		"in_reply_to_screen_name": "greenorwrite",
+		"user": {
+			"id": 1263094464626585600,
+			"id_str": "1263094464626585603",
+			"name": "녹👩‍💻🍤",
+			"screen_name": "greenorwrite",
+			"location": "시각미디어를 기술적으로 구현하는 여성 ",
+			"description": "푸르거나 기록하거나",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86,
+			"friends_count": 135,
+			"listed_count": 0,
+			"created_at": "Wed May 20 13:09:29 +0000 2020",
+			"favourites_count": 1011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1335144489153744896/u6LgeHfp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1335144489153744896/u6LgeHfp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1263094464626585603/1607158227",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "근데 대부분은 그 가난에서 죽어가지 \n가난에서 성공을 하려면 자기가 가진 무형적인 자원이 뭔지 정확히 알고 끌어모아서 놓치지 말아야 한다..."
+	},
+	{
+		"created_at": "Sun Dec 06 05:00:13 +0000 2020",
+		"id": 1335419877033558000,
+		"id_str": "1335448939315613697",
+		"full_text": "없는 자원에서 그나마 최고로 좋은 선택을 하려고 하는 훈련? 이런데서 뭐가 발달하는 것 같긴 함...촉인지 뭔지 감이 좋고 좀 원하는게 있으면 물어뜯듯이 달려드는 그런것도 생긴거같음 그래서 가난이 꼭 나쁜면만 있는 것도 아닌 것 같단 생각이 들긴 함...헝그리정신같은거지 난 진짜헝그리지만",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1335419428830208000,
+		"in_reply_to_status_id_str": "1335419428830208002",
+		"in_reply_to_user_id": 1263094464626585600,
+		"in_reply_to_user_id_str": "1263094464626585603",
+		"in_reply_to_screen_name": "greenorwrite",
+		"user": {
+			"id": 1263094464626585600,
+			"id_str": "1263094464626585603",
+			"name": "녹👩‍💻🍤",
+			"screen_name": "greenorwrite",
+			"location": "시각미디어를 기술적으로 구현하는 여성 ",
+			"description": "푸르거나 기록하거나",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86,
+			"friends_count": 135,
+			"listed_count": 0,
+			"created_at": "Wed May 20 13:09:29 +0000 2020",
+			"favourites_count": 1011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1335144489153744896/u6LgeHfp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1335144489153744896/u6LgeHfp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1263094464626585603/1607158227",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "없는 자원에서 그나마 최고로 좋은 선택을 하려고 하는 훈련? 이런데서 뭐가 발달하는 것 같긴 함...촉인지 뭔지 감이 좋고 좀 원하는게 있으면 물어뜯듯이 달려드는 그런것도 생긴거같음 그래서 가난이 꼭 나쁜면만 있는 것도 아닌 것 같단 생각이 들긴 함...헝그리정신같은거지 난 진짜헝그리지만"
+	},
+	{
+		"created_at": "Sun Dec 06 05:00:03 +0000 2020",
+		"id": 1335427119732551700,
+		"id_str": "1335448899838902272",
+		"full_text": "@greenorwrite 저도 돈이 많았음 좋겠다 생각한건\n실패를 할 수 있다는거였어요ㅠㅠ..돈이 다는 아니지만 저에겐 실패할 수 있는 금전적 시간적 여유따윈 없습니다.. 원코인으로 마리오 끝판까지 다 깨야하는 목숨1짜리 플레이어같다구요ㅠ...",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "greenorwrite",
+					"name": "녹👩‍💻🍤",
+					"id": 1263094464626585600,
+					"id_str": "1263094464626585603",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1335419066631110700,
+		"in_reply_to_status_id_str": "1335419066631110658",
+		"in_reply_to_user_id": 1263094464626585600,
+		"in_reply_to_user_id_str": "1263094464626585603",
+		"in_reply_to_screen_name": "greenorwrite",
+		"user": {
+			"id": 1255077757333065700,
+			"id_str": "1255077757333065728",
+			"name": "뽀람지",
+			"screen_name": "pp0ramzi__",
+			"location": "블블은자유롭게,,",
+			"description": "백엔드 개발자가 될 것 같은 사람 그리고 일상구독계",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36,
+			"friends_count": 102,
+			"listed_count": 0,
+			"created_at": "Tue Apr 28 10:13:55 +0000 2020",
+			"favourites_count": 1338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1255077918239109121/eADX6LiE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255077918239109121/eADX6LiE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@greenorwrite 저도 돈이 많았음 좋겠다 생각한건\n실패를 할 수 있다는거였어요ㅠㅠ..돈이 다는 아니지만 저에겐 실패할 수 있는 금전적 시간적 여유따윈 없습니다.. 원코인으로 마리오 끝판까지 다 깨야하는 목숨1짜리 플레이어같다구요ㅠ..."
+	},
+	{
 		"created_at": "Sun Dec 06 02:08:30 +0000 2020",
 		"id": 1335405728065052700,
 		"id_str": "1335405728065052673",
