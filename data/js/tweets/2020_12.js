@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 06 17:07:54 +0000 2020",
+		"id": 1335632066180837400,
+		"id_str": "1335632066180837377",
+		"full_text": "@cocomi_twit ~~인간 혐오 계정에 어서오세요~~",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cocomi_twit",
+					"name": "코코미",
+					"id": 993793751628722200,
+					"id_str": "993793751628722177",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1335542738784141300,
+		"in_reply_to_status_id_str": "1335542738784141315",
+		"in_reply_to_user_id": 993793751628722200,
+		"in_reply_to_user_id_str": "993793751628722177",
+		"in_reply_to_screen_name": "cocomi_twit",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 92,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2734,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12681,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334803143096377345/Hg942QqD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334803143096377345/Hg942QqD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@cocomi_twit ~~인간 혐오 계정에 어서오세요~~"
+	},
+	{
 		"created_at": "Sun Dec 06 05:03:36 +0000 2020",
 		"id": 1335190790339891200,
 		"id_str": "1335449790885154817",
@@ -677,7 +770,7 @@ Grailbird.data.tweets_2020_12 =
 		"user": {
 			"id": 1263094464626585600,
 			"id_str": "1263094464626585603",
-			"name": "녹👩‍💻🍤",
+			"name": "녹👩💻🍤",
 			"screen_name": "greenorwrite",
 			"location": "시각미디어를 기술적으로 구현하는 여성 ",
 			"description": "푸르거나 기록하거나",
@@ -759,7 +852,7 @@ Grailbird.data.tweets_2020_12 =
 		"user": {
 			"id": 1263094464626585600,
 			"id_str": "1263094464626585603",
-			"name": "녹👩‍💻🍤",
+			"name": "녹👩💻🍤",
 			"screen_name": "greenorwrite",
 			"location": "시각미디어를 기술적으로 구현하는 여성 ",
 			"description": "푸르거나 기록하거나",
@@ -832,7 +925,7 @@ Grailbird.data.tweets_2020_12 =
 			"user_mentions": [
 				{
 					"screen_name": "greenorwrite",
-					"name": "녹👩‍💻🍤",
+					"name": "녹👩💻🍤",
 					"id": 1263094464626585600,
 					"id_str": "1263094464626585603",
 					"indices": [
