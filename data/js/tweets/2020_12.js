@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 07 03:43:17 +0000 2020",
+		"id": 1335791965837803500,
+		"id_str": "1335791965837803520",
+		"full_text": "@server8key 예전엔 입시미술 영향이나 특유의 색감 같은 거에서 느껴졌는데, 요즘은 잘 모르겠어요.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "server8key",
+					"name": "네프요나",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1335791267599421400,
+		"in_reply_to_status_id_str": "1335791267599421442",
+		"in_reply_to_user_id": 1047103952297254900,
+		"in_reply_to_user_id_str": "1047103952297254912",
+		"in_reply_to_screen_name": "server8key",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 92,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2734,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334803143096377345/Hg942QqD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334803143096377345/Hg942QqD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@server8key 예전엔 입시미술 영향이나 특유의 색감 같은 거에서 느껴졌는데, 요즘은 잘 모르겠어요."
+	},
+	{
 		"created_at": "Mon Dec 07 03:10:26 +0000 2020",
 		"id": 1335783701804843000,
 		"id_str": "1335783701804843009",
