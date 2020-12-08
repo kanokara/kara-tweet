@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 08 04:51:54 +0000 2020",
+		"id": 1336171622303068200,
+		"id_str": "1336171622303068162",
+		"full_text": "한국에서도 작년 하반기에 판매를 시작해서 조용히 35만부(시리즈 9권)를 팔았다고 하더라고요. 국내 방영이 이뤄지면 꽤 이름 있는 작품이 되겠어요.\nhttps://t.co/GLWBYVCpZD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GLWBYVCpZD",
+					"expanded_url": "https://twitter.com/y_akari/status/1336133474156118016?s=19",
+					"display_url": "twitter.com/y_akari/status…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 92,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2737,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12694,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334803143096377345/Hg942QqD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334803143096377345/Hg942QqD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1336133474156118000,
+		"quoted_status_id_str": "1336133474156118016",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GLWBYVCpZD",
+			"expanded": "https://twitter.com/y_akari/status/1336133474156118016?s=19",
+			"display": "twitter.com/y_akari/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 08 02:20:19 +0000 2020",
+			"id": 1336133474156118000,
+			"id_str": "1336133474156118016",
+			"full_text": "9月からEテレで放送スタートしたアニメ「ふしぎ駄菓子屋 銭天堂」ですが、おかげさまで視聴率も大変良く、原作も伸びているようです...！「学校でブームが来てる！」「図書館の貸出が100人待ち」「続きが気になって原作買いました」等、どんどん温まっている感じがあります🔥　https://t.co/skfCagVhej",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				156
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/skfCagVhej",
+						"expanded_url": "https://www6.nhk.or.jp/anime/program/detail.html?i=zenitendo",
+						"display_url": "www6.nhk.or.jp/anime/program/…",
+						"indices": [
+							133,
+							156
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 148675118,
+				"id_str": "148675118",
+				"name": "柳川あかり ⌇ Akari Yanagawa",
+				"screen_name": "y_akari",
+				"location": "",
+				"description": "Animation Producer based in Japan ⌇アニメのプロデューサー⌇『ふしぎ駄菓子屋 #銭天堂』放送スタート📺⌇過去の仕事▶︎ #スタプリ #プリキュア #おしりたんてい #アプモン ワートリ以前は営業",
+				"url": "https://t.co/K56sWeRdiZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/K56sWeRdiZ",
+								"expanded_url": "http://Instagram.com/akariyanagawa",
+								"display_url": "Instagram.com/akariyanagawa",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11664,
+				"friends_count": 1610,
+				"listed_count": 329,
+				"created_at": "Thu May 27 09:24:24 +0000 2010",
+				"favourites_count": 40779,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15938,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B6BFB9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1323123773634043904/rM4_DxOr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323123773634043904/rM4_DxOr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/148675118/1502512171",
+				"profile_link_color": "F20593",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "7C2671",
+				"profile_text_color": "E72C5A",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 46,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한국에서도 작년 하반기에 판매를 시작해서 조용히 35만부(시리즈 9권)를 팔았다고 하더라고요. 국내 방영이 이뤄지면 꽤 이름 있는 작품이 되겠어요.\nhttps://t.co/GLWBYVCpZD"
+	},
+	{
 		"created_at": "Tue Dec 08 01:51:57 +0000 2020",
 		"id": 1336126337262579700,
 		"id_str": "1336126337262579713",
