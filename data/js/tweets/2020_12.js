@@ -1,6 +1,361 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 09 09:19:56 +0000 2020",
+		"id": 1336601463385034800,
+		"id_str": "1336601463385034752",
+		"full_text": "스케치업을 소품이나 배경에 많이 쓰는 건 알았지만 이건 좀 놀랍네요...\nhttps://t.co/qimTOiK7VP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qimTOiK7VP",
+					"expanded_url": "https://twitter.com/haba_cartoonlab/status/1323428568387342338?s=19",
+					"display_url": "twitter.com/haba_cartoonla…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 92,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334803143096377345/Hg942QqD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334803143096377345/Hg942QqD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1323428568387342300,
+		"quoted_status_id_str": "1323428568387342338",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qimTOiK7VP",
+			"expanded": "https://twitter.com/haba_cartoonlab/status/1323428568387342338?s=19",
+			"display": "twitter.com/haba_cartoonla…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 03 00:55:33 +0000 2020",
+			"id": 1323428568387342300,
+			"id_str": "1323428568387342338",
+			"full_text": "카카오페이지에서 인기리에 연재 중인 웹툰 &lt;녹음의 관&gt; 에, 다온크리에이티브에서 주문해주신 반지가 가주의 반지 '청염'으로 등장합니다!\n\n작품 속에서 굉장히 의미있게 사용되어서 보는 내내 기쁘고 뿌듯하네요🤭\n\nhttps://t.co/y7l2rqxoLD https://t.co/xPaiMHbQme",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				146
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/y7l2rqxoLD",
+						"expanded_url": "https://page.kakao.com/home?seriesId=55889891",
+						"display_url": "page.kakao.com/home?seriesId=…",
+						"indices": [
+							123,
+							146
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1323428406898253800,
+						"id_str": "1323428406898253824",
+						"indices": [
+							147,
+							170
+						],
+						"media_url": "http://pbs.twimg.com/media/El3DH87U4AAzuYN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/El3DH87U4AAzuYN.jpg",
+						"url": "https://t.co/xPaiMHbQme",
+						"display_url": "pic.twitter.com/xPaiMHbQme",
+						"expanded_url": "https://twitter.com/haba_cartoonlab/status/1323428568387342338/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 746,
+								"h": 999,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 508,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 746,
+								"h": 999,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1323428406898253800,
+						"id_str": "1323428406898253824",
+						"indices": [
+							147,
+							170
+						],
+						"media_url": "http://pbs.twimg.com/media/El3DH87U4AAzuYN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/El3DH87U4AAzuYN.jpg",
+						"url": "https://t.co/xPaiMHbQme",
+						"display_url": "pic.twitter.com/xPaiMHbQme",
+						"expanded_url": "https://twitter.com/haba_cartoonlab/status/1323428568387342338/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 746,
+								"h": 999,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 508,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 746,
+								"h": 999,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1323428447847243800,
+						"id_str": "1323428447847243777",
+						"indices": [
+							147,
+							170
+						],
+						"media_url": "http://pbs.twimg.com/media/El3DKVeU4AETNtS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/El3DKVeU4AETNtS.jpg",
+						"url": "https://t.co/xPaiMHbQme",
+						"display_url": "pic.twitter.com/xPaiMHbQme",
+						"expanded_url": "https://twitter.com/haba_cartoonlab/status/1323428568387342338/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 620,
+								"h": 507,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 620,
+								"h": 507,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 620,
+								"h": 507,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1323428470228086800,
+						"id_str": "1323428470228086784",
+						"indices": [
+							147,
+							170
+						],
+						"media_url": "http://pbs.twimg.com/media/El3DLo2VcAAz4Ei.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/El3DLo2VcAAz4Ei.jpg",
+						"url": "https://t.co/xPaiMHbQme",
+						"display_url": "pic.twitter.com/xPaiMHbQme",
+						"expanded_url": "https://twitter.com/haba_cartoonlab/status/1323428568387342338/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 562,
+								"h": 750,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 562,
+								"h": 750,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1156443169661182000,
+			"in_reply_to_status_id_str": "1156443169661181952",
+			"in_reply_to_user_id": 917759870643793900,
+			"in_reply_to_user_id_str": "917759870643793922",
+			"in_reply_to_screen_name": "haba_cartoonlab",
+			"user": {
+				"id": 917759870643793900,
+				"id_str": "917759870643793922",
+				"name": "하바",
+				"screen_name": "haba_cartoonlab",
+				"location": "대한민국 서울",
+				"description": "만화 배경, 소품 제작 || 주문제작X || Email: habacartoonlab@naver.com",
+				"url": "https://t.co/xPrRn0PF83",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xPrRn0PF83",
+								"expanded_url": "https://smartstore.naver.com/habacartoonlab/",
+								"display_url": "smartstore.naver.com/habacartoonlab/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2260,
+				"friends_count": 152,
+				"listed_count": 14,
+				"created_at": "Tue Oct 10 14:32:59 +0000 2017",
+				"favourites_count": 833,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 119,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1096939455942864896/dbrYP6i8_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096939455942864896/dbrYP6i8_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/917759870643793922/1588917957",
+				"profile_link_color": "60CBE1",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 63,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "스케치업을 소품이나 배경에 많이 쓰는 건 알았지만 이건 좀 놀랍네요...\nhttps://t.co/qimTOiK7VP"
+	},
+	{
 		"created_at": "Wed Dec 09 06:43:32 +0000 2020",
 		"id": 1336562105089069000,
 		"id_str": "1336562105089069058",
