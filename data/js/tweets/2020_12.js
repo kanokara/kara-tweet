@@ -1,6 +1,1343 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 09 02:46:12 +0000 2020",
+		"id": 663584946674536400,
+		"id_str": "1336502375889006592",
+		"full_text": "우리 엄마는 나를 죽였고\n우리 아빠는 나를 먹었네~\n누이동생 마를렌은\n내 뼈를 모두 찾아\n비단천에 곱게 감싸\n노간주나무 아래 놓아 주었네~\n삐릿, 삐릿~ 난 정말 예쁜 새야~!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4156764373,
+			"id_str": "4156764373",
+			"name": "독백",
+			"screen_name": "Utterfia_inside",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16,
+			"friends_count": 2,
+			"listed_count": 0,
+			"created_at": "Sat Nov 07 11:45:33 +0000 2015",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/662959470478135296/RyjXCWl0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/662959470478135296/RyjXCWl0_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "우리 엄마는 나를 죽였고\n우리 아빠는 나를 먹었네~\n누이동생 마를렌은\n내 뼈를 모두 찾아\n비단천에 곱게 감싸\n노간주나무 아래 놓아 주었네~\n삐릿, 삐릿~ 난 정말 예쁜 새야~!"
+	},
+	{
+		"created_at": "Wed Dec 09 02:44:52 +0000 2020",
+		"id": 1336502041431003100,
+		"id_str": "1336502041431003137",
+		"full_text": "우리 엄마는 나를 죽였고\n우리 아빠는 나를 먹었네.\n누이동생 마를렌은 내 뼈를 빠짐없이 추스려서\n곱디고운 비단으로 정성껏 싸서\n고목나무 밑에 묻었네.\n짹짹 짹짹! 나같이 예쁜 새가 또 어디 있을까?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 92,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2745,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334803143096377345/Hg942QqD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334803143096377345/Hg942QqD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "우리 엄마는 나를 죽였고\n우리 아빠는 나를 먹었네.\n누이동생 마를렌은 내 뼈를 빠짐없이 추스려서\n곱디고운 비단으로 정성껏 싸서\n고목나무 밑에 묻었네.\n짹짹 짹짹! 나같이 예쁜 새가 또 어디 있을까?"
+	},
+	{
+		"created_at": "Wed Dec 09 02:42:26 +0000 2020",
+		"id": 1336473964487483400,
+		"id_str": "1336501429616300032",
+		"full_text": "보통 중간관리자쯤 되면 부서내 인력배치를 어떻게 할것인가 하는 교육을 받아요 업무특성별로 어떻게 배치하고 인원마다 경력경험을 어떻게 조율할것인가 하는 부분을 말이죠. 즉 회사가 해줘야 하는 부분이 엄연히 존재하는데 https://t.co/A2zTxAQAcF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A2zTxAQAcF",
+					"expanded_url": "https://twitter.com/Marion0411/status/1336190866814160896",
+					"display_url": "twitter.com/Marion0411/sta…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 81994673,
+			"id_str": "81994673",
+			"name": "하나님의전립선지킴이175",
+			"screen_name": "seventeeeeeenth",
+			"location": "boobs.oppai.가슴",
+			"description": "그 분은 나의 목자시며, 저는 그 분의 시인이며 제 몸은 그 분의 악기입니다. 아...흣....",
+			"url": "https://t.co/FA1H8H92Qw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FA1H8H92Qw",
+							"expanded_url": "http://ask.fm/seventeeeeeenth",
+							"display_url": "ask.fm/seventeeeeeenth",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2631,
+			"friends_count": 1318,
+			"listed_count": 34,
+			"created_at": "Tue Oct 13 02:49:55 +0000 2009",
+			"favourites_count": 11981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 159006,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306516497418784768/lU_kTGbM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306516497418784768/lU_kTGbM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/81994673/1427901868",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1336190866814161000,
+		"quoted_status_id_str": "1336190866814160896",
+		"quoted_status_permalink": {
+			"url": "https://t.co/A2zTxAQAcF",
+			"expanded": "https://twitter.com/Marion0411/status/1336190866814160896",
+			"display": "twitter.com/Marion0411/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 08 06:08:22 +0000 2020",
+			"id": 1336190866814161000,
+			"id_str": "1336190866814160896",
+			"full_text": "소위 일 잘한다는 사람들이 알려주는 노하우가 번아웃으로 가는 지름길과 종이 한장 차이로 맞닿아 있다는 거. https://t.co/xd39PlsmzI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				59
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xd39PlsmzI",
+						"expanded_url": "https://twitter.com/kas2a_rr/status/1336160653967380480",
+						"display_url": "twitter.com/kas2a_rr/statu…",
+						"indices": [
+							60,
+							83
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2281840261,
+				"id_str": "2281840261",
+				"name": "Marion",
+				"screen_name": "Marion0411",
+				"location": "",
+				"description": "‘지각있고 상식적인 알콜성애자’ https://t.co/fcUp84F3j0",
+				"url": "https://t.co/fz1iTmISsu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fz1iTmISsu",
+								"expanded_url": "https://www.youtube.com/channel/UCWJS6T1UbgPflOdZdGs1RGA",
+								"display_url": "youtube.com/channel/UCWJS6…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/fcUp84F3j0",
+								"expanded_url": "https://blog.naver.com/tazimarinon",
+								"display_url": "blog.naver.com/tazimarinon",
+								"indices": [
+									18,
+									41
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4042,
+				"friends_count": 590,
+				"listed_count": 13,
+				"created_at": "Wed Jan 08 08:47:58 +0000 2014",
+				"favourites_count": 11518,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 29611,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836899519673544704/sUj8KhSK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836899519673544704/sUj8KhSK_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1336160653967380500,
+			"quoted_status_id_str": "1336160653967380480",
+			"quoted_status_permalink": {
+				"url": "https://t.co/xd39PlsmzI",
+				"expanded": "https://twitter.com/kas2a_rr/status/1336160653967380480",
+				"display": "twitter.com/kas2a_rr/statu…"
+			},
+			"retweet_count": 139,
+			"favorite_count": 65,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보통 중간관리자쯤 되면 부서내 인력배치를 어떻게 할것인가 하는 교육을 받아요 업무특성별로 어떻게 배치하고 인원마다 경력경험을 어떻게 조율할것인가 하는 부분을 말이죠. 즉 회사가 해줘야 하는 부분이 엄연히 존재하는데 https://t.co/A2zTxAQAcF"
+	},
+	{
+		"created_at": "Wed Dec 09 02:42:18 +0000 2020",
+		"id": 1336190866814161000,
+		"id_str": "1336501394514214912",
+		"full_text": "소위 일 잘한다는 사람들이 알려주는 노하우가 번아웃으로 가는 지름길과 종이 한장 차이로 맞닿아 있다는 거. https://t.co/xd39PlsmzI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xd39PlsmzI",
+					"expanded_url": "https://twitter.com/kas2a_rr/status/1336160653967380480",
+					"display_url": "twitter.com/kas2a_rr/statu…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2281840261,
+			"id_str": "2281840261",
+			"name": "Marion",
+			"screen_name": "Marion0411",
+			"location": "",
+			"description": "‘지각있고 상식적인 알콜성애자’ https://t.co/fcUp84F3j0",
+			"url": "https://t.co/fz1iTmISsu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fz1iTmISsu",
+							"expanded_url": "https://www.youtube.com/channel/UCWJS6T1UbgPflOdZdGs1RGA",
+							"display_url": "youtube.com/channel/UCWJS6…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fcUp84F3j0",
+							"expanded_url": "https://blog.naver.com/tazimarinon",
+							"display_url": "blog.naver.com/tazimarinon",
+							"indices": [
+								18,
+								41
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4042,
+			"friends_count": 590,
+			"listed_count": 13,
+			"created_at": "Wed Jan 08 08:47:58 +0000 2014",
+			"favourites_count": 11518,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/836899519673544704/sUj8KhSK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/836899519673544704/sUj8KhSK_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1336160653967380500,
+		"quoted_status_id_str": "1336160653967380480",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xd39PlsmzI",
+			"expanded": "https://twitter.com/kas2a_rr/status/1336160653967380480",
+			"display": "twitter.com/kas2a_rr/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 08 04:08:19 +0000 2020",
+			"id": 1336160653967380500,
+			"id_str": "1336160653967380480",
+			"full_text": "'@: 이렇게 경영팀에서 사람 갈굴때 쓰는 메뉴얼을 들고 나오시다니 이런 도식은 대부분 회사에서 존나 굴러먹어서 번아웃 왔는데 제때 쉬지도 못한 직원들에게서 나타남 가끔 잘못뽑은 직원이 이러기도 하는데 우리나라 대부분은 돈도 적게 주고 일만 왕창 줘서 사람이 지쳐 일을 질질 끌게 만들음 https://t.co/4Fnl34umuU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				160
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4Fnl34umuU",
+						"expanded_url": "https://twitter.com/plafina/status/1335941784900227077",
+						"display_url": "twitter.com/plafina/status…",
+						"indices": [
+							161,
+							184
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 182462308,
+				"id_str": "182462308",
+				"name": "KAS2A",
+				"screen_name": "KAS2A_RR",
+				"location": "레드그레이브시티 엘리아노드구",
+				"description": "극우보수1호선1라른 리버스 보면 혐성풀버스트",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4962,
+				"friends_count": 226,
+				"listed_count": 10,
+				"created_at": "Tue Aug 24 17:13:01 +0000 2010",
+				"favourites_count": 19459,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 175632,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1325743602182483968/GqqPvanw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325743602182483968/GqqPvanw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/182462308/1554163040",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1335941784900227000,
+			"quoted_status_id_str": "1335941784900227077",
+			"quoted_status_permalink": {
+				"url": "https://t.co/4Fnl34umuU",
+				"expanded": "https://twitter.com/plafina/status/1335941784900227077",
+				"display": "twitter.com/plafina/status…"
+			},
+			"retweet_count": 1574,
+			"favorite_count": 386,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 139,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소위 일 잘한다는 사람들이 알려주는 노하우가 번아웃으로 가는 지름길과 종이 한장 차이로 맞닿아 있다는 거. https://t.co/xd39PlsmzI"
+	},
+	{
+		"created_at": "Wed Dec 09 02:42:12 +0000 2020",
+		"id": 1336160653967380500,
+		"id_str": "1336501371583918082",
+		"full_text": "'@: 이렇게 경영팀에서 사람 갈굴때 쓰는 메뉴얼을 들고 나오시다니 이런 도식은 대부분 회사에서 존나 굴러먹어서 번아웃 왔는데 제때 쉬지도 못한 직원들에게서 나타남 가끔 잘못뽑은 직원이 이러기도 하는데 우리나라 대부분은 돈도 적게 주고 일만 왕창 줘서 사람이 지쳐 일을 질질 끌게 만들음 https://t.co/4Fnl34umuU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4Fnl34umuU",
+					"expanded_url": "https://twitter.com/plafina/status/1335941784900227077",
+					"display_url": "twitter.com/plafina/status…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 182462308,
+			"id_str": "182462308",
+			"name": "KAS2A",
+			"screen_name": "KAS2A_RR",
+			"location": "레드그레이브시티 엘리아노드구",
+			"description": "극우보수1호선1라른 리버스 보면 혐성풀버스트",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4962,
+			"friends_count": 226,
+			"listed_count": 10,
+			"created_at": "Tue Aug 24 17:13:01 +0000 2010",
+			"favourites_count": 19459,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 175632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325743602182483968/GqqPvanw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325743602182483968/GqqPvanw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/182462308/1554163040",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1335941784900227000,
+		"quoted_status_id_str": "1335941784900227077",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4Fnl34umuU",
+			"expanded": "https://twitter.com/plafina/status/1335941784900227077",
+			"display": "twitter.com/plafina/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 07 13:38:36 +0000 2020",
+			"id": 1335941784900227000,
+			"id_str": "1335941784900227077",
+			"full_text": "@: 큰 회사든 작은 회사든, 높은 자리의 사람이든 신입사원이든, 자주 나타나는 나쁜 습관이 있어 이를 소개한다. 이른바 근무시간 분식회계. 이 습관에 빠진 사람은 아래와 같은 행동을 한다. https://t.co/smWIe4xkvV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				106
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1335941782190739500,
+						"id_str": "1335941782190739456",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/Eoo3-QgU0AAK-NB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eoo3-QgU0AAK-NB.jpg",
+						"url": "https://t.co/smWIe4xkvV",
+						"display_url": "pic.twitter.com/smWIe4xkvV",
+						"expanded_url": "https://twitter.com/plafina/status/1335941784900227077/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1034,
+								"h": 582,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1034,
+								"h": 582,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1335941782190739500,
+						"id_str": "1335941782190739456",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/Eoo3-QgU0AAK-NB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eoo3-QgU0AAK-NB.jpg",
+						"url": "https://t.co/smWIe4xkvV",
+						"display_url": "pic.twitter.com/smWIe4xkvV",
+						"expanded_url": "https://twitter.com/plafina/status/1335941784900227077/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1034,
+								"h": 582,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1034,
+								"h": 582,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 122556604,
+				"id_str": "122556604",
+				"name": "플라피나🌕",
+				"screen_name": "plafina",
+				"location": "에스피나 암흑신전",
+				"description": "⚖🎲 게임 기획자 (밸런스) ㅣ 🎡🎢 CK Game ㅣ 🎉🎊 ENFP ㅣ 🧀💫 린 애자일 ㅣ 🌠🔭 트윗 저장용 위성계정 @plafinia",
+				"url": "https://t.co/1gDheFAqvQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1gDheFAqvQ",
+								"expanded_url": "https://discord.gg/cDhCqTg",
+								"display_url": "discord.gg/cDhCqTg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19418,
+				"friends_count": 253,
+				"listed_count": 75,
+				"created_at": "Sat Mar 13 03:35:17 +0000 2010",
+				"favourites_count": 19763,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 43420,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1267443708233826304/kO-rZi1u_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267443708233826304/kO-rZi1u_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/122556604/1594251160",
+				"profile_link_color": "8DCAA1",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2952,
+			"favorite_count": 3629,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1574,
+		"favorite_count": 386,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'@: 이렇게 경영팀에서 사람 갈굴때 쓰는 메뉴얼을 들고 나오시다니 이런 도식은 대부분 회사에서 존나 굴러먹어서 번아웃 왔는데 제때 쉬지도 못한 직원들에게서 나타남 가끔 잘못뽑은 직원이 이러기도 하는데 우리나라 대부분은 돈도 적게 주고 일만 왕창 줘서 사람이 지쳐 일을 질질 끌게 만들음 https://t.co/4Fnl34umuU"
+	},
+	{
+		"created_at": "Wed Dec 09 02:42:03 +0000 2020",
+		"id": 1335941784900227000,
+		"id_str": "1336501334787309568",
+		"full_text": "@: 큰 회사든 작은 회사든, 높은 자리의 사람이든 신입사원이든, 자주 나타나는 나쁜 습관이 있어 이를 소개한다. 이른바 근무시간 분식회계. 이 습관에 빠진 사람은 아래와 같은 행동을 한다. https://t.co/smWIe4xkvV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1335941782190739500,
+					"id_str": "1335941782190739456",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/Eoo3-QgU0AAK-NB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eoo3-QgU0AAK-NB.jpg",
+					"url": "https://t.co/smWIe4xkvV",
+					"display_url": "pic.twitter.com/smWIe4xkvV",
+					"expanded_url": "https://twitter.com/plafina/status/1335941784900227077/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1034,
+							"h": 582,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1034,
+							"h": 582,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335941782190739500,
+					"id_str": "1335941782190739456",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/Eoo3-QgU0AAK-NB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eoo3-QgU0AAK-NB.jpg",
+					"url": "https://t.co/smWIe4xkvV",
+					"display_url": "pic.twitter.com/smWIe4xkvV",
+					"expanded_url": "https://twitter.com/plafina/status/1335941784900227077/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1034,
+							"h": 582,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1034,
+							"h": 582,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 122556604,
+			"id_str": "122556604",
+			"name": "플라피나🌕",
+			"screen_name": "plafina",
+			"location": "에스피나 암흑신전",
+			"description": "⚖🎲 게임 기획자 (밸런스) ㅣ 🎡🎢 CK Game ㅣ 🎉🎊 ENFP ㅣ 🧀💫 린 애자일 ㅣ 🌠🔭 트윗 저장용 위성계정 @plafinia",
+			"url": "https://t.co/1gDheFAqvQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1gDheFAqvQ",
+							"expanded_url": "https://discord.gg/cDhCqTg",
+							"display_url": "discord.gg/cDhCqTg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19418,
+			"friends_count": 253,
+			"listed_count": 75,
+			"created_at": "Sat Mar 13 03:35:17 +0000 2010",
+			"favourites_count": 19763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267443708233826304/kO-rZi1u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267443708233826304/kO-rZi1u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/122556604/1594251160",
+			"profile_link_color": "8DCAA1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2952,
+		"favorite_count": 3629,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@: 큰 회사든 작은 회사든, 높은 자리의 사람이든 신입사원이든, 자주 나타나는 나쁜 습관이 있어 이를 소개한다. 이른바 근무시간 분식회계. 이 습관에 빠진 사람은 아래와 같은 행동을 한다. https://t.co/smWIe4xkvV"
+	},
+	{
+		"created_at": "Wed Dec 09 02:41:23 +0000 2020",
+		"id": 1336501163915575300,
+		"id_str": "1336501163915575298",
+		"full_text": "주도적인 탐색을 할 때 모바일은 불편해서 무조건 데스크탑을 쓰기는 해요. 그런데 이런 부분에서까지 실패를 회피하려 드는 근래의 경향성은... 충격적이죠.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 92,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2745,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334803143096377345/Hg942QqD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334803143096377345/Hg942QqD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "주도적인 탐색을 할 때 모바일은 불편해서 무조건 데스크탑을 쓰기는 해요. 그런데 이런 부분에서까지 실패를 회피하려 드는 근래의 경향성은... 충격적이죠."
+	},
+	{
+		"created_at": "Wed Dec 09 02:39:24 +0000 2020",
+		"id": 1336475955632558000,
+		"id_str": "1336500665296678913",
+		"full_text": "걍 소비자 행동심리학적으로 웹상의 변화가 어떻게 이루어지고 있는지 궁금하네요. 그리고 이 상황이, 결국 플랫폼이 '노출'을 근거로 '갑질'을 할 수 있는 토양을 만들어주고 있고요. 제가 이걸 특히 문제라고 말한게 카카페긴 한데.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1336475501544624000,
+		"in_reply_to_status_id_str": "1336475501544624128",
+		"in_reply_to_user_id": 1144631613638099000,
+		"in_reply_to_user_id_str": "1144631613638098947",
+		"in_reply_to_screen_name": "Whuibin_Info",
+		"user": {
+			"id": 1144631613638099000,
+			"id_str": "1144631613638098947",
+			"name": "김휘빈",
+			"screen_name": "Whuibin_Info",
+			"location": "대한민국 서울",
+			"description": "쿨하게 공지만 때리고 싶었는데 3트윗만에 망한 장르 작가 계정. 키배, 자덕질, 장르평론으로 삼위일체중. 멘션답변 없을 가능성 높음. whuibink@지메일",
+			"url": "https://t.co/pPCX54qiRR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pPCX54qiRR",
+							"expanded_url": "http://dillyhub.com/home/whuibin",
+							"display_url": "dillyhub.com/home/whuibin",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1614,
+			"friends_count": 0,
+			"listed_count": 7,
+			"created_at": "Fri Jun 28 15:40:17 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1319561986749820929/aHTyBAeu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1319561986749820929/aHTyBAeu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144631613638098947/1561756317",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "걍 소비자 행동심리학적으로 웹상의 변화가 어떻게 이루어지고 있는지 궁금하네요. 그리고 이 상황이, 결국 플랫폼이 '노출'을 근거로 '갑질'을 할 수 있는 토양을 만들어주고 있고요. 제가 이걸 특히 문제라고 말한게 카카페긴 한데."
+	},
+	{
+		"created_at": "Wed Dec 09 02:38:59 +0000 2020",
+		"id": 1336474033504678000,
+		"id_str": "1336500562351689728",
+		"full_text": "와 딩초때부터 서점에 가서 만화잡지 사고 김전일 소설책도 있다는 걸 알고 돈 모아서 사고 흥미가는 책은 표지만 맘에 들어도 사는 중딩시절을 거친 (사실 이건 지금도 좀 그럼 거 표지가 말하는게 있잖아요) 저로서는 정말 이해불가고요 어떻게 인간이 실패를 안 하냐... 그리고 이거 취미생활이고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1336473201195413500,
+		"in_reply_to_status_id_str": "1336473201195413505",
+		"in_reply_to_user_id": 1144631613638099000,
+		"in_reply_to_user_id_str": "1144631613638098947",
+		"in_reply_to_screen_name": "Whuibin_Info",
+		"user": {
+			"id": 1144631613638099000,
+			"id_str": "1144631613638098947",
+			"name": "김휘빈",
+			"screen_name": "Whuibin_Info",
+			"location": "대한민국 서울",
+			"description": "쿨하게 공지만 때리고 싶었는데 3트윗만에 망한 장르 작가 계정. 키배, 자덕질, 장르평론으로 삼위일체중. 멘션답변 없을 가능성 높음. whuibink@지메일",
+			"url": "https://t.co/pPCX54qiRR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pPCX54qiRR",
+							"expanded_url": "http://dillyhub.com/home/whuibin",
+							"display_url": "dillyhub.com/home/whuibin",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1614,
+			"friends_count": 0,
+			"listed_count": 7,
+			"created_at": "Fri Jun 28 15:40:17 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1319561986749820929/aHTyBAeu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1319561986749820929/aHTyBAeu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144631613638098947/1561756317",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "와 딩초때부터 서점에 가서 만화잡지 사고 김전일 소설책도 있다는 걸 알고 돈 모아서 사고 흥미가는 책은 표지만 맘에 들어도 사는 중딩시절을 거친 (사실 이건 지금도 좀 그럼 거 표지가 말하는게 있잖아요) 저로서는 정말 이해불가고요 어떻게 인간이 실패를 안 하냐... 그리고 이거 취미생활이고."
+	},
+	{
 		"created_at": "Tue Dec 08 04:51:54 +0000 2020",
 		"id": 1336171622303068200,
 		"id_str": "1336171622303068162",
