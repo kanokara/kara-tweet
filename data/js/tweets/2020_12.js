@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 11 07:09:32 +0000 2020",
+		"id": 1337293421828960300,
+		"id_str": "1337293421828960256",
+		"full_text": "해독할 수 있는 방법이 달리 없지만... 근대문학이 기능부전에 빠지고 그 뒤의 문학은 과거의 소임을 방기해야만 살아남을 수 있는 사생아들이고...\nhttps://t.co/r9GydGcuEC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r9GydGcuEC",
+					"expanded_url": "https://twitter.com/atmostbeautiful/status/1337009115361497088",
+					"display_url": "twitter.com/atmostbeautifu…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 92,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12726,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334803143096377345/Hg942QqD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334803143096377345/Hg942QqD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1337009115361497000,
+		"quoted_status_id_str": "1337009115361497088",
+		"quoted_status_permalink": {
+			"url": "https://t.co/r9GydGcuEC",
+			"expanded": "https://twitter.com/atmostbeautiful/status/1337009115361497088",
+			"display": "twitter.com/atmostbeautifu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 10 12:19:48 +0000 2020",
+			"id": 1337009115361497000,
+			"id_str": "1337009115361497088",
+			"full_text": "지금처럼 갈라진 시기에는 스토리텔링과 문학이 그 어느 때보다도 중요합니다; 우리는 서로에게 우리가 어떤 존재이며 어디로 향하고 있는지 설명할 필요가 있습니다; 이야기를 통해 정치적 분열 밑에 가려진 우리가 공유하는 꿈과 일상의 좌절과 상실을 상기시킬 수 있습니다.https://t.co/NPqu7tYWB6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				170
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NPqu7tYWB6",
+						"expanded_url": "https://www.nytimes.com/2020/12/08/books/barack-obama-promised-land-reading-writing.html",
+						"display_url": "nytimes.com/2020/12/08/boo…",
+						"indices": [
+							147,
+							170
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27725896,
+				"id_str": "27725896",
+				"name": "Journey",
+				"screen_name": "atmostbeautiful",
+				"location": "Seoul",
+				"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+				"url": "https://t.co/MzklD4fR8k",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MzklD4fR8k",
+								"expanded_url": "http://1boon.kakao.com/bookclub",
+								"display_url": "1boon.kakao.com/bookclub",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 101497,
+				"friends_count": 2382,
+				"listed_count": 315,
+				"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+				"favourites_count": 50,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16214,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 97,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "해독할 수 있는 방법이 달리 없지만... 근대문학이 기능부전에 빠지고 그 뒤의 문학은 과거의 소임을 방기해야만 살아남을 수 있는 사생아들이고...\nhttps://t.co/r9GydGcuEC"
+	},
+	{
 		"created_at": "Wed Dec 09 09:19:56 +0000 2020",
 		"id": 1336601463385034800,
 		"id_str": "1336601463385034752",
