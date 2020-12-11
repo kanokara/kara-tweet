@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 11 07:54:58 +0000 2020",
+		"id": 1337304855199637500,
+		"id_str": "1337304855199637504",
+		"full_text": "볼수록 감탄만 나오는 그림이에요... https://t.co/oNR3snN2Sc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337304729194356700,
+					"id_str": "1337304729194356736",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo8PkNwUYAAwbb2.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eo8PkNwUYAAwbb2.png",
+					"url": "https://t.co/oNR3snN2Sc",
+					"display_url": "pic.twitter.com/oNR3snN2Sc",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1337304855199637504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 639,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 752,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 752,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337304729194356700,
+					"id_str": "1337304729194356736",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo8PkNwUYAAwbb2.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eo8PkNwUYAAwbb2.png",
+					"url": "https://t.co/oNR3snN2Sc",
+					"display_url": "pic.twitter.com/oNR3snN2Sc",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1337304855199637504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 639,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 752,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 752,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1337304729185972200,
+					"id_str": "1337304729185972224",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo8PkNuUcAA4MCe.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eo8PkNuUcAA4MCe.png",
+					"url": "https://t.co/oNR3snN2Sc",
+					"display_url": "pic.twitter.com/oNR3snN2Sc",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1337304855199637504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 728,
+							"h": 794,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 728,
+							"h": 794,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 623,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1337304756788682800,
+					"id_str": "1337304756788682752",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo8Pl0jUYAA8OG1.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eo8Pl0jUYAA8OG1.png",
+					"url": "https://t.co/oNR3snN2Sc",
+					"display_url": "pic.twitter.com/oNR3snN2Sc",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1337304855199637504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 558,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 761,
+							"h": 624,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 761,
+							"h": 624,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 92,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12729,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334803143096377345/Hg942QqD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334803143096377345/Hg942QqD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "볼수록 감탄만 나오는 그림이에요... https://t.co/oNR3snN2Sc"
+	},
+	{
+		"created_at": "Fri Dec 11 07:26:32 +0000 2020",
+		"id": 1337297700975349800,
+		"id_str": "1337297700975349761",
+		"full_text": "동의하는 것만은 아니지만, 왠지 모르게 압도되는 문체.\nhttps://t.co/2NxDPgh6Zv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2NxDPgh6Zv",
+					"expanded_url": "https://kimmeme.postype.com/post/8651078",
+					"display_url": "kimmeme.postype.com/post/8651078",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 92,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12729,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334803143096377345/Hg942QqD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334803143096377345/Hg942QqD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "동의하는 것만은 아니지만, 왠지 모르게 압도되는 문체.\nhttps://t.co/2NxDPgh6Zv"
+	},
+	{
 		"created_at": "Fri Dec 11 07:09:32 +0000 2020",
 		"id": 1337293421828960300,
 		"id_str": "1337293421828960256",
