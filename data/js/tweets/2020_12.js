@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 15 01:31:53 +0000 2020",
+		"id": 1338658002061017000,
+		"id_str": "1338658002061017089",
+		"full_text": "알파메일을 연기하는 사람들에게서 많이 보이는 특성인데, 대체 왜 이러는 걸까. 소위 멘스플레인 개념하곤 궤가 다른 뭔가가 있음.\nhttps://t.co/q2CndrwNQH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q2CndrwNQH",
+					"expanded_url": "https://twitter.com/avecalice/status/1338087403106406405",
+					"display_url": "twitter.com/avecalice/stat…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 92,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334803143096377345/Hg942QqD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334803143096377345/Hg942QqD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1338087403106406400,
+		"quoted_status_id_str": "1338087403106406405",
+		"quoted_status_permalink": {
+			"url": "https://t.co/q2CndrwNQH",
+			"expanded": "https://twitter.com/avecalice/status/1338087403106406405",
+			"display": "twitter.com/avecalice/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 13 11:44:32 +0000 2020",
+			"id": 1338087403106406400,
+			"id_str": "1338087403106406405",
+			"full_text": "@Dasida 그러고 보니 그러네요. 남자출연진이 나오는 팟캐스트는 이상한 농담따먹기도 더 많이 하고 이야기도 많이 새요. 근데 수업을 해도 남학생들이랑 하면 자꾸 방향을 이상한 데로 끌고 가려는 관성이 강하더라구요.",
+			"truncated": false,
+			"display_text_range": [
+				8,
+				121
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Dasida",
+						"name": "Dasida",
+						"id": 22898154,
+						"id_str": "22898154",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1338081014153793500,
+			"in_reply_to_status_id_str": "1338081014153793536",
+			"in_reply_to_user_id": 22898154,
+			"in_reply_to_user_id_str": "22898154",
+			"in_reply_to_screen_name": "Dasida",
+			"user": {
+				"id": 107911969,
+				"id_str": "107911969",
+				"name": "Kimmy",
+				"screen_name": "avecalice",
+				"location": "",
+				"description": "국에는 꼭 두부가 들어갔으면 좋겠다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3844,
+				"friends_count": 237,
+				"listed_count": 27,
+				"created_at": "Sun Jan 24 05:04:21 +0000 2010",
+				"favourites_count": 18699,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 38057,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1300965749574389761/iMdE1Y5J_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300965749574389761/iMdE1Y5J_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/107911969/1596635381",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "알파메일을 연기하는 사람들에게서 많이 보이는 특성인데, 대체 왜 이러는 걸까. 소위 멘스플레인 개념하곤 궤가 다른 뭔가가 있음.\nhttps://t.co/q2CndrwNQH"
+	},
+	{
 		"created_at": "Mon Dec 14 09:51:00 +0000 2020",
 		"id": 1338421222221103000,
 		"id_str": "1338421222221103105",
