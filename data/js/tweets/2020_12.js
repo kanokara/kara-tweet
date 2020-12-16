@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 16 01:42:14 +0000 2020",
+		"id": 1339022993389887500,
+		"id_str": "1339022993389887488",
+		"full_text": "만화의 텍스트 배치와 출판의 들여쓰기 배치는 기본적으로 같은 원리. https://t.co/wtEZCH3jQv https://t.co/xHyHVOKqw5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wtEZCH3jQv",
+					"expanded_url": "http://orumi.egloos.com/v/4788276",
+					"display_url": "orumi.egloos.com/v/4788276",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1339021967987331000,
+					"id_str": "1339021967987331073",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EpUpYqxUUAEcyJn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpUpYqxUUAEcyJn.jpg",
+					"url": "https://t.co/xHyHVOKqw5",
+					"display_url": "pic.twitter.com/xHyHVOKqw5",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1339022993389887488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1719,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339021967987331000,
+					"id_str": "1339021967987331073",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EpUpYqxUUAEcyJn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpUpYqxUUAEcyJn.jpg",
+					"url": "https://t.co/xHyHVOKqw5",
+					"display_url": "pic.twitter.com/xHyHVOKqw5",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1339022993389887488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1719,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1339022963220234200,
+					"id_str": "1339022963220234241",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EpUqSmTVQAEGK8G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpUqSmTVQAEGK8G.jpg",
+					"url": "https://t.co/xHyHVOKqw5",
+					"display_url": "pic.twitter.com/xHyHVOKqw5",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1339022993389887488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1339013638699376600,
+		"in_reply_to_status_id_str": "1339013638699376645",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 92,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12766,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334803143096377345/Hg942QqD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334803143096377345/Hg942QqD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "만화의 텍스트 배치와 출판의 들여쓰기 배치는 기본적으로 같은 원리. https://t.co/wtEZCH3jQv https://t.co/xHyHVOKqw5"
+	},
+	{
 		"created_at": "Wed Dec 16 01:05:03 +0000 2020",
 		"id": 1339013638699376600,
 		"id_str": "1339013638699376645",
