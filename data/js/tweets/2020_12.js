@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 17 15:04:05 +0000 2020",
+		"id": 1339584884415758300,
+		"id_str": "1339587174413393921",
+		"full_text": "현실은 트위터 바깥에 있다고 말하는 인간들의 최고 개그 지점은 본인들의 현실마저도 트위터 내지 온라인 세계에 빚지고 있다는 거지. 그러니까 다시 말해서 이이들이 그딴 소리 지껄여대며 하는 건 결국 현실 도피라니까. 본인들이 그토록 경멸해 마지않는다 소리 높여 말하는.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3044055608,
+			"id_str": "3044055608",
+			"name": "밀사🌹🌂",
+			"screen_name": "krjfL",
+			"location": "창녀들의 도서관",
+			"description": "전하지 못한 이야기가",
+			"url": "https://t.co/bkLMLoQg7F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bkLMLoQg7F",
+							"expanded_url": "https://britg.kr/novel-author/4482/",
+							"display_url": "britg.kr/novel-author/4…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1577,
+			"friends_count": 341,
+			"listed_count": 16,
+			"created_at": "Thu Feb 26 16:44:47 +0000 2015",
+			"favourites_count": 35810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1337077956292661249/HMKW1YIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1337077956292661249/HMKW1YIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3044055608/1607537859",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "현실은 트위터 바깥에 있다고 말하는 인간들의 최고 개그 지점은 본인들의 현실마저도 트위터 내지 온라인 세계에 빚지고 있다는 거지. 그러니까 다시 말해서 이이들이 그딴 소리 지껄여대며 하는 건 결국 현실 도피라니까. 본인들이 그토록 경멸해 마지않는다 소리 높여 말하는."
+	},
+	{
+		"created_at": "Thu Dec 17 15:03:43 +0000 2020",
+		"id": 1339584253089083400,
+		"id_str": "1339587082331648001",
+		"full_text": "캐릭터는 가상의 인물이라 쳐내고, 온갖 서브컬처 예술 매체 안팎에서의 경험은 실제로 일어난 일이 아니니까 쳐내고, 온라인 세계는 내가 오감으로 즉물적으로 마주하는 현실이 아니니까 쳐내고, 그런 식으로 쳐내기만 반복하면, 이 시대에 당신의 것이랄 건, 진짜라 할만한 건 대체 뭐가 남습니까?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1339583437221449700,
+		"in_reply_to_status_id_str": "1339583437221449728",
+		"in_reply_to_user_id": 3044055608,
+		"in_reply_to_user_id_str": "3044055608",
+		"in_reply_to_screen_name": "krjfL",
+		"user": {
+			"id": 3044055608,
+			"id_str": "3044055608",
+			"name": "밀사🌹🌂",
+			"screen_name": "krjfL",
+			"location": "창녀들의 도서관",
+			"description": "전하지 못한 이야기가",
+			"url": "https://t.co/bkLMLoQg7F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bkLMLoQg7F",
+							"expanded_url": "https://britg.kr/novel-author/4482/",
+							"display_url": "britg.kr/novel-author/4…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1577,
+			"friends_count": 341,
+			"listed_count": 16,
+			"created_at": "Thu Feb 26 16:44:47 +0000 2015",
+			"favourites_count": 35810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1337077956292661249/HMKW1YIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1337077956292661249/HMKW1YIo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3044055608/1607537859",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "캐릭터는 가상의 인물이라 쳐내고, 온갖 서브컬처 예술 매체 안팎에서의 경험은 실제로 일어난 일이 아니니까 쳐내고, 온라인 세계는 내가 오감으로 즉물적으로 마주하는 현실이 아니니까 쳐내고, 그런 식으로 쳐내기만 반복하면, 이 시대에 당신의 것이랄 건, 진짜라 할만한 건 대체 뭐가 남습니까?"
+	},
+	{
 		"created_at": "Thu Dec 17 03:34:32 +0000 2020",
 		"id": 1339413645755760600,
 		"id_str": "1339413645755760642",
