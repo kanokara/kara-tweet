@@ -1,6 +1,394 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 19 13:58:16 +0000 2020",
+		"id": 1340248833083625500,
+		"id_str": "1340295385726631937",
+		"full_text": "@yen_m_8277 https://t.co/QQevRRJmSR\n\n여기같아용",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yen_m_8277",
+					"name": "💝살파랑 신생아💝판다다요💖",
+					"id": 1214683887370043400,
+					"id_str": "1214683887370043392",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QQevRRJmSR",
+					"expanded_url": "https://www.youtube.com/watch?v=y6JtE5HxF4U",
+					"display_url": "youtube.com/watch?v=y6JtE5…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1340238941601976300,
+		"in_reply_to_status_id_str": "1340238941601976320",
+		"in_reply_to_user_id": 1214683887370043400,
+		"in_reply_to_user_id_str": "1214683887370043392",
+		"in_reply_to_screen_name": "yen_m_8277",
+		"user": {
+			"id": 1309368234731135000,
+			"id_str": "1309368234731134976",
+			"name": "솔",
+			"screen_name": "Nomore_Kwantong",
+			"location": "",
+			"description": "🔞 쓰레기통이 안락하네요 뚜껑좀 덮어주시겠어요? 🔞",
+			"url": "https://t.co/1T9iXu6fG1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1T9iXu6fG1",
+							"expanded_url": "https://open.kakao.com/o/srFdNQkc",
+							"display_url": "open.kakao.com/o/srFdNQkc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 162,
+			"listed_count": 1,
+			"created_at": "Fri Sep 25 05:45:01 +0000 2020",
+			"favourites_count": 7330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18246,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1338575950322102272/d4QxvEeh_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1338575950322102272/d4QxvEeh_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1309368234731134976/1608144103",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@yen_m_8277 https://t.co/QQevRRJmSR\n\n여기같아용"
+	},
+	{
+		"created_at": "Sat Dec 19 13:58:11 +0000 2020",
+		"id": 1340128787451715600,
+		"id_str": "1340295368022474752",
+		"full_text": "이거 그거아니냐?\n똑똑 문을열어다오 내가왔단다\nhttps://t.co/FADUTlzfRL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1339790832581275600,
+					"id_str": "1339790832581275649",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1339790832581275649/pu/img/qD2gxdxP5nHG5Zgz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1339790832581275649/pu/img/qD2gxdxP5nHG5Zgz.jpg",
+					"url": "https://t.co/FADUTlzfRL",
+					"display_url": "pic.twitter.com/FADUTlzfRL",
+					"expanded_url": "https://twitter.com/deuxNuage/status/1339790999162273798/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 856,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 856,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1339790999162273800,
+					"source_status_id_str": "1339790999162273798",
+					"source_user_id": 1228997151855743000,
+					"source_user_id_str": "1228997151855742976"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339790832581275600,
+					"id_str": "1339790832581275649",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1339790832581275649/pu/img/qD2gxdxP5nHG5Zgz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1339790832581275649/pu/img/qD2gxdxP5nHG5Zgz.jpg",
+					"url": "https://t.co/FADUTlzfRL",
+					"display_url": "pic.twitter.com/FADUTlzfRL",
+					"expanded_url": "https://twitter.com/deuxNuage/status/1339790999162273798/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 856,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 856,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1339790999162273800,
+					"source_status_id_str": "1339790999162273798",
+					"source_user_id": 1228997151855743000,
+					"source_user_id_str": "1228997151855742976",
+					"video_info": {
+						"aspect_ratio": [
+							107,
+							60
+						],
+						"duration_millis": 116286,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1339790832581275649/pu/vid/480x270/5RZz0_Sg9nB0DbKm.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1339790832581275649/pu/vid/856x480/jEMQ1WuxHcYWW-eX.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1339790832581275649/pu/vid/642x360/1GhCEKJDqrXhH70j.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1339790832581275649/pu/pl/7S_XEvRtXao8JC56.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1228997151855743000,
+							"id_str": "1228997151855742976",
+							"name": "deux Nuage⛅🌩",
+							"screen_name": "deuxNuage",
+							"location": "가즈네목장",
+							"description": "누아주입니다.\nDeux nuage.(두 구름)\n정운룡, 아윈가 덕질용이에요.\n맞팔 원하시면 멘션이나 디엠 주세요♡\n말 걸어주시면 좋아하는 순한🐏 입니다.(뿔주의!)\n아카이브나 봇이 아닙니다😂Fan account\n한국인입니다. 오타는 터치키보드 때문ㅠㅗㅠ",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 271,
+							"friends_count": 94,
+							"listed_count": 3,
+							"created_at": "Sun Feb 16 10:58:56 +0000 2020",
+							"favourites_count": 10401,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 34602,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1329847700204843008/FEQ49R8n_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329847700204843008/FEQ49R8n_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1228997151855742976/1596985174",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2353072860,
+			"id_str": "2353072860",
+			"name": "그냥만녕을꼬옥안아주면되..",
+			"screen_name": "SANSA_LB",
+			"location": "홍련수사 ",
+			"description": "https://t.co/3GzlARNagC\n사존은 흰 달빛이고, 붉은 점이고 제 심장에 흐르는 피이고, 제 운명이에요 사존, 제가 좋아해요",
+			"url": "https://t.co/vGVzdWC9GQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGVzdWC9GQ",
+							"expanded_url": "https://dosansa-19.postype.com/posts",
+							"display_url": "dosansa-19.postype.com/posts",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3GzlARNagC",
+							"expanded_url": "https://peing.net/ko/sansa_lb?message=1",
+							"display_url": "peing.net/ko/sansa_lb?me…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2305,
+			"friends_count": 387,
+			"listed_count": 13,
+			"created_at": "Thu Feb 20 11:03:46 +0000 2014",
+			"favourites_count": 74875,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340129548910751745/qfqWLPz4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340129548910751745/qfqWLPz4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2353072860/1607560482",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2926,
+		"favorite_count": 1850,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이거 그거아니냐?\n똑똑 문을열어다오 내가왔단다\nhttps://t.co/FADUTlzfRL"
+	},
+	{
 		"created_at": "Sat Dec 19 12:51:49 +0000 2020",
 		"id": 1340278664752087000,
 		"id_str": "1340278664752087042",
