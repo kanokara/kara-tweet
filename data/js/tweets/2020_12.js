@@ -1,6 +1,1695 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 19 16:05:44 +0000 2020",
+		"id": 1340327464841617400,
+		"id_str": "1340327464841617408",
+		"full_text": "다마고치 좋아하는 사람 왜 이렇게 많아 나만 다마고치 없어",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 92,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2829,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340296015954419712/kGlJ3vLc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340296015954419712/kGlJ3vLc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "다마고치 좋아하는 사람 왜 이렇게 많아 나만 다마고치 없어"
+	},
+	{
+		"created_at": "Sat Dec 19 16:01:07 +0000 2020",
+		"id": 1339110993691984000,
+		"id_str": "1340326305166839808",
+		"full_text": "코바늘 위주로 떠요! 다마고치 케이스랑 인형을 만든답니다. 흔적 주시면 뜨개러분들은 모두 찾아가요! \n#트친소 #뜨개질 #뜨개질_트친소 #코바늘 #대바늘 #수공예 https://t.co/odzczeU9My",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "트친소",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "뜨개질",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "뜨개질_트친소",
+					"indices": [
+						67,
+						75
+					]
+				},
+				{
+					"text": "코바늘",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "대바늘",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "수공예",
+					"indices": [
+						86,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1339110918920126500,
+					"id_str": "1339110918920126465",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EpV6SS0UwAEH0KA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpV6SS0UwAEH0KA.jpg",
+					"url": "https://t.co/odzczeU9My",
+					"display_url": "pic.twitter.com/odzczeU9My",
+					"expanded_url": "https://twitter.com/c___h_e_r_r_y/status/1339110993691983872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339110918920126500,
+					"id_str": "1339110918920126465",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EpV6SS0UwAEH0KA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpV6SS0UwAEH0KA.jpg",
+					"url": "https://t.co/odzczeU9My",
+					"display_url": "pic.twitter.com/odzczeU9My",
+					"expanded_url": "https://twitter.com/c___h_e_r_r_y/status/1339110993691983872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1339110948951400400,
+					"id_str": "1339110948951400449",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EpV6UCsVoAEr61Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpV6UCsVoAEr61Z.jpg",
+					"url": "https://t.co/odzczeU9My",
+					"display_url": "pic.twitter.com/odzczeU9My",
+					"expanded_url": "https://twitter.com/c___h_e_r_r_y/status/1339110993691983872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1339110970883416000,
+					"id_str": "1339110970883416064",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EpV6VUZVoAAK3Lp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpV6VUZVoAAK3Lp.jpg",
+					"url": "https://t.co/odzczeU9My",
+					"display_url": "pic.twitter.com/odzczeU9My",
+					"expanded_url": "https://twitter.com/c___h_e_r_r_y/status/1339110993691983872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1330959682513424400,
+			"id_str": "1330959682513424386",
+			"name": "체리🍒",
+			"screen_name": "c___h_e_r_r_y",
+			"location": "",
+			"description": "다마고치, 뜨개질 하는 체리",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32,
+			"friends_count": 40,
+			"listed_count": 0,
+			"created_at": "Mon Nov 23 19:41:38 +0000 2020",
+			"favourites_count": 29,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330959859760603138/5bRu39Zs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330959859760603138/5bRu39Zs_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코바늘 위주로 떠요! 다마고치 케이스랑 인형을 만든답니다. 흔적 주시면 뜨개러분들은 모두 찾아가요! \n#트친소 #뜨개질 #뜨개질_트친소 #코바늘 #대바늘 #수공예 https://t.co/odzczeU9My"
+	},
+	{
+		"created_at": "Sat Dec 19 15:59:27 +0000 2020",
+		"id": 1340268918103888000,
+		"id_str": "1340325885367336961",
+		"full_text": "이거 다마고치 케이스라는데...\n가슴이두근거림너무귀여워서 https://t.co/rn3rNh9Igu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1340268913444094000,
+					"id_str": "1340268913444093960",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/EpmXeclVgAg5dLx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpmXeclVgAg5dLx.jpg",
+					"url": "https://t.co/rn3rNh9Igu",
+					"display_url": "pic.twitter.com/rn3rNh9Igu",
+					"expanded_url": "https://twitter.com/2zzszze/status/1340268918103887872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1340268913444094000,
+					"id_str": "1340268913444093960",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/EpmXeclVgAg5dLx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpmXeclVgAg5dLx.jpg",
+					"url": "https://t.co/rn3rNh9Igu",
+					"display_url": "pic.twitter.com/rn3rNh9Igu",
+					"expanded_url": "https://twitter.com/2zzszze/status/1340268918103887872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1295747735031709700,
+			"id_str": "1295747735031709697",
+			"name": "⌫",
+			"screen_name": "2zzszze",
+			"location": "",
+			"description": "♥︎:@2yy2yy",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278,
+			"friends_count": 162,
+			"listed_count": 3,
+			"created_at": "Tue Aug 18 15:42:03 +0000 2020",
+			"favourites_count": 2999,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1339387821669326850/o2fqwLP-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1339387821669326850/o2fqwLP-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1295747735031709697/1608160860",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이거 다마고치 케이스라는데...\n가슴이두근거림너무귀여워서 https://t.co/rn3rNh9Igu"
+	},
+	{
+		"created_at": "Sat Dec 19 15:58:14 +0000 2020",
+		"id": 1338706113789788200,
+		"id_str": "1340325578965073921",
+		"full_text": "이맛에 산다...ㅠㅠ https://t.co/356kOiV9Y0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1338706103727607800,
+					"id_str": "1338706103727607808",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/EpQKG8tU0AAHeXI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpQKG8tU0AAHeXI.jpg",
+					"url": "https://t.co/356kOiV9Y0",
+					"display_url": "pic.twitter.com/356kOiV9Y0",
+					"expanded_url": "https://twitter.com/tamagochi_chu_/status/1338706113789788160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338706103727607800,
+					"id_str": "1338706103727607808",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/EpQKG8tU0AAHeXI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpQKG8tU0AAHeXI.jpg",
+					"url": "https://t.co/356kOiV9Y0",
+					"display_url": "pic.twitter.com/356kOiV9Y0",
+					"expanded_url": "https://twitter.com/tamagochi_chu_/status/1338706113789788160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185563768173912000,
+			"id_str": "1185563768173912065",
+			"name": "다마고치 쳐돌이",
+			"screen_name": "tamagochi_chu_",
+			"location": "",
+			"description": "다마인생",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42,
+			"friends_count": 44,
+			"listed_count": 0,
+			"created_at": "Sat Oct 19 14:30:20 +0000 2019",
+			"favourites_count": 299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276911518412464130/XJrgqGm0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276911518412464130/XJrgqGm0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185563768173912065/1598322960",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이맛에 산다...ㅠㅠ https://t.co/356kOiV9Y0"
+	},
+	{
+		"created_at": "Sat Dec 19 15:55:43 +0000 2020",
+		"id": 1336644229611679700,
+		"id_str": "1340324946665381889",
+		"full_text": "✨다마고치 단체샷✨ https://t.co/63eOL27DGh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1336644219352445000,
+					"id_str": "1336644219352444928",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/Eoy21e2U8AAbYdb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eoy21e2U8AAbYdb.jpg",
+					"url": "https://t.co/63eOL27DGh",
+					"display_url": "pic.twitter.com/63eOL27DGh",
+					"expanded_url": "https://twitter.com/MIDST_TAMA/status/1336644229611679744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336644219352445000,
+					"id_str": "1336644219352444928",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/Eoy21e2U8AAbYdb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eoy21e2U8AAbYdb.jpg",
+					"url": "https://t.co/63eOL27DGh",
+					"display_url": "pic.twitter.com/63eOL27DGh",
+					"expanded_url": "https://twitter.com/MIDST_TAMA/status/1336644229611679744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1307269729799692300,
+			"id_str": "1307269729799692290",
+			"name": "꿈결🌱",
+			"screen_name": "MIDST_TAMA",
+			"location": "P: 스위츠 내새끼❤",
+			"description": "다마고치",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16,
+			"friends_count": 16,
+			"listed_count": 0,
+			"created_at": "Sat Sep 19 10:46:15 +0000 2020",
+			"favourites_count": 344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1307964138010808320/Gl5a3UrE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307964138010808320/Gl5a3UrE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1307269729799692290/1600512434",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨다마고치 단체샷✨ https://t.co/63eOL27DGh"
+	},
+	{
+		"created_at": "Sat Dec 19 15:55:23 +0000 2020",
+		"id": 1339120902198317000,
+		"id_str": "1340324859155337216",
+		"full_text": "다마고치 하시는 트친님들 많으셨군요...!! \n저는 몰랐지뭐에요🥺 맨날 킽스얘기만 했더니,,🤣 다마얘기도 종종올려야겠어용(⸝⸝⸝ᵒ̴̶̷ ⌑ ᵒ̴̶̷⸝⸝⸝)✨ https://t.co/hyJ9RjpVV3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1339120888151568400,
+					"id_str": "1339120888151568384",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EpWDWlGUcAAzW6M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpWDWlGUcAAzW6M.jpg",
+					"url": "https://t.co/hyJ9RjpVV3",
+					"display_url": "pic.twitter.com/hyJ9RjpVV3",
+					"expanded_url": "https://twitter.com/yolo_crab/status/1339120902198317057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339120888151568400,
+					"id_str": "1339120888151568384",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EpWDWlGUcAAzW6M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpWDWlGUcAAzW6M.jpg",
+					"url": "https://t.co/hyJ9RjpVV3",
+					"display_url": "pic.twitter.com/hyJ9RjpVV3",
+					"expanded_url": "https://twitter.com/yolo_crab/status/1339120902198317057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1334447019037888500,
+			"id_str": "1334447019037888513",
+			"name": "꽃게",
+			"screen_name": "yolo_crab",
+			"location": "노는게 제일 좋아",
+			"description": "비즈키링 다마고치 키티스트랩 다이어리 필름카메라를 좋아해요🥰 친한척, 말 걸어주는거 좋아해요 들이대주세용!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91,
+			"friends_count": 88,
+			"listed_count": 0,
+			"created_at": "Thu Dec 03 10:39:04 +0000 2020",
+			"favourites_count": 336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1337347093162151936/d9MYyLGQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1337347093162151936/d9MYyLGQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1334447019037888513/1606992016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다마고치 하시는 트친님들 많으셨군요...!! \n저는 몰랐지뭐에요🥺 맨날 킽스얘기만 했더니,,🤣 다마얘기도 종종올려야겠어용(⸝⸝⸝ᵒ̴̶̷ ⌑ ᵒ̴̶̷⸝⸝⸝)✨ https://t.co/hyJ9RjpVV3"
+	},
+	{
+		"created_at": "Sat Dec 19 15:52:43 +0000 2020",
+		"id": 1338997644337717200,
+		"id_str": "1340324189778034689",
+		"full_text": "오랜만에 보니까 다마고치가 갑자기 유행하고 있네요? 잠시 제 과거를 올리고 사라지겠습니다.. 이 장안엔 과연 얼마가.... 최애 다마고치는 뭐니뭐니해도 피스 아이카츠죠💗 https://t.co/jkj75gyfc9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1338997630060298200,
+					"id_str": "1338997630060298240",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EpUTQA7VgAAXwe4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpUTQA7VgAAXwe4.jpg",
+					"url": "https://t.co/jkj75gyfc9",
+					"display_url": "pic.twitter.com/jkj75gyfc9",
+					"expanded_url": "https://twitter.com/konnicrossing/status/1338997644337717248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338997630060298200,
+					"id_str": "1338997630060298240",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EpUTQA7VgAAXwe4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpUTQA7VgAAXwe4.jpg",
+					"url": "https://t.co/jkj75gyfc9",
+					"display_url": "pic.twitter.com/jkj75gyfc9",
+					"expanded_url": "https://twitter.com/konnicrossing/status/1338997644337717248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1338997630056030200,
+					"id_str": "1338997630056030209",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EpUTQA6UYAEFM8H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpUTQA6UYAEFM8H.jpg",
+					"url": "https://t.co/jkj75gyfc9",
+					"display_url": "pic.twitter.com/jkj75gyfc9",
+					"expanded_url": "https://twitter.com/konnicrossing/status/1338997644337717248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1338997630056087600,
+					"id_str": "1338997630056087552",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EpUTQA6VQAAjxxJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpUTQA6VQAAjxxJ.jpg",
+					"url": "https://t.co/jkj75gyfc9",
+					"display_url": "pic.twitter.com/jkj75gyfc9",
+					"expanded_url": "https://twitter.com/konnicrossing/status/1338997644337717248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1338997630056054800,
+					"id_str": "1338997630056054784",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EpUTQA6UwAAqhEc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpUTQA6UwAAqhEc.jpg",
+					"url": "https://t.co/jkj75gyfc9",
+					"display_url": "pic.twitter.com/jkj75gyfc9",
+					"expanded_url": "https://twitter.com/konnicrossing/status/1338997644337717248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1303666524729651200,
+			"id_str": "1303666524729651200",
+			"name": "❄️콘니❄️",
+			"screen_name": "konnicrossing",
+			"location": "Pluto",
+			"description": "#ACNH enthusiast ♀ 동숲에 진심인편/그림도 종종/핑덕♥\nh: soon님",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89,
+			"friends_count": 83,
+			"listed_count": 2,
+			"created_at": "Wed Sep 09 12:08:22 +0000 2020",
+			"favourites_count": 1542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1818,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325195532688486404/Wsdul73X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325195532688486404/Wsdul73X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1303666524729651200/1608268503",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오랜만에 보니까 다마고치가 갑자기 유행하고 있네요? 잠시 제 과거를 올리고 사라지겠습니다.. 이 장안엔 과연 얼마가.... 최애 다마고치는 뭐니뭐니해도 피스 아이카츠죠💗 https://t.co/jkj75gyfc9"
+	},
+	{
+		"created_at": "Sat Dec 19 15:45:18 +0000 2020",
+		"id": 1180306391661047800,
+		"id_str": "1340322324206129152",
+		"full_text": "【コラボ】アイカツオンパレード！放送記念コラボ開催中だよ✨アプリではいちごちゃんっちとあかりちゃんっちからプレゼントがもらえちゃう🎁アイカツスタイル、オフィシャルショップでもアイム配信中だよ🎀詳しくはHPをチェック！https://t.co/UoDvzgXRGj\n#アイカツオンパレード #たまごっち https://t.co/JjZFKRPpDp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "アイカツオンパレード",
+					"indices": [
+						132,
+						143
+					]
+				},
+				{
+					"text": "たまごっち",
+					"indices": [
+						144,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UoDvzgXRGj",
+					"expanded_url": "https://tamagotch.channel.or.jp/topics/20190927-1/",
+					"display_url": "tamagotch.channel.or.jp/topics/2019092…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1180306247712526300,
+					"id_str": "1180306247712526336",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EGFKR10UUAAesMg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGFKR10UUAAesMg.jpg",
+					"url": "https://t.co/JjZFKRPpDp",
+					"display_url": "pic.twitter.com/JjZFKRPpDp",
+					"expanded_url": "https://twitter.com/TMGC_net/status/1180306391661047808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 314,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 554,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 946,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1180306247712526300,
+					"id_str": "1180306247712526336",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EGFKR10UUAAesMg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGFKR10UUAAesMg.jpg",
+					"url": "https://t.co/JjZFKRPpDp",
+					"display_url": "pic.twitter.com/JjZFKRPpDp",
+					"expanded_url": "https://twitter.com/TMGC_net/status/1180306391661047808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 314,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 554,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 946,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1180306247406375000,
+					"id_str": "1180306247406374913",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EGFKR0rU0AECskK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGFKR0rU0AECskK.jpg",
+					"url": "https://t.co/JjZFKRPpDp",
+					"display_url": "pic.twitter.com/JjZFKRPpDp",
+					"expanded_url": "https://twitter.com/TMGC_net/status/1180306391661047808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 554,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 314,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 946,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600575995,
+			"id_str": "600575995",
+			"name": "たまごっち",
+			"screen_name": "TMGC_net",
+			"location": "たまごっち星",
+			"description": "たまごっち公式ツイッター。イベント、各種グッズなどの最新情報を発信していくよ。みんなフォローしてね！ ※公式推奨ハッシュタグ ＃たまごっち ※お問合せに対する回答などについては承っておりません。予めご了承ください。",
+			"url": "https://t.co/EJHnoT9Ty5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EJHnoT9Ty5",
+							"expanded_url": "http://tamatv.com",
+							"display_url": "tamatv.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16294,
+			"friends_count": 16,
+			"listed_count": 0,
+			"created_at": "Wed Jun 06 01:28:01 +0000 2012",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062212249148829696/DlPujP93_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062212249148829696/DlPujP93_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600575995/1605170758",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 226,
+		"favorite_count": 564,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【コラボ】アイカツオンパレード！放送記念コラボ開催中だよ✨アプリではいちごちゃんっちとあかりちゃんっちからプレゼントがもらえちゃう🎁アイカツスタイル、オフィシャルショップでもアイム配信中だよ🎀詳しくはHPをチェック！https://t.co/UoDvzgXRGj\n#アイカツオンパレード #たまごっち https://t.co/JjZFKRPpDp"
+	},
+	{
+		"created_at": "Sat Dec 19 15:44:41 +0000 2020",
+		"id": 1311955339336536000,
+		"id_str": "1340322169541148672",
+		"full_text": "🍓新商品🍓\n大人気「たまごっちみーつ サンリオキャラクターズみーつver.」に、限定ストラップが付いた豪華なDXセットが登場！いちごみたいな本体カラーも魅力♥\n10月24日（土）発売予定！\n\n※遊びの内容は「たまごっちみーつ サンリオキャラクターズみーつver.」と同じです\n\nhttps://t.co/uZiOWFSJwo https://t.co/d7cqmlxjsv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uZiOWFSJwo",
+					"expanded_url": "https://toy.bandai.co.jp/series/tamagotchi/item/detail/11658/",
+					"display_url": "toy.bandai.co.jp/series/tamagot…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1311953890640707600,
+					"id_str": "1311953890640707586",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EjT_HM1UwAIcqIN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjT_HM1UwAIcqIN.jpg",
+					"url": "https://t.co/d7cqmlxjsv",
+					"display_url": "pic.twitter.com/d7cqmlxjsv",
+					"expanded_url": "https://twitter.com/TMGC_net/status/1311955339336536069/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1147,
+							"h": 764,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1147,
+							"h": 764,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311953890640707600,
+					"id_str": "1311953890640707586",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EjT_HM1UwAIcqIN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjT_HM1UwAIcqIN.jpg",
+					"url": "https://t.co/d7cqmlxjsv",
+					"display_url": "pic.twitter.com/d7cqmlxjsv",
+					"expanded_url": "https://twitter.com/TMGC_net/status/1311955339336536069/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1147,
+							"h": 764,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1147,
+							"h": 764,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600575995,
+			"id_str": "600575995",
+			"name": "たまごっち",
+			"screen_name": "TMGC_net",
+			"location": "たまごっち星",
+			"description": "たまごっち公式ツイッター。イベント、各種グッズなどの最新情報を発信していくよ。みんなフォローしてね！ ※公式推奨ハッシュタグ ＃たまごっち ※お問合せに対する回答などについては承っておりません。予めご了承ください。",
+			"url": "https://t.co/EJHnoT9Ty5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EJHnoT9Ty5",
+							"expanded_url": "http://tamatv.com",
+							"display_url": "tamatv.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16294,
+			"friends_count": 16,
+			"listed_count": 0,
+			"created_at": "Wed Jun 06 01:28:01 +0000 2012",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062212249148829696/DlPujP93_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062212249148829696/DlPujP93_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600575995/1605170758",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 224,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "🍓新商品🍓\n大人気「たまごっちみーつ サンリオキャラクターズみーつver.」に、限定ストラップが付いた豪華なDXセットが登場！いちごみたいな本体カラーも魅力♥\n10月24日（土）発売予定！\n\n※遊びの内容は「たまごっちみーつ サンリオキャラクターズみーつver.」と同じです\n\nhttps://t.co/uZiOWFSJwo https://t.co/d7cqmlxjsv"
+	},
+	{
 		"created_at": "Sat Dec 19 15:04:20 +0000 2020",
 		"id": 1340312013356994600,
 		"id_str": "1340312013356994560",
