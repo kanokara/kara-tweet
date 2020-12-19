@@ -1,6 +1,417 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 19 15:04:20 +0000 2020",
+		"id": 1340312013356994600,
+		"id_str": "1340312013356994560",
+		"full_text": "'공자 선생님' 운위하는 것에서 공산당의 그림자가 느껴져서 순수하게 이들의 성취를 기뻐할 수만은 없네요...\nhttps://t.co/AvYua2dJYi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AvYua2dJYi",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1340308469333692417",
+					"display_url": "twitter.com/EmptyKnK/statu…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 92,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2826,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340296015954419712/kGlJ3vLc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340296015954419712/kGlJ3vLc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1340308469333692400,
+		"quoted_status_id_str": "1340308469333692417",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AvYua2dJYi",
+			"expanded": "https://twitter.com/EmptyKnK/status/1340308469333692417",
+			"display": "twitter.com/EmptyKnK/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 19 14:50:15 +0000 2020",
+			"id": 1340308469333692400,
+			"id_str": "1340308469333692417",
+			"full_text": "【청춘유니 2(青春有你2)】 《恋爱循环》 (연애 서큘레이션) / 포지션 평가 [Youth With You] https://t.co/B0YpB13Mf6 출처 @YouTube",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				95
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "YouTube",
+						"name": "YouTube",
+						"id": 10228272,
+						"id_str": "10228272",
+						"indices": [
+							87,
+							95
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/B0YpB13Mf6",
+						"expanded_url": "https://youtu.be/xCIWqyChWKg",
+						"display_url": "youtu.be/xCIWqyChWKg",
+						"indices": [
+							60,
+							83
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3255599052,
+				"id_str": "3255599052",
+				"name": "Solitude [동결:11/20~]",
+				"screen_name": "EmptyKnK",
+				"location": "",
+				"description": "탄식하라,  덧없이 흩어지고 말리라",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": true,
+				"followers_count": 8,
+				"friends_count": 92,
+				"listed_count": 0,
+				"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+				"favourites_count": 2826,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12782,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1340296015954419712/kGlJ3vLc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340296015954419712/kGlJ3vLc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'공자 선생님' 운위하는 것에서 공산당의 그림자가 느껴져서 순수하게 이들의 성취를 기뻐할 수만은 없네요...\nhttps://t.co/AvYua2dJYi"
+	},
+	{
+		"created_at": "Sat Dec 19 14:57:54 +0000 2020",
+		"id": 1340310395102249000,
+		"id_str": "1340310395102248962",
+		"full_text": "YouthWithYou 小组对决舞台纯享：《有点甜》B组 Team Battle Performance ——《A little sweet》... https://t.co/gRW7KyxnEJ 출처 @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						103,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gRW7KyxnEJ",
+					"expanded_url": "https://youtu.be/5lvRH8vgX0E",
+					"display_url": "youtu.be/5lvRH8vgX0E",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 92,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2826,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340296015954419712/kGlJ3vLc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340296015954419712/kGlJ3vLc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "YouthWithYou 小组对决舞台纯享：《有点甜》B组 Team Battle Performance ——《A little sweet》... https://t.co/gRW7KyxnEJ 출처 @YouTube"
+	},
+	{
+		"created_at": "Sat Dec 19 14:50:15 +0000 2020",
+		"id": 1340308469333692400,
+		"id_str": "1340308469333692417",
+		"full_text": "【청춘유니 2(青春有你2)】 《恋爱循环》 (연애 서큘레이션) / 포지션 평가 [Youth With You] https://t.co/B0YpB13Mf6 출처 @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						87,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/B0YpB13Mf6",
+					"expanded_url": "https://youtu.be/xCIWqyChWKg",
+					"display_url": "youtu.be/xCIWqyChWKg",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 92,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2826,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340296015954419712/kGlJ3vLc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340296015954419712/kGlJ3vLc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【청춘유니 2(青春有你2)】 《恋爱循环》 (연애 서큘레이션) / 포지션 평가 [Youth With You] https://t.co/B0YpB13Mf6 출처 @YouTube"
+	},
+	{
 		"created_at": "Sat Dec 19 13:58:16 +0000 2020",
 		"id": 1340248833083625500,
 		"id_str": "1340295385726631937",
