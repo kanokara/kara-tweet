@@ -1,6 +1,922 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 20 17:52:25 +0000 2020",
+		"id": 1340716702821089300,
+		"id_str": "1340716702821089280",
+		"full_text": "고인 모독... 코드기아스는 1기에서 끝났어요. 끝났다구.\nhttps://t.co/qYACXn3qf2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qYACXn3qf2",
+					"expanded_url": "https://twitter.com/Gumki_main/status/1337804323460243458?s=19",
+					"display_url": "twitter.com/Gumki_main/sta…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 92,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12817,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340296015954419712/kGlJ3vLc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340296015954419712/kGlJ3vLc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1337804323460243500,
+		"quoted_status_id_str": "1337804323460243458",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qYACXn3qf2",
+			"expanded": "https://twitter.com/Gumki_main/status/1337804323460243458?s=19",
+			"display": "twitter.com/Gumki_main/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 12 16:59:40 +0000 2020",
+			"id": 1337804323460243500,
+			"id_str": "1337804323460243458",
+			"full_text": "코드기어스ㅋㅋㅋ \n신작으로 폰게임 내고 새로운 티비시리즈 나온데요\n기존캐릭터는..? https://t.co/sNYwEJsMKT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				46
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1337804320700428300,
+						"id_str": "1337804320700428288",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/EpDV8RJU8AArfco.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpDV8RJU8AArfco.jpg",
+						"url": "https://t.co/sNYwEJsMKT",
+						"display_url": "pic.twitter.com/sNYwEJsMKT",
+						"expanded_url": "https://twitter.com/Gumki_main/status/1337804323460243458/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 996,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 331,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 584,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1337804320700428300,
+						"id_str": "1337804320700428288",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/EpDV8RJU8AArfco.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpDV8RJU8AArfco.jpg",
+						"url": "https://t.co/sNYwEJsMKT",
+						"display_url": "pic.twitter.com/sNYwEJsMKT",
+						"expanded_url": "https://twitter.com/Gumki_main/status/1337804323460243458/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 996,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 331,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 584,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1054067807258763300,
+				"id_str": "1054067807258763264",
+				"name": "피네",
+				"screen_name": "Gumki_main",
+				"location": "",
+				"description": "구독하게 남겨주세요 감사합니다\n▶️연성계및 백업계(@Gumki_create)\n헤더: 커미션(한진님@_gkswls0413_)\n🔽프로필 참고",
+				"url": "https://t.co/Z0jjCVhum8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Z0jjCVhum8",
+								"expanded_url": "https://pinanim.postype.com/post/5600337",
+								"display_url": "pinanim.postype.com/post/5600337",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 163,
+				"friends_count": 287,
+				"listed_count": 0,
+				"created_at": "Sun Oct 21 17:52:03 +0000 2018",
+				"favourites_count": 20528,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 340,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1337061437433401346/F6WKVrxL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1337061437433401346/F6WKVrxL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1054067807258763264/1591636644",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "고인 모독... 코드기아스는 1기에서 끝났어요. 끝났다구.\nhttps://t.co/qYACXn3qf2"
+	},
+	{
+		"created_at": "Sun Dec 20 17:49:20 +0000 2020",
+		"id": 1337804323460243500,
+		"id_str": "1340715925079638017",
+		"full_text": "코드기어스ㅋㅋㅋ \n신작으로 폰게임 내고 새로운 티비시리즈 나온데요\n기존캐릭터는..? https://t.co/sNYwEJsMKT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337804320700428300,
+					"id_str": "1337804320700428288",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/EpDV8RJU8AArfco.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpDV8RJU8AArfco.jpg",
+					"url": "https://t.co/sNYwEJsMKT",
+					"display_url": "pic.twitter.com/sNYwEJsMKT",
+					"expanded_url": "https://twitter.com/Gumki_main/status/1337804323460243458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 996,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 331,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 584,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337804320700428300,
+					"id_str": "1337804320700428288",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/EpDV8RJU8AArfco.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpDV8RJU8AArfco.jpg",
+					"url": "https://t.co/sNYwEJsMKT",
+					"display_url": "pic.twitter.com/sNYwEJsMKT",
+					"expanded_url": "https://twitter.com/Gumki_main/status/1337804323460243458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 996,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 331,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 584,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1054067807258763300,
+			"id_str": "1054067807258763264",
+			"name": "피네",
+			"screen_name": "Gumki_main",
+			"location": "",
+			"description": "구독하게 남겨주세요 감사합니다\n▶️연성계및 백업계(@Gumki_create)\n헤더: 커미션(한진님@_gkswls0413_)\n🔽프로필 참고",
+			"url": "https://t.co/Z0jjCVhum8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z0jjCVhum8",
+							"expanded_url": "https://pinanim.postype.com/post/5600337",
+							"display_url": "pinanim.postype.com/post/5600337",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 163,
+			"friends_count": 287,
+			"listed_count": 0,
+			"created_at": "Sun Oct 21 17:52:03 +0000 2018",
+			"favourites_count": 20528,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1337061437433401346/F6WKVrxL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1337061437433401346/F6WKVrxL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1054067807258763264/1591636644",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코드기어스ㅋㅋㅋ \n신작으로 폰게임 내고 새로운 티비시리즈 나온데요\n기존캐릭터는..? https://t.co/sNYwEJsMKT"
+	},
+	{
+		"created_at": "Sun Dec 20 17:46:33 +0000 2020",
+		"id": 1256911008221683700,
+		"id_str": "1340715224601481217",
+		"full_text": "그건 어떤 은유가 아니냐 막 그랬는데 22화에서 정말 황제가 되었단 말이에요 진짜 미친 애니지 한 달전까지 반란군수괴였는데 한 달 후가 되면 반대편에서 황제가 되는 스토리가 된다고",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1256911006598434800,
+		"in_reply_to_status_id_str": "1256911006598434817",
+		"in_reply_to_user_id": 181958213,
+		"in_reply_to_user_id_str": "181958213",
+		"in_reply_to_screen_name": "methylpred",
+		"user": {
+			"id": 181958213,
+			"id_str": "181958213",
+			"name": "Pred🌏",
+			"screen_name": "methylpred",
+			"location": "나의 아름다운 악의 꽃",
+			"description": "Profile icon picture from @ejrwlfrnehr\nコ-ドギアス/를르슈 메인. PSYCHO-PASS/기노자, A3!/사쿄를 최애로 오른쪽으로 파는 잡덕후죠. 사담, 폭트, 리튓 다수 F/U/B FREE. 인생을 날로 먹고 싶어",
+			"url": "https://t.co/HAaq3pCHoF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HAaq3pCHoF",
+							"expanded_url": "http://nitrogenal.tistory.com/",
+							"display_url": "nitrogenal.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 241,
+			"friends_count": 220,
+			"listed_count": 2,
+			"created_at": "Mon Aug 23 13:33:13 +0000 2010",
+			"favourites_count": 6262,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 116297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E3E0D1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1037607800006893568/UewNHDrd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1037607800006893568/UewNHDrd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/181958213/1586770102",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "448668",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그건 어떤 은유가 아니냐 막 그랬는데 22화에서 정말 황제가 되었단 말이에요 진짜 미친 애니지 한 달전까지 반란군수괴였는데 한 달 후가 되면 반대편에서 황제가 되는 스토리가 된다고"
+	},
+	{
+		"created_at": "Sun Dec 20 17:46:31 +0000 2020",
+		"id": 1256911006598434800,
+		"id_str": "1340715214661013504",
+		"full_text": "제일 좋아하는 코드기어스 에피 r2 19화인데 당시에 아니메쥬나 뉴타입 같은 데는 한달치 향후 에피 일정표가 나온단 말이에여 19화에서 배신당해서 빈몸으로 쫓겨났는데 22화 제목이 황제 를르슈란 말야 이글루스에서 애니리뷰로 유명한 분 포스트에 어떻게 그 상황에서 루루가 황제가 되느냐",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 181958213,
+			"id_str": "181958213",
+			"name": "Pred🌏",
+			"screen_name": "methylpred",
+			"location": "나의 아름다운 악의 꽃",
+			"description": "Profile icon picture from @ejrwlfrnehr\nコ-ドギアス/를르슈 메인. PSYCHO-PASS/기노자, A3!/사쿄를 최애로 오른쪽으로 파는 잡덕후죠. 사담, 폭트, 리튓 다수 F/U/B FREE. 인생을 날로 먹고 싶어",
+			"url": "https://t.co/HAaq3pCHoF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HAaq3pCHoF",
+							"expanded_url": "http://nitrogenal.tistory.com/",
+							"display_url": "nitrogenal.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 241,
+			"friends_count": 220,
+			"listed_count": 2,
+			"created_at": "Mon Aug 23 13:33:13 +0000 2010",
+			"favourites_count": 6262,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 116297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E3E0D1",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1037607800006893568/UewNHDrd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1037607800006893568/UewNHDrd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/181958213/1586770102",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000B17",
+			"profile_text_color": "448668",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "제일 좋아하는 코드기어스 에피 r2 19화인데 당시에 아니메쥬나 뉴타입 같은 데는 한달치 향후 에피 일정표가 나온단 말이에여 19화에서 배신당해서 빈몸으로 쫓겨났는데 22화 제목이 황제 를르슈란 말야 이글루스에서 애니리뷰로 유명한 분 포스트에 어떻게 그 상황에서 루루가 황제가 되느냐"
+	},
+	{
+		"created_at": "Sun Dec 20 17:35:38 +0000 2020",
+		"id": 1340712478011846700,
+		"id_str": "1340712478011846656",
+		"full_text": "코드기아스의 절정부. 영원히 가면을 벗을 수 없는 삶. 돌이킬 수 없는 죄악과 책임. https://t.co/pXhuFVHZgB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1340712463977730000,
+					"id_str": "1340712463977730049",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/Epsq4fFU0AEEAfm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Epsq4fFU0AEEAfm.jpg",
+					"url": "https://t.co/pXhuFVHZgB",
+					"display_url": "pic.twitter.com/pXhuFVHZgB",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1340712478011846656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1340712463977730000,
+					"id_str": "1340712463977730049",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/Epsq4fFU0AEEAfm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Epsq4fFU0AEEAfm.jpg",
+					"url": "https://t.co/pXhuFVHZgB",
+					"display_url": "pic.twitter.com/pXhuFVHZgB",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1340712478011846656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1340712472039153700,
+					"id_str": "1340712472039153665",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/Epsq49HUYAEtZuV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Epsq49HUYAEtZuV.jpg",
+					"url": "https://t.co/pXhuFVHZgB",
+					"display_url": "pic.twitter.com/pXhuFVHZgB",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1340712478011846656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1340708198462832600,
+		"in_reply_to_status_id_str": "1340708198462832640",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 92,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12817,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340296015954419712/kGlJ3vLc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340296015954419712/kGlJ3vLc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코드기아스의 절정부. 영원히 가면을 벗을 수 없는 삶. 돌이킬 수 없는 죄악과 책임. https://t.co/pXhuFVHZgB"
+	},
+	{
+		"created_at": "Sun Dec 20 17:18:38 +0000 2020",
+		"id": 1340708198462832600,
+		"id_str": "1340708198462832640",
+		"full_text": "사랑받을 자격이 없어, 신뢰받을 자격이 없어, 날 그런 눈으로 보지 마!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1340707020937199600,
+		"in_reply_to_status_id_str": "1340707020937199617",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 92,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12817,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340296015954419712/kGlJ3vLc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340296015954419712/kGlJ3vLc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "사랑받을 자격이 없어, 신뢰받을 자격이 없어, 날 그런 눈으로 보지 마!"
+	},
+	{
 		"created_at": "Sun Dec 20 17:06:14 +0000 2020",
 		"id": 1340705079976870000,
 		"id_str": "1340705079976869888",
