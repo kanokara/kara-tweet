@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 22 16:41:37 +0000 2020",
+		"id": 1341233254804770800,
+		"id_str": "1341423659966025728",
+		"full_text": "아니 심지어... 오타쿠입장에선 별로 맛있지도않음\n머글들을향한 충격요법인가 싶음 https://t.co/ocPdoBu3Vf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ocPdoBu3Vf",
+					"expanded_url": "https://twitter.com/your_dawn__/status/1340961687218733056",
+					"display_url": "twitter.com/your_dawn__/st…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 946374616431321100,
+			"id_str": "946374616431321089",
+			"name": "홍시",
+			"screen_name": "turnipgravity",
+			"location": "책임해피중",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 94,
+			"friends_count": 99,
+			"listed_count": 0,
+			"created_at": "Thu Dec 28 13:37:46 +0000 2017",
+			"favourites_count": 1134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1249972776867266560/aYLa-1_N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1249972776867266560/aYLa-1_N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/946374616431321089/1583683556",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1340961687218733000,
+		"quoted_status_id_str": "1340961687218733056",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ocPdoBu3Vf",
+			"expanded": "https://twitter.com/your_dawn__/status/1340961687218733056",
+			"display": "twitter.com/your_dawn__/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 21 10:05:54 +0000 2020",
+			"id": 1340961687218733000,
+			"id_str": "1340961687218733056",
+			"full_text": "어떤 오타쿠가 어떻게 입을 털었길래 이런 마케팅이 가능한 거냐고 정말 알다가도 모를 일이다 https://t.co/VN6KtLL8FW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				50
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VN6KtLL8FW",
+						"expanded_url": "https://twitter.com/leaf14all/status/1340951519550566403",
+						"display_url": "twitter.com/leaf14all/stat…",
+						"indices": [
+							51,
+							74
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1041250684090253300,
+				"id_str": "1041250684090253312",
+				"name": "✨ 연말기념 팔로정리 예정 메인트 참고 ✨",
+				"screen_name": "your_dawn__",
+				"location": "다음 생은 없어요 엉망으로 살아야 돼요",
+				"description": "다음 생엔 후레쉬베리로 태어나시길",
+				"url": "https://t.co/PAEzVGTcC0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PAEzVGTcC0",
+								"expanded_url": "http://peing.net/ko/your_dawn__",
+								"display_url": "peing.net/ko/your_dawn__",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 164,
+				"friends_count": 185,
+				"listed_count": 0,
+				"created_at": "Sun Sep 16 09:01:23 +0000 2018",
+				"favourites_count": 15499,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 72533,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1340688211325030400/bhwsasuL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340688211325030400/bhwsasuL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1041250684090253312/1543867099",
+				"profile_link_color": "6EDCDC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1340951519550566400,
+			"quoted_status_id_str": "1340951519550566403",
+			"quoted_status_permalink": {
+				"url": "https://t.co/VN6KtLL8FW",
+				"expanded": "https://twitter.com/leaf14all/status/1340951519550566403",
+				"display": "twitter.com/leaf14all/stat…"
+			},
+			"retweet_count": 6096,
+			"favorite_count": 1854,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 33,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아니 심지어... 오타쿠입장에선 별로 맛있지도않음\n머글들을향한 충격요법인가 싶음 https://t.co/ocPdoBu3Vf"
+	},
+	{
 		"created_at": "Tue Dec 22 08:44:34 +0000 2020",
 		"id": 1341303605492498400,
 		"id_str": "1341303605492498433",
