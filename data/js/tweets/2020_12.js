@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 24 13:20:33 +0000 2020",
+		"id": 1341966033230258200,
+		"id_str": "1342097836100386818",
+		"full_text": "사진이 묘하게 흐릿한게 맘에 안들어서 다시... \n어제 사부작 해보았습니다 정말.. 최고의 폴라...👍\n텡상.. 사랑해요. 사랑합니다. 평생. 사랑하겠습니다. https://t.co/yXp8xv7Q47",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341966029103100000,
+					"id_str": "1341966029103099905",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-e_lFU8AE8zz1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-e_lFU8AE8zz1.jpg",
+					"url": "https://t.co/yXp8xv7Q47",
+					"display_url": "pic.twitter.com/yXp8xv7Q47",
+					"expanded_url": "https://twitter.com/reusable_mj/status/1341966033230258184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341966029103100000,
+					"id_str": "1341966029103099905",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-e_lFU8AE8zz1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-e_lFU8AE8zz1.jpg",
+					"url": "https://t.co/yXp8xv7Q47",
+					"display_url": "pic.twitter.com/yXp8xv7Q47",
+					"expanded_url": "https://twitter.com/reusable_mj/status/1341966033230258184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 757503251818221600,
+			"id_str": "757503251818221568",
+			"name": "✨𝑴𝒖𝒏𝒅𝒚✨",
+			"screen_name": "reusable_mj",
+			"location": "",
+			"description": "먼디 | 내스급_유진른 위주 올라운더 | 페잉 및 문의 아래 링크",
+			"url": "https://t.co/UIydk77Abu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UIydk77Abu",
+							"expanded_url": "https://linktr.ee/reusable_mj",
+							"display_url": "linktr.ee/reusable_mj",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3161,
+			"friends_count": 223,
+			"listed_count": 9,
+			"created_at": "Mon Jul 25 09:10:23 +0000 2016",
+			"favourites_count": 18190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1286484717924048896/GEV3T6lE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1286484717924048896/GEV3T6lE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/757503251818221568/1595519056",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사진이 묘하게 흐릿한게 맘에 안들어서 다시... \n어제 사부작 해보았습니다 정말.. 최고의 폴라...👍\n텡상.. 사랑해요. 사랑합니다. 평생. 사랑하겠습니다. https://t.co/yXp8xv7Q47"
+	},
+	{
+		"created_at": "Thu Dec 24 13:20:20 +0000 2020",
+		"id": 1341759774048710700,
+		"id_str": "1342097781662478338",
+		"full_text": "제 폴라로 폴꾸해주신것들 모아봤는데 하나같이 다 너무 예쁘지 않나요..ㅠㅠㅠ 진짜 뽑은 보람 넘쳐흐르는🥺💓 다들 폴꾸하시면 꼭 저 태그해주셔야해요.. https://t.co/N8Ut4dG9Tk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341759747163181000,
+					"id_str": "1341759747163181058",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep7jYY-UUAIVSwS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep7jYY-UUAIVSwS.jpg",
+					"url": "https://t.co/N8Ut4dG9Tk",
+					"display_url": "pic.twitter.com/N8Ut4dG9Tk",
+					"expanded_url": "https://twitter.com/clumsy_oranges/status/1341759774048710658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341759747163181000,
+					"id_str": "1341759747163181058",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep7jYY-UUAIVSwS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep7jYY-UUAIVSwS.jpg",
+					"url": "https://t.co/N8Ut4dG9Tk",
+					"display_url": "pic.twitter.com/N8Ut4dG9Tk",
+					"expanded_url": "https://twitter.com/clumsy_oranges/status/1341759774048710658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4230378493,
+			"id_str": "4230378493",
+			"name": "텡",
+			"screen_name": "clumsy_oranges",
+			"location": "",
+			"description": "成人❗️ 잡덕입니다🥺 내스급 전독시 위주 / 헤더 그달님 / 외주문의 : clumsyoranges@gmail.com / 1차벨계 : @ttangfire",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14403,
+			"friends_count": 321,
+			"listed_count": 72,
+			"created_at": "Sat Nov 14 03:30:34 +0000 2015",
+			"favourites_count": 18240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1338535371777343488/JzTKC9g__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1338535371777343488/JzTKC9g__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4230378493/1600153727",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제 폴라로 폴꾸해주신것들 모아봤는데 하나같이 다 너무 예쁘지 않나요..ㅠㅠㅠ 진짜 뽑은 보람 넘쳐흐르는🥺💓 다들 폴꾸하시면 꼭 저 태그해주셔야해요.. https://t.co/N8Ut4dG9Tk"
+	},
+	{
 		"created_at": "Wed Dec 23 23:27:44 +0000 2020",
 		"id": 1341888251318059000,
 		"id_str": "1341888251318059008",
