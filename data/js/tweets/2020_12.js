@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 24 16:52:46 +0000 2020",
+		"id": 1342151242198347800,
+		"id_str": "1342151242198347776",
+		"full_text": "서열과 약육강식을 내면화하여 충실히 기득권을 뒷수발하고 체제를 계속화할 자원을 선별하는 장치로 기능하기 때문에... 능력론, 노력론 같은 해석은 그 언저리만 치는 형국.\nhttps://t.co/b5LfbYIFRb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b5LfbYIFRb",
+					"expanded_url": "https://twitter.com/inlemidnight/status/1341570509998211073?s=19",
+					"display_url": "twitter.com/inlemidnight/s…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 92,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2864,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340296015954419712/kGlJ3vLc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340296015954419712/kGlJ3vLc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1341570509998211000,
+		"quoted_status_id_str": "1341570509998211073",
+		"quoted_status_permalink": {
+			"url": "https://t.co/b5LfbYIFRb",
+			"expanded": "https://twitter.com/inlemidnight/status/1341570509998211073?s=19",
+			"display": "twitter.com/inlemidnight/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 23 02:25:09 +0000 2020",
+			"id": 1341570509998211000,
+			"id_str": "1341570509998211073",
+			"full_text": "내용이 너무 흥미롭다. 원래 언어와 수리 영역만 있었는데 영어 수업도 들어야 하니 영어도 넣고, 그러니까 왜 과학을 안 넣냐는 과학계 교수들의 과학탐구를 넣고, 이에 학문은 사회를 탐구하는 것에서 시작됐다고 사회탐구를 넣어 현재의 수능이 완성되었다고... https://t.co/d8QDFdO2Hr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				142
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/d8QDFdO2Hr",
+						"expanded_url": "https://twitter.com/lemay_wp/status/1341532036583075842",
+						"display_url": "twitter.com/lemay_wp/statu…",
+						"indices": [
+							143,
+							166
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1147524183833735200,
+				"id_str": "1147524183833735168",
+				"name": "인레",
+				"screen_name": "inlemidnight",
+				"location": "단절의 벽 너머",
+				"description": "곰이 되기로 한 오타쿠",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16652,
+				"friends_count": 478,
+				"listed_count": 53,
+				"created_at": "Sat Jul 06 15:14:20 +0000 2019",
+				"favourites_count": 5803,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12815,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1342112956536954886/CeImdKw__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1342112956536954886/CeImdKw__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1147524183833735168/1608518526",
+				"profile_link_color": "C21807",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1341532036583075800,
+			"quoted_status_id_str": "1341532036583075842",
+			"quoted_status_permalink": {
+				"url": "https://t.co/d8QDFdO2Hr",
+				"expanded": "https://twitter.com/lemay_wp/status/1341532036583075842",
+				"display": "twitter.com/lemay_wp/statu…"
+			},
+			"retweet_count": 2123,
+			"favorite_count": 666,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서열과 약육강식을 내면화하여 충실히 기득권을 뒷수발하고 체제를 계속화할 자원을 선별하는 장치로 기능하기 때문에... 능력론, 노력론 같은 해석은 그 언저리만 치는 형국.\nhttps://t.co/b5LfbYIFRb"
+	},
+	{
 		"created_at": "Thu Dec 24 15:50:43 +0000 2020",
 		"id": 1342135623772110800,
 		"id_str": "1342135623772110848",
