@@ -1,6 +1,774 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 25 22:03:31 +0000 2020",
+		"id": 1166717573443932200,
+		"id_str": "1342591831280795649",
+		"full_text": "작년에 올렸다가 산타죽엿어요?소리들은거 https://t.co/wjd6cs0fHO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1166717391478214700,
+					"id_str": "1166717391478214656",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1166717391478214656/pu/img/ujvHm0PpHOBUM3CM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1166717391478214656/pu/img/ujvHm0PpHOBUM3CM.jpg",
+					"url": "https://t.co/wjd6cs0fHO",
+					"display_url": "pic.twitter.com/wjd6cs0fHO",
+					"expanded_url": "https://twitter.com/Cheese_000/status/1166717573443932161/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1166717391478214700,
+					"id_str": "1166717391478214656",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1166717391478214656/pu/img/ujvHm0PpHOBUM3CM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1166717391478214656/pu/img/ujvHm0PpHOBUM3CM.jpg",
+					"url": "https://t.co/wjd6cs0fHO",
+					"display_url": "pic.twitter.com/wjd6cs0fHO",
+					"expanded_url": "https://twitter.com/Cheese_000/status/1166717573443932161/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 46880,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1166717391478214656/pu/pl/SeOsYv2MeZRL3XmC.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1166717391478214656/pu/vid/640x360/fCjrPG5yASXYGpLs.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1166717391478214656/pu/vid/480x270/j29jW_PyQ1lMkIyH.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1166717391478214656/pu/vid/1280x720/vVmby9rHhbcoejGc.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2955802849,
+			"id_str": "2955802849",
+			"name": "Cheese",
+			"screen_name": "Cheese_000",
+			"location": "Icon : @soup_and_bread",
+			"description": "| Cheese / 치즈 / チズ | DX3 | MGLG | Team KFC | Team Alea |\nHeader : @RR_the_dice",
+			"url": "https://t.co/PoaYQVKoqd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PoaYQVKoqd",
+							"expanded_url": "https://docs.google.com/spreadsheets/d/1xA7mg6BFOCDokPxdm561DG_fkzbg8ixTwwh8hhLecq4/edit?usp=sharing",
+							"display_url": "docs.google.com/spreadsheets/d…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 176,
+			"friends_count": 176,
+			"listed_count": 3,
+			"created_at": "Fri Jan 02 08:11:52 +0000 2015",
+			"favourites_count": 2690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1342491100959842307/6wZYthOo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1342491100959842307/6wZYthOo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2955802849/1604869011",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 948,
+		"favorite_count": 356,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "작년에 올렸다가 산타죽엿어요?소리들은거 https://t.co/wjd6cs0fHO"
+	},
+	{
+		"created_at": "Fri Dec 25 22:03:23 +0000 2020",
+		"id": 1342460194861641700,
+		"id_str": "1342591798904963072",
+		"full_text": "이 영상 조아...\n겨울밤 눈내린 폐허의 모든 꽃이 시든 유리온실에서 자기가 사랑했던 것들, 갖고 있던 것들, 소중했던 것들을 전부 잃은 사람이 행복한 추억의 한 자락을 회상하는 것 같아\n눈감고 혼자 왈츠 추면서 기억하는 크리스마스 풍경 속에 잠겨있다가 눈뜨면 외롭고 쓸쓸한 현실로 돌아오는 https://t.co/DOOvAHZFTg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DOOvAHZFTg",
+					"expanded_url": "https://twitter.com/Cheese_000/status/1166717573443932161",
+					"display_url": "twitter.com/Cheese_000/sta…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1315199593613680600,
+			"id_str": "1315199593613680640",
+			"name": "✦𝐌𝐎𝐍𝐀✦",
+			"screen_name": "mona_xhanok",
+			"location": "",
+			"description": "담백할 것.",
+			"url": "https://t.co/sfXTrQq3il",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sfXTrQq3il",
+							"expanded_url": "https://www.evernote.com/shard/s636/sh/f0421522-920d-4b50-b1d9-6cb8eec06389/02817d3cf52f2f4db1a51c49",
+							"display_url": "evernote.com/shard/s636/sh/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9,
+			"friends_count": 13,
+			"listed_count": 0,
+			"created_at": "Sun Oct 11 07:56:49 +0000 2020",
+			"favourites_count": 136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1333647488876613633/6eXcIfgH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1333647488876613633/6eXcIfgH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1315199593613680640/1606358784",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1166717573443932200,
+		"quoted_status_id_str": "1166717573443932161",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DOOvAHZFTg",
+			"expanded": "https://twitter.com/Cheese_000/status/1166717573443932161",
+			"display": "twitter.com/Cheese_000/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 28 14:22:00 +0000 2019",
+			"id": 1166717573443932200,
+			"id_str": "1166717573443932161",
+			"full_text": "작년에 올렸다가 산타죽엿어요?소리들은거 https://t.co/wjd6cs0fHO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				21
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1166717391478214700,
+						"id_str": "1166717391478214656",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1166717391478214656/pu/img/ujvHm0PpHOBUM3CM.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1166717391478214656/pu/img/ujvHm0PpHOBUM3CM.jpg",
+						"url": "https://t.co/wjd6cs0fHO",
+						"display_url": "pic.twitter.com/wjd6cs0fHO",
+						"expanded_url": "https://twitter.com/Cheese_000/status/1166717573443932161/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1166717391478214700,
+						"id_str": "1166717391478214656",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1166717391478214656/pu/img/ujvHm0PpHOBUM3CM.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1166717391478214656/pu/img/ujvHm0PpHOBUM3CM.jpg",
+						"url": "https://t.co/wjd6cs0fHO",
+						"display_url": "pic.twitter.com/wjd6cs0fHO",
+						"expanded_url": "https://twitter.com/Cheese_000/status/1166717573443932161/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 46880,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1166717391478214656/pu/pl/SeOsYv2MeZRL3XmC.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1166717391478214656/pu/vid/640x360/fCjrPG5yASXYGpLs.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1166717391478214656/pu/vid/480x270/j29jW_PyQ1lMkIyH.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1166717391478214656/pu/vid/1280x720/vVmby9rHhbcoejGc.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2955802849,
+				"id_str": "2955802849",
+				"name": "Cheese",
+				"screen_name": "Cheese_000",
+				"location": "Icon : @soup_and_bread",
+				"description": "| Cheese / 치즈 / チズ | DX3 | MGLG | Team KFC | Team Alea |\nHeader : @RR_the_dice",
+				"url": "https://t.co/PoaYQVKoqd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PoaYQVKoqd",
+								"expanded_url": "https://docs.google.com/spreadsheets/d/1xA7mg6BFOCDokPxdm561DG_fkzbg8ixTwwh8hhLecq4/edit?usp=sharing",
+								"display_url": "docs.google.com/spreadsheets/d…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 176,
+				"friends_count": 176,
+				"listed_count": 3,
+				"created_at": "Fri Jan 02 08:11:52 +0000 2015",
+				"favourites_count": 2690,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4225,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1342491100959842307/6wZYthOo_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1342491100959842307/6wZYthOo_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2955802849/1604869011",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 948,
+			"favorite_count": 356,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 영상 조아...\n겨울밤 눈내린 폐허의 모든 꽃이 시든 유리온실에서 자기가 사랑했던 것들, 갖고 있던 것들, 소중했던 것들을 전부 잃은 사람이 행복한 추억의 한 자락을 회상하는 것 같아\n눈감고 혼자 왈츠 추면서 기억하는 크리스마스 풍경 속에 잠겨있다가 눈뜨면 외롭고 쓸쓸한 현실로 돌아오는 https://t.co/DOOvAHZFTg"
+	},
+	{
+		"created_at": "Fri Dec 25 22:02:16 +0000 2020",
+		"id": 1342591516242399200,
+		"id_str": "1342591516242399233",
+		"full_text": "머리도 안 좋은데 OS가 무거워...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1342589339889401900,
+		"in_reply_to_status_id_str": "1342589339889401856",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 92,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340296015954419712/kGlJ3vLc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340296015954419712/kGlJ3vLc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "머리도 안 좋은데 OS가 무거워..."
+	},
+	{
+		"created_at": "Fri Dec 25 21:53:37 +0000 2020",
+		"id": 1342589339889401900,
+		"id_str": "1342589339889401856",
+		"full_text": "머리가 좋은 사람은 하루를 더 길게 체감할까(체력/피로를 결정하는 몸의 문제를 배제했을 때)? 저는 그러리라고 봐요.\n저 자신은 분수에 맞지 않은 OS를 깔아서 남들보다 하루가 더 짧지 않을까 싶고...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 92,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340296015954419712/kGlJ3vLc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340296015954419712/kGlJ3vLc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "머리가 좋은 사람은 하루를 더 길게 체감할까(체력/피로를 결정하는 몸의 문제를 배제했을 때)? 저는 그러리라고 봐요.\n저 자신은 분수에 맞지 않은 OS를 깔아서 남들보다 하루가 더 짧지 않을까 싶고..."
+	},
+	{
+		"created_at": "Fri Dec 25 21:28:27 +0000 2020",
+		"id": 1342583005664055300,
+		"id_str": "1342583005664055296",
+		"full_text": "반응속도가 곧 인지속도이고 상대적 타임라인이란 걸 누군가는 가르쳐 줬어야 해.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1342581283126276000,
+		"in_reply_to_status_id_str": "1342581283126276096",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 92,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340296015954419712/kGlJ3vLc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340296015954419712/kGlJ3vLc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "반응속도가 곧 인지속도이고 상대적 타임라인이란 걸 누군가는 가르쳐 줬어야 해."
+	},
+	{
 		"created_at": "Fri Dec 25 21:06:43 +0000 2020",
 		"id": 1342577535628894200,
 		"id_str": "1342577535628894208",
