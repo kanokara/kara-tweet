@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 25 11:40:26 +0000 2020",
+		"id": 1235393197129384000,
+		"id_str": "1342435028253331457",
+		"full_text": "모르겠고 일하면서 갓곡이나 듣는 수밖엔\nhttps://t.co/MTSJmLdqnc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MTSJmLdqnc",
+					"expanded_url": "https://youtu.be/ReJsfzGeIXE",
+					"display_url": "youtu.be/ReJsfzGeIXE",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1235390940874850300,
+		"in_reply_to_status_id_str": "1235390940874850306",
+		"in_reply_to_user_id": 4853688324,
+		"in_reply_to_user_id_str": "4853688324",
+		"in_reply_to_screen_name": "A_sueun",
+		"user": {
+			"id": 4853688324,
+			"id_str": "4853688324",
+			"name": "SUEUN🥝",
+			"screen_name": "A_sueun",
+			"location": "💌hgsueun@gmail.com",
+			"description": "수은/그림으로 일하고 덕질하고 삽니다. 🚫NO reuploading of my art, thank you",
+			"url": "https://t.co/6oFw3pEwnv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6oFw3pEwnv",
+							"expanded_url": "http://pixiv.me/h_sueun",
+							"display_url": "pixiv.me/h_sueun",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25419,
+			"friends_count": 39,
+			"listed_count": 252,
+			"created_at": "Wed Feb 03 11:14:50 +0000 2016",
+			"favourites_count": 1825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2994,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163736226400104448/MArHTQhU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163736226400104448/MArHTQhU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4853688324/1515883533",
+			"profile_link_color": "BCB2C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모르겠고 일하면서 갓곡이나 듣는 수밖엔\nhttps://t.co/MTSJmLdqnc"
+	},
+	{
+		"created_at": "Fri Dec 25 11:34:27 +0000 2020",
+		"id": 1342433523123155000,
+		"id_str": "1342433523123154945",
+		"full_text": "이 리뷰는 5년만에 다시 봐도 좋네...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1342433257388839000,
+		"in_reply_to_status_id_str": "1342433257388838913",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 9,
+			"friends_count": 92,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2867,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1340296015954419712/kGlJ3vLc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1340296015954419712/kGlJ3vLc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이 리뷰는 5년만에 다시 봐도 좋네..."
+	},
+	{
 		"created_at": "Thu Dec 24 17:42:52 +0000 2020",
 		"id": 1342163850003542000,
 		"id_str": "1342163850003542016",
