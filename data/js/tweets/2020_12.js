@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 31 12:03:39 +0000 2020",
+		"id": 1344298160865251300,
+		"id_str": "1344615199257497601",
+		"full_text": "https://t.co/Y5Wd2XmckU\n[ Start from here! ]\n1년동안 열심히 달려왔던 34인 합작이\n2021.01.01 0시에 공개! https://t.co/mSr3ZVNbnC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y5Wd2XmckU",
+					"expanded_url": "https://youtu.be/2UQM2c-FO2M",
+					"display_url": "youtu.be/2UQM2c-FO2M",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1344298071761379300,
+					"id_str": "1344298071761379329",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1344298071761379329/pu/img/8DQk2EnzBfaPfpPD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1344298071761379329/pu/img/8DQk2EnzBfaPfpPD.jpg",
+					"url": "https://t.co/mSr3ZVNbnC",
+					"display_url": "pic.twitter.com/mSr3ZVNbnC",
+					"expanded_url": "https://twitter.com/Plndang2/status/1344298160865251330/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344298071761379300,
+					"id_str": "1344298071761379329",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1344298071761379329/pu/img/8DQk2EnzBfaPfpPD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1344298071761379329/pu/img/8DQk2EnzBfaPfpPD.jpg",
+					"url": "https://t.co/mSr3ZVNbnC",
+					"display_url": "pic.twitter.com/mSr3ZVNbnC",
+					"expanded_url": "https://twitter.com/Plndang2/status/1344298160865251330/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 18000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1344298071761379329/pu/pl/adSqP0a5-8oUvryM.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1344298071761379329/pu/vid/640x360/uVUKDkB3Rbb0JYtJ.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1344298071761379329/pu/vid/480x270/3b8SnPYsUyGWgAJw.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1344298071761379329/pu/vid/1280x720/2LGxo6gW55RjoUkI.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2277021636,
+			"id_str": "2277021636",
+			"name": "✿Start from here!",
+			"screen_name": "Plndang2",
+			"location": "I @Dong_aaaaaa , H @se2_ju",
+			"description": "20+ 남성 / PV & Motion Graphics #Pindang2_Works\n》》》》》 더이상 작업 못받습니다 《《《《《",
+			"url": "https://t.co/wUXIfN7rfp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wUXIfN7rfp",
+							"expanded_url": "http://pindang2.com",
+							"display_url": "pindang2.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 955,
+			"friends_count": 519,
+			"listed_count": 36,
+			"created_at": "Sun Jan 05 03:28:33 +0000 2014",
+			"favourites_count": 42740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332286002166001664/kNn7S6Bf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332286002166001664/kNn7S6Bf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2277021636/1605114093",
+			"profile_link_color": "7B90FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/Y5Wd2XmckU\n[ Start from here! ]\n1년동안 열심히 달려왔던 34인 합작이\n2021.01.01 0시에 공개! https://t.co/mSr3ZVNbnC"
+	},
+	{
 		"created_at": "Thu Dec 31 11:05:03 +0000 2020",
 		"id": 1344600451262468000,
 		"id_str": "1344600451262468102",
