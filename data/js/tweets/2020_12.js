@@ -1,6 +1,933 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 31 14:08:52 +0000 2020",
+		"id": 1344646709020803000,
+		"id_str": "1344646709020803072",
+		"full_text": "@Bloomers_Suki 00년대 잠깐 보았을 땐 멀쩡한(?) 야설 사이트로 알았는데, 어느 순간 들리는 소식을 보니까 악의 온상이 되어있던...",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bloomers_Suki",
+					"name": "씁",
+					"id": 220722651,
+					"id_str": "220722651",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1344638690673348600,
+		"in_reply_to_status_id_str": "1344638690673348608",
+		"in_reply_to_user_id": 220722651,
+		"in_reply_to_user_id_str": "220722651",
+		"in_reply_to_screen_name": "Bloomers_Suki",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@Bloomers_Suki 00년대 잠깐 보았을 땐 멀쩡한(?) 야설 사이트로 알았는데, 어느 순간 들리는 소식을 보니까 악의 온상이 되어있던..."
+	},
+	{
+		"created_at": "Thu Dec 31 14:04:44 +0000 2020",
+		"id": 1344645669106028500,
+		"id_str": "1344645669106028544",
+		"full_text": "7년 전 글인 여기서 보미 님 파트에 꽂혀서 찾아봤더니 이 분은 아직 활동 중이시네요. 사실 아트리 쪽 게시글엔 파트 담당이 안 써져 있어서 편집자 계정에서 다시 파트를 찾고...의 노가다.\n\n[18인 합창] Smiling:: Christmas Edition\nhttps://t.co/ZSBo7WkaJT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZSBo7WkaJT",
+					"expanded_url": "https://cafe.naver.com/vocaloidempire/8657",
+					"display_url": "cafe.naver.com/vocaloidempire…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "7년 전 글인 여기서 보미 님 파트에 꽂혀서 찾아봤더니 이 분은 아직 활동 중이시네요. 사실 아트리 쪽 게시글엔 파트 담당이 안 써져 있어서 편집자 계정에서 다시 파트를 찾고...의 노가다.\n\n[18인 합창] Smiling:: Christmas Edition\nhttps://t.co/ZSBo7WkaJT"
+	},
+	{
+		"created_at": "Thu Dec 31 14:02:50 +0000 2020",
+		"id": 1322525040991088600,
+		"id_str": "1344645191668441089",
+		"full_text": "고전곡 탐라로 끌고왔습니다 👻 \n옛날엔 이런걸 잘도불렀다요.. https://t.co/JfKJpiPPdY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JfKJpiPPdY",
+					"expanded_url": "https://twitter.com/lonaise_71/status/1322510943054516224",
+					"display_url": "twitter.com/lonaise_71/sta…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1623718759,
+			"id_str": "1623718759",
+			"name": "보미′ᴗ‵✿",
+			"screen_name": "hello_budew",
+			"location": "신오지방 영원의 숲",
+			"description": "녹음잘안하는보미 ′ᴗ‵✿/성인(20↑)/일상트多 [I:- H:-] #스봄이_메모 / 꼬몽울 비즈니스호텔",
+			"url": "https://t.co/eseI1AtrhB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eseI1AtrhB",
+							"expanded_url": "http://ate.li/er/hello_budew",
+							"display_url": "ate.li/er/hello_budew",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81,
+			"friends_count": 109,
+			"listed_count": 0,
+			"created_at": "Fri Jul 26 19:30:04 +0000 2013",
+			"favourites_count": 3669,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209674090639839232/-fSNgfAJ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209674090639839232/-fSNgfAJ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1623718759/1566877221",
+			"profile_link_color": "69D17D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1322510943054516200,
+		"quoted_status_id_str": "1322510943054516224",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JfKJpiPPdY",
+			"expanded": "https://twitter.com/lonaise_71/status/1322510943054516224",
+			"display": "twitter.com/lonaise_71/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 31 12:09:14 +0000 2020",
+			"id": 1322510943054516200,
+			"id_str": "1322510943054516224",
+			"full_text": "💛👻[로네즈 x 보미] Happy Halloween👻💚\n\n🍫🍭🍬해피할로윈! 🍬🍭🍫\n많이 놀러 와서 들어주시기!\n\n#녹음러_트친소 #신곡_홍보 \n#목소리가_취향이라면_RT_마음 \n\nfull : https://t.co/S1xysOQ1Sl https://t.co/j9xggHIgyc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				130
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "녹음러_트친소",
+						"indices": [
+							63,
+							71
+						]
+					},
+					{
+						"text": "신곡_홍보",
+						"indices": [
+							72,
+							78
+						]
+					},
+					{
+						"text": "목소리가_취향이라면_RT_마음",
+						"indices": [
+							80,
+							97
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/S1xysOQ1Sl",
+						"expanded_url": "https://youtu.be/AWsUGO7IJ6I",
+						"display_url": "youtu.be/AWsUGO7IJ6I",
+						"indices": [
+							107,
+							130
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1322510848229666800,
+						"id_str": "1322510848229666816",
+						"indices": [
+							131,
+							154
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1322510848229666816/pu/img/QaPc6PIE_zjcN7WM.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1322510848229666816/pu/img/QaPc6PIE_zjcN7WM.jpg",
+						"url": "https://t.co/j9xggHIgyc",
+						"display_url": "pic.twitter.com/j9xggHIgyc",
+						"expanded_url": "https://twitter.com/lonaise_71/status/1322510943054516224/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 852,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 852,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1322510848229666800,
+						"id_str": "1322510848229666816",
+						"indices": [
+							131,
+							154
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1322510848229666816/pu/img/QaPc6PIE_zjcN7WM.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1322510848229666816/pu/img/QaPc6PIE_zjcN7WM.jpg",
+						"url": "https://t.co/j9xggHIgyc",
+						"display_url": "pic.twitter.com/j9xggHIgyc",
+						"expanded_url": "https://twitter.com/lonaise_71/status/1322510943054516224/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 852,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 852,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								71,
+								40
+							],
+							"duration_millis": 88980,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1322510848229666816/pu/vid/638x360/hPNGKvolnxJHD_T3.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1322510848229666816/pu/vid/852x480/PvZnfvG3Xkowkfl6.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1322510848229666816/pu/vid/478x270/B9puB7RaqzNi2grZ.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1322510848229666816/pu/pl/Uirh_y_uMjCRm00e.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1180799668264947700,
+				"id_str": "1180799668264947713",
+				"name": "🌙로네즈🌙",
+				"screen_name": "lonaise_71",
+				"location": "인장 : 🍬아이벨님🍬",
+				"description": "🎵20⬆️ / 노래 / 콜라보 문의 DM🎵",
+				"url": "https://t.co/jOOeHl4enW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jOOeHl4enW",
+								"expanded_url": "https://www.youtube.com/channel/UCkxfbgoXezP2uUileJbXyIg",
+								"display_url": "youtube.com/channel/UCkxfb…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 208,
+				"friends_count": 207,
+				"listed_count": 0,
+				"created_at": "Sun Oct 06 10:59:36 +0000 2019",
+				"favourites_count": 274,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 218,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1330413132179714050/l6m0rEqR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330413132179714050/l6m0rEqR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1180799668264947713/1587298802",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "고전곡 탐라로 끌고왔습니다 👻 \n옛날엔 이런걸 잘도불렀다요.. https://t.co/JfKJpiPPdY"
+	},
+	{
+		"created_at": "Thu Dec 31 13:26:55 +0000 2020",
+		"id": 1344636152679022600,
+		"id_str": "1344636152679022595",
+		"full_text": ":: クリスマスソング_back number ::\nVocal &amp; LYRICS | 톧므 (@TodMu_Uta)\nhttps://t.co/eTXeWT3GWI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TodMu_Uta",
+					"name": "𝚃 𝚘 𝚍 𝙼 𝚞@계이메인트봐주세용",
+					"id": 1684407420,
+					"id_str": "1684407420",
+					"indices": [
+						52,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eTXeWT3GWI",
+					"expanded_url": "https://todmu.ateli.com/LmcOjmM",
+					"display_url": "todmu.ateli.com/LmcOjmM",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1344635982402896000,
+		"in_reply_to_status_id_str": "1344635982402895878",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": ":: クリスマスソング_back number ::\nVocal &amp; LYRICS | 톧므 (@TodMu_Uta)\nhttps://t.co/eTXeWT3GWI"
+	},
+	{
+		"created_at": "Thu Dec 31 13:26:14 +0000 2020",
+		"id": 1344635982402896000,
+		"id_str": "1344635982402895878",
+		"full_text": "[윤 혜] 내가 죽으려고 생각한 것은 (僕が死のうと思ったのは) Piano.ver Cover\nhttps://t.co/zHW6tDfr8u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zHW6tDfr8u",
+					"expanded_url": "https://www.youtube.com/watch?v=jaymQNXPFjo",
+					"display_url": "youtube.com/watch?v=jaymQN…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1344635869819359200,
+		"in_reply_to_status_id_str": "1344635869819359232",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[윤 혜] 내가 죽으려고 생각한 것은 (僕が死のうと思ったのは) Piano.ver Cover\nhttps://t.co/zHW6tDfr8u"
+	},
+	{
+		"created_at": "Thu Dec 31 13:25:48 +0000 2020",
+		"id": 1344635869819359200,
+		"id_str": "1344635869819359232",
+		"full_text": "다온 「Merry Go Round (회전목마)」 MV\nhttps://t.co/WInMb3iPdq\n\n【Collaboration】 첫소리 KOREA EDITION ✾\nhttps://t.co/WzoqVGVuid",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WInMb3iPdq",
+					"expanded_url": "https://www.youtube.com/watch?v=QBgHBau-6WA",
+					"display_url": "youtube.com/watch?v=QBgHBa…",
+					"indices": [
+						30,
+						53
+					]
+				},
+				{
+					"url": "https://t.co/WzoqVGVuid",
+					"expanded_url": "https://www.youtube.com/watch?v=bWNNIXNJY04",
+					"display_url": "youtube.com/watch?v=bWNNIX…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1344635733449982000,
+		"in_reply_to_status_id_str": "1344635733449981952",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다온 「Merry Go Round (회전목마)」 MV\nhttps://t.co/WInMb3iPdq\n\n【Collaboration】 첫소리 KOREA EDITION ✾\nhttps://t.co/WzoqVGVuid"
+	},
+	{
+		"created_at": "Thu Dec 31 13:25:15 +0000 2020",
+		"id": 1344635733449982000,
+		"id_str": "1344635733449981952",
+		"full_text": "20만원 짜리 노래와 율동 [살구송] https://t.co/Qq1JE90eCE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qq1JE90eCE",
+					"expanded_url": "https://youtu.be/nYWZdNSGmwc",
+					"display_url": "youtu.be/nYWZdNSGmwc",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1344590566286213000,
+		"in_reply_to_status_id_str": "1344590566286213121",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2913,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "20만원 짜리 노래와 율동 [살구송] https://t.co/Qq1JE90eCE"
+	},
+	{
 		"created_at": "Thu Dec 31 12:03:39 +0000 2020",
 		"id": 1344298160865251300,
 		"id_str": "1344615199257497601",
