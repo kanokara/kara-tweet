@@ -1,6 +1,683 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 31 14:59:56 +0000 2020",
+		"id": 1344658439067357200,
+		"id_str": "1344659562192728065",
+		"full_text": "『月姫』リメイク版2021年夏にPS4／Switchで発売決定。奈須きのこ氏・TYPE-MOONがおくる伝奇ビジュアルノベルが家庭用ゲームで蘇る https://t.co/G02iSyvvmk https://t.co/xlEyF8RSzp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G02iSyvvmk",
+					"expanded_url": "https://www.famitsu.com/news/202012/31212316.html",
+					"display_url": "famitsu.com/news/202012/31…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1344658431836266500,
+					"id_str": "1344658431836266504",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EqkvuC3VoAguoxO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqkvuC3VoAguoxO.jpg",
+					"url": "https://t.co/xlEyF8RSzp",
+					"display_url": "pic.twitter.com/xlEyF8RSzp",
+					"expanded_url": "https://twitter.com/famitsu/status/1344658439067357185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 359,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 359,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 359,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344658431836266500,
+					"id_str": "1344658431836266504",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EqkvuC3VoAguoxO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqkvuC3VoAguoxO.jpg",
+					"url": "https://t.co/xlEyF8RSzp",
+					"display_url": "pic.twitter.com/xlEyF8RSzp",
+					"expanded_url": "https://twitter.com/famitsu/status/1344658439067357185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 359,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 359,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 359,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1344658433522495500,
+					"id_str": "1344658433522495488",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EqkvuJJXcAAH2k9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqkvuJJXcAAH2k9.jpg",
+					"url": "https://t.co/xlEyF8RSzp",
+					"display_url": "pic.twitter.com/xlEyF8RSzp",
+					"expanded_url": "https://twitter.com/famitsu/status/1344658439067357185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 359,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 359,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 359,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1344658435183263700,
+					"id_str": "1344658435183263744",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EqkvuPVUwAAWyCm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqkvuPVUwAAWyCm.jpg",
+					"url": "https://t.co/xlEyF8RSzp",
+					"display_url": "pic.twitter.com/xlEyF8RSzp",
+					"expanded_url": "https://twitter.com/famitsu/status/1344658439067357185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 359,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 359,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 359,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1344658437330796500,
+					"id_str": "1344658437330796549",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EqkvuXVVgAUStPI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqkvuXVVgAUStPI.jpg",
+					"url": "https://t.co/xlEyF8RSzp",
+					"display_url": "pic.twitter.com/xlEyF8RSzp",
+					"expanded_url": "https://twitter.com/famitsu/status/1344658439067357185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 359,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 359,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 359,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/famitsu\" rel=\"nofollow\">famibot</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5921162,
+			"id_str": "5921162",
+			"name": "ファミ通.com",
+			"screen_name": "famitsu",
+			"location": "",
+			"description": "ゲーム、エンタメ情報サイト「ファミ通.com」の公式アカウントです。ゲーム、アニメ、マンガなど、いろいろなエンタメ情報を発信中！\nYouTubeチャンネル▶https://t.co/053yNU75jj",
+			"url": "https://t.co/a3O2ty8id0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a3O2ty8id0",
+							"expanded_url": "http://www.famitsu.com/",
+							"display_url": "famitsu.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/053yNU75jj",
+							"expanded_url": "https://www.youtube.com/user/famitsutube",
+							"display_url": "youtube.com/user/famitsutu…",
+							"indices": [
+								78,
+								101
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 743485,
+			"friends_count": 45611,
+			"listed_count": 10416,
+			"created_at": "Thu May 10 05:03:05 +0000 2007",
+			"favourites_count": 117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 242029,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090895659371180033/fcq5YqIb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090895659371180033/fcq5YqIb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5921162/1548925200",
+			"profile_link_color": "C10B14",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18277,
+		"favorite_count": 14832,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "『月姫』リメイク版2021年夏にPS4／Switchで発売決定。奈須きのこ氏・TYPE-MOONがおくる伝奇ビジュアルノベルが家庭用ゲームで蘇る https://t.co/G02iSyvvmk https://t.co/xlEyF8RSzp"
+	},
+	{
+		"created_at": "Thu Dec 31 14:59:39 +0000 2020",
+		"id": 1344658319160426500,
+		"id_str": "1344659491044802562",
+		"full_text": "月姫！！！！！！！\n\nhttps://t.co/l4kXZqncfa\n#FGO https://t.co/cMETqfz0D7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FGO",
+					"indices": [
+						35,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l4kXZqncfa",
+					"expanded_url": "http://appmedia.jp/fategrandorder/5850790",
+					"display_url": "appmedia.jp/fategrandorder…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1344658257877454800,
+					"id_str": "1344658257877454851",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/Eqkvj60U0AME2L-.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eqkvj60U0AME2L-.png",
+					"url": "https://t.co/cMETqfz0D7",
+					"display_url": "pic.twitter.com/cMETqfz0D7",
+					"expanded_url": "https://twitter.com/appmediafgo/status/1344658319160426496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 758,
+							"h": 431,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 758,
+							"h": 431,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344658257877454800,
+					"id_str": "1344658257877454851",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/Eqkvj60U0AME2L-.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eqkvj60U0AME2L-.png",
+					"url": "https://t.co/cMETqfz0D7",
+					"display_url": "pic.twitter.com/cMETqfz0D7",
+					"expanded_url": "https://twitter.com/appmediafgo/status/1344658319160426496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 758,
+							"h": 431,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 758,
+							"h": 431,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4025528353,
+			"id_str": "4025528353",
+			"name": "FGO攻略班@AppMedia",
+			"screen_name": "appmediafgo",
+			"location": "",
+			"description": "FGOのイベント、ドロップ効率など攻略情報をお届け中！  【攻略アプリ】 iOS▶︎https://t.co/sJga4QZjgh Android▶︎https://t.co/4oc3Lw0Etf",
+			"url": "https://t.co/2HQKb9aOyx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2HQKb9aOyx",
+							"expanded_url": "https://appmedia.jp/fategrandorder",
+							"display_url": "appmedia.jp/fategrandorder",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/sJga4QZjgh",
+							"expanded_url": "http://apple.co/2BJrioW",
+							"display_url": "apple.co/2BJrioW",
+							"indices": [
+								42,
+								65
+							]
+						},
+						{
+							"url": "https://t.co/4oc3Lw0Etf",
+							"expanded_url": "http://bit.ly/2CfmZ5W",
+							"display_url": "bit.ly/2CfmZ5W",
+							"indices": [
+								75,
+								98
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 382180,
+			"friends_count": 1010,
+			"listed_count": 5306,
+			"created_at": "Mon Oct 26 14:58:19 +0000 2015",
+			"favourites_count": 1426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132955060525158400/7flzlFtx_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132955060525158400/7flzlFtx_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4025528353/1606365839",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8589,
+		"favorite_count": 9426,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "月姫！！！！！！！\n\nhttps://t.co/l4kXZqncfa\n#FGO https://t.co/cMETqfz0D7"
+	},
+	{
+		"created_at": "Thu Dec 31 14:35:54 +0000 2020",
+		"id": 1344653513695977500,
+		"id_str": "1344653513695977473",
+		"full_text": "우타이테 분야는 실력이 있더라도 전업적 태도로 임하지 않으면 아예 인지가 안 되는구나, 싶던 여정이었네요. 피곤해서 더는 못 하겠지만 나름의 수확이 있어서 만족.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 93,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2914,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "우타이테 분야는 실력이 있더라도 전업적 태도로 임하지 않으면 아예 인지가 안 되는구나, 싶던 여정이었네요. 피곤해서 더는 못 하겠지만 나름의 수확이 있어서 만족."
+	},
+	{
+		"created_at": "Thu Dec 31 14:28:45 +0000 2020",
+		"id": 1344651713311957000,
+		"id_str": "1344651713311956992",
+		"full_text": "그런데 신기하게도 커뮤 분야는 맞닿는 부분은 있을지언정 거의 분화가 된 상태에 가깝단 인상이에요. 거리가 있다고는 느꼈지만 향유층 자신들의 인식부터가 그런 게, 프로필을 보면 선을 긋는 경우가 적잖게 보여서.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1344650912262803500,
+		"in_reply_to_status_id_str": "1344650912262803458",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 93,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2914,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "그런데 신기하게도 커뮤 분야는 맞닿는 부분은 있을지언정 거의 분화가 된 상태에 가깝단 인상이에요. 거리가 있다고는 느꼈지만 향유층 자신들의 인식부터가 그런 게, 프로필을 보면 선을 긋는 경우가 적잖게 보여서."
+	},
+	{
 		"created_at": "Thu Dec 31 14:08:52 +0000 2020",
 		"id": 1344646709020803000,
 		"id_str": "1344646709020803072",
