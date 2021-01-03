@@ -1,6 +1,357 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 03 12:44:28 +0000 2021",
+		"id": 1345332785855090700,
+		"id_str": "1345712634994196482",
+		"full_text": "민화는 사실 극사실주의 였던거임 https://t.co/lz3r4QH3lz https://t.co/DNcxJoZ5ry",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lz3r4QH3lz",
+					"expanded_url": "https://twitter.com/_teddybearrises/status/1344925258076229633",
+					"display_url": "twitter.com/_teddybearrise…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1345332771812638700,
+					"id_str": "1345332771812638720",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/EquVBzCVgAA-H1G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EquVBzCVgAA-H1G.jpg",
+					"url": "https://t.co/DNcxJoZ5ry",
+					"display_url": "pic.twitter.com/DNcxJoZ5ry",
+					"expanded_url": "https://twitter.com/leaf_oliv/status/1345332785855090689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 564,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 994,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1161,
+							"h": 1401,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1345332771812638700,
+					"id_str": "1345332771812638720",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/EquVBzCVgAA-H1G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EquVBzCVgAA-H1G.jpg",
+					"url": "https://t.co/DNcxJoZ5ry",
+					"display_url": "pic.twitter.com/DNcxJoZ5ry",
+					"expanded_url": "https://twitter.com/leaf_oliv/status/1345332785855090689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 564,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 994,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1161,
+							"h": 1401,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3981869413,
+			"id_str": "3981869413",
+			"name": "미하일 좋아하는 105 조락",
+			"screen_name": "leaf_oliv",
+			"location": "",
+			"description": "대부분 알티계정. 트위터 잘 안해요.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 162,
+			"friends_count": 92,
+			"listed_count": 1,
+			"created_at": "Thu Oct 22 16:14:04 +0000 2015",
+			"favourites_count": 26414,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234515268350595073/2PZeUVeB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234515268350595073/2PZeUVeB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3981869413/1602431896",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1344925258076229600,
+		"quoted_status_id_str": "1344925258076229633",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lz3r4QH3lz",
+			"expanded": "https://twitter.com/_teddybearrises/status/1344925258076229633",
+			"display": "twitter.com/_teddybearrise…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 01 08:35:43 +0000 2021",
+			"id": 1344925258076229600,
+			"id_str": "1344925258076229633",
+			"full_text": "나 순간포착 진짜 잘 한다 https://t.co/pWERIfVQnN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				14
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1344925248622248000,
+						"id_str": "1344925248622247937",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/EqoiY02VQAErMEg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EqoiY02VQAErMEg.jpg",
+						"url": "https://t.co/pWERIfVQnN",
+						"display_url": "pic.twitter.com/pWERIfVQnN",
+						"expanded_url": "https://twitter.com/_teddybearrises/status/1344925258076229633/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1344925248622248000,
+						"id_str": "1344925248622247937",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/EqoiY02VQAErMEg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EqoiY02VQAErMEg.jpg",
+						"url": "https://t.co/pWERIfVQnN",
+						"display_url": "pic.twitter.com/pWERIfVQnN",
+						"expanded_url": "https://twitter.com/_teddybearrises/status/1344925258076229633/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1344590605364576300,
+			"in_reply_to_status_id_str": "1344590605364576256",
+			"in_reply_to_user_id": 926109139868065800,
+			"in_reply_to_user_id_str": "926109139868065793",
+			"in_reply_to_screen_name": "_teddybearrises",
+			"user": {
+				"id": 926109139868065800,
+				"id_str": "926109139868065793",
+				"name": "감자",
+				"screen_name": "_teddybearrises",
+				"location": "",
+				"description": "고양이 밥 주는 사람",
+				"url": "https://t.co/sb7DZtDvZH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sb7DZtDvZH",
+								"expanded_url": "http://instagram.com/oneuldotanineun",
+								"display_url": "instagram.com/oneuldotanineun",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1808,
+				"friends_count": 139,
+				"listed_count": 5,
+				"created_at": "Thu Nov 02 15:30:00 +0000 2017",
+				"favourites_count": 1827,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3560,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1345461856505237504/wDdUarzT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345461856505237504/wDdUarzT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/926109139868065793/1593357994",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1274,
+			"favorite_count": 996,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 5656,
+		"favorite_count": 2196,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "민화는 사실 극사실주의 였던거임 https://t.co/lz3r4QH3lz https://t.co/DNcxJoZ5ry"
+	},
+	{
 		"created_at": "Sat Jan 02 13:38:00 +0000 2021",
 		"id": 1345363716531896300,
 		"id_str": "1345363716531896320",
