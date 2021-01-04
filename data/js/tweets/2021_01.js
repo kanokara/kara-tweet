@@ -1,6 +1,439 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 04 10:06:13 +0000 2021",
+		"id": 1346035195762208800,
+		"id_str": "1346035195762208768",
+		"full_text": "트위터 이용자가 섹트에 책임져야 하는 것도 아니고...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 95,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "트위터 이용자가 섹트에 책임져야 하는 것도 아니고..."
+	},
+	{
+		"created_at": "Mon Jan 04 10:03:37 +0000 2021",
+		"id": 1345974496537133000,
+		"id_str": "1346034540846874624",
+		"full_text": "어.. 레진코믹스에서 답왔는데요..?\n카라차 작품 오늘부로 서비스 종료 결정했대요 https://t.co/sN6Y2Hi7KJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1345974494280630300,
+					"id_str": "1345974494280630274",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq3cq9hVQAIEo8Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq3cq9hVQAIEo8Q.jpg",
+					"url": "https://t.co/sN6Y2Hi7KJ",
+					"display_url": "pic.twitter.com/sN6Y2Hi7KJ",
+					"expanded_url": "https://twitter.com/ParliamentH5/status/1345974496537133056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1079,
+							"h": 1076,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 1076,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1345974494280630300,
+					"id_str": "1345974494280630274",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq3cq9hVQAIEo8Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq3cq9hVQAIEo8Q.jpg",
+					"url": "https://t.co/sN6Y2Hi7KJ",
+					"display_url": "pic.twitter.com/sN6Y2Hi7KJ",
+					"expanded_url": "https://twitter.com/ParliamentH5/status/1345974496537133056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1079,
+							"h": 1076,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 1076,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1110183436587696100,
+			"id_str": "1110183436587696129",
+			"name": "🌹팔라⚔",
+			"screen_name": "ParliamentH5",
+			"location": "친래디컬 노선X",
+			"description": "여성만 챙김",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 96,
+			"friends_count": 65,
+			"listed_count": 0,
+			"created_at": "Mon Mar 25 14:15:32 +0000 2019",
+			"favourites_count": 438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10368,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1339210745607688192/gxkMVOkV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1339210745607688192/gxkMVOkV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1110183436587696129/1608361540",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 897,
+		"favorite_count": 222,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어.. 레진코믹스에서 답왔는데요..?\n카라차 작품 오늘부로 서비스 종료 결정했대요 https://t.co/sN6Y2Hi7KJ"
+	},
+	{
+		"created_at": "Mon Jan 04 10:03:24 +0000 2021",
+		"id": 894529597282308100,
+		"id_str": "1346034488111841286",
+		"full_text": "@questio76349547 변명을 하자면 처음에 소라넷을 단순 야설 사이트로 알았기에 범죄사이트라는 인지는 저 역시 꽤나 나중에 생겼습니다. 글 삭제와 탈퇴까지 했지요. DSO 활동에 후원했던 것도 그런 맥락이었습니다만 글의 재사용이 그게 그렇게 보일 수도 있겠군요.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 894528017355030500,
+		"in_reply_to_status_id_str": "894528017355030528",
+		"in_reply_to_user_id": 894521044320501800,
+		"in_reply_to_user_id_str": "894521044320501762",
+		"in_reply_to_screen_name": "quegshs",
+		"user": {
+			"id": 380745993,
+			"id_str": "380745993",
+			"name": "카라차",
+			"screen_name": "RealKaracha",
+			"location": "프로필 이미지 by BU-NONG",
+			"description": "성인소설을 씁니다. 성인인증과 결제가 필요합니다.",
+			"url": "https://t.co/ygLrW43AE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ygLrW43AE5",
+							"expanded_url": "https://ridibooks.com/v2/Detail?id=1583000023",
+							"display_url": "ridibooks.com/v2/Detail?id=1…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12005,
+			"friends_count": 847,
+			"listed_count": 123,
+			"created_at": "Tue Sep 27 04:51:23 +0000 2011",
+			"favourites_count": 7653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1030005621297274881/lHpo8exd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1030005621297274881/lHpo8exd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/380745993/1441145716",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@questio76349547 변명을 하자면 처음에 소라넷을 단순 야설 사이트로 알았기에 범죄사이트라는 인지는 저 역시 꽤나 나중에 생겼습니다. 글 삭제와 탈퇴까지 했지요. DSO 활동에 후원했던 것도 그런 맥락이었습니다만 글의 재사용이 그게 그렇게 보일 수도 있겠군요."
+	},
+	{
+		"created_at": "Mon Jan 04 10:03:08 +0000 2021",
+		"id": 894520390998925300,
+		"id_str": "1346034421795704832",
+		"full_text": "소라넷 야설 게시판에 올렸던 글 중 단편은 웹툰 스토리로 제공되어 서비스되었고, 장편은 일부 내용 수정하여 현재 조아라와 레진에 연재했으니, 소라넷에서 카라차가 무슨 글 썼나 궁금하시면 지금이라도 가서 결제하고 읽어보시고요.....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 894519976354209800,
+		"in_reply_to_status_id_str": "894519976354209792",
+		"in_reply_to_user_id": 380745993,
+		"in_reply_to_user_id_str": "380745993",
+		"in_reply_to_screen_name": "RealKaracha",
+		"user": {
+			"id": 380745993,
+			"id_str": "380745993",
+			"name": "카라차",
+			"screen_name": "RealKaracha",
+			"location": "프로필 이미지 by BU-NONG",
+			"description": "성인소설을 씁니다. 성인인증과 결제가 필요합니다.",
+			"url": "https://t.co/ygLrW43AE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ygLrW43AE5",
+							"expanded_url": "https://ridibooks.com/v2/Detail?id=1583000023",
+							"display_url": "ridibooks.com/v2/Detail?id=1…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12005,
+			"friends_count": 847,
+			"listed_count": 123,
+			"created_at": "Tue Sep 27 04:51:23 +0000 2011",
+			"favourites_count": 7653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1030005621297274881/lHpo8exd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1030005621297274881/lHpo8exd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/380745993/1441145716",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "소라넷 야설 게시판에 올렸던 글 중 단편은 웹툰 스토리로 제공되어 서비스되었고, 장편은 일부 내용 수정하여 현재 조아라와 레진에 연재했으니, 소라넷에서 카라차가 무슨 글 썼나 궁금하시면 지금이라도 가서 결제하고 읽어보시고요....."
+	},
+	{
 		"created_at": "Mon Jan 04 06:03:39 +0000 2021",
 		"id": 1345974151400493000,
 		"id_str": "1345974151400493058",
