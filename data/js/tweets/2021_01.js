@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 05 03:35:47 +0000 2021",
+		"id": 1346299326788636700,
+		"id_str": "1346299326788636672",
+		"full_text": "한국인은 누가 더 피해자인지 그 진정성을 겨루고, 그게 바로 '한 문화'.\nhttps://t.co/JE9cMxaTdO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JE9cMxaTdO",
+					"expanded_url": "https://twitter.com/racommu/status/1346254436717326336",
+					"display_url": "twitter.com/racommu/status…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 95,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1346254436717326300,
+		"quoted_status_id_str": "1346254436717326336",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JE9cMxaTdO",
+			"expanded": "https://twitter.com/racommu/status/1346254436717326336",
+			"display": "twitter.com/racommu/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 05 00:37:24 +0000 2021",
+			"id": 1346254436717326300,
+			"id_str": "1346254436717326336",
+			"full_text": "이 소설 이야기 하다가 나온 말입니다 (까는 거 아님)\nhttps://t.co/nU2Isvyf5G",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				54
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nU2Isvyf5G",
+						"expanded_url": "https://twitter.com/racommu/status/1345981393134706688",
+						"display_url": "twitter.com/racommu/status…",
+						"indices": [
+							31,
+							54
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1346102397555200000,
+			"in_reply_to_status_id_str": "1346102397555200001",
+			"in_reply_to_user_id": 1042080141969477600,
+			"in_reply_to_user_id_str": "1042080141969477632",
+			"in_reply_to_screen_name": "racommu",
+			"user": {
+				"id": 1042080141969477600,
+				"id_str": "1042080141969477632",
+				"name": "온다",
+				"screen_name": "racommu",
+				"location": "진짜 잡덕임 ",
+				"description": "개인 의견 정리 및 감상계 l 잡덕이고 말 많음 l 장르팔로 비추 l RT 가끔 많이함 l 탐라 잘 놓침 l 타래까지 다 읽어주세요 l 미러블락, 체인블락 가끔 씀",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7213,
+				"friends_count": 256,
+				"listed_count": 36,
+				"created_at": "Tue Sep 18 15:57:21 +0000 2018",
+				"favourites_count": 40641,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 77353,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1260191866944811015/_kJbLVIP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260191866944811015/_kJbLVIP_normal.jpg",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1345981393134706700,
+			"quoted_status_id_str": "1345981393134706688",
+			"quoted_status_permalink": {
+				"url": "https://t.co/nU2Isvyf5G",
+				"expanded": "https://twitter.com/racommu/status/1345981393134706688",
+				"display": "twitter.com/racommu/status…"
+			},
+			"retweet_count": 2,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한국인은 누가 더 피해자인지 그 진정성을 겨루고, 그게 바로 '한 문화'.\nhttps://t.co/JE9cMxaTdO"
+	},
+	{
 		"created_at": "Mon Jan 04 10:28:59 +0000 2021",
 		"id": 1346040925546455000,
 		"id_str": "1346040925546455040",
