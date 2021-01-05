@@ -1,6 +1,1118 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 05 15:04:00 +0000 2021",
+		"id": 1346472524339581000,
+		"id_str": "1346472524339580930",
+		"full_text": "\"나는 스스로에 대해서는 항상 연기를 하고 있지만, 다른 사람에 대해서는 연기를 하지 않는다. 항상 최선을 다하며 성실하고 정직하다. 어라, 뭔가 이상한가?\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1346471463939760000,
+		"in_reply_to_status_id_str": "1346471463939760128",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 95,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "\"나는 스스로에 대해서는 항상 연기를 하고 있지만, 다른 사람에 대해서는 연기를 하지 않는다. 항상 최선을 다하며 성실하고 정직하다. 어라, 뭔가 이상한가?\""
+	},
+	{
+		"created_at": "Tue Jan 05 14:59:47 +0000 2021",
+		"id": 1346471463939760000,
+		"id_str": "1346471463939760128",
+		"full_text": "\"그들에게는 강렬한 '삶'이 있습니다. 나는 지금 살아 있다고 합니다. 날카로운 칼로 살을 도려내면 피가 나온다고 합니다. '살아있어, 살아있어, 살아있는 거야. … 슬프게도 바로 그 '살아있다고 하는' 실감이 나에게는 없습니다.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1346470876867268600,
+		"in_reply_to_status_id_str": "1346470876867268617",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 95,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "\"그들에게는 강렬한 '삶'이 있습니다. 나는 지금 살아 있다고 합니다. 날카로운 칼로 살을 도려내면 피가 나온다고 합니다. '살아있어, 살아있어, 살아있는 거야. … 슬프게도 바로 그 '살아있다고 하는' 실감이 나에게는 없습니다.\""
+	},
+	{
+		"created_at": "Tue Jan 05 14:57:27 +0000 2021",
+		"id": 1346470876867268600,
+		"id_str": "1346470876867268617",
+		"full_text": "\"내 몸 안에는 피가 흐르고 있다. 손가락에 면도날을 갖다 대면 피가 뚝뚝 흘러 나온다. 그건 정말로 내 피일까?\" ─ 20세의 원점",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1346470703827095600,
+		"in_reply_to_status_id_str": "1346470703827095554",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 95,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "\"내 몸 안에는 피가 흐르고 있다. 손가락에 면도날을 갖다 대면 피가 뚝뚝 흘러 나온다. 그건 정말로 내 피일까?\" ─ 20세의 원점"
+	},
+	{
+		"created_at": "Tue Jan 05 14:56:46 +0000 2021",
+		"id": 1346470703827095600,
+		"id_str": "1346470703827095554",
+		"full_text": "\"나에게는 '살고자'하는 충동, 의식화된 마음의 고조 같은 것이 없다. 스무 살이 된 지금도 여전히 느끼는 감정이다. 생명의 충만감이라는 걸 아직까지 느껴본 적이 없다.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 95,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "\"나에게는 '살고자'하는 충동, 의식화된 마음의 고조 같은 것이 없다. 스무 살이 된 지금도 여전히 느끼는 감정이다. 생명의 충만감이라는 걸 아직까지 느껴본 적이 없다.\""
+	},
+	{
+		"created_at": "Tue Jan 05 14:51:03 +0000 2021",
+		"id": 1346469263872118800,
+		"id_str": "1346469263872118785",
+		"full_text": "어쩌겠어. 정당화가 필요 없는 일도 승인을 욕구하는 게 인간인데.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1346466606822510600,
+		"in_reply_to_status_id_str": "1346466606822510592",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 95,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "어쩌겠어. 정당화가 필요 없는 일도 승인을 욕구하는 게 인간인데."
+	},
+	{
+		"created_at": "Tue Jan 05 14:40:29 +0000 2021",
+		"id": 1346466606822510600,
+		"id_str": "1346466606822510592",
+		"full_text": "환경에 휩쓸렸을 뿐인 변화를, 부지불식간에 성장으로 포장하고, 이를 정체화하게 되는 것은 인간 자의식의 자연스러운 메커니즘이기 때문에 항상 경계해야 돼요. 저도 매순간 그런 안락함에 젖어들고는 하지만...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 95,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "환경에 휩쓸렸을 뿐인 변화를, 부지불식간에 성장으로 포장하고, 이를 정체화하게 되는 것은 인간 자의식의 자연스러운 메커니즘이기 때문에 항상 경계해야 돼요. 저도 매순간 그런 안락함에 젖어들고는 하지만..."
+	},
+	{
+		"created_at": "Tue Jan 05 14:31:26 +0000 2021",
+		"id": 1346464327784484900,
+		"id_str": "1346464327784484864",
+		"full_text": "나이 먹을수록 두뇌에서 원시적(도태된 이론이지만, 소위 파충류적 뇌)인 부위만 활성화되고 고등적 부위는 감퇴하는 느낌. 갈수록 먹을 게 낙이야...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1346462588444426200,
+		"in_reply_to_status_id_str": "1346462588444426240",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 95,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "나이 먹을수록 두뇌에서 원시적(도태된 이론이지만, 소위 파충류적 뇌)인 부위만 활성화되고 고등적 부위는 감퇴하는 느낌. 갈수록 먹을 게 낙이야..."
+	},
+	{
+		"created_at": "Tue Jan 05 14:24:31 +0000 2021",
+		"id": 1346462588444426200,
+		"id_str": "1346462588444426240",
+		"full_text": "저는 스스로 이러한 상태를 즐겼는데, 10년대 SNS의 침습으로 인하여 두뇌가 영향을 받아 과거로 돌이킬 수 없게 되었음을 느껴요.\nhttps://t.co/94LbSbCJRn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/94LbSbCJRn",
+					"expanded_url": "https://twitter.com/racommu/status/1343440008657530881",
+					"display_url": "twitter.com/racommu/status…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1346462107445784600,
+		"in_reply_to_status_id_str": "1346462107445784577",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 95,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1343440008657531000,
+		"quoted_status_id_str": "1343440008657530881",
+		"quoted_status_permalink": {
+			"url": "https://t.co/94LbSbCJRn",
+			"expanded": "https://twitter.com/racommu/status/1343440008657530881",
+			"display": "twitter.com/racommu/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 28 06:13:52 +0000 2020",
+			"id": 1343440008657531000,
+			"id_str": "1343440008657530881",
+			"full_text": "슈테판 츠바이크의 &lt;체스 이야기&gt; 어릴 때 봤을 때도 진짜 무서웠는데 요즘 보면 더 무서울 듯 아무것도 없는 방에 감금한 채 신문만 반복하는 고문 https://t.co/4hWFLDRgXu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				87
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1343439992379457500,
+						"id_str": "1343439992379457536",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/EqTbjiLUwAAQjzX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EqTbjiLUwAAQjzX.jpg",
+						"url": "https://t.co/4hWFLDRgXu",
+						"display_url": "pic.twitter.com/4hWFLDRgXu",
+						"expanded_url": "https://twitter.com/racommu/status/1343440008657530881/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1691,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 561,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 991,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1343439992379457500,
+						"id_str": "1343439992379457536",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/EqTbjiLUwAAQjzX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EqTbjiLUwAAQjzX.jpg",
+						"url": "https://t.co/4hWFLDRgXu",
+						"display_url": "pic.twitter.com/4hWFLDRgXu",
+						"expanded_url": "https://twitter.com/racommu/status/1343440008657530881/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1691,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 561,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 991,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1343439995181224000,
+						"id_str": "1343439995181223936",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/EqTbjsnUUAAxlTE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EqTbjsnUUAAxlTE.jpg",
+						"url": "https://t.co/4hWFLDRgXu",
+						"display_url": "pic.twitter.com/4hWFLDRgXu",
+						"expanded_url": "https://twitter.com/racommu/status/1343440008657530881/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 811,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 460,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1384,
+								"h": 2047,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1343439998150795300,
+						"id_str": "1343439998150795265",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/EqTbj3rUYAEt2-a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EqTbj3rUYAEt2-a.jpg",
+						"url": "https://t.co/4hWFLDRgXu",
+						"display_url": "pic.twitter.com/4hWFLDRgXu",
+						"expanded_url": "https://twitter.com/racommu/status/1343440008657530881/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 437,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 771,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1316,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1343440001783062500,
+						"id_str": "1343440001783062528",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/media/EqTbkFNUYAA8Jww.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EqTbkFNUYAA8Jww.jpg",
+						"url": "https://t.co/4hWFLDRgXu",
+						"display_url": "pic.twitter.com/4hWFLDRgXu",
+						"expanded_url": "https://twitter.com/racommu/status/1343440008657530881/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 487,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1467,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 860,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1042080141969477600,
+				"id_str": "1042080141969477632",
+				"name": "온다",
+				"screen_name": "racommu",
+				"location": "진짜 잡덕임 ",
+				"description": "개인 의견 정리 및 감상계 l 잡덕이고 말 많음 l 장르팔로 비추 l RT 가끔 많이함 l 탐라 잘 놓침 l 타래까지 다 읽어주세요 l 미러블락, 체인블락 가끔 씀",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7222,
+				"friends_count": 256,
+				"listed_count": 36,
+				"created_at": "Tue Sep 18 15:57:21 +0000 2018",
+				"favourites_count": 40673,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 77440,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1260191866944811015/_kJbLVIP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260191866944811015/_kJbLVIP_normal.jpg",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 47,
+			"favorite_count": 65,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저는 스스로 이러한 상태를 즐겼는데, 10년대 SNS의 침습으로 인하여 두뇌가 영향을 받아 과거로 돌이킬 수 없게 되었음을 느껴요.\nhttps://t.co/94LbSbCJRn"
+	},
+	{
+		"created_at": "Tue Jan 05 14:22:37 +0000 2021",
+		"id": 1346462107445784600,
+		"id_str": "1346462107445784577",
+		"full_text": "뭐랄까, 알면서도 한발 떨어져 '동시에' 모르는 상태에 있게 된다고 할까(자기객관화-낯설게하기). 알고 있기에 아래 류세린 작가의 문답 캡처 사진과 같지는 않지만, 다소의 동질감이 있네요.\nhttps://t.co/yjrD4nOZhk https://t.co/9bbiYk5w3i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yjrD4nOZhk",
+					"expanded_url": "https://ask.fm/prsyusi/best",
+					"display_url": "ask.fm/prsyusi/best",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1346461387149648000,
+					"id_str": "1346461387149647874",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq-Xf2zVoAILhIN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq-Xf2zVoAILhIN.jpg",
+					"url": "https://t.co/9bbiYk5w3i",
+					"display_url": "pic.twitter.com/9bbiYk5w3i",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1346462107445784577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 638,
+							"h": 705,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 615,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 705,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1346461387149648000,
+					"id_str": "1346461387149647874",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq-Xf2zVoAILhIN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq-Xf2zVoAILhIN.jpg",
+					"url": "https://t.co/9bbiYk5w3i",
+					"display_url": "pic.twitter.com/9bbiYk5w3i",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1346462107445784577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 638,
+							"h": 705,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 615,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 638,
+							"h": 705,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1346460750877900800,
+		"in_reply_to_status_id_str": "1346460750877900801",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 95,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뭐랄까, 알면서도 한발 떨어져 '동시에' 모르는 상태에 있게 된다고 할까(자기객관화-낯설게하기). 알고 있기에 아래 류세린 작가의 문답 캡처 사진과 같지는 않지만, 다소의 동질감이 있네요.\nhttps://t.co/yjrD4nOZhk https://t.co/9bbiYk5w3i"
+	},
+	{
 		"created_at": "Tue Jan 05 13:55:19 +0000 2021",
 		"id": 1346455238148935700,
 		"id_str": "1346455238148935681",
