@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 07 16:05:39 +0000 2021",
+		"id": 1347201380587475000,
+		"id_str": "1347212815879213058",
+		"full_text": "이런거 인용으로 00같다 하는 사람들은 얼마나 아름다운 과몰입인가? 나도 닮고싶다 나도 그런 아름다운 .. 아름다운 ㅆㅂ.. https://t.co/vMnB6MXJio",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vMnB6MXJio",
+					"expanded_url": "https://twitter.com/loknnk/status/1347169056239935489",
+					"display_url": "twitter.com/loknnk/status/…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288753062362747000,
+			"id_str": "1288753062362746881",
+			"name": "이달",
+			"screen_name": "clfx__",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 120,
+			"friends_count": 120,
+			"listed_count": 0,
+			"created_at": "Thu Jul 30 08:27:35 +0000 2020",
+			"favourites_count": 370,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15953,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345564624419078144/kNBD4ucn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345564624419078144/kNBD4ucn_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1347169056239935500,
+		"quoted_status_id_str": "1347169056239935489",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vMnB6MXJio",
+			"expanded": "https://twitter.com/loknnk/status/1347169056239935489",
+			"display": "twitter.com/loknnk/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 07 13:11:46 +0000 2021",
+			"id": 1347169056239935500,
+			"id_str": "1347169056239935489",
+			"full_text": "아니 오늘 남자직원분이 녹록씨는 남자친구 있어요? 하셔서 하하 아니요 없습니다 했더니, 저는 있어요 하면서 옆에있던다른남직원을 껴안고 빙빙도는거야...\n이게 간접적 커밍아웃인지 아니면 아니면 ㅅㅂ농담인지 대한민국이지켜주고잇어서 나한테만 알려주는건지 혼자 개심란해짐",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				147
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1236174300484268000,
+				"id_str": "1236174300484268032",
+				"name": "녹록",
+				"screen_name": "loknnk",
+				"location": "",
+				"description": "하루종일 팬픽만 읽고 양상추 씻는 사람",
+				"url": "https://t.co/Z6DRXhGCZ7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Z6DRXhGCZ7",
+								"expanded_url": "https://peing.net/ko/loknnk",
+								"display_url": "peing.net/ko/loknnk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3022,
+				"friends_count": 111,
+				"listed_count": 14,
+				"created_at": "Sat Mar 07 06:18:26 +0000 2020",
+				"favourites_count": 9562,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5268,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1345608871117688837/pC7FKiks_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345608871117688837/pC7FKiks_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1236174300484268032/1609653009",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3731,
+			"favorite_count": 1210,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이런거 인용으로 00같다 하는 사람들은 얼마나 아름다운 과몰입인가? 나도 닮고싶다 나도 그런 아름다운 .. 아름다운 ㅆㅂ.. https://t.co/vMnB6MXJio"
+	},
+	{
 		"created_at": "Thu Jan 07 14:16:51 +0000 2021",
 		"id": 1347185435315822600,
 		"id_str": "1347185435315822604",
