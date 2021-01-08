@@ -1,6 +1,673 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 08 11:55:21 +0000 2021",
+		"id": 1347512212240257000,
+		"id_str": "1347512212240257025",
+		"full_text": "하... 스스로가 회피형 인간이란 걸 새삼 자각하게 되는 게, 별로 안 친한 분과 요 며칠 나눈 대화가 이런 식이야...\nhttps://t.co/yN1hRt0fFq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yN1hRt0fFq",
+					"expanded_url": "https://twitter.com/2618823227282q/status/1347471124133675010",
+					"display_url": "twitter.com/2618823227282q…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 94,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1347471124133675000,
+		"quoted_status_id_str": "1347471124133675010",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yN1hRt0fFq",
+			"expanded": "https://twitter.com/2618823227282q/status/1347471124133675010",
+			"display": "twitter.com/2618823227282q…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 08 09:12:05 +0000 2021",
+			"id": 1347471124133675000,
+			"id_str": "1347471124133675010",
+			"full_text": "그러니까 응/아니/ㅇㅇ &lt; 이런 단답형이면 좀 관심도 없고 리액션도 해 줄 필요 없는 상대라는 뜻인데 이건 챗봇이고 관심을 줘야 하는 상황에서 상대방의 정보는 1도 모르지만...그런식의 학습을 받았을 테니까 \"ㅇㅇ 잘 기억은 안나는데 그랬을 거 같아\"같은 회피 리액션이 나오는",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				157
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1347470618615115800,
+			"in_reply_to_status_id_str": "1347470618615115777",
+			"in_reply_to_user_id": 881788384871465000,
+			"in_reply_to_user_id_str": "881788384871464962",
+			"in_reply_to_screen_name": "2618823227282q",
+			"user": {
+				"id": 881788384871465000,
+				"id_str": "881788384871464962",
+				"name": "💎이너피스💎",
+				"screen_name": "2618823227282q",
+				"location": "",
+				"description": "마귀 한마리 몰고가세요\n오타 많은데 알아서 뇌내수정합시다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1703,
+				"friends_count": 315,
+				"listed_count": 10,
+				"created_at": "Mon Jul 03 08:15:08 +0000 2017",
+				"favourites_count": 15544,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 109313,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1339424844597739522/jjOBZ93H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1339424844597739522/jjOBZ93H_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/881788384871464962/1578622794",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "하... 스스로가 회피형 인간이란 걸 새삼 자각하게 되는 게, 별로 안 친한 분과 요 며칠 나눈 대화가 이런 식이야...\nhttps://t.co/yN1hRt0fFq"
+	},
+	{
+		"created_at": "Fri Jan 08 11:54:14 +0000 2021",
+		"id": 1347473368480678000,
+		"id_str": "1347511930693554176",
+		"full_text": "모르면서도 아는척하고 그걸 상대방이 알거란 걸 알면서도 나오는 저런 식의 대화. 물론 기계가 그렇게까지 밑에 깔려있는 여러가지 의도를 파악해서라기 보다는... 어떤식의 단어와 말투를 쓰는지 학습해서 나오는 결과일 뿐일테지만",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 881788384871465000,
+			"id_str": "881788384871464962",
+			"name": "💎이너피스💎",
+			"screen_name": "2618823227282q",
+			"location": "",
+			"description": "마귀 한마리 몰고가세요\n오타 많은데 알아서 뇌내수정합시다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1703,
+			"friends_count": 315,
+			"listed_count": 10,
+			"created_at": "Mon Jul 03 08:15:08 +0000 2017",
+			"favourites_count": 15544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 109313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1339424844597739522/jjOBZ93H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1339424844597739522/jjOBZ93H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/881788384871464962/1578622794",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "모르면서도 아는척하고 그걸 상대방이 알거란 걸 알면서도 나오는 저런 식의 대화. 물론 기계가 그렇게까지 밑에 깔려있는 여러가지 의도를 파악해서라기 보다는... 어떤식의 단어와 말투를 쓰는지 학습해서 나오는 결과일 뿐일테지만"
+	},
+	{
+		"created_at": "Fri Jan 08 11:53:44 +0000 2021",
+		"id": 1347471541395591200,
+		"id_str": "1347511805770223618",
+		"full_text": "방금전에 이 문학 대화도 그러한데 단어하나를 던지고 물론 챗봇은 내용을 모르니까 내용을 설명을 못하는게 당연한데... 그것보다 이런 상황에 왔을 때 \"만나서 설명해 줌\"같은 반응을 보인다는 점이 대단하다 https://t.co/WgcoCE8aBO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1347471538438639600,
+					"id_str": "1347471538438639618",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/ErMuOZmVkAI3EMm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErMuOZmVkAI3EMm.jpg",
+					"url": "https://t.co/WgcoCE8aBO",
+					"display_url": "pic.twitter.com/WgcoCE8aBO",
+					"expanded_url": "https://twitter.com/2618823227282q/status/1347471541395591170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 306,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347471538438639600,
+					"id_str": "1347471538438639618",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/ErMuOZmVkAI3EMm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErMuOZmVkAI3EMm.jpg",
+					"url": "https://t.co/WgcoCE8aBO",
+					"display_url": "pic.twitter.com/WgcoCE8aBO",
+					"expanded_url": "https://twitter.com/2618823227282q/status/1347471541395591170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 306,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1347471124133675000,
+		"in_reply_to_status_id_str": "1347471124133675010",
+		"in_reply_to_user_id": 881788384871465000,
+		"in_reply_to_user_id_str": "881788384871464962",
+		"in_reply_to_screen_name": "2618823227282q",
+		"user": {
+			"id": 881788384871465000,
+			"id_str": "881788384871464962",
+			"name": "💎이너피스💎",
+			"screen_name": "2618823227282q",
+			"location": "",
+			"description": "마귀 한마리 몰고가세요\n오타 많은데 알아서 뇌내수정합시다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1703,
+			"friends_count": 315,
+			"listed_count": 10,
+			"created_at": "Mon Jul 03 08:15:08 +0000 2017",
+			"favourites_count": 15544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 109313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1339424844597739522/jjOBZ93H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1339424844597739522/jjOBZ93H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/881788384871464962/1578622794",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방금전에 이 문학 대화도 그러한데 단어하나를 던지고 물론 챗봇은 내용을 모르니까 내용을 설명을 못하는게 당연한데... 그것보다 이런 상황에 왔을 때 \"만나서 설명해 줌\"같은 반응을 보인다는 점이 대단하다 https://t.co/WgcoCE8aBO"
+	},
+	{
+		"created_at": "Fri Jan 08 11:53:40 +0000 2021",
+		"id": 1347471124133675000,
+		"id_str": "1347511787348848646",
+		"full_text": "그러니까 응/아니/ㅇㅇ &lt; 이런 단답형이면 좀 관심도 없고 리액션도 해 줄 필요 없는 상대라는 뜻인데 이건 챗봇이고 관심을 줘야 하는 상황에서 상대방의 정보는 1도 모르지만...그런식의 학습을 받았을 테니까 \"ㅇㅇ 잘 기억은 안나는데 그랬을 거 같아\"같은 회피 리액션이 나오는",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1347470618615115800,
+		"in_reply_to_status_id_str": "1347470618615115777",
+		"in_reply_to_user_id": 881788384871465000,
+		"in_reply_to_user_id_str": "881788384871464962",
+		"in_reply_to_screen_name": "2618823227282q",
+		"user": {
+			"id": 881788384871465000,
+			"id_str": "881788384871464962",
+			"name": "💎이너피스💎",
+			"screen_name": "2618823227282q",
+			"location": "",
+			"description": "마귀 한마리 몰고가세요\n오타 많은데 알아서 뇌내수정합시다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1703,
+			"friends_count": 315,
+			"listed_count": 10,
+			"created_at": "Mon Jul 03 08:15:08 +0000 2017",
+			"favourites_count": 15544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 109313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1339424844597739522/jjOBZ93H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1339424844597739522/jjOBZ93H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/881788384871464962/1578622794",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그러니까 응/아니/ㅇㅇ &lt; 이런 단답형이면 좀 관심도 없고 리액션도 해 줄 필요 없는 상대라는 뜻인데 이건 챗봇이고 관심을 줘야 하는 상황에서 상대방의 정보는 1도 모르지만...그런식의 학습을 받았을 테니까 \"ㅇㅇ 잘 기억은 안나는데 그랬을 거 같아\"같은 회피 리액션이 나오는"
+	},
+	{
+		"created_at": "Fri Jan 08 11:53:38 +0000 2021",
+		"id": 1347470618615115800,
+		"id_str": "1347511778457001985",
+		"full_text": "방금 알티한 이 2차 세계대전 대화가 너무 ㅋㅋㅋㅋ 인간적이라고 해야하나 싶어서 웃기고 무서워짐... 그러니까 인간여성이 존나 1도 관심없지만 아는 척 해줘야 반대편이 신나겠구나 할때하는 말투가 그대로 나온다 https://t.co/udwaHQITu5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1347470616002134000,
+					"id_str": "1347470616002134018",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ErMtYtQVgAIB9jW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErMtYtQVgAIB9jW.jpg",
+					"url": "https://t.co/udwaHQITu5",
+					"display_url": "pic.twitter.com/udwaHQITu5",
+					"expanded_url": "https://twitter.com/2618823227282q/status/1347470618615115777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 548,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 967,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347470616002134000,
+					"id_str": "1347470616002134018",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ErMtYtQVgAIB9jW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErMtYtQVgAIB9jW.jpg",
+					"url": "https://t.co/udwaHQITu5",
+					"display_url": "pic.twitter.com/udwaHQITu5",
+					"expanded_url": "https://twitter.com/2618823227282q/status/1347470618615115777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 548,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 967,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1347470169249992700,
+		"in_reply_to_status_id_str": "1347470169249992705",
+		"in_reply_to_user_id": 881788384871465000,
+		"in_reply_to_user_id_str": "881788384871464962",
+		"in_reply_to_screen_name": "2618823227282q",
+		"user": {
+			"id": 881788384871465000,
+			"id_str": "881788384871464962",
+			"name": "💎이너피스💎",
+			"screen_name": "2618823227282q",
+			"location": "",
+			"description": "마귀 한마리 몰고가세요\n오타 많은데 알아서 뇌내수정합시다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1703,
+			"friends_count": 315,
+			"listed_count": 10,
+			"created_at": "Mon Jul 03 08:15:08 +0000 2017",
+			"favourites_count": 15544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 109313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1339424844597739522/jjOBZ93H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1339424844597739522/jjOBZ93H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/881788384871464962/1578622794",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 119,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방금 알티한 이 2차 세계대전 대화가 너무 ㅋㅋㅋㅋ 인간적이라고 해야하나 싶어서 웃기고 무서워짐... 그러니까 인간여성이 존나 1도 관심없지만 아는 척 해줘야 반대편이 신나겠구나 할때하는 말투가 그대로 나온다 https://t.co/udwaHQITu5"
+	},
+	{
 		"created_at": "Thu Jan 07 23:23:50 +0000 2021",
 		"id": 1347323087600013300,
 		"id_str": "1347323087600013314",
