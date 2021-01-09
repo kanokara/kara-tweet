@@ -1,6 +1,1089 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 09 11:50:38 +0000 2021",
+		"id": 1347873412882989000,
+		"id_str": "1347873412882989056",
+		"full_text": "インドア系ならトラックメーカー！（인도어계라면 트랙메이커 !) I 히나시스 (hynaxis) Cover https://t.co/qMa2A0LGXy 출처 @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						83,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qMa2A0LGXy",
+					"expanded_url": "https://youtu.be/wY0OlNyU5-Y",
+					"display_url": "youtu.be/wY0OlNyU5-Y",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 95,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2998,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13017,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "インドア系ならトラックメーカー！（인도어계라면 트랙메이커 !) I 히나시스 (hynaxis) Cover https://t.co/qMa2A0LGXy 출처 @YouTube"
+	},
+	{
+		"created_at": "Sat Jan 09 11:22:32 +0000 2021",
+		"id": 1347866342242742300,
+		"id_str": "1347866342242742275",
+		"full_text": "【映画『たぶん』予告映像（60秒ver.）】3組の男女が紡ぐ最も切ないショートストーリー\nhttps://t.co/nyL16AtfiN\n\n별 거 아닌데도, 일본 감수성은 날 희열에 빠트려...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nyL16AtfiN",
+					"expanded_url": "https://www.youtube.com/watch?v=ZFzFapKazcs",
+					"display_url": "youtube.com/watch?v=ZFzFap…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 95,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 2998,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13017,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【映画『たぶん』予告映像（60秒ver.）】3組の男女が紡ぐ最も切ないショートストーリー\nhttps://t.co/nyL16AtfiN\n\n별 거 아닌데도, 일본 감수성은 날 희열에 빠트려..."
+	},
+	{
+		"created_at": "Sat Jan 09 11:16:58 +0000 2021",
+		"id": 1073022138364227600,
+		"id_str": "1347864940783104000",
+		"full_text": "그렇게 끌어모은 회원가지고 나중에 조금 큰 웹하드 회사들이 걔들을 사... 그래서 회원정보 머찡하고... 그러면서 회원수를 불려나갔었던 거거든? 그래서 결국 웹하드 드릅게 많아도 소유주는 몇명 안되는 그런 상황이 펼쳐진거였음. 그리고 그때는 회원정보 가지고 보험사에 팔고 그러면 1명당",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1073021793743425500,
+		"in_reply_to_status_id_str": "1073021793743425536",
+		"in_reply_to_user_id": 99154457,
+		"in_reply_to_user_id_str": "99154457",
+		"in_reply_to_screen_name": "gonzoippai",
+		"user": {
+			"id": 99154457,
+			"id_str": "99154457",
+			"name": "首魁(수괴)",
+			"screen_name": "gonzoippai",
+			"location": "",
+			"description": "예의 바르게 다가오면 상처입지 않는다\n\n注がれた酒は飲めねえが、\n売られた喧嘩はいつでも買うぜ~",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10625,
+			"friends_count": 192,
+			"listed_count": 426,
+			"created_at": "Thu Dec 24 19:08:00 +0000 2009",
+			"favourites_count": 244,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 244515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312910534144974850/moHhtRHJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312910534144974850/moHhtRHJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/99154457/1568428767",
+			"profile_link_color": "FF6600",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "424242",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그렇게 끌어모은 회원가지고 나중에 조금 큰 웹하드 회사들이 걔들을 사... 그래서 회원정보 머찡하고... 그러면서 회원수를 불려나갔었던 거거든? 그래서 결국 웹하드 드릅게 많아도 소유주는 몇명 안되는 그런 상황이 펼쳐진거였음. 그리고 그때는 회원정보 가지고 보험사에 팔고 그러면 1명당"
+	},
+	{
+		"created_at": "Sat Jan 09 11:16:13 +0000 2021",
+		"id": 1038061512349253600,
+		"id_str": "1347864752920305665",
+		"full_text": "말난 김에 지난번에 기회 있으면 하겠다고 했던 지금 내가 하는 현재 시고또의 히스토리에 대해서 듬성듬성한 썰을 풀어주가씀",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 99154457,
+			"id_str": "99154457",
+			"name": "首魁(수괴)",
+			"screen_name": "gonzoippai",
+			"location": "",
+			"description": "예의 바르게 다가오면 상처입지 않는다\n\n注がれた酒は飲めねえが、\n売られた喧嘩はいつでも買うぜ~",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10625,
+			"friends_count": 192,
+			"listed_count": 426,
+			"created_at": "Thu Dec 24 19:08:00 +0000 2009",
+			"favourites_count": 244,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 244515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312910534144974850/moHhtRHJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312910534144974850/moHhtRHJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/99154457/1568428767",
+			"profile_link_color": "FF6600",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "424242",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "말난 김에 지난번에 기회 있으면 하겠다고 했던 지금 내가 하는 현재 시고또의 히스토리에 대해서 듬성듬성한 썰을 풀어주가씀"
+	},
+	{
+		"created_at": "Sat Jan 09 11:16:09 +0000 2021",
+		"id": 1212371431339643000,
+		"id_str": "1347864735476195328",
+		"full_text": "2000을 넘고 12시를 맞을것인가 https://t.co/R5fidxzXYD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1212371314410848300,
+					"id_str": "1212371314410848262",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/ENM1SXtVAAYznEq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENM1SXtVAAYznEq.jpg",
+					"url": "https://t.co/R5fidxzXYD",
+					"display_url": "pic.twitter.com/R5fidxzXYD",
+					"expanded_url": "https://twitter.com/gonzoippai/status/1212371431339642880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 646,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 366,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1103,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212371314410848300,
+					"id_str": "1212371314410848262",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/ENM1SXtVAAYznEq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENM1SXtVAAYznEq.jpg",
+					"url": "https://t.co/R5fidxzXYD",
+					"display_url": "pic.twitter.com/R5fidxzXYD",
+					"expanded_url": "https://twitter.com/gonzoippai/status/1212371431339642880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 646,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 366,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1103,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 99154457,
+			"id_str": "99154457",
+			"name": "首魁(수괴)",
+			"screen_name": "gonzoippai",
+			"location": "",
+			"description": "예의 바르게 다가오면 상처입지 않는다\n\n注がれた酒は飲めねえが、\n売られた喧嘩はいつでも買うぜ~",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10625,
+			"friends_count": 192,
+			"listed_count": 426,
+			"created_at": "Thu Dec 24 19:08:00 +0000 2009",
+			"favourites_count": 244,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 244515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312910534144974850/moHhtRHJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312910534144974850/moHhtRHJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/99154457/1568428767",
+			"profile_link_color": "FF6600",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "424242",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2000을 넘고 12시를 맞을것인가 https://t.co/R5fidxzXYD"
+	},
+	{
+		"created_at": "Sat Jan 09 11:16:01 +0000 2021",
+		"id": 1347773485104259000,
+		"id_str": "1347864701514862592",
+		"full_text": "유튜브로 보기\nhttps://t.co/V4NfF4INLu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V4NfF4INLu",
+					"expanded_url": "https://youtu.be/BczO26NIYR8",
+					"display_url": "youtu.be/BczO26NIYR8",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1347773481228726300,
+		"in_reply_to_status_id_str": "1347773481228726272",
+		"in_reply_to_user_id": 1094926912927887400,
+		"in_reply_to_user_id_str": "1094926912927887365",
+		"in_reply_to_screen_name": "Limitimi_ldream",
+		"user": {
+			"id": 1094926912927887400,
+			"id_str": "1094926912927887365",
+			"name": "마감했나요❓리미트",
+			"screen_name": "Limitimi_ldream",
+			"location": "도미니아 와인창고",
+			"description": "성인 | 꿈왕국, 아카세카, 7k, LOH | 번역계 @limitranslate | 페잉 https://t.co/IFKsuhGCmJ",
+			"url": "https://t.co/eOxLcU9Eba",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eOxLcU9Eba",
+							"expanded_url": "https://twpf.jp/Limitimi_ldream",
+							"display_url": "twpf.jp/Limitimi_ldream",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IFKsuhGCmJ",
+							"expanded_url": "https://peing.net/limitimi_ldream",
+							"display_url": "peing.net/limitimi_ldream",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 170,
+			"friends_count": 239,
+			"listed_count": 1,
+			"created_at": "Mon Feb 11 11:51:33 +0000 2019",
+			"favourites_count": 8875,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1346325941027438592/7SE4hv-6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1346325941027438592/7SE4hv-6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1094926912927887365/1592677150",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유튜브로 보기\nhttps://t.co/V4NfF4INLu"
+	},
+	{
+		"created_at": "Sat Jan 09 11:16:00 +0000 2021",
+		"id": 1347773481228726300,
+		"id_str": "1347864695559000065",
+		"full_text": "도라마코리아의 아이덴티티가 바로 이거라고 생각함 영상 중간에 나오는 박터지는 장면은 엄청 노가다라고 들음 https://t.co/zki4unfvtE https://t.co/25o2SC4bY9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zki4unfvtE",
+					"expanded_url": "https://twitter.com/baek_luvu/status/1347303496677134336",
+					"display_url": "twitter.com/baek_luvu/stat…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1347773358591524900,
+					"id_str": "1347773358591524866",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1347773358591524866/pu/img/Bm1sR4gkTde0BO1Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1347773358591524866/pu/img/Bm1sR4gkTde0BO1Y.jpg",
+					"url": "https://t.co/25o2SC4bY9",
+					"display_url": "pic.twitter.com/25o2SC4bY9",
+					"expanded_url": "https://twitter.com/Limitimi_ldream/status/1347773481228726272/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347773358591524900,
+					"id_str": "1347773358591524866",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1347773358591524866/pu/img/Bm1sR4gkTde0BO1Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1347773358591524866/pu/img/Bm1sR4gkTde0BO1Y.jpg",
+					"url": "https://t.co/25o2SC4bY9",
+					"display_url": "pic.twitter.com/25o2SC4bY9",
+					"expanded_url": "https://twitter.com/Limitimi_ldream/status/1347773481228726272/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 67550,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1347773358591524866/pu/vid/480x270/2VuLisKYdZazo3xh.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1347773358591524866/pu/pl/_Hp7VIsdA7sGTYMf.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1347773358591524866/pu/vid/640x360/fKdF2xXZ5JVFg6Yi.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1347773358591524866/pu/vid/1280x720/bSKP57-WA82JOtKt.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1094926912927887400,
+			"id_str": "1094926912927887365",
+			"name": "마감했나요❓리미트",
+			"screen_name": "Limitimi_ldream",
+			"location": "도미니아 와인창고",
+			"description": "성인 | 꿈왕국, 아카세카, 7k, LOH | 번역계 @limitranslate | 페잉 https://t.co/IFKsuhGCmJ",
+			"url": "https://t.co/eOxLcU9Eba",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eOxLcU9Eba",
+							"expanded_url": "https://twpf.jp/Limitimi_ldream",
+							"display_url": "twpf.jp/Limitimi_ldream",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IFKsuhGCmJ",
+							"expanded_url": "https://peing.net/limitimi_ldream",
+							"display_url": "peing.net/limitimi_ldream",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 170,
+			"friends_count": 239,
+			"listed_count": 1,
+			"created_at": "Mon Feb 11 11:51:33 +0000 2019",
+			"favourites_count": 8875,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1346325941027438592/7SE4hv-6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1346325941027438592/7SE4hv-6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1094926912927887365/1592677150",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1347303496677134300,
+		"quoted_status_id_str": "1347303496677134336",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zki4unfvtE",
+			"expanded": "https://twitter.com/baek_luvu/status/1347303496677134336",
+			"display": "twitter.com/baek_luvu/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 07 22:05:59 +0000 2021",
+			"id": 1347303496677134300,
+			"id_str": "1347303496677134336",
+			"full_text": "이거 도라마코리아라는 일드 번역 회사가 하는데 얘네가 번역한 모든 컨텐츠가 다 이렇게 되어있음 진짜 https://t.co/idt2ujSbQL https://t.co/bEdbYEKxAr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				79
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/idt2ujSbQL",
+						"expanded_url": "https://twitter.com/loveyourmood/status/1347148905721384961",
+						"display_url": "twitter.com/loveyourmood/s…",
+						"indices": [
+							56,
+							79
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1347303482869469200,
+						"id_str": "1347303482869469184",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/ErKVYR0U0AAz9VP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErKVYR0U0AAz9VP.jpg",
+						"url": "https://t.co/bEdbYEKxAr",
+						"display_url": "pic.twitter.com/bEdbYEKxAr",
+						"expanded_url": "https://twitter.com/baek_luvu/status/1347303496677134336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 910,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 910,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1347303482869469200,
+						"id_str": "1347303482869469184",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/ErKVYR0U0AAz9VP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErKVYR0U0AAz9VP.jpg",
+						"url": "https://t.co/bEdbYEKxAr",
+						"display_url": "pic.twitter.com/bEdbYEKxAr",
+						"expanded_url": "https://twitter.com/baek_luvu/status/1347303496677134336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 910,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 910,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1347303490876424200,
+						"id_str": "1347303490876424192",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/ErKVYvpVQAAkRCB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErKVYvpVQAAkRCB.jpg",
+						"url": "https://t.co/bEdbYEKxAr",
+						"display_url": "pic.twitter.com/bEdbYEKxAr",
+						"expanded_url": "https://twitter.com/baek_luvu/status/1347303496677134336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 910,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 910,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 714441393750429700,
+				"id_str": "714441393750429696",
+				"name": "모로🎄",
+				"screen_name": "baek_luvu",
+				"location": "B의 우측통행",
+				"description": "오빠 너 너무 귀엽다",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 76,
+				"friends_count": 476,
+				"listed_count": 0,
+				"created_at": "Mon Mar 28 13:17:56 +0000 2016",
+				"favourites_count": 5272,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24920,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1334388177193160704/gJbUQVQA_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334388177193160704/gJbUQVQA_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/714441393750429696/1586280562",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1347148905721385000,
+			"quoted_status_id_str": "1347148905721384961",
+			"quoted_status_permalink": {
+				"url": "https://t.co/idt2ujSbQL",
+				"expanded": "https://twitter.com/loveyourmood/status/1347148905721384961",
+				"display": "twitter.com/loveyourmood/s…"
+			},
+			"retweet_count": 8611,
+			"favorite_count": 3023,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 16,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "도라마코리아의 아이덴티티가 바로 이거라고 생각함 영상 중간에 나오는 박터지는 장면은 엄청 노가다라고 들음 https://t.co/zki4unfvtE https://t.co/25o2SC4bY9"
+	},
+	{
 		"created_at": "Fri Jan 08 17:10:23 +0000 2021",
 		"id": 1347591490659180500,
 		"id_str": "1347591490659180546",
