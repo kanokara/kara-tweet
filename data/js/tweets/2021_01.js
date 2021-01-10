@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 10 10:33:19 +0000 2021",
+		"id": 1348216344643129300,
+		"id_str": "1348216344643129349",
+		"full_text": "여성주의적 추구가 혐오를 부추기며 타자를 억압하고 부정하는 방향으로 나아가는 장면.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 94,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "여성주의적 추구가 혐오를 부추기며 타자를 억압하고 부정하는 방향으로 나아가는 장면."
+	},
+	{
+		"created_at": "Sun Jan 10 10:27:21 +0000 2021",
+		"id": 1348190547261808600,
+		"id_str": "1348214840527970311",
+		"full_text": "비혼모 예산이 다문화 예산보다는 많아야지 씹 ㅋㅋ 아존나 싫노 https://t.co/D8L2El48qc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1348190545382789000,
+					"id_str": "1348190545382789121",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/ErW8KHMU0AE_f-D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErW8KHMU0AE_f-D.jpg",
+					"url": "https://t.co/D8L2El48qc",
+					"display_url": "pic.twitter.com/D8L2El48qc",
+					"expanded_url": "https://twitter.com/NyfZ44CBbvlJJFZ/status/1348190547261808640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 250,
+							"h": 322,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 250,
+							"h": 322,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 250,
+							"h": 322,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348190545382789000,
+					"id_str": "1348190545382789121",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/ErW8KHMU0AE_f-D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErW8KHMU0AE_f-D.jpg",
+					"url": "https://t.co/D8L2El48qc",
+					"display_url": "pic.twitter.com/D8L2El48qc",
+					"expanded_url": "https://twitter.com/NyfZ44CBbvlJJFZ/status/1348190547261808640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 250,
+							"h": 322,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 250,
+							"h": 322,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 250,
+							"h": 322,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1348190104003625000,
+		"in_reply_to_status_id_str": "1348190104003624960",
+		"in_reply_to_user_id": 1242436744366026800,
+		"in_reply_to_user_id_str": "1242436744366026755",
+		"in_reply_to_screen_name": "NyfZ44CBbvlJJFZ",
+		"user": {
+			"id": 1242436744366026800,
+			"id_str": "1242436744366026755",
+			"name": "🇰🇷❤🇺🇸",
+			"screen_name": "NyfZ44CBbvlJJFZ",
+			"location": "South Korea",
+			"description": "친미+애국+페미",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 113,
+			"friends_count": 68,
+			"listed_count": 0,
+			"created_at": "Tue Mar 24 13:03:22 +0000 2020",
+			"favourites_count": 2630,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1347816020111548421/ahkSdaiS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1347816020111548421/ahkSdaiS_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "비혼모 예산이 다문화 예산보다는 많아야지 씹 ㅋㅋ 아존나 싫노 https://t.co/D8L2El48qc"
+	},
+	{
 		"created_at": "Sat Jan 09 20:17:39 +0000 2021",
 		"id": 1348001006378864600,
 		"id_str": "1348001006378864640",
