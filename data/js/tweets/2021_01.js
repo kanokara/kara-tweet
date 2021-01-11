@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 11 13:27:34 +0000 2021",
+		"id": 1348603208696955000,
+		"id_str": "1348622581193003010",
+		"full_text": "이 기사 제목은 오해를 불러일으키기 좋게 되어 있지만, ‘4차산업혁명’ 이야기 등은 충분히 납득이 가는 내용. 그런데 ‘2. 데이터 기반의 사회’에서 다음 부분은 더 흥미롭다.\n\n「예를 들어보자. 전국민 재난지원금과 선별 재난지원금은 지금도 가장 뜨거운 이슈중 하나다.\nhttps://t.co/Dvhvh1JyTm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dvhvh1JyTm",
+					"expanded_url": "https://news.v.daum.net/v/20210111070029087",
+					"display_url": "news.v.daum.net/v/202101110700…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 134540200,
+			"id_str": "134540200",
+			"name": "mirugi／宣政佑（Seon、Jeong-U）",
+			"screen_name": "mirugi_jp",
+			"location": "Gyeonggi-do, Korea",
+			"description": "宣政佑（そん・じょんう）：1995年から韓国で、2002年から日本等で寄稿。最近は韓国で『季刊ポジション』『韓国出版年鑑』寄稿。『感情化する社会』『ウェブ小説の衝撃』等翻訳。「第25回韓国出版評論賞」評論優秀賞／日本で『ユリイカ』2020年5月号・『TOBIO Critiques#4』寄稿。『韓国純情漫画雑誌目録』編。",
+			"url": "https://t.co/cdmSuu7Z8P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cdmSuu7Z8P",
+							"expanded_url": "http://d.hatena.ne.jp/mirugi/about/",
+							"display_url": "d.hatena.ne.jp/mirugi/about/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2084,
+			"friends_count": 530,
+			"listed_count": 55,
+			"created_at": "Sun Apr 18 18:32:17 +0000 2010",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50540,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1290568937688555520/mv7_lAc7_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290568937688555520/mv7_lAc7_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134540200/1584608983",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "CC3366",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 기사 제목은 오해를 불러일으키기 좋게 되어 있지만, ‘4차산업혁명’ 이야기 등은 충분히 납득이 가는 내용. 그런데 ‘2. 데이터 기반의 사회’에서 다음 부분은 더 흥미롭다.\n\n「예를 들어보자. 전국민 재난지원금과 선별 재난지원금은 지금도 가장 뜨거운 이슈중 하나다.\nhttps://t.co/Dvhvh1JyTm"
+	},
+	{
 		"created_at": "Mon Jan 11 11:32:34 +0000 2021",
 		"id": 1348593642353553400,
 		"id_str": "1348593642353553411",
