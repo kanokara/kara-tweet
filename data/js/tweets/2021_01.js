@@ -1,6 +1,668 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 11 01:08:29 +0000 2021",
+		"id": 1348436587785322500,
+		"id_str": "1348436587785322497",
+		"full_text": "근래엔 이 정체성이 개인들의 아성이 되어버렸지만.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1348436346994520000,
+		"in_reply_to_status_id_str": "1348436346994520064",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 94,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13061,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "근래엔 이 정체성이 개인들의 아성이 되어버렸지만."
+	},
+	{
+		"created_at": "Mon Jan 11 01:07:32 +0000 2021",
+		"id": 1348436346994520000,
+		"id_str": "1348436346994520064",
+		"full_text": "도덕적인 부분은 필요하지만, 사회적 관계... 말하자면 성애와 신분 같은 '정체성'은 거기서 벗어나 있었거든요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1348435242411909000,
+		"in_reply_to_status_id_str": "1348435242411909120",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 94,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13061,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "도덕적인 부분은 필요하지만, 사회적 관계... 말하자면 성애와 신분 같은 '정체성'은 거기서 벗어나 있었거든요."
+	},
+	{
+		"created_at": "Mon Jan 11 01:03:09 +0000 2021",
+		"id": 1348435242411909000,
+		"id_str": "1348435242411909120",
+		"full_text": "이 시절 비도덕적인 작품들에 세례를 받고 자란 입장에선 갈수록 각박한 기준을 들이대는 세태에 가슴이 죄여와...\nhttps://t.co/GDu3gHxXJL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GDu3gHxXJL",
+					"expanded_url": "https://twitter.com/cherry_master1/status/1348261796398854149?s=19",
+					"display_url": "twitter.com/cherry_master1…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 94,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13061,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1348261796398854100,
+		"quoted_status_id_str": "1348261796398854149",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GDu3gHxXJL",
+			"expanded": "https://twitter.com/cherry_master1/status/1348261796398854149?s=19",
+			"display": "twitter.com/cherry_master1…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 10 13:33:56 +0000 2021",
+			"id": 1348261796398854100,
+			"id_str": "1348261796398854149",
+			"full_text": "옛날작품 너무 편견없어서 동성애 근친 나이같은거 좃또 신경안씀 https://t.co/7ZwKq4VdSO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				34
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7ZwKq4VdSO",
+						"expanded_url": "https://twitter.com/siye_midnight/status/1347877423212204035",
+						"display_url": "twitter.com/siye_midnight/…",
+						"indices": [
+							35,
+							58
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1221397800530759700,
+				"id_str": "1221397800530759680",
+				"name": "클튜",
+				"screen_name": "cherry_master1",
+				"location": "",
+				"description": "열심히 그리는 법좀 알려줘여",
+				"url": "https://t.co/LaF6raTNNy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LaF6raTNNy",
+								"expanded_url": "https://blog.naver.com/asdbo135426",
+								"display_url": "blog.naver.com/asdbo135426",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 103,
+				"friends_count": 98,
+				"listed_count": 3,
+				"created_at": "Sun Jan 26 11:41:50 +0000 2020",
+				"favourites_count": 2504,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4671,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1346443809098403842/lvCXm-1Y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1346443809098403842/lvCXm-1Y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1221397800530759680/1609852194",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1347877423212204000,
+			"quoted_status_id_str": "1347877423212204035",
+			"quoted_status_permalink": {
+				"url": "https://t.co/7ZwKq4VdSO",
+				"expanded": "https://twitter.com/siye_midnight/status/1347877423212204035",
+				"display": "twitter.com/siye_midnight/…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 시절 비도덕적인 작품들에 세례를 받고 자란 입장에선 갈수록 각박한 기준을 들이대는 세태에 가슴이 죄여와...\nhttps://t.co/GDu3gHxXJL"
+	},
+	{
+		"created_at": "Mon Jan 11 01:01:44 +0000 2021",
+		"id": 1348261796398854100,
+		"id_str": "1348434886508466177",
+		"full_text": "옛날작품 너무 편견없어서 동성애 근친 나이같은거 좃또 신경안씀 https://t.co/7ZwKq4VdSO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7ZwKq4VdSO",
+					"expanded_url": "https://twitter.com/siye_midnight/status/1347877423212204035",
+					"display_url": "twitter.com/siye_midnight/…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1221397800530759700,
+			"id_str": "1221397800530759680",
+			"name": "클튜",
+			"screen_name": "cherry_master1",
+			"location": "",
+			"description": "열심히 그리는 법좀 알려줘여",
+			"url": "https://t.co/LaF6raTNNy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LaF6raTNNy",
+							"expanded_url": "https://blog.naver.com/asdbo135426",
+							"display_url": "blog.naver.com/asdbo135426",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103,
+			"friends_count": 98,
+			"listed_count": 3,
+			"created_at": "Sun Jan 26 11:41:50 +0000 2020",
+			"favourites_count": 2504,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4671,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1346443809098403842/lvCXm-1Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1346443809098403842/lvCXm-1Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1221397800530759680/1609852194",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1347877423212204000,
+		"quoted_status_id_str": "1347877423212204035",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7ZwKq4VdSO",
+			"expanded": "https://twitter.com/siye_midnight/status/1347877423212204035",
+			"display": "twitter.com/siye_midnight/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 09 12:06:34 +0000 2021",
+			"id": 1347877423212204000,
+			"id_str": "1347877423212204035",
+			"full_text": "아 용납할수없어 https://t.co/3MYclERv6w",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				8
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1347877419747664000,
+						"id_str": "1347877419747663878",
+						"indices": [
+							9,
+							32
+						],
+						"media_url": "http://pbs.twimg.com/media/ErSfXzTUYAYYQLO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErSfXzTUYAYYQLO.jpg",
+						"url": "https://t.co/3MYclERv6w",
+						"display_url": "pic.twitter.com/3MYclERv6w",
+						"expanded_url": "https://twitter.com/siye_midnight/status/1347877423212204035/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1347877419747664000,
+						"id_str": "1347877419747663878",
+						"indices": [
+							9,
+							32
+						],
+						"media_url": "http://pbs.twimg.com/media/ErSfXzTUYAYYQLO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ErSfXzTUYAYYQLO.jpg",
+						"url": "https://t.co/3MYclERv6w",
+						"display_url": "pic.twitter.com/3MYclERv6w",
+						"expanded_url": "https://twitter.com/siye_midnight/status/1347877423212204035/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1098242545862070300,
+				"id_str": "1098242545862070273",
+				"name": "𝑆𝐼𝑌𝐸",
+				"screen_name": "siye_midnight",
+				"location": "GLORY[榮耀] 10구역",
+				"description": "쓰예 ‘似夜’ ┃ 20↑┃ 전직고수, 전독시, MXTX, Priest, 중장르, 현판소, 좋아하는 모든 것들 ┃ FUB Free & 비팔알림 OFF ┃ 번역 비번 및 예의 없는 문의 받지 않습니다.",
+				"url": "https://t.co/30CPuiPsXF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/30CPuiPsXF",
+								"expanded_url": "https://siyemidnight.postype.com/",
+								"display_url": "siyemidnight.postype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1297,
+				"friends_count": 152,
+				"listed_count": 3,
+				"created_at": "Wed Feb 20 15:26:42 +0000 2019",
+				"favourites_count": 2605,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 37418,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1245305802082013184/X_d-risb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245305802082013184/X_d-risb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1098242545862070273/1599936373",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1454,
+			"favorite_count": 490,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "옛날작품 너무 편견없어서 동성애 근친 나이같은거 좃또 신경안씀 https://t.co/7ZwKq4VdSO"
+	},
+	{
 		"created_at": "Sun Jan 10 15:38:40 +0000 2021",
 		"id": 1348293187828281300,
 		"id_str": "1348293187828281346",
