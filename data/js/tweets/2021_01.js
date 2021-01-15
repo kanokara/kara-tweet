@@ -1,6 +1,1780 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 15 19:42:47 +0000 2021",
+		"id": 1350166561198231600,
+		"id_str": "1350166561198231553",
+		"full_text": "왜 여성적 기질은 흠결에 대해 결벽적이고 강박적인가? 회피 본능 때문에...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1350163351100264400,
+		"in_reply_to_status_id_str": "1350163351100264448",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 94,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3083,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "왜 여성적 기질은 흠결에 대해 결벽적이고 강박적인가? 회피 본능 때문에..."
+	},
+	{
+		"created_at": "Fri Jan 15 19:30:02 +0000 2021",
+		"id": 1350163351100264400,
+		"id_str": "1350163351100264448",
+		"full_text": "역후회물이기 때문에...\nhttps://t.co/dOCxDbgmh4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dOCxDbgmh4",
+					"expanded_url": "https://twitter.com/pena_mirz/status/1350079628996653056",
+					"display_url": "twitter.com/pena_mirz/stat…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 94,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3083,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1350079628996653000,
+		"quoted_status_id_str": "1350079628996653056",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dOCxDbgmh4",
+			"expanded": "https://twitter.com/pena_mirz/status/1350079628996653056",
+			"display": "twitter.com/pena_mirz/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 15 13:57:21 +0000 2021",
+			"id": 1350079628996653000,
+			"id_str": "1350079628996653056",
+			"full_text": "@lazytypist 왜 여성 독자가 못 견디는지가 흥미로운 부분인 듯해요. 일단 작품으로서는 그 부분이 전 좋았는데 드라마에서는 이걸 희석하거든요? 그런데 왜 그렇게 바꿨는지는 너무 이해가 되는 거예요.",
+			"truncated": false,
+			"display_text_range": [
+				12,
+				114
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "lazytypist",
+						"name": "夢影",
+						"id": 153244603,
+						"id_str": "153244603",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1350078906074685400,
+			"in_reply_to_status_id_str": "1350078906074685444",
+			"in_reply_to_user_id": 153244603,
+			"in_reply_to_user_id_str": "153244603",
+			"in_reply_to_screen_name": "lazytypist",
+			"user": {
+				"id": 2940117944,
+				"id_str": "2940117944",
+				"name": "편집작가 P🎗",
+				"screen_name": "pena_mirz",
+				"location": "",
+				"description": "pena. 책 읽고 감상 쓰고 홍보해요. / SF, 판타지 전문 편집자, 환상문학웹진 거울 편집위원, 제5회, 6회 SF 어워드 중단편 부문 심사위원",
+				"url": "https://t.co/SJW4YQQpzh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SJW4YQQpzh",
+								"expanded_url": "http://mirrorzine.kr",
+								"display_url": "mirrorzine.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1699,
+				"friends_count": 456,
+				"listed_count": 7,
+				"created_at": "Tue Dec 23 01:08:45 +0000 2014",
+				"favourites_count": 801,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 33176,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1102967649233920001/hSQsCmZX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102967649233920001/hSQsCmZX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2940117944/1595693327",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "역후회물이기 때문에...\nhttps://t.co/dOCxDbgmh4"
+	},
+	{
+		"created_at": "Fri Jan 15 19:29:22 +0000 2021",
+		"id": 1350117185134289000,
+		"id_str": "1350163183403614209",
+		"full_text": "@lazytypist 네, 어쩔 수 없는 외부적 압력도 그다지 묘사를 안 하잖아요. 음, 그 사람의 도덕관념에서는 그것도 쉴드일 것 같지만요.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lazytypist",
+					"name": "夢影",
+					"id": 153244603,
+					"id_str": "153244603",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1350116923304886300,
+		"in_reply_to_status_id_str": "1350116923304886272",
+		"in_reply_to_user_id": 153244603,
+		"in_reply_to_user_id_str": "153244603",
+		"in_reply_to_screen_name": "lazytypist",
+		"user": {
+			"id": 2940117944,
+			"id_str": "2940117944",
+			"name": "편집작가 P🎗",
+			"screen_name": "pena_mirz",
+			"location": "",
+			"description": "pena. 책 읽고 감상 쓰고 홍보해요. / SF, 판타지 전문 편집자, 환상문학웹진 거울 편집위원, 제5회, 6회 SF 어워드 중단편 부문 심사위원",
+			"url": "https://t.co/SJW4YQQpzh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SJW4YQQpzh",
+							"expanded_url": "http://mirrorzine.kr",
+							"display_url": "mirrorzine.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1699,
+			"friends_count": 456,
+			"listed_count": 7,
+			"created_at": "Tue Dec 23 01:08:45 +0000 2014",
+			"favourites_count": 801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102967649233920001/hSQsCmZX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102967649233920001/hSQsCmZX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2940117944/1595693327",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@lazytypist 네, 어쩔 수 없는 외부적 압력도 그다지 묘사를 안 하잖아요. 음, 그 사람의 도덕관념에서는 그것도 쉴드일 것 같지만요."
+	},
+	{
+		"created_at": "Fri Jan 15 19:29:21 +0000 2021",
+		"id": 1350116923304886300,
+		"id_str": "1350163177821020160",
+		"full_text": "@pena_mirz 앗, 그건 또 그러네요. 로맨스적 해피엔딩을 맞긴 했으니 어떻게 그런 놈이 이렇게 사랑받을 수 있어 싶을 수도... 그렇게 '큰 죄'를 저지른 걸 독자가 보게 냅두고 서사적 변명거리(회귀라든가 음모라든가)를 주지 않았기 때문에 나온 감상인 거 같기도 하고요...",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pena_mirz",
+					"name": "편집작가 P🎗",
+					"id": 2940117944,
+					"id_str": "2940117944",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1350114815109283800,
+		"in_reply_to_status_id_str": "1350114815109283840",
+		"in_reply_to_user_id": 2940117944,
+		"in_reply_to_user_id_str": "2940117944",
+		"in_reply_to_screen_name": "pena_mirz",
+		"user": {
+			"id": 153244603,
+			"id_str": "153244603",
+			"name": "夢影",
+			"screen_name": "lazytypist",
+			"location": "Seoul",
+			"description": "로오히 하는데 일주일정도는 엘리트 스토리 스포일이 있을 수 있습니다. 3D 최애캐는 울집 고양이. 슈로대 /TRPG합니다. 요새는 덕토크계 - 티에리아, 웨이버... 요새는 주기락... 번외 자우림, 뮤지컬 등. 블록하든 언팔하든 팔로하든 자유. 저도 맘대로 하고 있음.",
+			"url": "https://t.co/H5wsxyLz7m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H5wsxyLz7m",
+							"expanded_url": "http://hibernate.egloos.com",
+							"display_url": "hibernate.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 111,
+			"friends_count": 262,
+			"listed_count": 4,
+			"created_at": "Tue Jun 08 01:50:23 +0000 2010",
+			"favourites_count": 2831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/468264629039165440/Cz4hXWf4_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/468264629039165440/Cz4hXWf4_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153244603/1471061277",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@pena_mirz 앗, 그건 또 그러네요. 로맨스적 해피엔딩을 맞긴 했으니 어떻게 그런 놈이 이렇게 사랑받을 수 있어 싶을 수도... 그렇게 '큰 죄'를 저지른 걸 독자가 보게 냅두고 서사적 변명거리(회귀라든가 음모라든가)를 주지 않았기 때문에 나온 감상인 거 같기도 하고요..."
+	},
+	{
+		"created_at": "Fri Jan 15 19:29:19 +0000 2021",
+		"id": 1350114815109283800,
+		"id_str": "1350163169809862657",
+		"full_text": "@lazytypist 다시 태어나서 행복한 엔딩을 맞기에는 너무 큰 죄라고 생각하는 것 같았어요.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lazytypist",
+					"name": "夢影",
+					"id": 153244603,
+					"id_str": "153244603",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1350114503963283500,
+		"in_reply_to_status_id_str": "1350114503963283458",
+		"in_reply_to_user_id": 153244603,
+		"in_reply_to_user_id_str": "153244603",
+		"in_reply_to_screen_name": "lazytypist",
+		"user": {
+			"id": 2940117944,
+			"id_str": "2940117944",
+			"name": "편집작가 P🎗",
+			"screen_name": "pena_mirz",
+			"location": "",
+			"description": "pena. 책 읽고 감상 쓰고 홍보해요. / SF, 판타지 전문 편집자, 환상문학웹진 거울 편집위원, 제5회, 6회 SF 어워드 중단편 부문 심사위원",
+			"url": "https://t.co/SJW4YQQpzh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SJW4YQQpzh",
+							"expanded_url": "http://mirrorzine.kr",
+							"display_url": "mirrorzine.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1699,
+			"friends_count": 456,
+			"listed_count": 7,
+			"created_at": "Tue Dec 23 01:08:45 +0000 2014",
+			"favourites_count": 801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102967649233920001/hSQsCmZX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102967649233920001/hSQsCmZX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2940117944/1595693327",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@lazytypist 다시 태어나서 행복한 엔딩을 맞기에는 너무 큰 죄라고 생각하는 것 같았어요."
+	},
+	{
+		"created_at": "Fri Jan 15 19:29:17 +0000 2021",
+		"id": 1350111413746819000,
+		"id_str": "1350163163501629441",
+		"full_text": "재미있는 건 위무선을 작가가 쉴드친다고 느끼는 사람도 있었다는 것... 한 사람이 아닌... \n\nhttps://t.co/ENqFLMJznH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ENqFLMJznH",
+					"expanded_url": "https://twitter.com/lazytypist/status/1350102829331931138?s=19",
+					"display_url": "twitter.com/lazytypist/sta…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2940117944,
+			"id_str": "2940117944",
+			"name": "편집작가 P🎗",
+			"screen_name": "pena_mirz",
+			"location": "",
+			"description": "pena. 책 읽고 감상 쓰고 홍보해요. / SF, 판타지 전문 편집자, 환상문학웹진 거울 편집위원, 제5회, 6회 SF 어워드 중단편 부문 심사위원",
+			"url": "https://t.co/SJW4YQQpzh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SJW4YQQpzh",
+							"expanded_url": "http://mirrorzine.kr",
+							"display_url": "mirrorzine.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1699,
+			"friends_count": 456,
+			"listed_count": 7,
+			"created_at": "Tue Dec 23 01:08:45 +0000 2014",
+			"favourites_count": 801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102967649233920001/hSQsCmZX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102967649233920001/hSQsCmZX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2940117944/1595693327",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1350102829331931100,
+		"quoted_status_id_str": "1350102829331931138",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ENqFLMJznH",
+			"expanded": "https://twitter.com/lazytypist/status/1350102829331931138?s=19",
+			"display": "twitter.com/lazytypist/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 15 15:29:32 +0000 2021",
+			"id": 1350102829331931100,
+			"id_str": "1350102829331931138",
+			"full_text": "요새 마도조사가 왜 다른 작품에 비해 이렇게 마라맛의 여운이 강하게 느껴질까 했는데 아무래도 주인공이라고 연민하지 않는 서술이 차이점인 거 맞는 듯... 재독할 때도 다른 것보다 힘겹고... 왜냐면 감정이입의 대상인 주인공의 죄/오류를 직면해야 하니까? 이게 '싫음'으로 표출되는 것도 이해됨",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				163
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 153244603,
+				"id_str": "153244603",
+				"name": "夢影",
+				"screen_name": "lazytypist",
+				"location": "Seoul",
+				"description": "로오히 하는데 일주일정도는 엘리트 스토리 스포일이 있을 수 있습니다. 3D 최애캐는 울집 고양이. 슈로대 /TRPG합니다. 요새는 덕토크계 - 티에리아, 웨이버... 요새는 주기락... 번외 자우림, 뮤지컬 등. 블록하든 언팔하든 팔로하든 자유. 저도 맘대로 하고 있음.",
+				"url": "https://t.co/H5wsxyLz7m",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H5wsxyLz7m",
+								"expanded_url": "http://hibernate.egloos.com",
+								"display_url": "hibernate.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 111,
+				"friends_count": 262,
+				"listed_count": 4,
+				"created_at": "Tue Jun 08 01:50:23 +0000 2010",
+				"favourites_count": 2831,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3987,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/468264629039165440/Cz4hXWf4_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/468264629039165440/Cz4hXWf4_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/153244603/1471061277",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "재미있는 건 위무선을 작가가 쉴드친다고 느끼는 사람도 있었다는 것... 한 사람이 아닌... \n\nhttps://t.co/ENqFLMJznH"
+	},
+	{
+		"created_at": "Fri Jan 15 19:29:01 +0000 2021",
+		"id": 1350102829331931100,
+		"id_str": "1350163096531136512",
+		"full_text": "요새 마도조사가 왜 다른 작품에 비해 이렇게 마라맛의 여운이 강하게 느껴질까 했는데 아무래도 주인공이라고 연민하지 않는 서술이 차이점인 거 맞는 듯... 재독할 때도 다른 것보다 힘겹고... 왜냐면 감정이입의 대상인 주인공의 죄/오류를 직면해야 하니까? 이게 '싫음'으로 표출되는 것도 이해됨",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153244603,
+			"id_str": "153244603",
+			"name": "夢影",
+			"screen_name": "lazytypist",
+			"location": "Seoul",
+			"description": "로오히 하는데 일주일정도는 엘리트 스토리 스포일이 있을 수 있습니다. 3D 최애캐는 울집 고양이. 슈로대 /TRPG합니다. 요새는 덕토크계 - 티에리아, 웨이버... 요새는 주기락... 번외 자우림, 뮤지컬 등. 블록하든 언팔하든 팔로하든 자유. 저도 맘대로 하고 있음.",
+			"url": "https://t.co/H5wsxyLz7m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H5wsxyLz7m",
+							"expanded_url": "http://hibernate.egloos.com",
+							"display_url": "hibernate.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 111,
+			"friends_count": 262,
+			"listed_count": 4,
+			"created_at": "Tue Jun 08 01:50:23 +0000 2010",
+			"favourites_count": 2831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/468264629039165440/Cz4hXWf4_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/468264629039165440/Cz4hXWf4_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153244603/1471061277",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "요새 마도조사가 왜 다른 작품에 비해 이렇게 마라맛의 여운이 강하게 느껴질까 했는데 아무래도 주인공이라고 연민하지 않는 서술이 차이점인 거 맞는 듯... 재독할 때도 다른 것보다 힘겹고... 왜냐면 감정이입의 대상인 주인공의 죄/오류를 직면해야 하니까? 이게 '싫음'으로 표출되는 것도 이해됨"
+	},
+	{
+		"created_at": "Fri Jan 15 19:28:07 +0000 2021",
+		"id": 1350092433409728500,
+		"id_str": "1350162869099274240",
+		"full_text": "위무선이 겪는 그 과정은 논리상, 세상의 법칙에 따라 아주 필연적이다. 그걸 다루는 방식이 건조해서 나는 좋다고 느꼈는데, 꿈과 희망이 있는 장르인데 배신당해서, 또는 진짜 잘못한 캐릭을 사랑할 수 없어서, 또는 이보다 더 속죄하고 변화하길 바라서 이 부분을 싫어한 반응을 보았다. https://t.co/MRY2L6CwCO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MRY2L6CwCO",
+					"expanded_url": "https://twitter.com/pena_mirz/status/1350079628996653056",
+					"display_url": "twitter.com/pena_mirz/stat…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2940117944,
+			"id_str": "2940117944",
+			"name": "편집작가 P🎗",
+			"screen_name": "pena_mirz",
+			"location": "",
+			"description": "pena. 책 읽고 감상 쓰고 홍보해요. / SF, 판타지 전문 편집자, 환상문학웹진 거울 편집위원, 제5회, 6회 SF 어워드 중단편 부문 심사위원",
+			"url": "https://t.co/SJW4YQQpzh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SJW4YQQpzh",
+							"expanded_url": "http://mirrorzine.kr",
+							"display_url": "mirrorzine.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1699,
+			"friends_count": 456,
+			"listed_count": 7,
+			"created_at": "Tue Dec 23 01:08:45 +0000 2014",
+			"favourites_count": 801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102967649233920001/hSQsCmZX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102967649233920001/hSQsCmZX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2940117944/1595693327",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1350079628996653000,
+		"quoted_status_id_str": "1350079628996653056",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MRY2L6CwCO",
+			"expanded": "https://twitter.com/pena_mirz/status/1350079628996653056",
+			"display": "twitter.com/pena_mirz/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 15 13:57:21 +0000 2021",
+			"id": 1350079628996653000,
+			"id_str": "1350079628996653056",
+			"full_text": "@lazytypist 왜 여성 독자가 못 견디는지가 흥미로운 부분인 듯해요. 일단 작품으로서는 그 부분이 전 좋았는데 드라마에서는 이걸 희석하거든요? 그런데 왜 그렇게 바꿨는지는 너무 이해가 되는 거예요.",
+			"truncated": false,
+			"display_text_range": [
+				12,
+				114
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "lazytypist",
+						"name": "夢影",
+						"id": 153244603,
+						"id_str": "153244603",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1350078906074685400,
+			"in_reply_to_status_id_str": "1350078906074685444",
+			"in_reply_to_user_id": 153244603,
+			"in_reply_to_user_id_str": "153244603",
+			"in_reply_to_screen_name": "lazytypist",
+			"user": {
+				"id": 2940117944,
+				"id_str": "2940117944",
+				"name": "편집작가 P🎗",
+				"screen_name": "pena_mirz",
+				"location": "",
+				"description": "pena. 책 읽고 감상 쓰고 홍보해요. / SF, 판타지 전문 편집자, 환상문학웹진 거울 편집위원, 제5회, 6회 SF 어워드 중단편 부문 심사위원",
+				"url": "https://t.co/SJW4YQQpzh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SJW4YQQpzh",
+								"expanded_url": "http://mirrorzine.kr",
+								"display_url": "mirrorzine.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1699,
+				"friends_count": 456,
+				"listed_count": 7,
+				"created_at": "Tue Dec 23 01:08:45 +0000 2014",
+				"favourites_count": 801,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 33176,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1102967649233920001/hSQsCmZX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102967649233920001/hSQsCmZX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2940117944/1595693327",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 31,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "위무선이 겪는 그 과정은 논리상, 세상의 법칙에 따라 아주 필연적이다. 그걸 다루는 방식이 건조해서 나는 좋다고 느꼈는데, 꿈과 희망이 있는 장르인데 배신당해서, 또는 진짜 잘못한 캐릭을 사랑할 수 없어서, 또는 이보다 더 속죄하고 변화하길 바라서 이 부분을 싫어한 반응을 보았다. https://t.co/MRY2L6CwCO"
+	},
+	{
+		"created_at": "Fri Jan 15 19:27:49 +0000 2021",
+		"id": 1350081517632962600,
+		"id_str": "1350162793949872129",
+		"full_text": "원작은 아니지만 드라마를 남편과 함께 봤는데 남편은 \"언제 홱 돌아서 짱쎄지느냐\"고 물었다. ... https://t.co/4Uhat1Dry1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4Uhat1Dry1",
+					"expanded_url": "https://twitter.com/pena_mirz/status/1350078051757957120",
+					"display_url": "twitter.com/pena_mirz/stat…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2940117944,
+			"id_str": "2940117944",
+			"name": "편집작가 P🎗",
+			"screen_name": "pena_mirz",
+			"location": "",
+			"description": "pena. 책 읽고 감상 쓰고 홍보해요. / SF, 판타지 전문 편집자, 환상문학웹진 거울 편집위원, 제5회, 6회 SF 어워드 중단편 부문 심사위원",
+			"url": "https://t.co/SJW4YQQpzh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SJW4YQQpzh",
+							"expanded_url": "http://mirrorzine.kr",
+							"display_url": "mirrorzine.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1699,
+			"friends_count": 456,
+			"listed_count": 7,
+			"created_at": "Tue Dec 23 01:08:45 +0000 2014",
+			"favourites_count": 801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102967649233920001/hSQsCmZX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102967649233920001/hSQsCmZX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2940117944/1595693327",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1350078051757957000,
+		"quoted_status_id_str": "1350078051757957120",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4Uhat1Dry1",
+			"expanded": "https://twitter.com/pena_mirz/status/1350078051757957120",
+			"display": "twitter.com/pena_mirz/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 15 13:51:05 +0000 2021",
+			"id": 1350078051757957000,
+			"id_str": "1350078051757957120",
+			"full_text": "마도조사 여러 명에게 읽혔는데 정말 그랬다... https://t.co/kAhXOiZywK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				26
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kAhXOiZywK",
+						"expanded_url": "https://twitter.com/racommu/status/1330492303560085505",
+						"display_url": "twitter.com/racommu/status…",
+						"indices": [
+							27,
+							50
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2940117944,
+				"id_str": "2940117944",
+				"name": "편집작가 P🎗",
+				"screen_name": "pena_mirz",
+				"location": "",
+				"description": "pena. 책 읽고 감상 쓰고 홍보해요. / SF, 판타지 전문 편집자, 환상문학웹진 거울 편집위원, 제5회, 6회 SF 어워드 중단편 부문 심사위원",
+				"url": "https://t.co/SJW4YQQpzh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SJW4YQQpzh",
+								"expanded_url": "http://mirrorzine.kr",
+								"display_url": "mirrorzine.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1699,
+				"friends_count": 456,
+				"listed_count": 7,
+				"created_at": "Tue Dec 23 01:08:45 +0000 2014",
+				"favourites_count": 801,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 33176,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1102967649233920001/hSQsCmZX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102967649233920001/hSQsCmZX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2940117944/1595693327",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1330492303560085500,
+			"quoted_status_id_str": "1330492303560085505",
+			"quoted_status_permalink": {
+				"url": "https://t.co/kAhXOiZywK",
+				"expanded": "https://twitter.com/racommu/status/1330492303560085505",
+				"display": "twitter.com/racommu/status…"
+			},
+			"retweet_count": 34,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "원작은 아니지만 드라마를 남편과 함께 봤는데 남편은 \"언제 홱 돌아서 짱쎄지느냐\"고 물었다. ... https://t.co/4Uhat1Dry1"
+	},
+	{
+		"created_at": "Fri Jan 15 19:27:07 +0000 2021",
+		"id": 1350085425432445000,
+		"id_str": "1350162616988024832",
+		"full_text": "@pena_mirz 아 그럴 수 있겠네요. 그런 부분을 로맨스 소설에서 많이 봐서 로맨스 문법 같다고 느낀 듯하네요... 근데 주인공이 인간성 잃어도 파워업해서 결국 문제가 해결되는 케이스를 더 많이 본 거 같은데, '파워업' '문제 해결' 같은 당의정 없으면 아마 남자 독자들도 보기 싫어하지 않을까 싶기도 해요.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pena_mirz",
+					"name": "편집작가 P🎗",
+					"id": 2940117944,
+					"id_str": "2940117944",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1350082786988724200,
+		"in_reply_to_status_id_str": "1350082786988724224",
+		"in_reply_to_user_id": 2940117944,
+		"in_reply_to_user_id_str": "2940117944",
+		"in_reply_to_screen_name": "pena_mirz",
+		"user": {
+			"id": 153244603,
+			"id_str": "153244603",
+			"name": "夢影",
+			"screen_name": "lazytypist",
+			"location": "Seoul",
+			"description": "로오히 하는데 일주일정도는 엘리트 스토리 스포일이 있을 수 있습니다. 3D 최애캐는 울집 고양이. 슈로대 /TRPG합니다. 요새는 덕토크계 - 티에리아, 웨이버... 요새는 주기락... 번외 자우림, 뮤지컬 등. 블록하든 언팔하든 팔로하든 자유. 저도 맘대로 하고 있음.",
+			"url": "https://t.co/H5wsxyLz7m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H5wsxyLz7m",
+							"expanded_url": "http://hibernate.egloos.com",
+							"display_url": "hibernate.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 111,
+			"friends_count": 262,
+			"listed_count": 4,
+			"created_at": "Tue Jun 08 01:50:23 +0000 2010",
+			"favourites_count": 2831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/468264629039165440/Cz4hXWf4_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/468264629039165440/Cz4hXWf4_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153244603/1471061277",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@pena_mirz 아 그럴 수 있겠네요. 그런 부분을 로맨스 소설에서 많이 봐서 로맨스 문법 같다고 느낀 듯하네요... 근데 주인공이 인간성 잃어도 파워업해서 결국 문제가 해결되는 케이스를 더 많이 본 거 같은데, '파워업' '문제 해결' 같은 당의정 없으면 아마 남자 독자들도 보기 싫어하지 않을까 싶기도 해요."
+	},
+	{
+		"created_at": "Fri Jan 15 19:27:01 +0000 2021",
+		"id": 1350082786988724200,
+		"id_str": "1350162592950456320",
+		"full_text": "@lazytypist 로맨스 문법보단 흠결없음에 대한 강박이 아닐까 싶어요",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lazytypist",
+					"name": "夢影",
+					"id": 153244603,
+					"id_str": "153244603",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1350082488509448200,
+		"in_reply_to_status_id_str": "1350082488509448193",
+		"in_reply_to_user_id": 153244603,
+		"in_reply_to_user_id_str": "153244603",
+		"in_reply_to_screen_name": "lazytypist",
+		"user": {
+			"id": 2940117944,
+			"id_str": "2940117944",
+			"name": "편집작가 P🎗",
+			"screen_name": "pena_mirz",
+			"location": "",
+			"description": "pena. 책 읽고 감상 쓰고 홍보해요. / SF, 판타지 전문 편집자, 환상문학웹진 거울 편집위원, 제5회, 6회 SF 어워드 중단편 부문 심사위원",
+			"url": "https://t.co/SJW4YQQpzh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SJW4YQQpzh",
+							"expanded_url": "http://mirrorzine.kr",
+							"display_url": "mirrorzine.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1699,
+			"friends_count": 456,
+			"listed_count": 7,
+			"created_at": "Tue Dec 23 01:08:45 +0000 2014",
+			"favourites_count": 801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102967649233920001/hSQsCmZX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102967649233920001/hSQsCmZX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2940117944/1595693327",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@lazytypist 로맨스 문법보단 흠결없음에 대한 강박이 아닐까 싶어요"
+	},
+	{
+		"created_at": "Fri Jan 15 19:26:52 +0000 2021",
+		"id": 1350079628996653000,
+		"id_str": "1350162555583438848",
+		"full_text": "@lazytypist 왜 여성 독자가 못 견디는지가 흥미로운 부분인 듯해요. 일단 작품으로서는 그 부분이 전 좋았는데 드라마에서는 이걸 희석하거든요? 그런데 왜 그렇게 바꿨는지는 너무 이해가 되는 거예요.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lazytypist",
+					"name": "夢影",
+					"id": 153244603,
+					"id_str": "153244603",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1350078906074685400,
+		"in_reply_to_status_id_str": "1350078906074685444",
+		"in_reply_to_user_id": 153244603,
+		"in_reply_to_user_id_str": "153244603",
+		"in_reply_to_screen_name": "lazytypist",
+		"user": {
+			"id": 2940117944,
+			"id_str": "2940117944",
+			"name": "편집작가 P🎗",
+			"screen_name": "pena_mirz",
+			"location": "",
+			"description": "pena. 책 읽고 감상 쓰고 홍보해요. / SF, 판타지 전문 편집자, 환상문학웹진 거울 편집위원, 제5회, 6회 SF 어워드 중단편 부문 심사위원",
+			"url": "https://t.co/SJW4YQQpzh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SJW4YQQpzh",
+							"expanded_url": "http://mirrorzine.kr",
+							"display_url": "mirrorzine.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1699,
+			"friends_count": 456,
+			"listed_count": 7,
+			"created_at": "Tue Dec 23 01:08:45 +0000 2014",
+			"favourites_count": 801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102967649233920001/hSQsCmZX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102967649233920001/hSQsCmZX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2940117944/1595693327",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@lazytypist 왜 여성 독자가 못 견디는지가 흥미로운 부분인 듯해요. 일단 작품으로서는 그 부분이 전 좋았는데 드라마에서는 이걸 희석하거든요? 그런데 왜 그렇게 바꿨는지는 너무 이해가 되는 거예요."
+	},
+	{
+		"created_at": "Fri Jan 15 19:26:51 +0000 2021",
+		"id": 1350078906074685400,
+		"id_str": "1350162548478230528",
+		"full_text": "@pena_mirz 맞아요.. 그부분이 가장 괴로움.. 특히 마도조사는 그거 때문에  사태가 더 악화되고 돌이킬 수 없게 되는 구조잖아요. 판타지에서는 그런 비인간성이 옳은 선택이 되고 사태를 해결하는 힘이 되는데 그렇지 않으니 더 괴로운 듯...",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pena_mirz",
+					"name": "편집작가 P🎗",
+					"id": 2940117944,
+					"id_str": "2940117944",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1350078051757957000,
+		"in_reply_to_status_id_str": "1350078051757957120",
+		"in_reply_to_user_id": 2940117944,
+		"in_reply_to_user_id_str": "2940117944",
+		"in_reply_to_screen_name": "pena_mirz",
+		"user": {
+			"id": 153244603,
+			"id_str": "153244603",
+			"name": "夢影",
+			"screen_name": "lazytypist",
+			"location": "Seoul",
+			"description": "로오히 하는데 일주일정도는 엘리트 스토리 스포일이 있을 수 있습니다. 3D 최애캐는 울집 고양이. 슈로대 /TRPG합니다. 요새는 덕토크계 - 티에리아, 웨이버... 요새는 주기락... 번외 자우림, 뮤지컬 등. 블록하든 언팔하든 팔로하든 자유. 저도 맘대로 하고 있음.",
+			"url": "https://t.co/H5wsxyLz7m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H5wsxyLz7m",
+							"expanded_url": "http://hibernate.egloos.com",
+							"display_url": "hibernate.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 111,
+			"friends_count": 262,
+			"listed_count": 4,
+			"created_at": "Tue Jun 08 01:50:23 +0000 2010",
+			"favourites_count": 2831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/468264629039165440/Cz4hXWf4_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/468264629039165440/Cz4hXWf4_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153244603/1471061277",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@pena_mirz 맞아요.. 그부분이 가장 괴로움.. 특히 마도조사는 그거 때문에  사태가 더 악화되고 돌이킬 수 없게 되는 구조잖아요. 판타지에서는 그런 비인간성이 옳은 선택이 되고 사태를 해결하는 힘이 되는데 그렇지 않으니 더 괴로운 듯..."
+	},
+	{
 		"created_at": "Fri Jan 15 01:56:53 +0000 2021",
 		"id": 1349898318139191300,
 		"id_str": "1349898318139191296",
