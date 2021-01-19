@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 19 13:38:33 +0000 2021",
+		"id": 1351469589784273000,
+		"id_str": "1351524450965995532",
+		"full_text": "행사 취소 공지드립니다. \n\n모두의 백합은 행사를 취소합니다.\n\n앞으로 뵐 일이 있을지 모르나, 지금까지 감사했습니다.\n\n전문\nhttps://t.co/AW4xzJw5lT https://t.co/g9ghNCqpoW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AW4xzJw5lT",
+					"expanded_url": "https://www.evernote.com/shard/s473/client/snv?noteGuid=58baa08c-39bf-4fcf-d7ca-a898c3293142&noteKey=40f3f653b7c5e80b54ccd76bac215c92&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs473%2Fsh%2F58baa08c-39bf-4fcf-d7ca-a898c3293142%2F40f3f653b7c5e80b54ccd76bac215c92&title=%25ED%2596%2589%25EC%2582%25AC%2B%25EC%25B7%25A8%25EC%2586%258C",
+					"display_url": "evernote.com/shard/s473/cli…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1351468683617423400,
+					"id_str": "1351468683617423364",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EsFhm3wU0AQfl5K.png",
+					"media_url_https": "https://pbs.twimg.com/media/EsFhm3wU0AQfl5K.png",
+					"url": "https://t.co/g9ghNCqpoW",
+					"display_url": "pic.twitter.com/g9ghNCqpoW",
+					"expanded_url": "https://twitter.com/ourlilyFestival/status/1351469589784272897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 825,
+							"h": 808,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 825,
+							"h": 808,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351468683617423400,
+					"id_str": "1351468683617423364",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EsFhm3wU0AQfl5K.png",
+					"media_url_https": "https://pbs.twimg.com/media/EsFhm3wU0AQfl5K.png",
+					"url": "https://t.co/g9ghNCqpoW",
+					"display_url": "pic.twitter.com/g9ghNCqpoW",
+					"expanded_url": "https://twitter.com/ourlilyFestival/status/1351469589784272897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 825,
+							"h": 808,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 825,
+							"h": 808,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 977868451099242500,
+			"id_str": "977868451099242496",
+			"name": "모두의 백합 3회",
+			"screen_name": "ourlilyFestival",
+			"location": "",
+			"description": "백합배포전 2021년 2월 6일, 서울\n\n공지는 마음함 확인 부탁드립니다.",
+			"url": "https://t.co/pYy2E3hNfQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pYy2E3hNfQ",
+							"expanded_url": "https://ourlily.cafe24.com",
+							"display_url": "ourlily.cafe24.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5329,
+			"friends_count": 0,
+			"listed_count": 18,
+			"created_at": "Sun Mar 25 11:23:01 +0000 2018",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133737368526000128/cKkK3nM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133737368526000128/cKkK3nM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/977868451099242496/1559139012",
+			"profile_link_color": "E40E70",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5758,
+		"favorite_count": 545,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "행사 취소 공지드립니다. \n\n모두의 백합은 행사를 취소합니다.\n\n앞으로 뵐 일이 있을지 모르나, 지금까지 감사했습니다.\n\n전문\nhttps://t.co/AW4xzJw5lT https://t.co/g9ghNCqpoW"
+	},
+	{
 		"created_at": "Tue Jan 19 11:14:38 +0000 2021",
 		"id": 1351488231418654700,
 		"id_str": "1351488231418654723",
