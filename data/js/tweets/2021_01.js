@@ -1,6 +1,1013 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 20 07:27:42 +0000 2021",
+		"id": 1351793510479847400,
+		"id_str": "1351793510479847425",
+		"full_text": "인구 붕괴가 시작했는데 출산율 제고를 제외한 인프라 투자에는 보수적으로 접근하는 게 맞지 않을까.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 94,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "인구 붕괴가 시작했는데 출산율 제고를 제외한 인프라 투자에는 보수적으로 접근하는 게 맞지 않을까."
+	},
+	{
+		"created_at": "Wed Jan 20 07:13:03 +0000 2021",
+		"id": 1351700295114346500,
+		"id_str": "1351789821304336384",
+		"full_text": "조금의 상냥함이 죽고싶은 사람을 살리기도 하는데....너무너무 힘든 하루엔 정말 사소한 거로 무너지는데, 그걸 붙잡아 일으켜세우는것도 사소한 상냥함이라서...여러분 우리 조금씩만 더 힘내요 https://t.co/7UtxOZdGN8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7UtxOZdGN8",
+					"expanded_url": "https://twitter.com/4242_4341_1/status/1351519086006571011",
+					"display_url": "twitter.com/4242_4341_1/st…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 461845584,
+			"id_str": "461845584",
+			"name": "아이스커피",
+			"screen_name": "Randomblood_",
+			"location": "찾아오는 싸움은 피하지 않는다",
+			"description": "우리집 고양이들 우주제일귀여움^^/\n페미니스트/사이퍼즈 탱유저/로오히 뉴비 로드/TRPG 팀 짜요!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29,
+			"friends_count": 108,
+			"listed_count": 0,
+			"created_at": "Thu Jan 12 08:01:25 +0000 2012",
+			"favourites_count": 14356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23616,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCEBB6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1037412064522694656/aWW6TcQv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1037412064522694656/aWW6TcQv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/461845584/1594397910",
+			"profile_link_color": "CE7834",
+			"profile_sidebar_border_color": "F0A830",
+			"profile_sidebar_fill_color": "78C0A8",
+			"profile_text_color": "5E412F",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1351519086006571000,
+		"quoted_status_id_str": "1351519086006571011",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7UtxOZdGN8",
+			"expanded": "https://twitter.com/4242_4341_1/status/1351519086006571011",
+			"display": "twitter.com/4242_4341_1/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 19 13:17:14 +0000 2021",
+			"id": 1351519086006571000,
+			"id_str": "1351519086006571011",
+			"full_text": "제발 이러지 마... 그냥 다른 사람들한테 좀 상냥하게 좀 대해봐 그거 손해보는 거 절대 아니야 지는 것도 아니야 상냥하게 대하는 걸 계속하면 어떤 형태로든 그게 돌아와 지하철에서 자리양보 좀 하고 쓰레기 길에 안버리고 시끄러운 어린애들한테 웃어준다고 아무도 우습게 안 봐 위선이라도 해 https://t.co/7RPCLtTPfj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				160
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7RPCLtTPfj",
+						"expanded_url": "https://twitter.com/Estel_Eldalieva/status/1351493267678871557",
+						"display_url": "twitter.com/Estel_Eldaliev…",
+						"indices": [
+							161,
+							184
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1088831475170955300,
+				"id_str": "1088831475170955264",
+				"name": "42",
+				"screen_name": "4242_4341_1",
+				"location": "침대",
+				"description": "나를 모르는군.\n\n\n벌써 그런 시대가 왔나...\n\n\n나는 한때 이 땅을 흰눈썹황금새의 가호 아래 수호했던\n\n\n--동방의 학자--42다.",
+				"url": "https://t.co/eSOaDdmnb8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eSOaDdmnb8",
+								"expanded_url": "https://stars.osr.org/HXW604190#.XjJe0jHwEYQ.twitter",
+								"display_url": "stars.osr.org/HXW604190#.XjJ…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 148,
+				"friends_count": 110,
+				"listed_count": 0,
+				"created_at": "Fri Jan 25 16:10:27 +0000 2019",
+				"favourites_count": 37626,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 31758,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1323288652483502089/fWHYVkCf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323288652483502089/fWHYVkCf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1088831475170955264/1588956214",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1351493267678871600,
+			"quoted_status_id_str": "1351493267678871557",
+			"quoted_status_permalink": {
+				"url": "https://t.co/7RPCLtTPfj",
+				"expanded": "https://twitter.com/Estel_Eldalieva/status/1351493267678871557",
+				"display": "twitter.com/Estel_Eldaliev…"
+			},
+			"retweet_count": 12592,
+			"favorite_count": 3770,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "조금의 상냥함이 죽고싶은 사람을 살리기도 하는데....너무너무 힘든 하루엔 정말 사소한 거로 무너지는데, 그걸 붙잡아 일으켜세우는것도 사소한 상냥함이라서...여러분 우리 조금씩만 더 힘내요 https://t.co/7UtxOZdGN8"
+	},
+	{
+		"created_at": "Wed Jan 20 07:13:01 +0000 2021",
+		"id": 1351694866732916700,
+		"id_str": "1351789813783937025",
+		"full_text": "내가 타인에게 행한 친절이 다시 나에게로 돌아올거라는 믿음이 사라진 사회라는 것이 슬프네 하지만 그 믿음을 다시 회복하는 것도 사회를 이루는 개인들의 노력이 모여야하는 것인데 남들이 안하는 것을 나부터 시작하기란 쉽지 않지.. https://t.co/DGIlszsit7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DGIlszsit7",
+					"expanded_url": "https://twitter.com/4242_4341_1/status/1351519086006571011",
+					"display_url": "twitter.com/4242_4341_1/st…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 940247481689845800,
+			"id_str": "940247481689845762",
+			"name": "마르끄르",
+			"screen_name": "marukuru___",
+			"location": "왕크니까 왕귀엽지",
+			"description": "좋아하는 것들을 좋아한다고 많이 말하기\n(rps주의/좋아하는것 많음 주의)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 0,
+			"friends_count": 58,
+			"listed_count": 1,
+			"created_at": "Mon Dec 11 15:50:43 +0000 2017",
+			"favourites_count": 633,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349627636734050304/dFWR_Q_b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349627636734050304/dFWR_Q_b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/940247481689845762/1610611130",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1351519086006571000,
+		"quoted_status_id_str": "1351519086006571011",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DGIlszsit7",
+			"expanded": "https://twitter.com/4242_4341_1/status/1351519086006571011",
+			"display": "twitter.com/4242_4341_1/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 19 13:17:14 +0000 2021",
+			"id": 1351519086006571000,
+			"id_str": "1351519086006571011",
+			"full_text": "제발 이러지 마... 그냥 다른 사람들한테 좀 상냥하게 좀 대해봐 그거 손해보는 거 절대 아니야 지는 것도 아니야 상냥하게 대하는 걸 계속하면 어떤 형태로든 그게 돌아와 지하철에서 자리양보 좀 하고 쓰레기 길에 안버리고 시끄러운 어린애들한테 웃어준다고 아무도 우습게 안 봐 위선이라도 해 https://t.co/7RPCLtTPfj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				160
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7RPCLtTPfj",
+						"expanded_url": "https://twitter.com/Estel_Eldalieva/status/1351493267678871557",
+						"display_url": "twitter.com/Estel_Eldaliev…",
+						"indices": [
+							161,
+							184
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1088831475170955300,
+				"id_str": "1088831475170955264",
+				"name": "42",
+				"screen_name": "4242_4341_1",
+				"location": "침대",
+				"description": "나를 모르는군.\n\n\n벌써 그런 시대가 왔나...\n\n\n나는 한때 이 땅을 흰눈썹황금새의 가호 아래 수호했던\n\n\n--동방의 학자--42다.",
+				"url": "https://t.co/eSOaDdmnb8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eSOaDdmnb8",
+								"expanded_url": "https://stars.osr.org/HXW604190#.XjJe0jHwEYQ.twitter",
+								"display_url": "stars.osr.org/HXW604190#.XjJ…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 148,
+				"friends_count": 110,
+				"listed_count": 0,
+				"created_at": "Fri Jan 25 16:10:27 +0000 2019",
+				"favourites_count": 37626,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 31758,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1323288652483502089/fWHYVkCf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323288652483502089/fWHYVkCf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1088831475170955264/1588956214",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1351493267678871600,
+			"quoted_status_id_str": "1351493267678871557",
+			"quoted_status_permalink": {
+				"url": "https://t.co/7RPCLtTPfj",
+				"expanded": "https://twitter.com/Estel_Eldalieva/status/1351493267678871557",
+				"display": "twitter.com/Estel_Eldaliev…"
+			},
+			"retweet_count": 12592,
+			"favorite_count": 3770,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내가 타인에게 행한 친절이 다시 나에게로 돌아올거라는 믿음이 사라진 사회라는 것이 슬프네 하지만 그 믿음을 다시 회복하는 것도 사회를 이루는 개인들의 노력이 모여야하는 것인데 남들이 안하는 것을 나부터 시작하기란 쉽지 않지.. https://t.co/DGIlszsit7"
+	},
+	{
+		"created_at": "Wed Jan 20 07:11:35 +0000 2021",
+		"id": 1351540046021619700,
+		"id_str": "1351789451861655554",
+		"full_text": "전공 수업에서 유일하게 인상 깊었던 것: 나쁜 새끼가 지 이익을 위해서 평생 착한 척하면서 살면 그건 착한 인간이다(고대 그리스 정치철학) https://t.co/vykKCGHYcy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vykKCGHYcy",
+					"expanded_url": "https://twitter.com/4242_4341_1/status/1351519086006571011",
+					"display_url": "twitter.com/4242_4341_1/st…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1054278736349024300,
+			"id_str": "1054278736349024256",
+			"name": "Lil",
+			"screen_name": "Lil_lill_",
+			"location": "",
+			"description": "유안나님 작품 일체를 파는 계정입니다!/앨리스게임 존버단/솔라레메게톤 아셀솔라/푸른 밤, 황홀의 윤무/펜들턴 혁명/이외 다수/인장 율혜님",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 118,
+			"friends_count": 199,
+			"listed_count": 0,
+			"created_at": "Mon Oct 22 07:50:13 +0000 2018",
+			"favourites_count": 21840,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245268079027744768/1yvVpnHq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245268079027744768/1yvVpnHq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1054278736349024256/1585730021",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1351519086006571000,
+		"quoted_status_id_str": "1351519086006571011",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vykKCGHYcy",
+			"expanded": "https://twitter.com/4242_4341_1/status/1351519086006571011",
+			"display": "twitter.com/4242_4341_1/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 19 13:17:14 +0000 2021",
+			"id": 1351519086006571000,
+			"id_str": "1351519086006571011",
+			"full_text": "제발 이러지 마... 그냥 다른 사람들한테 좀 상냥하게 좀 대해봐 그거 손해보는 거 절대 아니야 지는 것도 아니야 상냥하게 대하는 걸 계속하면 어떤 형태로든 그게 돌아와 지하철에서 자리양보 좀 하고 쓰레기 길에 안버리고 시끄러운 어린애들한테 웃어준다고 아무도 우습게 안 봐 위선이라도 해 https://t.co/7RPCLtTPfj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				160
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7RPCLtTPfj",
+						"expanded_url": "https://twitter.com/Estel_Eldalieva/status/1351493267678871557",
+						"display_url": "twitter.com/Estel_Eldaliev…",
+						"indices": [
+							161,
+							184
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1088831475170955300,
+				"id_str": "1088831475170955264",
+				"name": "42",
+				"screen_name": "4242_4341_1",
+				"location": "침대",
+				"description": "나를 모르는군.\n\n\n벌써 그런 시대가 왔나...\n\n\n나는 한때 이 땅을 흰눈썹황금새의 가호 아래 수호했던\n\n\n--동방의 학자--42다.",
+				"url": "https://t.co/eSOaDdmnb8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eSOaDdmnb8",
+								"expanded_url": "https://stars.osr.org/HXW604190#.XjJe0jHwEYQ.twitter",
+								"display_url": "stars.osr.org/HXW604190#.XjJ…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 148,
+				"friends_count": 110,
+				"listed_count": 0,
+				"created_at": "Fri Jan 25 16:10:27 +0000 2019",
+				"favourites_count": 37626,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 31758,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1323288652483502089/fWHYVkCf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323288652483502089/fWHYVkCf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1088831475170955264/1588956214",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1351493267678871600,
+			"quoted_status_id_str": "1351493267678871557",
+			"quoted_status_permalink": {
+				"url": "https://t.co/7RPCLtTPfj",
+				"expanded": "https://twitter.com/Estel_Eldalieva/status/1351493267678871557",
+				"display": "twitter.com/Estel_Eldaliev…"
+			},
+			"retweet_count": 12592,
+			"favorite_count": 3770,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 12126,
+		"favorite_count": 3491,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "전공 수업에서 유일하게 인상 깊었던 것: 나쁜 새끼가 지 이익을 위해서 평생 착한 척하면서 살면 그건 착한 인간이다(고대 그리스 정치철학) https://t.co/vykKCGHYcy"
+	},
+	{
+		"created_at": "Wed Jan 20 07:11:29 +0000 2021",
+		"id": 1351520195404185600,
+		"id_str": "1351789428990111744",
+		"full_text": "어떤 사람이 다른 사람들한테 평생 그 어떤 피해도 끼치지 않는 건 불가능한 일이야 언젠가는 나 자신도 다른 사람들한테 피해를 끼칠 수 있어 내가 다른 사람들한테 피해를 끼쳤을 때 다른 사람들이 보여줬으면 하는 반응대로 나한테 피해끼친 사람을 대해야 해 좀 관대해져 봐",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1351519086006571000,
+		"in_reply_to_status_id_str": "1351519086006571011",
+		"in_reply_to_user_id": 1088831475170955300,
+		"in_reply_to_user_id_str": "1088831475170955264",
+		"in_reply_to_screen_name": "4242_4341_1",
+		"user": {
+			"id": 1088831475170955300,
+			"id_str": "1088831475170955264",
+			"name": "42",
+			"screen_name": "4242_4341_1",
+			"location": "침대",
+			"description": "나를 모르는군.\n\n\n벌써 그런 시대가 왔나...\n\n\n나는 한때 이 땅을 흰눈썹황금새의 가호 아래 수호했던\n\n\n--동방의 학자--42다.",
+			"url": "https://t.co/eSOaDdmnb8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSOaDdmnb8",
+							"expanded_url": "https://stars.osr.org/HXW604190#.XjJe0jHwEYQ.twitter",
+							"display_url": "stars.osr.org/HXW604190#.XjJ…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 148,
+			"friends_count": 110,
+			"listed_count": 0,
+			"created_at": "Fri Jan 25 16:10:27 +0000 2019",
+			"favourites_count": 37626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323288652483502089/fWHYVkCf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323288652483502089/fWHYVkCf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1088831475170955264/1588956214",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1283,
+		"favorite_count": 644,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "어떤 사람이 다른 사람들한테 평생 그 어떤 피해도 끼치지 않는 건 불가능한 일이야 언젠가는 나 자신도 다른 사람들한테 피해를 끼칠 수 있어 내가 다른 사람들한테 피해를 끼쳤을 때 다른 사람들이 보여줬으면 하는 반응대로 나한테 피해끼친 사람을 대해야 해 좀 관대해져 봐"
+	},
+	{
+		"created_at": "Wed Jan 20 07:11:26 +0000 2021",
+		"id": 1351519086006571000,
+		"id_str": "1351789415769653249",
+		"full_text": "제발 이러지 마... 그냥 다른 사람들한테 좀 상냥하게 좀 대해봐 그거 손해보는 거 절대 아니야 지는 것도 아니야 상냥하게 대하는 걸 계속하면 어떤 형태로든 그게 돌아와 지하철에서 자리양보 좀 하고 쓰레기 길에 안버리고 시끄러운 어린애들한테 웃어준다고 아무도 우습게 안 봐 위선이라도 해 https://t.co/7RPCLtTPfj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7RPCLtTPfj",
+					"expanded_url": "https://twitter.com/Estel_Eldalieva/status/1351493267678871557",
+					"display_url": "twitter.com/Estel_Eldaliev…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1088831475170955300,
+			"id_str": "1088831475170955264",
+			"name": "42",
+			"screen_name": "4242_4341_1",
+			"location": "침대",
+			"description": "나를 모르는군.\n\n\n벌써 그런 시대가 왔나...\n\n\n나는 한때 이 땅을 흰눈썹황금새의 가호 아래 수호했던\n\n\n--동방의 학자--42다.",
+			"url": "https://t.co/eSOaDdmnb8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSOaDdmnb8",
+							"expanded_url": "https://stars.osr.org/HXW604190#.XjJe0jHwEYQ.twitter",
+							"display_url": "stars.osr.org/HXW604190#.XjJ…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 148,
+			"friends_count": 110,
+			"listed_count": 0,
+			"created_at": "Fri Jan 25 16:10:27 +0000 2019",
+			"favourites_count": 37626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323288652483502089/fWHYVkCf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323288652483502089/fWHYVkCf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1088831475170955264/1588956214",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1351493267678871600,
+		"quoted_status_id_str": "1351493267678871557",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7RPCLtTPfj",
+			"expanded": "https://twitter.com/Estel_Eldalieva/status/1351493267678871557",
+			"display": "twitter.com/Estel_Eldaliev…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 19 11:34:39 +0000 2021",
+			"id": 1351493267678871600,
+			"id_str": "1351493267678871557",
+			"full_text": "@:요즘 대체적으로 “위선떠느니 그냥 대놓고 못된것이 낫다”라는 정서가 점점 확대되는게 너무 무섭고 두려움...",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				62
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1163789709803266000,
+				"id_str": "1163789709803266049",
+				"name": "에스텔🌟",
+				"screen_name": "Estel_Eldalieva",
+				"location": "",
+				"description": "#큐프로필사진",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1983,
+				"friends_count": 655,
+				"listed_count": 2,
+				"created_at": "Tue Aug 20 12:28:17 +0000 2019",
+				"favourites_count": 127696,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 135531,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1351499675195506690/8Y222dRC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1351499675195506690/8Y222dRC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1163789709803266049/1608304393",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9369,
+			"favorite_count": 4191,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 12592,
+		"favorite_count": 3770,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제발 이러지 마... 그냥 다른 사람들한테 좀 상냥하게 좀 대해봐 그거 손해보는 거 절대 아니야 지는 것도 아니야 상냥하게 대하는 걸 계속하면 어떤 형태로든 그게 돌아와 지하철에서 자리양보 좀 하고 쓰레기 길에 안버리고 시끄러운 어린애들한테 웃어준다고 아무도 우습게 안 봐 위선이라도 해 https://t.co/7RPCLtTPfj"
+	},
+	{
 		"created_at": "Tue Jan 19 13:38:33 +0000 2021",
 		"id": 1351469589784273000,
 		"id_str": "1351524450965995532",
