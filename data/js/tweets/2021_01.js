@@ -1,6 +1,493 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 20 12:56:59 +0000 2021",
+		"id": 1351876378572988400,
+		"id_str": "1351876378572988418",
+		"full_text": "젊은 소설가에게 보내는 편지\nhttps://t.co/aUd5CqONH4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aUd5CqONH4",
+					"expanded_url": "http://ucanunfollowme.egloos.com/4283720",
+					"display_url": "ucanunfollowme.egloos.com/4283720",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1351876093897105400,
+		"in_reply_to_status_id_str": "1351876093897105409",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 94,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "젊은 소설가에게 보내는 편지\nhttps://t.co/aUd5CqONH4"
+	},
+	{
+		"created_at": "Wed Jan 20 12:55:52 +0000 2021",
+		"id": 1351876093897105400,
+		"id_str": "1351876093897105409",
+		"full_text": "당연히 이청준인 줄 알았는데 마리오 바르가스 요사...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 94,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "당연히 이청준인 줄 알았는데 마리오 바르가스 요사..."
+	},
+	{
+		"created_at": "Wed Jan 20 12:55:11 +0000 2021",
+		"id": 1351869983748313000,
+		"id_str": "1351875924304695297",
+		"full_text": "제목 구글링했다~ &lt;젊은 소설가에게 보내는 편지&gt; 항상 재밌을 것 같은 인용을 올려주신다... https://t.co/q7xCpNsPFg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q7xCpNsPFg",
+					"expanded_url": "https://twitter.com/racommu/status/1351867706752991236",
+					"display_url": "twitter.com/racommu/status…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3231741776,
+			"id_str": "3231741776",
+			"name": "🍀하나🍎",
+			"screen_name": "re_wmlhi",
+			"location": "제비꽃 설탕 절임을 담은 유리병",
+			"description": "성인 / 여 / 리트윗많음 / 동숲트친소하고 있어요! / 달파랑섬 하나 / SW-5317-5447-6113 /",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 1718,
+			"listed_count": 1,
+			"created_at": "Sun May 31 14:36:58 +0000 2015",
+			"favourites_count": 10402,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18636,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242076524808777734/H6DhTw8q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242076524808777734/H6DhTw8q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3231741776/1560852333",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1351867706752991200,
+		"quoted_status_id_str": "1351867706752991236",
+		"quoted_status_permalink": {
+			"url": "https://t.co/q7xCpNsPFg",
+			"expanded": "https://twitter.com/racommu/status/1351867706752991236",
+			"display": "twitter.com/racommu/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 20 12:22:32 +0000 2021",
+			"id": 1351867706752991200,
+			"id_str": "1351867706752991236",
+			"full_text": "“사람이나 이야기를 지어내는 재능은 어디에서 연유하는 것일까요? (...) 그것은 반항심입니다 (...) 현실 세계에서의 자신이 실제로 사는 삶에 스스로 만족하는 사람이라면 무슨 이유로 그렇게나 속절없고 황당무계한 작업ㅡ허구세계의 창조ㅡ에 자신의 귀중한 시간을 허비하겠습니까?” &lt;-ㅋㅋㅋㅋ https://t.co/6ZzP6a2KhK https://t.co/jyQKBibSzB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				189
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6ZzP6a2KhK",
+						"expanded_url": "https://twitter.com/junenyanko/status/1351289770018701312",
+						"display_url": "twitter.com/junenyanko/sta…",
+						"indices": [
+							166,
+							189
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1351867700784492500,
+						"id_str": "1351867700784492551",
+						"indices": [
+							190,
+							213
+						],
+						"media_url": "http://pbs.twimg.com/media/EsLMguiVcAcWHM1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EsLMguiVcAcWHM1.jpg",
+						"url": "https://t.co/jyQKBibSzB",
+						"display_url": "pic.twitter.com/jyQKBibSzB",
+						"expanded_url": "https://twitter.com/racommu/status/1351867706752991236/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 478,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1351867700784492500,
+						"id_str": "1351867700784492551",
+						"indices": [
+							190,
+							213
+						],
+						"media_url": "http://pbs.twimg.com/media/EsLMguiVcAcWHM1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EsLMguiVcAcWHM1.jpg",
+						"url": "https://t.co/jyQKBibSzB",
+						"display_url": "pic.twitter.com/jyQKBibSzB",
+						"expanded_url": "https://twitter.com/racommu/status/1351867706752991236/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 478,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1351867700801273900,
+						"id_str": "1351867700801273857",
+						"indices": [
+							190,
+							213
+						],
+						"media_url": "http://pbs.twimg.com/media/EsLMgumVgAEHYIi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EsLMgumVgAEHYIi.jpg",
+						"url": "https://t.co/jyQKBibSzB",
+						"display_url": "pic.twitter.com/jyQKBibSzB",
+						"expanded_url": "https://twitter.com/racommu/status/1351867706752991236/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 747,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 747,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 496,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1042080141969477600,
+				"id_str": "1042080141969477632",
+				"name": "온다",
+				"screen_name": "racommu",
+				"location": "진짜 잡덕임 ",
+				"description": "개인 의견 정리 및 감상계 l 잡덕이고 말 많음 l 장르팔로 비추 l RT 가끔 많이함 l 탐라 잘 놓침 l 타래까지 다 읽어주세요 l 미러블락, 체인블락 씀",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7590,
+				"friends_count": 257,
+				"listed_count": 40,
+				"created_at": "Tue Sep 18 15:57:21 +0000 2018",
+				"favourites_count": 41510,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 73211,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1260191866944811015/_kJbLVIP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260191866944811015/_kJbLVIP_normal.jpg",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1351289770018701300,
+			"quoted_status_id_str": "1351289770018701312",
+			"quoted_status_permalink": {
+				"url": "https://t.co/6ZzP6a2KhK",
+				"expanded": "https://twitter.com/junenyanko/status/1351289770018701312",
+				"display": "twitter.com/junenyanko/sta…"
+			},
+			"retweet_count": 194,
+			"favorite_count": 93,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 14,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제목 구글링했다~ &lt;젊은 소설가에게 보내는 편지&gt; 항상 재밌을 것 같은 인용을 올려주신다... https://t.co/q7xCpNsPFg"
+	},
+	{
 		"created_at": "Wed Jan 20 07:27:42 +0000 2021",
 		"id": 1351793510479847400,
 		"id_str": "1351793510479847425",
