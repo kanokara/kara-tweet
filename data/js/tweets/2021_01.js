@@ -1,6 +1,481 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 20 14:00:28 +0000 2021",
+		"id": 1241367755166605300,
+		"id_str": "1351892353951252480",
+		"full_text": "놓고 말해서 레즈라 해도 같은 여성이 성착취 당하는걸 보면 거기에 자기가 대입될텐데 그게 아무리 미쳐도 좋을리가 있냐. 무리수 뻘소리도 정도가 있지 오함마로 대가리 깨고싶은 내용이라 빡침.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1241367752675213300,
+		"in_reply_to_status_id_str": "1241367752675213312",
+		"in_reply_to_user_id": 161727613,
+		"in_reply_to_user_id_str": "161727613",
+		"in_reply_to_screen_name": "an_du_",
+		"user": {
+			"id": 161727613,
+			"id_str": "161727613",
+			"name": "analysis duplicate 🏳️‍🌈",
+			"screen_name": "an_du_",
+			"location": "Seoul in ROK/SK",
+			"description": "앤듀 // 나는 어째서인지 트랜스젠더였다 / 격변의 최근 수 년 / 개발자•아티스트 / 인간형 시뮬레이터 / 마음 위에 비치는 유성💗🌠 / P.Lin*Sesirine has rest in peaceful my world / ❤️🧡💛💚💙💙💜👭👩‍❤️‍💋‍👩",
+			"url": "https://t.co/S93rTe6rLU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S93rTe6rLU",
+							"expanded_url": "http://nm3.kr",
+							"display_url": "nm3.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 200,
+			"friends_count": 122,
+			"listed_count": 0,
+			"created_at": "Thu Jul 01 16:20:57 +0000 2010",
+			"favourites_count": 138257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 82057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8E87F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3259248557/8a2bb4eb438d446d8977113e95cfb6b9_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3259248557/8a2bb4eb438d446d8977113e95cfb6b9_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/161727613/1593737271",
+			"profile_link_color": "9F9AFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "B5B5FF",
+			"profile_text_color": "605CC9",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "놓고 말해서 레즈라 해도 같은 여성이 성착취 당하는걸 보면 거기에 자기가 대입될텐데 그게 아무리 미쳐도 좋을리가 있냐. 무리수 뻘소리도 정도가 있지 오함마로 대가리 깨고싶은 내용이라 빡침."
+	},
+	{
+		"created_at": "Wed Jan 20 14:00:25 +0000 2021",
+		"id": 1241367752675213300,
+		"id_str": "1351892338629513219",
+		"full_text": "거기에 그런 남/녀 호르몬 차이에 의한 성욕의 방향성, 스트레스 저항력, 공감능력에서 차이가 벌어지면서 극단적으로 차이가 벌어지기에 그 방에 여자가 들어갔을 가능성도 없고, 거기 영상 다 여자가 피해자인데 그런거 보고 좋아할건 남자 뿐인데다 애초에 헤테로 여성이 좋아할 컨텐츠도 아닐 터.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1241367750469009400,
+		"in_reply_to_status_id_str": "1241367750469009408",
+		"in_reply_to_user_id": 161727613,
+		"in_reply_to_user_id_str": "161727613",
+		"in_reply_to_screen_name": "an_du_",
+		"user": {
+			"id": 161727613,
+			"id_str": "161727613",
+			"name": "analysis duplicate 🏳️‍🌈",
+			"screen_name": "an_du_",
+			"location": "Seoul in ROK/SK",
+			"description": "앤듀 // 나는 어째서인지 트랜스젠더였다 / 격변의 최근 수 년 / 개발자•아티스트 / 인간형 시뮬레이터 / 마음 위에 비치는 유성💗🌠 / P.Lin*Sesirine has rest in peaceful my world / ❤️🧡💛💚💙💙💜👭👩‍❤️‍💋‍👩",
+			"url": "https://t.co/S93rTe6rLU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S93rTe6rLU",
+							"expanded_url": "http://nm3.kr",
+							"display_url": "nm3.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 200,
+			"friends_count": 122,
+			"listed_count": 0,
+			"created_at": "Thu Jul 01 16:20:57 +0000 2010",
+			"favourites_count": 138257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 82057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8E87F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3259248557/8a2bb4eb438d446d8977113e95cfb6b9_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3259248557/8a2bb4eb438d446d8977113e95cfb6b9_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/161727613/1593737271",
+			"profile_link_color": "9F9AFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "B5B5FF",
+			"profile_text_color": "605CC9",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "거기에 그런 남/녀 호르몬 차이에 의한 성욕의 방향성, 스트레스 저항력, 공감능력에서 차이가 벌어지면서 극단적으로 차이가 벌어지기에 그 방에 여자가 들어갔을 가능성도 없고, 거기 영상 다 여자가 피해자인데 그런거 보고 좋아할건 남자 뿐인데다 애초에 헤테로 여성이 좋아할 컨텐츠도 아닐 터."
+	},
+	{
+		"created_at": "Wed Jan 20 14:00:21 +0000 2021",
+		"id": 1241380598771404800,
+		"id_str": "1351892324008120323",
+		"full_text": "급히 썼더니 뒤집어놨네.\n남자들 성욕 참기 어려운거 잘 아는데, 그렇다고 견디는게 무리인 것도 아님. 남성 성욕의 대외적 표출이 자연스럽고 당연하단 인식을 심어주는 사회적 인식이 있다보니 스스로도 안되느줄 알지만, 남자들이 사회 주류(기득권)일 때 건건마다 툭하면 변명거리 해먹던 것일 뿐.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1241367750469009400,
+		"in_reply_to_status_id_str": "1241367750469009408",
+		"in_reply_to_user_id": 161727613,
+		"in_reply_to_user_id_str": "161727613",
+		"in_reply_to_screen_name": "an_du_",
+		"user": {
+			"id": 161727613,
+			"id_str": "161727613",
+			"name": "analysis duplicate 🏳️‍🌈",
+			"screen_name": "an_du_",
+			"location": "Seoul in ROK/SK",
+			"description": "앤듀 // 나는 어째서인지 트랜스젠더였다 / 격변의 최근 수 년 / 개발자•아티스트 / 인간형 시뮬레이터 / 마음 위에 비치는 유성💗🌠 / P.Lin*Sesirine has rest in peaceful my world / ❤️🧡💛💚💙💙💜👭👩‍❤️‍💋‍👩",
+			"url": "https://t.co/S93rTe6rLU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S93rTe6rLU",
+							"expanded_url": "http://nm3.kr",
+							"display_url": "nm3.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 200,
+			"friends_count": 122,
+			"listed_count": 0,
+			"created_at": "Thu Jul 01 16:20:57 +0000 2010",
+			"favourites_count": 138257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 82057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8E87F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3259248557/8a2bb4eb438d446d8977113e95cfb6b9_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3259248557/8a2bb4eb438d446d8977113e95cfb6b9_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/161727613/1593737271",
+			"profile_link_color": "9F9AFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "B5B5FF",
+			"profile_text_color": "605CC9",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "급히 썼더니 뒤집어놨네.\n남자들 성욕 참기 어려운거 잘 아는데, 그렇다고 견디는게 무리인 것도 아님. 남성 성욕의 대외적 표출이 자연스럽고 당연하단 인식을 심어주는 사회적 인식이 있다보니 스스로도 안되느줄 알지만, 남자들이 사회 주류(기득권)일 때 건건마다 툭하면 변명거리 해먹던 것일 뿐."
+	},
+	{
+		"created_at": "Wed Jan 20 14:00:18 +0000 2021",
+		"id": 1241367750469009400,
+		"id_str": "1351892312830316545",
+		"full_text": "거기에 성욕도 시도때도 없이 튀어나올 뿐만 아니라 강하고, 그걸 참을 스트레스 저항력도 적고 위력적, 사회적 영향력을 쉽게 쥐므로 견디는걸 싫어하지 않는다.\n사회적 분위기상으로도 그런데 여자는 그 반대 영향을 받음. 성역표출이 장기적으로 자신에게 피해와 사회적 부담 리스크가 커서 꺼림.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1241367745276416000,
+		"in_reply_to_status_id_str": "1241367745276416000",
+		"in_reply_to_user_id": 161727613,
+		"in_reply_to_user_id_str": "161727613",
+		"in_reply_to_screen_name": "an_du_",
+		"user": {
+			"id": 161727613,
+			"id_str": "161727613",
+			"name": "analysis duplicate 🏳️‍🌈",
+			"screen_name": "an_du_",
+			"location": "Seoul in ROK/SK",
+			"description": "앤듀 // 나는 어째서인지 트랜스젠더였다 / 격변의 최근 수 년 / 개발자•아티스트 / 인간형 시뮬레이터 / 마음 위에 비치는 유성💗🌠 / P.Lin*Sesirine has rest in peaceful my world / ❤️🧡💛💚💙💙💜👭👩‍❤️‍💋‍👩",
+			"url": "https://t.co/S93rTe6rLU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S93rTe6rLU",
+							"expanded_url": "http://nm3.kr",
+							"display_url": "nm3.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 200,
+			"friends_count": 122,
+			"listed_count": 0,
+			"created_at": "Thu Jul 01 16:20:57 +0000 2010",
+			"favourites_count": 138257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 82057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8E87F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3259248557/8a2bb4eb438d446d8977113e95cfb6b9_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3259248557/8a2bb4eb438d446d8977113e95cfb6b9_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/161727613/1593737271",
+			"profile_link_color": "9F9AFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "B5B5FF",
+			"profile_text_color": "605CC9",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "거기에 성욕도 시도때도 없이 튀어나올 뿐만 아니라 강하고, 그걸 참을 스트레스 저항력도 적고 위력적, 사회적 영향력을 쉽게 쥐므로 견디는걸 싫어하지 않는다.\n사회적 분위기상으로도 그런데 여자는 그 반대 영향을 받음. 성역표출이 장기적으로 자신에게 피해와 사회적 부담 리스크가 커서 꺼림."
+	},
+	{
+		"created_at": "Wed Jan 20 13:59:46 +0000 2021",
+		"id": 1241367745276416000,
+		"id_str": "1351892176578310144",
+		"full_text": "남자는 성욕의 방향이 외부쪽을 향하는데다 그것을 표출할 어떤 대상을 필요로 하지만, 여자는 방향이 안쪽. 즉. 자기 자신을 향하는데 다만 생식기 구조 상 도구를 필요로 할 뿐임. 그게 플라스틱이건 실리콘이건 기본적으로는 그걸로 족함. 반면 남자는 궁극적으로 살아있는 대상을 원한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1241367738880123000,
+		"in_reply_to_status_id_str": "1241367738880122880",
+		"in_reply_to_user_id": 161727613,
+		"in_reply_to_user_id_str": "161727613",
+		"in_reply_to_screen_name": "an_du_",
+		"user": {
+			"id": 161727613,
+			"id_str": "161727613",
+			"name": "analysis duplicate 🏳️‍🌈",
+			"screen_name": "an_du_",
+			"location": "Seoul in ROK/SK",
+			"description": "앤듀 // 나는 어째서인지 트랜스젠더였다 / 격변의 최근 수 년 / 개발자•아티스트 / 인간형 시뮬레이터 / 마음 위에 비치는 유성💗🌠 / P.Lin*Sesirine has rest in peaceful my world / ❤️🧡💛💚💙💙💜👭👩‍❤️‍💋‍👩",
+			"url": "https://t.co/S93rTe6rLU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S93rTe6rLU",
+							"expanded_url": "http://nm3.kr",
+							"display_url": "nm3.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 200,
+			"friends_count": 122,
+			"listed_count": 0,
+			"created_at": "Thu Jul 01 16:20:57 +0000 2010",
+			"favourites_count": 138257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 82057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8E87F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3259248557/8a2bb4eb438d446d8977113e95cfb6b9_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3259248557/8a2bb4eb438d446d8977113e95cfb6b9_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/161727613/1593737271",
+			"profile_link_color": "9F9AFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "B5B5FF",
+			"profile_text_color": "605CC9",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "남자는 성욕의 방향이 외부쪽을 향하는데다 그것을 표출할 어떤 대상을 필요로 하지만, 여자는 방향이 안쪽. 즉. 자기 자신을 향하는데 다만 생식기 구조 상 도구를 필요로 할 뿐임. 그게 플라스틱이건 실리콘이건 기본적으로는 그걸로 족함. 반면 남자는 궁극적으로 살아있는 대상을 원한다."
+	},
+	{
 		"created_at": "Wed Jan 20 12:56:59 +0000 2021",
 		"id": 1351876378572988400,
 		"id_str": "1351876378572988418",
