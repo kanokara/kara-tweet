@@ -1,6 +1,88 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 20 23:19:40 +0000 2021",
+		"id": 1352033079955607600,
+		"id_str": "1352033079955607554",
+		"full_text": "F자는 구조를 스캐닝할 때의 시선 처리, Z자는 콘텐츠 다발을 따라갈 때의 시선 처리, \\ 사선은 콘텐츠 하나 내의 내용을 파악할 때의 시선 처리.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 94,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "F자는 구조를 스캐닝할 때의 시선 처리, Z자는 콘텐츠 다발을 따라갈 때의 시선 처리, \\ 사선은 콘텐츠 하나 내의 내용을 파악할 때의 시선 처리."
+	},
+	{
 		"created_at": "Wed Jan 20 14:00:28 +0000 2021",
 		"id": 1241367755166605300,
 		"id_str": "1351892353951252480",
@@ -25,10 +107,10 @@ Grailbird.data.tweets_2021_01 =
 		"user": {
 			"id": 161727613,
 			"id_str": "161727613",
-			"name": "analysis duplicate 🏳️‍🌈",
+			"name": "analysis duplicate 🏳️🌈",
 			"screen_name": "an_du_",
 			"location": "Seoul in ROK/SK",
-			"description": "앤듀 // 나는 어째서인지 트랜스젠더였다 / 격변의 최근 수 년 / 개발자•아티스트 / 인간형 시뮬레이터 / 마음 위에 비치는 유성💗🌠 / P.Lin*Sesirine has rest in peaceful my world / ❤️🧡💛💚💙💙💜👭👩‍❤️‍💋‍👩",
+			"description": "앤듀 // 나는 어째서인지 트랜스젠더였다 / 격변의 최근 수 년 / 개발자•아티스트 / 인간형 시뮬레이터 / 마음 위에 비치는 유성💗🌠 / P.Lin*Sesirine has rest in peaceful my world / ❤️🧡💛💚💙💙💜👭👩❤️💋👩",
 			"url": "https://t.co/S93rTe6rLU",
 			"entities": {
 				"url": {
@@ -120,10 +202,10 @@ Grailbird.data.tweets_2021_01 =
 		"user": {
 			"id": 161727613,
 			"id_str": "161727613",
-			"name": "analysis duplicate 🏳️‍🌈",
+			"name": "analysis duplicate 🏳️🌈",
 			"screen_name": "an_du_",
 			"location": "Seoul in ROK/SK",
-			"description": "앤듀 // 나는 어째서인지 트랜스젠더였다 / 격변의 최근 수 년 / 개발자•아티스트 / 인간형 시뮬레이터 / 마음 위에 비치는 유성💗🌠 / P.Lin*Sesirine has rest in peaceful my world / ❤️🧡💛💚💙💙💜👭👩‍❤️‍💋‍👩",
+			"description": "앤듀 // 나는 어째서인지 트랜스젠더였다 / 격변의 최근 수 년 / 개발자•아티스트 / 인간형 시뮬레이터 / 마음 위에 비치는 유성💗🌠 / P.Lin*Sesirine has rest in peaceful my world / ❤️🧡💛💚💙💙💜👭👩❤️💋👩",
 			"url": "https://t.co/S93rTe6rLU",
 			"entities": {
 				"url": {
@@ -215,10 +297,10 @@ Grailbird.data.tweets_2021_01 =
 		"user": {
 			"id": 161727613,
 			"id_str": "161727613",
-			"name": "analysis duplicate 🏳️‍🌈",
+			"name": "analysis duplicate 🏳️🌈",
 			"screen_name": "an_du_",
 			"location": "Seoul in ROK/SK",
-			"description": "앤듀 // 나는 어째서인지 트랜스젠더였다 / 격변의 최근 수 년 / 개발자•아티스트 / 인간형 시뮬레이터 / 마음 위에 비치는 유성💗🌠 / P.Lin*Sesirine has rest in peaceful my world / ❤️🧡💛💚💙💙💜👭👩‍❤️‍💋‍👩",
+			"description": "앤듀 // 나는 어째서인지 트랜스젠더였다 / 격변의 최근 수 년 / 개발자•아티스트 / 인간형 시뮬레이터 / 마음 위에 비치는 유성💗🌠 / P.Lin*Sesirine has rest in peaceful my world / ❤️🧡💛💚💙💙💜👭👩❤️💋👩",
 			"url": "https://t.co/S93rTe6rLU",
 			"entities": {
 				"url": {
@@ -310,10 +392,10 @@ Grailbird.data.tweets_2021_01 =
 		"user": {
 			"id": 161727613,
 			"id_str": "161727613",
-			"name": "analysis duplicate 🏳️‍🌈",
+			"name": "analysis duplicate 🏳️🌈",
 			"screen_name": "an_du_",
 			"location": "Seoul in ROK/SK",
-			"description": "앤듀 // 나는 어째서인지 트랜스젠더였다 / 격변의 최근 수 년 / 개발자•아티스트 / 인간형 시뮬레이터 / 마음 위에 비치는 유성💗🌠 / P.Lin*Sesirine has rest in peaceful my world / ❤️🧡💛💚💙💙💜👭👩‍❤️‍💋‍👩",
+			"description": "앤듀 // 나는 어째서인지 트랜스젠더였다 / 격변의 최근 수 년 / 개발자•아티스트 / 인간형 시뮬레이터 / 마음 위에 비치는 유성💗🌠 / P.Lin*Sesirine has rest in peaceful my world / ❤️🧡💛💚💙💙💜👭👩❤️💋👩",
 			"url": "https://t.co/S93rTe6rLU",
 			"entities": {
 				"url": {
@@ -405,10 +487,10 @@ Grailbird.data.tweets_2021_01 =
 		"user": {
 			"id": 161727613,
 			"id_str": "161727613",
-			"name": "analysis duplicate 🏳️‍🌈",
+			"name": "analysis duplicate 🏳️🌈",
 			"screen_name": "an_du_",
 			"location": "Seoul in ROK/SK",
-			"description": "앤듀 // 나는 어째서인지 트랜스젠더였다 / 격변의 최근 수 년 / 개발자•아티스트 / 인간형 시뮬레이터 / 마음 위에 비치는 유성💗🌠 / P.Lin*Sesirine has rest in peaceful my world / ❤️🧡💛💚💙💙💜👭👩‍❤️‍💋‍👩",
+			"description": "앤듀 // 나는 어째서인지 트랜스젠더였다 / 격변의 최근 수 년 / 개발자•아티스트 / 인간형 시뮬레이터 / 마음 위에 비치는 유성💗🌠 / P.Lin*Sesirine has rest in peaceful my world / ❤️🧡💛💚💙💙💜👭👩❤️💋👩",
 			"url": "https://t.co/S93rTe6rLU",
 			"entities": {
 				"url": {
