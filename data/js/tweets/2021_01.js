@@ -1,6 +1,659 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 21 03:02:01 +0000 2021",
+		"id": 1351793088386228200,
+		"id_str": "1352089036563779587",
+		"full_text": "이거에 대해 할 말 많음.\n미국에서 유초중고 다녔고 지금은 대학까지 다니는 사람으로서 말하는데 이런거 그냥 만드는거 아니다\n한학기에 두번 soft lock down과 hard lock down 때에 어떡해야하는지 매년 4번 연습했다\n수상한 사람이 학교 운동장에라도 목격 되면 교실을 다 잠궜다 https://t.co/oH2V0NjNFa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oH2V0NjNFa",
+					"expanded_url": "https://twitter.com/why_Mhat/status/1351761424196931587",
+					"display_url": "twitter.com/why_Mhat/statu…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2386092175,
+			"id_str": "2386092175",
+			"name": "🇰🇷🏳️‍🌈Ma-E / 김마이 / マイ",
+			"screen_name": "myMaEeverythin",
+			"location": "",
+			"description": "구독/교류 • 성인 •\n메인트 꼭 확인 부탁드립니다!                                       \nKorean-American • Omnisexual • She/Her                 한국어, English, 日本語少し",
+			"url": "https://t.co/ca2xBIDmLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ca2xBIDmLq",
+							"expanded_url": "http://www.youtube.com/channel/UCaod3Ma2UwUCBM5hR_pB22Q",
+							"display_url": "youtube.com/channel/UCaod3…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51,
+			"friends_count": 325,
+			"listed_count": 2,
+			"created_at": "Thu Mar 13 01:40:37 +0000 2014",
+			"favourites_count": 2993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25906,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1231243310674694144/h3ZqitDH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231243310674694144/h3ZqitDH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2386092175/1593384608",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1351761424196931600,
+		"quoted_status_id_str": "1351761424196931587",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oH2V0NjNFa",
+			"expanded": "https://twitter.com/why_Mhat/status/1351761424196931587",
+			"display": "twitter.com/why_Mhat/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 20 05:20:12 +0000 2021",
+			"id": 1351761424196931600,
+			"id_str": "1351761424196931587",
+			"full_text": "너무 인상 깊어서 자막 달아옴.. https://t.co/vPQwK1Foa6 https://t.co/LChjISHTsO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				42
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vPQwK1Foa6",
+						"expanded_url": "https://twitter.com/lessislessxx/status/1351535868004102145",
+						"display_url": "twitter.com/lessislessxx/s…",
+						"indices": [
+							19,
+							42
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1351761348451922000,
+						"id_str": "1351761348451921920",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1351761348451921920/pu/img/tK0FGQMvQ2u_xN3H.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1351761348451921920/pu/img/tK0FGQMvQ2u_xN3H.jpg",
+						"url": "https://t.co/LChjISHTsO",
+						"display_url": "pic.twitter.com/LChjISHTsO",
+						"expanded_url": "https://twitter.com/why_Mhat/status/1351761424196931587/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 361,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 638,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1351761348451922000,
+						"id_str": "1351761348451921920",
+						"indices": [
+							43,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1351761348451921920/pu/img/tK0FGQMvQ2u_xN3H.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1351761348451921920/pu/img/tK0FGQMvQ2u_xN3H.jpg",
+						"url": "https://t.co/LChjISHTsO",
+						"display_url": "pic.twitter.com/LChjISHTsO",
+						"expanded_url": "https://twitter.com/why_Mhat/status/1351761424196931587/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 361,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 638,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								32,
+								17
+							],
+							"duration_millis": 63067,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1351761348451921920/pu/vid/1280x680/uO4mp6eLwYL8PaBQ.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1351761348451921920/pu/pl/_ViWnE6KIVKzp6pU.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1351761348451921920/pu/vid/676x360/37kZFJ47mqHjFdnX.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1351761348451921920/pu/vid/508x270/Jr04aBbL_2TUMQQ0.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 950247954966720500,
+				"id_str": "950247954966720513",
+				"name": "𝑪𝑰𝑮𝑨𝑹",
+				"screen_name": "why_Mhat",
+				"location": "",
+				"description": "2n/ 원디 해포 ts(김테이) 와싯 락밴드 노스캄 이진욱(배우)",
+				"url": "https://t.co/GJiYj91Y53",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GJiYj91Y53",
+								"expanded_url": "https://ask.fm/Cloaude?utm_source=copy_link&utm_medium=android",
+								"display_url": "ask.fm/Cloaude?utm_so…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 181,
+				"friends_count": 144,
+				"listed_count": 13,
+				"created_at": "Mon Jan 08 06:09:02 +0000 2018",
+				"favourites_count": 7202,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23131,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1343212181928562695/upicdC80_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343212181928562695/upicdC80_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/950247954966720513/1584283582",
+				"profile_link_color": "323C73",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1351535868004102100,
+			"quoted_status_id_str": "1351535868004102145",
+			"quoted_status_permalink": {
+				"url": "https://t.co/vPQwK1Foa6",
+				"expanded": "https://twitter.com/lessislessxx/status/1351535868004102145",
+				"display": "twitter.com/lessislessxx/s…"
+			},
+			"retweet_count": 9421,
+			"favorite_count": 4078,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2864,
+		"favorite_count": 623,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이거에 대해 할 말 많음.\n미국에서 유초중고 다녔고 지금은 대학까지 다니는 사람으로서 말하는데 이런거 그냥 만드는거 아니다\n한학기에 두번 soft lock down과 hard lock down 때에 어떡해야하는지 매년 4번 연습했다\n수상한 사람이 학교 운동장에라도 목격 되면 교실을 다 잠궜다 https://t.co/oH2V0NjNFa"
+	},
+	{
+		"created_at": "Thu Jan 21 02:58:59 +0000 2021",
+		"id": 1352057434005622800,
+		"id_str": "1352088274651648004",
+		"full_text": "예술이라는 건 원하던 원하지 않던 근본이 이념을 바탕으로 하고 있어요. 본인들이 그 이념이 뭔지 모를 경우가 허다한게 문제지. 결국 예술이 표현이라고 할 때 세상을 향해 그 표현을 던진다는 것인데, 표현은 허공에서 불쑥 솟았겠냐고. 인간은 사회화되고 그 사회는 또 이념을 갖고 응집하는데.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1352057049799004200,
+		"in_reply_to_status_id_str": "1352057049799004163",
+		"in_reply_to_user_id": 1144631613638099000,
+		"in_reply_to_user_id_str": "1144631613638098947",
+		"in_reply_to_screen_name": "Whuibin_Info",
+		"user": {
+			"id": 1144631613638099000,
+			"id_str": "1144631613638098947",
+			"name": "김휘빈",
+			"screen_name": "Whuibin_Info",
+			"location": "대한민국 서울",
+			"description": "쿨하게 공지만 때리고 싶었는데 3트윗만에 망한 장르 작가 계정. 키배, 자덕질, 장르평론으로 삼위일체중. 멘션답변 없을 가능성 높음. whuibink@지메일",
+			"url": "https://t.co/pPCX54qiRR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pPCX54qiRR",
+							"expanded_url": "http://dillyhub.com/home/whuibin",
+							"display_url": "dillyhub.com/home/whuibin",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1646,
+			"friends_count": 0,
+			"listed_count": 9,
+			"created_at": "Fri Jun 28 15:40:17 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1319561986749820929/aHTyBAeu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1319561986749820929/aHTyBAeu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144631613638098947/1561756317",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "예술이라는 건 원하던 원하지 않던 근본이 이념을 바탕으로 하고 있어요. 본인들이 그 이념이 뭔지 모를 경우가 허다한게 문제지. 결국 예술이 표현이라고 할 때 세상을 향해 그 표현을 던진다는 것인데, 표현은 허공에서 불쑥 솟았겠냐고. 인간은 사회화되고 그 사회는 또 이념을 갖고 응집하는데."
+	},
+	{
+		"created_at": "Thu Jan 21 02:56:39 +0000 2021",
+		"id": 1351716549971722200,
+		"id_str": "1352087684701847553",
+		"full_text": ".@JKCorden and an array of Broadway friends bid farewell to President Trump, Les Mis style. https://t.co/l9PiSRvCOA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JKCorden",
+					"name": "James Corden",
+					"id": 215952307,
+					"id_str": "215952307",
+					"indices": [
+						1,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1351714199903236000,
+					"id_str": "1351714199903236097",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/EsJCmDYVgAARPig.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsJCmDYVgAARPig.jpg",
+					"url": "https://t.co/l9PiSRvCOA",
+					"display_url": "pic.twitter.com/l9PiSRvCOA",
+					"expanded_url": "https://twitter.com/latelateshow/status/1351716549971722241/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351714199903236000,
+					"id_str": "1351714199903236097",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/EsJCmDYVgAARPig.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsJCmDYVgAARPig.jpg",
+					"url": "https://t.co/l9PiSRvCOA",
+					"display_url": "pic.twitter.com/l9PiSRvCOA",
+					"expanded_url": "https://twitter.com/latelateshow/status/1351716549971722241/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 243243,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1351714199903236097/pl/Q4bMCbo14ovbx5dw.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1351714199903236097/vid/1280x720/A_d2F1G10uPrvgV6.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1351714199903236097/vid/480x270/hYhKpx_LpgkbB8Ly.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1351714199903236097/vid/640x360/5rQf2mgtsLzpzDQS.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "'One Day More' of President Trump - Les Misérables parody",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://donate.broadwaycares.org/campaign/covid-19-emergency-assistance-fund/c276873"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2835962353,
+			"id_str": "2835962353",
+			"name": "The Late Late Show with James Corden",
+			"screen_name": "latelateshow",
+			"location": "12:37/11:37c on CBS",
+			"description": "The twitter dot com home of the #LateLateShow with @JKCorden AKA Papa Mochi. @ShawnMendes stole our stapler. Instagram & TikTok: @latelateshow",
+			"url": "https://t.co/6hBIodv84W",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6hBIodv84W",
+							"expanded_url": "http://cbs.com/corden",
+							"display_url": "cbs.com/corden",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1510427,
+			"friends_count": 917,
+			"listed_count": 1655,
+			"created_at": "Tue Sep 30 17:40:53 +0000 2014",
+			"favourites_count": 18584,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1346161809686814720/mVHy3nuB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1346161809686814720/mVHy3nuB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2835962353/1609784961",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18395,
+		"favorite_count": 64034,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@JKCorden and an array of Broadway friends bid farewell to President Trump, Les Mis style. https://t.co/l9PiSRvCOA"
+	},
+	{
 		"created_at": "Wed Jan 20 23:19:40 +0000 2021",
 		"id": 1352033079955607600,
 		"id_str": "1352033079955607554",
