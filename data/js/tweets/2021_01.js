@@ -1,6 +1,478 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 25 18:26:13 +0000 2021",
+		"id": 1353771170227572700,
+		"id_str": "1353771170227572736",
+		"full_text": "인간의 욕망과 편견 위에 올라타고, 강화한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1353770944351793200,
+		"in_reply_to_status_id_str": "1353770944351793152",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 94,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "인간의 욕망과 편견 위에 올라타고, 강화한다."
+	},
+	{
+		"created_at": "Mon Jan 25 18:25:19 +0000 2021",
+		"id": 1353770944351793200,
+		"id_str": "1353770944351793152",
+		"full_text": "대중매체에 대한 회의...\nhttps://t.co/sShBIgJOfq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sShBIgJOfq",
+					"expanded_url": "https://twitter.com/WkfxjfrP/status/1353652592253911041?s=19",
+					"display_url": "twitter.com/WkfxjfrP/statu…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 94,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1353652592253911000,
+		"quoted_status_id_str": "1353652592253911041",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sShBIgJOfq",
+			"expanded": "https://twitter.com/WkfxjfrP/status/1353652592253911041?s=19",
+			"display": "twitter.com/WkfxjfrP/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 25 10:35:02 +0000 2021",
+			"id": 1353652592253911000,
+			"id_str": "1353652592253911041",
+			"full_text": "애니 속 실눈캐릭터 특징 https://t.co/uMl7eJzq2c",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				13
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1353652517121364000,
+						"id_str": "1353652517121363969",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/media/EskjythVEAEsHib.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EskjythVEAEsHib.jpg",
+						"url": "https://t.co/uMl7eJzq2c",
+						"display_url": "pic.twitter.com/uMl7eJzq2c",
+						"expanded_url": "https://twitter.com/WkfxjfrP/status/1353652592253911041/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 816,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 667,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 816,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1353652517121364000,
+						"id_str": "1353652517121363969",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/media/EskjythVEAEsHib.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EskjythVEAEsHib.jpg",
+						"url": "https://t.co/uMl7eJzq2c",
+						"display_url": "pic.twitter.com/uMl7eJzq2c",
+						"expanded_url": "https://twitter.com/WkfxjfrP/status/1353652592253911041/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 816,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 667,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 816,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1353652517125582800,
+						"id_str": "1353652517125582849",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/media/EskjytiVcAEc5gC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EskjytiVcAEc5gC.jpg",
+						"url": "https://t.co/uMl7eJzq2c",
+						"display_url": "pic.twitter.com/uMl7eJzq2c",
+						"expanded_url": "https://twitter.com/WkfxjfrP/status/1353652592253911041/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 595,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 700,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 700,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 945314922065305600,
+				"id_str": "945314922065305600",
+				"name": "짤주워오는계정",
+				"screen_name": "WkfxjfrP",
+				"location": "",
+				"description": "재밌어보이는거 or 사람들이 봐줬으면하는거 저장용",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 145634,
+				"friends_count": 0,
+				"listed_count": 194,
+				"created_at": "Mon Dec 25 15:26:55 +0000 2017",
+				"favourites_count": 30,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1877,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1169070430583283712/oTJrXisj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169070430583283712/oTJrXisj_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11930,
+			"favorite_count": 8254,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대중매체에 대한 회의...\nhttps://t.co/sShBIgJOfq"
+	},
+	{
+		"created_at": "Mon Jan 25 18:21:40 +0000 2021",
+		"id": 1353290831046692900,
+		"id_str": "1353770026822635521",
+		"full_text": "다 영어로 하는것이면 모를까 한국어로 쓴 글에 한국어로 묻는 질문에 영어로 답하는 저의가 뭔지? 한국인이 이렇게 미개합니다! 해서 커리어 쌓는 양반이라 그런지?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1353290558219772000,
+		"in_reply_to_status_id_str": "1353290558219771906",
+		"in_reply_to_user_id": 712644853692125200,
+		"in_reply_to_user_id_str": "712644853692125185",
+		"in_reply_to_screen_name": "cooker_libre",
+		"user": {
+			"id": 712644853692125200,
+			"id_str": "712644853692125185",
+			"name": "秋嘇 쿠커@리브레 위키😷𓆱",
+			"screen_name": "cooker_libre",
+			"location": "리브레위키",
+			"description": "(구)리브레위키 협동조합 소속.(2016. 1. 22.~\n2018. 1. 15.)\n교회다니는 무신론자.시즈루단. 마호마호 왕국 납세자. 동숲 시작함. 고신쿠커 \n방금 설립함.\n러브=라이브\n\n\n프로필 @kangdanakang  헤더 @ServanAtTaylor\n\n\n비팔로우 알림 껐습니다.",
+			"url": "https://t.co/9HtuOFHmcu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9HtuOFHmcu",
+							"expanded_url": "http://librewiki.net",
+							"display_url": "librewiki.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 777,
+			"friends_count": 1289,
+			"listed_count": 10,
+			"created_at": "Wed Mar 23 14:19:08 +0000 2016",
+			"favourites_count": 61244,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 517665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112744411794796545/Rl_1YlNF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112744411794796545/Rl_1YlNF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/712644853692125185/1582010954",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "다 영어로 하는것이면 모를까 한국어로 쓴 글에 한국어로 묻는 질문에 영어로 답하는 저의가 뭔지? 한국인이 이렇게 미개합니다! 해서 커리어 쌓는 양반이라 그런지?"
+	},
+	{
 		"created_at": "Sun Jan 24 07:41:00 +0000 2021",
 		"id": 1353246408875282400,
 		"id_str": "1353246408875282433",
