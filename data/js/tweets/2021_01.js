@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 26 09:38:04 +0000 2021",
+		"id": 1353882507419115500,
+		"id_str": "1354000643099303936",
+		"full_text": "아 격세지감! 소학관 지분구조는 어떻지?\n\n[MTN 머니투데이 방송] [단독]카카오, 日 콘텐츠 공룡 '카도카와' 최대주주 등극 https://t.co/1tcbfS5XwX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1tcbfS5XwX",
+					"expanded_url": "http://m.mtn.co.kr/news/news_view.php?id=2021012600393597643",
+					"display_url": "m.mtn.co.kr/news/news_view…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 56719360,
+			"id_str": "56719360",
+			"name": "공부하는 사람",
+			"screen_name": "TextlabMax",
+			"location": "",
+			"description": "少年易老 學難成",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 510,
+			"friends_count": 125,
+			"listed_count": 6,
+			"created_at": "Tue Jul 14 15:10:24 +0000 2009",
+			"favourites_count": 2353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875087802/max_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875087802/max_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/56719360/1582958423",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아 격세지감! 소학관 지분구조는 어떻지?\n\n[MTN 머니투데이 방송] [단독]카카오, 日 콘텐츠 공룡 '카도카와' 최대주주 등극 https://t.co/1tcbfS5XwX"
+	},
+	{
 		"created_at": "Mon Jan 25 18:26:13 +0000 2021",
 		"id": 1353771170227572700,
 		"id_str": "1353771170227572736",
