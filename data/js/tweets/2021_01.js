@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 27 22:59:07 +0000 2021",
+		"id": 1354344775185363000,
+		"id_str": "1354564623240884229",
+		"full_text": "옛날 이야기가 나오는 거 같아서,\n당시 천리안 애니메이트 회지가 한일대역 형태로 구성된 것은 코미케 참가해서 한국 만화 홍보 및 동호회 홍보를 목적으로 만들어졌기 때문입니다. =) https://t.co/lzIYc4rZqW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1354344295419895800,
+					"id_str": "1354344295419895821",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EsuY9ggUYA0sLsG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsuY9ggUYA0sLsG.jpg",
+					"url": "https://t.co/lzIYc4rZqW",
+					"display_url": "pic.twitter.com/lzIYc4rZqW",
+					"expanded_url": "https://twitter.com/twASTERiS/status/1354344775185362949/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1354344295419895800,
+					"id_str": "1354344295419895821",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EsuY9ggUYA0sLsG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsuY9ggUYA0sLsG.jpg",
+					"url": "https://t.co/lzIYc4rZqW",
+					"display_url": "pic.twitter.com/lzIYc4rZqW",
+					"expanded_url": "https://twitter.com/twASTERiS/status/1354344775185362949/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1354344592837992400,
+					"id_str": "1354344592837992451",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EsuZO0eUYAMisAV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsuZO0eUYAMisAV.jpg",
+					"url": "https://t.co/lzIYc4rZqW",
+					"display_url": "pic.twitter.com/lzIYc4rZqW",
+					"expanded_url": "https://twitter.com/twASTERiS/status/1354344775185362949/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1354344622261035000,
+					"id_str": "1354344622261035012",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EsuZQiFUYAQjen8.png",
+					"media_url_https": "https://pbs.twimg.com/media/EsuZQiFUYAQjen8.png",
+					"url": "https://t.co/lzIYc4rZqW",
+					"display_url": "pic.twitter.com/lzIYc4rZqW",
+					"expanded_url": "https://twitter.com/twASTERiS/status/1354344775185362949/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 630,
+							"h": 374,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 630,
+							"h": 374,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 630,
+							"h": 374,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1354344641206788000,
+					"id_str": "1354344641206788098",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EsuZRoqVoAIxNNM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsuZRoqVoAIxNNM.jpg",
+					"url": "https://t.co/lzIYc4rZqW",
+					"display_url": "pic.twitter.com/lzIYc4rZqW",
+					"expanded_url": "https://twitter.com/twASTERiS/status/1354344775185362949/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 82059675,
+			"id_str": "82059675",
+			"name": "ASTERiS",
+			"screen_name": "twASTERiS",
+			"location": "Asteroid, somewhere.",
+			"description": "Like: 仁義禮智信美\n당분간 크리미 마미 모드.\nNon-English-speaker (Powered by Google) =P",
+			"url": "http://t.co/dpAxuIHLRz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/dpAxuIHLRz",
+							"expanded_url": "http://asteris.pe.kr",
+							"display_url": "asteris.pe.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 640,
+			"friends_count": 824,
+			"listed_count": 19,
+			"created_at": "Tue Oct 13 10:11:05 +0000 2009",
+			"favourites_count": 15480,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216013796197588992/tm3s-WLb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216013796197588992/tm3s-WLb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/82059675/1398785771",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "옛날 이야기가 나오는 거 같아서,\n당시 천리안 애니메이트 회지가 한일대역 형태로 구성된 것은 코미케 참가해서 한국 만화 홍보 및 동호회 홍보를 목적으로 만들어졌기 때문입니다. =) https://t.co/lzIYc4rZqW"
+	},
+	{
 		"created_at": "Wed Jan 27 13:33:18 +0000 2021",
 		"id": 1354422230294249500,
 		"id_str": "1354422230294249477",
