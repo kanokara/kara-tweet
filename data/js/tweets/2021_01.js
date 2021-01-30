@@ -1,6 +1,439 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 30 13:48:43 +0000 2021",
+		"id": 1355513272959598600,
+		"id_str": "1355513272959598601",
+		"full_text": "특히 테슬라의 머스크가 금융계를 비판하는 건 너무 웃겨요. 구제금융으로 연명한 금융사만도 못했던 게 자기네 회사면서. 한국 재벌은 그 정도로 정부에 의존했으면 사재출연이라도 했어...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1355507269421555700,
+		"in_reply_to_status_id_str": "1355507269421555720",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 96,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3331,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "특히 테슬라의 머스크가 금융계를 비판하는 건 너무 웃겨요. 구제금융으로 연명한 금융사만도 못했던 게 자기네 회사면서. 한국 재벌은 그 정도로 정부에 의존했으면 사재출연이라도 했어..."
+	},
+	{
+		"created_at": "Sat Jan 30 13:31:20 +0000 2021",
+		"id": 1355136216996348000,
+		"id_str": "1355508901655928837",
+		"full_text": "버냉키 설명 보면 결국 손해 본 건 없음. 증권 형태로 지원해도 나중에 경제 회복되고 주가가 상승하는 방식으로 지원한 금액 이상은 다 얻어내서 오히려 이득. 그런데 보통 유동성 제약이라는 게 취약계층에게 훨씬 가혹하다는 점을 고려해 보면… 왜 쟤만 살려주냐는 금융판 왕후장상 영유종호?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": 1355134911334678500,
+		"in_reply_to_status_id_str": "1355134911334678538",
+		"in_reply_to_user_id": 35781837,
+		"in_reply_to_user_id_str": "35781837",
+		"in_reply_to_screen_name": "dennoch1919",
+		"user": {
+			"id": 35781837,
+			"id_str": "35781837",
+			"name": "dennoch",
+			"screen_name": "dennoch1919",
+			"location": "Seoul, South Korea",
+			"description": "千門萬戶曈曈日",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3780,
+			"friends_count": 418,
+			"listed_count": 29,
+			"created_at": "Mon Apr 27 16:15:57 +0000 2009",
+			"favourites_count": 6571,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1064083726928203777/N6EMQwyz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064083726928203777/N6EMQwyz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35781837/1542530531",
+			"profile_link_color": "001871",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "버냉키 설명 보면 결국 손해 본 건 없음. 증권 형태로 지원해도 나중에 경제 회복되고 주가가 상승하는 방식으로 지원한 금액 이상은 다 얻어내서 오히려 이득. 그런데 보통 유동성 제약이라는 게 취약계층에게 훨씬 가혹하다는 점을 고려해 보면… 왜 쟤만 살려주냐는 금융판 왕후장상 영유종호?"
+	},
+	{
+		"created_at": "Sat Jan 30 13:29:36 +0000 2021",
+		"id": 1150289436090855400,
+		"id_str": "1355508463481155585",
+		"full_text": "나도 그때 실업자 생활을 했지만, 이 사진이 제일 기억에 남음\n\nIMF 양해각서에 서명하고 있는 인도네시아의 수하르토 대통령과 이를 지켜보고 있는 미셸 캉드쉬 IMF 총재. 이 사진이 물의를 빚자 캉드쉬는 \"사진을 찍는지 몰랐다\"고 해명했고 사람들은 이에 모두 크게 탄복하였다. (1998년 1월 15일) https://t.co/Pnftkganh1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1150289177428160500,
+					"id_str": "1150289177428160512",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/D_al6ZGU8AAi-fb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_al6ZGU8AAi-fb.jpg",
+					"url": "https://t.co/Pnftkganh1",
+					"display_url": "pic.twitter.com/Pnftkganh1",
+					"expanded_url": "https://twitter.com/quarantineSta/status/1150289436090855424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 460,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 460,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 460,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1150289177428160500,
+					"id_str": "1150289177428160512",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/D_al6ZGU8AAi-fb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_al6ZGU8AAi-fb.jpg",
+					"url": "https://t.co/Pnftkganh1",
+					"display_url": "pic.twitter.com/Pnftkganh1",
+					"expanded_url": "https://twitter.com/quarantineSta/status/1150289436090855424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 460,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 460,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 460,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1150288126922780700,
+		"in_reply_to_status_id_str": "1150288126922780672",
+		"in_reply_to_user_id": 262353521,
+		"in_reply_to_user_id_str": "262353521",
+		"in_reply_to_screen_name": "quarantineSta",
+		"user": {
+			"id": 262353521,
+			"id_str": "262353521",
+			"name": "sonnet",
+			"screen_name": "quarantineSta",
+			"location": "Seoul, ROK",
+			"description": "이전에 나는 죄가 있기 때문에 사형을 당하거나 감옥에 갇히는 것이라고 생각했다. 그러나 이제는 먼저 누군가에게 ‘괘씸하다’는 판정을 받게 된 연후에 죄를 얻게 되는 것임을 알게 되었다. - 루쉰(魯迅), 「괘씸죄」-",
+			"url": "http://t.co/jHtektmz9j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/jHtektmz9j",
+							"expanded_url": "http://sonnet.egloos.com/",
+							"display_url": "sonnet.egloos.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3933,
+			"friends_count": 266,
+			"listed_count": 76,
+			"created_at": "Mon Mar 07 22:03:27 +0000 2011",
+			"favourites_count": 879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1401335216/hm100px_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1401335216/hm100px_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/262353521/1398770126",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나도 그때 실업자 생활을 했지만, 이 사진이 제일 기억에 남음\n\nIMF 양해각서에 서명하고 있는 인도네시아의 수하르토 대통령과 이를 지켜보고 있는 미셸 캉드쉬 IMF 총재. 이 사진이 물의를 빚자 캉드쉬는 \"사진을 찍는지 몰랐다\"고 해명했고 사람들은 이에 모두 크게 탄복하였다. (1998년 1월 15일) https://t.co/Pnftkganh1"
+	},
+	{
+		"created_at": "Sat Jan 30 13:29:28 +0000 2021",
+		"id": 1150287263718187000,
+		"id_str": "1355508431914852354",
+		"full_text": "당시 미국의 루빈 재무장관은 아시아 국가들이 이번 기회에 (미국식) 글로벌 스텐다드를 배워야 하므로, 일본이든 미국이든 개별적으로 개입해 구제해 줘선 안되며 정식으로 IMF에 가서 매를 맞으며 배울 수 있게 \"tough love\"를 베풀어야 한다고 주장했고 이를 관철시켰다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1150287119807500300,
+		"in_reply_to_status_id_str": "1150287119807500288",
+		"in_reply_to_user_id": 262353521,
+		"in_reply_to_user_id_str": "262353521",
+		"in_reply_to_screen_name": "quarantineSta",
+		"user": {
+			"id": 262353521,
+			"id_str": "262353521",
+			"name": "sonnet",
+			"screen_name": "quarantineSta",
+			"location": "Seoul, ROK",
+			"description": "이전에 나는 죄가 있기 때문에 사형을 당하거나 감옥에 갇히는 것이라고 생각했다. 그러나 이제는 먼저 누군가에게 ‘괘씸하다’는 판정을 받게 된 연후에 죄를 얻게 되는 것임을 알게 되었다. - 루쉰(魯迅), 「괘씸죄」-",
+			"url": "http://t.co/jHtektmz9j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/jHtektmz9j",
+							"expanded_url": "http://sonnet.egloos.com/",
+							"display_url": "sonnet.egloos.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3933,
+			"friends_count": 266,
+			"listed_count": 76,
+			"created_at": "Mon Mar 07 22:03:27 +0000 2011",
+			"favourites_count": 879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1401335216/hm100px_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1401335216/hm100px_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/262353521/1398770126",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "당시 미국의 루빈 재무장관은 아시아 국가들이 이번 기회에 (미국식) 글로벌 스텐다드를 배워야 하므로, 일본이든 미국이든 개별적으로 개입해 구제해 줘선 안되며 정식으로 IMF에 가서 매를 맞으며 배울 수 있게 \"tough love\"를 베풀어야 한다고 주장했고 이를 관철시켰다."
+	},
+	{
 		"created_at": "Sat Jan 30 13:06:10 +0000 2021",
 		"id": 1355502566080008200,
 		"id_str": "1355502566080008195",
