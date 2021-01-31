@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 31 01:30:07 +0000 2021",
+		"id": 1355689788662194200,
+		"id_str": "1355689788662194177",
+		"full_text": "놀이처럼 즐기는 사람이 노력도 자연스레 힘 안 들이고 하더라...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 96,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "놀이처럼 즐기는 사람이 노력도 자연스레 힘 안 들이고 하더라..."
+	},
+	{
+		"created_at": "Sun Jan 31 01:29:46 +0000 2021",
+		"id": 1355395445288095700,
+		"id_str": "1355689697406713858",
+		"full_text": "안전함을 제공하는 사람들이 바로 \"연결자들\"이다. 안전감과 연결감이 상관관계(이쪽이 저쪽의 원인이기도 결과이기도 함). 살면서 셀프헬프도 어쩔 수 없이 필요하지만, 더욱 중요한 것은 연결감 관계, 연결자들을 하나씩 모아가고, 나 스스로 되어가는 일.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1355394788887937000,
+		"in_reply_to_status_id_str": "1355394788887937027",
+		"in_reply_to_user_id": 957916353318461400,
+		"in_reply_to_user_id_str": "957916353318461441",
+		"in_reply_to_screen_name": "st_mindmansion",
+		"user": {
+			"id": 957916353318461400,
+			"id_str": "957916353318461441",
+			"name": "스튜디오 마인드맨션",
+			"screen_name": "st_mindmansion",
+			"location": "대한민국 마포구",
+			"description": "(a.k.a 스마맨) 정신건강 및 페미니즘 관련 워크샵, 컨설팅, 콘텐츠 등을 개발합니다. #Context_Design. 마인드맨션 의원과 협업하는 '외부' 팀이에요. #연결감 #심리적안전감 #퍼실리테이터 https://t.co/FW80DGMJ6n",
+			"url": "https://t.co/uQkngvzvqV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uQkngvzvqV",
+							"expanded_url": "http://studiomindmansion.tistory.com",
+							"display_url": "studiomindmansion.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FW80DGMJ6n",
+							"expanded_url": "http://studiomindmansion.net",
+							"display_url": "studiomindmansion.net",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5543,
+			"friends_count": 1450,
+			"listed_count": 20,
+			"created_at": "Mon Jan 29 10:00:30 +0000 2018",
+			"favourites_count": 7067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957918971436527616/6SHbRPrr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957918971436527616/6SHbRPrr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/957916353318461441/1550680168",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "안전함을 제공하는 사람들이 바로 \"연결자들\"이다. 안전감과 연결감이 상관관계(이쪽이 저쪽의 원인이기도 결과이기도 함). 살면서 셀프헬프도 어쩔 수 없이 필요하지만, 더욱 중요한 것은 연결감 관계, 연결자들을 하나씩 모아가고, 나 스스로 되어가는 일."
+	},
+	{
+		"created_at": "Sun Jan 31 01:29:43 +0000 2021",
+		"id": 1355394788887937000,
+		"id_str": "1355689688380579845",
+		"full_text": "안전감은 결국 \"백신\"같은 것. 나중에 충분히 학습 후라도 사람은 다시 무너질 수도 있고, 슬럼프에 빠지기도 하고, 각종 멀웨어에 잠식 당할 수도 있다. 그 때마다 '안전감'을 불러올 수 있어야하는데, 이게 경험과 기억으로 설치되어있어야 하기도 하지만, 다른 관계를 통해 들어올 수도 있어야 한다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1355379920424247300,
+		"in_reply_to_status_id_str": "1355379920424247296",
+		"in_reply_to_user_id": 957916353318461400,
+		"in_reply_to_user_id_str": "957916353318461441",
+		"in_reply_to_screen_name": "st_mindmansion",
+		"user": {
+			"id": 957916353318461400,
+			"id_str": "957916353318461441",
+			"name": "스튜디오 마인드맨션",
+			"screen_name": "st_mindmansion",
+			"location": "대한민국 마포구",
+			"description": "(a.k.a 스마맨) 정신건강 및 페미니즘 관련 워크샵, 컨설팅, 콘텐츠 등을 개발합니다. #Context_Design. 마인드맨션 의원과 협업하는 '외부' 팀이에요. #연결감 #심리적안전감 #퍼실리테이터 https://t.co/FW80DGMJ6n",
+			"url": "https://t.co/uQkngvzvqV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uQkngvzvqV",
+							"expanded_url": "http://studiomindmansion.tistory.com",
+							"display_url": "studiomindmansion.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FW80DGMJ6n",
+							"expanded_url": "http://studiomindmansion.net",
+							"display_url": "studiomindmansion.net",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5543,
+			"friends_count": 1450,
+			"listed_count": 20,
+			"created_at": "Mon Jan 29 10:00:30 +0000 2018",
+			"favourites_count": 7067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957918971436527616/6SHbRPrr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957918971436527616/6SHbRPrr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/957916353318461441/1550680168",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 85,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "안전감은 결국 \"백신\"같은 것. 나중에 충분히 학습 후라도 사람은 다시 무너질 수도 있고, 슬럼프에 빠지기도 하고, 각종 멀웨어에 잠식 당할 수도 있다. 그 때마다 '안전감'을 불러올 수 있어야하는데, 이게 경험과 기억으로 설치되어있어야 하기도 하지만, 다른 관계를 통해 들어올 수도 있어야 한다"
+	},
+	{
 		"created_at": "Sat Jan 30 18:05:12 +0000 2021",
 		"id": 1355577820970246100,
 		"id_str": "1355577820970246146",
