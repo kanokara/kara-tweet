@@ -1,6 +1,658 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 09 05:30:44 +0000 2021",
+		"id": 811561513735495700,
+		"id_str": "1359011830958411776",
+		"full_text": "요약하자면, '주류화 전략'을 갖고 있은 이들과 결별한 젊은 좌파-여성주의자들이 트럼프 같은 우파 포퓰리스트들이나 깡그리 무뢰한 등에게 논리적으로 백래시(back lash) 맞게 되는 경우. 그런 게 걱정이다. 실제 이번 최순실-박근혜의 겅우에도 좀.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 811560201736233000,
+		"in_reply_to_status_id_str": "811560201736232960",
+		"in_reply_to_user_id": 2821627776,
+		"in_reply_to_user_id_str": "2821627776",
+		"in_reply_to_screen_name": "flyhendrixfly_",
+		"user": {
+			"id": 2821627776,
+			"id_str": "2821627776",
+			"name": "헨집사, a.k.a. 헨드릭스씨 🎗",
+			"screen_name": "flyhendrixfly_",
+			"location": "Seoul, Republic of Korea",
+			"description": "과학기술정책 공부하고 혁신, 정책, 도시, 엔지니어를 연구합니다. 사실은 삼삼오오 먹고 마시고 떠드는 거 좋아하는 술꾼입니다. #lgtwins #중공업가족의유토피아 #추월의시대",
+			"url": "https://t.co/iRD9qSmjLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iRD9qSmjLq",
+							"expanded_url": "http://aladin.kr/p/a2rrE",
+							"display_url": "aladin.kr/p/a2rrE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4260,
+			"friends_count": 329,
+			"listed_count": 74,
+			"created_at": "Sat Sep 20 11:04:46 +0000 2014",
+			"favourites_count": 4319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826239020271357953/jimh2WIV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826239020271357953/jimh2WIV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2821627776/1485828834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "요약하자면, '주류화 전략'을 갖고 있은 이들과 결별한 젊은 좌파-여성주의자들이 트럼프 같은 우파 포퓰리스트들이나 깡그리 무뢰한 등에게 논리적으로 백래시(back lash) 맞게 되는 경우. 그런 게 걱정이다. 실제 이번 최순실-박근혜의 겅우에도 좀."
+	},
+	{
+		"created_at": "Tue Feb 09 05:30:42 +0000 2021",
+		"id": 811560201736233000,
+		"id_str": "1359011822452396033",
+		"full_text": "단 내가 걱정하는 것은 치열하게 만든 2010년대 이후 젊은 좌파-여성주의자들의 윤리를, '주류화 전략'을 모토로 공동체를 박차고 나간 이들이 깡그리 무시했을 때 특별히 할 수 있는 수단이 없다는 것. 어느 수준에서 최소 합의를 만들 수 있냔 이야기.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 811559647559585800,
+		"in_reply_to_status_id_str": "811559647559585793",
+		"in_reply_to_user_id": 2821627776,
+		"in_reply_to_user_id_str": "2821627776",
+		"in_reply_to_screen_name": "flyhendrixfly_",
+		"user": {
+			"id": 2821627776,
+			"id_str": "2821627776",
+			"name": "헨집사, a.k.a. 헨드릭스씨 🎗",
+			"screen_name": "flyhendrixfly_",
+			"location": "Seoul, Republic of Korea",
+			"description": "과학기술정책 공부하고 혁신, 정책, 도시, 엔지니어를 연구합니다. 사실은 삼삼오오 먹고 마시고 떠드는 거 좋아하는 술꾼입니다. #lgtwins #중공업가족의유토피아 #추월의시대",
+			"url": "https://t.co/iRD9qSmjLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iRD9qSmjLq",
+							"expanded_url": "http://aladin.kr/p/a2rrE",
+							"display_url": "aladin.kr/p/a2rrE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4260,
+			"friends_count": 329,
+			"listed_count": 74,
+			"created_at": "Sat Sep 20 11:04:46 +0000 2014",
+			"favourites_count": 4319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826239020271357953/jimh2WIV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826239020271357953/jimh2WIV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2821627776/1485828834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "단 내가 걱정하는 것은 치열하게 만든 2010년대 이후 젊은 좌파-여성주의자들의 윤리를, '주류화 전략'을 모토로 공동체를 박차고 나간 이들이 깡그리 무시했을 때 특별히 할 수 있는 수단이 없다는 것. 어느 수준에서 최소 합의를 만들 수 있냔 이야기."
+	},
+	{
+		"created_at": "Tue Feb 09 05:29:44 +0000 2021",
+		"id": 811559647559585800,
+		"id_str": "1359011579619020802",
+		"full_text": "나는 '주류화 전략'을 모두가 택해야 한다 보지는 않지만, 내부의 온전한 정체성 확립을 잡는게 우선인 사람들은 윤리와 규범을 널리 설득해 내긴 어려울 거라 본다. 특히 '정치'는 어려울 것 같다. 물론 어디까지가 주체화 대상인지는 운동이 설득할 문제.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 811558474769236000,
+		"in_reply_to_status_id_str": "811558474769235969",
+		"in_reply_to_user_id": 2821627776,
+		"in_reply_to_user_id_str": "2821627776",
+		"in_reply_to_screen_name": "flyhendrixfly_",
+		"user": {
+			"id": 2821627776,
+			"id_str": "2821627776",
+			"name": "헨집사, a.k.a. 헨드릭스씨 🎗",
+			"screen_name": "flyhendrixfly_",
+			"location": "Seoul, Republic of Korea",
+			"description": "과학기술정책 공부하고 혁신, 정책, 도시, 엔지니어를 연구합니다. 사실은 삼삼오오 먹고 마시고 떠드는 거 좋아하는 술꾼입니다. #lgtwins #중공업가족의유토피아 #추월의시대",
+			"url": "https://t.co/iRD9qSmjLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iRD9qSmjLq",
+							"expanded_url": "http://aladin.kr/p/a2rrE",
+							"display_url": "aladin.kr/p/a2rrE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4260,
+			"friends_count": 329,
+			"listed_count": 74,
+			"created_at": "Sat Sep 20 11:04:46 +0000 2014",
+			"favourites_count": 4319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826239020271357953/jimh2WIV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826239020271357953/jimh2WIV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2821627776/1485828834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "나는 '주류화 전략'을 모두가 택해야 한다 보지는 않지만, 내부의 온전한 정체성 확립을 잡는게 우선인 사람들은 윤리와 규범을 널리 설득해 내긴 어려울 거라 본다. 특히 '정치'는 어려울 것 같다. 물론 어디까지가 주체화 대상인지는 운동이 설득할 문제."
+	},
+	{
+		"created_at": "Tue Feb 09 05:29:41 +0000 2021",
+		"id": 811558474769236000,
+		"id_str": "1359011568558567426",
+		"full_text": "2000년대 이후 운동을 매개하거나, '두리반' 같이 개별 아방가르드들 또는 연대를 통해 진보정당에 진입한 이들이 갖고 있는 좌파철학이나 여성주의 감각은 아무래도 주류화 전략은 아니었고, '일시적 자율공간'의 윤리와 룰을 지켜내는 쪽이었던 것 같다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 811557676874223600,
+		"in_reply_to_status_id_str": "811557676874223616",
+		"in_reply_to_user_id": 2821627776,
+		"in_reply_to_user_id_str": "2821627776",
+		"in_reply_to_screen_name": "flyhendrixfly_",
+		"user": {
+			"id": 2821627776,
+			"id_str": "2821627776",
+			"name": "헨집사, a.k.a. 헨드릭스씨 🎗",
+			"screen_name": "flyhendrixfly_",
+			"location": "Seoul, Republic of Korea",
+			"description": "과학기술정책 공부하고 혁신, 정책, 도시, 엔지니어를 연구합니다. 사실은 삼삼오오 먹고 마시고 떠드는 거 좋아하는 술꾼입니다. #lgtwins #중공업가족의유토피아 #추월의시대",
+			"url": "https://t.co/iRD9qSmjLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iRD9qSmjLq",
+							"expanded_url": "http://aladin.kr/p/a2rrE",
+							"display_url": "aladin.kr/p/a2rrE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4260,
+			"friends_count": 329,
+			"listed_count": 74,
+			"created_at": "Sat Sep 20 11:04:46 +0000 2014",
+			"favourites_count": 4319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826239020271357953/jimh2WIV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826239020271357953/jimh2WIV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2821627776/1485828834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "2000년대 이후 운동을 매개하거나, '두리반' 같이 개별 아방가르드들 또는 연대를 통해 진보정당에 진입한 이들이 갖고 있는 좌파철학이나 여성주의 감각은 아무래도 주류화 전략은 아니었고, '일시적 자율공간'의 윤리와 룰을 지켜내는 쪽이었던 것 같다."
+	},
+	{
+		"created_at": "Tue Feb 09 05:29:40 +0000 2021",
+		"id": 811557676874223600,
+		"id_str": "1359011562762031108",
+		"full_text": "운동권이 (대)학생사회의 도덕적 헤게모니를 쥐고 있던 시절 학생운동을 하다가 진보정당까지 오게된 이들의 감각과, 운동권이 학교의 오타쿠나 주류에서 약간은 밀려난 집단으로 간주되고 나서 진보정당에 들어온 이들의 공동체 감각과 윤리 감각은 다르다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2821627776,
+			"id_str": "2821627776",
+			"name": "헨집사, a.k.a. 헨드릭스씨 🎗",
+			"screen_name": "flyhendrixfly_",
+			"location": "Seoul, Republic of Korea",
+			"description": "과학기술정책 공부하고 혁신, 정책, 도시, 엔지니어를 연구합니다. 사실은 삼삼오오 먹고 마시고 떠드는 거 좋아하는 술꾼입니다. #lgtwins #중공업가족의유토피아 #추월의시대",
+			"url": "https://t.co/iRD9qSmjLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iRD9qSmjLq",
+							"expanded_url": "http://aladin.kr/p/a2rrE",
+							"display_url": "aladin.kr/p/a2rrE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4260,
+			"friends_count": 329,
+			"listed_count": 74,
+			"created_at": "Sat Sep 20 11:04:46 +0000 2014",
+			"favourites_count": 4319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826239020271357953/jimh2WIV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826239020271357953/jimh2WIV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2821627776/1485828834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "운동권이 (대)학생사회의 도덕적 헤게모니를 쥐고 있던 시절 학생운동을 하다가 진보정당까지 오게된 이들의 감각과, 운동권이 학교의 오타쿠나 주류에서 약간은 밀려난 집단으로 간주되고 나서 진보정당에 들어온 이들의 공동체 감각과 윤리 감각은 다르다."
+	},
+	{
+		"created_at": "Tue Feb 09 05:28:27 +0000 2021",
+		"id": 518453353701863400,
+		"id_str": "1359011256582066179",
+		"full_text": "문제해결 기피와 갈등 회피, 그리고 그에 따르는 짜증 발산을 위하여 여성주의의 문법이 동원되고, 소수자들 스스로의 존재확인을 위해 태동했던 정체성의 정치학이 낙인의 문법으로 인종주의적 화법으로 쓰이는 순간, 대안의 정치는 분리주의로 귀결될 따름이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2821627776,
+			"id_str": "2821627776",
+			"name": "헨집사, a.k.a. 헨드릭스씨 🎗",
+			"screen_name": "flyhendrixfly_",
+			"location": "Seoul, Republic of Korea",
+			"description": "과학기술정책 공부하고 혁신, 정책, 도시, 엔지니어를 연구합니다. 사실은 삼삼오오 먹고 마시고 떠드는 거 좋아하는 술꾼입니다. #lgtwins #중공업가족의유토피아 #추월의시대",
+			"url": "https://t.co/iRD9qSmjLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iRD9qSmjLq",
+							"expanded_url": "http://aladin.kr/p/a2rrE",
+							"display_url": "aladin.kr/p/a2rrE",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4260,
+			"friends_count": 329,
+			"listed_count": 74,
+			"created_at": "Sat Sep 20 11:04:46 +0000 2014",
+			"favourites_count": 4319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826239020271357953/jimh2WIV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826239020271357953/jimh2WIV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2821627776/1485828834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "문제해결 기피와 갈등 회피, 그리고 그에 따르는 짜증 발산을 위하여 여성주의의 문법이 동원되고, 소수자들 스스로의 존재확인을 위해 태동했던 정체성의 정치학이 낙인의 문법으로 인종주의적 화법으로 쓰이는 순간, 대안의 정치는 분리주의로 귀결될 따름이다."
+	},
+	{
+		"created_at": "Tue Feb 09 05:12:26 +0000 2021",
+		"id": 1359007227923681300,
+		"id_str": "1359007227923681281",
+		"full_text": "이런 부분은 남성의 것보단 훨씬 바람직하다고 생각해요 (...)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1359006933169016800,
+		"in_reply_to_status_id_str": "1359006933169016832",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 97,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이런 부분은 남성의 것보단 훨씬 바람직하다고 생각해요 (...)"
+	},
+	{
 		"created_at": "Tue Feb 09 04:59:46 +0000 2021",
 		"id": 1327558253048336400,
 		"id_str": "1359004037086142464",
