@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 09 13:11:12 +0000 2021",
+		"id": 1359127712913232000,
+		"id_str": "1359127712913231873",
+		"full_text": "종이책에 한정하면, 젊은 남성은 시장에서 존재감을 잃은 지 오래이긴 해요. 남녀가 비등하게 나오는 건 중장년층 덕분.\nhttps://t.co/LlwQ6ctHJy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LlwQ6ctHJy",
+					"expanded_url": "https://twitter.com/TextholicJ/status/1359035129763557385?s=19",
+					"display_url": "twitter.com/TextholicJ/sta…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 97,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3393,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1359035129763557400,
+		"quoted_status_id_str": "1359035129763557385",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LlwQ6ctHJy",
+			"expanded": "https://twitter.com/TextholicJ/status/1359035129763557385?s=19",
+			"display": "twitter.com/TextholicJ/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 09 07:03:19 +0000 2021",
+			"id": 1359035129763557400,
+			"id_str": "1359035129763557385",
+			"full_text": "내용을 보고 정말로 성별에 따른 컨텐츠 구매자가 그렇게 차이가 나는건가? 라는 의문이 들어서 국가통계기관에 접속을 해 보았는데...\n\n차이 없는데?\n\nhttps://t.co/9ZnFyCaheT https://t.co/QAvMQpdeh4 https://t.co/oEtXYuXE5H",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				131
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9ZnFyCaheT",
+						"expanded_url": "https://kosis.kr/statHtml/statHtml.do?orgId=113&tblId=DT_113_STBL_1028240",
+						"display_url": "kosis.kr/statHtml/statH…",
+						"indices": [
+							84,
+							107
+						]
+					},
+					{
+						"url": "https://t.co/QAvMQpdeh4",
+						"expanded_url": "https://twitter.com/narsha118/status/1358344198747877378",
+						"display_url": "twitter.com/narsha118/stat…",
+						"indices": [
+							108,
+							131
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1359034976554029000,
+						"id_str": "1359034976554029058",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/EtxDHFbVkAIsOOK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EtxDHFbVkAIsOOK.jpg",
+						"url": "https://t.co/oEtXYuXE5H",
+						"display_url": "pic.twitter.com/oEtXYuXE5H",
+						"expanded_url": "https://twitter.com/TextholicJ/status/1359035129763557385/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1111,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 651,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 369,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1359034976554029000,
+						"id_str": "1359034976554029058",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/EtxDHFbVkAIsOOK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EtxDHFbVkAIsOOK.jpg",
+						"url": "https://t.co/oEtXYuXE5H",
+						"display_url": "pic.twitter.com/oEtXYuXE5H",
+						"expanded_url": "https://twitter.com/TextholicJ/status/1359035129763557385/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1111,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 651,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 369,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1185391882773262300,
+				"id_str": "1185391882773262336",
+				"name": "TEXTHOLIC📚",
+				"screen_name": "TextholicJ",
+				"location": "日本 東京",
+				"description": "https://t.co/91lcjCGiGe\n평범한 일본의 외노자.",
+				"url": "https://t.co/APWajh3OU7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/APWajh3OU7",
+								"expanded_url": "http://textholic.com",
+								"display_url": "textholic.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/91lcjCGiGe",
+								"expanded_url": "http://Textholic.com",
+								"display_url": "Textholic.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 232,
+				"friends_count": 167,
+				"listed_count": 1,
+				"created_at": "Sat Oct 19 03:07:11 +0000 2019",
+				"favourites_count": 325,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15933,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1187618272826445824/rbnUTGXJ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187618272826445824/rbnUTGXJ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185391882773262336/1571985221",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1358344198747877400,
+			"quoted_status_id_str": "1358344198747877378",
+			"quoted_status_permalink": {
+				"url": "https://t.co/QAvMQpdeh4",
+				"expanded": "https://twitter.com/narsha118/status/1358344198747877378",
+				"display": "twitter.com/narsha118/stat…"
+			},
+			"retweet_count": 158,
+			"favorite_count": 39,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "종이책에 한정하면, 젊은 남성은 시장에서 존재감을 잃은 지 오래이긴 해요. 남녀가 비등하게 나오는 건 중장년층 덕분.\nhttps://t.co/LlwQ6ctHJy"
+	},
+	{
 		"created_at": "Tue Feb 09 12:58:00 +0000 2021",
 		"id": 1359124391414562800,
 		"id_str": "1359124391414562816",
