@@ -1,6 +1,712 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 09 04:59:46 +0000 2021",
+		"id": 1327558253048336400,
+		"id_str": "1359004037086142464",
+		"full_text": "10대 후반 20대 초반 여성의 자해와 자살이 하나의 멋? 패션? 처럼 여겨지게 된다는 경고에 비슷한 글을 1년쯤 전에 본 적 있다. 참고로 그 분이 그 글을 쓰게 된 이유는 뜨기 시작하던 빌리 아일리쉬의 뮤비나 음악 전반에 흐르는 자해정서를 캐취해서였음. 그 분 천재이신 듯. https://t.co/sQ229DHvsY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sQ229DHvsY",
+					"expanded_url": "https://twitter.com/qYwdpVnO5bk86N3/status/1327541508543631360",
+					"display_url": "twitter.com/qYwdpVnO5bk86N…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1247924641298911200,
+			"id_str": "1247924641298911232",
+			"name": "횽ひょんひょん횽",
+			"screen_name": "mikannotabekata",
+			"location": "Tokyo",
+			"description": "친추, 친끊, 멘션, 뮤트, 알틔 자유. フォロー、解除、コメント、ミュート、リツイートご自由にどうぞ。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74,
+			"friends_count": 194,
+			"listed_count": 1,
+			"created_at": "Wed Apr 08 16:30:01 +0000 2020",
+			"favourites_count": 26715,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247924969238982656/oU0KQfsh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247924969238982656/oU0KQfsh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1247924641298911232/1605261503",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1327541508543631400,
+		"quoted_status_id_str": "1327541508543631360",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sQ229DHvsY",
+			"expanded": "https://twitter.com/qYwdpVnO5bk86N3/status/1327541508543631360",
+			"display": "twitter.com/qYwdpVnO5bk86N…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 14 09:18:54 +0000 2020",
+			"id": 1327541508543631400,
+			"id_str": "1327541508543631360",
+			"full_text": "오해가 있을 듯 하여. 여성 자살에 물타기 하는 거 아님. 그러기엔 여성 자살률 증가가 심각함. 특히 위험한 이유가 몇년전부터 여중 여고생이 자해가 엄청 유행(?)했었고, 자살이 성공(?)할만큼 치명적인 방법을 쓰고 있다는 거임. 이 싸인을 정부에서 심각하게 봐야함.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1327515676488069000,
+			"in_reply_to_status_id_str": "1327515676488069120",
+			"in_reply_to_user_id": 1158687554410967000,
+			"in_reply_to_user_id_str": "1158687554410967040",
+			"in_reply_to_screen_name": "qYwdpVnO5bk86N3",
+			"user": {
+				"id": 1158687554410967000,
+				"id_str": "1158687554410967040",
+				"name": "미호와순덕",
+				"screen_name": "qYwdpVnO5bk86N3",
+				"location": "",
+				"description": "반려묘와 반려견을 키웁니다. 사람과 상담하는 사람과 살며 사람과 상담하는 일을 합니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 191,
+				"friends_count": 591,
+				"listed_count": 1,
+				"created_at": "Tue Aug 06 10:33:35 +0000 2019",
+				"favourites_count": 323,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4223,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1168444101437427712/qwrAo_3P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168444101437427712/qwrAo_3P_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 190,
+			"favorite_count": 108,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "10대 후반 20대 초반 여성의 자해와 자살이 하나의 멋? 패션? 처럼 여겨지게 된다는 경고에 비슷한 글을 1년쯤 전에 본 적 있다. 참고로 그 분이 그 글을 쓰게 된 이유는 뜨기 시작하던 빌리 아일리쉬의 뮤비나 음악 전반에 흐르는 자해정서를 캐취해서였음. 그 분 천재이신 듯. https://t.co/sQ229DHvsY"
+	},
+	{
+		"created_at": "Tue Feb 09 04:58:50 +0000 2021",
+		"id": 1303800321450287000,
+		"id_str": "1359003804977356801",
+		"full_text": "중간에 sns가 10대 우울증, 불안, 자해 및 자살율 증가에 미친 영향에 대한 내용도 있는데, sns가 등장한 2009년 이후 2017년까지 미국의 10대 후반 소녀들의 자살률은 70퍼센트, 10대 초반 소녀들의 자살률은 이보다 낮지만 비율로 보면 151퍼센트 상승했다고 한다. https://t.co/khp6640EGI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1303800312205996000,
+					"id_str": "1303800312205996033",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EhgHeeMU8AE80sm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhgHeeMU8AE80sm.jpg",
+					"url": "https://t.co/khp6640EGI",
+					"display_url": "pic.twitter.com/khp6640EGI",
+					"expanded_url": "https://twitter.com/kimcarrie7/status/1303800321450287104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 708,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1209,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 401,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303800312205996000,
+					"id_str": "1303800312205996033",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EhgHeeMU8AE80sm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhgHeeMU8AE80sm.jpg",
+					"url": "https://t.co/khp6640EGI",
+					"display_url": "pic.twitter.com/khp6640EGI",
+					"expanded_url": "https://twitter.com/kimcarrie7/status/1303800321450287104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 708,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1209,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 401,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1303800312822521900,
+					"id_str": "1303800312822521857",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EhgHegfUYAEn0tk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhgHegfUYAEn0tk.jpg",
+					"url": "https://t.co/khp6640EGI",
+					"display_url": "pic.twitter.com/khp6640EGI",
+					"expanded_url": "https://twitter.com/kimcarrie7/status/1303800321450287104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 695,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 394,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 1186,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1303800315624304600,
+					"id_str": "1303800315624304642",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EhgHeq7UMAICBkF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhgHeq7UMAICBkF.jpg",
+					"url": "https://t.co/khp6640EGI",
+					"display_url": "pic.twitter.com/khp6640EGI",
+					"expanded_url": "https://twitter.com/kimcarrie7/status/1303800321450287104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 1144,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1303800317222428700,
+					"id_str": "1303800317222428673",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EhgHew4VoAEALBp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhgHew4VoAEALBp.jpg",
+					"url": "https://t.co/khp6640EGI",
+					"display_url": "pic.twitter.com/khp6640EGI",
+					"expanded_url": "https://twitter.com/kimcarrie7/status/1303800321450287104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2047,
+							"h": 1154,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1303796653980180500,
+		"in_reply_to_status_id_str": "1303796653980180480",
+		"in_reply_to_user_id": 1178103519460462600,
+		"in_reply_to_user_id_str": "1178103519460462593",
+		"in_reply_to_screen_name": "kimcarrie7",
+		"user": {
+			"id": 1178103519460462600,
+			"id_str": "1178103519460462593",
+			"name": "캐리",
+			"screen_name": "kimcarrie7",
+			"location": "Earth",
+			"description": "본다 중드·ᴗ· (타장르 감상도 종종..)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 116,
+			"friends_count": 93,
+			"listed_count": 2,
+			"created_at": "Sun Sep 29 00:25:56 +0000 2019",
+			"favourites_count": 15192,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7819,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320447815659782146/SQ0uk6Rr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320447815659782146/SQ0uk6Rr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1178103519460462593/1605364327",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "중간에 sns가 10대 우울증, 불안, 자해 및 자살율 증가에 미친 영향에 대한 내용도 있는데, sns가 등장한 2009년 이후 2017년까지 미국의 10대 후반 소녀들의 자살률은 70퍼센트, 10대 초반 소녀들의 자살률은 이보다 낮지만 비율로 보면 151퍼센트 상승했다고 한다. https://t.co/khp6640EGI"
+	},
+	{
+		"created_at": "Tue Feb 09 04:49:02 +0000 2021",
+		"id": 1359001338697248800,
+		"id_str": "1359001338697248769",
+		"full_text": "물론 다른 분야는 몰라도 국민 각계각층을 대표해야 하는 정치계에선 올바른 일은 아니죠. 지역 대표를 뽑기보단 인구 집단을 고려해서 뽑는 식이면 좋겠다고 생각하는데...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1358998662207049700,
+		"in_reply_to_status_id_str": "1358998662207049731",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 97,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13180,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "물론 다른 분야는 몰라도 국민 각계각층을 대표해야 하는 정치계에선 올바른 일은 아니죠. 지역 대표를 뽑기보단 인구 집단을 고려해서 뽑는 식이면 좋겠다고 생각하는데..."
+	},
+	{
+		"created_at": "Tue Feb 09 04:38:24 +0000 2021",
+		"id": 1358998662207049700,
+		"id_str": "1358998662207049731",
+		"full_text": "실력이 없더라도 '나대는' 사람은 남성에 절대적으로 많고, 개중 운 좋은 이들은 성공을 하기 마련이기 때문에...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1358998252348006400,
+		"in_reply_to_status_id_str": "1358998252348006403",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 97,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13180,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "실력이 없더라도 '나대는' 사람은 남성에 절대적으로 많고, 개중 운 좋은 이들은 성공을 하기 마련이기 때문에..."
+	},
+	{
+		"created_at": "Tue Feb 09 04:36:46 +0000 2021",
+		"id": 1358998252348006400,
+		"id_str": "1358998252348006403",
+		"full_text": "얼마 전 20대 여성과 대비되는 20대 남성의 모험주의적 투자 양식이 우스개거리로 소비됐지만 바로 그 이유로 사회 고위층에 여성이 적게 되는 것이기도.\nhttps://t.co/83IePAQ15f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/83IePAQ15f",
+					"expanded_url": "https://www.google.com/amp/s/m.yna.co.kr/amp/view/AKR20200204084051001",
+					"display_url": "google.com/amp/s/m.yna.co…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1358996903426367500,
+		"in_reply_to_status_id_str": "1358996903426367488",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 97,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13180,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "얼마 전 20대 여성과 대비되는 20대 남성의 모험주의적 투자 양식이 우스개거리로 소비됐지만 바로 그 이유로 사회 고위층에 여성이 적게 되는 것이기도.\nhttps://t.co/83IePAQ15f"
+	},
+	{
 		"created_at": "Tue Feb 09 03:54:37 +0000 2021",
 		"id": 1358987642931617800,
 		"id_str": "1358987642931617793",
