@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 10 14:10:19 +0000 2021",
+		"id": 1359384764290007000,
+		"id_str": "1359504977404723208",
+		"full_text": "궁금해서 찾아보니 비트코인 탄소배출량이 37mt 인데... 유투브가 11mt이군요... https://t.co/Zh6Xa4XcWm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Zh6Xa4XcWm",
+					"expanded_url": "https://twitter.com/segfault87/status/1359383074975281153",
+					"display_url": "twitter.com/segfault87/sta…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 154756541,
+			"id_str": "154756541",
+			"name": "Seongjae Lee",
+			"screen_name": "seongjaelee",
+			"location": "",
+			"description": "A Seattleite",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1673,
+			"friends_count": 1420,
+			"listed_count": 39,
+			"created_at": "Sat Jun 12 03:31:55 +0000 2010",
+			"favourites_count": 5952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42148,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1129542033/nara_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129542033/nara_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1359383074975281200,
+		"quoted_status_id_str": "1359383074975281153",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Zh6Xa4XcWm",
+			"expanded": "https://twitter.com/segfault87/status/1359383074975281153",
+			"display": "twitter.com/segfault87/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 10 06:05:55 +0000 2021",
+			"id": 1359383074975281200,
+			"id_str": "1359383074975281153",
+			"full_text": "https://t.co/0C5vWT23AX 비트코인의 에너지 소비량을 보니 어마어마. 총 전력소모량은 칠레의 전체 전력 소모량과 비슷하고 CO2 배출량은 뉴질랜드의 전체 배출량에 맞먹는 수준... 단일 트랜잭션에 무려 651kWh의 전력을 소모... 비트코인은 세상에 존재하면 안 되는 물건인 것 같다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				169
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0C5vWT23AX",
+						"expanded_url": "https://digiconomist.net/bitcoin-energy-consumption",
+						"display_url": "digiconomist.net/bitcoin-energy…",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9304502,
+				"id_str": "9304502",
+				"name": "박준규",
+				"screen_name": "segfault87",
+				"location": "Seoul",
+				"description": "an increasingly decrepit computer programmer",
+				"url": "https://t.co/U8D1wOj8m3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/U8D1wOj8m3",
+								"expanded_url": "https://www.linkedin.com/in/joon-kyu-park-309a5042/",
+								"display_url": "linkedin.com/in/joon-kyu-pa…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 629,
+				"friends_count": 245,
+				"listed_count": 25,
+				"created_at": "Mon Oct 08 06:15:35 +0000 2007",
+				"favourites_count": 181,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5281,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1188418622416310272/KF5GH6ji_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1188418622416310272/KF5GH6ji_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9304502/1403783110",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 628,
+			"favorite_count": 235,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 825,
+		"favorite_count": 197,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "궁금해서 찾아보니 비트코인 탄소배출량이 37mt 인데... 유투브가 11mt이군요... https://t.co/Zh6Xa4XcWm"
+	},
+	{
 		"created_at": "Wed Feb 10 10:17:27 +0000 2021",
 		"id": 1359446375771951000,
 		"id_str": "1359446375771951105",
