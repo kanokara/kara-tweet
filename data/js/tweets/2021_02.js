@@ -1,6 +1,88 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 11 12:57:04 +0000 2021",
+		"id": 1359848928674336800,
+		"id_str": "1359848928674336773",
+		"full_text": "아, '스쿼드에 들어갔다'는 표현 때문에 이런 인상이 생겼나...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1359845742370689000,
+		"in_reply_to_status_id_str": "1359845742370689026",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3410,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "아, '스쿼드에 들어갔다'는 표현 때문에 이런 인상이 생겼나..."
+	},
+	{
 		"created_at": "Thu Feb 11 10:35:52 +0000 2021",
 		"id": 1359774461503762400,
 		"id_str": "1359813397383024641",
@@ -117,7 +199,7 @@ Grailbird.data.tweets_2021_02 =
 			"name": "그냥 수상한 「인레」",
 			"screen_name": "inle_vaporwave",
 			"location": "indramangspider@icloud.com",
-			"description": "| 🧠 통 속의 뇌 | - | 🎧 lofi, vaporwave, chill의 신도 | - | 🧑‍🎨 속절 없는 딜레탕트 | - | 문의와 악플, 악의적인 비방 및 루머 제보는 메일로 보내주시면 감사하겠습니다 |",
+			"description": "| 🧠 통 속의 뇌 | - | 🎧 lofi, vaporwave, chill의 신도 | - | 🧑🎨 속절 없는 딜레탕트 | - | 문의와 악플, 악의적인 비방 및 루머 제보는 메일로 보내주시면 감사하겠습니다 |",
 			"url": "https://t.co/4Af9dzzIcT",
 			"entities": {
 				"url": {
@@ -295,7 +377,7 @@ Grailbird.data.tweets_2021_02 =
 			"name": "그냥 수상한 「인레」",
 			"screen_name": "inle_vaporwave",
 			"location": "indramangspider@icloud.com",
-			"description": "| 🧠 통 속의 뇌 | - | 🎧 lofi, vaporwave, chill의 신도 | - | 🧑‍🎨 속절 없는 딜레탕트 | - | 문의와 악플, 악의적인 비방 및 루머 제보는 메일로 보내주시면 감사하겠습니다 |",
+			"description": "| 🧠 통 속의 뇌 | - | 🎧 lofi, vaporwave, chill의 신도 | - | 🧑🎨 속절 없는 딜레탕트 | - | 문의와 악플, 악의적인 비방 및 루머 제보는 메일로 보내주시면 감사하겠습니다 |",
 			"url": "https://t.co/4Af9dzzIcT",
 			"entities": {
 				"url": {
