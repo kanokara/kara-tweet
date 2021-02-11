@@ -1,6 +1,368 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 11 10:35:52 +0000 2021",
+		"id": 1359774461503762400,
+		"id_str": "1359813397383024641",
+		"full_text": "@k_aquinas 「가족 서사」 https://t.co/Vl5e8kDFLj",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "k_aquinas",
+					"name": "인간지네퀴저씨",
+					"id": 49904623,
+					"id_str": "49904623",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1359774437923426300,
+					"id_str": "1359774437923426305",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/Et7jpZsVEAEcYOO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et7jpZsVEAEcYOO.jpg",
+					"url": "https://t.co/Vl5e8kDFLj",
+					"display_url": "pic.twitter.com/Vl5e8kDFLj",
+					"expanded_url": "https://twitter.com/inle_vaporwave/status/1359774461503762435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 620,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359774437923426300,
+					"id_str": "1359774437923426305",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/Et7jpZsVEAEcYOO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et7jpZsVEAEcYOO.jpg",
+					"url": "https://t.co/Vl5e8kDFLj",
+					"display_url": "pic.twitter.com/Vl5e8kDFLj",
+					"expanded_url": "https://twitter.com/inle_vaporwave/status/1359774461503762435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 620,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1359772527850000400,
+		"in_reply_to_status_id_str": "1359772527850000387",
+		"in_reply_to_user_id": 49904623,
+		"in_reply_to_user_id_str": "49904623",
+		"in_reply_to_screen_name": "k_aquinas",
+		"user": {
+			"id": 1147524183833735200,
+			"id_str": "1147524183833735168",
+			"name": "그냥 수상한 「인레」",
+			"screen_name": "inle_vaporwave",
+			"location": "indramangspider@icloud.com",
+			"description": "| 🧠 통 속의 뇌 | - | 🎧 lofi, vaporwave, chill의 신도 | - | 🧑‍🎨 속절 없는 딜레탕트 | - | 문의와 악플, 악의적인 비방 및 루머 제보는 메일로 보내주시면 감사하겠습니다 |",
+			"url": "https://t.co/4Af9dzzIcT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4Af9dzzIcT",
+							"expanded_url": "https://inle-vaporwave.postype.com",
+							"display_url": "inle-vaporwave.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16528,
+			"friends_count": 613,
+			"listed_count": 55,
+			"created_at": "Sat Jul 06 15:14:20 +0000 2019",
+			"favourites_count": 7629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1359619046426116099/dkooZRwV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1359619046426116099/dkooZRwV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1147524183833735168/1611751967",
+			"profile_link_color": "C21807",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@k_aquinas 「가족 서사」 https://t.co/Vl5e8kDFLj"
+	},
+	{
+		"created_at": "Thu Feb 11 10:35:42 +0000 2021",
+		"id": 1359772527850000400,
+		"id_str": "1359813353217028096",
+		"full_text": "영화도 마찬가지인지라 사실 영화인들은 애미애비가 없는 계보들인지라 정성일이 어떻게든 임권택을 족보에 아버지로 써넣어보려고 했지만 그게 딱히 여의치는 않았고... 한국영화인들 애미애비는 대부분 파리나 뉴욕에 있지요. 홍콩에 이모 삼촌 좀 계시고 호부호형 못하는 어르신들 일본에 좀 계시고",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49904623,
+			"id_str": "49904623",
+			"name": "인간지네퀴저씨",
+			"screen_name": "k_aquinas",
+			"location": "",
+			"description": "orzorzorz💩",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7631,
+			"friends_count": 1642,
+			"listed_count": 59,
+			"created_at": "Tue Jun 23 06:19:16 +0000 2009",
+			"favourites_count": 29572,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 288125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DDCEAB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182335991031316480/zcBtRgmf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182335991031316480/zcBtRgmf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49904623/1570725927",
+			"profile_link_color": "ADB89D",
+			"profile_sidebar_border_color": "DD6238",
+			"profile_sidebar_fill_color": "453D34",
+			"profile_text_color": "C1931F",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 114,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "영화도 마찬가지인지라 사실 영화인들은 애미애비가 없는 계보들인지라 정성일이 어떻게든 임권택을 족보에 아버지로 써넣어보려고 했지만 그게 딱히 여의치는 않았고... 한국영화인들 애미애비는 대부분 파리나 뉴욕에 있지요. 홍콩에 이모 삼촌 좀 계시고 호부호형 못하는 어르신들 일본에 좀 계시고"
+	},
+	{
+		"created_at": "Thu Feb 11 10:31:57 +0000 2021",
+		"id": 1359777901952917500,
+		"id_str": "1359812412338171905",
+		"full_text": "저도 박찬욱 감독님처럼 글 쓰고 싶다고 생각한 적이 많은데 태생부터가 달라서인지 - 박찬욱 감독님의 태생은 씨네필이고 저는 오타쿠잖아요. - 도저히 따라할 수가 없더라고요. 페드로 알모도바르를 아무렇지도 않게 언급만 하고 지나갈 재간이 저에겐 없어요. 각주 쳐야 해요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1147524183833735200,
+			"id_str": "1147524183833735168",
+			"name": "그냥 수상한 「인레」",
+			"screen_name": "inle_vaporwave",
+			"location": "indramangspider@icloud.com",
+			"description": "| 🧠 통 속의 뇌 | - | 🎧 lofi, vaporwave, chill의 신도 | - | 🧑‍🎨 속절 없는 딜레탕트 | - | 문의와 악플, 악의적인 비방 및 루머 제보는 메일로 보내주시면 감사하겠습니다 |",
+			"url": "https://t.co/4Af9dzzIcT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4Af9dzzIcT",
+							"expanded_url": "https://inle-vaporwave.postype.com",
+							"display_url": "inle-vaporwave.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16528,
+			"friends_count": 613,
+			"listed_count": 55,
+			"created_at": "Sat Jul 06 15:14:20 +0000 2019",
+			"favourites_count": 7629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1359619046426116099/dkooZRwV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1359619046426116099/dkooZRwV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1147524183833735168/1611751967",
+			"profile_link_color": "C21807",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "저도 박찬욱 감독님처럼 글 쓰고 싶다고 생각한 적이 많은데 태생부터가 달라서인지 - 박찬욱 감독님의 태생은 씨네필이고 저는 오타쿠잖아요. - 도저히 따라할 수가 없더라고요. 페드로 알모도바르를 아무렇지도 않게 언급만 하고 지나갈 재간이 저에겐 없어요. 각주 쳐야 해요."
+	},
+	{
 		"created_at": "Thu Feb 11 10:02:36 +0000 2021",
 		"id": 1359805025933951000,
 		"id_str": "1359805025933950976",
