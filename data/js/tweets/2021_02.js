@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 11 05:06:14 +0000 2021",
+		"id": 1211508405724074000,
+		"id_str": "1359730439703781379",
+		"full_text": "저는 사실 좋아하는 악역캐를 뜨끈한 전기장판에 밀어넣고 누텔라와 하겐다즈를 퍼먹이며 넷플릭스와 유튜브를 잔뜩 들이대서 독있놈을 독없말랑무기력놈으로 만들고싶은 비뚤어진 욕망이 있어요 세계멸망? 시켜야지 그치만 워킹데드만 다 보고...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1524663164,
+			"id_str": "1524663164",
+			"name": "뿜쓰 계이해요 메인트봐주십사",
+			"screen_name": "BBoom_30",
+			"location": "아모르트",
+			"description": "룬아 본진 잡덕 / FF14 파는중 에메트셀크 파는중 / 전장르 최애위주 덕질\n\n후세터(요즘은 에멧얘기만 함) https://t.co/WAK2FQGlkS",
+			"url": "https://t.co/gXUyTFgUGz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gXUyTFgUGz",
+							"expanded_url": "https://lloovvee.postype.com/",
+							"display_url": "lloovvee.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/WAK2FQGlkS",
+							"expanded_url": "https://fusetter.com/u/BBoom_30",
+							"display_url": "fusetter.com/u/BBoom_30",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 464,
+			"friends_count": 401,
+			"listed_count": 8,
+			"created_at": "Mon Jun 17 11:53:48 +0000 2013",
+			"favourites_count": 2792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 212739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/848205696575430657/EIeLXYRt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/848205696575430657/EIeLXYRt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1524663164/1374902719",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4292,
+		"favorite_count": 1401,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "저는 사실 좋아하는 악역캐를 뜨끈한 전기장판에 밀어넣고 누텔라와 하겐다즈를 퍼먹이며 넷플릭스와 유튜브를 잔뜩 들이대서 독있놈을 독없말랑무기력놈으로 만들고싶은 비뚤어진 욕망이 있어요 세계멸망? 시켜야지 그치만 워킹데드만 다 보고..."
+	},
+	{
 		"created_at": "Thu Feb 11 03:04:00 +0000 2021",
 		"id": 1359699679059931100,
 		"id_str": "1359699679059931136",
