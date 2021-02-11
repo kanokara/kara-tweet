@@ -1,6 +1,463 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 11 14:46:35 +0000 2021",
+		"id": 1359816537524347000,
+		"id_str": "1359876490855387138",
+		"full_text": "내가 유튜브 저화질로 보고 안쓰는 가전 플러그 뽑고 다니고 그러는 동안 돈많은 새끼들은 이러고 있다.. https://t.co/ThnELa8kAu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ThnELa8kAu",
+					"expanded_url": "https://twitter.com/minist/status/1359705527329161218",
+					"display_url": "twitter.com/minist/status/…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1366220197,
+			"id_str": "1366220197",
+			"name": "레나의 연인 EP😷🌈",
+			"screen_name": "epps_6",
+			"location": "",
+			"description": "Cuz shade never made anybody less gay\nhttps://t.co/qS4CguqQ7t",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/qS4CguqQ7t",
+							"expanded_url": "https://peing.net/ko/epps_6?p=auto&utm_source=twitter&utm_medium=timeline&utm_campaign=auto_recruitment",
+							"display_url": "peing.net/ko/epps_6?p=au…",
+							"indices": [
+								38,
+								61
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 225,
+			"friends_count": 322,
+			"listed_count": 3,
+			"created_at": "Sat Apr 20 05:11:18 +0000 2013",
+			"favourites_count": 5435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117335378657259521/Khm7Kmcl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117335378657259521/Khm7Kmcl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1366220197/1574832011",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1359705527329161200,
+		"quoted_status_id_str": "1359705527329161218",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ThnELa8kAu",
+			"expanded": "https://twitter.com/minist/status/1359705527329161218",
+			"display": "twitter.com/minist/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 11 03:27:14 +0000 2021",
+			"id": 1359705527329161200,
+			"id_str": "1359705527329161218",
+			"full_text": "전기료 저렴해 비트코인 마이닝이 몰리고 있는 이란에 최근 GPU 마이닝으로 인한 정전사태가 발생. 최근 중국의 14개 거대 마이닝 마이닝 회사들이 중국대비 전기값이 1/4에 불과한 이란으로 대거 이동해 300 메가와트의 전력을 사용,10만명 인구의 시에 맞먹는 전기를 사용 https://t.co/tdJPs6T51d https://t.co/qMCCojtQJ8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				176
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tdJPs6T51d",
+						"expanded_url": "https://videocardz.com/newz/gpu-mining-farms-are-causing-power-outages-in-iran",
+						"display_url": "videocardz.com/newz/gpu-minin…",
+						"indices": [
+							153,
+							176
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1359705525877952500,
+						"id_str": "1359705525877952515",
+						"indices": [
+							177,
+							200
+						],
+						"media_url": "http://pbs.twimg.com/media/Et6k-MUXUAMvd7N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Et6k-MUXUAMvd7N.jpg",
+						"url": "https://t.co/qMCCojtQJ8",
+						"display_url": "pic.twitter.com/qMCCojtQJ8",
+						"expanded_url": "https://twitter.com/minist/status/1359705527329161218/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 700,
+								"h": 426,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 414,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 426,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1359705525877952500,
+						"id_str": "1359705525877952515",
+						"indices": [
+							177,
+							200
+						],
+						"media_url": "http://pbs.twimg.com/media/Et6k-MUXUAMvd7N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Et6k-MUXUAMvd7N.jpg",
+						"url": "https://t.co/qMCCojtQJ8",
+						"display_url": "pic.twitter.com/qMCCojtQJ8",
+						"expanded_url": "https://twitter.com/minist/status/1359705527329161218/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 700,
+								"h": 426,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 414,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 426,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13113612,
+				"id_str": "13113612",
+				"name": "박수민 / Soomin Park",
+				"screen_name": "minist",
+				"location": "Seattle, WA, USA",
+				"description": "아마존 게임 스튜디오, WizeIoT, 블루홀, 크래프톤, 넥슨 아메리카, 넥슨 코리아, 위젯, 한메소프트 / 아트미디어 동호회 / IoT / 스타트업 / 모바일 / 온라인 게임 / 웹 서비스 / 소프트웨어 / 가젯 / 영화 / 음악",
+				"url": "https://t.co/3cxweHYPJO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3cxweHYPJO",
+								"expanded_url": "https://minist.kr",
+								"display_url": "minist.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 62857,
+				"friends_count": 719,
+				"listed_count": 836,
+				"created_at": "Tue Feb 05 21:28:37 +0000 2008",
+				"favourites_count": 787,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22571,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "402021",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170595175397089280/s9HE4XP9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13113612/1359518259",
+				"profile_link_color": "260D03",
+				"profile_sidebar_border_color": "8A7167",
+				"profile_sidebar_fill_color": "8A7167",
+				"profile_text_color": "341617",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 676,
+			"favorite_count": 177,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내가 유튜브 저화질로 보고 안쓰는 가전 플러그 뽑고 다니고 그러는 동안 돈많은 새끼들은 이러고 있다.. https://t.co/ThnELa8kAu"
+	},
+	{
+		"created_at": "Thu Feb 11 14:30:39 +0000 2021",
+		"id": 1359872479720734700,
+		"id_str": "1359872479720734721",
+		"full_text": "그저 인사이드에 치우친 문화를 다시 생각해볼 수 있도록 발언한 것이고, 아웃사이드 문화를 변호하는 것이라고 보는 게 올바르겠죠.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1359871751367217200,
+		"in_reply_to_status_id_str": "1359871751367217152",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "그저 인사이드에 치우친 문화를 다시 생각해볼 수 있도록 발언한 것이고, 아웃사이드 문화를 변호하는 것이라고 보는 게 올바르겠죠."
+	},
+	{
+		"created_at": "Thu Feb 11 14:27:45 +0000 2021",
+		"id": 1359871751367217200,
+		"id_str": "1359871751367217152",
+		"full_text": "솔직히 김영하 씨 정도면 인맥으로 저기 올라가는 것과 동시에 그 인맥 다수가 문화계 인맥일 텐데...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1359871324567400400,
+		"in_reply_to_status_id_str": "1359871324567400448",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "솔직히 김영하 씨 정도면 인맥으로 저기 올라가는 것과 동시에 그 인맥 다수가 문화계 인맥일 텐데..."
+	},
+	{
 		"created_at": "Thu Feb 11 12:57:04 +0000 2021",
 		"id": 1359848928674336800,
 		"id_str": "1359848928674336773",
