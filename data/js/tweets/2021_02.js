@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 12 05:19:22 +0000 2021",
+		"id": 1360090682312978400,
+		"id_str": "1360096133108834307",
+		"full_text": "이렇게 하면 가족 예배 기도제목으로 올라감 교회단톡에 올라갈 수도 있음 https://t.co/xJ48yZv8ik",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xJ48yZv8ik",
+					"expanded_url": "https://twitter.com/MRN_helloworld/status/1360036552483643392",
+					"display_url": "twitter.com/MRN_helloworld…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1286721006678073300,
+			"id_str": "1286721006678073345",
+			"name": "사사",
+			"screen_name": "sasa_cheese",
+			"location": "왕경",
+			"description": "🧀 반월당, 진혼기, 남미숨, 마로니에 +그외 장르 찔끔(집없, 전오수 등)\n🧀 뒷계 @sasa_private \n🧀 옾챗 https://t.co/gVlTwcxY5B \n🧀 트친 박제 : ~동자님 머리카락",
+			"url": "https://t.co/1mNTKGEpPF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1mNTKGEpPF",
+							"expanded_url": "https://peing.net/ko/sasa_cheese?p=auto&utm_source=twitter&utm_medium=timeline&utm_campaign=auto_rec",
+							"display_url": "peing.net/ko/sasa_cheese…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gVlTwcxY5B",
+							"expanded_url": "https://open.kakao.com/o/sdJLYisc",
+							"display_url": "open.kakao.com/o/sdJLYisc",
+							"indices": [
+								68,
+								91
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 31,
+			"friends_count": 42,
+			"listed_count": 0,
+			"created_at": "Fri Jul 24 17:52:56 +0000 2020",
+			"favourites_count": 1738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1355959057341800453/4R9uV4-I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1355959057341800453/4R9uV4-I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1286721006678073345/1612344759",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1360036552483643400,
+		"quoted_status_id_str": "1360036552483643392",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xJ48yZv8ik",
+			"expanded": "https://twitter.com/MRN_helloworld/status/1360036552483643392",
+			"display": "twitter.com/MRN_helloworld…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 12 01:22:37 +0000 2021",
+			"id": 1360036552483643400,
+			"id_str": "1360036552483643392",
+			"full_text": "기독교 집안 '연애 안 하니?' 프리패스:\n하나님께서 다 계획이 있으셔서 좋은 인연을 예비해두고 계시겠죠",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				58
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 807151797949190100,
+				"id_str": "807151797949190144",
+				"name": "칩거💤동호회 마린카린",
+				"screen_name": "MRN_helloworld",
+				"location": "",
+				"description": "Marin-Karin | 🌈They/Them | 블락 기능 적극적으로 사용합니다 | 별 이야기 다 함 | 장르팔로 비추 | 서치봇 사절 | 구독 안 받음 | 트친소 외에는 맞팔을 원하면 멘션 | EGG12 | 꿀벌팟!",
+				"url": "https://t.co/7mv1TU3uj8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7mv1TU3uj8",
+								"expanded_url": "https://youtu.be/_eIQfJl8AbI",
+								"display_url": "youtu.be/_eIQfJl8AbI",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 260,
+				"friends_count": 417,
+				"listed_count": 6,
+				"created_at": "Fri Dec 09 09:15:59 +0000 2016",
+				"favourites_count": 131726,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 213483,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1359838552926744576/S2GeaXi8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1359838552926744576/S2GeaXi8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/807151797949190144/1605230282",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3355,
+			"favorite_count": 1226,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 76,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이렇게 하면 가족 예배 기도제목으로 올라감 교회단톡에 올라갈 수도 있음 https://t.co/xJ48yZv8ik"
+	},
+	{
 		"created_at": "Fri Feb 12 04:55:48 +0000 2021",
 		"id": 1360090202249728000,
 		"id_str": "1360090202249728000",
