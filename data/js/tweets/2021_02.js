@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sat Feb 13 07:24:29 +0000 2021",
+		"id": 1360234808723443700,
+		"id_str": "1360490007006380032",
+		"full_text": "사이다 그만 찾으세요\n뇌가 사이다에 절여지면 자존감 바닥치는거 순식간입니다. https://t.co/Kn2uUhVyr8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1360234802058719200,
+					"id_str": "1360234802058719236",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EuCGWHvVcAQckRT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuCGWHvVcAQckRT.jpg",
+					"url": "https://t.co/Kn2uUhVyr8",
+					"display_url": "pic.twitter.com/Kn2uUhVyr8",
+					"expanded_url": "https://twitter.com/Gui_chanism/status/1360234808723443713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 879,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1229,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1360234802058719200,
+					"id_str": "1360234802058719236",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/EuCGWHvVcAQckRT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuCGWHvVcAQckRT.jpg",
+					"url": "https://t.co/Kn2uUhVyr8",
+					"display_url": "pic.twitter.com/Kn2uUhVyr8",
+					"expanded_url": "https://twitter.com/Gui_chanism/status/1360234808723443713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 879,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1229,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 544334318,
+			"id_str": "544334318",
+			"name": "차니",
+			"screen_name": "Gui_chanism",
+			"location": "",
+			"description": "니가 그렇다면 그런거겠지. (니 상상속에서만 말이야.)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 204,
+			"friends_count": 595,
+			"listed_count": 16,
+			"created_at": "Tue Apr 03 14:55:46 +0000 2012",
+			"favourites_count": 23638,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 117473,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1195660923760807937/YRtVsynq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195660923760807937/YRtVsynq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/544334318/1531148986",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 398,
+		"favorite_count": 130,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사이다 그만 찾으세요\n뇌가 사이다에 절여지면 자존감 바닥치는거 순식간입니다. https://t.co/Kn2uUhVyr8"
+	},
+	{
 		"created_at": "Fri Feb 12 16:41:12 +0000 2021",
 		"id": 1360267724694253600,
 		"id_str": "1360267724694253580",
