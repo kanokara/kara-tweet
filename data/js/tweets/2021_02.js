@@ -1,6 +1,506 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 15 11:09:00 +0000 2021",
+		"id": 1360904373371433000,
+		"id_str": "1361271287457308672",
+		"full_text": "원문은 여기 \nhttps://t.co/vGo5zATUhQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vGo5zATUhQ",
+					"expanded_url": "http://distributivejustice.snu.ac.kr/DP/2016/DP201601.ChLee.pdf",
+					"display_url": "distributivejustice.snu.ac.kr/DP/2016/DP2016…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1360902959299629000,
+		"in_reply_to_status_id_str": "1360902959299629058",
+		"in_reply_to_user_id": 1326495970301931500,
+		"in_reply_to_user_id_str": "1326495970301931520",
+		"in_reply_to_screen_name": "ghvillain1",
+		"user": {
+			"id": 1326495970301931500,
+			"id_str": "1326495970301931520",
+			"name": "AnotherCat",
+			"screen_name": "ghvillain1",
+			"location": "",
+			"description": "Gender, Health, and Power",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 103,
+			"listed_count": 0,
+			"created_at": "Wed Nov 11 12:04:29 +0000 2020",
+			"favourites_count": 101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353325580951773186/LYlB47oZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353325580951773186/LYlB47oZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1326495970301931520/1611492940",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "원문은 여기 \nhttps://t.co/vGo5zATUhQ"
+	},
+	{
+		"created_at": "Mon Feb 15 11:08:28 +0000 2021",
+		"id": 1360902959299629000,
+		"id_str": "1361271153822552070",
+		"full_text": "출생시 성비 지역변이를 우아하게 잘 써먹는 경제학자들이 있음. 예컨데 이철희샘 연구. 여아선별낙태를 많이 한 지역에서 태어난 여자애들은 역설적으로 남녀차별을 덜하는 부모랑 살았고 그래서 사적 투자(교육비, 모유수유)를 더 많이 받음. 이런 투자는 여성 대학진학과 취업(공무원 등)에 기여. https://t.co/L1PBH8o859",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1360901730259542000,
+					"id_str": "1360901730259542021",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EuLk6c5VoAUYQCo.png",
+					"media_url_https": "https://pbs.twimg.com/media/EuLk6c5VoAUYQCo.png",
+					"url": "https://t.co/L1PBH8o859",
+					"display_url": "pic.twitter.com/L1PBH8o859",
+					"expanded_url": "https://twitter.com/ghvillain1/status/1360902959299629058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1360901730259542000,
+					"id_str": "1360901730259542021",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EuLk6c5VoAUYQCo.png",
+					"media_url_https": "https://pbs.twimg.com/media/EuLk6c5VoAUYQCo.png",
+					"url": "https://t.co/L1PBH8o859",
+					"display_url": "pic.twitter.com/L1PBH8o859",
+					"expanded_url": "https://twitter.com/ghvillain1/status/1360902959299629058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1360901172148588500,
+		"in_reply_to_status_id_str": "1360901172148588544",
+		"in_reply_to_user_id": 1326495970301931500,
+		"in_reply_to_user_id_str": "1326495970301931520",
+		"in_reply_to_screen_name": "ghvillain1",
+		"user": {
+			"id": 1326495970301931500,
+			"id_str": "1326495970301931520",
+			"name": "AnotherCat",
+			"screen_name": "ghvillain1",
+			"location": "",
+			"description": "Gender, Health, and Power",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 103,
+			"listed_count": 0,
+			"created_at": "Wed Nov 11 12:04:29 +0000 2020",
+			"favourites_count": 101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353325580951773186/LYlB47oZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353325580951773186/LYlB47oZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1326495970301931520/1611492940",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 102,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "출생시 성비 지역변이를 우아하게 잘 써먹는 경제학자들이 있음. 예컨데 이철희샘 연구. 여아선별낙태를 많이 한 지역에서 태어난 여자애들은 역설적으로 남녀차별을 덜하는 부모랑 살았고 그래서 사적 투자(교육비, 모유수유)를 더 많이 받음. 이런 투자는 여성 대학진학과 취업(공무원 등)에 기여. https://t.co/L1PBH8o859"
+	},
+	{
+		"created_at": "Mon Feb 15 11:02:46 +0000 2021",
+		"id": 1361269718292725800,
+		"id_str": "1361269718292725760",
+		"full_text": "행정력의 공백이란 틀도 사실 한반도적인 거고, 유동적인 사회라고 하는 게 더 정확하겠지만.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1361268331500564500,
+		"in_reply_to_status_id_str": "1361268331500564482",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 99,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "행정력의 공백이란 틀도 사실 한반도적인 거고, 유동적인 사회라고 하는 게 더 정확하겠지만."
+	},
+	{
+		"created_at": "Mon Feb 15 10:57:16 +0000 2021",
+		"id": 1361268331500564500,
+		"id_str": "1361268331500564482",
+		"full_text": "트위터를 보면 미국에 가서 '여성'으로서 당황을 느끼는 증언이 종종 나오는데, 그거 그냥 한국인 전반의 공통점이라... 그리고 미국이 스탠다드로서 더 낫다고 하기엔 자기 어필이나 체면 중시 문화 같은 건 그냥 행정력의 공백이 컸던 대국의 특징이거든요. 중국이나 인도에도 마찬가지인 부분이고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1361264852338049000,
+		"in_reply_to_status_id_str": "1361264852338049029",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 99,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "트위터를 보면 미국에 가서 '여성'으로서 당황을 느끼는 증언이 종종 나오는데, 그거 그냥 한국인 전반의 공통점이라... 그리고 미국이 스탠다드로서 더 낫다고 하기엔 자기 어필이나 체면 중시 문화 같은 건 그냥 행정력의 공백이 컸던 대국의 특징이거든요. 중국이나 인도에도 마찬가지인 부분이고."
+	},
+	{
+		"created_at": "Mon Feb 15 10:49:38 +0000 2021",
+		"id": 1361266412728119300,
+		"id_str": "1361266412728119296",
+		"full_text": "\"내가 되고싶은 나의 형태\" 와 \"내가 좋아하는 사람의 속성\"... 은 인간의 특성상(사회성 및 인지 구조), 그리고 미디어의 발달상 구분이 불가능에 가까워졌다고 할까... 주인공과 독자의 관계처럼요. '좋아함'을 어떻게 규정하느냐에 따라서 또 달라지겠지만요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 99,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "\"내가 되고싶은 나의 형태\" 와 \"내가 좋아하는 사람의 속성\"... 은 인간의 특성상(사회성 및 인지 구조), 그리고 미디어의 발달상 구분이 불가능에 가까워졌다고 할까... 주인공과 독자의 관계처럼요. '좋아함'을 어떻게 규정하느냐에 따라서 또 달라지겠지만요."
+	},
+	{
 		"created_at": "Sun Feb 14 17:46:50 +0000 2021",
 		"id": 1361009018081144800,
 		"id_str": "1361009018081144835",
