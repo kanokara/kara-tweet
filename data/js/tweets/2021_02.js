@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 16 20:33:31 +0000 2021",
+		"id": 1361775640416948200,
+		"id_str": "1361775739348082695",
+		"full_text": "\"승률의 희박\"을 말하고 \"젊은 사람은 잃을 게 더 많다\"'고 계산하는 리스크 관리적 사고는 너무도 충실히 자본주의 사회의 논리를 수용한 밀레니얼의 초상.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1361769715853533200,
+		"in_reply_to_status_id_str": "1361769715853533184",
+		"in_reply_to_user_id": 834020169680719900,
+		"in_reply_to_user_id_str": "834020169680719872",
+		"in_reply_to_screen_name": "ehrtjshxm7",
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4,
+			"friends_count": 27,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"승률의 희박\"을 말하고 \"젊은 사람은 잃을 게 더 많다\"'고 계산하는 리스크 관리적 사고는 너무도 충실히 자본주의 사회의 논리를 수용한 밀레니얼의 초상."
+	},
+	{
 		"created_at": "Tue Feb 16 20:09:55 +0000 2021",
 		"id": 1361769715853533200,
 		"id_str": "1361769801207541761",
