@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 17 23:56:10 +0000 2021",
+		"id": 1362169102198972400,
+		"id_str": "1362189124854181890",
+		"full_text": "이거 진짜 골 때리네. 용접 부위 균열이 발견되어서 보수공사를 한 건데 그 보수공사도 부실공사 ㅋ 처음 균열도 부실공사에 의한 거 아니었을까? 용접재료도 다른 거 쓰고 ㅋ 원전 대부분 이 모양 아니야? 부실공사를 보강하면서 다시 부실공사 ㅋ https://t.co/PwKRTfmn69",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PwKRTfmn69",
+					"expanded_url": "https://twitter.com/ultungtomato/status/1362167376528084992",
+					"display_url": "twitter.com/ultungtomato/s…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1070684019010879500,
+			"id_str": "1070684019010879488",
+			"name": "올망졸망체리",
+			"screen_name": "ultungtomato",
+			"location": "",
+			"description": "대통령 지지자이자 민주당 지지자",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 313,
+			"friends_count": 515,
+			"listed_count": 1,
+			"created_at": "Thu Dec 06 14:18:57 +0000 2018",
+			"favourites_count": 180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276409312894578688/mZRxMjru_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276409312894578688/mZRxMjru_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1070684019010879488/1571851463",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1362167376528085000,
+		"quoted_status_id_str": "1362167376528084992",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PwKRTfmn69",
+			"expanded": "https://twitter.com/ultungtomato/status/1362167376528084992",
+			"display": "twitter.com/ultungtomato/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 17 22:29:45 +0000 2021",
+			"id": 1362167376528085000,
+			"id_str": "1362167376528084992",
+			"full_text": "\"한빛원전 관련한 내부자들, 작업을 지시한, 관리 감독을 해야할 인증기관 이런 조직들이 총체적으로 안전 불감증이 극심하게 나타났다고 볼 수밖에 없다고...\"\n\n총체적 안전 불감증 ㅋ 웃을 일이 아닌데 안전한 원전 주장하는 인간들 때문에 웃기네.  https://t.co/7zG2YyYSyD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				161
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7zG2YyYSyD",
+						"expanded_url": "http://news.kbs.co.kr/mobile/news/view.do?ncd=5120335",
+						"display_url": "news.kbs.co.kr/mobile/news/vi…",
+						"indices": [
+							138,
+							161
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1070684019010879500,
+				"id_str": "1070684019010879488",
+				"name": "올망졸망체리",
+				"screen_name": "ultungtomato",
+				"location": "",
+				"description": "대통령 지지자이자 민주당 지지자",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 313,
+				"friends_count": 515,
+				"listed_count": 1,
+				"created_at": "Thu Dec 06 14:18:57 +0000 2018",
+				"favourites_count": 180,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 92241,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1276409312894578688/mZRxMjru_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276409312894578688/mZRxMjru_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1070684019010879488/1571851463",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이거 진짜 골 때리네. 용접 부위 균열이 발견되어서 보수공사를 한 건데 그 보수공사도 부실공사 ㅋ 처음 균열도 부실공사에 의한 거 아니었을까? 용접재료도 다른 거 쓰고 ㅋ 원전 대부분 이 모양 아니야? 부실공사를 보강하면서 다시 부실공사 ㅋ https://t.co/PwKRTfmn69"
+	},
+	{
 		"created_at": "Wed Feb 17 19:36:21 +0000 2021",
 		"id": 1362123740822212600,
 		"id_str": "1362123740822212609",
