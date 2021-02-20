@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sat Feb 20 02:36:12 +0000 2021",
+		"id": 1290220481384034300,
+		"id_str": "1362954174107803648",
+		"full_text": "@: \n항상 말하지만\n욕을 할 수는 있어\n하지만 사람이 좀 어? 담백하게 살아라 담백하게\n그냥 이 씨발롬아 이 모조대가리야 이렇게 욕을 하란말이야\n피드백 / 가스라이팅 / 자살 / 전시 / 불쾌감 / 사과문 → 이딴 단어로 수동정신공격하지 말고 어?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1281226277886673000,
+			"id_str": "1281226277886672896",
+			"name": "우롱차요정",
+			"screen_name": "Koma12EE",
+			"location": "",
+			"description": "님들을 우롱하지 않습니다.",
+			"url": "https://t.co/7uH1zWWV7j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7uH1zWWV7j",
+							"expanded_url": "https://peing.net/ko/koma12ee",
+							"display_url": "peing.net/ko/koma12ee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2248,
+			"friends_count": 505,
+			"listed_count": 9,
+			"created_at": "Thu Jul 09 13:58:50 +0000 2020",
+			"favourites_count": 28403,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28092,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332732311553544192/Y0PNljgi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332732311553544192/Y0PNljgi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1281226277886672896/1594303312",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 102,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@: \n항상 말하지만\n욕을 할 수는 있어\n하지만 사람이 좀 어? 담백하게 살아라 담백하게\n그냥 이 씨발롬아 이 모조대가리야 이렇게 욕을 하란말이야\n피드백 / 가스라이팅 / 자살 / 전시 / 불쾌감 / 사과문 → 이딴 단어로 수동정신공격하지 말고 어?"
+	},
+	{
 		"created_at": "Sat Feb 20 01:43:47 +0000 2021",
 		"id": 1362940982958854100,
 		"id_str": "1362940982958854145",
