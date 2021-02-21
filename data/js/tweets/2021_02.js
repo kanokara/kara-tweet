@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 21 02:47:53 +0000 2021",
+		"id": 1363319313608831000,
+		"id_str": "1363319502700642306",
+		"full_text": "젊은 여성의 경우 기존 통념과 같지만 40-80세의 독일 여성의 경우 과거와 달라졌다는 건데요, 연구진이 말하는 가장 설득력 있는 가설은 역할모델/수행의 변화로 인한 사회적 훈련입니다. 최초 발췌문과 의미가 상당히 달라지는 것입니다. https://t.co/5LoYCEqNva",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1363318426576461800,
+					"id_str": "1363318426576461828",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/Eut64sPVoAQR0Pk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eut64sPVoAQR0Pk.jpg",
+					"url": "https://t.co/5LoYCEqNva",
+					"display_url": "pic.twitter.com/5LoYCEqNva",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1363319313608830976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 563,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 674,
+							"h": 814,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 674,
+							"h": 814,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1363318426576461800,
+					"id_str": "1363318426576461828",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/Eut64sPVoAQR0Pk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eut64sPVoAQR0Pk.jpg",
+					"url": "https://t.co/5LoYCEqNva",
+					"display_url": "pic.twitter.com/5LoYCEqNva",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1363319313608830976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 563,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 674,
+							"h": 814,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 674,
+							"h": 814,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1363318453130592300,
+					"id_str": "1363318453130592259",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/Eut66PKVgAMOQMU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eut66PKVgAMOQMU.jpg",
+					"url": "https://t.co/5LoYCEqNva",
+					"display_url": "pic.twitter.com/5LoYCEqNva",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1363319313608830976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 825,
+							"h": 816,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 825,
+							"h": 816,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 673,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1363317149633183700,
+		"in_reply_to_status_id_str": "1363317149633183751",
+		"in_reply_to_user_id": 834020169680719900,
+		"in_reply_to_user_id_str": "834020169680719872",
+		"in_reply_to_screen_name": "ehrtjshxm7",
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4,
+			"friends_count": 27,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "젊은 여성의 경우 기존 통념과 같지만 40-80세의 독일 여성의 경우 과거와 달라졌다는 건데요, 연구진이 말하는 가장 설득력 있는 가설은 역할모델/수행의 변화로 인한 사회적 훈련입니다. 최초 발췌문과 의미가 상당히 달라지는 것입니다. https://t.co/5LoYCEqNva"
+	},
+	{
 		"created_at": "Sat Feb 20 02:36:12 +0000 2021",
 		"id": 1290220481384034300,
 		"id_str": "1362954174107803648",
