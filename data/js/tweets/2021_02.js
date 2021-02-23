@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 23 09:54:36 +0000 2021",
+		"id": 1364150924101357600,
+		"id_str": "1364151666396729345",
+		"full_text": "아 궁금해서 나도 조금 봤는데 기절함 한 사람의 북부 대공을 키워내기 위해 얼마나 많은 주변인이 희생되어 왔을까&lt;- ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/BDhqcqTFTb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1364150913376477200,
+					"id_str": "1364150913376477184",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu5wBzPUYAAHFRz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu5wBzPUYAAHFRz.jpg",
+					"url": "https://t.co/BDhqcqTFTb",
+					"display_url": "pic.twitter.com/BDhqcqTFTb",
+					"expanded_url": "https://twitter.com/racommu/status/1364150924101357570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1364150913376477200,
+					"id_str": "1364150913376477184",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu5wBzPUYAAHFRz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu5wBzPUYAAHFRz.jpg",
+					"url": "https://t.co/BDhqcqTFTb",
+					"display_url": "pic.twitter.com/BDhqcqTFTb",
+					"expanded_url": "https://twitter.com/racommu/status/1364150924101357570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1364150913380741000,
+					"id_str": "1364150913380741125",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu5wBzQVcAUs7k3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu5wBzQVcAUs7k3.jpg",
+					"url": "https://t.co/BDhqcqTFTb",
+					"display_url": "pic.twitter.com/BDhqcqTFTb",
+					"expanded_url": "https://twitter.com/racommu/status/1364150924101357570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1364125369205317600,
+		"in_reply_to_status_id_str": "1364125369205317634",
+		"in_reply_to_user_id": 1042080141969477600,
+		"in_reply_to_user_id_str": "1042080141969477632",
+		"in_reply_to_screen_name": "racommu",
+		"user": {
+			"id": 1042080141969477600,
+			"id_str": "1042080141969477632",
+			"name": "온다",
+			"screen_name": "racommu",
+			"location": "진짜 잡덕임 ",
+			"description": "개인 의견 정리 및 감상계 l 잡덕이고 말 많음 l 장르팔로 비추 l RT 가끔 많이함 l 탐라 잘 놓침 l 타래까지 다 읽어주세요 l 체인블락, 미러블락 씀",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8110,
+			"friends_count": 265,
+			"listed_count": 46,
+			"created_at": "Tue Sep 18 15:57:21 +0000 2018",
+			"favourites_count": 42767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 70699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260191866944811015/_kJbLVIP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260191866944811015/_kJbLVIP_normal.jpg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아 궁금해서 나도 조금 봤는데 기절함 한 사람의 북부 대공을 키워내기 위해 얼마나 많은 주변인이 희생되어 왔을까&lt;- ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/BDhqcqTFTb"
+	},
+	{
 		"created_at": "Tue Feb 23 03:51:13 +0000 2021",
 		"id": 1364060215906242600,
 		"id_str": "1364060215906242560",
