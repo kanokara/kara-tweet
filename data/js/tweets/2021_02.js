@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 25 06:18:20 +0000 2021",
+		"id": 1364396314650284000,
+		"id_str": "1364822017262772224",
+		"full_text": "보수화 능력주의 공정 다 필요없다 2줄이면 요약가능함\n\n\"나만 아니면 돼\"\n\"내가 좋아하는 건 금지될 일이 없을 것입니다\"\n\nhttps://t.co/WjISO8EM4y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WjISO8EM4y",
+					"expanded_url": "https://twitter.com/Nein_Danke_/status/1364213297675788294",
+					"display_url": "twitter.com/Nein_Danke_/st…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 197697940,
+			"id_str": "197697940",
+			"name": "푸칡,권보송, Kwon BoSong",
+			"screen_name": "haniruri",
+			"location": "Ilsan, Korea",
+			"description": "리듬게임 조아함/슈팅게임 음악 좋아함/불편한 트윗 아주 많이 함/제가 불편하면 블락뮤트언팔 자유롭게 해주세요 저도 불편하면 바로 언팔합니다/안티페미 및 소수자 혐오발언이 과도하면 언팔 및 차단",
+			"url": "https://t.co/liLUJoqRJP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/liLUJoqRJP",
+							"expanded_url": "https://www.youtube.com/channel/UCOGicspnL3Kcwo-2BWmcpbg",
+							"display_url": "youtube.com/channel/UCOGic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 869,
+			"friends_count": 811,
+			"listed_count": 29,
+			"created_at": "Sat Oct 02 05:59:52 +0000 2010",
+			"favourites_count": 2377,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 396374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207439728619876352/p3iZD9zr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207439728619876352/p3iZD9zr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197697940/1544663325",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1364213297675788300,
+		"quoted_status_id_str": "1364213297675788294",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WjISO8EM4y",
+			"expanded": "https://twitter.com/Nein_Danke_/status/1364213297675788294",
+			"display": "twitter.com/Nein_Danke_/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 23 13:59:30 +0000 2021",
+			"id": 1364213297675788300,
+			"id_str": "1364213297675788294",
+			"full_text": "20대는 ‘보수화’되는 것이 아니다. 반권위주의나 개성, 권리 등의 가치에선 기성세대보다 훨씬 더 예민하다. 다만 20대는 그 어떤 세대보다 신자유주의에 잘 적응하고 있을 뿐이다. 보수화가 아니라 개별화, 가부장적 권위주의가 아니라 능력주의, 반공주의가 아니라 공정경쟁.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				151
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2862210213,
+				"id_str": "2862210213",
+				"name": "Nein_Danke",
+				"screen_name": "Nein_Danke_",
+				"location": "",
+				"description": "테디와 함께 부정성의 춤을.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2362,
+				"friends_count": 271,
+				"listed_count": 23,
+				"created_at": "Wed Nov 05 10:42:11 +0000 2014",
+				"favourites_count": 398,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7496,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/533957456142290945/8qL9lygZ_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/533957456142290945/8qL9lygZ_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2862210213/1415184495",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 425,
+			"favorite_count": 363,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 64,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보수화 능력주의 공정 다 필요없다 2줄이면 요약가능함\n\n\"나만 아니면 돼\"\n\"내가 좋아하는 건 금지될 일이 없을 것입니다\"\n\nhttps://t.co/WjISO8EM4y"
+	},
+	{
 		"created_at": "Thu Feb 25 06:07:02 +0000 2021",
 		"id": 1364819172346130400,
 		"id_str": "1364819172346130433",
