@@ -1,6 +1,663 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 25 19:04:24 +0000 2021",
+		"id": 1364968775867588600,
+		"id_str": "1365014801970122752",
+		"full_text": "안 됩니다.. 집에 더 있으려면 밖에 나가는 하루 동안 한 번에 끝내야 6일 동안 집에 있을 수 있습니다.. \n\nex) 목요일에 병원, 미용실, 장 보기, 약속 1, 약속 2 https://t.co/5Lyf4pC5vi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5Lyf4pC5vi",
+					"expanded_url": "https://twitter.com/iamkimgosu/status/1364797178409934853",
+					"display_url": "twitter.com/iamkimgosu/sta…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2980101246,
+			"id_str": "2980101246",
+			"name": "inseul인슬",
+			"screen_name": "_inseul",
+			"location": "대한민국",
+			"description": "인문학 블로그(휴). 정의(正義), 이성(理性), 탐구(探究), 관찰(觀察), 사색(思索)/ 오늘도 나의 모든 인연에게 축복을. 그리고 이들에게 무한한 용기와 사랑을 / 나의 일상이 누군가의 동경이 되도록 /pump it up Advanced LV.4/F41.2/프로필 본인 맞습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 122,
+			"friends_count": 519,
+			"listed_count": 2,
+			"created_at": "Tue Jan 13 17:02:12 +0000 2015",
+			"favourites_count": 41244,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1275477477855358981/mY-6G-hr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275477477855358981/mY-6G-hr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2980101246/1483317343",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1364797178409934800,
+		"quoted_status_id_str": "1364797178409934853",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5Lyf4pC5vi",
+			"expanded": "https://twitter.com/iamkimgosu/status/1364797178409934853",
+			"display": "twitter.com/iamkimgosu/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 25 04:39:38 +0000 2021",
+			"id": 1364797178409934800,
+			"id_str": "1364797178409934853",
+			"full_text": "나 진짜 집순이인거같아 ㅋㅋㅋ 완전 약속스케줄 똑같아 https://t.co/e0spbSrNAI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				29
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1364797174073024500,
+						"id_str": "1364797174073024513",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/EvC7zH8UYAEnbY7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EvC7zH8UYAEnbY7.jpg",
+						"url": "https://t.co/e0spbSrNAI",
+						"display_url": "pic.twitter.com/e0spbSrNAI",
+						"expanded_url": "https://twitter.com/iamkimgosu/status/1364797178409934853/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1143,
+								"h": 1464,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 531,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 937,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1364797174073024500,
+						"id_str": "1364797174073024513",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/EvC7zH8UYAEnbY7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EvC7zH8UYAEnbY7.jpg",
+						"url": "https://t.co/e0spbSrNAI",
+						"display_url": "pic.twitter.com/e0spbSrNAI",
+						"expanded_url": "https://twitter.com/iamkimgosu/status/1364797178409934853/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1143,
+								"h": 1464,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 531,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 937,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1364797174060441600,
+						"id_str": "1364797174060441602",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/EvC7zH5UYAIzEVq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EvC7zH5UYAIzEVq.jpg",
+						"url": "https://t.co/e0spbSrNAI",
+						"display_url": "pic.twitter.com/e0spbSrNAI",
+						"expanded_url": "https://twitter.com/iamkimgosu/status/1364797178409934853/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 506,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 892,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1137,
+								"h": 1529,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 987925438356897800,
+				"id_str": "987925438356897792",
+				"name": "김고수",
+				"screen_name": "iamkimgosu",
+				"location": "",
+				"description": "와플대학 휴학중 59년생",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6843,
+				"friends_count": 278,
+				"listed_count": 26,
+				"created_at": "Sun Apr 22 05:25:54 +0000 2018",
+				"favourites_count": 9108,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 37443,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1361612452337655809/JpthTWqW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361612452337655809/JpthTWqW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/987925438356897792/1610899228",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4569,
+			"favorite_count": 1990,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안 됩니다.. 집에 더 있으려면 밖에 나가는 하루 동안 한 번에 끝내야 6일 동안 집에 있을 수 있습니다.. \n\nex) 목요일에 병원, 미용실, 장 보기, 약속 1, 약속 2 https://t.co/5Lyf4pC5vi"
+	},
+	{
+		"created_at": "Thu Feb 25 19:03:26 +0000 2021",
+		"id": 1364797178409934800,
+		"id_str": "1365014562014040067",
+		"full_text": "나 진짜 집순이인거같아 ㅋㅋㅋ 완전 약속스케줄 똑같아 https://t.co/e0spbSrNAI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1364797174073024500,
+					"id_str": "1364797174073024513",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EvC7zH8UYAEnbY7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvC7zH8UYAEnbY7.jpg",
+					"url": "https://t.co/e0spbSrNAI",
+					"display_url": "pic.twitter.com/e0spbSrNAI",
+					"expanded_url": "https://twitter.com/iamkimgosu/status/1364797178409934853/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1143,
+							"h": 1464,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 531,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 937,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1364797174073024500,
+					"id_str": "1364797174073024513",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EvC7zH8UYAEnbY7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvC7zH8UYAEnbY7.jpg",
+					"url": "https://t.co/e0spbSrNAI",
+					"display_url": "pic.twitter.com/e0spbSrNAI",
+					"expanded_url": "https://twitter.com/iamkimgosu/status/1364797178409934853/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1143,
+							"h": 1464,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 531,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 937,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1364797174060441600,
+					"id_str": "1364797174060441602",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EvC7zH5UYAIzEVq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvC7zH5UYAIzEVq.jpg",
+					"url": "https://t.co/e0spbSrNAI",
+					"display_url": "pic.twitter.com/e0spbSrNAI",
+					"expanded_url": "https://twitter.com/iamkimgosu/status/1364797178409934853/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 506,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 892,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1137,
+							"h": 1529,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 987925438356897800,
+			"id_str": "987925438356897792",
+			"name": "김고수",
+			"screen_name": "iamkimgosu",
+			"location": "",
+			"description": "와플대학 휴학중 59년생",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6843,
+			"friends_count": 278,
+			"listed_count": 26,
+			"created_at": "Sun Apr 22 05:25:54 +0000 2018",
+			"favourites_count": 9108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1361612452337655809/JpthTWqW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361612452337655809/JpthTWqW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/987925438356897792/1610899228",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4569,
+		"favorite_count": 1990,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나 진짜 집순이인거같아 ㅋㅋㅋ 완전 약속스케줄 똑같아 https://t.co/e0spbSrNAI"
+	},
+	{
+		"created_at": "Thu Feb 25 18:56:01 +0000 2021",
+		"id": 981542839103324200,
+		"id_str": "1365012695234187265",
+		"full_text": "케모노 프렌즈의 매력은 바로 이 (그에 대한 긍정/부정의 생각을 할 필요가 없이) 전제(길들여짐)에서 벗어나 있는 상태에서 이야기가 전개되며, 한편으로는 상기시켰던 것에 있지 않았을까.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 981540613773389800,
+		"in_reply_to_status_id_str": "981540613773389827",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 99,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3478,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "케모노 프렌즈의 매력은 바로 이 (그에 대한 긍정/부정의 생각을 할 필요가 없이) 전제(길들여짐)에서 벗어나 있는 상태에서 이야기가 전개되며, 한편으로는 상기시켰던 것에 있지 않았을까."
+	},
+	{
+		"created_at": "Thu Feb 25 18:55:52 +0000 2021",
+		"id": 981540613773389800,
+		"id_str": "1365012654046081024",
+		"full_text": "경마장. 동물원. 울타리 안의 경쟁 시스템. 송곳니를 뽑아내고 야만을 배제하는 문명화의 울타리. 그리고 그 안의 정상-유해하지 않은- 성원을 만들어내는 구성력. 여기에 맞닿아 있는 것이 바로 모에화.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 981539371416420400,
+		"in_reply_to_status_id_str": "981539371416420353",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 99,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3478,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "경마장. 동물원. 울타리 안의 경쟁 시스템. 송곳니를 뽑아내고 야만을 배제하는 문명화의 울타리. 그리고 그 안의 정상-유해하지 않은- 성원을 만들어내는 구성력. 여기에 맞닿아 있는 것이 바로 모에화."
+	},
+	{
 		"created_at": "Thu Feb 25 08:21:14 +0000 2021",
 		"id": 1364852944647065600,
 		"id_str": "1364852944647065604",
