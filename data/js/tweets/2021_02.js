@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 28 02:55:14 +0000 2021",
+		"id": 1365858069763133400,
+		"id_str": "1365858069763133444",
+		"full_text": "남성 호모소셜만 비판되는데, 방향성이 다를 뿐이지 여성 집단이 어떤 면에선 더 심하기도 해요.\nhttps://t.co/DZif2KHlE1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DZif2KHlE1",
+					"expanded_url": "https://twitter.com/chetdata/status/1364995489762959365?s=19",
+					"display_url": "twitter.com/chetdata/statu…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 99,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13345,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1364995489762959400,
+		"quoted_status_id_str": "1364995489762959365",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DZif2KHlE1",
+			"expanded": "https://twitter.com/chetdata/status/1364995489762959365?s=19",
+			"display": "twitter.com/chetdata/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 25 17:47:39 +0000 2021",
+			"id": 1364995489762959400,
+			"id_str": "1364995489762959365",
+			"full_text": "이거 관련해서 최근에 봤던 흥미로운 글: 남성 동성사회 안에서 완전무결한 남성으로 존재하려면 남성성을 끊임없이 증명해야 하고 그 증명수단은 주로 혐오표출로 나타난다는 점 https://t.co/nIqRCmPr9n",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				94
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nIqRCmPr9n",
+						"expanded_url": "https://twitter.com/medbloom/status/1364892363613609988",
+						"display_url": "twitter.com/medbloom/statu…",
+						"indices": [
+							95,
+							118
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1361411047819677700,
+				"id_str": "1361411047819677696",
+				"name": "쳇 데이터",
+				"screen_name": "chetdata",
+				"location": "",
+				"description": "대머리때리는 소리는 넓은 의미의 스네어일까요??",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5,
+				"friends_count": 1,
+				"listed_count": 0,
+				"created_at": "Mon Feb 15 20:24:31 +0000 2021",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1361560507270922240/b2Nd2Gbe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361560507270922240/b2Nd2Gbe_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1364892363613610000,
+			"quoted_status_id_str": "1364892363613609988",
+			"quoted_status_permalink": {
+				"url": "https://t.co/nIqRCmPr9n",
+				"expanded": "https://twitter.com/medbloom/status/1364892363613609988",
+				"display": "twitter.com/medbloom/statu…"
+			},
+			"retweet_count": 6023,
+			"favorite_count": 1525,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "남성 호모소셜만 비판되는데, 방향성이 다를 뿐이지 여성 집단이 어떤 면에선 더 심하기도 해요.\nhttps://t.co/DZif2KHlE1"
+	},
+	{
 		"created_at": "Thu Feb 25 21:41:58 +0000 2021",
 		"id": 1365054455385903000,
 		"id_str": "1365054455385903111",
