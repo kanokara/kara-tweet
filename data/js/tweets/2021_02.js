@@ -1,6 +1,384 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 28 06:39:09 +0000 2021",
+		"id": 1357097323961094100,
+		"id_str": "1365914419020980224",
+		"full_text": "현재 많은 나라들이 이 문제에 걸려있다 보임. 성장을 하더라도 새로운 장소에서 새로운 '기회'를 주는 성장이 적다보니, 기존의 장소에서 살아남을 수 있는 사람만 살아남고 나머지는 소외되는 현상. \n\n복지국가들도 정치불안이 생기는 이유는 복지가 적기 때문이 아님. 청년 실업률이 솟는게 문제.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1357095236393029600,
+		"in_reply_to_status_id_str": "1357095236393029632",
+		"in_reply_to_user_id": 54579208,
+		"in_reply_to_user_id_str": "54579208",
+		"in_reply_to_screen_name": "cfr0g",
+		"user": {
+			"id": 54579208,
+			"id_str": "54579208",
+			"name": "괴골 [개물]",
+			"screen_name": "cfr0g",
+			"location": "",
+			"description": "데이터나 과학 이야기 가끔.",
+			"url": "https://t.co/0FD2Vy3fQW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0FD2Vy3fQW",
+							"expanded_url": "http://blog.naver.com/datafr0g",
+							"display_url": "blog.naver.com/datafr0g",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5422,
+			"friends_count": 163,
+			"listed_count": 112,
+			"created_at": "Tue Jul 07 15:30:26 +0000 2009",
+			"favourites_count": 644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "195679",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54579208/1402586925",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "현재 많은 나라들이 이 문제에 걸려있다 보임. 성장을 하더라도 새로운 장소에서 새로운 '기회'를 주는 성장이 적다보니, 기존의 장소에서 살아남을 수 있는 사람만 살아남고 나머지는 소외되는 현상. \n\n복지국가들도 정치불안이 생기는 이유는 복지가 적기 때문이 아님. 청년 실업률이 솟는게 문제."
+	},
+	{
+		"created_at": "Sun Feb 28 06:39:08 +0000 2021",
+		"id": 1357095236393029600,
+		"id_str": "1365914413077721091",
+		"full_text": "서울에서 경제활동을 하지 않는 노년층을 어떻게든 시 외곽으로 유도하고 도시발전을 더 유도하는 것도 방법이겠으나, 수명연장등으로 노년층이 쉽게 자산을 처분하지 않는 경향이 보이면서 그것도 녹록치 않은 상태.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1357094624167297000,
+		"in_reply_to_status_id_str": "1357094624167297026",
+		"in_reply_to_user_id": 54579208,
+		"in_reply_to_user_id_str": "54579208",
+		"in_reply_to_screen_name": "cfr0g",
+		"user": {
+			"id": 54579208,
+			"id_str": "54579208",
+			"name": "괴골 [개물]",
+			"screen_name": "cfr0g",
+			"location": "",
+			"description": "데이터나 과학 이야기 가끔.",
+			"url": "https://t.co/0FD2Vy3fQW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0FD2Vy3fQW",
+							"expanded_url": "http://blog.naver.com/datafr0g",
+							"display_url": "blog.naver.com/datafr0g",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5422,
+			"friends_count": 163,
+			"listed_count": 112,
+			"created_at": "Tue Jul 07 15:30:26 +0000 2009",
+			"favourites_count": 644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "195679",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54579208/1402586925",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "서울에서 경제활동을 하지 않는 노년층을 어떻게든 시 외곽으로 유도하고 도시발전을 더 유도하는 것도 방법이겠으나, 수명연장등으로 노년층이 쉽게 자산을 처분하지 않는 경향이 보이면서 그것도 녹록치 않은 상태."
+	},
+	{
+		"created_at": "Sun Feb 28 06:38:50 +0000 2021",
+		"id": 1357094624167297000,
+		"id_str": "1365914339748630530",
+		"full_text": "그리고 마찬가지 맥락으로 새로운 도시의 성장은, 이주 여력이 더 많은 젊은 세대에게 유리함. 그래서 지방도시발전은 성장정책이자 젊은층을 위한 정책에 가까운데, 요새보면 젊은층이 지방발전의 효용을 더 의심하는 경향이 보이는 거 같긴 함.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1357093532167639000,
+		"in_reply_to_status_id_str": "1357093532167639040",
+		"in_reply_to_user_id": 54579208,
+		"in_reply_to_user_id_str": "54579208",
+		"in_reply_to_screen_name": "cfr0g",
+		"user": {
+			"id": 54579208,
+			"id_str": "54579208",
+			"name": "괴골 [개물]",
+			"screen_name": "cfr0g",
+			"location": "",
+			"description": "데이터나 과학 이야기 가끔.",
+			"url": "https://t.co/0FD2Vy3fQW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0FD2Vy3fQW",
+							"expanded_url": "http://blog.naver.com/datafr0g",
+							"display_url": "blog.naver.com/datafr0g",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5422,
+			"friends_count": 163,
+			"listed_count": 112,
+			"created_at": "Tue Jul 07 15:30:26 +0000 2009",
+			"favourites_count": 644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "195679",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54579208/1402586925",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그리고 마찬가지 맥락으로 새로운 도시의 성장은, 이주 여력이 더 많은 젊은 세대에게 유리함. 그래서 지방도시발전은 성장정책이자 젊은층을 위한 정책에 가까운데, 요새보면 젊은층이 지방발전의 효용을 더 의심하는 경향이 보이는 거 같긴 함."
+	},
+	{
+		"created_at": "Sun Feb 28 06:20:42 +0000 2021",
+		"id": 1365909774122905600,
+		"id_str": "1365909774122905605",
+		"full_text": "레이어를 겹쳐보며 국토의 실제 면적을 비교해볼 수 있는 사이트. 조작해보면 지도상의 남한은 그 크기가 매우 왜곡되었단 사실을 알 수 있어요.\nhttps://t.co/reghjbckfm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/reghjbckfm",
+					"expanded_url": "https://thetruesize.com",
+					"display_url": "thetruesize.com",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1365907498985681000,
+		"in_reply_to_status_id_str": "1365907498985680898",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 99,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레이어를 겹쳐보며 국토의 실제 면적을 비교해볼 수 있는 사이트. 조작해보면 지도상의 남한은 그 크기가 매우 왜곡되었단 사실을 알 수 있어요.\nhttps://t.co/reghjbckfm"
+	},
+	{
 		"created_at": "Sun Feb 28 06:05:27 +0000 2021",
 		"id": 1365647313352368000,
 		"id_str": "1365905936011776004",
