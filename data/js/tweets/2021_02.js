@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 28 06:05:27 +0000 2021",
+		"id": 1365647313352368000,
+		"id_str": "1365905936011776004",
+		"full_text": "수도권 집중현상을 막으려면 각 지역거점들이 서울에 대항할만큼 경쟁력을 가져야하는데, 거점지역이 아닌 낙후지역에 SOC가 조금 더 들어간다고 그 목표를 달성하기는 어렵겠죠. \n\n이걸 경험적으로 알고 있으니 예타면제를 자꾸 활용하게 되는 걸테고요. \n\n패러다임 전환이 필요한 시점 같네요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1365646851093917700,
+		"in_reply_to_status_id_str": "1365646851093917707",
+		"in_reply_to_user_id": 54579208,
+		"in_reply_to_user_id_str": "54579208",
+		"in_reply_to_screen_name": "cfr0g",
+		"user": {
+			"id": 54579208,
+			"id_str": "54579208",
+			"name": "괴골 [개물]",
+			"screen_name": "cfr0g",
+			"location": "",
+			"description": "데이터나 과학 이야기 가끔.",
+			"url": "https://t.co/0FD2Vy3fQW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0FD2Vy3fQW",
+							"expanded_url": "http://blog.naver.com/datafr0g",
+							"display_url": "blog.naver.com/datafr0g",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5422,
+			"friends_count": 163,
+			"listed_count": 112,
+			"created_at": "Tue Jul 07 15:30:26 +0000 2009",
+			"favourites_count": 644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "195679",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54579208/1402586925",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "수도권 집중현상을 막으려면 각 지역거점들이 서울에 대항할만큼 경쟁력을 가져야하는데, 거점지역이 아닌 낙후지역에 SOC가 조금 더 들어간다고 그 목표를 달성하기는 어렵겠죠. \n\n이걸 경험적으로 알고 있으니 예타면제를 자꾸 활용하게 되는 걸테고요. \n\n패러다임 전환이 필요한 시점 같네요."
+	},
+	{
+		"created_at": "Sun Feb 28 06:04:36 +0000 2021",
+		"id": 1365522597723525000,
+		"id_str": "1365905723004100613",
+		"full_text": "가덕도 공항의 비용도 다 부산의 지형이 평지와 거리가 멀다는데 비롯함. 평지에 도시를 개발하는 것의 장점을 생각해보면 호남쪽에 눈을 돌릴 때가 되었다 봄.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54579208,
+			"id_str": "54579208",
+			"name": "괴골 [개물]",
+			"screen_name": "cfr0g",
+			"location": "",
+			"description": "데이터나 과학 이야기 가끔.",
+			"url": "https://t.co/0FD2Vy3fQW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0FD2Vy3fQW",
+							"expanded_url": "http://blog.naver.com/datafr0g",
+							"display_url": "blog.naver.com/datafr0g",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5422,
+			"friends_count": 163,
+			"listed_count": 112,
+			"created_at": "Tue Jul 07 15:30:26 +0000 2009",
+			"favourites_count": 644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "195679",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54579208/1402586925",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "가덕도 공항의 비용도 다 부산의 지형이 평지와 거리가 멀다는데 비롯함. 평지에 도시를 개발하는 것의 장점을 생각해보면 호남쪽에 눈을 돌릴 때가 되었다 봄."
+	},
+	{
+		"created_at": "Sun Feb 28 06:03:40 +0000 2021",
+		"id": 1365650437639049200,
+		"id_str": "1365905487686893570",
+		"full_text": "\"지역균형발전\"을 낙후지역 개발 정도로 생각하는 이상 목표를 달성하기는 어려울거 같음. \n\n\"서울의 경쟁자\"를 만든다는 생각으로 접근해야할듯. 낙후지역 발전은 그런 지역거점과 낙후지역의 연결성을 올려서 장기적으로 해결하고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54579208,
+			"id_str": "54579208",
+			"name": "괴골 [개물]",
+			"screen_name": "cfr0g",
+			"location": "",
+			"description": "데이터나 과학 이야기 가끔.",
+			"url": "https://t.co/0FD2Vy3fQW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0FD2Vy3fQW",
+							"expanded_url": "http://blog.naver.com/datafr0g",
+							"display_url": "blog.naver.com/datafr0g",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5422,
+			"friends_count": 163,
+			"listed_count": 112,
+			"created_at": "Tue Jul 07 15:30:26 +0000 2009",
+			"favourites_count": 644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67851,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "195679",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54579208/1402586925",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"지역균형발전\"을 낙후지역 개발 정도로 생각하는 이상 목표를 달성하기는 어려울거 같음. \n\n\"서울의 경쟁자\"를 만든다는 생각으로 접근해야할듯. 낙후지역 발전은 그런 지역거점과 낙후지역의 연결성을 올려서 장기적으로 해결하고."
+	},
+	{
+		"created_at": "Sun Feb 28 05:47:11 +0000 2021",
+		"id": 1365901340518477800,
+		"id_str": "1365901340518477827",
+		"full_text": "국가적 차원에서 부동산-출산율 문제로 인하여 수도권에 문제가 있는 건 맞고, 이를 고쳐야 하는 것도 맞지만, 어떤 당위로써 현 수준의 균등 개발이 한참 부족하다는 건 말도 안 되는 소리예요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1365900147440324600,
+		"in_reply_to_status_id_str": "1365900147440324608",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 99,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "국가적 차원에서 부동산-출산율 문제로 인하여 수도권에 문제가 있는 건 맞고, 이를 고쳐야 하는 것도 맞지만, 어떤 당위로써 현 수준의 균등 개발이 한참 부족하다는 건 말도 안 되는 소리예요."
+	},
+	{
 		"created_at": "Sun Feb 28 02:55:14 +0000 2021",
 		"id": 1365858069763133400,
 		"id_str": "1365858069763133444",
