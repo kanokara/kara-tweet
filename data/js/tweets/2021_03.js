@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Thu Mar 11 15:41:30 +0000 2021",
+		"id": 1370037170119999500,
+		"id_str": "1370037170119999491",
+		"full_text": "@Bloomers_Suki 실제 예전 자료들 보면, 스마트폰 대중화로 주이용 매체가 변하기 전까진 저게 맞는 말이었어요. 00년대에 인터넷에서 남성 여론이 과대표되다가 스마트폰 등장과 함께 여성 여론이 커진 것, 그리고 여성 게이머가 늘어난 것, 전반적 불법 이용률이 대폭 감소한 것과 맥을 같이 하는 거고...",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bloomers_Suki",
+					"name": "씁",
+					"id": 220722651,
+					"id_str": "220722651",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1369941020545196000,
+		"in_reply_to_status_id_str": "1369941020545196038",
+		"in_reply_to_user_id": 220722651,
+		"in_reply_to_user_id_str": "220722651",
+		"in_reply_to_screen_name": "Bloomers_Suki",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 99,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@Bloomers_Suki 실제 예전 자료들 보면, 스마트폰 대중화로 주이용 매체가 변하기 전까진 저게 맞는 말이었어요. 00년대에 인터넷에서 남성 여론이 과대표되다가 스마트폰 등장과 함께 여성 여론이 커진 것, 그리고 여성 게이머가 늘어난 것, 전반적 불법 이용률이 대폭 감소한 것과 맥을 같이 하는 거고..."
+	},
+	{
 		"created_at": "Thu Mar 11 00:10:11 +0000 2021",
 		"id": 1369802798011797500,
 		"id_str": "1369802798011797504",
