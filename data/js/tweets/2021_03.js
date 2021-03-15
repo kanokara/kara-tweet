@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Mon Mar 15 19:10:29 +0000 2021",
+		"id": 1371539316069986300,
+		"id_str": "1371539316069986306",
+		"full_text": "독일 사회에 나치가 등장하여 분열과 갈등을 강제로 누른 것을 저리 이야기하는 건 인과의 역전에 가깝죠.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1371538670528827400,
+		"in_reply_to_status_id_str": "1371538670528827392",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 99,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "독일 사회에 나치가 등장하여 분열과 갈등을 강제로 누른 것을 저리 이야기하는 건 인과의 역전에 가깝죠."
+	},
+	{
+		"created_at": "Mon Mar 15 19:08:06 +0000 2021",
+		"id": 1370990368108339200,
+		"id_str": "1371538715282087938",
+		"full_text": "분열과 갈등을 없애고 단 하나의 목소리를 내자 라고 떠든 곳이 있긴 한데\n\n저기 유럽에 독일, 이탈리아에 있는  파시스트라고 https://t.co/zQ0N1rUm6z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zQ0N1rUm6z",
+					"expanded_url": "https://twitter.com/KBSnews/status/1370987862498320385",
+					"display_url": "twitter.com/KBSnews/status…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1090545877087707100,
+			"id_str": "1090545877087707136",
+			"name": "안우울한대학원생",
+			"screen_name": "aWtYfkTMnIkIBo8",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1478,
+			"friends_count": 185,
+			"listed_count": 6,
+			"created_at": "Wed Jan 30 09:42:53 +0000 2019",
+			"favourites_count": 28364,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1321002487935950848/SpX3dcW2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1321002487935950848/SpX3dcW2_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1370987862498320400,
+		"quoted_status_id_str": "1370987862498320385",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zQ0N1rUm6z",
+			"expanded": "https://twitter.com/KBSnews/status/1370987862498320385",
+			"display": "twitter.com/KBSnews/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 14 06:39:12 +0000 2021",
+			"id": 1370987862498320400,
+			"id_str": "1370987862498320385",
+			"full_text": "“전문가 89%, 한국 분열·갈등 심각”…응답자 63% “정치적 원인” #KBS뉴스 #KBS\nhttps://t.co/ilP7sRHiKM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				75
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "KBS뉴스",
+						"indices": [
+							40,
+							46
+						]
+					},
+					{
+						"text": "KBS",
+						"indices": [
+							47,
+							51
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ilP7sRHiKM",
+						"expanded_url": "http://news.kbs.co.kr/news/view.do?ncd=5138474",
+						"display_url": "news.kbs.co.kr/news/view.do?n…",
+						"indices": [
+							52,
+							75
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 164509454,
+				"id_str": "164509454",
+				"name": "KBS 뉴스",
+				"screen_name": "KBSnews",
+				"location": "seoul korea",
+				"description": "KBS뉴스는 시청자 여러분과 함께 만들어 갑니다. \n뉴스제보는 카카오톡, KBS뉴스앱 또는 kbs1234@kbs.co.kr로 전해주세요.",
+				"url": "https://t.co/W00bCvFZZ0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/W00bCvFZZ0",
+								"expanded_url": "https://www.youtube.com/newskbs",
+								"display_url": "youtube.com/newskbs",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 438904,
+				"friends_count": 105701,
+				"listed_count": 4611,
+				"created_at": "Fri Jul 09 01:51:43 +0000 2010",
+				"favourites_count": 717,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 153303,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFCC4D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1250591183543271424/fK5Hq8NW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250591183543271424/fK5Hq8NW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/164509454/1593418705",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 206,
+		"favorite_count": 95,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "분열과 갈등을 없애고 단 하나의 목소리를 내자 라고 떠든 곳이 있긴 한데\n\n저기 유럽에 독일, 이탈리아에 있는  파시스트라고 https://t.co/zQ0N1rUm6z"
+	},
+	{
 		"created_at": "Mon Mar 15 10:25:04 +0000 2021",
 		"id": 1370237674745778200,
 		"id_str": "1371407090544123909",
