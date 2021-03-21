@@ -1,6 +1,521 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Sun Mar 21 00:09:03 +0000 2021",
+		"id": 1373310002283171800,
+		"id_str": "1373426392075882497",
+		"full_text": "이와 관련하여 &lt;아메토라&gt;에서 패션에 그만큼 집착하지만 문화와 패션이 연계되어 있지 않고 부유할 뿐이며 패션이 생활 방식이라기보다 놀이를 표현하는 방식이 됐다고 지적하며 “사회는 나중에 깨끗이 치워버리고 직장 면접을 보러 가는 한도 안에서, 10대들이 서브 컬처 룩에 빠지는 걸 허락했다” https://t.co/ywym7QXHqv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1373309995073212400,
+					"id_str": "1373309995073212418",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/Ew76KhbVEAIWiwE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ew76KhbVEAIWiwE.jpg",
+					"url": "https://t.co/ywym7QXHqv",
+					"display_url": "pic.twitter.com/ywym7QXHqv",
+					"expanded_url": "https://twitter.com/avecalice/status/1373310002283171840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1712,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1003,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 568,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1373309995073212400,
+					"id_str": "1373309995073212418",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/Ew76KhbVEAIWiwE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ew76KhbVEAIWiwE.jpg",
+					"url": "https://t.co/ywym7QXHqv",
+					"display_url": "pic.twitter.com/ywym7QXHqv",
+					"expanded_url": "https://twitter.com/avecalice/status/1373310002283171840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1712,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1003,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 568,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1373309993261273000,
+		"in_reply_to_status_id_str": "1373309993261273088",
+		"in_reply_to_user_id": 107911969,
+		"in_reply_to_user_id_str": "107911969",
+		"in_reply_to_screen_name": "avecalice",
+		"user": {
+			"id": 107911969,
+			"id_str": "107911969",
+			"name": "Kimmy",
+			"screen_name": "avecalice",
+			"location": "",
+			"description": "갈비뼈를 잘 닫자.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4074,
+			"friends_count": 245,
+			"listed_count": 29,
+			"created_at": "Sun Jan 24 05:04:21 +0000 2010",
+			"favourites_count": 19382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1300965749574389761/iMdE1Y5J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300965749574389761/iMdE1Y5J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/107911969/1596635381",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이와 관련하여 &lt;아메토라&gt;에서 패션에 그만큼 집착하지만 문화와 패션이 연계되어 있지 않고 부유할 뿐이며 패션이 생활 방식이라기보다 놀이를 표현하는 방식이 됐다고 지적하며 “사회는 나중에 깨끗이 치워버리고 직장 면접을 보러 가는 한도 안에서, 10대들이 서브 컬처 룩에 빠지는 걸 허락했다” https://t.co/ywym7QXHqv"
+	},
+	{
+		"created_at": "Sun Mar 21 00:08:58 +0000 2021",
+		"id": 1373309993261273000,
+		"id_str": "1373426372907999236",
+		"full_text": "에서 펑크스타일이나 문신, 화려한 화장 등의 독특한 복장을 한 일군의 청년들이 모이는 걸 보고 이 사람들을 연구 주제로 삼아서 튀는 외면으로 표현하려는 게 뭔지 조사했는데 사실 주의주장이 따로 있는 것도 없고 가치관도 보수적이고 별 차이가 없더라는 다소 김 빠지는 결과가 나왔단 거였음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1373309991776440300,
+		"in_reply_to_status_id_str": "1373309991776440324",
+		"in_reply_to_user_id": 107911969,
+		"in_reply_to_user_id_str": "107911969",
+		"in_reply_to_screen_name": "avecalice",
+		"user": {
+			"id": 107911969,
+			"id_str": "107911969",
+			"name": "Kimmy",
+			"screen_name": "avecalice",
+			"location": "",
+			"description": "갈비뼈를 잘 닫자.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4074,
+			"friends_count": 245,
+			"listed_count": 29,
+			"created_at": "Sun Jan 24 05:04:21 +0000 2010",
+			"favourites_count": 19382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1300965749574389761/iMdE1Y5J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300965749574389761/iMdE1Y5J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/107911969/1596635381",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "에서 펑크스타일이나 문신, 화려한 화장 등의 독특한 복장을 한 일군의 청년들이 모이는 걸 보고 이 사람들을 연구 주제로 삼아서 튀는 외면으로 표현하려는 게 뭔지 조사했는데 사실 주의주장이 따로 있는 것도 없고 가치관도 보수적이고 별 차이가 없더라는 다소 김 빠지는 결과가 나왔단 거였음."
+	},
+	{
+		"created_at": "Sun Mar 21 00:08:50 +0000 2021",
+		"id": 1373307104035926000,
+		"id_str": "1373426336883085315",
+		"full_text": "W. 데이비드 막스의 &lt;아메토라&gt; 정말 여러모로 흥미로운 책이었음. 패전 이후 20세기 후반 일본의 ‘아메리칸 트래디셔널’의 형성을 남성패션을 중심으로 고찰한 책인데 사회학자가 이걸 읽으면 읽어낼 컨텍스트도 꽤 많지 않을까 싶은. 80-90년대 일본의 풍요로움과 물질주의를 해적판과 약간의 시차를",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 107911969,
+			"id_str": "107911969",
+			"name": "Kimmy",
+			"screen_name": "avecalice",
+			"location": "",
+			"description": "갈비뼈를 잘 닫자.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4074,
+			"friends_count": 245,
+			"listed_count": 29,
+			"created_at": "Sun Jan 24 05:04:21 +0000 2010",
+			"favourites_count": 19382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1300965749574389761/iMdE1Y5J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300965749574389761/iMdE1Y5J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/107911969/1596635381",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "W. 데이비드 막스의 &lt;아메토라&gt; 정말 여러모로 흥미로운 책이었음. 패전 이후 20세기 후반 일본의 ‘아메리칸 트래디셔널’의 형성을 남성패션을 중심으로 고찰한 책인데 사회학자가 이걸 읽으면 읽어낼 컨텍스트도 꽤 많지 않을까 싶은. 80-90년대 일본의 풍요로움과 물질주의를 해적판과 약간의 시차를"
+	},
+	{
+		"created_at": "Sat Mar 20 23:57:31 +0000 2021",
+		"id": 1372847097339281400,
+		"id_str": "1373423489915310080",
+		"full_text": "젊은 층이 뉴미디어에 훨씬 익숙하고 적극적으로 쓴다는게 이유 같음. \n\n일베나, ISIS 사례를 보면 핵심 고리가 뉴미디어임. 경험적으로도 좀 아귀가 맞아들어가는 면이 있음.\n\n물론 나이든 층도 뉴미디어를 적극적으로 수용하면 비슷한 양상을 보이긴 함.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1372845114641420300,
+		"in_reply_to_status_id_str": "1372845114641420291",
+		"in_reply_to_user_id": 54579208,
+		"in_reply_to_user_id_str": "54579208",
+		"in_reply_to_screen_name": "cfr0g",
+		"user": {
+			"id": 54579208,
+			"id_str": "54579208",
+			"name": "괴골 [개물]",
+			"screen_name": "cfr0g",
+			"location": "",
+			"description": "데이터나 과학 이야기 가끔.",
+			"url": "https://t.co/0FD2Vy3fQW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0FD2Vy3fQW",
+							"expanded_url": "http://blog.naver.com/datafr0g",
+							"display_url": "blog.naver.com/datafr0g",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5470,
+			"friends_count": 163,
+			"listed_count": 112,
+			"created_at": "Tue Jul 07 15:30:26 +0000 2009",
+			"favourites_count": 644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "195679",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54579208/1402586925",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 152,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "젊은 층이 뉴미디어에 훨씬 익숙하고 적극적으로 쓴다는게 이유 같음. \n\n일베나, ISIS 사례를 보면 핵심 고리가 뉴미디어임. 경험적으로도 좀 아귀가 맞아들어가는 면이 있음.\n\n물론 나이든 층도 뉴미디어를 적극적으로 수용하면 비슷한 양상을 보이긴 함."
+	},
+	{
+		"created_at": "Sat Mar 20 23:57:30 +0000 2021",
+		"id": 1372845114641420300,
+		"id_str": "1373423483833610240",
+		"full_text": "단순히 젊은 시기에 혐오정서에 물들어있다가, 나이먹으면서 정신차리는 패턴은 아님. 거의 모든 나라에서 혐오범죄율은 증가중. 혐오정서가 윤리의식의 모든 것을 말해주진 않지만, 강력한 신호긴 함.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1372844440427974700,
+		"in_reply_to_status_id_str": "1372844440427974656",
+		"in_reply_to_user_id": 54579208,
+		"in_reply_to_user_id_str": "54579208",
+		"in_reply_to_screen_name": "cfr0g",
+		"user": {
+			"id": 54579208,
+			"id_str": "54579208",
+			"name": "괴골 [개물]",
+			"screen_name": "cfr0g",
+			"location": "",
+			"description": "데이터나 과학 이야기 가끔.",
+			"url": "https://t.co/0FD2Vy3fQW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0FD2Vy3fQW",
+							"expanded_url": "http://blog.naver.com/datafr0g",
+							"display_url": "blog.naver.com/datafr0g",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5470,
+			"friends_count": 163,
+			"listed_count": 112,
+			"created_at": "Tue Jul 07 15:30:26 +0000 2009",
+			"favourites_count": 644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "195679",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54579208/1402586925",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 200,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "단순히 젊은 시기에 혐오정서에 물들어있다가, 나이먹으면서 정신차리는 패턴은 아님. 거의 모든 나라에서 혐오범죄율은 증가중. 혐오정서가 윤리의식의 모든 것을 말해주진 않지만, 강력한 신호긴 함."
+	},
+	{
 		"created_at": "Sat Mar 20 15:40:38 +0000 2021",
 		"id": 1373298443737735200,
 		"id_str": "1373298443737735172",
