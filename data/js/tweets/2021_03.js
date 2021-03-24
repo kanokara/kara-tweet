@@ -1,6 +1,1889 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Wed Mar 24 23:06:38 +0000 2021",
+		"id": 1374860235475624000,
+		"id_str": "1374860235475623936",
+		"full_text": "그 공기가 좀 더 큰, 메인스트림의 그것조차 아닌 것이 문제고, 아키텍처의 변화로 인해 종래의 진지한 태도는 잠식되고, 도태되고. 가장 천박한 것으로.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1374859701263900700,
+		"in_reply_to_status_id_str": "1374859701263900676",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 99,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3530,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13458,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "그 공기가 좀 더 큰, 메인스트림의 그것조차 아닌 것이 문제고, 아키텍처의 변화로 인해 종래의 진지한 태도는 잠식되고, 도태되고. 가장 천박한 것으로."
+	},
+	{
+		"created_at": "Wed Mar 24 23:04:31 +0000 2021",
+		"id": 1374859701263900700,
+		"id_str": "1374859701263900676",
+		"full_text": "밈적 사고라는 말 자체가 본래의 밈의 의미에서 이미 동떨어진 것이고... 그 개념이 가리키는 바의 진짜 문제는 이 부분이네요. 지나친 '공기 읽어'.\nhttps://t.co/a4lWVC093p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a4lWVC093p",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1374475546768248841?s=19",
+					"display_url": "twitter.com/EmptyKnK/statu…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 99,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3530,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13458,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1374475546768248800,
+		"quoted_status_id_str": "1374475546768248841",
+		"quoted_status_permalink": {
+			"url": "https://t.co/a4lWVC093p",
+			"expanded": "https://twitter.com/EmptyKnK/status/1374475546768248841?s=19",
+			"display": "twitter.com/EmptyKnK/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 23 21:38:01 +0000 2021",
+			"id": 1374475546768248800,
+			"id_str": "1374475546768248841",
+			"full_text": "웃음, 유머, 인커뮤니케이션의 시대.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				20
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3255599052,
+				"id_str": "3255599052",
+				"name": "Solitude [동결:11/20~]",
+				"screen_name": "EmptyKnK",
+				"location": "",
+				"description": "탄식하라,  덧없이 흩어지고 말리라",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": true,
+				"followers_count": 8,
+				"friends_count": 99,
+				"listed_count": 0,
+				"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+				"favourites_count": 3530,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13458,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "밈적 사고라는 말 자체가 본래의 밈의 의미에서 이미 동떨어진 것이고... 그 개념이 가리키는 바의 진짜 문제는 이 부분이네요. 지나친 '공기 읽어'.\nhttps://t.co/a4lWVC093p"
+	},
+	{
+		"created_at": "Wed Mar 24 23:01:20 +0000 2021",
+		"id": 1374723849204297700,
+		"id_str": "1374858902034997251",
+		"full_text": "'반지성'보다는 언어들의 고립과 소통의 어려움을 이야기하는 것이 좀 더 낫다고 생각하는데, 그런 일반적인 소통을 가능하게 해주는 '보편 언어' 로서의 지성이 다 포괄하고 파악할 수 없는 커뮤니티들이 은어 또는 용어를 통해 서로를 식별하는 언어 체계(또는 세계)를 구축하고 있기 때문이다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1285980561731776500,
+			"id_str": "1285980561731776512",
+			"name": "june 🧃",
+			"screen_name": "hayuwol",
+			"location": "🎛 Iastrazan",
+			"description": "유월댁 grounded",
+			"url": "https://t.co/PH7pB4taPK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PH7pB4taPK",
+							"expanded_url": "http://blog.naver.com/rownrma",
+							"display_url": "blog.naver.com/rownrma",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 158,
+			"friends_count": 131,
+			"listed_count": 1,
+			"created_at": "Wed Jul 22 16:51:09 +0000 2020",
+			"favourites_count": 1116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1285980561731776512/1614628426",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "'반지성'보다는 언어들의 고립과 소통의 어려움을 이야기하는 것이 좀 더 낫다고 생각하는데, 그런 일반적인 소통을 가능하게 해주는 '보편 언어' 로서의 지성이 다 포괄하고 파악할 수 없는 커뮤니티들이 은어 또는 용어를 통해 서로를 식별하는 언어 체계(또는 세계)를 구축하고 있기 때문이다"
+	},
+	{
+		"created_at": "Wed Mar 24 23:01:16 +0000 2021",
+		"id": 1374722432083271700,
+		"id_str": "1374858883391500290",
+		"full_text": "'밈적 사고' 는 동원되는 논리의 복잡성이나 타당성의 지표는 아닌 것 같음. 그보다는 집단 내부 언어의 구사 능력에 대한 검사로 '외지인'을 찾아내고 커뮤니티의 경계를 매순간 찾아내는 과정에서 결정화된 의미망을 따라 순찰하는 것에 가깝다 https://t.co/bX7diBkM4v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bX7diBkM4v",
+					"expanded_url": "https://twitter.com/hayuwol/status/1374671532539084806",
+					"display_url": "twitter.com/hayuwol/status…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1285980561731776500,
+			"id_str": "1285980561731776512",
+			"name": "june 🧃",
+			"screen_name": "hayuwol",
+			"location": "🎛 Iastrazan",
+			"description": "유월댁 grounded",
+			"url": "https://t.co/PH7pB4taPK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PH7pB4taPK",
+							"expanded_url": "http://blog.naver.com/rownrma",
+							"display_url": "blog.naver.com/rownrma",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 158,
+			"friends_count": 131,
+			"listed_count": 1,
+			"created_at": "Wed Jul 22 16:51:09 +0000 2020",
+			"favourites_count": 1116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1285980561731776512/1614628426",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1374671532539084800,
+		"quoted_status_id_str": "1374671532539084806",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bX7diBkM4v",
+			"expanded": "https://twitter.com/hayuwol/status/1374671532539084806",
+			"display": "twitter.com/hayuwol/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 24 10:36:48 +0000 2021",
+			"id": 1374671532539084800,
+			"id_str": "1374671532539084806",
+			"full_text": "새로운 현상처럼 다들 이야기하지만 새로운 현상이 아니라고 생각하기도 하고.. 이런 이야기가 나올때마다 똑같이 말하는 거 같지만 저런 적대적 반응들이 어디서 왜 나오는지가 더 궁금함",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				100
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1285980561731776500,
+				"id_str": "1285980561731776512",
+				"name": "june 🧃",
+				"screen_name": "hayuwol",
+				"location": "🎛 Iastrazan",
+				"description": "유월댁 grounded",
+				"url": "https://t.co/PH7pB4taPK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PH7pB4taPK",
+								"expanded_url": "http://blog.naver.com/rownrma",
+								"display_url": "blog.naver.com/rownrma",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 158,
+				"friends_count": 131,
+				"listed_count": 1,
+				"created_at": "Wed Jul 22 16:51:09 +0000 2020",
+				"favourites_count": 1116,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3941,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1285980561731776512/1614628426",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 6,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'밈적 사고' 는 동원되는 논리의 복잡성이나 타당성의 지표는 아닌 것 같음. 그보다는 집단 내부 언어의 구사 능력에 대한 검사로 '외지인'을 찾아내고 커뮤니티의 경계를 매순간 찾아내는 과정에서 결정화된 의미망을 따라 순찰하는 것에 가깝다 https://t.co/bX7diBkM4v"
+	},
+	{
+		"created_at": "Wed Mar 24 23:01:07 +0000 2021",
+		"id": 1374701262982160400,
+		"id_str": "1374858847735541763",
+		"full_text": "개인의 사회적인 ‘부적절함’에서 유래했을수도 있고. 그리고 이런 것은 “ 물어보기 전까지는 모른다”.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1374701261082091500,
+		"in_reply_to_status_id_str": "1374701261082091521",
+		"in_reply_to_user_id": 1285980561731776500,
+		"in_reply_to_user_id_str": "1285980561731776512",
+		"in_reply_to_screen_name": "hayuwol",
+		"user": {
+			"id": 1285980561731776500,
+			"id_str": "1285980561731776512",
+			"name": "june 🧃",
+			"screen_name": "hayuwol",
+			"location": "🎛 Iastrazan",
+			"description": "유월댁 grounded",
+			"url": "https://t.co/PH7pB4taPK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PH7pB4taPK",
+							"expanded_url": "http://blog.naver.com/rownrma",
+							"display_url": "blog.naver.com/rownrma",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 158,
+			"friends_count": 131,
+			"listed_count": 1,
+			"created_at": "Wed Jul 22 16:51:09 +0000 2020",
+			"favourites_count": 1116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1285980561731776512/1614628426",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "개인의 사회적인 ‘부적절함’에서 유래했을수도 있고. 그리고 이런 것은 “ 물어보기 전까지는 모른다”."
+	},
+	{
+		"created_at": "Wed Mar 24 23:01:04 +0000 2021",
+		"id": 1374701261082091500,
+		"id_str": "1374858832808046592",
+		"full_text": "그리고 그 사람이 사고하는 스타일과 특정 사회적 상황에서 어떻게 말했는가라는 단편적 사실을 즉각적으로 연결시킬수 있는 것도 아님. 이래저래 생각하는 사람이어도 그 상황에서 ‘무난해지기’ 위해 묻어가는 말을 할때가 있고 다른 상황에서는 다르게도 말함.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1285980561731776500,
+			"id_str": "1285980561731776512",
+			"name": "june 🧃",
+			"screen_name": "hayuwol",
+			"location": "🎛 Iastrazan",
+			"description": "유월댁 grounded",
+			"url": "https://t.co/PH7pB4taPK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PH7pB4taPK",
+							"expanded_url": "http://blog.naver.com/rownrma",
+							"display_url": "blog.naver.com/rownrma",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 158,
+			"friends_count": 131,
+			"listed_count": 1,
+			"created_at": "Wed Jul 22 16:51:09 +0000 2020",
+			"favourites_count": 1116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1285980561731776512/1614628426",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그리고 그 사람이 사고하는 스타일과 특정 사회적 상황에서 어떻게 말했는가라는 단편적 사실을 즉각적으로 연결시킬수 있는 것도 아님. 이래저래 생각하는 사람이어도 그 상황에서 ‘무난해지기’ 위해 묻어가는 말을 할때가 있고 다른 상황에서는 다르게도 말함."
+	},
+	{
+		"created_at": "Wed Mar 24 23:00:53 +0000 2021",
+		"id": 1374700089256505300,
+		"id_str": "1374858786775556096",
+		"full_text": "소위 ‘밈적 사고’는 ‘반지성주의에 반대하는’ 인류 지성의 수호자들에게서 (때로는 더 자주) 발견된다고 생각하고 밈에 대해서 접근할때 ‘새로운 매체성에 의해 출현한 새로운 인식 방식’ 이라는 식으로 설명하기보다 내적 합리성을 전제하는 전통적인 접근이 아직 더 나아보임",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1285980561731776500,
+			"id_str": "1285980561731776512",
+			"name": "june 🧃",
+			"screen_name": "hayuwol",
+			"location": "🎛 Iastrazan",
+			"description": "유월댁 grounded",
+			"url": "https://t.co/PH7pB4taPK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PH7pB4taPK",
+							"expanded_url": "http://blog.naver.com/rownrma",
+							"display_url": "blog.naver.com/rownrma",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 158,
+			"friends_count": 131,
+			"listed_count": 1,
+			"created_at": "Wed Jul 22 16:51:09 +0000 2020",
+			"favourites_count": 1116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1285980561731776512/1614628426",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "소위 ‘밈적 사고’는 ‘반지성주의에 반대하는’ 인류 지성의 수호자들에게서 (때로는 더 자주) 발견된다고 생각하고 밈에 대해서 접근할때 ‘새로운 매체성에 의해 출현한 새로운 인식 방식’ 이라는 식으로 설명하기보다 내적 합리성을 전제하는 전통적인 접근이 아직 더 나아보임"
+	},
+	{
+		"created_at": "Wed Mar 24 23:00:26 +0000 2021",
+		"id": 1374699089917481000,
+		"id_str": "1374858675517485057",
+		"full_text": "오히려 그냥 일반적인 사회화와 사회적 의사소통의 방식인건데, 결국 문제 삼는건 점잖지 않은 비공식적인 지식/문화 체계에 의존하고 있다는 사실 뿐임. 근데 그게 2020년대에 ‘인터넷’과 ‘유튜브’ 때문에 새롭게 강화된 현상인가? 새로운 현상이냐고 하면 아니고 강화되었다고 하면 일부분 맞다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1374699088063598600,
+		"in_reply_to_status_id_str": "1374699088063598594",
+		"in_reply_to_user_id": 1285980561731776500,
+		"in_reply_to_user_id_str": "1285980561731776512",
+		"in_reply_to_screen_name": "hayuwol",
+		"user": {
+			"id": 1285980561731776500,
+			"id_str": "1285980561731776512",
+			"name": "june 🧃",
+			"screen_name": "hayuwol",
+			"location": "🎛 Iastrazan",
+			"description": "유월댁 grounded",
+			"url": "https://t.co/PH7pB4taPK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PH7pB4taPK",
+							"expanded_url": "http://blog.naver.com/rownrma",
+							"display_url": "blog.naver.com/rownrma",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 158,
+			"friends_count": 131,
+			"listed_count": 1,
+			"created_at": "Wed Jul 22 16:51:09 +0000 2020",
+			"favourites_count": 1116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1285980561731776512/1614628426",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "오히려 그냥 일반적인 사회화와 사회적 의사소통의 방식인건데, 결국 문제 삼는건 점잖지 않은 비공식적인 지식/문화 체계에 의존하고 있다는 사실 뿐임. 근데 그게 2020년대에 ‘인터넷’과 ‘유튜브’ 때문에 새롭게 강화된 현상인가? 새로운 현상이냐고 하면 아니고 강화되었다고 하면 일부분 맞다."
+	},
+	{
+		"created_at": "Wed Mar 24 23:00:20 +0000 2021",
+		"id": 1374699088063598600,
+		"id_str": "1374858649760243712",
+		"full_text": "다만 그걸 일정한 체계에 의존하기 때문에 지식적이라고 보는건데, 그런 체계들 간의 차이나 공식성에 따른 위계가 없다고 말하면 거짓말임. 그렇지만 그러한 체계를 습득하고 통약에 따라 ‘조건 반사적’으로 말하는게 별로 특별한 행위도 아니고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1374699086222266400,
+		"in_reply_to_status_id_str": "1374699086222266377",
+		"in_reply_to_user_id": 1285980561731776500,
+		"in_reply_to_user_id_str": "1285980561731776512",
+		"in_reply_to_screen_name": "hayuwol",
+		"user": {
+			"id": 1285980561731776500,
+			"id_str": "1285980561731776512",
+			"name": "june 🧃",
+			"screen_name": "hayuwol",
+			"location": "🎛 Iastrazan",
+			"description": "유월댁 grounded",
+			"url": "https://t.co/PH7pB4taPK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PH7pB4taPK",
+							"expanded_url": "http://blog.naver.com/rownrma",
+							"display_url": "blog.naver.com/rownrma",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 158,
+			"friends_count": 131,
+			"listed_count": 1,
+			"created_at": "Wed Jul 22 16:51:09 +0000 2020",
+			"favourites_count": 1116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1285980561731776512/1614628426",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "다만 그걸 일정한 체계에 의존하기 때문에 지식적이라고 보는건데, 그런 체계들 간의 차이나 공식성에 따른 위계가 없다고 말하면 거짓말임. 그렇지만 그러한 체계를 습득하고 통약에 따라 ‘조건 반사적’으로 말하는게 별로 특별한 행위도 아니고."
+	},
+	{
+		"created_at": "Wed Mar 24 23:00:15 +0000 2021",
+		"id": 1374699086222266400,
+		"id_str": "1374858631120789504",
+		"full_text": "또 이야기하고 싶은 점은 ‘저급한’ 언어활동의 특징이라고 이야기되는 습관이 대부분의 커뮤니티에서 동일하게 이루어진다는 건데, 무슨 이야기를 하든 그 커뮤니티에서 자주 경유하는 아이디어가 있고 그 아이디어를 통해 복잡성을 낮추고 논의를 생략하는 건 비슷함.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1285980561731776500,
+			"id_str": "1285980561731776512",
+			"name": "june 🧃",
+			"screen_name": "hayuwol",
+			"location": "🎛 Iastrazan",
+			"description": "유월댁 grounded",
+			"url": "https://t.co/PH7pB4taPK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PH7pB4taPK",
+							"expanded_url": "http://blog.naver.com/rownrma",
+							"display_url": "blog.naver.com/rownrma",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 158,
+			"friends_count": 131,
+			"listed_count": 1,
+			"created_at": "Wed Jul 22 16:51:09 +0000 2020",
+			"favourites_count": 1116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1285980561731776512/1614628426",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "또 이야기하고 싶은 점은 ‘저급한’ 언어활동의 특징이라고 이야기되는 습관이 대부분의 커뮤니티에서 동일하게 이루어진다는 건데, 무슨 이야기를 하든 그 커뮤니티에서 자주 경유하는 아이디어가 있고 그 아이디어를 통해 복잡성을 낮추고 논의를 생략하는 건 비슷함."
+	},
+	{
+		"created_at": "Wed Mar 24 23:00:10 +0000 2021",
+		"id": 1374695317489127400,
+		"id_str": "1374858608102404097",
+		"full_text": "그런 직업적 엄격성을 수행하는 능력을 ‘모두’ 갖고 있어야하나? 그게 시민적 자질인가? 특히 이런 ‘시민성’ 의 ‘결여’를 ‘후진성’의 징후로 설명하는건 일단 사실 관계가 맞지 않고 ‘인간’에 대한 일반적인 주장으로 갑자기 넘어간다는 점에서 부적절하기도 함.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1285980561731776500,
+			"id_str": "1285980561731776512",
+			"name": "june 🧃",
+			"screen_name": "hayuwol",
+			"location": "🎛 Iastrazan",
+			"description": "유월댁 grounded",
+			"url": "https://t.co/PH7pB4taPK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PH7pB4taPK",
+							"expanded_url": "http://blog.naver.com/rownrma",
+							"display_url": "blog.naver.com/rownrma",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 158,
+			"friends_count": 131,
+			"listed_count": 1,
+			"created_at": "Wed Jul 22 16:51:09 +0000 2020",
+			"favourites_count": 1116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1285980561731776512/1614628426",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그런 직업적 엄격성을 수행하는 능력을 ‘모두’ 갖고 있어야하나? 그게 시민적 자질인가? 특히 이런 ‘시민성’ 의 ‘결여’를 ‘후진성’의 징후로 설명하는건 일단 사실 관계가 맞지 않고 ‘인간’에 대한 일반적인 주장으로 갑자기 넘어간다는 점에서 부적절하기도 함."
+	},
+	{
+		"created_at": "Wed Mar 24 23:00:07 +0000 2021",
+		"id": 1374693806486876200,
+		"id_str": "1374858596530319360",
+		"full_text": "정보를 접할때마다 세밀한 결의 차이와 복잡성을 하나씩 따로 검토하는 건 특정 직능 집단이 쌓아올린 문화적 훈련과 습득의 결과고 인식 방식의 변화같은 큰 진단으로 원인을 설명할 문제가 아님. 그런 훈련을 한국의 의무 교육 기관은 일반적으로 제공하고 있지 않고, 대학 학부는 접하는 단계임",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1285980561731776500,
+			"id_str": "1285980561731776512",
+			"name": "june 🧃",
+			"screen_name": "hayuwol",
+			"location": "🎛 Iastrazan",
+			"description": "유월댁 grounded",
+			"url": "https://t.co/PH7pB4taPK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PH7pB4taPK",
+							"expanded_url": "http://blog.naver.com/rownrma",
+							"display_url": "blog.naver.com/rownrma",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 158,
+			"friends_count": 131,
+			"listed_count": 1,
+			"created_at": "Wed Jul 22 16:51:09 +0000 2020",
+			"favourites_count": 1116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1285980561731776512/1614628426",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "정보를 접할때마다 세밀한 결의 차이와 복잡성을 하나씩 따로 검토하는 건 특정 직능 집단이 쌓아올린 문화적 훈련과 습득의 결과고 인식 방식의 변화같은 큰 진단으로 원인을 설명할 문제가 아님. 그런 훈련을 한국의 의무 교육 기관은 일반적으로 제공하고 있지 않고, 대학 학부는 접하는 단계임"
+	},
+	{
+		"created_at": "Wed Mar 24 22:59:40 +0000 2021",
+		"id": 1374674747926048800,
+		"id_str": "1374858484462743562",
+		"full_text": "굳이 말하자면 저런 식으로 공격적으로 말하는 태도도 마찬가지로 '안전권' 내에서 유통되는 '밈화'된 태도이고... 무슨 차이가 있지 않음",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1285980561731776500,
+			"id_str": "1285980561731776512",
+			"name": "june 🧃",
+			"screen_name": "hayuwol",
+			"location": "🎛 Iastrazan",
+			"description": "유월댁 grounded",
+			"url": "https://t.co/PH7pB4taPK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PH7pB4taPK",
+							"expanded_url": "http://blog.naver.com/rownrma",
+							"display_url": "blog.naver.com/rownrma",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 158,
+			"friends_count": 131,
+			"listed_count": 1,
+			"created_at": "Wed Jul 22 16:51:09 +0000 2020",
+			"favourites_count": 1116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1285980561731776512/1614628426",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "굳이 말하자면 저런 식으로 공격적으로 말하는 태도도 마찬가지로 '안전권' 내에서 유통되는 '밈화'된 태도이고... 무슨 차이가 있지 않음"
+	},
+	{
+		"created_at": "Wed Mar 24 22:59:36 +0000 2021",
+		"id": 1374674102208761900,
+		"id_str": "1374858467471581186",
+		"full_text": "'스스로 생각'하지 않고 저런 커뮤니티의 습관으로 대체하는 것을 '반지성주의'로 표현하는 태도에 대한 의문이 있고... 스스로 생각하는 사람이 있기는 한가? 자기가 속한 커뮤니티의 사회적 적절성에 맞춰서 무난한 말을 하는건 어디서나 똑같은",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1285980561731776500,
+			"id_str": "1285980561731776512",
+			"name": "june 🧃",
+			"screen_name": "hayuwol",
+			"location": "🎛 Iastrazan",
+			"description": "유월댁 grounded",
+			"url": "https://t.co/PH7pB4taPK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PH7pB4taPK",
+							"expanded_url": "http://blog.naver.com/rownrma",
+							"display_url": "blog.naver.com/rownrma",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 158,
+			"friends_count": 131,
+			"listed_count": 1,
+			"created_at": "Wed Jul 22 16:51:09 +0000 2020",
+			"favourites_count": 1116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1285980561731776512/1614628426",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "'스스로 생각'하지 않고 저런 커뮤니티의 습관으로 대체하는 것을 '반지성주의'로 표현하는 태도에 대한 의문이 있고... 스스로 생각하는 사람이 있기는 한가? 자기가 속한 커뮤니티의 사회적 적절성에 맞춰서 무난한 말을 하는건 어디서나 똑같은"
+	},
+	{
+		"created_at": "Wed Mar 24 22:59:28 +0000 2021",
+		"id": 1374673172268683300,
+		"id_str": "1374858431178268674",
+		"full_text": "밈은 어쨌거나 경제적으로 축약된 사회적 의사소통인거고... 그렇게 '비사회적'인 것 같지도 않고 오히려 사회성 있는 것으로 받아들여지는 것 같음 저 글에서도 그렇다고 이야기하고..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1285980561731776500,
+			"id_str": "1285980561731776512",
+			"name": "june 🧃",
+			"screen_name": "hayuwol",
+			"location": "🎛 Iastrazan",
+			"description": "유월댁 grounded",
+			"url": "https://t.co/PH7pB4taPK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PH7pB4taPK",
+							"expanded_url": "http://blog.naver.com/rownrma",
+							"display_url": "blog.naver.com/rownrma",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 158,
+			"friends_count": 131,
+			"listed_count": 1,
+			"created_at": "Wed Jul 22 16:51:09 +0000 2020",
+			"favourites_count": 1116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366561785529044992/sohFsxCE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1285980561731776512/1614628426",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "밈은 어쨌거나 경제적으로 축약된 사회적 의사소통인거고... 그렇게 '비사회적'인 것 같지도 않고 오히려 사회성 있는 것으로 받아들여지는 것 같음 저 글에서도 그렇다고 이야기하고.."
+	},
+	{
+		"created_at": "Wed Mar 24 22:59:15 +0000 2021",
+		"id": 1374327336292675600,
+		"id_str": "1374858376316772354",
+		"full_text": "그리고 글이나 말을 해석하고 전체 맥락을 파악하는 능력이 떨어진것같음..\n글이 조금만 길어도 3줄요약좀 이러고 읽기 싫어함\n그냥 길게 말하면 노잼진지선비충인거고 무조건 저기 나오는 밈을 내질러야 하는거임\n맥락파악을 못하고 전혀 안중요한 한군데에만 꽃혀서 달려드는것도 심하다고 생각함 https://t.co/mRwYfL50SS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mRwYfL50SS",
+					"expanded_url": "https://twitter.com/kim_edit/status/1374267674373459969",
+					"display_url": "twitter.com/kim_edit/statu…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1002006493758017500,
+			"id_str": "1002006493758017536",
+			"name": "오몽",
+			"screen_name": "MyD_L_B_RV",
+			"location": "덕질구독계정입니다..그런데이제 다른걸 곁들인",
+			"description": "우리만의 쿨핫스윗럽",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4,
+			"friends_count": 118,
+			"listed_count": 0,
+			"created_at": "Thu May 31 01:58:59 +0000 2018",
+			"favourites_count": 1861,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1360416768729116672/JPWxVr9r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1360416768729116672/JPWxVr9r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1002006493758017536/1609481301",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1374267674373460000,
+		"quoted_status_id_str": "1374267674373459969",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mRwYfL50SS",
+			"expanded": "https://twitter.com/kim_edit/status/1374267674373459969",
+			"display": "twitter.com/kim_edit/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 23 07:52:00 +0000 2021",
+			"id": 1374267674373460000,
+			"id_str": "1374267674373459969",
+			"full_text": "이거 진짜 명문인 거 같음\n성인겜인데 병신 많은 이유 https://t.co/G1ObgT4vPC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				29
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1374267604097851400,
+						"id_str": "1374267604097851395",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/ExJhGtCUYAMPpBx.png",
+						"media_url_https": "https://pbs.twimg.com/media/ExJhGtCUYAMPpBx.png",
+						"url": "https://t.co/G1ObgT4vPC",
+						"display_url": "pic.twitter.com/G1ObgT4vPC",
+						"expanded_url": "https://twitter.com/kim_edit/status/1374267674373459969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 788,
+								"h": 1655,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 324,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 571,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1374267604097851400,
+						"id_str": "1374267604097851395",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/ExJhGtCUYAMPpBx.png",
+						"media_url_https": "https://pbs.twimg.com/media/ExJhGtCUYAMPpBx.png",
+						"url": "https://t.co/G1ObgT4vPC",
+						"display_url": "pic.twitter.com/G1ObgT4vPC",
+						"expanded_url": "https://twitter.com/kim_edit/status/1374267674373459969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 788,
+								"h": 1655,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 324,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 571,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 956686801413988400,
+				"id_str": "956686801413988352",
+				"name": "파워블로그",
+				"screen_name": "kim_edit",
+				"location": "Ma Maison",
+				"description": "성공은 나의 개인기 #T1WIN #Canna",
+				"url": "https://t.co/iUISvxhM8F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iUISvxhM8F",
+								"expanded_url": "https://peing.net/ko/kim_edit",
+								"display_url": "peing.net/ko/kim_edit",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 530,
+				"friends_count": 643,
+				"listed_count": 3,
+				"created_at": "Fri Jan 26 00:34:42 +0000 2018",
+				"favourites_count": 802,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 46719,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1368832244920381440/1IOpMgOI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368832244920381440/1IOpMgOI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/956686801413988352/1615559290",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15640,
+			"favorite_count": 4444,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 164,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그리고 글이나 말을 해석하고 전체 맥락을 파악하는 능력이 떨어진것같음..\n글이 조금만 길어도 3줄요약좀 이러고 읽기 싫어함\n그냥 길게 말하면 노잼진지선비충인거고 무조건 저기 나오는 밈을 내질러야 하는거임\n맥락파악을 못하고 전혀 안중요한 한군데에만 꽃혀서 달려드는것도 심하다고 생각함 https://t.co/mRwYfL50SS"
+	},
+	{
 		"created_at": "Wed Mar 24 01:57:42 +0000 2021",
 		"id": 1374393610871836700,
 		"id_str": "1374540898646642690",
