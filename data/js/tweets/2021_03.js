@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Thu Mar 25 01:39:59 +0000 2021",
+		"id": 1374874842806112300,
+		"id_str": "1374898828445319169",
+		"full_text": "〈추상적〉 근친 교배를 지나치게 겪은 수학 주제는 퇴락할 위험이 있다.\"\n\n틀리지 않는 법 | 조던 엘렌버그, 김명남 저",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1374874841237442600,
+		"in_reply_to_status_id_str": "1374874841237442566",
+		"in_reply_to_user_id": 53149765,
+		"in_reply_to_user_id_str": "53149765",
+		"in_reply_to_screen_name": "jerry0906",
+		"user": {
+			"id": 53149765,
+			"id_str": "53149765",
+			"name": "Jerry",
+			"screen_name": "jerry0906",
+			"location": "Cambridge, MA",
+			"description": "Help people & organizations innovate based on human insights. #아무말",
+			"url": "https://t.co/W8TpQyEBSv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W8TpQyEBSv",
+							"expanded_url": "http://jerryko.org",
+							"display_url": "jerryko.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1923,
+			"friends_count": 199,
+			"listed_count": 28,
+			"created_at": "Thu Jul 02 18:45:07 +0000 2009",
+			"favourites_count": 9283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23886,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695784231402799104/RcZaQLOQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695784231402799104/RcZaQLOQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53149765/1472204366",
+			"profile_link_color": "757575",
+			"profile_sidebar_border_color": "AFD4DB",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "9C9C9C",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "〈추상적〉 근친 교배를 지나치게 겪은 수학 주제는 퇴락할 위험이 있다.\"\n\n틀리지 않는 법 | 조던 엘렌버그, 김명남 저"
+	},
+	{
+		"created_at": "Thu Mar 25 01:39:57 +0000 2021",
+		"id": 1374874841237442600,
+		"id_str": "1374898817288392704",
+		"full_text": "주제가 최소한의 저항을 겪는 길을 따라서 발전할 위험, 그리하여 원류로부터 너무나 멀어진 흐름이 무의미한 가지들로 무수히 더 갈라질 위험, 나아가 그 분과가 세부적이고 세밀한 사실들이 대중없이 뭉쳐진 것으로 바뀔 위험은 엄연히 존재한다. 달리 말해, 경험의 원천으로부터 대단히 멀어지거나",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1374874838473404400,
+		"in_reply_to_status_id_str": "1374874838473404417",
+		"in_reply_to_user_id": 53149765,
+		"in_reply_to_user_id_str": "53149765",
+		"in_reply_to_screen_name": "jerry0906",
+		"user": {
+			"id": 53149765,
+			"id_str": "53149765",
+			"name": "Jerry",
+			"screen_name": "jerry0906",
+			"location": "Cambridge, MA",
+			"description": "Help people & organizations innovate based on human insights. #아무말",
+			"url": "https://t.co/W8TpQyEBSv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W8TpQyEBSv",
+							"expanded_url": "http://jerryko.org",
+							"display_url": "jerryko.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1923,
+			"friends_count": 199,
+			"listed_count": 28,
+			"created_at": "Thu Jul 02 18:45:07 +0000 2009",
+			"favourites_count": 9283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23886,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695784231402799104/RcZaQLOQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695784231402799104/RcZaQLOQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53149765/1472204366",
+			"profile_link_color": "757575",
+			"profile_sidebar_border_color": "AFD4DB",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "9C9C9C",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "주제가 최소한의 저항을 겪는 길을 따라서 발전할 위험, 그리하여 원류로부터 너무나 멀어진 흐름이 무의미한 가지들로 무수히 더 갈라질 위험, 나아가 그 분과가 세부적이고 세밀한 사실들이 대중없이 뭉쳐진 것으로 바뀔 위험은 엄연히 존재한다. 달리 말해, 경험의 원천으로부터 대단히 멀어지거나"
+	},
+	{
+		"created_at": "Thu Mar 25 01:39:54 +0000 2021",
+		"id": 1374874838473404400,
+		"id_str": "1374898806794297354",
+		"full_text": "중대한 위험에 시달리게 된다. 수학은 점점 더 순전히 미학적인 것이 되고, 점점 더 예술을 위한 예술이 된다. 만일 그 분야가 여전히 경험과 긴밀하게 연결된 주제들에 둘러싸여 있다면, 혹은 특출한 취향을 지닌 연구자들의 영향력 아래 놓여 있다면, 이 상황이 꼭 나쁘지만은 않을 것이다. 그러나",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1374874837064163300,
+		"in_reply_to_status_id_str": "1374874837064163328",
+		"in_reply_to_user_id": 53149765,
+		"in_reply_to_user_id_str": "53149765",
+		"in_reply_to_screen_name": "jerry0906",
+		"user": {
+			"id": 53149765,
+			"id_str": "53149765",
+			"name": "Jerry",
+			"screen_name": "jerry0906",
+			"location": "Cambridge, MA",
+			"description": "Help people & organizations innovate based on human insights. #아무말",
+			"url": "https://t.co/W8TpQyEBSv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W8TpQyEBSv",
+							"expanded_url": "http://jerryko.org",
+							"display_url": "jerryko.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1923,
+			"friends_count": 199,
+			"listed_count": 28,
+			"created_at": "Thu Jul 02 18:45:07 +0000 2009",
+			"favourites_count": 9283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23886,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/695784231402799104/RcZaQLOQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/695784231402799104/RcZaQLOQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53149765/1472204366",
+			"profile_link_color": "757575",
+			"profile_sidebar_border_color": "AFD4DB",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "9C9C9C",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "중대한 위험에 시달리게 된다. 수학은 점점 더 순전히 미학적인 것이 되고, 점점 더 예술을 위한 예술이 된다. 만일 그 분야가 여전히 경험과 긴밀하게 연결된 주제들에 둘러싸여 있다면, 혹은 특출한 취향을 지닌 연구자들의 영향력 아래 놓여 있다면, 이 상황이 꼭 나쁘지만은 않을 것이다. 그러나"
+	},
+	{
 		"created_at": "Wed Mar 24 23:16:19 +0000 2021",
 		"id": 690239213682360300,
 		"id_str": "1374862674220081153",
