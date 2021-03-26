@@ -1,6 +1,386 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Fri Mar 26 09:56:55 +0000 2021",
+		"id": 1375156144159682600,
+		"id_str": "1375386273397923840",
+		"full_text": "자본주의의 '위험 사회'가 이런 종류의 위험을 감수할 가능성이 훨씬 더 적어보인다는 점은 또 다른 아이러니다. / 마크 피셔, &lt;자본주의 리얼리즘&gt; / 다시 읽어도 재밌는 구절이 많음",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1375156142590943200,
+		"in_reply_to_status_id_str": "1375156142590943234",
+		"in_reply_to_user_id": 1108292481622237200,
+		"in_reply_to_user_id_str": "1108292481622237186",
+		"in_reply_to_screen_name": "GlassesNon",
+		"user": {
+			"id": 1108292481622237200,
+			"id_str": "1108292481622237186",
+			"name": "Banya",
+			"screen_name": "GlassesNon",
+			"location": "",
+			"description": "생각 잘못하는 사람",
+			"url": "https://t.co/obMSRRkWnX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/obMSRRkWnX",
+							"expanded_url": "http://blog.naver.com/jgsamin",
+							"display_url": "blog.naver.com/jgsamin",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 160,
+			"listed_count": 0,
+			"created_at": "Wed Mar 20 09:01:33 +0000 2019",
+			"favourites_count": 1179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1116011799306833920/IiKDAWiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116011799306833920/IiKDAWiY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1108292481622237186/1554914930",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "자본주의의 '위험 사회'가 이런 종류의 위험을 감수할 가능성이 훨씬 더 적어보인다는 점은 또 다른 아이러니다. / 마크 피셔, &lt;자본주의 리얼리즘&gt; / 다시 읽어도 재밌는 구절이 많음"
+	},
+	{
+		"created_at": "Fri Mar 26 09:56:52 +0000 2021",
+		"id": 1375156142590943200,
+		"id_str": "1375386259950997509",
+		"full_text": "갈망이다. 사람들에게 이미 그들을 만족시켜 주고 있는 것과는 다른 무언가를 제공할 준비가 되어 있는 예술가와 미디어 전문가, 말하자면 모종의 위험을 감수할 준비가 되어 있는 자들만이 이런 욕망을 제공할 수 있다. [...] 제2차 세계대전 이후의 사회적 합의라는 갑갑하고 중앙집권적인 문화보다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1375156141043277800,
+		"in_reply_to_status_id_str": "1375156141043277824",
+		"in_reply_to_user_id": 1108292481622237200,
+		"in_reply_to_user_id_str": "1108292481622237186",
+		"in_reply_to_screen_name": "GlassesNon",
+		"user": {
+			"id": 1108292481622237200,
+			"id_str": "1108292481622237186",
+			"name": "Banya",
+			"screen_name": "GlassesNon",
+			"location": "",
+			"description": "생각 잘못하는 사람",
+			"url": "https://t.co/obMSRRkWnX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/obMSRRkWnX",
+							"expanded_url": "http://blog.naver.com/jgsamin",
+							"display_url": "blog.naver.com/jgsamin",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 160,
+			"listed_count": 0,
+			"created_at": "Wed Mar 20 09:01:33 +0000 2019",
+			"favourites_count": 1179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1116011799306833920/IiKDAWiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116011799306833920/IiKDAWiY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1108292481622237186/1554914930",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "갈망이다. 사람들에게 이미 그들을 만족시켜 주고 있는 것과는 다른 무언가를 제공할 준비가 되어 있는 예술가와 미디어 전문가, 말하자면 모종의 위험을 감수할 준비가 되어 있는 자들만이 이런 욕망을 제공할 수 있다. [...] 제2차 세계대전 이후의 사회적 합의라는 갑갑하고 중앙집권적인 문화보다"
+	},
+	{
+		"created_at": "Fri Mar 26 09:56:50 +0000 2021",
+		"id": 1375156141043277800,
+		"id_str": "1375386250702581764",
+		"full_text": "반복적이고 기생적이며 순응적인 내용을 생성해 왔다. 아이러니하게도 부성주의적인 것에 대한 미디어 계급의 거부는 놀라운 다양성으로 가득한 상향식 문화가 아니라 점점 더 유아화된 문화를 낳았다. [...] 오히려 가장 강력한 형태의 욕망은 정확히 낯선 것, 예상하지 못한 것, 기이한 것 등에 대한",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1375156139508125700,
+		"in_reply_to_status_id_str": "1375156139508125697",
+		"in_reply_to_user_id": 1108292481622237200,
+		"in_reply_to_user_id_str": "1108292481622237186",
+		"in_reply_to_screen_name": "GlassesNon",
+		"user": {
+			"id": 1108292481622237200,
+			"id_str": "1108292481622237186",
+			"name": "Banya",
+			"screen_name": "GlassesNon",
+			"location": "",
+			"description": "생각 잘못하는 사람",
+			"url": "https://t.co/obMSRRkWnX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/obMSRRkWnX",
+							"expanded_url": "http://blog.naver.com/jgsamin",
+							"display_url": "blog.naver.com/jgsamin",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 160,
+			"listed_count": 0,
+			"created_at": "Wed Mar 20 09:01:33 +0000 2019",
+			"favourites_count": 1179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1116011799306833920/IiKDAWiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116011799306833920/IiKDAWiY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1108292481622237186/1554914930",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "반복적이고 기생적이며 순응적인 내용을 생성해 왔다. 아이러니하게도 부성주의적인 것에 대한 미디어 계급의 거부는 놀라운 다양성으로 가득한 상향식 문화가 아니라 점점 더 유아화된 문화를 낳았다. [...] 오히려 가장 강력한 형태의 욕망은 정확히 낯선 것, 예상하지 못한 것, 기이한 것 등에 대한"
+	},
+	{
+		"created_at": "Fri Mar 26 09:56:49 +0000 2021",
+		"id": 1375156139508125700,
+		"id_str": "1375386246432747525",
+		"full_text": "는 닫힌 회로 속으로 후퇴한다. [...] 일부 사이버공간 영역은 다른 곳에서는 맥 빠진 채 만연해 있는 '비판의 위축 상태'에 저항하도록 해 준다. 그럼에도 불구하고 포스트모던 미디어에서 볼 수 있는 참여의 상호 수동적 모사, 마이스페이스와 페이스북에서 보이는 네트워크 나르시시즘 등은 대체로",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1375156137960476700,
+		"in_reply_to_status_id_str": "1375156137960476675",
+		"in_reply_to_user_id": 1108292481622237200,
+		"in_reply_to_user_id_str": "1108292481622237186",
+		"in_reply_to_screen_name": "GlassesNon",
+		"user": {
+			"id": 1108292481622237200,
+			"id_str": "1108292481622237186",
+			"name": "Banya",
+			"screen_name": "GlassesNon",
+			"location": "",
+			"description": "생각 잘못하는 사람",
+			"url": "https://t.co/obMSRRkWnX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/obMSRRkWnX",
+							"expanded_url": "http://blog.naver.com/jgsamin",
+							"display_url": "blog.naver.com/jgsamin",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 183,
+			"friends_count": 160,
+			"listed_count": 0,
+			"created_at": "Wed Mar 20 09:01:33 +0000 2019",
+			"favourites_count": 1179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1116011799306833920/IiKDAWiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116011799306833920/IiKDAWiY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1108292481622237186/1554914930",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "는 닫힌 회로 속으로 후퇴한다. [...] 일부 사이버공간 영역은 다른 곳에서는 맥 빠진 채 만연해 있는 '비판의 위축 상태'에 저항하도록 해 준다. 그럼에도 불구하고 포스트모던 미디어에서 볼 수 있는 참여의 상호 수동적 모사, 마이스페이스와 페이스북에서 보이는 네트워크 나르시시즘 등은 대체로"
+	},
+	{
 		"created_at": "Fri Mar 26 00:16:36 +0000 2021",
 		"id": 1367102901907189800,
 		"id_str": "1375240231834714116",
