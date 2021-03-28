@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Sun Mar 28 11:13:23 +0000 2021",
+		"id": 1376130293229265000,
+		"id_str": "1376130293229264901",
+		"full_text": "사회적 책임을 다하지 못할 시 처벌하고, 은행처럼 회사 지분 소유에 제한을 두고, 공공자금의 투입을 늘리는 동시에 광고수주를 비롯한 모든 거래는 공적 기관을 경유해서만 가능하게 법을 바꾸었으면 하는데...\nhttps://t.co/JSLbqbRQe6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JSLbqbRQe6",
+					"expanded_url": "https://twitter.com/prettydike100/status/1376118373663211525?s=19",
+					"display_url": "twitter.com/prettydike100/…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 99,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3545,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1376118373663211500,
+		"quoted_status_id_str": "1376118373663211525",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JSLbqbRQe6",
+			"expanded": "https://twitter.com/prettydike100/status/1376118373663211525?s=19",
+			"display": "twitter.com/prettydike100/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 28 10:26:01 +0000 2021",
+			"id": 1376118373663211500,
+			"id_str": "1376118373663211525",
+			"full_text": "https://t.co/IzPfIyhKd3\n\"취재 자유롭다\" 2007년 이후 최고..'한국의 언론인 2019' 조사\n자유는 있지만 책임은 없다",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				79
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IzPfIyhKd3",
+						"expanded_url": "https://news.v.daum.net/v/20200113154656679",
+						"display_url": "news.v.daum.net/v/202001131546…",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3254123827,
+				"id_str": "3254123827",
+				"name": "트럼프 재선기원..트나키..",
+				"screen_name": "prettydike100",
+				"location": "대한민국",
+				"description": "I WILL BE BACK",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1341,
+				"friends_count": 993,
+				"listed_count": 6,
+				"created_at": "Tue Jun 23 23:56:15 +0000 2015",
+				"favourites_count": 48,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 64961,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1313447237196816386/rEWYQXWA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1313447237196816386/rEWYQXWA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3254123827/1587295897",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사회적 책임을 다하지 못할 시 처벌하고, 은행처럼 회사 지분 소유에 제한을 두고, 공공자금의 투입을 늘리는 동시에 광고수주를 비롯한 모든 거래는 공적 기관을 경유해서만 가능하게 법을 바꾸었으면 하는데...\nhttps://t.co/JSLbqbRQe6"
+	},
+	{
 		"created_at": "Sun Mar 28 08:28:16 +0000 2021",
 		"id": 1376088737168302000,
 		"id_str": "1376088737168302081",
