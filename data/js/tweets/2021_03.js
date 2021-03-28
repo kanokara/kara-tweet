@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Sun Mar 28 13:02:15 +0000 2021",
+		"id": 1376157690443886600,
+		"id_str": "1376157690443886604",
+		"full_text": "@worklifebook 그런데 단순히 집단행동이 아니라 '축의적 소비' 양상을 띤 건 00년대 중후반인 것으로 전에 조사한 바 있습니다.\nhttps://t.co/qfhXK08LP8",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "worklifebook",
+					"name": "WORKLIFE출판사 편집부 고독계",
+					"id": 146022923,
+					"id_str": "146022923",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qfhXK08LP8",
+					"expanded_url": "https://twitter.com/EmptyKnK/statuses/843154744470310913",
+					"display_url": "twitter.com/EmptyKnK/statu…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1376143114339938300,
+		"in_reply_to_status_id_str": "1376143114339938311",
+		"in_reply_to_user_id": 146022923,
+		"in_reply_to_user_id_str": "146022923",
+		"in_reply_to_screen_name": "worklifebook",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 99,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 843154744470310900,
+		"quoted_status_id_str": "843154744470310913",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qfhXK08LP8",
+			"expanded": "https://twitter.com/EmptyKnK/statuses/843154744470310913",
+			"display": "twitter.com/EmptyKnK/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 18 17:38:50 +0000 2017",
+			"id": 843154744470310900,
+			"id_str": "843154744470310913",
+			"full_text": "아이돌 초에도 광고는 발견될 수 있으나 오늘날의 기념/축하의 의미는 찾기 어려웠네요.\n\n서태지팬, 시내버스 광고 /서포트\nhttps://t.co/dcPbv8NToi\ngod팬들 \"공연質 보장\" 신문광고 /소비자\nhttps://t.co/TX9ToVt1ft",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				140
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dcPbv8NToi",
+						"expanded_url": "http://legacy.www.hani.co.kr/section-009000000/2001/05/009000000200105101742058.html",
+						"display_url": "legacy.www.hani.co.kr/section-009000…",
+						"indices": [
+							68,
+							91
+						]
+					},
+					{
+						"url": "https://t.co/TX9ToVt1ft",
+						"expanded_url": "http://ny.koreatimes.com/article/20010326/29456",
+						"display_url": "ny.koreatimes.com/article/200103…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 843151776845107200,
+			"in_reply_to_status_id_str": "843151776845107200",
+			"in_reply_to_user_id": 3255599052,
+			"in_reply_to_user_id_str": "3255599052",
+			"in_reply_to_screen_name": "EmptyKnK",
+			"user": {
+				"id": 3255599052,
+				"id_str": "3255599052",
+				"name": "Solitude [동결:11/20~]",
+				"screen_name": "EmptyKnK",
+				"location": "",
+				"description": "탄식하라,  덧없이 흩어지고 말리라",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": true,
+				"followers_count": 8,
+				"friends_count": 99,
+				"listed_count": 0,
+				"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+				"favourites_count": 3547,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13479,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@worklifebook 그런데 단순히 집단행동이 아니라 '축의적 소비' 양상을 띤 건 00년대 중후반인 것으로 전에 조사한 바 있습니다.\nhttps://t.co/qfhXK08LP8"
+	},
+	{
 		"created_at": "Sun Mar 28 11:13:23 +0000 2021",
 		"id": 1376130293229265000,
 		"id_str": "1376130293229264901",
