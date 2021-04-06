@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Tue Apr 06 13:53:45 +0000 2021",
+		"id": 1289390073809535000,
+		"id_str": "1379432141096845327",
+		"full_text": "내 예전 트위터 글 보는법\n모바일이면 데스크톱 모드 눌러서 트위터 로그인 아니면 PC로그인 한다음\n사진대로 애널리틱스 들어가서\n날짜 설정해서 보면됌 https://t.co/qV3QB0vGZ4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1289390047498612700,
+					"id_str": "1289390047498612742",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EeTVaq4UMAY0Qoy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeTVaq4UMAY0Qoy.jpg",
+					"url": "https://t.co/qV3QB0vGZ4",
+					"display_url": "pic.twitter.com/qV3QB0vGZ4",
+					"expanded_url": "https://twitter.com/tmini_m/status/1289390073809534976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1724,
+							"h": 1688,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1175,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1289390047498612700,
+					"id_str": "1289390047498612742",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EeTVaq4UMAY0Qoy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeTVaq4UMAY0Qoy.jpg",
+					"url": "https://t.co/qV3QB0vGZ4",
+					"display_url": "pic.twitter.com/qV3QB0vGZ4",
+					"expanded_url": "https://twitter.com/tmini_m/status/1289390073809534976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1724,
+							"h": 1688,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1175,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1289390054939345000,
+					"id_str": "1289390054939344897",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EeTVbGmUwAEsvux.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeTVbGmUwAEsvux.jpg",
+					"url": "https://t.co/qV3QB0vGZ4",
+					"display_url": "pic.twitter.com/qV3QB0vGZ4",
+					"expanded_url": "https://twitter.com/tmini_m/status/1289390073809534976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 356,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 997,
+							"h": 1906,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 628,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1289390061318844400,
+					"id_str": "1289390061318844418",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EeTVbeXUMAImBUv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeTVbeXUMAImBUv.jpg",
+					"url": "https://t.co/qV3QB0vGZ4",
+					"display_url": "pic.twitter.com/qV3QB0vGZ4",
+					"expanded_url": "https://twitter.com/tmini_m/status/1289390073809534976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 814,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 477,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1289390068189114400,
+					"id_str": "1289390068189114374",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EeTVb39UMAYGr4a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeTVb39UMAYGr4a.jpg",
+					"url": "https://t.co/qV3QB0vGZ4",
+					"display_url": "pic.twitter.com/qV3QB0vGZ4",
+					"expanded_url": "https://twitter.com/tmini_m/status/1289390073809534976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1790,
+							"h": 1879,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 648,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1143,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1256540942779080700,
+			"id_str": "1256540942779080704",
+			"name": "좋모",
+			"screen_name": "6s6_tmini",
+			"location": "쫌쫌따리유투부",
+			"description": "순수계략남팬",
+			"url": "https://t.co/m9AnVphz5k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/m9AnVphz5k",
+							"expanded_url": "https://www.youtube.com/channel/UCgFRMBIGVqoxb5kBiqMquzQ",
+							"display_url": "youtube.com/channel/UCgFRM…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1916,
+			"friends_count": 244,
+			"listed_count": 12,
+			"created_at": "Sat May 02 11:08:07 +0000 2020",
+			"favourites_count": 7823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352164108393582593/i6fS1tNw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352164108393582593/i6fS1tNw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1256540942779080704/1617030599",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11387,
+		"favorite_count": 5885,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내 예전 트위터 글 보는법\n모바일이면 데스크톱 모드 눌러서 트위터 로그인 아니면 PC로그인 한다음\n사진대로 애널리틱스 들어가서\n날짜 설정해서 보면됌 https://t.co/qV3QB0vGZ4"
+	},
+	{
 		"created_at": "Tue Apr 06 12:01:42 +0000 2021",
 		"id": 1379403943399149600,
 		"id_str": "1379403943399149573",
