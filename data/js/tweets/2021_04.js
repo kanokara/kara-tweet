@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 07 15:37:19 +0000 2021",
+		"id": 1379820593558642700,
+		"id_str": "1379820593558642696",
+		"full_text": "약간... 일베는 10년차고, 렏팸은 5년차 아닌가? 하는 생각이 스치네...\nhttps://t.co/tRVRo74tdh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tRVRo74tdh",
+					"expanded_url": "https://twitter.com/whothepessimist/status/1379764453734948864",
+					"display_url": "twitter.com/whothepessimis…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 99,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1379764453734948900,
+		"quoted_status_id_str": "1379764453734948864",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tRVRo74tdh",
+			"expanded": "https://twitter.com/whothepessimist/status/1379764453734948864",
+			"display": "twitter.com/whothepessimis…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 07 11:54:15 +0000 2021",
+			"id": 1379764453734948900,
+			"id_str": "1379764453734948864",
+			"full_text": "2030에서 성별간 격차가 제일 큼.. 특히 20대 여자들은 다른 모든 그룹보다 &lt;기타&gt; 지지자 비율이 15.1%로 월등히 높네 의미심장함 https://t.co/WxZ2qMSvvD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				83
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WxZ2qMSvvD",
+						"expanded_url": "https://twitter.com/woong69/status/1379761729710686210",
+						"display_url": "twitter.com/woong69/status…",
+						"indices": [
+							84,
+							107
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 729947161719251000,
+				"id_str": "729947161719250945",
+				"name": "염세걸",
+				"screen_name": "whothepessimist",
+				"location": "",
+				"description": "더 알아보기",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1756,
+				"friends_count": 182,
+				"listed_count": 7,
+				"created_at": "Tue May 10 08:12:19 +0000 2016",
+				"favourites_count": 20129,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 38683,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1352985247642652672/IpknpuNr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352985247642652672/IpknpuNr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/729947161719250945/1604836677",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1379761729710686200,
+			"quoted_status_id_str": "1379761729710686210",
+			"quoted_status_permalink": {
+				"url": "https://t.co/WxZ2qMSvvD",
+				"expanded": "https://twitter.com/woong69/status/1379761729710686210",
+				"display": "twitter.com/woong69/status…"
+			},
+			"retweet_count": 4564,
+			"favorite_count": 832,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "약간... 일베는 10년차고, 렏팸은 5년차 아닌가? 하는 생각이 스치네...\nhttps://t.co/tRVRo74tdh"
+	},
+	{
 		"created_at": "Wed Apr 07 14:35:45 +0000 2021",
 		"id": 1379805096481976300,
 		"id_str": "1379805096481976331",
