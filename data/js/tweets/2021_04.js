@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 07 17:04:24 +0000 2021",
+		"id": 1379809164646473700,
+		"id_str": "1379842507110948867",
+		"full_text": "가장 참담한 지점인데, 공교육의 가장 끔찍한 실패는 “너의 어떤 욕망은 이기적이며 어떤 이기적인 욕망은 천박하며 천박한 것은 사회에 드러내면 페널티를 받아야만 한다”라는 것을 가르치지 못한 것이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 412723679,
+			"id_str": "412723679",
+			"name": "미르비🍭",
+			"screen_name": "Mirbi_MH",
+			"location": "",
+			"description": "가질 의지가 없는 것에 대해서는 이야기하지 않기 운동",
+			"url": "https://t.co/eTN0p6Z8zZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTN0p6Z8zZ",
+							"expanded_url": "http://lilliesberg.tistory.com/",
+							"display_url": "lilliesberg.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 487,
+			"friends_count": 802,
+			"listed_count": 4,
+			"created_at": "Tue Nov 15 02:15:43 +0000 2011",
+			"favourites_count": 12062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1255872001408790528/Mk1EaC4Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255872001408790528/Mk1EaC4Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/412723679/1515871063",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "가장 참담한 지점인데, 공교육의 가장 끔찍한 실패는 “너의 어떤 욕망은 이기적이며 어떤 이기적인 욕망은 천박하며 천박한 것은 사회에 드러내면 페널티를 받아야만 한다”라는 것을 가르치지 못한 것이다."
+	},
+	{
 		"created_at": "Wed Apr 07 15:37:19 +0000 2021",
 		"id": 1379820593558642700,
 		"id_str": "1379820593558642696",
