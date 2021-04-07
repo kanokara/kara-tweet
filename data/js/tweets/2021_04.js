@@ -1,6 +1,700 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 07 14:01:56 +0000 2021",
+		"id": 1379796586784419800,
+		"id_str": "1379796586784419843",
+		"full_text": "기본적으로 인간은 자기 무리의 이익을 잘 챙기는 권위주의적 리더를 좋아해요. 왜냐면 그게 과거의 인류 역사상 생존에 유리했었으니까. 여기에 따르지 않으면 무리에서 솎아내졌으니까.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1379796089050603500,
+		"in_reply_to_status_id_str": "1379796089050603525",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 99,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "기본적으로 인간은 자기 무리의 이익을 잘 챙기는 권위주의적 리더를 좋아해요. 왜냐면 그게 과거의 인류 역사상 생존에 유리했었으니까. 여기에 따르지 않으면 무리에서 솎아내졌으니까."
+	},
+	{
+		"created_at": "Wed Apr 07 13:59:57 +0000 2021",
+		"id": 1379796089050603500,
+		"id_str": "1379796089050603525",
+		"full_text": "민주당이 못난 모습 많이 보인 건 맞지만, 역대 투표율을 보았을 때 이건 순전히 국민의 힘에 대한 신념형 지지가 많다는 소리죠. 부패하고 무능해도 사익을 잘 챙기는 리더를 지지하는 리더십의 회귀인 거예요. https://t.co/ffr8Xt0mK7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1379795481392345000,
+					"id_str": "1379795481392345089",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EyYErgsUcAENsZV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyYErgsUcAENsZV.jpg",
+					"url": "https://t.co/ffr8Xt0mK7",
+					"display_url": "pic.twitter.com/ffr8Xt0mK7",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1379796089050603525/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1010,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1010,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 671,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1379795481392345000,
+					"id_str": "1379795481392345089",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EyYErgsUcAENsZV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyYErgsUcAENsZV.jpg",
+					"url": "https://t.co/ffr8Xt0mK7",
+					"display_url": "pic.twitter.com/ffr8Xt0mK7",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1379796089050603525/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1010,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1010,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 671,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 99,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "민주당이 못난 모습 많이 보인 건 맞지만, 역대 투표율을 보았을 때 이건 순전히 국민의 힘에 대한 신념형 지지가 많다는 소리죠. 부패하고 무능해도 사익을 잘 챙기는 리더를 지지하는 리더십의 회귀인 거예요. https://t.co/ffr8Xt0mK7"
+	},
+	{
+		"created_at": "Wed Apr 07 13:35:32 +0000 2021",
+		"id": 1379776133671972900,
+		"id_str": "1379789943610822656",
+		"full_text": "뭐 탐라에 20대 유권자 탓 혹은 올려치기 등이 유행하는데 저는 이 기사의 일독을 권하고 싶습니다. . \n\nhttps://t.co/PL8No7ZueU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PL8No7ZueU",
+					"expanded_url": "https://www.hankookilbo.com/News/Read/A2021021514410002131",
+					"display_url": "hankookilbo.com/News/Read/A202…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2572908468,
+			"id_str": "2572908468",
+			"name": "피켈하우베 착용형 담륜",
+			"screen_name": "sldn1206",
+			"location": "Kassel, Hessen ",
+			"description": "됐어. 인문예술은 재정부담을 무겁게 만들 뿐이야.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5391,
+			"friends_count": 1390,
+			"listed_count": 45,
+			"created_at": "Tue Jun 17 13:34:52 +0000 2014",
+			"favourites_count": 35981,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 151333,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1379051529349459972/w9uQc7v0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1379051529349459972/w9uQc7v0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2572908468/1617626484",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1114,
+		"favorite_count": 260,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뭐 탐라에 20대 유권자 탓 혹은 올려치기 등이 유행하는데 저는 이 기사의 일독을 권하고 싶습니다. . \n\nhttps://t.co/PL8No7ZueU"
+	},
+	{
+		"created_at": "Wed Apr 07 13:31:25 +0000 2021",
+		"id": 1379249326807871500,
+		"id_str": "1379788906330091520",
+		"full_text": "메시지를 받은 사람 입장에서 느끼는 감정을 맵으로 그린 것이라는데..\n\nhttps://t.co/W0V126Jwjv\n\n사람들이 '넵'을 많이 쓰는 이유가 있구만.. 이정도면 표준어로 써야하는거 아닌가. https://t.co/ssgLAvJLsG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W0V126Jwjv",
+					"expanded_url": "https://brunch.co.kr/@kklloop/6",
+					"display_url": "brunch.co.kr/@kklloop/6",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1379249319883116500,
+					"id_str": "1379249319883116545",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EyQT8uhVEAE4KUh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyQT8uhVEAE4KUh.jpg",
+					"url": "https://t.co/ssgLAvJLsG",
+					"display_url": "pic.twitter.com/ssgLAvJLsG",
+					"expanded_url": "https://twitter.com/Centell_/status/1379249326807871490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1379249319883116500,
+					"id_str": "1379249319883116545",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EyQT8uhVEAE4KUh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyQT8uhVEAE4KUh.jpg",
+					"url": "https://t.co/ssgLAvJLsG",
+					"display_url": "pic.twitter.com/ssgLAvJLsG",
+					"expanded_url": "https://twitter.com/Centell_/status/1379249326807871490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 88613231,
+			"id_str": "88613231",
+			"name": "센텔",
+			"screen_name": "Centell_",
+			"location": "Centell is always with you.",
+			"description": "Major in Physics, Developer, Gamer, Thinking of @Ciel_reveur … 함께 생각을 나눠요 #RLidea https://t.co/8KBxsaziR1",
+			"url": "https://t.co/xRYs6OyPIL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xRYs6OyPIL",
+							"expanded_url": "http://centell.me",
+							"display_url": "centell.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8KBxsaziR1",
+							"expanded_url": "http://rlidea.com",
+							"display_url": "rlidea.com",
+							"indices": [
+								82,
+								105
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1273,
+			"friends_count": 249,
+			"listed_count": 47,
+			"created_at": "Mon Nov 09 07:10:47 +0000 2009",
+			"favourites_count": 13566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 204085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/648240294933041152/YYbk6GnN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/648240294933041152/YYbk6GnN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/88613231/1350405949",
+			"profile_link_color": "25592E",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4235,
+		"favorite_count": 1550,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "메시지를 받은 사람 입장에서 느끼는 감정을 맵으로 그린 것이라는데..\n\nhttps://t.co/W0V126Jwjv\n\n사람들이 '넵'을 많이 쓰는 이유가 있구만.. 이정도면 표준어로 써야하는거 아닌가. https://t.co/ssgLAvJLsG"
+	},
+	{
+		"created_at": "Wed Apr 07 13:28:37 +0000 2021",
+		"id": 1379788203821953000,
+		"id_str": "1379788203821953024",
+		"full_text": "→ 군사적 압력이 일정 이상 높아지지 않기 때문에 군사적 동원을 위한 행정의 발달, 중앙집권이 불필요하게 된다.\n\n사회계약론적으로 말하자면 구성원들은 자신의 권리를 위임할 이유가 없던 것이죠. 인신을 장악하는 강제력, 곧 행정력을 납득하고 받아들일 수 없던 거고요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1379787984807981000,
+		"in_reply_to_status_id_str": "1379787984807981063",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 99,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "→ 군사적 압력이 일정 이상 높아지지 않기 때문에 군사적 동원을 위한 행정의 발달, 중앙집권이 불필요하게 된다.\n\n사회계약론적으로 말하자면 구성원들은 자신의 권리를 위임할 이유가 없던 것이죠. 인신을 장악하는 강제력, 곧 행정력을 납득하고 받아들일 수 없던 거고요."
+	},
+	{
+		"created_at": "Wed Apr 07 13:27:45 +0000 2021",
+		"id": 1379787984807981000,
+		"id_str": "1379787984807981063",
+		"full_text": "→ 분쟁이 생기더라도 종교 집단에서 권위를 갖춘 채 중재를 해서 그 압력을 해소한다.\n→ 이 질서에서 일탈하려고 들면 사제 집단이 견제에 들어간다.\n⇉ 귀족집단 역시 자신들의 생명과 이익에 있어 계급적 이해관계가 일치하기에 약속(금기)하에 제약된 전투를 벌이고 상대를 존중한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1379787086782374000,
+		"in_reply_to_status_id_str": "1379787086782373891",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 8,
+			"friends_count": 99,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "→ 분쟁이 생기더라도 종교 집단에서 권위를 갖춘 채 중재를 해서 그 압력을 해소한다.\n→ 이 질서에서 일탈하려고 들면 사제 집단이 견제에 들어간다.\n⇉ 귀족집단 역시 자신들의 생명과 이익에 있어 계급적 이해관계가 일치하기에 약속(금기)하에 제약된 전투를 벌이고 상대를 존중한다."
+	},
+	{
 		"created_at": "Tue Apr 06 13:53:45 +0000 2021",
 		"id": 1289390073809535000,
 		"id_str": "1379432141096845327",
