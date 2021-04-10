@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sat Apr 10 15:56:20 +0000 2021",
+		"id": 1380505781661917200,
+		"id_str": "1380912541765750784",
+		"full_text": "私たちがはじめて作った曲です。\n\n「BLUE SOULS」\n\n#弾き語り #A_o https://t.co/jVhTiEVcPu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "弾き語り",
+					"indices": [
+						31,
+						36
+					]
+				},
+				{
+					"text": "A_o",
+					"indices": [
+						37,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1380245018254839800,
+					"id_str": "1380245018254839810",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1380245018254839810/pu/img/nw7A-dnUhPzE07xw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1380245018254839810/pu/img/nw7A-dnUhPzE07xw.jpg",
+					"url": "https://t.co/jVhTiEVcPu",
+					"display_url": "pic.twitter.com/jVhTiEVcPu",
+					"expanded_url": "https://twitter.com/A_o_is_u/status/1380505781661917186/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1380245018254839800,
+					"id_str": "1380245018254839810",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1380245018254839810/pu/img/nw7A-dnUhPzE07xw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1380245018254839810/pu/img/nw7A-dnUhPzE07xw.jpg",
+					"url": "https://t.co/jVhTiEVcPu",
+					"display_url": "pic.twitter.com/jVhTiEVcPu",
+					"expanded_url": "https://twitter.com/A_o_is_u/status/1380505781661917186/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 81882,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1380245018254839810/pu/pl/CyeJQq4c6IeEIOWT.m3u8?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1380245018254839810/pu/vid/640x360/9ul4MvSqycGWi8vX.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1380245018254839810/pu/vid/480x270/hNWoMFU9wHSPgjw4.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1380245018254839810/pu/vid/1280x720/29UBKK529ezKtqYK.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377809860125847600,
+			"id_str": "1377809860125847553",
+			"name": "A_o",
+			"screen_name": "A_o_is_u",
+			"location": "",
+			"description": "はじめまして。エーオーとよみます。よろしくね #A_o \n/ with POCARI SWEAT",
+			"url": "https://t.co/oKiQxnjuip",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oKiQxnjuip",
+							"expanded_url": "https://a-o.persona.co/",
+							"display_url": "a-o.persona.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4824,
+			"friends_count": 0,
+			"listed_count": 40,
+			"created_at": "Fri Apr 02 02:27:32 +0000 2021",
+			"favourites_count": 148,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380334819301761028/QiMciVzz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380334819301761028/QiMciVzz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377809860125847553/1617932442",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 740,
+		"favorite_count": 2760,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "私たちがはじめて作った曲です。\n\n「BLUE SOULS」\n\n#弾き語り #A_o https://t.co/jVhTiEVcPu"
+	},
+	{
 		"created_at": "Wed Apr 07 17:04:24 +0000 2021",
 		"id": 1379809164646473700,
 		"id_str": "1379842507110948867",
