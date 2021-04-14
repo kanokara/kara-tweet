@@ -1,6 +1,546 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 14 12:49:41 +0000 2021",
+		"id": 1382301586324553700,
+		"id_str": "1382315120047493125",
+		"full_text": "'단추 수프 스토리텔링' https://t.co/DsgCytK5Kr https://t.co/z1jOdtCQ4M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DsgCytK5Kr",
+					"expanded_url": "https://twitter.com/Siaranics/status/1382017586141917184",
+					"display_url": "twitter.com/Siaranics/stat…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1382301562668679200,
+					"id_str": "1382301562668679169",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/Ey7r8o9VgAEiiSh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ey7r8o9VgAEiiSh.jpg",
+					"url": "https://t.co/z1jOdtCQ4M",
+					"display_url": "pic.twitter.com/z1jOdtCQ4M",
+					"expanded_url": "https://twitter.com/kcanari/status/1382301586324553729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 512,
+							"h": 384,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 384,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1382301562668679200,
+					"id_str": "1382301562668679169",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/Ey7r8o9VgAEiiSh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ey7r8o9VgAEiiSh.jpg",
+					"url": "https://t.co/z1jOdtCQ4M",
+					"display_url": "pic.twitter.com/z1jOdtCQ4M",
+					"expanded_url": "https://twitter.com/kcanari/status/1382301586324553729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 512,
+							"h": 384,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 384,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 101148636,
+			"id_str": "101148636",
+			"name": "까날(오승택)",
+			"screen_name": "kcanari",
+			"location": "KOREA Sungnam",
+			"description": "'홋카이도에 먹으러가자' 글쓴이. 일본 식도락 여행 전문 블로그 운영중. 우리음식, 일본음식, 우리술, 일본술에 관심이 많은 사람.",
+			"url": "https://t.co/lBdKLdgZ3Z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lBdKLdgZ3Z",
+							"expanded_url": "http://kcanari.egloos.com",
+							"display_url": "kcanari.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48541,
+			"friends_count": 292,
+			"listed_count": 185,
+			"created_at": "Sat Jan 02 05:42:27 +0000 2010",
+			"favourites_count": 941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 143097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101148636/1365251288",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1382017586141917200,
+		"quoted_status_id_str": "1382017586141917184",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DsgCytK5Kr",
+			"expanded": "https://twitter.com/Siaranics/status/1382017586141917184",
+			"display": "twitter.com/Siaranics/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 13 17:07:23 +0000 2021",
+			"id": 1382017586141917200,
+			"id_str": "1382017586141917184",
+			"full_text": "캐릭터 카드 게임에서 완벽한 덱을 짜는 법이라고 들은 게 생각나네요. 덱에 내가 꼭 넣고 싶은 카드를 처음으로 넣고, 그 카드로 부족한 장단점을 보완해 가며 덱을 채운 뒤, 마지막에는 처음에 넣은 그 카드가 빠지면 비로소 최강의 덱이 나온다던... https://t.co/v99vtk4lE5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/v99vtk4lE5",
+						"expanded_url": "https://twitter.com/foolramzi/status/1381981085043621888",
+						"display_url": "twitter.com/foolramzi/stat…",
+						"indices": [
+							139,
+							162
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1024129628250628100,
+				"id_str": "1024129628250628096",
+				"name": "시아란🌌저승 최후의 날/연재중",
+				"screen_name": "Siaranics",
+				"location": "복실한 곳",
+				"description": "카카오페이지 '저승 최후의 날' 공개 중 / 개인 사담 계정 / PhD Engr / 스토리텔러 / 이야기, 철도, 봉제인형, 그리고 레몬 / 나의 일상이 당신의 경이가 되기를 / 공식계정 @Siaran_KR / 계정운영정책 https://t.co/G6qjPQ75Yj",
+				"url": "https://t.co/7EOSYgGtcB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7EOSYgGtcB",
+								"expanded_url": "http://siaran.kr",
+								"display_url": "siaran.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/G6qjPQ75Yj",
+								"expanded_url": "https://www.siaran.kr/pcy_private",
+								"display_url": "siaran.kr/pcy_private",
+								"indices": [
+									125,
+									148
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 786,
+				"friends_count": 88,
+				"listed_count": 6,
+				"created_at": "Tue Jul 31 03:08:25 +0000 2018",
+				"favourites_count": 80,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6222,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1374684042344415236/iw1eaUV7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374684042344415236/iw1eaUV7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024129628250628096/1616594866",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1381981085043622000,
+			"quoted_status_id_str": "1381981085043621888",
+			"quoted_status_permalink": {
+				"url": "https://t.co/v99vtk4lE5",
+				"expanded": "https://twitter.com/foolramzi/status/1381981085043621888",
+				"display": "twitter.com/foolramzi/stat…"
+			},
+			"retweet_count": 1215,
+			"favorite_count": 212,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 37,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'단추 수프 스토리텔링' https://t.co/DsgCytK5Kr https://t.co/z1jOdtCQ4M"
+	},
+	{
+		"created_at": "Wed Apr 14 12:49:37 +0000 2021",
+		"id": 1382017586141917200,
+		"id_str": "1382315104960606213",
+		"full_text": "캐릭터 카드 게임에서 완벽한 덱을 짜는 법이라고 들은 게 생각나네요. 덱에 내가 꼭 넣고 싶은 카드를 처음으로 넣고, 그 카드로 부족한 장단점을 보완해 가며 덱을 채운 뒤, 마지막에는 처음에 넣은 그 카드가 빠지면 비로소 최강의 덱이 나온다던... https://t.co/v99vtk4lE5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v99vtk4lE5",
+					"expanded_url": "https://twitter.com/foolramzi/status/1381981085043621888",
+					"display_url": "twitter.com/foolramzi/stat…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1024129628250628100,
+			"id_str": "1024129628250628096",
+			"name": "시아란🌌저승 최후의 날/연재중",
+			"screen_name": "Siaranics",
+			"location": "복실한 곳",
+			"description": "카카오페이지 '저승 최후의 날' 공개 중 / 개인 사담 계정 / PhD Engr / 스토리텔러 / 이야기, 철도, 봉제인형, 그리고 레몬 / 나의 일상이 당신의 경이가 되기를 / 공식계정 @Siaran_KR / 계정운영정책 https://t.co/G6qjPQ75Yj",
+			"url": "https://t.co/7EOSYgGtcB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7EOSYgGtcB",
+							"expanded_url": "http://siaran.kr",
+							"display_url": "siaran.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/G6qjPQ75Yj",
+							"expanded_url": "https://www.siaran.kr/pcy_private",
+							"display_url": "siaran.kr/pcy_private",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 786,
+			"friends_count": 88,
+			"listed_count": 6,
+			"created_at": "Tue Jul 31 03:08:25 +0000 2018",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374684042344415236/iw1eaUV7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374684042344415236/iw1eaUV7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1024129628250628096/1616594866",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1381981085043622000,
+		"quoted_status_id_str": "1381981085043621888",
+		"quoted_status_permalink": {
+			"url": "https://t.co/v99vtk4lE5",
+			"expanded": "https://twitter.com/foolramzi/status/1381981085043621888",
+			"display": "twitter.com/foolramzi/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 13 14:42:21 +0000 2021",
+			"id": 1381981085043622000,
+			"id_str": "1381981085043621888",
+			"full_text": "지금 쓰는 단편은 '황금갑주를 입은 노인이 000을 지킨다' 라는 딱 한가지 이미지에서 시작되었는데, 마지막 단계에 와서 황금갑주 설정을 빼기로 결정 했어요. 외에도 여러가지가 바뀌면서 사실상 집필 전 단계의 구상은 모조리 사라진 셈이네요. 소설 쓰기의 오묘함.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				146
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1156414614168469500,
+				"id_str": "1156414614168469504",
+				"name": "이경희",
+				"screen_name": "foolramzi",
+				"location": "",
+				"description": "SF 소설가 📕 테세우스의 배 📘 그날, 그곳에서 📙 SF, 이 좋은걸 이제 알았다니 / 자세한 사항은 https://t.co/KEvlVgBoNy 에서.",
+				"url": "https://t.co/KEvlVgBoNy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KEvlVgBoNy",
+								"expanded_url": "https://kroeber.tistory.com/1",
+								"display_url": "kroeber.tistory.com/1",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/KEvlVgBoNy",
+								"expanded_url": "https://kroeber.tistory.com/1",
+								"display_url": "kroeber.tistory.com/1",
+								"indices": [
+									58,
+									81
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1186,
+				"friends_count": 275,
+				"listed_count": 4,
+				"created_at": "Wed Jul 31 04:01:43 +0000 2019",
+				"favourites_count": 13974,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18421,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1355026332602654723/TCusUjz__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1355026332602654723/TCusUjz__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1156414614168469504/1611920860",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 65,
+			"favorite_count": 51,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1215,
+		"favorite_count": 212,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "캐릭터 카드 게임에서 완벽한 덱을 짜는 법이라고 들은 게 생각나네요. 덱에 내가 꼭 넣고 싶은 카드를 처음으로 넣고, 그 카드로 부족한 장단점을 보완해 가며 덱을 채운 뒤, 마지막에는 처음에 넣은 그 카드가 빠지면 비로소 최강의 덱이 나온다던... https://t.co/v99vtk4lE5"
+	},
+	{
 		"created_at": "Wed Apr 14 11:23:43 +0000 2021",
 		"id": 1382293485261246500,
 		"id_str": "1382293485261246464",
