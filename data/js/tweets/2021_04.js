@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Thu Apr 22 16:41:13 +0000 2021",
+		"id": 1385188730168774700,
+		"id_str": "1385272488393805827",
+		"full_text": "@howmystery 저 역시 근대,이성에 중점을 두고 생각해본다면.  살인이라는 가장 비이성적이고 충동적이며 감정적인 행동을, 근대의 산물 이성을 통해서 파헤치면서 그갭에서 오는 카타스시스 때문이 아닐까 생각해봅니다 ㅎㅎ 다른 사건소재는 감정과 충동의 깊이가 얕으니깐요",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "howmystery",
+					"name": "decca",
+					"id": 1088389252717527000,
+					"id_str": "1088389252717527040",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1385156242826354700,
+		"in_reply_to_status_id_str": "1385156242826354689",
+		"in_reply_to_user_id": 1088389252717527000,
+		"in_reply_to_user_id_str": "1088389252717527040",
+		"in_reply_to_screen_name": "howmystery",
+		"user": {
+			"id": 2240417598,
+			"id_str": "2240417598",
+			"name": "장희찬",
+			"screen_name": "kof3317",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 93,
+			"friends_count": 379,
+			"listed_count": 1,
+			"created_at": "Wed Dec 11 08:28:34 +0000 2013",
+			"favourites_count": 2392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5738,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/488604011990241282/P9oRuyld_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/488604011990241282/P9oRuyld_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@howmystery 저 역시 근대,이성에 중점을 두고 생각해본다면.  살인이라는 가장 비이성적이고 충동적이며 감정적인 행동을, 근대의 산물 이성을 통해서 파헤치면서 그갭에서 오는 카타스시스 때문이 아닐까 생각해봅니다 ㅎㅎ 다른 사건소재는 감정과 충동의 깊이가 얕으니깐요"
+	},
+	{
+		"created_at": "Thu Apr 22 16:40:58 +0000 2021",
+		"id": 1385174665035870200,
+		"id_str": "1385272426993381377",
+		"full_text": "@happiest_cat 사회적 범죄는 사회 질서를 무너뜨리는 행위이고 그 질서를 논리라는 도구를 들고 회복하는 이가 탐정입니다. 이런 구조에서 보면 범죄는 미스터리 장르에 내재된 규칙입니다. 그리고 살인은 가장 무거운 범죄이죠.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "happiest_cat",
+					"name": "내가 제일 행복한 고양이",
+					"id": 894385849,
+					"id_str": "894385849",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1385173386452553700,
+		"in_reply_to_status_id_str": "1385173386452553730",
+		"in_reply_to_user_id": 1088389252717527000,
+		"in_reply_to_user_id_str": "1088389252717527040",
+		"in_reply_to_screen_name": "howmystery",
+		"user": {
+			"id": 1088389252717527000,
+			"id_str": "1088389252717527040",
+			"name": "decca",
+			"screen_name": "howmystery",
+			"location": "대한민국 서울",
+			"description": "keeping the pages turning // deccaa@gmail.com //  애매한 업무용 계정 @Edi01D // 애매한 개인 계정 @dacec4 // 애매한 모임용 계정 @mydokmo",
+			"url": "https://t.co/l8hHoZYhtS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l8hHoZYhtS",
+							"expanded_url": "http://howmystery.com",
+							"display_url": "howmystery.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 339,
+			"friends_count": 142,
+			"listed_count": 5,
+			"created_at": "Thu Jan 24 10:53:13 +0000 2019",
+			"favourites_count": 296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4039,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366559980648689667/Q1OVVARj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366559980648689667/Q1OVVARj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1088389252717527040/1572840555",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@happiest_cat 사회적 범죄는 사회 질서를 무너뜨리는 행위이고 그 질서를 논리라는 도구를 들고 회복하는 이가 탐정입니다. 이런 구조에서 보면 범죄는 미스터리 장르에 내재된 규칙입니다. 그리고 살인은 가장 무거운 범죄이죠."
+	},
+	{
 		"created_at": "Thu Apr 22 15:35:10 +0000 2021",
 		"id": 1385195651705622500,
 		"id_str": "1385255867252023299",
