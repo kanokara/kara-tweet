@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Fri Apr 23 19:51:30 +0000 2021",
+		"id": 1384748067404935200,
+		"id_str": "1385682765778087937",
+		"full_text": "@hakun233 캐릭터 디자인에서도 악역한테 찢어진 눈 속성을 자주 부여하는 것을 본다면...",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hakun233",
+					"name": "(늙고병든)독거군인",
+					"id": 2797965082,
+					"id_str": "2797965082",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1384580924365361200,
+		"in_reply_to_status_id_str": "1384580924365361158",
+		"in_reply_to_user_id": 2797965082,
+		"in_reply_to_user_id_str": "2797965082",
+		"in_reply_to_screen_name": "hakun233",
+		"user": {
+			"id": 3194058320,
+			"id_str": "3194058320",
+			"name": "Jacob Stevenson",
+			"screen_name": "gangsu0503",
+			"location": "",
+			"description": "두번째 계정: @gangsusecond\n\n올ㅋ\n\nBackground by @13thprotector,thank you mate!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29,
+			"friends_count": 1449,
+			"listed_count": 0,
+			"created_at": "Wed May 13 07:52:12 +0000 2015",
+			"favourites_count": 27928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 908,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1379195455163170816/FAVYvfdx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1379195455163170816/FAVYvfdx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3194058320/1617660839",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@hakun233 캐릭터 디자인에서도 악역한테 찢어진 눈 속성을 자주 부여하는 것을 본다면..."
+	},
+	{
+		"created_at": "Fri Apr 23 19:51:29 +0000 2021",
+		"id": 1384580924365361200,
+		"id_str": "1385682759327248384",
+		"full_text": "이 그림이 ㅈㄴ 웃긴게, 가운데 만주족 관리 눈을 찢어진 눈으로 그리고 한족들은 눈알을 그려놓은거다.\n\n한중일을 포함한 동아시아인들은 외국인이 째진 눈을 묘사하면 분기탱천하면서 정작 마음에 안들면 서로를 째진눈으로 비하하는 못된 버릇이 있다. https://t.co/NemOLmsXP2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NemOLmsXP2",
+					"expanded_url": "https://twitter.com/M6080174613/status/1384390506646433795",
+					"display_url": "twitter.com/M6080174613/st…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2797965082,
+			"id_str": "2797965082",
+			"name": "(늙고병든)독거군인",
+			"screen_name": "hakun233",
+			"location": "Dallas, TX",
+			"description": "전역이 다시 다가오는 구닌\nD-264",
+			"url": "https://t.co/IjvNt6G6Jc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IjvNt6G6Jc",
+							"expanded_url": "http://blog.naver.com/koreagkwsdl",
+							"display_url": "blog.naver.com/koreagkwsdl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 538,
+			"friends_count": 472,
+			"listed_count": 3,
+			"created_at": "Wed Oct 01 13:01:06 +0000 2014",
+			"favourites_count": 37849,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352481446552875010/M3SG61Bi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352481446552875010/M3SG61Bi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2797965082/1602196354",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1384390506646433800,
+		"quoted_status_id_str": "1384390506646433795",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NemOLmsXP2",
+			"expanded": "https://twitter.com/M6080174613/status/1384390506646433795",
+			"display": "twitter.com/M6080174613/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 20 06:16:32 +0000 2021",
+			"id": 1384390506646433800,
+			"id_str": "1384390506646433795",
+			"full_text": "@dndudwp99 😢 https://t.co/jlNSDT9AVP",
+			"truncated": false,
+			"display_text_range": [
+				11,
+				12
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dndudwp99",
+						"name": "좌용곡",
+						"id": 699246344192405500,
+						"id_str": "699246344192405506",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1384390502015901700,
+						"id_str": "1384390502015901699",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/EzZX06cVIAM9x9q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzZX06cVIAM9x9q.jpg",
+						"url": "https://t.co/jlNSDT9AVP",
+						"display_url": "pic.twitter.com/jlNSDT9AVP",
+						"expanded_url": "https://twitter.com/M6080174613/status/1384390506646433795/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 699,
+								"h": 769,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 699,
+								"h": 769,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 618,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1384390502015901700,
+						"id_str": "1384390502015901699",
+						"indices": [
+							13,
+							36
+						],
+						"media_url": "http://pbs.twimg.com/media/EzZX06cVIAM9x9q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzZX06cVIAM9x9q.jpg",
+						"url": "https://t.co/jlNSDT9AVP",
+						"display_url": "pic.twitter.com/jlNSDT9AVP",
+						"expanded_url": "https://twitter.com/M6080174613/status/1384390506646433795/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 699,
+								"h": 769,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 699,
+								"h": 769,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 618,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1384201124752683000,
+			"in_reply_to_status_id_str": "1384201124752683019",
+			"in_reply_to_user_id": 699246344192405500,
+			"in_reply_to_user_id_str": "699246344192405506",
+			"in_reply_to_screen_name": "dndudwp99",
+			"user": {
+				"id": 1351811159729442800,
+				"id_str": "1351811159729442817",
+				"name": "日啖荔枝三百颗",
+				"screen_name": "M6080174613",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1,
+				"friends_count": 1,
+				"listed_count": 0,
+				"created_at": "Wed Jan 20 08:38:10 +0000 2021",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1384495928950759430/1d8DeXsh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384495928950759430/1d8DeXsh_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 57,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 그림이 ㅈㄴ 웃긴게, 가운데 만주족 관리 눈을 찢어진 눈으로 그리고 한족들은 눈알을 그려놓은거다.\n\n한중일을 포함한 동아시아인들은 외국인이 째진 눈을 묘사하면 분기탱천하면서 정작 마음에 안들면 서로를 째진눈으로 비하하는 못된 버릇이 있다. https://t.co/NemOLmsXP2"
+	},
+	{
 		"created_at": "Fri Apr 23 14:27:39 +0000 2021",
 		"id": 1384456979158950000,
 		"id_str": "1385601266299011075",
