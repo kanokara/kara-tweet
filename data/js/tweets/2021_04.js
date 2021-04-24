@@ -1,6 +1,295 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sat Apr 24 14:09:26 +0000 2021",
+		"id": 1385959067663802400,
+		"id_str": "1385959067663802373",
+		"full_text": "음... 사실 해당 작법론은 분석의 대상이 된 데이터가 협소하기 때문에 문제가 있는 게 맞다고 봐요. 다만 동양에서 쓰이는 '주인공'이란 용어는 역으로 서사에서 주인공이 갖는 '영웅(히어로)적 속성'을 간과하게 만드는 문제가 있다고 보고...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13564,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "음... 사실 해당 작법론은 분석의 대상이 된 데이터가 협소하기 때문에 문제가 있는 게 맞다고 봐요. 다만 동양에서 쓰이는 '주인공'이란 용어는 역으로 서사에서 주인공이 갖는 '영웅(히어로)적 속성'을 간과하게 만드는 문제가 있다고 보고..."
+	},
+	{
+		"created_at": "Sat Apr 24 14:06:53 +0000 2021",
+		"id": 1385860143280115700,
+		"id_str": "1385958428233715713",
+		"full_text": "동감. 그냥 주인공이라는 뜻 이상도 이하도 아니다 https://t.co/pnuGgsXPLf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pnuGgsXPLf",
+					"expanded_url": "https://twitter.com/prof_caligari/status/1385859670418415618",
+					"display_url": "twitter.com/prof_caligari/…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 187070498,
+			"id_str": "187070498",
+			"name": "손지상(孫 志尚, Son Ji-Sang)",
+			"screen_name": "doskharaas",
+			"location": "독방",
+			"description": "원고의뢰 및 문의: sonkaiju 네이버메일 | 저서 및 역서 목록: https://t.co/8qFNSt2HwY",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8qFNSt2HwY",
+							"expanded_url": "http://m.aladin.co.kr/m/msearch.aspx?SearchTarget=Book&KeyWord=%EC%86%90%EC%A7%80%EC%83%81&KeyRecentPublish=0&OutStock=0",
+							"display_url": "m.aladin.co.kr/m/msearch.aspx…",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3428,
+			"friends_count": 1372,
+			"listed_count": 48,
+			"created_at": "Sun Sep 05 04:57:43 +0000 2010",
+			"favourites_count": 47019,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 179821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380751442831499264/vS_yTMCr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380751442831499264/vS_yTMCr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/187070498/1618031772",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1385859670418415600,
+		"quoted_status_id_str": "1385859670418415618",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pnuGgsXPLf",
+			"expanded": "https://twitter.com/prof_caligari/status/1385859670418415618",
+			"display": "twitter.com/prof_caligari/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 24 07:34:28 +0000 2021",
+			"id": 1385859670418415600,
+			"id_str": "1385859670418415618",
+			"full_text": "작법에서 말하는 '영웅'과 '영웅의 여정' 같은 단어는 신화 구조 분석에서 온 작법 용어로, 캐릭터가 꼭 신화적 모험을 하는 영웅이라는 뜻이 아니다. 기본적인 용어일 뿐인데도 '꼭 영웅이어야만 하고 영웅 모험 작법을 따라야 할 필요가 있나요?' 등으로 반박하는 자칭 창작 전문가들을 만나곤 한다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				165
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1368889692645564400,
+				"id_str": "1368889692645564417",
+				"name": "칼리가리교수",
+				"screen_name": "Prof_Caligari",
+				"location": "",
+				"description": "장르소설 및 시나리오 작가. 어딘가의 교수.",
+				"url": "https://t.co/7KqLzCNs8Y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7KqLzCNs8Y",
+								"expanded_url": "https://mythodyssey.com",
+								"display_url": "mythodyssey.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28,
+				"friends_count": 26,
+				"listed_count": 0,
+				"created_at": "Mon Mar 08 11:42:02 +0000 2021",
+				"favourites_count": 12,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 129,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1368890055884861445/_yikp2yC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368890055884861445/_yikp2yC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1368889692645564417/1615261516",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 130,
+			"favorite_count": 85,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 86,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "동감. 그냥 주인공이라는 뜻 이상도 이하도 아니다 https://t.co/pnuGgsXPLf"
+	},
+	{
 		"created_at": "Fri Apr 23 19:51:30 +0000 2021",
 		"id": 1384748067404935200,
 		"id_str": "1385682765778087937",
