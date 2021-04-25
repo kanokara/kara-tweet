@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sun Apr 25 19:08:09 +0000 2021",
+		"id": 1385485123953455000,
+		"id_str": "1386396631151513600",
+		"full_text": "베리툰한테 서구중심 어쩌고 부르주아 어쩌고 한가하게 반박을 위한 반박 놀이나 하는 자들은 생분해해서 연료로 써야할것 https://t.co/vd6nyv6a2Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vd6nyv6a2Z",
+					"expanded_url": "https://twitter.com/t_ransborder/status/1385458553486413824",
+					"display_url": "twitter.com/t_ransborder/s…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 102602316,
+			"id_str": "102602316",
+			"name": "신・오폐적타쿠 ☔",
+			"screen_name": "klazykon",
+			"location": "외주 관련 문의 klazykon☆gmail.com",
+			"description": "- ̗̀  ٩(`ᗜ´๑)و   ̖́- https://t.co/6UediGyWs7 레진코믹스에서 마리(MARi) 연재했었습니다. / 픽시브 https://t.co/3D2MHWp8a9 / 텀블러 https://t.co/qCBHrTsSZd #에이스펙트럼우산습격단",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6UediGyWs7",
+							"expanded_url": "http://lezhin.com/comic/mari",
+							"display_url": "lezhin.com/comic/mari",
+							"indices": [
+								21,
+								44
+							]
+						},
+						{
+							"url": "https://t.co/3D2MHWp8a9",
+							"expanded_url": "http://pixiv.me/klazykon",
+							"display_url": "pixiv.me/klazykon",
+							"indices": [
+								77,
+								100
+							]
+						},
+						{
+							"url": "https://t.co/qCBHrTsSZd",
+							"expanded_url": "http://jeonjagyezip.tumblr.com",
+							"display_url": "jeonjagyezip.tumblr.com",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1595,
+			"friends_count": 2161,
+			"listed_count": 31,
+			"created_at": "Thu Jan 07 06:56:45 +0000 2010",
+			"favourites_count": 125389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 244662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163017186375426048/9QQ8An6Y_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163017186375426048/9QQ8An6Y_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/102602316/1579593581",
+			"profile_link_color": "F55E0C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1385458553486413800,
+		"quoted_status_id_str": "1385458553486413824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vd6nyv6a2Z",
+			"expanded": "https://twitter.com/t_ransborder/status/1385458553486413824",
+			"display": "twitter.com/t_ransborder/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 23 05:00:34 +0000 2021",
+			"id": 1385458553486413800,
+			"id_str": "1385458553486413824",
+			"full_text": "세계기상기구는 기후변화의 마지노선으로 여겨지는 지구 평균기온 상승폭 1.5도선이 3년 내 붕괴될 수 있다고 경고했습니다.\n\n[안토니우 구테흐스 유엔사무총장]\n\"(기온 상승폭) 1.5도 저지선을 넘으면 세계는 파국적인 상황으로 치달을 것입니다. 이제 시간이 없습니다.\"\n\nhttps://t.co/ldnZPyV60b",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				174
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ldnZPyV60b",
+						"expanded_url": "https://imnews.imbc.com/replay/2021/nwdesk/article/6157447_34936.html",
+						"display_url": "imnews.imbc.com/replay/2021/nw…",
+						"indices": [
+							151,
+							174
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 835932179188207600,
+				"id_str": "835932179188207616",
+				"name": "에스텔 뉴스계정",
+				"screen_name": "t_ransborder",
+				"location": "",
+				"description": "@estel_eldalieva",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 527,
+				"friends_count": 0,
+				"listed_count": 3,
+				"created_at": "Sun Feb 26 19:18:57 +0000 2017",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 840,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1007531335722733568/NSo1-Aso_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007531335722733568/NSo1-Aso_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 278,
+			"favorite_count": 58,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "베리툰한테 서구중심 어쩌고 부르주아 어쩌고 한가하게 반박을 위한 반박 놀이나 하는 자들은 생분해해서 연료로 써야할것 https://t.co/vd6nyv6a2Z"
+	},
+	{
 		"created_at": "Sat Apr 24 14:09:26 +0000 2021",
 		"id": 1385959067663802400,
 		"id_str": "1385959067663802373",
