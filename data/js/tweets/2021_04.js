@@ -1,6 +1,438 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 26 09:56:21 +0000 2021",
+		"id": 1386620154948194300,
+		"id_str": "1386620154948194309",
+		"full_text": "이렇게 '자율성을 획득한 도시'가 국가 안에 위치하면 자유도시가, 국가 바깥에 위치하면 도시국가가 되는 것이죠. 시민 집단은 바로 이러한 환경에서 배태되어 자신들의 영역을 만들어간 이들이고요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386615363220107300,
+		"in_reply_to_status_id_str": "1386615363220107265",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이렇게 '자율성을 획득한 도시'가 국가 안에 위치하면 자유도시가, 국가 바깥에 위치하면 도시국가가 되는 것이죠. 시민 집단은 바로 이러한 환경에서 배태되어 자신들의 영역을 만들어간 이들이고요."
+	},
+	{
+		"created_at": "Mon Apr 26 09:37:19 +0000 2021",
+		"id": 1386615363220107300,
+		"id_str": "1386615363220107265",
+		"full_text": "인근 영토세력의 교차의 균형으로 형성되는 공백지에서 자율성을 획득하고, 다시 이러한 노드(=약한 유대의 집단) 간의 네트워크(=도시 간의 동맹)로 되먹이며 서로를 강화하는 것이죠. 이 연결은 자연히 '상업=교환'에 맞추어지는 법이고요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386613497149096000,
+		"in_reply_to_status_id_str": "1386613497149095937",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "인근 영토세력의 교차의 균형으로 형성되는 공백지에서 자율성을 획득하고, 다시 이러한 노드(=약한 유대의 집단) 간의 네트워크(=도시 간의 동맹)로 되먹이며 서로를 강화하는 것이죠. 이 연결은 자연히 '상업=교환'에 맞추어지는 법이고요."
+	},
+	{
+		"created_at": "Mon Apr 26 09:29:54 +0000 2021",
+		"id": 1386613497149096000,
+		"id_str": "1386613497149095937",
+		"full_text": "도시국가란 무엇일까. 이 물음은 네트워크 이론의 '구조적 공백(Structural hole)' 개념으로 이해할 수 있다고 보는데요, 말하자면 영토(=면)를 점유한 '강한 유대를 가진 집단'들 사이를 연결하는 (약한 유대의) 노드라고 해석할 수 있어요. https://t.co/oaYK3KKhTD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1386613393113583600,
+					"id_str": "1386613393113583619",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/Ez49iNFVkAMhWTH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ez49iNFVkAMhWTH.jpg",
+					"url": "https://t.co/oaYK3KKhTD",
+					"display_url": "pic.twitter.com/oaYK3KKhTD",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1386613497149095937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 483,
+							"h": 482,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 483,
+							"h": 482,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 482,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386613393113583600,
+					"id_str": "1386613393113583619",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/Ez49iNFVkAMhWTH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ez49iNFVkAMhWTH.jpg",
+					"url": "https://t.co/oaYK3KKhTD",
+					"display_url": "pic.twitter.com/oaYK3KKhTD",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1386613497149095937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 483,
+							"h": 482,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 483,
+							"h": 482,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 482,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "도시국가란 무엇일까. 이 물음은 네트워크 이론의 '구조적 공백(Structural hole)' 개념으로 이해할 수 있다고 보는데요, 말하자면 영토(=면)를 점유한 '강한 유대를 가진 집단'들 사이를 연결하는 (약한 유대의) 노드라고 해석할 수 있어요. https://t.co/oaYK3KKhTD"
+	},
+	{
+		"created_at": "Mon Apr 26 09:19:09 +0000 2021",
+		"id": 1386172025929011200,
+		"id_str": "1386610794096336898",
+		"full_text": "@jeehoon_kang Bryan Caplan의 글 The Magic of Education도 읽어볼만 합니다. https://t.co/7v9x5c6r6a",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jeehoon_kang",
+					"name": "지러",
+					"id": 2273824435,
+					"id_str": "2273824435",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7v9x5c6r6a",
+					"expanded_url": "https://www.econlib.org/archives/2011/11/the_magic_of_ed.html",
+					"display_url": "econlib.org/archives/2011/…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1386171912213074000,
+		"in_reply_to_status_id_str": "1386171912213073921",
+		"in_reply_to_user_id": 15275230,
+		"in_reply_to_user_id_str": "15275230",
+		"in_reply_to_screen_name": "sanxiyn",
+		"user": {
+			"id": 15275230,
+			"id_str": "15275230",
+			"name": "Seo Sanghyeon",
+			"screen_name": "sanxiyn",
+			"location": "Seoul, South Korea",
+			"description": "Google user, system coder, Rust contributor. He/him.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 628,
+			"friends_count": 724,
+			"listed_count": 32,
+			"created_at": "Mon Jun 30 02:09:01 +0000 2008",
+			"favourites_count": 416,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1257278112036868096/cMmY6JKv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1257278112036868096/cMmY6JKv_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@jeehoon_kang Bryan Caplan의 글 The Magic of Education도 읽어볼만 합니다. https://t.co/7v9x5c6r6a"
+	},
+	{
 		"created_at": "Sun Apr 25 19:08:09 +0000 2021",
 		"id": 1385485123953455000,
 		"id_str": "1386396631151513600",
