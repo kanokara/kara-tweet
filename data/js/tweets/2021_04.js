@@ -1,6 +1,1359 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Tue Apr 27 08:36:25 +0000 2021",
+		"id": 1386962424004186000,
+		"id_str": "1386962424004186112",
+		"full_text": "저는 중학교 때 이와 같은 얘기를 처음 접했는데, 여성부가 만들어지며 YWCA의 인적 자원을 승계했다...는 식으로 이해했던 거 같아요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "저는 중학교 때 이와 같은 얘기를 처음 접했는데, 여성부가 만들어지며 YWCA의 인적 자원을 승계했다...는 식으로 이해했던 거 같아요."
+	},
+	{
+		"created_at": "Tue Apr 27 08:34:56 +0000 2021",
+		"id": 1386916901956161500,
+		"id_str": "1386962050551730176",
+		"full_text": "제가 이 이야기 처음 본 게 1991년 출간된 어떤 잡지였는데요, 그때도 ‘그거 거짓말이야’라고 적혀있더라고요. 30년전에도 헛소리라고 하던 걸 아직까지 믿고 있으니까 대가리가 꽃밭이죠. https://t.co/iShBTh9pm3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iShBTh9pm3",
+					"expanded_url": "https://twitter.com/danishgirl1920/status/1386905108999413760",
+					"display_url": "twitter.com/danishgirl1920…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 129115028,
+			"id_str": "129115028",
+			"name": "Nekizlab",
+			"screen_name": "nekizlab",
+			"location": "Seoul, Korea",
+			"description": "독서가입니다. 진짜임.",
+			"url": "https://t.co/WtnttZzWxT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WtnttZzWxT",
+							"expanded_url": "http://www.nekizlab.com/",
+							"display_url": "nekizlab.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1876,
+			"friends_count": 321,
+			"listed_count": 22,
+			"created_at": "Sat Apr 03 06:31:10 +0000 2010",
+			"favourites_count": 213408,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 303143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/577243935996702720/mx0uvSNR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/577243935996702720/mx0uvSNR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/129115028/1605342558",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1386905108999413800,
+		"quoted_status_id_str": "1386905108999413760",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iShBTh9pm3",
+			"expanded": "https://twitter.com/danishgirl1920/status/1386905108999413760",
+			"display": "twitter.com/danishgirl1920…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 27 04:48:40 +0000 2021",
+			"id": 1386905108999413800,
+			"id_str": "1386905108999413760",
+			"full_text": "여가부만큼 재정낭비도 없음\n죠리퐁이 여성의 성기를 상징한다고 판매중지요청한 것만 생각남. 과자 먹으면서 어떻게 그런 기발한 생각을 하는지 ㅋㅋㅋ 니네는 보리는 절대 안먹겠다.\n아!! 테트리스도 성관계 묘사한다고 했던가? 뇌구조가 궁금함 https://t.co/nvZPTaen2G",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				131
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nvZPTaen2G",
+						"expanded_url": "https://twitter.com/KBSnews/status/1386872723733770241",
+						"display_url": "twitter.com/KBSnews/status…",
+						"indices": [
+							132,
+							155
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 301877968,
+				"id_str": "301877968",
+				"name": "흑화된 대가리꽃밭",
+				"screen_name": "DanishGirl1920",
+				"location": "The Moon",
+				"description": "자스민티가 향긋해♡",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 147,
+				"friends_count": 128,
+				"listed_count": 10,
+				"created_at": "Fri May 20 06:51:46 +0000 2011",
+				"favourites_count": 1380,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30427,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1337099744154304512/H9hlIzSz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1337099744154304512/H9hlIzSz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/301877968/1607624484",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1386872723733770200,
+			"quoted_status_id_str": "1386872723733770241",
+			"quoted_status_permalink": {
+				"url": "https://t.co/nvZPTaen2G",
+				"expanded": "https://twitter.com/KBSnews/status/1386872723733770241",
+				"display": "twitter.com/KBSnews/status…"
+			},
+			"retweet_count": 8,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1159,
+		"favorite_count": 206,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제가 이 이야기 처음 본 게 1991년 출간된 어떤 잡지였는데요, 그때도 ‘그거 거짓말이야’라고 적혀있더라고요. 30년전에도 헛소리라고 하던 걸 아직까지 믿고 있으니까 대가리가 꽃밭이죠. https://t.co/iShBTh9pm3"
+	},
+	{
+		"created_at": "Tue Apr 27 08:33:18 +0000 2021",
+		"id": 1386944165376794600,
+		"id_str": "1386961640260657162",
+		"full_text": "이걸 YWCA라고 들은 사람하고 여가부라고 들은 사람이 세대가 갈리는 것 같아. https://t.co/z8UBEMCmL5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z8UBEMCmL5",
+					"expanded_url": "https://twitter.com/DanishGirl1920/status/1386905108999413760",
+					"display_url": "twitter.com/DanishGirl1920…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 857959079431426000,
+			"id_str": "857959079431426048",
+			"name": "ilsimin",
+			"screen_name": "ilsimin",
+			"location": "",
+			"description": "P×아이돌은 자명한 진리입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 116,
+			"friends_count": 585,
+			"listed_count": 7,
+			"created_at": "Fri Apr 28 14:05:59 +0000 2017",
+			"favourites_count": 18972,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67867,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108935956545994752/ROMY8GKi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108935956545994752/ROMY8GKi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/857959079431426048/1560472118",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1386905108999413800,
+		"quoted_status_id_str": "1386905108999413760",
+		"quoted_status_permalink": {
+			"url": "https://t.co/z8UBEMCmL5",
+			"expanded": "https://twitter.com/DanishGirl1920/status/1386905108999413760",
+			"display": "twitter.com/DanishGirl1920…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 27 04:48:40 +0000 2021",
+			"id": 1386905108999413800,
+			"id_str": "1386905108999413760",
+			"full_text": "여가부만큼 재정낭비도 없음\n죠리퐁이 여성의 성기를 상징한다고 판매중지요청한 것만 생각남. 과자 먹으면서 어떻게 그런 기발한 생각을 하는지 ㅋㅋㅋ 니네는 보리는 절대 안먹겠다.\n아!! 테트리스도 성관계 묘사한다고 했던가? 뇌구조가 궁금함 https://t.co/nvZPTaen2G",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				131
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nvZPTaen2G",
+						"expanded_url": "https://twitter.com/KBSnews/status/1386872723733770241",
+						"display_url": "twitter.com/KBSnews/status…",
+						"indices": [
+							132,
+							155
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 301877968,
+				"id_str": "301877968",
+				"name": "흑화된 대가리꽃밭",
+				"screen_name": "DanishGirl1920",
+				"location": "The Moon",
+				"description": "자스민티가 향긋해♡",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 147,
+				"friends_count": 128,
+				"listed_count": 10,
+				"created_at": "Fri May 20 06:51:46 +0000 2011",
+				"favourites_count": 1380,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30427,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1337099744154304512/H9hlIzSz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1337099744154304512/H9hlIzSz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/301877968/1607624484",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1386872723733770200,
+			"quoted_status_id_str": "1386872723733770241",
+			"quoted_status_permalink": {
+				"url": "https://t.co/nvZPTaen2G",
+				"expanded": "https://twitter.com/KBSnews/status/1386872723733770241",
+				"display": "twitter.com/KBSnews/status…"
+			},
+			"retweet_count": 8,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 64,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이걸 YWCA라고 들은 사람하고 여가부라고 들은 사람이 세대가 갈리는 것 같아. https://t.co/z8UBEMCmL5"
+	},
+	{
+		"created_at": "Tue Apr 27 08:32:30 +0000 2021",
+		"id": 1386954327500017700,
+		"id_str": "1386961441064816642",
+		"full_text": "나 이거 기억도 못 했는데 진짜 초딩때 남자 여자 할 것 없이 애들이 다 여가부 욕 하면서 죠리퐁이랑 누드 빼빼로 얘기 했음... 지금 생각하니까 무섭다 https://t.co/bkICNygCwj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bkICNygCwj",
+					"expanded_url": "https://twitter.com/DanishGirl1920/status/1386905108999413760",
+					"display_url": "twitter.com/DanishGirl1920…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1247201682485731300,
+			"id_str": "1247201682485731329",
+			"name": "ʙʟᴏᴏᴍɪɴɢ ʙʟᴜᴇ",
+			"screen_name": "bxloxom",
+			"location": "",
+			"description": "🎻🦋🐿👽🦦👿 ㅣ인장은 오이님💙",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 205,
+			"listed_count": 0,
+			"created_at": "Mon Apr 06 16:37:14 +0000 2020",
+			"favourites_count": 6448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271380372484325376/OK6TT4eh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271380372484325376/OK6TT4eh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1247201682485731329/1588050078",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1386905108999413800,
+		"quoted_status_id_str": "1386905108999413760",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bkICNygCwj",
+			"expanded": "https://twitter.com/DanishGirl1920/status/1386905108999413760",
+			"display": "twitter.com/DanishGirl1920…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 27 04:48:40 +0000 2021",
+			"id": 1386905108999413800,
+			"id_str": "1386905108999413760",
+			"full_text": "여가부만큼 재정낭비도 없음\n죠리퐁이 여성의 성기를 상징한다고 판매중지요청한 것만 생각남. 과자 먹으면서 어떻게 그런 기발한 생각을 하는지 ㅋㅋㅋ 니네는 보리는 절대 안먹겠다.\n아!! 테트리스도 성관계 묘사한다고 했던가? 뇌구조가 궁금함 https://t.co/nvZPTaen2G",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				131
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nvZPTaen2G",
+						"expanded_url": "https://twitter.com/KBSnews/status/1386872723733770241",
+						"display_url": "twitter.com/KBSnews/status…",
+						"indices": [
+							132,
+							155
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 301877968,
+				"id_str": "301877968",
+				"name": "흑화된 대가리꽃밭",
+				"screen_name": "DanishGirl1920",
+				"location": "The Moon",
+				"description": "자스민티가 향긋해♡",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 147,
+				"friends_count": 128,
+				"listed_count": 10,
+				"created_at": "Fri May 20 06:51:46 +0000 2011",
+				"favourites_count": 1380,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30427,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1337099744154304512/H9hlIzSz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1337099744154304512/H9hlIzSz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/301877968/1607624484",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1386872723733770200,
+			"quoted_status_id_str": "1386872723733770241",
+			"quoted_status_permalink": {
+				"url": "https://t.co/nvZPTaen2G",
+				"expanded": "https://twitter.com/KBSnews/status/1386872723733770241",
+				"display": "twitter.com/KBSnews/status…"
+			},
+			"retweet_count": 8,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나 이거 기억도 못 했는데 진짜 초딩때 남자 여자 할 것 없이 애들이 다 여가부 욕 하면서 죠리퐁이랑 누드 빼빼로 얘기 했음... 지금 생각하니까 무섭다 https://t.co/bkICNygCwj"
+	},
+	{
+		"created_at": "Tue Apr 27 08:32:02 +0000 2021",
+		"id": 1386927428279275500,
+		"id_str": "1386961321745256451",
+		"full_text": "PC통신 시절에 유머로 돌던 저 개소릴 그 때 막았어야 했는데.. 개인사업가가 화성탐사선을 만들고, 노래를 만드는 인공지능이 나타나고, 버추얼 아이돌의 홀로그램 공연이 열리는 2021년까지도 저 죠리퐁 괴담을 인터넷에서 보게될 줄 대체 누가 생각이나 했겠냐고.. https://t.co/IAElGDUQlo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IAElGDUQlo",
+					"expanded_url": "https://twitter.com/DanishGirl1920/status/1386905108999413760",
+					"display_url": "twitter.com/DanishGirl1920…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265790061,
+			"id_str": "265790061",
+			"name": "카페인😷",
+			"screen_name": "Studio_Switch",
+			"location": "5번 상업구역 24번 소형빌딩 2층",
+			"description": "VFX CG 합니다 🛑 I don't post my work here 🚧 서버 굴리는 컴덕. 레트로게임 덕. 총기 밀덕. Arch Linux/Proxmox/OMV/KDE5/Docker 좋아함. #GirlsCanDoAnything 음악추천: @caffe_playlist",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 349,
+			"friends_count": 2764,
+			"listed_count": 12,
+			"created_at": "Mon Mar 14 04:24:07 +0000 2011",
+			"favourites_count": 44551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 308008,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1122552753077637121/qXlROMzZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1122552753077637121/qXlROMzZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265790061/1472610096",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1386905108999413800,
+		"quoted_status_id_str": "1386905108999413760",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IAElGDUQlo",
+			"expanded": "https://twitter.com/DanishGirl1920/status/1386905108999413760",
+			"display": "twitter.com/DanishGirl1920…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 27 04:48:40 +0000 2021",
+			"id": 1386905108999413800,
+			"id_str": "1386905108999413760",
+			"full_text": "여가부만큼 재정낭비도 없음\n죠리퐁이 여성의 성기를 상징한다고 판매중지요청한 것만 생각남. 과자 먹으면서 어떻게 그런 기발한 생각을 하는지 ㅋㅋㅋ 니네는 보리는 절대 안먹겠다.\n아!! 테트리스도 성관계 묘사한다고 했던가? 뇌구조가 궁금함 https://t.co/nvZPTaen2G",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				131
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nvZPTaen2G",
+						"expanded_url": "https://twitter.com/KBSnews/status/1386872723733770241",
+						"display_url": "twitter.com/KBSnews/status…",
+						"indices": [
+							132,
+							155
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 301877968,
+				"id_str": "301877968",
+				"name": "흑화된 대가리꽃밭",
+				"screen_name": "DanishGirl1920",
+				"location": "The Moon",
+				"description": "자스민티가 향긋해♡",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 147,
+				"friends_count": 128,
+				"listed_count": 10,
+				"created_at": "Fri May 20 06:51:46 +0000 2011",
+				"favourites_count": 1380,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30427,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1337099744154304512/H9hlIzSz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1337099744154304512/H9hlIzSz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/301877968/1607624484",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1386872723733770200,
+			"quoted_status_id_str": "1386872723733770241",
+			"quoted_status_permalink": {
+				"url": "https://t.co/nvZPTaen2G",
+				"expanded": "https://twitter.com/KBSnews/status/1386872723733770241",
+				"display": "twitter.com/KBSnews/status…"
+			},
+			"retweet_count": 8,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 17,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "PC통신 시절에 유머로 돌던 저 개소릴 그 때 막았어야 했는데.. 개인사업가가 화성탐사선을 만들고, 노래를 만드는 인공지능이 나타나고, 버추얼 아이돌의 홀로그램 공연이 열리는 2021년까지도 저 죠리퐁 괴담을 인터넷에서 보게될 줄 대체 누가 생각이나 했겠냐고.. https://t.co/IAElGDUQlo"
+	},
+	{
+		"created_at": "Tue Apr 27 08:30:44 +0000 2021",
+		"id": 1386960993855500300,
+		"id_str": "1386960993855500290",
+		"full_text": "가상의 퍼스널 스페이스의 존중은 도시인이 체득하게 되는 매너 같은 거죠. 관련하여 다룬 일본 비평서가 기억 나네요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "가상의 퍼스널 스페이스의 존중은 도시인이 체득하게 되는 매너 같은 거죠. 관련하여 다룬 일본 비평서가 기억 나네요."
+	},
+	{
+		"created_at": "Tue Apr 27 08:29:28 +0000 2021",
+		"id": 1386935131894472700,
+		"id_str": "1386960676736831495",
+		"full_text": "RT) 나도 이건 어떤 느낌인지 알 것같은데.... 그 가게에서 내가 더이상 익명이 아니게 되는 기분이랄까. 그래서 카페나 편의점 같은 데는 아는 척 안 해주는 게 편하다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3235646006,
+			"id_str": "3235646006",
+			"name": "그냥냥씨@웹생재활중",
+			"screen_name": "NyaNyaNyangC",
+			"location": "오타쿠웨이",
+			"description": "나는 능히 할 수가 없다. 능이버섯이다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1454,
+			"friends_count": 882,
+			"listed_count": 17,
+			"created_at": "Thu Jun 04 03:14:06 +0000 2015",
+			"favourites_count": 6198,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 79346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265116222288359424/MlolO4dN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265116222288359424/MlolO4dN_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "RT) 나도 이건 어떤 느낌인지 알 것같은데.... 그 가게에서 내가 더이상 익명이 아니게 되는 기분이랄까. 그래서 카페나 편의점 같은 데는 아는 척 안 해주는 게 편하다."
+	},
+	{
+		"created_at": "Tue Apr 27 08:28:38 +0000 2021",
+		"id": 1386933933468647400,
+		"id_str": "1386960467436851200",
+		"full_text": "이거 나도 그런데. 단골 가게를 계속 들려야할 것 같은 부담감도 있고, 어쩌다가 단골 가게를 안 가게 될 수도 있는데 그런 때에 괜히 죄책감 들어서 그럴 바엔 그냥 그 가게를 안 가게 되는. https://t.co/7DdtTspl9v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7DdtTspl9v",
+					"expanded_url": "https://twitter.com/whitemilk_s/status/1386874180424015874",
+					"display_url": "twitter.com/whitemilk_s/st…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1627227828,
+			"id_str": "1627227828",
+			"name": "위래🌹☂️",
+			"screen_name": "N91211",
+			"location": "n91211.postype.com",
+			"description": "단편 「미궁에는 괴물이」가 2010년 10월 네이버 ‘오늘의 문학’란 게재 되어 첫 고료를 받았다. 이후 여러 지면에 장르소설 단편을 썼고, 웹소설 『마왕이 너무 많다』를 11권으로 문피아에서 완결했다. 현재 문피아에서 『슬기로운 문명생활』을 연재중이다.",
+			"url": "https://t.co/OfoZqj1u83",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OfoZqj1u83",
+							"expanded_url": "https://britg.kr/user/wirae",
+							"display_url": "britg.kr/user/wirae",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2232,
+			"friends_count": 883,
+			"listed_count": 23,
+			"created_at": "Sun Jul 28 06:48:52 +0000 2013",
+			"favourites_count": 239746,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 167433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250807726638198785/U2TPPNJn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250807726638198785/U2TPPNJn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1627227828/1585831639",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1386874180424016000,
+		"quoted_status_id_str": "1386874180424015874",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7DdtTspl9v",
+			"expanded": "https://twitter.com/whitemilk_s/status/1386874180424015874",
+			"display": "twitter.com/whitemilk_s/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 27 02:45:46 +0000 2021",
+			"id": 1386874180424016000,
+			"id_str": "1386874180424015874",
+			"full_text": "와 요즘애들 진짜 띠용이다 https://t.co/1fEbLJ8nf8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				14
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1386874144826957800,
+						"id_str": "1386874144826957826",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/Ez8qr86VoAIU072.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ez8qr86VoAIU072.png",
+						"url": "https://t.co/1fEbLJ8nf8",
+						"display_url": "pic.twitter.com/1fEbLJ8nf8",
+						"expanded_url": "https://twitter.com/whitemilk_s/status/1386874180424015874/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 640,
+								"h": 639,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 639,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 639,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1386874144826957800,
+						"id_str": "1386874144826957826",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/Ez8qr86VoAIU072.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ez8qr86VoAIU072.png",
+						"url": "https://t.co/1fEbLJ8nf8",
+						"display_url": "pic.twitter.com/1fEbLJ8nf8",
+						"expanded_url": "https://twitter.com/whitemilk_s/status/1386874180424015874/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 640,
+								"h": 639,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 639,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 639,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 338919139,
+				"id_str": "338919139",
+				"name": "우유",
+				"screen_name": "whitemilk_s",
+				"location": "",
+				"description": "1D~3D｜책애만겜드영연뮤돌｜FUB 편하게",
+				"url": "https://t.co/afxFLbv0y0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/afxFLbv0y0",
+								"expanded_url": "http://peing.net/ko/whitemilk_s",
+								"display_url": "peing.net/ko/whitemilk_s",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 505,
+				"friends_count": 412,
+				"listed_count": 10,
+				"created_at": "Wed Jul 20 09:09:27 +0000 2011",
+				"favourites_count": 11526,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 224494,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1381541640569987072/VVWdVpDD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1381541640569987072/VVWdVpDD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/338919139/1613323448",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2031,
+			"favorite_count": 366,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 146,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이거 나도 그런데. 단골 가게를 계속 들려야할 것 같은 부담감도 있고, 어쩌다가 단골 가게를 안 가게 될 수도 있는데 그런 때에 괜히 죄책감 들어서 그럴 바엔 그냥 그 가게를 안 가게 되는. https://t.co/7DdtTspl9v"
+	},
+	{
 		"created_at": "Tue Apr 27 00:11:50 +0000 2021",
 		"id": 1304079040479768600,
 		"id_str": "1386835445024104449",
@@ -25,7 +1378,7 @@ Grailbird.data.tweets_2021_04 =
 		"user": {
 			"id": 1526584303,
 			"id_str": "1526584303",
-			"name": "로스나힐🏳️‍⚧️",
+			"name": "로스나힐🏳️⚧️",
 			"screen_name": "craneske",
 			"location": "",
 			"description": "F64.9 / 논바이너리 / 팬섹슈얼 / HRT중",
