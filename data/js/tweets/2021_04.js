@@ -1,6 +1,951 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Tue Apr 27 18:17:11 +0000 2021",
+		"id": 1387080792652718000,
+		"id_str": "1387108579270823936",
+		"full_text": "그러니 단골로 인식됨 = 친해짐 = 선넘음 이런게 차근차근 인지되는 건 당연한 일. 인용에서도 스몰토크가 신상캐기로 넘어간다는 말이 보이는데 한국인은 스몰토크를 못해요. 쿨한 도시민의 거리감같은거 모름.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1387080358844268500,
+		"in_reply_to_status_id_str": "1387080358844268544",
+		"in_reply_to_user_id": 935476580515684400,
+		"in_reply_to_user_id_str": "935476580515684354",
+		"in_reply_to_screen_name": "ult_cora",
+		"user": {
+			"id": 935476580515684400,
+			"id_str": "935476580515684354",
+			"name": "🎸순결한 글쟁이 코라손의 우울📖",
+			"screen_name": "ult_cora",
+			"location": "목성",
+			"description": "★글★ 순결한 탐정 김재건과 춤추는 꼭두각시 / 어느 공화주의자의 죽음 / 아이돌이 너무 많다 / 하나, 둘, 셋, 넷 / 마법소녀 신드롬 / 기기인 도로 ★밴드모집★ https://t.co/sNwoFsnAJg",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/sNwoFsnAJg",
+							"expanded_url": "https://twitter.com/ult_cora/status/1308020635046617091?s=21",
+							"display_url": "twitter.com/ult_cora/statu…",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 443,
+			"friends_count": 780,
+			"listed_count": 2,
+			"created_at": "Tue Nov 28 11:52:51 +0000 2017",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23775,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238192994391453696/XJvwZfIu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238192994391453696/XJvwZfIu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/935476580515684354/1589999669",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그러니 단골로 인식됨 = 친해짐 = 선넘음 이런게 차근차근 인지되는 건 당연한 일. 인용에서도 스몰토크가 신상캐기로 넘어간다는 말이 보이는데 한국인은 스몰토크를 못해요. 쿨한 도시민의 거리감같은거 모름."
+	},
+	{
+		"created_at": "Tue Apr 27 18:17:07 +0000 2021",
+		"id": 1387080358844268500,
+		"id_str": "1387108565429755906",
+		"full_text": "요식업계 용어중 \"이모\"가 있잖아요. 우리에게 내적 친밀감이란 곧 친족화를 말해요. 난 트위터 닝겐들고 자꾸 만나 현친화되면 형언니 한다는 거 다 안다구요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1387079887454761000,
+		"in_reply_to_status_id_str": "1387079887454760968",
+		"in_reply_to_user_id": 935476580515684400,
+		"in_reply_to_user_id_str": "935476580515684354",
+		"in_reply_to_screen_name": "ult_cora",
+		"user": {
+			"id": 935476580515684400,
+			"id_str": "935476580515684354",
+			"name": "🎸순결한 글쟁이 코라손의 우울📖",
+			"screen_name": "ult_cora",
+			"location": "목성",
+			"description": "★글★ 순결한 탐정 김재건과 춤추는 꼭두각시 / 어느 공화주의자의 죽음 / 아이돌이 너무 많다 / 하나, 둘, 셋, 넷 / 마법소녀 신드롬 / 기기인 도로 ★밴드모집★ https://t.co/sNwoFsnAJg",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/sNwoFsnAJg",
+							"expanded_url": "https://twitter.com/ult_cora/status/1308020635046617091?s=21",
+							"display_url": "twitter.com/ult_cora/statu…",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 443,
+			"friends_count": 780,
+			"listed_count": 2,
+			"created_at": "Tue Nov 28 11:52:51 +0000 2017",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23775,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238192994391453696/XJvwZfIu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238192994391453696/XJvwZfIu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/935476580515684354/1589999669",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "요식업계 용어중 \"이모\"가 있잖아요. 우리에게 내적 친밀감이란 곧 친족화를 말해요. 난 트위터 닝겐들고 자꾸 만나 현친화되면 형언니 한다는 거 다 안다구요."
+	},
+	{
+		"created_at": "Tue Apr 27 18:17:05 +0000 2021",
+		"id": 1387079887454761000,
+		"id_str": "1387108555682025476",
+		"full_text": "한국은 완전한 타인 or 내족 사람 둘밖에 없어요. 왜 우리가 이웃이랑 굳모닝봉쥬르 안하냐 하면 둘은 접점이 생기지 않은 타인이니까요.\n\n접점이 생기면? 일단 말놓는가 놓지 않는가로 고민하죠. 친족호칭을 쓸 것인가 말 것인가 고민하고요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1387079156718923800,
+		"in_reply_to_status_id_str": "1387079156718923778",
+		"in_reply_to_user_id": 935476580515684400,
+		"in_reply_to_user_id_str": "935476580515684354",
+		"in_reply_to_screen_name": "ult_cora",
+		"user": {
+			"id": 935476580515684400,
+			"id_str": "935476580515684354",
+			"name": "🎸순결한 글쟁이 코라손의 우울📖",
+			"screen_name": "ult_cora",
+			"location": "목성",
+			"description": "★글★ 순결한 탐정 김재건과 춤추는 꼭두각시 / 어느 공화주의자의 죽음 / 아이돌이 너무 많다 / 하나, 둘, 셋, 넷 / 마법소녀 신드롬 / 기기인 도로 ★밴드모집★ https://t.co/sNwoFsnAJg",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/sNwoFsnAJg",
+							"expanded_url": "https://twitter.com/ult_cora/status/1308020635046617091?s=21",
+							"display_url": "twitter.com/ult_cora/statu…",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 443,
+			"friends_count": 780,
+			"listed_count": 2,
+			"created_at": "Tue Nov 28 11:52:51 +0000 2017",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23775,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238192994391453696/XJvwZfIu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238192994391453696/XJvwZfIu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/935476580515684354/1589999669",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한국은 완전한 타인 or 내족 사람 둘밖에 없어요. 왜 우리가 이웃이랑 굳모닝봉쥬르 안하냐 하면 둘은 접점이 생기지 않은 타인이니까요.\n\n접점이 생기면? 일단 말놓는가 놓지 않는가로 고민하죠. 친족호칭을 쓸 것인가 말 것인가 고민하고요."
+	},
+	{
+		"created_at": "Tue Apr 27 18:17:02 +0000 2021",
+		"id": 1387079156718923800,
+		"id_str": "1387108541891190786",
+		"full_text": "엄.. 왜 바텐더가 손님이랑 토킹을 하냐 하면요, 이 관계는 익명이고 양자는 서로 상관없는 개인이란 게 전제되기 때문이지요.\n그런데 한국은 전통적으로 타인을 타인으로 이해하는 문화가 약했어요. 대표적인게 말의 높낮이랑 친족호칭.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1387078804737200000,
+		"in_reply_to_status_id_str": "1387078804737200128",
+		"in_reply_to_user_id": 935476580515684400,
+		"in_reply_to_user_id_str": "935476580515684354",
+		"in_reply_to_screen_name": "ult_cora",
+		"user": {
+			"id": 935476580515684400,
+			"id_str": "935476580515684354",
+			"name": "🎸순결한 글쟁이 코라손의 우울📖",
+			"screen_name": "ult_cora",
+			"location": "목성",
+			"description": "★글★ 순결한 탐정 김재건과 춤추는 꼭두각시 / 어느 공화주의자의 죽음 / 아이돌이 너무 많다 / 하나, 둘, 셋, 넷 / 마법소녀 신드롬 / 기기인 도로 ★밴드모집★ https://t.co/sNwoFsnAJg",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/sNwoFsnAJg",
+							"expanded_url": "https://twitter.com/ult_cora/status/1308020635046617091?s=21",
+							"display_url": "twitter.com/ult_cora/statu…",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 443,
+			"friends_count": 780,
+			"listed_count": 2,
+			"created_at": "Tue Nov 28 11:52:51 +0000 2017",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23775,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238192994391453696/XJvwZfIu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238192994391453696/XJvwZfIu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/935476580515684354/1589999669",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "엄.. 왜 바텐더가 손님이랑 토킹을 하냐 하면요, 이 관계는 익명이고 양자는 서로 상관없는 개인이란 게 전제되기 때문이지요.\n그런데 한국은 전통적으로 타인을 타인으로 이해하는 문화가 약했어요. 대표적인게 말의 높낮이랑 친족호칭."
+	},
+	{
+		"created_at": "Tue Apr 27 18:17:00 +0000 2021",
+		"id": 1387078804737200000,
+		"id_str": "1387108534970511363",
+		"full_text": "인용들 보고 그냥 한국 문화가 외국문화랑 만나 덧난것 같은.. https://t.co/1KLQ5oDG7B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1KLQ5oDG7B",
+					"expanded_url": "https://twitter.com/whitemilk_s/status/1386874180424015874",
+					"display_url": "twitter.com/whitemilk_s/st…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 935476580515684400,
+			"id_str": "935476580515684354",
+			"name": "🎸순결한 글쟁이 코라손의 우울📖",
+			"screen_name": "ult_cora",
+			"location": "목성",
+			"description": "★글★ 순결한 탐정 김재건과 춤추는 꼭두각시 / 어느 공화주의자의 죽음 / 아이돌이 너무 많다 / 하나, 둘, 셋, 넷 / 마법소녀 신드롬 / 기기인 도로 ★밴드모집★ https://t.co/sNwoFsnAJg",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/sNwoFsnAJg",
+							"expanded_url": "https://twitter.com/ult_cora/status/1308020635046617091?s=21",
+							"display_url": "twitter.com/ult_cora/statu…",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 443,
+			"friends_count": 780,
+			"listed_count": 2,
+			"created_at": "Tue Nov 28 11:52:51 +0000 2017",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23775,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238192994391453696/XJvwZfIu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238192994391453696/XJvwZfIu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/935476580515684354/1589999669",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1386874180424016000,
+		"quoted_status_id_str": "1386874180424015874",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1KLQ5oDG7B",
+			"expanded": "https://twitter.com/whitemilk_s/status/1386874180424015874",
+			"display": "twitter.com/whitemilk_s/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 27 02:45:46 +0000 2021",
+			"id": 1386874180424016000,
+			"id_str": "1386874180424015874",
+			"full_text": "와 요즘애들 진짜 띠용이다 https://t.co/1fEbLJ8nf8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				14
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1386874144826957800,
+						"id_str": "1386874144826957826",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/Ez8qr86VoAIU072.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ez8qr86VoAIU072.png",
+						"url": "https://t.co/1fEbLJ8nf8",
+						"display_url": "pic.twitter.com/1fEbLJ8nf8",
+						"expanded_url": "https://twitter.com/whitemilk_s/status/1386874180424015874/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 640,
+								"h": 639,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 639,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 639,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1386874144826957800,
+						"id_str": "1386874144826957826",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/Ez8qr86VoAIU072.png",
+						"media_url_https": "https://pbs.twimg.com/media/Ez8qr86VoAIU072.png",
+						"url": "https://t.co/1fEbLJ8nf8",
+						"display_url": "pic.twitter.com/1fEbLJ8nf8",
+						"expanded_url": "https://twitter.com/whitemilk_s/status/1386874180424015874/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 640,
+								"h": 639,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 639,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 639,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 338919139,
+				"id_str": "338919139",
+				"name": "우유",
+				"screen_name": "whitemilk_s",
+				"location": "",
+				"description": "1D~3D｜책애만겜드영연뮤돌｜FUB 편하게",
+				"url": "https://t.co/afxFLbv0y0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/afxFLbv0y0",
+								"expanded_url": "http://peing.net/ko/whitemilk_s",
+								"display_url": "peing.net/ko/whitemilk_s",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 508,
+				"friends_count": 412,
+				"listed_count": 11,
+				"created_at": "Wed Jul 20 09:09:27 +0000 2011",
+				"favourites_count": 11542,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 224658,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1381541640569987072/VVWdVpDD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1381541640569987072/VVWdVpDD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/338919139/1613323448",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3332,
+			"favorite_count": 981,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 7,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인용들 보고 그냥 한국 문화가 외국문화랑 만나 덧난것 같은.. https://t.co/1KLQ5oDG7B"
+	},
+	{
+		"created_at": "Tue Apr 27 18:15:41 +0000 2021",
+		"id": 1364067696757727200,
+		"id_str": "1387108202228027394",
+		"full_text": "첫 시작은 최대한 느리게 하는 편. 단어와 목소리를 신경써가면서. 나를 \"잘 봐달라\"가 아니라, 그냥 동등하게 어색하니까 천천히 시작해봐요, 듣고 있습니다 를 전달하고자 노력한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1364067219039166500,
+		"in_reply_to_status_id_str": "1364067219039166466",
+		"in_reply_to_user_id": 1350279473485107200,
+		"in_reply_to_user_id_str": "1350279473485107202",
+		"in_reply_to_screen_name": "and_awarelab",
+		"user": {
+			"id": 1350279473485107200,
+			"id_str": "1350279473485107202",
+			"name": "어웨어랩",
+			"screen_name": "and_awarelab",
+			"location": "",
+			"description": "심리적안전감에 기반한 conversater | #안전감 에서 #연결감 까지 | \"1on1\" CFR 코칭 (conversation, feedback, recognition) | and_awarelab@gmail.com",
+			"url": "https://t.co/0rRcuobdri",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0rRcuobdri",
+							"expanded_url": "https://www.joinclubhouse.com/@and_awarelab",
+							"display_url": "joinclubhouse.com/@and_awarelab",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 804,
+			"friends_count": 177,
+			"listed_count": 0,
+			"created_at": "Sat Jan 16 03:11:38 +0000 2021",
+			"favourites_count": 468,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357664865297395714/dYwJEHIQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357664865297395714/dYwJEHIQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1350279473485107202/1612527333",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "첫 시작은 최대한 느리게 하는 편. 단어와 목소리를 신경써가면서. 나를 \"잘 봐달라\"가 아니라, 그냥 동등하게 어색하니까 천천히 시작해봐요, 듣고 있습니다 를 전달하고자 노력한다."
+	},
+	{
+		"created_at": "Tue Apr 27 18:15:34 +0000 2021",
+		"id": 1364067219039166500,
+		"id_str": "1387108175585763331",
+		"full_text": "전달하는 겁니다. 제가 워크숍 등에서 많이 쓰는 말은 \"첫 만남이 가장 어색하시죠. 저도 어색한데요. 그런데 어쨌든 이 시간이 제일 중요한 것 같아요\" 정도. 상황에 따라 다르지만, 워크숍에 오실 때에는 어제 잠은 충분히 주무셨는지 정도를 덧붙인다. 그리고 평소 잠은 잘 주무시는지 정도.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1364067217755697200,
+		"in_reply_to_status_id_str": "1364067217755697153",
+		"in_reply_to_user_id": 1350279473485107200,
+		"in_reply_to_user_id_str": "1350279473485107202",
+		"in_reply_to_screen_name": "and_awarelab",
+		"user": {
+			"id": 1350279473485107200,
+			"id_str": "1350279473485107202",
+			"name": "어웨어랩",
+			"screen_name": "and_awarelab",
+			"location": "",
+			"description": "심리적안전감에 기반한 conversater | #안전감 에서 #연결감 까지 | \"1on1\" CFR 코칭 (conversation, feedback, recognition) | and_awarelab@gmail.com",
+			"url": "https://t.co/0rRcuobdri",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0rRcuobdri",
+							"expanded_url": "https://www.joinclubhouse.com/@and_awarelab",
+							"display_url": "joinclubhouse.com/@and_awarelab",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 804,
+			"friends_count": 177,
+			"listed_count": 0,
+			"created_at": "Sat Jan 16 03:11:38 +0000 2021",
+			"favourites_count": 468,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357664865297395714/dYwJEHIQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357664865297395714/dYwJEHIQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1350279473485107202/1612527333",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "전달하는 겁니다. 제가 워크숍 등에서 많이 쓰는 말은 \"첫 만남이 가장 어색하시죠. 저도 어색한데요. 그런데 어쨌든 이 시간이 제일 중요한 것 같아요\" 정도. 상황에 따라 다르지만, 워크숍에 오실 때에는 어제 잠은 충분히 주무셨는지 정도를 덧붙인다. 그리고 평소 잠은 잘 주무시는지 정도."
+	},
+	{
+		"created_at": "Tue Apr 27 18:15:31 +0000 2021",
+		"id": 1364067217755697200,
+		"id_str": "1387108161107087362",
+		"full_text": "나만의 안전을 우선시 여기면, 첫 단추가 매우 이상하게 끼워집니다. 이런 면에서 첫 만남(시작)은 조심할 필요. 그 소재가 무엇이든, 첫 시작의 목적은 '당신의 어색함, 낯섬, 불안함을 이해한다. 그.리.고. 나 역시 그런 면이 있다. 그.리.고. 나도 당신도 불안함을 천천히 내려가면 좋겠다'를",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1364067216488943600,
+		"in_reply_to_status_id_str": "1364067216488943617",
+		"in_reply_to_user_id": 1350279473485107200,
+		"in_reply_to_user_id_str": "1350279473485107202",
+		"in_reply_to_screen_name": "and_awarelab",
+		"user": {
+			"id": 1350279473485107200,
+			"id_str": "1350279473485107202",
+			"name": "어웨어랩",
+			"screen_name": "and_awarelab",
+			"location": "",
+			"description": "심리적안전감에 기반한 conversater | #안전감 에서 #연결감 까지 | \"1on1\" CFR 코칭 (conversation, feedback, recognition) | and_awarelab@gmail.com",
+			"url": "https://t.co/0rRcuobdri",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0rRcuobdri",
+							"expanded_url": "https://www.joinclubhouse.com/@and_awarelab",
+							"display_url": "joinclubhouse.com/@and_awarelab",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 804,
+			"friends_count": 177,
+			"listed_count": 0,
+			"created_at": "Sat Jan 16 03:11:38 +0000 2021",
+			"favourites_count": 468,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357664865297395714/dYwJEHIQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357664865297395714/dYwJEHIQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1350279473485107202/1612527333",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "나만의 안전을 우선시 여기면, 첫 단추가 매우 이상하게 끼워집니다. 이런 면에서 첫 만남(시작)은 조심할 필요. 그 소재가 무엇이든, 첫 시작의 목적은 '당신의 어색함, 낯섬, 불안함을 이해한다. 그.리.고. 나 역시 그런 면이 있다. 그.리.고. 나도 당신도 불안함을 천천히 내려가면 좋겠다'를"
+	},
+	{
 		"created_at": "Tue Apr 27 08:36:25 +0000 2021",
 		"id": 1386962424004186000,
 		"id_str": "1386962424004186112",
