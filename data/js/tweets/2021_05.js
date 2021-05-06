@@ -1,6 +1,517 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 06 11:10:29 +0000 2021",
+		"id": 1390262690354909200,
+		"id_str": "1390262690354909191",
+		"full_text": "남성집단에게 기질적/환경적 문제가 있다는 사실은 부정할 수 없지만, 인터넷은 증오와 혐오를 상호 엑스컬레이트하게 만드는데, 진보 진영의 '자신들은 올바르니 상대를 혐오하는 태도를 드러내도 된다'는 비도덕적 합리화가 여기에 큰 역할을 하고 있죠.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1390260827274371000,
+		"in_reply_to_status_id_str": "1390260827274371075",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "남성집단에게 기질적/환경적 문제가 있다는 사실은 부정할 수 없지만, 인터넷은 증오와 혐오를 상호 엑스컬레이트하게 만드는데, 진보 진영의 '자신들은 올바르니 상대를 혐오하는 태도를 드러내도 된다'는 비도덕적 합리화가 여기에 큰 역할을 하고 있죠."
+	},
+	{
+		"created_at": "Thu May 06 11:03:05 +0000 2021",
+		"id": 1390260827274371000,
+		"id_str": "1390260827274371075",
+		"full_text": "게으르기는...\nhttps://t.co/4GO1drYNdp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4GO1drYNdp",
+					"expanded_url": "https://twitter.com/Volnyerio/status/1389073279776825345?s=19",
+					"display_url": "twitter.com/Volnyerio/stat…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1389073279776825300,
+		"quoted_status_id_str": "1389073279776825345",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4GO1drYNdp",
+			"expanded": "https://twitter.com/Volnyerio/status/1389073279776825345?s=19",
+			"display": "twitter.com/Volnyerio/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 03 04:24:12 +0000 2021",
+			"id": 1389073279776825300,
+			"id_str": "1389073279776825345",
+			"full_text": "젊은 남성들의 좌파당 지지율은 7%이며 젊은 여성들의 연합당 지지율은 5%다. 이것이 의미하는 바가 무엇인지 분석한 폴란드 기사를 읽어 봤는데, 한국과 비슷한 이유인 것 같았다. 폴란드 20~30남의 극우화의 원인이 '여성해방' 때문에 결혼을 못하게 된 인셀들 때문이라더라.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				153
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1389069404806152200,
+			"in_reply_to_status_id_str": "1389069404806152193",
+			"in_reply_to_user_id": 2234611747,
+			"in_reply_to_user_id_str": "2234611747",
+			"in_reply_to_screen_name": "Volnyerio",
+			"user": {
+				"id": 2234611747,
+				"id_str": "2234611747",
+				"name": "싸미/Сами",
+				"screen_name": "Volnyerio",
+				"location": "경기도",
+				"description": "지리덕후/ 언어덕후/ 러시아어 공부 중/ 일본어, 프랑스어는 까먹어가는 중/ 슬라브어들 공부 중/ '상식적으로 살자'/ 논바이너리(뉴트로이스), 에이섹슈얼🌈/ Feminism is for everyone",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 107,
+				"friends_count": 187,
+				"listed_count": 1,
+				"created_at": "Sat Dec 07 14:31:34 +0000 2013",
+				"favourites_count": 1299,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7119,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1383874063777427457/C9Zr4zPr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383874063777427457/C9Zr4zPr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2234611747/1620282874",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 63,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "게으르기는...\nhttps://t.co/4GO1drYNdp"
+	},
+	{
+		"created_at": "Thu May 06 11:00:13 +0000 2021",
+		"id": 1389069404806152200,
+		"id_str": "1390260105107501057",
+		"full_text": "폴란드의 20~30대도 한국의 젊은이들 못지않게 성별에 따라 매우 다른 정치적 견해를 가지고 있다는 것을 알게 되었다. 폴란드의 젊은 여성들은 중도주의 리버럴 정당인 Polska 2050을 가장 많이 지지하며 좌파 연합이 그 다음이다. 반면에 젊은 남성들은 극우 정당인 Konfederacja를 42%나 지지한다! https://t.co/NmjZhPZnKm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1389066930884014000,
+					"id_str": "1389066930884014083",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/E0b1A5iVcAM-qM-.png",
+					"media_url_https": "https://pbs.twimg.com/media/E0b1A5iVcAM-qM-.png",
+					"url": "https://t.co/NmjZhPZnKm",
+					"display_url": "pic.twitter.com/NmjZhPZnKm",
+					"expanded_url": "https://twitter.com/Volnyerio/status/1389069404806152193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 701,
+							"h": 653,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 633,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 701,
+							"h": 653,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1389066930884014000,
+					"id_str": "1389066930884014083",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/E0b1A5iVcAM-qM-.png",
+					"media_url_https": "https://pbs.twimg.com/media/E0b1A5iVcAM-qM-.png",
+					"url": "https://t.co/NmjZhPZnKm",
+					"display_url": "pic.twitter.com/NmjZhPZnKm",
+					"expanded_url": "https://twitter.com/Volnyerio/status/1389069404806152193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 701,
+							"h": 653,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 633,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 701,
+							"h": 653,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2234611747,
+			"id_str": "2234611747",
+			"name": "싸미/Сами",
+			"screen_name": "Volnyerio",
+			"location": "경기도",
+			"description": "지리덕후/ 언어덕후/ 러시아어 공부 중/ 일본어, 프랑스어는 까먹어가는 중/ 슬라브어들 공부 중/ '상식적으로 살자'/ 논바이너리(뉴트로이스), 에이섹슈얼🌈/ Feminism is for everyone",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 187,
+			"listed_count": 1,
+			"created_at": "Sat Dec 07 14:31:34 +0000 2013",
+			"favourites_count": 1299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383874063777427457/C9Zr4zPr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383874063777427457/C9Zr4zPr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2234611747/1620282874",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 149,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "폴란드의 20~30대도 한국의 젊은이들 못지않게 성별에 따라 매우 다른 정치적 견해를 가지고 있다는 것을 알게 되었다. 폴란드의 젊은 여성들은 중도주의 리버럴 정당인 Polska 2050을 가장 많이 지지하며 좌파 연합이 그 다음이다. 반면에 젊은 남성들은 극우 정당인 Konfederacja를 42%나 지지한다! https://t.co/NmjZhPZnKm"
+	},
+	{
+		"created_at": "Thu May 06 11:00:05 +0000 2021",
+		"id": 1389977283847364600,
+		"id_str": "1390260070286389251",
+		"full_text": "폴란드도 여론조사에서도 2030 여성은 좌파당과 빅텐트 정당 폴란드 2050을 대다수가 지지하고 2030 남성은 극우 연합을 대다수가 지지하는구나... 지난 오스트리아 대선에서도 20대 여성이 녹색당을, 남성이 극우 자유당을 지지했는데 전세계가 다 비슷하게 돌아가는듯 싶다..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1140251360,
+			"id_str": "1140251360",
+			"name": "■까만사각형 레고■ #TransRightsAreHumanRights",
+			"screen_name": "Hadrianus753",
+			"location": "조선",
+			"description": "이것저것 씁니다 / 이것저것 혐오 안받아요 / 백합 파요 / 사회주의입니다 / #TransRightsAreHumanRights",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1822,
+			"friends_count": 426,
+			"listed_count": 13,
+			"created_at": "Fri Feb 01 17:18:12 +0000 2013",
+			"favourites_count": 8563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 222903,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377635777291509765/pBFEhggs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377635777291509765/pBFEhggs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1140251360/1566542009",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 157,
+		"favorite_count": 76,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "폴란드도 여론조사에서도 2030 여성은 좌파당과 빅텐트 정당 폴란드 2050을 대다수가 지지하고 2030 남성은 극우 연합을 대다수가 지지하는구나... 지난 오스트리아 대선에서도 20대 여성이 녹색당을, 남성이 극우 자유당을 지지했는데 전세계가 다 비슷하게 돌아가는듯 싶다.."
+	},
+	{
 		"created_at": "Thu May 06 09:29:09 +0000 2021",
 		"id": 1389831023232372700,
 		"id_str": "1390237186423869440",
