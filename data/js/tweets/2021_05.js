@@ -1,6 +1,1027 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 07 03:42:37 +0000 2021",
+		"id": 1390499741750886400,
+		"id_str": "1390512366878482432",
+		"full_text": "@commoncitizen01 나이든 진상은 체면이라는거 차릴라고 그래도 눈치를 보거든요..\n\n저 세대는 아예 체면의식도 없어서 갈데까지 가자.식이니 파괴력이 순수한 독성물질수준..",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "commoncitizen01",
+					"name": "평시",
+					"id": 884671642596646900,
+					"id_str": "884671642596646912",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1390499335268233200,
+		"in_reply_to_status_id_str": "1390499335268233218",
+		"in_reply_to_user_id": 884671642596646900,
+		"in_reply_to_user_id_str": "884671642596646912",
+		"in_reply_to_screen_name": "commoncitizen01",
+		"user": {
+			"id": 79264514,
+			"id_str": "79264514",
+			"name": "KIEHL'",
+			"screen_name": "Guur",
+			"location": "",
+			"description": "아나키스틱 리버테리안.. the 10'th Man.. with spitz maru. iherb : SLK507",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4009,
+			"friends_count": 2776,
+			"listed_count": 41,
+			"created_at": "Fri Oct 02 19:20:34 +0000 2009",
+			"favourites_count": 43780,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 119159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/79264514/1590827590",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@commoncitizen01 나이든 진상은 체면이라는거 차릴라고 그래도 눈치를 보거든요..\n\n저 세대는 아예 체면의식도 없어서 갈데까지 가자.식이니 파괴력이 순수한 독성물질수준.."
+	},
+	{
+		"created_at": "Fri May 07 03:42:29 +0000 2021",
+		"id": 1390499335268233200,
+		"id_str": "1390512334515281921",
+		"full_text": "이런 분들과의 커뮤니케이션은, \"상대를 살살 달래며, 자존심이 최대한 다치지 않는 판을 깔아주면서 이야기를 풀어나가는\" 방식이 선택된다.(나이 많은 사람들이 저 경향이 덜해보이는 듯 보인다면, 그 \"달래기\"를 주변에서 해 주기 때문)\n\n다만 모든 게, \"효율적 문제해결\"과는 거리가 먼 감정낭비ㅠ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1390499333510885400,
+		"in_reply_to_status_id_str": "1390499333510885378",
+		"in_reply_to_user_id": 884671642596646900,
+		"in_reply_to_user_id_str": "884671642596646912",
+		"in_reply_to_screen_name": "commoncitizen01",
+		"user": {
+			"id": 884671642596646900,
+			"id_str": "884671642596646912",
+			"name": "평시",
+			"screen_name": "commoncitizen01",
+			"location": "",
+			"description": "(언제 올지 모를)졸업을 갈망하는 30대 대학원생// 테마는 주로 전근대 한국사 및 여러 잡담// 소재야 어쨌든 모두 가벼운 티타임 한담.// 당연한 말이지만, rt와 마음은 동의가 아닌 '스크랩'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1353,
+			"friends_count": 929,
+			"listed_count": 4,
+			"created_at": "Tue Jul 11 07:12:10 +0000 2017",
+			"favourites_count": 8992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1231428896056209409/5eIayIX6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231428896056209409/5eIayIX6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884671642596646912/1593009043",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이런 분들과의 커뮤니케이션은, \"상대를 살살 달래며, 자존심이 최대한 다치지 않는 판을 깔아주면서 이야기를 풀어나가는\" 방식이 선택된다.(나이 많은 사람들이 저 경향이 덜해보이는 듯 보인다면, 그 \"달래기\"를 주변에서 해 주기 때문)\n\n다만 모든 게, \"효율적 문제해결\"과는 거리가 먼 감정낭비ㅠ"
+	},
+	{
+		"created_at": "Fri May 07 03:42:28 +0000 2021",
+		"id": 1390499333510885400,
+		"id_str": "1390512328139972614",
+		"full_text": "발생한 트러블의 해결 자체보다, 자존심 쪽이 더 중요한 사람들이 (사실은 나이를 막론하고) 꽤 있음. 지적을 하는 입장에서마저도, '지적하는 포지션' 자체에 도취된 경우가 많고.. 제발 문제와 대안에 집중했음 싶다.이 https://t.co/vawzSqvNUT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vawzSqvNUT",
+					"expanded_url": "https://twitter.com/guur/status/1390368786369286144",
+					"display_url": "twitter.com/guur/status/13…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884671642596646900,
+			"id_str": "884671642596646912",
+			"name": "평시",
+			"screen_name": "commoncitizen01",
+			"location": "",
+			"description": "(언제 올지 모를)졸업을 갈망하는 30대 대학원생// 테마는 주로 전근대 한국사 및 여러 잡담// 소재야 어쨌든 모두 가벼운 티타임 한담.// 당연한 말이지만, rt와 마음은 동의가 아닌 '스크랩'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1353,
+			"friends_count": 929,
+			"listed_count": 4,
+			"created_at": "Tue Jul 11 07:12:10 +0000 2017",
+			"favourites_count": 8992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1231428896056209409/5eIayIX6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231428896056209409/5eIayIX6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884671642596646912/1593009043",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1390368786369286100,
+		"quoted_status_id_str": "1390368786369286144",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vawzSqvNUT",
+			"expanded": "https://twitter.com/guur/status/1390368786369286144",
+			"display": "twitter.com/guur/status/13…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 06 18:12:05 +0000 2021",
+			"id": 1390368786369286100,
+			"id_str": "1390368786369286144",
+			"full_text": "이건 전형적인 30대 중반 이하의 사람들 상당수에서 발견되는 방식인데 일단 자기가 틀렸다는걸 인정하지 않음 - 억지로 우김 - 증거나 데이타를 들고와도 우김 - 끝까지 상대가 잘못했다고 몰아감 - 별 수(인터넷 폭로. 고소 고발 등 언급)를 다 써서라도 진상짓으로라도 이득을 취하려함. https://t.co/Sxuxakr1PO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				159
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1390368783550673000,
+						"id_str": "1390368783550672898",
+						"indices": [
+							160,
+							183
+						],
+						"media_url": "http://pbs.twimg.com/media/E0uVCspUcAIApn0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E0uVCspUcAIApn0.jpg",
+						"url": "https://t.co/Sxuxakr1PO",
+						"display_url": "pic.twitter.com/Sxuxakr1PO",
+						"expanded_url": "https://twitter.com/Guur/status/1390368786369286144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 967,
+								"h": 884,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 967,
+								"h": 884,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 622,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1390368783550673000,
+						"id_str": "1390368783550672898",
+						"indices": [
+							160,
+							183
+						],
+						"media_url": "http://pbs.twimg.com/media/E0uVCspUcAIApn0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E0uVCspUcAIApn0.jpg",
+						"url": "https://t.co/Sxuxakr1PO",
+						"display_url": "pic.twitter.com/Sxuxakr1PO",
+						"expanded_url": "https://twitter.com/Guur/status/1390368786369286144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 967,
+								"h": 884,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 967,
+								"h": 884,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 622,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 79264514,
+				"id_str": "79264514",
+				"name": "KIEHL'",
+				"screen_name": "Guur",
+				"location": "",
+				"description": "아나키스틱 리버테리안.. the 10'th Man.. with spitz maru. iherb : SLK507",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4009,
+				"friends_count": 2776,
+				"listed_count": 41,
+				"created_at": "Fri Oct 02 19:20:34 +0000 2009",
+				"favourites_count": 43780,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 119159,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/79264514/1590827590",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 228,
+			"favorite_count": 74,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 15,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "발생한 트러블의 해결 자체보다, 자존심 쪽이 더 중요한 사람들이 (사실은 나이를 막론하고) 꽤 있음. 지적을 하는 입장에서마저도, '지적하는 포지션' 자체에 도취된 경우가 많고.. 제발 문제와 대안에 집중했음 싶다.이 https://t.co/vawzSqvNUT"
+	},
+	{
+		"created_at": "Fri May 07 03:42:00 +0000 2021",
+		"id": 1390502625569697800,
+		"id_str": "1390512212821700612",
+		"full_text": "@operationoxygen 네. 넘 뻔히 다 보이니...\n\n(제가 이거 논문 쓸 정도로 진짜 하도 보고 고민해서...)\n\n결국 자신의 삶에 대한 두려움을 타인에게 다 떠넘겨버리자...가 근간이죠..",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "operationoxygen",
+					"name": "GG🌱",
+					"id": 461263284,
+					"id_str": "461263284",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1390502279346753500,
+		"in_reply_to_status_id_str": "1390502279346753542",
+		"in_reply_to_user_id": 461263284,
+		"in_reply_to_user_id_str": "461263284",
+		"in_reply_to_screen_name": "operationoxygen",
+		"user": {
+			"id": 79264514,
+			"id_str": "79264514",
+			"name": "KIEHL'",
+			"screen_name": "Guur",
+			"location": "",
+			"description": "아나키스틱 리버테리안.. the 10'th Man.. with spitz maru. iherb : SLK507",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4009,
+			"friends_count": 2776,
+			"listed_count": 41,
+			"created_at": "Fri Oct 02 19:20:34 +0000 2009",
+			"favourites_count": 43780,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 119159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/79264514/1590827590",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@operationoxygen 네. 넘 뻔히 다 보이니...\n\n(제가 이거 논문 쓸 정도로 진짜 하도 보고 고민해서...)\n\n결국 자신의 삶에 대한 두려움을 타인에게 다 떠넘겨버리자...가 근간이죠.."
+	},
+	{
+		"created_at": "Fri May 07 03:41:54 +0000 2021",
+		"id": 1390501927557816300,
+		"id_str": "1390512188008189956",
+		"full_text": "30대 이하 세대가 진상부리는 근저에는 과도한 두려움이 깔려있는게 뻔히 보임. 즉 내가 무능한거 아닌가. 무식한거 인정되면 어쩌나. 피해받음 어쩌나 등에 알러지 수준의 두려움이 있음. 그걸 해소하려고 저렇게 우겨대고 상대를 배제하려 덤빔.. \n\n즉 약해빠져서 진상질도 폭주하는 꼴. https://t.co/JqmzbbaIXA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JqmzbbaIXA",
+					"expanded_url": "https://twitter.com/Guur/status/1390501538167103490",
+					"display_url": "twitter.com/Guur/status/13…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 79264514,
+			"id_str": "79264514",
+			"name": "KIEHL'",
+			"screen_name": "Guur",
+			"location": "",
+			"description": "아나키스틱 리버테리안.. the 10'th Man.. with spitz maru. iherb : SLK507",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4009,
+			"friends_count": 2776,
+			"listed_count": 41,
+			"created_at": "Fri Oct 02 19:20:34 +0000 2009",
+			"favourites_count": 43780,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 119159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/79264514/1590827590",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1390501538167103500,
+		"quoted_status_id_str": "1390501538167103490",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JqmzbbaIXA",
+			"expanded": "https://twitter.com/Guur/status/1390501538167103490",
+			"display": "twitter.com/Guur/status/13…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 07 02:59:35 +0000 2021",
+			"id": 1390501538167103500,
+			"id_str": "1390501538167103490",
+			"full_text": "@commoncitizen01 역으로 저 세대가 저렇게 진상부리는거 보면 '사회성'도 없기도 하고 뭘 어케 타인과 조율해야하는지 그걸 아예 모르고 일상에 자신감이 없어서 잘못 인정이나 피해 인정 자체를 죽는 수준으로 두려워 하더군요. 그러니 우기는거 외엔 할줄을 모르는 세대....",
+			"truncated": false,
+			"display_text_range": [
+				17,
+				157
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "commoncitizen01",
+						"name": "평시",
+						"id": 884671642596646900,
+						"id_str": "884671642596646912",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1390500905120714800,
+			"in_reply_to_status_id_str": "1390500905120714755",
+			"in_reply_to_user_id": 79264514,
+			"in_reply_to_user_id_str": "79264514",
+			"in_reply_to_screen_name": "Guur",
+			"user": {
+				"id": 79264514,
+				"id_str": "79264514",
+				"name": "KIEHL'",
+				"screen_name": "Guur",
+				"location": "",
+				"description": "아나키스틱 리버테리안.. the 10'th Man.. with spitz maru. iherb : SLK507",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4009,
+				"friends_count": 2776,
+				"listed_count": 41,
+				"created_at": "Fri Oct 02 19:20:34 +0000 2009",
+				"favourites_count": 43780,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 119159,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/79264514/1590827590",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 7,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "30대 이하 세대가 진상부리는 근저에는 과도한 두려움이 깔려있는게 뻔히 보임. 즉 내가 무능한거 아닌가. 무식한거 인정되면 어쩌나. 피해받음 어쩌나 등에 알러지 수준의 두려움이 있음. 그걸 해소하려고 저렇게 우겨대고 상대를 배제하려 덤빔.. \n\n즉 약해빠져서 진상질도 폭주하는 꼴. https://t.co/JqmzbbaIXA"
+	},
+	{
+		"created_at": "Fri May 07 03:41:49 +0000 2021",
+		"id": 1390504587916763100,
+		"id_str": "1390512165677793284",
+		"full_text": "실제 이 세대가 저렇게까지 진상질 해대는 근간은 자기 삶에 하나라도 기스나는걸 못 견디는 연약함이 근원. 연애나 거래. 직장 등 뭐라도 안됨 다시하면 되는데 안된다는 자체를 과도하게 두려워 하니 순수한 진상이 되는 셈..\n\nhttps://t.co/D2oA5EBAxm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D2oA5EBAxm",
+					"expanded_url": "https://twitter.com/Guur/status/1390501927557816324?s=19",
+					"display_url": "twitter.com/Guur/status/13…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1390380760306110500,
+		"in_reply_to_status_id_str": "1390380760306110465",
+		"in_reply_to_user_id": 79264514,
+		"in_reply_to_user_id_str": "79264514",
+		"in_reply_to_screen_name": "Guur",
+		"user": {
+			"id": 79264514,
+			"id_str": "79264514",
+			"name": "KIEHL'",
+			"screen_name": "Guur",
+			"location": "",
+			"description": "아나키스틱 리버테리안.. the 10'th Man.. with spitz maru. iherb : SLK507",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4009,
+			"friends_count": 2776,
+			"listed_count": 41,
+			"created_at": "Fri Oct 02 19:20:34 +0000 2009",
+			"favourites_count": 43780,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 119159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/79264514/1590827590",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1390501927557816300,
+		"quoted_status_id_str": "1390501927557816324",
+		"quoted_status_permalink": {
+			"url": "https://t.co/D2oA5EBAxm",
+			"expanded": "https://twitter.com/Guur/status/1390501927557816324?s=19",
+			"display": "twitter.com/Guur/status/13…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 07 03:01:08 +0000 2021",
+			"id": 1390501927557816300,
+			"id_str": "1390501927557816324",
+			"full_text": "30대 이하 세대가 진상부리는 근저에는 과도한 두려움이 깔려있는게 뻔히 보임. 즉 내가 무능한거 아닌가. 무식한거 인정되면 어쩌나. 피해받음 어쩌나 등에 알러지 수준의 두려움이 있음. 그걸 해소하려고 저렇게 우겨대고 상대를 배제하려 덤빔.. \n\n즉 약해빠져서 진상질도 폭주하는 꼴. https://t.co/JqmzbbaIXA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				157
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JqmzbbaIXA",
+						"expanded_url": "https://twitter.com/Guur/status/1390501538167103490",
+						"display_url": "twitter.com/Guur/status/13…",
+						"indices": [
+							158,
+							181
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 79264514,
+				"id_str": "79264514",
+				"name": "KIEHL'",
+				"screen_name": "Guur",
+				"location": "",
+				"description": "아나키스틱 리버테리안.. the 10'th Man.. with spitz maru. iherb : SLK507",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4009,
+				"friends_count": 2776,
+				"listed_count": 41,
+				"created_at": "Fri Oct 02 19:20:34 +0000 2009",
+				"favourites_count": 43780,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 119159,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/79264514/1590827590",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1390501538167103500,
+			"quoted_status_id_str": "1390501538167103490",
+			"quoted_status_permalink": {
+				"url": "https://t.co/JqmzbbaIXA",
+				"expanded": "https://twitter.com/Guur/status/1390501538167103490",
+				"display": "twitter.com/Guur/status/13…"
+			},
+			"retweet_count": 7,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 21,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "실제 이 세대가 저렇게까지 진상질 해대는 근간은 자기 삶에 하나라도 기스나는걸 못 견디는 연약함이 근원. 연애나 거래. 직장 등 뭐라도 안됨 다시하면 되는데 안된다는 자체를 과도하게 두려워 하니 순수한 진상이 되는 셈..\n\nhttps://t.co/D2oA5EBAxm"
+	},
+	{
+		"created_at": "Fri May 07 03:41:25 +0000 2021",
+		"id": 1390510797982371800,
+		"id_str": "1390512067233255427",
+		"full_text": "@0gnslt0 그 진상질에는 상하관계 갑질 약자혐오가 찐하게 담겨있잖아요 ㅎ 아마 저 금일 이란 단어 쓴 사람은 강사거나 여자일거라는ㅋㅋㅋ추측을 합니다",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "0gnslt0",
+					"name": "표고",
+					"id": 2922884624,
+					"id_str": "2922884624",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1390510129175359500,
+		"in_reply_to_status_id_str": "1390510129175359493",
+		"in_reply_to_user_id": 2922884624,
+		"in_reply_to_user_id_str": "2922884624",
+		"in_reply_to_screen_name": "0gnslt0",
+		"user": {
+			"id": 1076288828984373200,
+			"id_str": "1076288828984373249",
+			"name": "🌲",
+			"screen_name": "ghkrkaksma",
+			"location": "",
+			"description": "정치혐오자 알레르기 있음 / 욕을 많이 함",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 198,
+			"friends_count": 46,
+			"listed_count": 0,
+			"created_at": "Sat Dec 22 01:30:28 +0000 2018",
+			"favourites_count": 5796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 109298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353296730515599360/QPkrjMnK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353296730515599360/QPkrjMnK_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@0gnslt0 그 진상질에는 상하관계 갑질 약자혐오가 찐하게 담겨있잖아요 ㅎ 아마 저 금일 이란 단어 쓴 사람은 강사거나 여자일거라는ㅋㅋㅋ추측을 합니다"
+	},
+	{
 		"created_at": "Fri May 07 03:03:12 +0000 2021",
 		"id": 481028228828500000,
 		"id_str": "1390502448540778499",
