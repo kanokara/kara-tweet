@@ -1,6 +1,1304 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 07 03:03:12 +0000 2021",
+		"id": 481028228828500000,
+		"id_str": "1390502448540778499",
+		"full_text": "확실히요즘젊은층 정서가...\n5년전만해도 스마트폰이니 일베니 롤이니\n전부 활성화되지않은사이에 그 몇년사이에 대체 얼마나엄청난 변화가 있었던거지...\n\n게임내에서도 부모욕이 창궐하는 지금때와는달리 나어렸을때만해도\n게임에서 가족놀이했는데...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884617812,
+			"id_str": "884617812",
+			"name": "★천광자낭★",
+			"screen_name": "iikan0515",
+			"location": "",
+			"description": "[ 디지몬 / 마비노기 ]  구독팔로워X 뮤트나 언팔말고 블락이나 블언블 해주세요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30,
+			"friends_count": 25,
+			"listed_count": 0,
+			"created_at": "Tue Oct 16 15:03:46 +0000 2012",
+			"favourites_count": 1526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/681856393062690816/MI8PXlOY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/681856393062690816/MI8PXlOY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884617812/1383314868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "확실히요즘젊은층 정서가...\n5년전만해도 스마트폰이니 일베니 롤이니\n전부 활성화되지않은사이에 그 몇년사이에 대체 얼마나엄청난 변화가 있었던거지...\n\n게임내에서도 부모욕이 창궐하는 지금때와는달리 나어렸을때만해도\n게임에서 가족놀이했는데..."
+	},
+	{
+		"created_at": "Fri May 07 02:45:05 +0000 2021",
+		"id": 1390379265686835200,
+		"id_str": "1390497889785323520",
+		"full_text": "뭔가 요구를 해도 선을 긋고나서 요구를 해야하는데 이 세대는 선을 안 긋고 폭주함...\n\n.\n이러니 내가 섹스하고 싶다 - 여자가 없다 - 안 들어주는 여자가 나쁘다 - 페미들이라 그렇다 - 페미를 죽여라 - 페미 감싸는 정부 죽여라까지 발전하는 놈들임.. 이걸 어케 해야 하나..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1390376960656756700,
+		"in_reply_to_status_id_str": "1390376960656756739",
+		"in_reply_to_user_id": 79264514,
+		"in_reply_to_user_id_str": "79264514",
+		"in_reply_to_screen_name": "Guur",
+		"user": {
+			"id": 79264514,
+			"id_str": "79264514",
+			"name": "KIEHL'",
+			"screen_name": "Guur",
+			"location": "",
+			"description": "아나키스틱 리버테리안.. the 10'th Man.. with spitz maru. iherb : SLK507",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4008,
+			"friends_count": 2776,
+			"listed_count": 41,
+			"created_at": "Fri Oct 02 19:20:34 +0000 2009",
+			"favourites_count": 43768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 119126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/79264514/1590827590",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "뭔가 요구를 해도 선을 긋고나서 요구를 해야하는데 이 세대는 선을 안 긋고 폭주함...\n\n.\n이러니 내가 섹스하고 싶다 - 여자가 없다 - 안 들어주는 여자가 나쁘다 - 페미들이라 그렇다 - 페미를 죽여라 - 페미 감싸는 정부 죽여라까지 발전하는 놈들임.. 이걸 어케 해야 하나.."
+	},
+	{
+		"created_at": "Fri May 07 02:45:02 +0000 2021",
+		"id": 1390376327748808700,
+		"id_str": "1390497874606137345",
+		"full_text": "살면서 타인과의 갈등에서는 나는 이건 옳고 너는 이게 옳지만 여기서 이게 문제이니 이렇게 타협하자 인데.\n\n최소한의 명분도 논리도 없음. 상대의 깨알같은 시비거리 하나로. '금일인데 금요일 아니냐' 로 우기듯 '니가 웃어줬으니 사겨줘야지. 섹스해줘야지' 까지 발전하는 놈들임..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1390374084404334600,
+		"in_reply_to_status_id_str": "1390374084404334592",
+		"in_reply_to_user_id": 79264514,
+		"in_reply_to_user_id_str": "79264514",
+		"in_reply_to_screen_name": "Guur",
+		"user": {
+			"id": 79264514,
+			"id_str": "79264514",
+			"name": "KIEHL'",
+			"screen_name": "Guur",
+			"location": "",
+			"description": "아나키스틱 리버테리안.. the 10'th Man.. with spitz maru. iherb : SLK507",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4008,
+			"friends_count": 2776,
+			"listed_count": 41,
+			"created_at": "Fri Oct 02 19:20:34 +0000 2009",
+			"favourites_count": 43768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 119126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/79264514/1590827590",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "살면서 타인과의 갈등에서는 나는 이건 옳고 너는 이게 옳지만 여기서 이게 문제이니 이렇게 타협하자 인데.\n\n최소한의 명분도 논리도 없음. 상대의 깨알같은 시비거리 하나로. '금일인데 금요일 아니냐' 로 우기듯 '니가 웃어줬으니 사겨줘야지. 섹스해줘야지' 까지 발전하는 놈들임.."
+	},
+	{
+		"created_at": "Fri May 07 02:44:46 +0000 2021",
+		"id": 1390370791976407000,
+		"id_str": "1390497808168284162",
+		"full_text": "슬프게도 이건 남자가 좀 더 심할 뿐 저 세대에는 여자들도 상당수 저러함...\n\n...요약하면 \n\n'니가 맞든 틀리던 이걸 잘못했다고 우길테니 너는 내 요구를 무조건 들어달라!' 임.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1390370477571412000,
+		"in_reply_to_status_id_str": "1390370477571411971",
+		"in_reply_to_user_id": 79264514,
+		"in_reply_to_user_id_str": "79264514",
+		"in_reply_to_screen_name": "Guur",
+		"user": {
+			"id": 79264514,
+			"id_str": "79264514",
+			"name": "KIEHL'",
+			"screen_name": "Guur",
+			"location": "",
+			"description": "아나키스틱 리버테리안.. the 10'th Man.. with spitz maru. iherb : SLK507",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4008,
+			"friends_count": 2776,
+			"listed_count": 41,
+			"created_at": "Fri Oct 02 19:20:34 +0000 2009",
+			"favourites_count": 43768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 119126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/79264514/1590827590",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "슬프게도 이건 남자가 좀 더 심할 뿐 저 세대에는 여자들도 상당수 저러함...\n\n...요약하면 \n\n'니가 맞든 틀리던 이걸 잘못했다고 우길테니 너는 내 요구를 무조건 들어달라!' 임."
+	},
+	{
+		"created_at": "Fri May 07 02:44:43 +0000 2021",
+		"id": 1390370477571412000,
+		"id_str": "1390497796780814341",
+		"full_text": "결국 이런 행태의 목적은 \n\n상대의 약점을 잡아 자신의 이득을 취하겠다. 내가 그 자격이 있던 없던 댓가 지불 따위도 상관없고 무조건 이득을 취하겠다임...\n\n이 이득이 섹스가 되면 이제 페미를 까는거고 돈이 되면 정부 까는거고 일단 무조건 깔 거리 하나로 자기 원하는걸 다 내놓으라는 논리.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1390369473358483500,
+		"in_reply_to_status_id_str": "1390369473358483463",
+		"in_reply_to_user_id": 79264514,
+		"in_reply_to_user_id_str": "79264514",
+		"in_reply_to_screen_name": "Guur",
+		"user": {
+			"id": 79264514,
+			"id_str": "79264514",
+			"name": "KIEHL'",
+			"screen_name": "Guur",
+			"location": "",
+			"description": "아나키스틱 리버테리안.. the 10'th Man.. with spitz maru. iherb : SLK507",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4008,
+			"friends_count": 2776,
+			"listed_count": 41,
+			"created_at": "Fri Oct 02 19:20:34 +0000 2009",
+			"favourites_count": 43768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 119126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/79264514/1590827590",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "결국 이런 행태의 목적은 \n\n상대의 약점을 잡아 자신의 이득을 취하겠다. 내가 그 자격이 있던 없던 댓가 지불 따위도 상관없고 무조건 이득을 취하겠다임...\n\n이 이득이 섹스가 되면 이제 페미를 까는거고 돈이 되면 정부 까는거고 일단 무조건 깔 거리 하나로 자기 원하는걸 다 내놓으라는 논리."
+	},
+	{
+		"created_at": "Fri May 07 02:44:40 +0000 2021",
+		"id": 1390369473358483500,
+		"id_str": "1390497785741410305",
+		"full_text": "이러다가 상대의 말이 맞다도 나와도 계속 우기다가 게시판 등에 유리하게 써놓고 씹선비질이라고 욕하고 계속 끝까지 물고 늘어짐..무조건 자기 말이 맞으며 사전 들고와도 지가 맞다고 우겨댐..\n\n현재 20대남 사태도 이와 동일. \n\nhttps://t.co/JpFe2xnH69",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JpFe2xnH69",
+					"expanded_url": "https://twitter.com/Guur/status/1390368786369286144?s=19",
+					"display_url": "twitter.com/Guur/status/13…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1390368030383771600,
+		"in_reply_to_status_id_str": "1390368030383771648",
+		"in_reply_to_user_id": 79264514,
+		"in_reply_to_user_id_str": "79264514",
+		"in_reply_to_screen_name": "Guur",
+		"user": {
+			"id": 79264514,
+			"id_str": "79264514",
+			"name": "KIEHL'",
+			"screen_name": "Guur",
+			"location": "",
+			"description": "아나키스틱 리버테리안.. the 10'th Man.. with spitz maru. iherb : SLK507",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4008,
+			"friends_count": 2776,
+			"listed_count": 41,
+			"created_at": "Fri Oct 02 19:20:34 +0000 2009",
+			"favourites_count": 43768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 119126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/79264514/1590827590",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1390368786369286100,
+		"quoted_status_id_str": "1390368786369286144",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JpFe2xnH69",
+			"expanded": "https://twitter.com/Guur/status/1390368786369286144?s=19",
+			"display": "twitter.com/Guur/status/13…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 06 18:12:05 +0000 2021",
+			"id": 1390368786369286100,
+			"id_str": "1390368786369286144",
+			"full_text": "이건 전형적인 30대 중반 이하의 사람들 상당수에서 발견되는 방식인데 일단 자기가 틀렸다는걸 인정하지 않음 - 억지로 우김 - 증거나 데이타를 들고와도 우김 - 끝까지 상대가 잘못했다고 몰아감 - 별 수(인터넷 폭로. 고소 고발 등 언급)를 다 써서라도 진상짓으로라도 이득을 취하려함. https://t.co/Sxuxakr1PO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				159
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1390368783550673000,
+						"id_str": "1390368783550672898",
+						"indices": [
+							160,
+							183
+						],
+						"media_url": "http://pbs.twimg.com/media/E0uVCspUcAIApn0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E0uVCspUcAIApn0.jpg",
+						"url": "https://t.co/Sxuxakr1PO",
+						"display_url": "pic.twitter.com/Sxuxakr1PO",
+						"expanded_url": "https://twitter.com/Guur/status/1390368786369286144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 967,
+								"h": 884,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 967,
+								"h": 884,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 622,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1390368783550673000,
+						"id_str": "1390368783550672898",
+						"indices": [
+							160,
+							183
+						],
+						"media_url": "http://pbs.twimg.com/media/E0uVCspUcAIApn0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E0uVCspUcAIApn0.jpg",
+						"url": "https://t.co/Sxuxakr1PO",
+						"display_url": "pic.twitter.com/Sxuxakr1PO",
+						"expanded_url": "https://twitter.com/Guur/status/1390368786369286144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 967,
+								"h": 884,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 967,
+								"h": 884,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 622,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 79264514,
+				"id_str": "79264514",
+				"name": "KIEHL'",
+				"screen_name": "Guur",
+				"location": "",
+				"description": "아나키스틱 리버테리안.. the 10'th Man.. with spitz maru. iherb : SLK507",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4008,
+				"friends_count": 2776,
+				"listed_count": 41,
+				"created_at": "Fri Oct 02 19:20:34 +0000 2009",
+				"favourites_count": 43768,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 119126,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/79264514/1590827590",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 183,
+			"favorite_count": 57,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 33,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이러다가 상대의 말이 맞다도 나와도 계속 우기다가 게시판 등에 유리하게 써놓고 씹선비질이라고 욕하고 계속 끝까지 물고 늘어짐..무조건 자기 말이 맞으며 사전 들고와도 지가 맞다고 우겨댐..\n\n현재 20대남 사태도 이와 동일. \n\nhttps://t.co/JpFe2xnH69"
+	},
+	{
+		"created_at": "Fri May 07 02:44:36 +0000 2021",
+		"id": 1390368030383771600,
+		"id_str": "1390497768523718658",
+		"full_text": "차이라면 나이든 자들은 일단 논리적으로 따지면 그걸 어느 정도 인정은 하고 타협하려는데 30대 이하에서는 니가 옳던 말던 한가지 점만 가지고 죽어라고 (그게 맞더라도) 너가 틀렸으니 다 내놔. 혹은 너가 죽일놈이다 식으로 몰고감. 현재 20대 남자들 논리도 동일함.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1390367279171342300,
+		"in_reply_to_status_id_str": "1390367279171342336",
+		"in_reply_to_user_id": 79264514,
+		"in_reply_to_user_id_str": "79264514",
+		"in_reply_to_screen_name": "Guur",
+		"user": {
+			"id": 79264514,
+			"id_str": "79264514",
+			"name": "KIEHL'",
+			"screen_name": "Guur",
+			"location": "",
+			"description": "아나키스틱 리버테리안.. the 10'th Man.. with spitz maru. iherb : SLK507",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4008,
+			"friends_count": 2776,
+			"listed_count": 41,
+			"created_at": "Fri Oct 02 19:20:34 +0000 2009",
+			"favourites_count": 43768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 119126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/79264514/1590827590",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "차이라면 나이든 자들은 일단 논리적으로 따지면 그걸 어느 정도 인정은 하고 타협하려는데 30대 이하에서는 니가 옳던 말던 한가지 점만 가지고 죽어라고 (그게 맞더라도) 너가 틀렸으니 다 내놔. 혹은 너가 죽일놈이다 식으로 몰고감. 현재 20대 남자들 논리도 동일함."
+	},
+	{
+		"created_at": "Fri May 07 02:44:25 +0000 2021",
+		"id": 1390371417040953300,
+		"id_str": "1390497721358839810",
+		"full_text": "타래를 보면 알지만 이 논법의 요점은 \n\n'내가 우길테니 넌 내 요구를 들어라' 임..\n\n그게 안되면 별짓을 다 함 그냥 이런 진상은 사회에서 격리해야함.\n\nhttps://t.co/MguDYHgZ3o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MguDYHgZ3o",
+					"expanded_url": "https://twitter.com/Guur/status/1390367027492052992?s=19",
+					"display_url": "twitter.com/Guur/status/13…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1390368786369286100,
+		"in_reply_to_status_id_str": "1390368786369286144",
+		"in_reply_to_user_id": 79264514,
+		"in_reply_to_user_id_str": "79264514",
+		"in_reply_to_screen_name": "Guur",
+		"user": {
+			"id": 79264514,
+			"id_str": "79264514",
+			"name": "KIEHL'",
+			"screen_name": "Guur",
+			"location": "",
+			"description": "아나키스틱 리버테리안.. the 10'th Man.. with spitz maru. iherb : SLK507",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4008,
+			"friends_count": 2776,
+			"listed_count": 41,
+			"created_at": "Fri Oct 02 19:20:34 +0000 2009",
+			"favourites_count": 43768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 119126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/79264514/1590827590",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1390367027492053000,
+		"quoted_status_id_str": "1390367027492052992",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MguDYHgZ3o",
+			"expanded": "https://twitter.com/Guur/status/1390367027492052992?s=19",
+			"display": "twitter.com/Guur/status/13…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 06 18:05:05 +0000 2021",
+			"id": 1390367027492053000,
+			"id_str": "1390367027492052992",
+			"full_text": "이 패턴으로 자신이 잘못했지만 그건 일단 놔두고 상대의 에러가 없나 찾은 다음에 그걸 억지로 끼워맞춰서라도 자기 의견을 관철시키려는 자들이 요즘 30대 이하에서 엄청 늘어남... https://t.co/unc0ey8l2g",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				99
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/unc0ey8l2g",
+						"expanded_url": "https://twitter.com/SisterDee0/status/1390287738205659141",
+						"display_url": "twitter.com/SisterDee0/sta…",
+						"indices": [
+							100,
+							123
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 79264514,
+				"id_str": "79264514",
+				"name": "KIEHL'",
+				"screen_name": "Guur",
+				"location": "",
+				"description": "아나키스틱 리버테리안.. the 10'th Man.. with spitz maru. iherb : SLK507",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4008,
+				"friends_count": 2776,
+				"listed_count": 41,
+				"created_at": "Fri Oct 02 19:20:34 +0000 2009",
+				"favourites_count": 43768,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 119126,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/79264514/1590827590",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1390287738205659100,
+			"quoted_status_id_str": "1390287738205659141",
+			"quoted_status_permalink": {
+				"url": "https://t.co/unc0ey8l2g",
+				"expanded": "https://twitter.com/SisterDee0/status/1390287738205659141",
+				"display": "twitter.com/SisterDee0/sta…"
+			},
+			"retweet_count": 98,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 32,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "타래를 보면 알지만 이 논법의 요점은 \n\n'내가 우길테니 넌 내 요구를 들어라' 임..\n\n그게 안되면 별짓을 다 함 그냥 이런 진상은 사회에서 격리해야함.\n\nhttps://t.co/MguDYHgZ3o"
+	},
+	{
+		"created_at": "Fri May 07 02:44:23 +0000 2021",
+		"id": 1390368786369286100,
+		"id_str": "1390497711053426689",
+		"full_text": "이건 전형적인 30대 중반 이하의 사람들 상당수에서 발견되는 방식인데 일단 자기가 틀렸다는걸 인정하지 않음 - 억지로 우김 - 증거나 데이타를 들고와도 우김 - 끝까지 상대가 잘못했다고 몰아감 - 별 수(인터넷 폭로. 고소 고발 등 언급)를 다 써서라도 진상짓으로라도 이득을 취하려함. https://t.co/Sxuxakr1PO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1390368783550673000,
+					"id_str": "1390368783550672898",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/E0uVCspUcAIApn0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0uVCspUcAIApn0.jpg",
+					"url": "https://t.co/Sxuxakr1PO",
+					"display_url": "pic.twitter.com/Sxuxakr1PO",
+					"expanded_url": "https://twitter.com/Guur/status/1390368786369286144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 967,
+							"h": 884,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 967,
+							"h": 884,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 622,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1390368783550673000,
+					"id_str": "1390368783550672898",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/E0uVCspUcAIApn0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0uVCspUcAIApn0.jpg",
+					"url": "https://t.co/Sxuxakr1PO",
+					"display_url": "pic.twitter.com/Sxuxakr1PO",
+					"expanded_url": "https://twitter.com/Guur/status/1390368786369286144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 967,
+							"h": 884,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 967,
+							"h": 884,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 622,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 79264514,
+			"id_str": "79264514",
+			"name": "KIEHL'",
+			"screen_name": "Guur",
+			"location": "",
+			"description": "아나키스틱 리버테리안.. the 10'th Man.. with spitz maru. iherb : SLK507",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4008,
+			"friends_count": 2776,
+			"listed_count": 41,
+			"created_at": "Fri Oct 02 19:20:34 +0000 2009",
+			"favourites_count": 43768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 119126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367878260407689216/7MH5lORc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/79264514/1590827590",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 183,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이건 전형적인 30대 중반 이하의 사람들 상당수에서 발견되는 방식인데 일단 자기가 틀렸다는걸 인정하지 않음 - 억지로 우김 - 증거나 데이타를 들고와도 우김 - 끝까지 상대가 잘못했다고 몰아감 - 별 수(인터넷 폭로. 고소 고발 등 언급)를 다 써서라도 진상짓으로라도 이득을 취하려함. https://t.co/Sxuxakr1PO"
+	},
+	{
+		"created_at": "Fri May 07 02:33:10 +0000 2021",
+		"id": 1390487072947900400,
+		"id_str": "1390494890656604161",
+		"full_text": "https://t.co/urRfnJ0ZIP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1390487069605068800,
+					"id_str": "1390487069605068801",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E0wAn2iVgAE04OA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0wAn2iVgAE04OA.jpg",
+					"url": "https://t.co/urRfnJ0ZIP",
+					"display_url": "pic.twitter.com/urRfnJ0ZIP",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1390487072947900417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1007,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 590,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 334,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1390487069605068800,
+					"id_str": "1390487069605068801",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E0wAn2iVgAE04OA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0wAn2iVgAE04OA.jpg",
+					"url": "https://t.co/urRfnJ0ZIP",
+					"display_url": "pic.twitter.com/urRfnJ0ZIP",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1390487072947900417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1007,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 590,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 334,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1390487000046739500,
+		"in_reply_to_status_id_str": "1390487000046739457",
+		"in_reply_to_user_id": 834020169680719900,
+		"in_reply_to_user_id_str": "834020169680719872",
+		"in_reply_to_screen_name": "ehrtjshxm7",
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5,
+			"friends_count": 29,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 363,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/urRfnJ0ZIP"
+	},
+	{
 		"created_at": "Thu May 06 11:26:07 +0000 2021",
 		"id": 1390266622376431600,
 		"id_str": "1390266622376431618",
