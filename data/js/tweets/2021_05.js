@@ -1,6 +1,699 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 08 04:07:11 +0000 2021",
+		"id": 1390659640094908400,
+		"id_str": "1390880939408990211",
+		"full_text": "일단 '일을 저지르고 보는' 에너제틱한 인물이 필요해지게 되는 것입니다. 이는 상업적인 절박함에서 비롯되는 연출 같기도 합니다. 마치 단편영화 펀딩 하나 받겠다고 어버이날 이브에 이런 애니메이션을 보는 저를 보는 듯하군요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1390659636554915800,
+		"in_reply_to_status_id_str": "1390659636554915847",
+		"in_reply_to_user_id": 1147524183833735200,
+		"in_reply_to_user_id_str": "1147524183833735168",
+		"in_reply_to_screen_name": "inle_vaporwave",
+		"user": {
+			"id": 1147524183833735200,
+			"id_str": "1147524183833735168",
+			"name": "인레 Nuhae",
+			"screen_name": "inle_vaporwave",
+			"location": "indramangspider@icloud.com",
+			"description": "단편영화 「닫힌 세계와 그 친구들」 제작을 위한 펀딩을 받고 있습니다. 많은 관심을 부탁드리겠습니다! https://t.co/h4Brcf74HT",
+			"url": "https://t.co/WyVldq9Q3D",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WyVldq9Q3D",
+							"expanded_url": "https://inle-vaporwave.postype.com",
+							"display_url": "inle-vaporwave.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/h4Brcf74HT",
+							"expanded_url": "https://www.notion.so/SF-1d0f88a5dfbf44eaaf5d659a173729ec",
+							"display_url": "notion.so/SF-1d0f88a5dfb…",
+							"indices": [
+								57,
+								80
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17830,
+			"friends_count": 662,
+			"listed_count": 65,
+			"created_at": "Sat Jul 06 15:14:20 +0000 2019",
+			"favourites_count": 9093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1390265171138940928/1jeUX6QF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1390265171138940928/1jeUX6QF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1147524183833735168/1611751967",
+			"profile_link_color": "C21807",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 525,
+		"favorite_count": 224,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "일단 '일을 저지르고 보는' 에너제틱한 인물이 필요해지게 되는 것입니다. 이는 상업적인 절박함에서 비롯되는 연출 같기도 합니다. 마치 단편영화 펀딩 하나 받겠다고 어버이날 이브에 이런 애니메이션을 보는 저를 보는 듯하군요."
+	},
+	{
+		"created_at": "Sat May 08 04:07:09 +0000 2021",
+		"id": 1390659636554915800,
+		"id_str": "1390880927757131779",
+		"full_text": "소주 원샷 때렸습니다. 이 애니메이션, 인물들이 지나치게 에너제틱한 것도 그렇고 과장된 것도 그렇고 '지나치게 최선을 다하고 있'지 않습니까? 밑에 깔린 레이어가 부실해서 '속에 든 게 아무 것도 없으면' 이렇게 됩니다. 애초에 숨은 의미가 없기 때문에, 말도 안 되는 상황을 전개하기 위해선 https://t.co/WpkifQLITU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1390659552257867800,
+					"id_str": "1390659552257867777",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1390659552257867777/pu/img/nAM3Zy1UC_ERgYV1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1390659552257867777/pu/img/nAM3Zy1UC_ERgYV1.jpg",
+					"url": "https://t.co/WpkifQLITU",
+					"display_url": "pic.twitter.com/WpkifQLITU",
+					"expanded_url": "https://twitter.com/inle_vaporwave/status/1390659636554915847/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1390659552257867800,
+					"id_str": "1390659552257867777",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1390659552257867777/pu/img/nAM3Zy1UC_ERgYV1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1390659552257867777/pu/img/nAM3Zy1UC_ERgYV1.jpg",
+					"url": "https://t.co/WpkifQLITU",
+					"display_url": "pic.twitter.com/WpkifQLITU",
+					"expanded_url": "https://twitter.com/inle_vaporwave/status/1390659636554915847/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 53363,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1390659552257867777/pu/vid/480x270/tn1TdvABgfR5R5vx.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1390659552257867777/pu/vid/640x360/0zwMkw-0SsHSkd1S.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1390659552257867777/pu/pl/iwS4SbCVUqxV5eht.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1390659552257867777/pu/vid/1280x720/hJbrwCLifD3PuIYh.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1390658140102819800,
+		"in_reply_to_status_id_str": "1390658140102819845",
+		"in_reply_to_user_id": 1147524183833735200,
+		"in_reply_to_user_id_str": "1147524183833735168",
+		"in_reply_to_screen_name": "inle_vaporwave",
+		"user": {
+			"id": 1147524183833735200,
+			"id_str": "1147524183833735168",
+			"name": "인레 Nuhae",
+			"screen_name": "inle_vaporwave",
+			"location": "indramangspider@icloud.com",
+			"description": "단편영화 「닫힌 세계와 그 친구들」 제작을 위한 펀딩을 받고 있습니다. 많은 관심을 부탁드리겠습니다! https://t.co/h4Brcf74HT",
+			"url": "https://t.co/WyVldq9Q3D",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WyVldq9Q3D",
+							"expanded_url": "https://inle-vaporwave.postype.com",
+							"display_url": "inle-vaporwave.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/h4Brcf74HT",
+							"expanded_url": "https://www.notion.so/SF-1d0f88a5dfbf44eaaf5d659a173729ec",
+							"display_url": "notion.so/SF-1d0f88a5dfb…",
+							"indices": [
+								57,
+								80
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17830,
+			"friends_count": 662,
+			"listed_count": 65,
+			"created_at": "Sat Jul 06 15:14:20 +0000 2019",
+			"favourites_count": 9093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1390265171138940928/1jeUX6QF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1390265171138940928/1jeUX6QF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1147524183833735168/1611751967",
+			"profile_link_color": "C21807",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 600,
+		"favorite_count": 199,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소주 원샷 때렸습니다. 이 애니메이션, 인물들이 지나치게 에너제틱한 것도 그렇고 과장된 것도 그렇고 '지나치게 최선을 다하고 있'지 않습니까? 밑에 깔린 레이어가 부실해서 '속에 든 게 아무 것도 없으면' 이렇게 됩니다. 애초에 숨은 의미가 없기 때문에, 말도 안 되는 상황을 전개하기 위해선 https://t.co/WpkifQLITU"
+	},
+	{
+		"created_at": "Sat May 08 04:05:02 +0000 2021",
+		"id": 1390626258137067500,
+		"id_str": "1390880398268268545",
+		"full_text": "감정도 결국 습관이다. 꾸준히 다듬고 길들이지 않으면 질 나쁜 버릇이 되어 혐오와 짜증, 분노와 폄하의 표현에 익숙해지게 된다. 감정이 인생에 미치는 영향에 대해 간과해서는 안된다. 표현의 방법을 익히고 긍정적인 감정을 느끼는 훈련을 게을리 해서는 안 되는 이유.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1295427210787147800,
+			"id_str": "1295427210787147779",
+			"name": "𝒕𝒂𝒓𝒂𝒆",
+			"screen_name": "nothingbutfig",
+			"location": "",
+			"description": "이유없는 행복 그리고 사랑",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2404,
+			"friends_count": 97,
+			"listed_count": 9,
+			"created_at": "Mon Aug 17 18:31:21 +0000 2020",
+			"favourites_count": 8811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1385387680964435970/G8g6lxNM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1385387680964435970/G8g6lxNM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1295427210787147779/1619158849",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8555,
+		"favorite_count": 6784,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "감정도 결국 습관이다. 꾸준히 다듬고 길들이지 않으면 질 나쁜 버릇이 되어 혐오와 짜증, 분노와 폄하의 표현에 익숙해지게 된다. 감정이 인생에 미치는 영향에 대해 간과해서는 안된다. 표현의 방법을 익히고 긍정적인 감정을 느끼는 훈련을 게을리 해서는 안 되는 이유."
+	},
+	{
+		"created_at": "Sat May 08 04:04:48 +0000 2021",
+		"id": 1390846334773567500,
+		"id_str": "1390880338214211587",
+		"full_text": "손 펴보라고 하고\n자기들끼리 딸쳐서 늘어난 손아귀 비교하며 쪼갬\n남자애들 모이면\n정액이 안에 어쩌고\n컨테이너에 여자를 어쩌고\n이러면서 노는 거 한두명도 아님\n성교육 받는 날 외부강사 왔는데 수십명이 모여서 위협으로 느껴질 정도의 폭언하면서 그분 따라감 눈 빨개져있던데 보니까 공황같았음 https://t.co/vylFQJFIOI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vylFQJFIOI",
+					"expanded_url": "https://twitter.com/ashesxlove/status/1390699096957100036",
+					"display_url": "twitter.com/ashesxlove/sta…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1359125588036915200,
+			"id_str": "1359125588036915205",
+			"name": "부",
+			"screen_name": "sjsdPQmsekfdmf",
+			"location": "",
+			"description": "손꽉지를깍낄게",
+			"url": "https://t.co/LobmCEdWKy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LobmCEdWKy",
+							"expanded_url": "https://asked.kr/sjsdPQmsekfdmf",
+							"display_url": "asked.kr/sjsdPQmsekfdmf",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85,
+			"friends_count": 103,
+			"listed_count": 0,
+			"created_at": "Tue Feb 09 13:02:53 +0000 2021",
+			"favourites_count": 4319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389957366657871873/7v5sz07M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389957366657871873/7v5sz07M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1359125588036915205/1615815667",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1390699096957100000,
+		"quoted_status_id_str": "1390699096957100036",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vylFQJFIOI",
+			"expanded": "https://twitter.com/ashesxlove/status/1390699096957100036",
+			"display": "twitter.com/ashesxlove/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 07 16:04:37 +0000 2021",
+			"id": 1390699096957100000,
+			"id_str": "1390699096957100036",
+			"full_text": "이거 진짜야? 제발 아니라고 해주라 세상이 어떻게 될려고...이건 진짜 아니지 https://t.co/d0vZhN4ob4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				43
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1390699094876704800,
+						"id_str": "1390699094876704770",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/E0zBdWOVUAI8BuV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E0zBdWOVUAI8BuV.jpg",
+						"url": "https://t.co/d0vZhN4ob4",
+						"display_url": "pic.twitter.com/d0vZhN4ob4",
+						"expanded_url": "https://twitter.com/AshesXlove/status/1390699096957100036/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1390699094876704800,
+						"id_str": "1390699094876704770",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/E0zBdWOVUAI8BuV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E0zBdWOVUAI8BuV.jpg",
+						"url": "https://t.co/d0vZhN4ob4",
+						"display_url": "pic.twitter.com/d0vZhN4ob4",
+						"expanded_url": "https://twitter.com/AshesXlove/status/1390699096957100036/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1239561746874015700,
+				"id_str": "1239561746874015745",
+				"name": "유빗",
+				"screen_name": "AshesXlove",
+				"location": "",
+				"description": "나를 피해가세요",
+				"url": "https://t.co/tzhrmOaRaE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tzhrmOaRaE",
+								"expanded_url": "https://peing.net/ko/3495baae05a3b7?event=0",
+								"display_url": "peing.net/ko/3495baae05a…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1138,
+				"friends_count": 163,
+				"listed_count": 3,
+				"created_at": "Mon Mar 16 14:38:57 +0000 2020",
+				"favourites_count": 3440,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9006,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1375467623765352451/Zj0jwhx0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1375467623765352451/Zj0jwhx0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1239561746874015745/1608527592",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10943,
+			"favorite_count": 2304,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "손 펴보라고 하고\n자기들끼리 딸쳐서 늘어난 손아귀 비교하며 쪼갬\n남자애들 모이면\n정액이 안에 어쩌고\n컨테이너에 여자를 어쩌고\n이러면서 노는 거 한두명도 아님\n성교육 받는 날 외부강사 왔는데 수십명이 모여서 위협으로 느껴질 정도의 폭언하면서 그분 따라감 눈 빨개져있던데 보니까 공황같았음 https://t.co/vylFQJFIOI"
+	},
+	{
 		"created_at": "Fri May 07 08:08:39 +0000 2021",
 		"id": 1390513217827336200,
 		"id_str": "1390579315134263298",
@@ -35,7 +728,7 @@ Grailbird.data.tweets_2021_05 =
 		"user": {
 			"id": 3218900551,
 			"id_str": "3218900551",
-			"name": "그런 겨🙋🏻‍♀️🤏",
+			"name": "그런 겨🙋🏻♀️🤏",
 			"screen_name": "_arm_pit__",
 			"location": "부욬",
 			"description": "제목에 낚이지 말자",
