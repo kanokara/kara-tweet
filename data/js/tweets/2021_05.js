@@ -1,6 +1,392 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 08 07:49:58 +0000 2021",
+		"id": 1381307446094934000,
+		"id_str": "1390937004821553155",
+		"full_text": "How big companies handle corporate tax rates. https://t.co/Y7bp9HfBwr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1381307234425184300,
+					"id_str": "1381307234425184260",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1381307234425184260/pu/img/KYlOX_t7QnHUfpal.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1381307234425184260/pu/img/KYlOX_t7QnHUfpal.jpg",
+					"url": "https://t.co/Y7bp9HfBwr",
+					"display_url": "pic.twitter.com/Y7bp9HfBwr",
+					"expanded_url": "https://twitter.com/NorthmanTrader/status/1381307446094934019/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 460,
+							"h": 460,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 460,
+							"h": 460,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 460,
+							"h": 460,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1381307234425184300,
+					"id_str": "1381307234425184260",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1381307234425184260/pu/img/KYlOX_t7QnHUfpal.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1381307234425184260/pu/img/KYlOX_t7QnHUfpal.jpg",
+					"url": "https://t.co/Y7bp9HfBwr",
+					"display_url": "pic.twitter.com/Y7bp9HfBwr",
+					"expanded_url": "https://twitter.com/NorthmanTrader/status/1381307446094934019/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 460,
+							"h": 460,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 460,
+							"h": 460,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 460,
+							"h": 460,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 16467,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1381307234425184260/pu/vid/460x460/ILyULGU5zev2KCno.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1381307234425184260/pu/vid/320x320/ufANlnWjaFom1_HK.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1381307234425184260/pu/pl/pDcZ-AN1EOB7qzwC.m3u8?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 714051110,
+			"id_str": "714051110",
+			"name": "Sven Henrich",
+			"screen_name": "NorthmanTrader",
+			"location": "Albion",
+			"description": "Founder: https://t.co/0bWhTefCSd Navigating changing markets. Keeping it real. Occasional sarcasm. To subscribe: https://t.co/ZyyUuwbyMz…",
+			"url": "https://t.co/Cvl30wc2Jz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Cvl30wc2Jz",
+							"expanded_url": "https://northmantrader.com",
+							"display_url": "northmantrader.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0bWhTefCSd",
+							"expanded_url": "http://NorthmanTrader.com",
+							"display_url": "NorthmanTrader.com",
+							"indices": [
+								9,
+								32
+							]
+						},
+						{
+							"url": "https://t.co/ZyyUuwbyMz",
+							"expanded_url": "http://northmantrader.com/market-service",
+							"display_url": "northmantrader.com/market-service",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 266824,
+			"friends_count": 60,
+			"listed_count": 5238,
+			"created_at": "Tue Jul 24 10:12:44 +0000 2012",
+			"favourites_count": 41794,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1389556086211026944/QZbsUJbe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389556086211026944/QZbsUJbe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/714051110/1557695427",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1180,
+		"favorite_count": 6494,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How big companies handle corporate tax rates. https://t.co/Y7bp9HfBwr"
+	},
+	{
+		"created_at": "Sat May 08 07:23:26 +0000 2021",
+		"id": 1378700182934724600,
+		"id_str": "1390930325618925571",
+		"full_text": "문재앙계열이 실패와 실착을 거듭 했다고 상대방에서 내보내는 인간은 오세훈이고 윤석열이다. 그리고 한심한 인간들은 오세훈이와 윤석열이를 빨아댄다. 나라는 바로 이렇게 망하는 것이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1353019732660801500,
+			"id_str": "1353019732660801537",
+			"name": "Yuri",
+			"screen_name": "Yuri61512419",
+			"location": "",
+			"description": "On my journey to be a grounded man.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 739,
+			"friends_count": 33,
+			"listed_count": 7,
+			"created_at": "Sat Jan 23 16:40:22 +0000 2021",
+			"favourites_count": 212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377430174380220424/oDRDpDXi_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377430174380220424/oDRDpDXi_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1353019732660801537/1617478084",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "문재앙계열이 실패와 실착을 거듭 했다고 상대방에서 내보내는 인간은 오세훈이고 윤석열이다. 그리고 한심한 인간들은 오세훈이와 윤석열이를 빨아댄다. 나라는 바로 이렇게 망하는 것이다."
+	},
+	{
+		"created_at": "Sat May 08 07:11:49 +0000 2021",
+		"id": 1376555384081629200,
+		"id_str": "1390927400456757251",
+		"full_text": "검사가 되겠다 부동산 투자로 돈을 벌겠다 부자랑 결혼을 하겠다 대기업에 취직하겠다 이 모든게 거의 기득권의 렌트에 기생하려는 것이다. 저렇게 인생을 기득권의 지대에 기승해 온 인간이 혁신을 이루는 경우는 전무하다. 내가 장담할수 있다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1353019732660801500,
+			"id_str": "1353019732660801537",
+			"name": "Yuri",
+			"screen_name": "Yuri61512419",
+			"location": "",
+			"description": "On my journey to be a grounded man.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 739,
+			"friends_count": 33,
+			"listed_count": 7,
+			"created_at": "Sat Jan 23 16:40:22 +0000 2021",
+			"favourites_count": 212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377430174380220424/oDRDpDXi_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377430174380220424/oDRDpDXi_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1353019732660801537/1617478084",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "검사가 되겠다 부동산 투자로 돈을 벌겠다 부자랑 결혼을 하겠다 대기업에 취직하겠다 이 모든게 거의 기득권의 렌트에 기생하려는 것이다. 저렇게 인생을 기득권의 지대에 기승해 온 인간이 혁신을 이루는 경우는 전무하다. 내가 장담할수 있다."
+	},
+	{
 		"created_at": "Sat May 08 05:55:30 +0000 2021",
 		"id": 1368738756711362600,
 		"id_str": "1390908195195932676",
