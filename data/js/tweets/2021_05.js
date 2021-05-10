@@ -1,6 +1,667 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Mon May 10 10:06:13 +0000 2021",
+		"id": 1391233634187714600,
+		"id_str": "1391696067482177537",
+		"full_text": "@BOHE_BABE @gendai_biz 歌番組の比較 https://t.co/DTNlZcPNCt",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BOHE_BABE",
+					"name": "ボヘカラ",
+					"id": 89410598,
+					"id_str": "89410598",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "gendai_biz",
+					"name": "現代ビジネス",
+					"id": 104705276,
+					"id_str": "104705276",
+					"indices": [
+						11,
+						22
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1391233622108033000,
+					"id_str": "1391233622108033029",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/E06nm7VUUAUaP7M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E06nm7VUUAUaP7M.jpg",
+					"url": "https://t.co/DTNlZcPNCt",
+					"display_url": "pic.twitter.com/DTNlZcPNCt",
+					"expanded_url": "https://twitter.com/r865CaWLc761BCN/status/1391233634187714568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1391233622108033000,
+					"id_str": "1391233622108033029",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/E06nm7VUUAUaP7M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E06nm7VUUAUaP7M.jpg",
+					"url": "https://t.co/DTNlZcPNCt",
+					"display_url": "pic.twitter.com/DTNlZcPNCt",
+					"expanded_url": "https://twitter.com/r865CaWLc761BCN/status/1391233634187714568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1391233625908072400,
+					"id_str": "1391233625908072458",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/E06nnJfUUAo8IIa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E06nnJfUUAo8IIa.jpg",
+					"url": "https://t.co/DTNlZcPNCt",
+					"display_url": "pic.twitter.com/DTNlZcPNCt",
+					"expanded_url": "https://twitter.com/r865CaWLc761BCN/status/1391233634187714568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1391233628487647200,
+					"id_str": "1391233628487647233",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/E06nnTGVgAEkka7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E06nnTGVgAEkka7.jpg",
+					"url": "https://t.co/DTNlZcPNCt",
+					"display_url": "pic.twitter.com/DTNlZcPNCt",
+					"expanded_url": "https://twitter.com/r865CaWLc761BCN/status/1391233634187714568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1391233631780102100,
+					"id_str": "1391233631780102145",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/E06nnfXUYAEnA3z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E06nnfXUYAEnA3z.jpg",
+					"url": "https://t.co/DTNlZcPNCt",
+					"display_url": "pic.twitter.com/DTNlZcPNCt",
+					"expanded_url": "https://twitter.com/r865CaWLc761BCN/status/1391233634187714568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1390873708172963800,
+		"in_reply_to_status_id_str": "1390873708172963840",
+		"in_reply_to_user_id": 89410598,
+		"in_reply_to_user_id_str": "89410598",
+		"in_reply_to_screen_name": "BOHE_BABE",
+		"user": {
+			"id": 991133301288022000,
+			"id_str": "991133301288022016",
+			"name": "おにぎり🍙",
+			"screen_name": "r865CaWLc761BCN",
+			"location": "",
+			"description": "本店推しの♀",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3,
+			"friends_count": 82,
+			"listed_count": 0,
+			"created_at": "Tue May 01 01:52:48 +0000 2018",
+			"favourites_count": 1307,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344907142306754561/OyZn2TfW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344907142306754561/OyZn2TfW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/991133301288022016/1616812711",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "@BOHE_BABE @gendai_biz 歌番組の比較 https://t.co/DTNlZcPNCt"
+	},
+	{
+		"created_at": "Mon May 10 09:56:49 +0000 2021",
+		"id": 1391693699579486200,
+		"id_str": "1391693699579486212",
+		"full_text": "이쪽 기사를 읽고서 우연히 찾은 영상인데, 확실히 한국어 가사에선 첫음절로 리듬화하고 일본어 가사에선 마지막 음절로 리듬화하는 경향이 있는 듯하네요.\nhttps://t.co/kRAZAcbgNG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kRAZAcbgNG",
+					"expanded_url": "https://twitter.com/BOHE_BABE/status/1390873708172963840",
+					"display_url": "twitter.com/BOHE_BABE/stat…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1391685664328933400,
+		"in_reply_to_status_id_str": "1391685664328933377",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3647,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1390873708172963800,
+		"quoted_status_id_str": "1390873708172963840",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kRAZAcbgNG",
+			"expanded": "https://twitter.com/BOHE_BABE/status/1390873708172963840",
+			"display": "twitter.com/BOHE_BABE/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 08 03:38:27 +0000 2021",
+			"id": 1390873708172963800,
+			"id_str": "1390873708172963840",
+			"full_text": "これ是非、日韓比較してる映像や音声見て欲しい。ジャパンの楽曲が、技術的に低めで、特にポストプロダクションで魅力が損なわれるの、映画のポスターが日本だけダサい現象と根っこは同じだと思う。広告表現も何かジャパンのは説明的で似た所ある。\n@gendai_biz https://t.co/iHDVnCoylh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				151
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "gendai_biz",
+						"name": "現代ビジネス",
+						"id": 104705276,
+						"id_str": "104705276",
+						"indices": [
+							116,
+							127
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/iHDVnCoylh",
+						"expanded_url": "https://gendai.ismedia.jp/articles/-/82745",
+						"display_url": "gendai.ismedia.jp/articles/-/827…",
+						"indices": [
+							128,
+							151
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 89410598,
+				"id_str": "89410598",
+				"name": "ボヘカラ",
+				"screen_name": "BOHE_BABE",
+				"location": "",
+				"description": "投資と経営の総合職。人脈も金脈も資格も無いまま、地方から東京に出て来た後の日々。ブルべ冬/コグニティブスクール/ENTP",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 47699,
+				"friends_count": 285,
+				"listed_count": 758,
+				"created_at": "Thu Nov 12 09:27:40 +0000 2009",
+				"favourites_count": 4406,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29494,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/590799322477789184/YU_-Wi4J_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/590799322477789184/YU_-Wi4J_normal.jpg",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1064,
+			"favorite_count": 2655,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이쪽 기사를 읽고서 우연히 찾은 영상인데, 확실히 한국어 가사에선 첫음절로 리듬화하고 일본어 가사에선 마지막 음절로 리듬화하는 경향이 있는 듯하네요.\nhttps://t.co/kRAZAcbgNG"
+	},
+	{
+		"created_at": "Mon May 10 09:24:53 +0000 2021",
+		"id": 1391685664328933400,
+		"id_str": "1391685664328933377",
+		"full_text": "\"이 곡은 이렇게 일본어를 쓰기 어려운 멜로디를 단어의 마지막 글자를 반복하는 언어유희로 상당히 대담한 처리를 했어요\n이건 일본어니까 가능한 조금은 억지스러운 방법이라고 봅니다\"\n(첫음절로 리듬을 만들면) \"무엇보다 생리적으로 불편해진달까요 듣다보면 \"그만, 그만!\"하고 거부감이 듭니다.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1391685048856764400,
+		"in_reply_to_status_id_str": "1391685048856764416",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3647,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "\"이 곡은 이렇게 일본어를 쓰기 어려운 멜로디를 단어의 마지막 글자를 반복하는 언어유희로 상당히 대담한 처리를 했어요\n이건 일본어니까 가능한 조금은 억지스러운 방법이라고 봅니다\"\n(첫음절로 리듬을 만들면) \"무엇보다 생리적으로 불편해진달까요 듣다보면 \"그만, 그만!\"하고 거부감이 듭니다.\""
+	},
+	{
+		"created_at": "Mon May 10 09:22:26 +0000 2021",
+		"id": 1391685048856764400,
+		"id_str": "1391685048856764416",
+		"full_text": "\"억지로 문장을 최소로 자잘하게 분할하면 쓸 수는 있지만 그러면 일본어로써는 매우 알아듣기 힘든 노래가 된다는 거죠\n아이즈원이라는 한일공동그룹에 곡을 만들겠다는 그런 조건이 없었다면 이런 멜로디를 일본 작곡가가 만들고 그 곡이 발매되기는 쉽지 않다고 생각합니다\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1391684872679297000,
+		"in_reply_to_status_id_str": "1391684872679297029",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3647,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "\"억지로 문장을 최소로 자잘하게 분할하면 쓸 수는 있지만 그러면 일본어로써는 매우 알아듣기 힘든 노래가 된다는 거죠\n아이즈원이라는 한일공동그룹에 곡을 만들겠다는 그런 조건이 없었다면 이런 멜로디를 일본 작곡가가 만들고 그 곡이 발매되기는 쉽지 않다고 생각합니다\""
+	},
+	{
 		"created_at": "Sun May 09 13:06:36 +0000 2021",
 		"id": 1391379073209802800,
 		"id_str": "1391379073209802760",
