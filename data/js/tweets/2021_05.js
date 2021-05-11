@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 11 01:39:47 +0000 2021",
+		"id": 1391345009023139800,
+		"id_str": "1391931008690245634",
+		"full_text": "시험 채점하다가 스트레스 받아서 약간 머리 식힐 겸 그래프를 만들어 보았습니다. 최근 몇 년 사이 프랑스 내 한국학 및 한국어 전공하려는 학생들이 폭발적으로 늘고 있어요. 이미 경쟁률은 일본어를 넘어선지 오래고요. 대학 내 한국학의 입지가 보다 공고해 지려면 이제 무엇이 더 필요할까요? https://t.co/W3D8weBvLs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1391344407220260900,
+					"id_str": "1391344407220260870",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/E08MXeCXEAYTrE_.png",
+					"media_url_https": "https://pbs.twimg.com/media/E08MXeCXEAYTrE_.png",
+					"url": "https://t.co/W3D8weBvLs",
+					"display_url": "pic.twitter.com/W3D8weBvLs",
+					"expanded_url": "https://twitter.com/candy4sora/status/1391345009023139843/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 748,
+							"h": 462,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 748,
+							"h": 462,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1391344407220260900,
+					"id_str": "1391344407220260870",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/E08MXeCXEAYTrE_.png",
+					"media_url_https": "https://pbs.twimg.com/media/E08MXeCXEAYTrE_.png",
+					"url": "https://t.co/W3D8weBvLs",
+					"display_url": "pic.twitter.com/W3D8weBvLs",
+					"expanded_url": "https://twitter.com/candy4sora/status/1391345009023139843/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 748,
+							"h": 462,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 748,
+							"h": 462,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 151010760,
+			"id_str": "151010760",
+			"name": "Akai Sora",
+			"screen_name": "candy4sora",
+			"location": "La Rochelle, France",
+			"description": "프랑스에서 깨발랄 강아지 딸기를 키우는 한국 현대사 연구자 및 한국어와 한국 문화 교수자입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6748,
+			"friends_count": 705,
+			"listed_count": 61,
+			"created_at": "Wed Jun 02 11:33:05 +0000 2010",
+			"favourites_count": 1164,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368637317985013762/mLCVAh4n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368637317985013762/mLCVAh4n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/151010760/1447972485",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "시험 채점하다가 스트레스 받아서 약간 머리 식힐 겸 그래프를 만들어 보았습니다. 최근 몇 년 사이 프랑스 내 한국학 및 한국어 전공하려는 학생들이 폭발적으로 늘고 있어요. 이미 경쟁률은 일본어를 넘어선지 오래고요. 대학 내 한국학의 입지가 보다 공고해 지려면 이제 무엇이 더 필요할까요? https://t.co/W3D8weBvLs"
+	},
+	{
 		"created_at": "Mon May 10 23:26:51 +0000 2021",
 		"id": 1391897553910730800,
 		"id_str": "1391897553910730755",
