@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 13 02:28:38 +0000 2021",
+		"id": 1392483158503792600,
+		"id_str": "1392668075934158850",
+		"full_text": "이 기사에서 제일 중요한 부분. https://t.co/jpgUF64ffV https://t.co/3NWUHXWCfH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jpgUF64ffV",
+					"expanded_url": "https://twitter.com/JTBC_news/status/1392470867339214853",
+					"display_url": "twitter.com/JTBC_news/stat…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1392483155664269300,
+					"id_str": "1392483155664269317",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/E1MYDWkVcAU7Rak.png",
+					"media_url_https": "https://pbs.twimg.com/media/E1MYDWkVcAU7Rak.png",
+					"url": "https://t.co/3NWUHXWCfH",
+					"display_url": "pic.twitter.com/3NWUHXWCfH",
+					"expanded_url": "https://twitter.com/pigori/status/1392483158503792644/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 679,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 428,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 679,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1392483155664269300,
+					"id_str": "1392483155664269317",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/E1MYDWkVcAU7Rak.png",
+					"media_url_https": "https://pbs.twimg.com/media/E1MYDWkVcAU7Rak.png",
+					"url": "https://t.co/3NWUHXWCfH",
+					"display_url": "pic.twitter.com/3NWUHXWCfH",
+					"expanded_url": "https://twitter.com/pigori/status/1392483158503792644/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 679,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 428,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 679,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 109544160,
+			"id_str": "109544160",
+			"name": "Lyrical pigori",
+			"screen_name": "pigori",
+			"location": "",
+			"description": "Lyrical Lily의 pigori다요!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 115,
+			"listed_count": 14,
+			"created_at": "Fri Jan 29 12:14:55 +0000 2010",
+			"favourites_count": 10036,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377407410768277510/4Zdz3HhL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377407410768277510/4Zdz3HhL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109544160/1617234493",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1392470867339214800,
+		"quoted_status_id_str": "1392470867339214853",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jpgUF64ffV",
+			"expanded": "https://twitter.com/JTBC_news/status/1392470867339214853",
+			"display": "twitter.com/JTBC_news/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 12 13:25:00 +0000 2021",
+			"id": 1392470867339214800,
+			"id_str": "1392470867339214853",
+			"full_text": "#구스뉴스 \"남·여가 평등?\" 10대가 느끼는 '성차별' 들어보니https://t.co/OPE04A8UOG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				59
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "구스뉴스",
+						"indices": [
+							0,
+							5
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OPE04A8UOG",
+						"expanded_url": "https://news.jtbc.joins.com/html/025/NB12004025.html",
+						"display_url": "news.jtbc.joins.com/html/025/NB120…",
+						"indices": [
+							36,
+							59
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 397672819,
+				"id_str": "397672819",
+				"name": "JTBC 뉴스",
+				"screen_name": "JTBC_news",
+				"location": "서울시 마포구 상암산로 48-6",
+				"description": "JTBC 뉴스 공식 트위터입니다!!\n이곳은 트친 여러분의 이야기와 목소리에 귀 기울이는 곳입니다.\n많은 관심과 사랑 부탁드립니다. ^^",
+				"url": "http://t.co/CrCzofZgOd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/CrCzofZgOd",
+								"expanded_url": "http://facebook.com/jtbcnews",
+								"display_url": "facebook.com/jtbcnews",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 612522,
+				"friends_count": 43350,
+				"listed_count": 2169,
+				"created_at": "Tue Oct 25 00:50:16 +0000 2011",
+				"favourites_count": 300,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 84079,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "A9A9A9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1247039086713425922/oOmR2jkc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247039086713425922/oOmR2jkc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/397672819/1586971432",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 156,
+			"favorite_count": 71,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 4595,
+		"favorite_count": 641,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 기사에서 제일 중요한 부분. https://t.co/jpgUF64ffV https://t.co/3NWUHXWCfH"
+	},
+	{
 		"created_at": "Tue May 11 11:34:22 +0000 2021",
 		"id": 1392080638694486000,
 		"id_str": "1392080638694486016",
