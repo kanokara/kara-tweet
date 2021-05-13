@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 13 08:40:36 +0000 2021",
+		"id": 1392761686042374100,
+		"id_str": "1392761686042374147",
+		"full_text": "포털이 검색과 광고를 전유하고 있던 시절에는 그래도 괜찮았는데...\nhttps://t.co/WOTvpqXqAK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WOTvpqXqAK",
+					"expanded_url": "https://twitter.com/Monk_Otaku/status/1392515362650923013?s=19",
+					"display_url": "twitter.com/Monk_Otaku/sta…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3660,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1392515362650923000,
+		"quoted_status_id_str": "1392515362650923013",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WOTvpqXqAK",
+			"expanded": "https://twitter.com/Monk_Otaku/status/1392515362650923013?s=19",
+			"display": "twitter.com/Monk_Otaku/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 12 16:21:48 +0000 2021",
+			"id": 1392515362650923000,
+			"id_str": "1392515362650923013",
+			"full_text": "아니근데... 일상에 있어 포르노가 너무 과하게 정착되어 있음... 전연령대가 볼 수 있는 내용의 뉴스를 클릭해도 성인웹툰의 광고가 뜨고 맥심 검색했다가 비아그라 화보집이나 나오고 도끼나 낙타 검색했다가 y존 도촬한 사진 주르륵 뜸 진심 뭐가 잘못됐다는 생각 안드냐????",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				152
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1347026562831450000,
+				"id_str": "1347026562831450115",
+				"name": "💡아귀💡",
+				"screen_name": "Monk_Otaku",
+				"location": "어둡고 음습한 심해 ⬇️페잉",
+				"description": "취향이면 다 처먹는 육식 중심의 잡식성 심해어",
+				"url": "https://t.co/fEm6cBJrRX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fEm6cBJrRX",
+								"expanded_url": "https://peing.net/ko/monk_otaku",
+								"display_url": "peing.net/ko/monk_otaku",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 512,
+				"friends_count": 234,
+				"listed_count": 2,
+				"created_at": "Thu Jan 07 03:46:17 +0000 2021",
+				"favourites_count": 2894,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8324,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1382351073424285702/RJ-Ae-5N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1382351073424285702/RJ-Ae-5N_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1347026562831450115/1615364559",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7347,
+			"favorite_count": 2134,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "포털이 검색과 광고를 전유하고 있던 시절에는 그래도 괜찮았는데...\nhttps://t.co/WOTvpqXqAK"
+	},
+	{
 		"created_at": "Thu May 13 02:28:38 +0000 2021",
 		"id": 1392483158503792600,
 		"id_str": "1392668075934158850",
