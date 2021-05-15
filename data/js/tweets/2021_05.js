@@ -1,6 +1,894 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 15 04:26:24 +0000 2021",
+		"id": 1393422490274197500,
+		"id_str": "1393422490274197509",
+		"full_text": "https://t.co/KAF22AR6aC https://t.co/w1T6G8qPoN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KAF22AR6aC",
+					"expanded_url": "https://twitter.com/philoelectroray/status/1393420666670514180?s=19",
+					"display_url": "twitter.com/philoelectrora…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1393422487958872000,
+					"id_str": "1393422487958872069",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/E1ZuXsDUYAUs4M5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1ZuXsDUYAUs4M5.jpg",
+					"url": "https://t.co/w1T6G8qPoN",
+					"display_url": "pic.twitter.com/w1T6G8qPoN",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1393422490274197509/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1393422487958872000,
+					"id_str": "1393422487958872069",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/E1ZuXsDUYAUs4M5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1ZuXsDUYAUs4M5.jpg",
+					"url": "https://t.co/w1T6G8qPoN",
+					"display_url": "pic.twitter.com/w1T6G8qPoN",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1393422490274197509/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1393223841116168200,
+		"in_reply_to_status_id_str": "1393223841116168193",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3664,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1393420666670514200,
+		"quoted_status_id_str": "1393420666670514180",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KAF22AR6aC",
+			"expanded": "https://twitter.com/philoelectroray/status/1393420666670514180?s=19",
+			"display": "twitter.com/philoelectrora…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 15 04:19:10 +0000 2021",
+			"id": 1393420666670514200,
+			"id_str": "1393420666670514180",
+			"full_text": "&lt;천 논문도 한 문장부터&gt; 14회 원고가 인쇄소에 갔습니다. 서구의 근대적 주체가 권력에 의해 만들어진다고 하는 푸코의 이론을 설명했어요. 디자인은 이기준 씨께서 맡으셨습니다. https://t.co/f8LKEsbHa5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				104
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1393420661993791500,
+						"id_str": "1393420661993791488",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/E1ZstZzUYAAIPCh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E1ZstZzUYAAIPCh.jpg",
+						"url": "https://t.co/f8LKEsbHa5",
+						"display_url": "pic.twitter.com/f8LKEsbHa5",
+						"expanded_url": "https://twitter.com/philoelectroray/status/1393420666670514180/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1393420661993791500,
+						"id_str": "1393420661993791488",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/E1ZstZzUYAAIPCh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E1ZstZzUYAAIPCh.jpg",
+						"url": "https://t.co/f8LKEsbHa5",
+						"display_url": "pic.twitter.com/f8LKEsbHa5",
+						"expanded_url": "https://twitter.com/philoelectroray/status/1393420666670514180/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 753464137263394800,
+				"id_str": "753464137263394816",
+				"name": "전기가오리",
+				"screen_name": "philoelectroray",
+				"location": "Seoul, Republic of Korea",
+				"description": "서양 철학을 함께 공부하고, 관련 문헌을 번역 출판하며, 철학을 둘러싼 격차 문제 해소에 기여하는 ‘전기가오리’입니다. 홈페이지에 상세한 정보를 담아두었습니다.",
+				"url": "https://t.co/1BhBXzn9bH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1BhBXzn9bH",
+								"expanded_url": "http://philo-electro-ray.org",
+								"display_url": "philo-electro-ray.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9136,
+				"friends_count": 5125,
+				"listed_count": 33,
+				"created_at": "Thu Jul 14 05:40:23 +0000 2016",
+				"favourites_count": 3727,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13969,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/758822289446055938/VTeex9ZO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/758822289446055938/VTeex9ZO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/753464137263394816/1471322076",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/KAF22AR6aC https://t.co/w1T6G8qPoN"
+	},
+	{
+		"created_at": "Sat May 15 04:22:28 +0000 2021",
+		"id": 1393420666670514200,
+		"id_str": "1393421500481380352",
+		"full_text": "&lt;천 논문도 한 문장부터&gt; 14회 원고가 인쇄소에 갔습니다. 서구의 근대적 주체가 권력에 의해 만들어진다고 하는 푸코의 이론을 설명했어요. 디자인은 이기준 씨께서 맡으셨습니다. https://t.co/f8LKEsbHa5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1393420661993791500,
+					"id_str": "1393420661993791488",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/E1ZstZzUYAAIPCh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1ZstZzUYAAIPCh.jpg",
+					"url": "https://t.co/f8LKEsbHa5",
+					"display_url": "pic.twitter.com/f8LKEsbHa5",
+					"expanded_url": "https://twitter.com/philoelectroray/status/1393420666670514180/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1393420661993791500,
+					"id_str": "1393420661993791488",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/E1ZstZzUYAAIPCh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1ZstZzUYAAIPCh.jpg",
+					"url": "https://t.co/f8LKEsbHa5",
+					"display_url": "pic.twitter.com/f8LKEsbHa5",
+					"expanded_url": "https://twitter.com/philoelectroray/status/1393420666670514180/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 753464137263394800,
+			"id_str": "753464137263394816",
+			"name": "전기가오리",
+			"screen_name": "philoelectroray",
+			"location": "Seoul, Republic of Korea",
+			"description": "서양 철학을 함께 공부하고, 관련 문헌을 번역 출판하며, 철학을 둘러싼 격차 문제 해소에 기여하는 ‘전기가오리’입니다. 홈페이지에 상세한 정보를 담아두었습니다.",
+			"url": "https://t.co/1BhBXzn9bH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1BhBXzn9bH",
+							"expanded_url": "http://philo-electro-ray.org",
+							"display_url": "philo-electro-ray.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9136,
+			"friends_count": 5125,
+			"listed_count": 33,
+			"created_at": "Thu Jul 14 05:40:23 +0000 2016",
+			"favourites_count": 3727,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758822289446055938/VTeex9ZO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758822289446055938/VTeex9ZO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/753464137263394816/1471322076",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;천 논문도 한 문장부터&gt; 14회 원고가 인쇄소에 갔습니다. 서구의 근대적 주체가 권력에 의해 만들어진다고 하는 푸코의 이론을 설명했어요. 디자인은 이기준 씨께서 맡으셨습니다. https://t.co/f8LKEsbHa5"
+	},
+	{
+		"created_at": "Sat May 15 04:21:58 +0000 2021",
+		"id": 1393421374706704400,
+		"id_str": "1393421374706704386",
+		"full_text": "이 말도 살짝 어폐가 있는 게, 예의 바르게 거리를 두고 깔끔하게 손절하는 것이야말로 '지지 않는 법'이라고 봐요. 당사자가 될 경우 정신승리를 지지 않는 법이라고 착각하게 되는 경우가 많지만...\nhttps://t.co/ikrkJYGJBT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ikrkJYGJBT",
+					"expanded_url": "https://twitter.com/Luuuuuuuuuuuu/status/1234661298467557377?s=19",
+					"display_url": "twitter.com/Luuuuuuuuuuuu/…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3664,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1234661298467557400,
+		"quoted_status_id_str": "1234661298467557377",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ikrkJYGJBT",
+			"expanded": "https://twitter.com/Luuuuuuuuuuuu/status/1234661298467557377?s=19",
+			"display": "twitter.com/Luuuuuuuuuuuu/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 03 02:06:07 +0000 2020",
+			"id": 1234661298467557400,
+			"id_str": "1234661298467557377",
+			"full_text": "애들 몇 번 가르치면서 한 생각이지만, 똑똑하다는 소리 듣고 자랐거나 괜찮은 학교 들어가고 성적 좀 잘 나온 애들 상당수가 지닌 치명적인 약점이 하나 있는데... 얘들은 깔끔하게 지는 법을 모른다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				110
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 66153663,
+				"id_str": "66153663",
+				"name": "메이드 지망 LTi",
+				"screen_name": "Luuuuuuuuuuuu",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2954,
+				"friends_count": 233,
+				"listed_count": 62,
+				"created_at": "Sun Aug 16 17:33:47 +0000 2009",
+				"favourites_count": 14309,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 303579,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBDBDB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1271800385397641217/sSHeithw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271800385397641217/sSHeithw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/66153663/1460727726",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "E3E3E3",
+				"profile_sidebar_fill_color": "EDEDED",
+				"profile_text_color": "4D4D4D",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6172,
+			"favorite_count": 3611,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 말도 살짝 어폐가 있는 게, 예의 바르게 거리를 두고 깔끔하게 손절하는 것이야말로 '지지 않는 법'이라고 봐요. 당사자가 될 경우 정신승리를 지지 않는 법이라고 착각하게 되는 경우가 많지만...\nhttps://t.co/ikrkJYGJBT"
+	},
+	{
+		"created_at": "Sat May 15 04:16:42 +0000 2021",
+		"id": 1234662834992103400,
+		"id_str": "1393420047293378560",
+		"full_text": "@jp_cepiah 특히 성적이나 성과와 자존심이 직결되는 구조의 정신세계를 구축한 경우면 상황이 많이 심각하죠. 그걸로 위계를 나눠서 다른 사람들 깔보고 비웃었으니, 자기 분야나 영역에서 반발짝만 밀려나면 자신도 다를 게 없다는 거 자체를 납득하질 못합니다.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jp_cepiah",
+					"name": "신선한국태태 랄제님 팬 올뺌",
+					"id": 4210125373,
+					"id_str": "4210125373",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1234662034551128000,
+		"in_reply_to_status_id_str": "1234662034551128065",
+		"in_reply_to_user_id": 4210125373,
+		"in_reply_to_user_id_str": "4210125373",
+		"in_reply_to_screen_name": "jp_cepiah",
+		"user": {
+			"id": 66153663,
+			"id_str": "66153663",
+			"name": "메이드 지망 LTi",
+			"screen_name": "Luuuuuuuuuuuu",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2954,
+			"friends_count": 233,
+			"listed_count": 62,
+			"created_at": "Sun Aug 16 17:33:47 +0000 2009",
+			"favourites_count": 14309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 303579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBDBDB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271800385397641217/sSHeithw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271800385397641217/sSHeithw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66153663/1460727726",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "E3E3E3",
+			"profile_sidebar_fill_color": "EDEDED",
+			"profile_text_color": "4D4D4D",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@jp_cepiah 특히 성적이나 성과와 자존심이 직결되는 구조의 정신세계를 구축한 경우면 상황이 많이 심각하죠. 그걸로 위계를 나눠서 다른 사람들 깔보고 비웃었으니, 자기 분야나 영역에서 반발짝만 밀려나면 자신도 다를 게 없다는 거 자체를 납득하질 못합니다."
+	},
+	{
+		"created_at": "Sat May 15 04:16:27 +0000 2021",
+		"id": 1234662017731940400,
+		"id_str": "1393419983783268356",
+		"full_text": "특히 가식나 허례 싫다며 예의 국밥 말아먹고 덤비다 깨지면 (이하생략) 그 예의라는 게 평소에는 거추장스러워도 깨질 때는 구명줄이고 안전벨트고 에어백인데... 꼭 노브레이크 픽시충 같다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1234661436443414500,
+		"in_reply_to_status_id_str": "1234661436443414531",
+		"in_reply_to_user_id": 66153663,
+		"in_reply_to_user_id_str": "66153663",
+		"in_reply_to_screen_name": "Luuuuuuuuuuuu",
+		"user": {
+			"id": 66153663,
+			"id_str": "66153663",
+			"name": "메이드 지망 LTi",
+			"screen_name": "Luuuuuuuuuuuu",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2954,
+			"friends_count": 233,
+			"listed_count": 62,
+			"created_at": "Sun Aug 16 17:33:47 +0000 2009",
+			"favourites_count": 14309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 303579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBDBDB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1271800385397641217/sSHeithw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1271800385397641217/sSHeithw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66153663/1460727726",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "E3E3E3",
+			"profile_sidebar_fill_color": "EDEDED",
+			"profile_text_color": "4D4D4D",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1022,
+		"favorite_count": 690,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "특히 가식나 허례 싫다며 예의 국밥 말아먹고 덤비다 깨지면 (이하생략) 그 예의라는 게 평소에는 거추장스러워도 깨질 때는 구명줄이고 안전벨트고 에어백인데... 꼭 노브레이크 픽시충 같다."
+	},
+	{
 		"created_at": "Fri May 14 16:17:09 +0000 2021",
 		"id": 1393155655117066200,
 		"id_str": "1393238966585860102",
