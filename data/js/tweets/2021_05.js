@@ -1,6 +1,564 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 15 15:18:30 +0000 2021",
+		"id": 1393582581929545700,
+		"id_str": "1393586593278021636",
+		"full_text": "전에 커뮤계에서 '여캐편파'라고 지칭되는 흐름이 있던데, 사실 그 맥락의 의미가 '남캐에게 치우쳐 공정하지 못하다'는 의미라면 '남캐편파', 혹은 '남캐편애'가 맞는 것이었죠. 남캐를 편애한다는 말이니까요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1393579083120873500,
+		"in_reply_to_status_id_str": "1393579083120873475",
+		"in_reply_to_user_id": 834020169680719900,
+		"in_reply_to_user_id_str": "834020169680719872",
+		"in_reply_to_screen_name": "ehrtjshxm7",
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5,
+			"friends_count": 30,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 410,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "전에 커뮤계에서 '여캐편파'라고 지칭되는 흐름이 있던데, 사실 그 맥락의 의미가 '남캐에게 치우쳐 공정하지 못하다'는 의미라면 '남캐편파', 혹은 '남캐편애'가 맞는 것이었죠. 남캐를 편애한다는 말이니까요."
+	},
+	{
+		"created_at": "Sat May 15 15:18:27 +0000 2021",
+		"id": 1393579083120873500,
+		"id_str": "1393586581034831874",
+		"full_text": "맞는 말이지만 약간 다른 게... 샅샅이의 샅이 물건 사이의 틈을 의미하며, 동시에 해당 부위(사타구니, Y존)을 가리키는 의미를 띠게 되었듯 똑같이 에둘러 표현하는 말이라서요.\nhttps://t.co/noXUWmjWuS https://t.co/PQ9HlVq2h8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/noXUWmjWuS",
+					"expanded_url": "https://twitter.com/sparkle_ggam/status/1393532557849812996",
+					"display_url": "twitter.com/sparkle_ggam/s…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1393577934934265900,
+					"id_str": "1393577934934265858",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/E1b7v5KUUAIJyf_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1b7v5KUUAIJyf_.jpg",
+					"url": "https://t.co/PQ9HlVq2h8",
+					"display_url": "pic.twitter.com/PQ9HlVq2h8",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1393579083120873475/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 652,
+							"h": 1037,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 652,
+							"h": 1037,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 428,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1393577934934265900,
+					"id_str": "1393577934934265858",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/E1b7v5KUUAIJyf_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1b7v5KUUAIJyf_.jpg",
+					"url": "https://t.co/PQ9HlVq2h8",
+					"display_url": "pic.twitter.com/PQ9HlVq2h8",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1393579083120873475/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 652,
+							"h": 1037,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 652,
+							"h": 1037,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 428,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5,
+			"friends_count": 30,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 410,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1393532557849813000,
+		"quoted_status_id_str": "1393532557849812996",
+		"quoted_status_permalink": {
+			"url": "https://t.co/noXUWmjWuS",
+			"expanded": "https://twitter.com/sparkle_ggam/status/1393532557849812996",
+			"display": "twitter.com/sparkle_ggam/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 15 11:43:47 +0000 2021",
+			"id": 1393532557849813000,
+			"id_str": "1393532557849812996",
+			"full_text": "고간 크기 예전에도 떳었던거같은데 고간은 두다리의 사이를 지칭하는 단어다. 고간크기가 50센치면 상대방이 배가 뚤리는게아니라 내 다리사이가벌어지는거라니깐 https://t.co/DuZo3QZSaK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				85
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1393532133084332000,
+						"id_str": "1393532133084332033",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/E1bSF3-VgAETVJ5.png",
+						"media_url_https": "https://pbs.twimg.com/media/E1bSF3-VgAETVJ5.png",
+						"url": "https://t.co/DuZo3QZSaK",
+						"display_url": "pic.twitter.com/DuZo3QZSaK",
+						"expanded_url": "https://twitter.com/sparkle_ggam/status/1393532557849812996/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 414,
+								"h": 613,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 414,
+								"h": 613,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 414,
+								"h": 613,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1393532133084332000,
+						"id_str": "1393532133084332033",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/E1bSF3-VgAETVJ5.png",
+						"media_url_https": "https://pbs.twimg.com/media/E1bSF3-VgAETVJ5.png",
+						"url": "https://t.co/DuZo3QZSaK",
+						"display_url": "pic.twitter.com/DuZo3QZSaK",
+						"expanded_url": "https://twitter.com/sparkle_ggam/status/1393532557849812996/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 414,
+								"h": 613,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 414,
+								"h": 613,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 414,
+								"h": 613,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1366354845746167800,
+				"id_str": "1366354845746167810",
+				"name": "맘찍요정 곡깜",
+				"screen_name": "sparkle_ggam",
+				"location": "BAE_cozmez ",
+				"description": "ENTP | BLGLHL | 중학쉐 | 내장르만마이너야 | 빻작은안파지만마이너장르를팝니다 | 웅앵",
+				"url": "https://t.co/aZI0ZjpnYs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aZI0ZjpnYs",
+								"expanded_url": "http://asked.kr/sparkle_ggam",
+								"display_url": "asked.kr/sparkle_ggam",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 805,
+				"friends_count": 798,
+				"listed_count": 15,
+				"created_at": "Mon Mar 01 11:49:21 +0000 2021",
+				"favourites_count": 10616,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2076,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1366357229218111488/msAkWBFF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366357229218111488/msAkWBFF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1366354845746167810/1619452953",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1743,
+			"favorite_count": 506,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "맞는 말이지만 약간 다른 게... 샅샅이의 샅이 물건 사이의 틈을 의미하며, 동시에 해당 부위(사타구니, Y존)을 가리키는 의미를 띠게 되었듯 똑같이 에둘러 표현하는 말이라서요.\nhttps://t.co/noXUWmjWuS https://t.co/PQ9HlVq2h8"
+	},
+	{
+		"created_at": "Sat May 15 15:18:21 +0000 2021",
+		"id": 1391964456901435400,
+		"id_str": "1393586557991350273",
+		"full_text": "음소문자+고립어인 영문과 음절문자+교착어인 국문은 같을 수가 없죠. 국문의 어순이 자유로운 만큼, 문면의 흐름이 중단되며 수용자에게 파급하는 심리적 작용이 영문보다 더 크지 않을까 개인적으로 추측하고요. 문해에 있어 하이픈이 잇는다는 신호를 주는 것과 반대의 이화작용이 일어나는 거죠.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1391962436165464000,
+		"in_reply_to_status_id_str": "1391962436165464067",
+		"in_reply_to_user_id": 834020169680719900,
+		"in_reply_to_user_id_str": "834020169680719872",
+		"in_reply_to_screen_name": "ehrtjshxm7",
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5,
+			"friends_count": 30,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 410,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "음소문자+고립어인 영문과 음절문자+교착어인 국문은 같을 수가 없죠. 국문의 어순이 자유로운 만큼, 문면의 흐름이 중단되며 수용자에게 파급하는 심리적 작용이 영문보다 더 크지 않을까 개인적으로 추측하고요. 문해에 있어 하이픈이 잇는다는 신호를 주는 것과 반대의 이화작용이 일어나는 거죠."
+	},
+	{
 		"created_at": "Sat May 15 13:30:30 +0000 2021",
 		"id": 1393540923334619100,
 		"id_str": "1393559416515883009",
