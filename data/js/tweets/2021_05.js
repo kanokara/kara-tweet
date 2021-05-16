@@ -1,6 +1,1097 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sun May 16 13:51:09 +0000 2021",
+		"id": 1393926999559659500,
+		"id_str": "1393926999559659523",
+		"full_text": "아마 애니존의 이것. 정보 획득용이 아니라면 커뮤니티 활동에 열성을 보인 적이 없던 터라 기억이 애매했어요.\nhttps://t.co/hu4Scyy8ib",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hu4Scyy8ib",
+					"expanded_url": "https://namu.wiki/w/%EC%95%A0%EB%8B%88%EC%A1%B4#s-6",
+					"display_url": "namu.wiki/w/%EC%95%A0%EB…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1393925838521856000,
+		"in_reply_to_status_id_str": "1393925838521856010",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3671,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아마 애니존의 이것. 정보 획득용이 아니라면 커뮤니티 활동에 열성을 보인 적이 없던 터라 기억이 애매했어요.\nhttps://t.co/hu4Scyy8ib"
+	},
+	{
+		"created_at": "Sun May 16 13:46:32 +0000 2021",
+		"id": 1393925838521856000,
+		"id_str": "1393925838521856010",
+		"full_text": "그, 모에토너먼트나 자기 모에 취향 테스트 해보는 인터넷 커뮤니티 사이트에서 웹게임처럼 포인트 모아서 캐릭터 인장을 구매하고 매매하고 호가 올리고 뭐 그런 게 어렴풋이 생각나네요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3671,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "그, 모에토너먼트나 자기 모에 취향 테스트 해보는 인터넷 커뮤니티 사이트에서 웹게임처럼 포인트 모아서 캐릭터 인장을 구매하고 매매하고 호가 올리고 뭐 그런 게 어렴풋이 생각나네요."
+	},
+	{
+		"created_at": "Sun May 16 13:41:51 +0000 2021",
+		"id": 1392064094526611500,
+		"id_str": "1393924660513828866",
+		"full_text": "으아앜ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 옛날 폴더 뒤지는데 예전에 커뮤서 경험치 666이여서 통채로 캡쳐저장했나본뎈ㅋㅋㅋㅋㅋㅋㅋ 화면비율 4:6, 윈도우XP, 익스플로러, 파일확장자 .bmp 이 모든 세월감이 날 미치게햌ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/IVhyffGhIl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1392063736857329700,
+					"id_str": "1392063736857329670",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/E1Gal9wVgAYUAF4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1Gal9wVgAYUAF4.jpg",
+					"url": "https://t.co/IVhyffGhIl",
+					"display_url": "pic.twitter.com/IVhyffGhIl",
+					"expanded_url": "https://twitter.com/vo_oS2u_uv/status/1392064094526611457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1392063736857329700,
+					"id_str": "1392063736857329670",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/E1Gal9wVgAYUAF4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1Gal9wVgAYUAF4.jpg",
+					"url": "https://t.co/IVhyffGhIl",
+					"display_url": "pic.twitter.com/IVhyffGhIl",
+					"expanded_url": "https://twitter.com/vo_oS2u_uv/status/1392064094526611457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4665344018,
+			"id_str": "4665344018",
+			"name": "ᴏᴍᴏɴɢʕ•ﻌ•ʔฅ",
+			"screen_name": "vo_oS2u_uv",
+			"location": "",
+			"description": "🎮게임계::FF14:DBD:GTA5:몬헌:모동숲:미러블락::칠흑5.3완료",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169,
+			"friends_count": 100,
+			"listed_count": 1,
+			"created_at": "Mon Dec 28 04:48:21 +0000 2015",
+			"favourites_count": 4977,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1379155610592145408/ZfjCmr6u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1379155610592145408/ZfjCmr6u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4665344018/1617651355",
+			"profile_link_color": "002266",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1076,
+		"favorite_count": 207,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "으아앜ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 옛날 폴더 뒤지는데 예전에 커뮤서 경험치 666이여서 통채로 캡쳐저장했나본뎈ㅋㅋㅋㅋㅋㅋㅋ 화면비율 4:6, 윈도우XP, 익스플로러, 파일확장자 .bmp 이 모든 세월감이 날 미치게햌ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/IVhyffGhIl"
+	},
+	{
+		"created_at": "Sun May 16 13:41:29 +0000 2021",
+		"id": 745980567779434500,
+		"id_str": "1393924566632726530",
+		"full_text": "@airless_planet 뭔가 비툴커뮤니티는 카커에 비해서 실시간으로 무한 연성의 느낌이 강했기에 동접자 수에도 민감한 것이 있었던 거 같네요. 그리고 비커에는 역극이 없었습니다.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "airless_planet",
+					"name": "세라비 선생",
+					"id": 3308856607,
+					"id_str": "3308856607",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 745980365874008000,
+		"in_reply_to_status_id_str": "745980365874008064",
+		"in_reply_to_user_id": 727142601682362400,
+		"in_reply_to_user_id_str": "727142601682362368",
+		"in_reply_to_screen_name": "hellosanta91",
+		"user": {
+			"id": 727142601682362400,
+			"id_str": "727142601682362368",
+			"name": "무덕이🐾겨울이되면반동결",
+			"screen_name": "hellosanta91",
+			"location": "",
+			"description": "수도권 성인 여성. 인형계90%,기타10%. 여성향과 약유혈에 주의. 맞팔은 멘션. FUB Free.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 352,
+			"listed_count": 1,
+			"created_at": "Mon May 02 14:28:00 +0000 2016",
+			"favourites_count": 4431,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/727527459424366592/YV0sFIUK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/727527459424366592/YV0sFIUK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/727142601682362368/1539962869",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@airless_planet 뭔가 비툴커뮤니티는 카커에 비해서 실시간으로 무한 연성의 느낌이 강했기에 동접자 수에도 민감한 것이 있었던 거 같네요. 그리고 비커에는 역극이 없었습니다."
+	},
+	{
+		"created_at": "Sun May 16 13:41:27 +0000 2021",
+		"id": 745980365874008000,
+		"id_str": "1393924558600556549",
+		"full_text": "@airless_planet 로드비때는 카커와 마찬가지로 떡밥을 물거나 로그에 난입을 한다던가 할 때는 그 그림을 저장해서 본인 그림툴에 불러온 다음에 이어그려야 했지만, 비툴은 웹에서 바로 같은 캔버스에 이어그릴 수가 있어서 편리하기도 했고",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "airless_planet",
+					"name": "세라비 선생",
+					"id": 3308856607,
+					"id_str": "3308856607",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 745980028450660400,
+		"in_reply_to_status_id_str": "745980028450660352",
+		"in_reply_to_user_id": 727142601682362400,
+		"in_reply_to_user_id_str": "727142601682362368",
+		"in_reply_to_screen_name": "hellosanta91",
+		"user": {
+			"id": 727142601682362400,
+			"id_str": "727142601682362368",
+			"name": "무덕이🐾겨울이되면반동결",
+			"screen_name": "hellosanta91",
+			"location": "",
+			"description": "수도권 성인 여성. 인형계90%,기타10%. 여성향과 약유혈에 주의. 맞팔은 멘션. FUB Free.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 352,
+			"listed_count": 1,
+			"created_at": "Mon May 02 14:28:00 +0000 2016",
+			"favourites_count": 4431,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/727527459424366592/YV0sFIUK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/727527459424366592/YV0sFIUK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/727142601682362368/1539962869",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@airless_planet 로드비때는 카커와 마찬가지로 떡밥을 물거나 로그에 난입을 한다던가 할 때는 그 그림을 저장해서 본인 그림툴에 불러온 다음에 이어그려야 했지만, 비툴은 웹에서 바로 같은 캔버스에 이어그릴 수가 있어서 편리하기도 했고"
+	},
+	{
+		"created_at": "Sun May 16 13:41:19 +0000 2021",
+		"id": 745980028450660400,
+		"id_str": "1393924526363144195",
+		"full_text": "@airless_planet 그림을 먼저 올리고 그 다음에 덧글을 따로 작성해야하는 형태였기 때문에, 췩이라고 .. 그림 올린 사람이 덧글 달기 전에 다른 사람이 먼저 덧글 다는 행위도 있었고 ㅋㅋ 뭐 그걸로 장난도 많이 했었구요.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "airless_planet",
+					"name": "세라비 선생",
+					"id": 3308856607,
+					"id_str": "3308856607",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 745979803627565000,
+		"in_reply_to_status_id_str": "745979803627565056",
+		"in_reply_to_user_id": 727142601682362400,
+		"in_reply_to_user_id_str": "727142601682362368",
+		"in_reply_to_screen_name": "hellosanta91",
+		"user": {
+			"id": 727142601682362400,
+			"id_str": "727142601682362368",
+			"name": "무덕이🐾겨울이되면반동결",
+			"screen_name": "hellosanta91",
+			"location": "",
+			"description": "수도권 성인 여성. 인형계90%,기타10%. 여성향과 약유혈에 주의. 맞팔은 멘션. FUB Free.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 352,
+			"listed_count": 1,
+			"created_at": "Mon May 02 14:28:00 +0000 2016",
+			"favourites_count": 4431,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/727527459424366592/YV0sFIUK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/727527459424366592/YV0sFIUK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/727142601682362368/1539962869",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@airless_planet 그림을 먼저 올리고 그 다음에 덧글을 따로 작성해야하는 형태였기 때문에, 췩이라고 .. 그림 올린 사람이 덧글 달기 전에 다른 사람이 먼저 덧글 다는 행위도 있었고 ㅋㅋ 뭐 그걸로 장난도 많이 했었구요."
+	},
+	{
+		"created_at": "Sun May 16 13:41:16 +0000 2021",
+		"id": 745979803627565000,
+		"id_str": "1393924513641897992",
+		"full_text": "@airless_planet 카커랑 비교하자면 자유로그는 비교적 더 가볍게 그리고 빠르게 그리기 때문에 로그 연성속도가 장난이 아닌 편이에요. 요새 카커는 로그수가 별로없던데 비커는 보통 신청기간에 하루에 몇백개씩 로그 올라오기도 했어요.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "airless_planet",
+					"name": "세라비 선생",
+					"id": 3308856607,
+					"id_str": "3308856607",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 745979518570139600,
+		"in_reply_to_status_id_str": "745979518570139648",
+		"in_reply_to_user_id": 727142601682362400,
+		"in_reply_to_user_id_str": "727142601682362368",
+		"in_reply_to_screen_name": "hellosanta91",
+		"user": {
+			"id": 727142601682362400,
+			"id_str": "727142601682362368",
+			"name": "무덕이🐾겨울이되면반동결",
+			"screen_name": "hellosanta91",
+			"location": "",
+			"description": "수도권 성인 여성. 인형계90%,기타10%. 여성향과 약유혈에 주의. 맞팔은 멘션. FUB Free.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 352,
+			"listed_count": 1,
+			"created_at": "Mon May 02 14:28:00 +0000 2016",
+			"favourites_count": 4431,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/727527459424366592/YV0sFIUK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/727527459424366592/YV0sFIUK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/727142601682362368/1539962869",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@airless_planet 카커랑 비교하자면 자유로그는 비교적 더 가볍게 그리고 빠르게 그리기 때문에 로그 연성속도가 장난이 아닌 편이에요. 요새 카커는 로그수가 별로없던데 비커는 보통 신청기간에 하루에 몇백개씩 로그 올라오기도 했어요."
+	},
+	{
+		"created_at": "Sun May 16 13:41:13 +0000 2021",
+		"id": 745979518570139600,
+		"id_str": "1393924499028930571",
+		"full_text": "@airless_planet 초창기에 비툴이라는 실시간 웹베이스 그림툴을 사용해서 그리는 것하고 후에 비툴대란 이후 비툴이 유료화되면서 생긴 로드비.. 비툴같은 게시판 형태를 띄지만 비툴로 실시간으로 그리는게 아니라 그림을 업로드 하던 종류로.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "airless_planet",
+					"name": "세라비 선생",
+					"id": 3308856607,
+					"id_str": "3308856607",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 745979300411805700,
+		"in_reply_to_status_id_str": "745979300411805698",
+		"in_reply_to_user_id": 727142601682362400,
+		"in_reply_to_user_id_str": "727142601682362368",
+		"in_reply_to_screen_name": "hellosanta91",
+		"user": {
+			"id": 727142601682362400,
+			"id_str": "727142601682362368",
+			"name": "무덕이🐾겨울이되면반동결",
+			"screen_name": "hellosanta91",
+			"location": "",
+			"description": "수도권 성인 여성. 인형계90%,기타10%. 여성향과 약유혈에 주의. 맞팔은 멘션. FUB Free.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 352,
+			"listed_count": 1,
+			"created_at": "Mon May 02 14:28:00 +0000 2016",
+			"favourites_count": 4431,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/727527459424366592/YV0sFIUK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/727527459424366592/YV0sFIUK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/727142601682362368/1539962869",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@airless_planet 초창기에 비툴이라는 실시간 웹베이스 그림툴을 사용해서 그리는 것하고 후에 비툴대란 이후 비툴이 유료화되면서 생긴 로드비.. 비툴같은 게시판 형태를 띄지만 비툴로 실시간으로 그리는게 아니라 그림을 업로드 하던 종류로."
+	},
+	{
+		"created_at": "Sun May 16 13:41:02 +0000 2021",
+		"id": 745979300411805700,
+		"id_str": "1393924456377028615",
+		"full_text": "@airless_planet 많았고 .. 예를 들면 테일런이나 매지컬테일처럼 웹게임 형으로 구축하는 곳도 은근히 있었어요. 물론 대부분은 그 정도까지 복잡하고 화려하게 가진 않았지만요. 로그활동에서 가장 궁금하실 거 같은데 비커는 두종류로 나뉘어요",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "airless_planet",
+					"name": "세라비 선생",
+					"id": 3308856607,
+					"id_str": "3308856607",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 745978660931379200,
+		"in_reply_to_status_id_str": "745978660931379200",
+		"in_reply_to_user_id": 727142601682362400,
+		"in_reply_to_user_id_str": "727142601682362368",
+		"in_reply_to_screen_name": "hellosanta91",
+		"user": {
+			"id": 727142601682362400,
+			"id_str": "727142601682362368",
+			"name": "무덕이🐾겨울이되면반동결",
+			"screen_name": "hellosanta91",
+			"location": "",
+			"description": "수도권 성인 여성. 인형계90%,기타10%. 여성향과 약유혈에 주의. 맞팔은 멘션. FUB Free.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 352,
+			"listed_count": 1,
+			"created_at": "Mon May 02 14:28:00 +0000 2016",
+			"favourites_count": 4431,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/727527459424366592/YV0sFIUK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/727527459424366592/YV0sFIUK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/727142601682362368/1539962869",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@airless_planet 많았고 .. 예를 들면 테일런이나 매지컬테일처럼 웹게임 형으로 구축하는 곳도 은근히 있었어요. 물론 대부분은 그 정도까지 복잡하고 화려하게 가진 않았지만요. 로그활동에서 가장 궁금하실 거 같은데 비커는 두종류로 나뉘어요"
+	},
+	{
+		"created_at": "Sun May 16 13:40:59 +0000 2021",
+		"id": 745978660931379200,
+		"id_str": "1393924442456158216",
+		"full_text": "@airless_planet 그 당시에 카커는 거의 멀티러들이랑 글러 들을 위한 곳이었고, 비커는 그림러들을 위한 곳이었다고 보면 되겠네요. 일단 홈페이지를 사용해서 운영진이 원하는대로 베이스를 구축가능하니까 카커보다 복잡한 시스템을 사용하는 커뮤가",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "airless_planet",
+					"name": "세라비 선생",
+					"id": 3308856607,
+					"id_str": "3308856607",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 745978322904092700,
+		"in_reply_to_status_id_str": "745978322904092673",
+		"in_reply_to_user_id": 727142601682362400,
+		"in_reply_to_user_id_str": "727142601682362368",
+		"in_reply_to_screen_name": "hellosanta91",
+		"user": {
+			"id": 727142601682362400,
+			"id_str": "727142601682362368",
+			"name": "무덕이🐾겨울이되면반동결",
+			"screen_name": "hellosanta91",
+			"location": "",
+			"description": "수도권 성인 여성. 인형계90%,기타10%. 여성향과 약유혈에 주의. 맞팔은 멘션. FUB Free.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 352,
+			"listed_count": 1,
+			"created_at": "Mon May 02 14:28:00 +0000 2016",
+			"favourites_count": 4431,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/727527459424366592/YV0sFIUK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/727527459424366592/YV0sFIUK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/727142601682362368/1539962869",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@airless_planet 그 당시에 카커는 거의 멀티러들이랑 글러 들을 위한 곳이었고, 비커는 그림러들을 위한 곳이었다고 보면 되겠네요. 일단 홈페이지를 사용해서 운영진이 원하는대로 베이스를 구축가능하니까 카커보다 복잡한 시스템을 사용하는 커뮤가"
+	},
+	{
+		"created_at": "Sun May 16 13:40:56 +0000 2021",
+		"id": 745978322904092700,
+		"id_str": "1393924430997245957",
+		"full_text": "@airless_planet 커뮤모아라는 커뮤쪽 큰 사이트에 홍보지가 많이 올라오곤 했어요. 지금처럼 단기나 일회용커뮤는 드물고 거의 다 몇개월 이상 장기 커뮤들이었구요. 한번 하면 뼈를 묻어야하는 그런 ㅋㅋ..ㅋㅋ..",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "airless_planet",
+					"name": "세라비 선생",
+					"id": 3308856607,
+					"id_str": "3308856607",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 745978138824413200,
+		"in_reply_to_status_id_str": "745978138824413184",
+		"in_reply_to_user_id": 727142601682362400,
+		"in_reply_to_user_id_str": "727142601682362368",
+		"in_reply_to_screen_name": "hellosanta91",
+		"user": {
+			"id": 727142601682362400,
+			"id_str": "727142601682362368",
+			"name": "무덕이🐾겨울이되면반동결",
+			"screen_name": "hellosanta91",
+			"location": "",
+			"description": "수도권 성인 여성. 인형계90%,기타10%. 여성향과 약유혈에 주의. 맞팔은 멘션. FUB Free.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299,
+			"friends_count": 352,
+			"listed_count": 1,
+			"created_at": "Mon May 02 14:28:00 +0000 2016",
+			"favourites_count": 4431,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/727527459424366592/YV0sFIUK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/727527459424366592/YV0sFIUK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/727142601682362368/1539962869",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@airless_planet 커뮤모아라는 커뮤쪽 큰 사이트에 홍보지가 많이 올라오곤 했어요. 지금처럼 단기나 일회용커뮤는 드물고 거의 다 몇개월 이상 장기 커뮤들이었구요. 한번 하면 뼈를 묻어야하는 그런 ㅋㅋ..ㅋㅋ.."
+	},
+	{
 		"created_at": "Sun May 16 11:11:27 +0000 2021",
 		"id": 1393886809264779500,
 		"id_str": "1393886809264779397",
