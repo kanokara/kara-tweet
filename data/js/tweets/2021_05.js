@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sun May 16 03:03:26 +0000 2021",
+		"id": 1393716086764310500,
+		"id_str": "1393763998248570882",
+		"full_text": "이는 상당히 의미가 있는 지적이라고 생각합니다. 전부터 굴락같은 곳에선 제가 몇번 말을 한 바가 있습니다만은, 냉전 시기의 이스라엘의 아랍관과 지금의 아랍관은 상당히 달라졌다는 것을 주목해야 합니다.\n\n지금은 그야말로 뼛속까지 스민 증오에 눈이 멀어버린 절멸전으로 치닫는 느낌. https://t.co/hyudf5i0my",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hyudf5i0my",
+					"expanded_url": "https://twitter.com/patriarchmoriya/status/1393508731757875200",
+					"display_url": "twitter.com/patriarchmoriy…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 871617171352240100,
+			"id_str": "871617171352240129",
+			"name": "전위대",
+			"screen_name": "vanguard7615",
+			"location": "대한민국",
+			"description": "I'm a Catholic whore, currently enjoying congress out of wedlock with my black Jewish boyfriend who works at a military abortion clinic. Hail Satan",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1013,
+			"friends_count": 196,
+			"listed_count": 8,
+			"created_at": "Mon Jun 05 06:38:22 +0000 2017",
+			"favourites_count": 6705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10857,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066113239434452993/TFDGCWQB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066113239434452993/TFDGCWQB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/871617171352240129/1543016202",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1393508731757875200,
+		"quoted_status_id_str": "1393508731757875200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hyudf5i0my",
+			"expanded": "https://twitter.com/patriarchmoriya/status/1393508731757875200",
+			"display": "twitter.com/patriarchmoriy…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 15 10:09:06 +0000 2021",
+			"id": 1393508731757875200,
+			"id_str": "1393508731757875200",
+			"full_text": "휴전국인 한국도 군대선 북한이 시발놈이라고 주구장창 가르치는데, 실제로 전우들이 죽고 다치는걸 겪고 실전을 겪는 이스라엘군이 팔레스타인/주변국들을 교육+경험을 통해서 어떻게 생각할까. 그것도 더 길고, 남녀모두가 군대에 가는데.\n공습을 '구경'하고 불타는 신전앞에서'춤추는'게 우연일까 https://t.co/w39yETE5gW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				159
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/w39yETE5gW",
+						"expanded_url": "https://twitter.com/patriarchmoriya/status/1393507390855606277",
+						"display_url": "twitter.com/patriarchmoriy…",
+						"indices": [
+							160,
+							183
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1240544284039766000,
+				"id_str": "1240544284039766016",
+				"name": "김천애",
+				"screen_name": "patriarchmoriya",
+				"location": "",
+				"description": "(전)비밀결사문사철 단장 (현)은퇴",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 452,
+				"friends_count": 184,
+				"listed_count": 3,
+				"created_at": "Thu Mar 19 07:43:06 +0000 2020",
+				"favourites_count": 807,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9000,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1387332745370558468/K5RO6xIs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387332745370558468/K5RO6xIs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1240544284039766016/1609519328",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1393507390855606300,
+			"quoted_status_id_str": "1393507390855606277",
+			"quoted_status_permalink": {
+				"url": "https://t.co/w39yETE5gW",
+				"expanded": "https://twitter.com/patriarchmoriya/status/1393507390855606277",
+				"display": "twitter.com/patriarchmoriy…"
+			},
+			"retweet_count": 242,
+			"favorite_count": 108,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 143,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이는 상당히 의미가 있는 지적이라고 생각합니다. 전부터 굴락같은 곳에선 제가 몇번 말을 한 바가 있습니다만은, 냉전 시기의 이스라엘의 아랍관과 지금의 아랍관은 상당히 달라졌다는 것을 주목해야 합니다.\n\n지금은 그야말로 뼛속까지 스민 증오에 눈이 멀어버린 절멸전으로 치닫는 느낌. https://t.co/hyudf5i0my"
+	},
+	{
 		"created_at": "Sat May 15 15:18:30 +0000 2021",
 		"id": 1393582581929545700,
 		"id_str": "1393586593278021636",
