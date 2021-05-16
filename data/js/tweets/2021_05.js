@@ -1,6 +1,2447 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sun May 16 11:04:26 +0000 2021",
+		"id": 1393885044691722200,
+		"id_str": "1393885044691722241",
+		"full_text": "달리 생각해보면, 대의성 중 선출적 요건에만 개념을 한정하여 본 것이라 이런 견해차가 생긴 것이네요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1393873120939839500,
+		"in_reply_to_status_id_str": "1393873120939839488",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3669,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "달리 생각해보면, 대의성 중 선출적 요건에만 개념을 한정하여 본 것이라 이런 견해차가 생긴 것이네요."
+	},
+	{
+		"created_at": "Sun May 16 10:44:32 +0000 2021",
+		"id": 1393880035245895700,
+		"id_str": "1393880035245895680",
+		"full_text": "착한 것은 길들임의 표현에 가깝지만, 선한 것은 관철에 가깝다는 면에서.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1393879739857789000,
+		"in_reply_to_status_id_str": "1393879739857788932",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3669,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "착한 것은 길들임의 표현에 가깝지만, 선한 것은 관철에 가깝다는 면에서."
+	},
+	{
+		"created_at": "Sun May 16 10:43:21 +0000 2021",
+		"id": 1393879739857789000,
+		"id_str": "1393879739857788932",
+		"full_text": "착한 것과 선한 것은 사실 다르지 않을까...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3669,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "착한 것과 선한 것은 사실 다르지 않을까..."
+	},
+	{
+		"created_at": "Sun May 16 10:41:45 +0000 2021",
+		"id": 1350045997355843600,
+		"id_str": "1393879336009281536",
+		"full_text": "인용 실례) \"착한(선한) 것은 수동적이고 악한 것은 능동적이다.\" - '타르코프스키의 순교일기' 구절에서 https://t.co/NHUFOMWxan https://t.co/f4ZDyGjkgJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NHUFOMWxan",
+					"expanded_url": "https://twitter.com/NyaNyaNyangC/status/1132609108710846464",
+					"display_url": "twitter.com/NyaNyaNyangC/s…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1350045774415945700,
+					"id_str": "1350045774415945737",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/ErxTep6UYAki5iF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErxTep6UYAki5iF.jpg",
+					"url": "https://t.co/f4ZDyGjkgJ",
+					"display_url": "pic.twitter.com/f4ZDyGjkgJ",
+					"expanded_url": "https://twitter.com/seiryu6198/status/1350045997355843586/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 406,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 538,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 538,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1350045774415945700,
+					"id_str": "1350045774415945737",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/ErxTep6UYAki5iF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErxTep6UYAki5iF.jpg",
+					"url": "https://t.co/f4ZDyGjkgJ",
+					"display_url": "pic.twitter.com/f4ZDyGjkgJ",
+					"expanded_url": "https://twitter.com/seiryu6198/status/1350045997355843586/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 406,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 538,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 538,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3349043352,
+			"id_str": "3349043352",
+			"name": "グレートホーク",
+			"screen_name": "seiryu6198",
+			"location": "대한민국/Republic of Korea/大韓民国",
+			"description": "'낙이불류 애이불비'(楽而不流 哀而不悲)의 마음으로 살아간다. (「楽而不流 哀而不悲」の心で生きる。)\nSTG大好きタイトーファン24年の韓国人です。よろしくお願いします。(日本語下手＆コミュ障です) \nダライアス/ZUNTATA/レトロゲーム/ロックマン(初代・エグゼ)/飛行機/鳥•昆虫/風景/特撮",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 486,
+			"friends_count": 1360,
+			"listed_count": 4,
+			"created_at": "Wed Aug 26 14:08:17 +0000 2015",
+			"favourites_count": 73642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 119863,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1132609108710846500,
+		"quoted_status_id_str": "1132609108710846464",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NHUFOMWxan",
+			"expanded": "https://twitter.com/NyaNyaNyangC/status/1132609108710846464",
+			"display": "twitter.com/NyaNyaNyangC/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 26 11:27:09 +0000 2019",
+			"id": 1132609108710846500,
+			"id_str": "1132609108710846464",
+			"full_text": "난 사람들이 선한 캐릭터를 싫어하는 이유가, 천재 캐릭터 만들기 어려운 것과 일맥상통한다고 생각한다. 천재 캐릭터가 작가의 지능을 넘어서지 못하듯이, 선한 캐릭터는 작가의 집념을 넘어서지 못하니까.\n\n왜 집념이냐 하면, 선함은 의심과 불안과 고민과 갈등으로 이루어지니까.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				151
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3235646006,
+				"id_str": "3235646006",
+				"name": "그냥냥씨@웹생재활중",
+				"screen_name": "NyaNyaNyangC",
+				"location": "오타쿠웨이",
+				"description": "나는 능히 할 수가 없다. 능이버섯이다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1474,
+				"friends_count": 884,
+				"listed_count": 18,
+				"created_at": "Thu Jun 04 03:14:06 +0000 2015",
+				"favourites_count": 6212,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 80005,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1265116222288359424/MlolO4dN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265116222288359424/MlolO4dN_normal.jpg",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7377,
+			"favorite_count": 2452,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "인용 실례) \"착한(선한) 것은 수동적이고 악한 것은 능동적이다.\" - '타르코프스키의 순교일기' 구절에서 https://t.co/NHUFOMWxan https://t.co/f4ZDyGjkgJ"
+	},
+	{
+		"created_at": "Sun May 16 10:39:44 +0000 2021",
+		"id": 971565273135300600,
+		"id_str": "1393878830729814019",
+		"full_text": "\"상상 속의 악은 낭만적이고도 다양하나, 실제의 악은 우울하고 단조로우며 척박하고도 지루하다. 상상 속의 선은 지루하지만, 실제의 선은 언제나 새롭고 놀라우며 매혹적이다.\" -시몬 베유",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 755972323279110100,
+			"id_str": "755972323279110144",
+			"name": "이산화",
+			"screen_name": "CoconutGirlReal",
+			"location": "CoconutGirlMyth@gmail.com",
+			"description": "SF 작가. 다른 장르도 종종 씁니다.",
+			"url": "https://t.co/IzfFoiYHSL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IzfFoiYHSL",
+							"expanded_url": "https://www.sanhwa-lee.com",
+							"display_url": "sanhwa-lee.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5825,
+			"friends_count": 0,
+			"listed_count": 42,
+			"created_at": "Thu Jul 21 03:47:02 +0000 2016",
+			"favourites_count": 1183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 128840,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130492515247841280/l-pTqRtX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130492515247841280/l-pTqRtX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755972323279110144/1558364232",
+			"profile_link_color": "552FCC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12771,
+		"favorite_count": 4811,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"상상 속의 악은 낭만적이고도 다양하나, 실제의 악은 우울하고 단조로우며 척박하고도 지루하다. 상상 속의 선은 지루하지만, 실제의 선은 언제나 새롭고 놀라우며 매혹적이다.\" -시몬 베유"
+	},
+	{
+		"created_at": "Sun May 16 10:39:33 +0000 2021",
+		"id": 1132630433609310200,
+		"id_str": "1393878783761989632",
+		"full_text": "@NyaNyaNyangC 사람들은 대게 '선을 단순하고 악을 복잡하게 보려하지만' 현실은 정반대죠. 물론 픽션까지 현실을 따라갈 필요는 없지만요. 이와 관련해서 인상 깊게 읽은 글 링크합니다.\nhttps://t.co/tNLewR0Gbn",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NyaNyaNyangC",
+					"name": "그냥냥씨@웹생재활중",
+					"id": 3235646006,
+					"id_str": "3235646006",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tNLewR0Gbn",
+					"expanded_url": "https://brunch.co.kr/@mcwannabe/165",
+					"display_url": "brunch.co.kr/@mcwannabe/165",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1132609108710846500,
+		"in_reply_to_status_id_str": "1132609108710846464",
+		"in_reply_to_user_id": 3235646006,
+		"in_reply_to_user_id_str": "3235646006",
+		"in_reply_to_screen_name": "NyaNyaNyangC",
+		"user": {
+			"id": 1023918844350349300,
+			"id_str": "1023918844350349314",
+			"name": "비이상",
+			"screen_name": "B_E_SANG",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73,
+			"friends_count": 45,
+			"listed_count": 0,
+			"created_at": "Mon Jul 30 13:10:50 +0000 2018",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30586,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1284997243670417409/A6-cPuxX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1284997243670417409/A6-cPuxX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1564,
+		"favorite_count": 780,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@NyaNyaNyangC 사람들은 대게 '선을 단순하고 악을 복잡하게 보려하지만' 현실은 정반대죠. 물론 픽션까지 현실을 따라갈 필요는 없지만요. 이와 관련해서 인상 깊게 읽은 글 링크합니다.\nhttps://t.co/tNLewR0Gbn"
+	},
+	{
+		"created_at": "Sun May 16 10:39:18 +0000 2021",
+		"id": 1132613633630908400,
+		"id_str": "1393878719572422656",
+		"full_text": "그런 점에서 난 '선함'을 타고난 성정의 결과처럼 그리는 것은 안 좋아한다. 선함을 캐릭터의 본질로 삼는 성인들의 설화 치고 '(내면의) 악마와 싸우는 일화'가 빠지는 경우가 없는데 많은 '착한 설정의 캐릭터'들이 이걸 건너뛰어 엉터리로 보이게 되는 경우가 많음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1132609108710846500,
+		"in_reply_to_status_id_str": "1132609108710846464",
+		"in_reply_to_user_id": 3235646006,
+		"in_reply_to_user_id_str": "3235646006",
+		"in_reply_to_screen_name": "NyaNyaNyangC",
+		"user": {
+			"id": 3235646006,
+			"id_str": "3235646006",
+			"name": "그냥냥씨@웹생재활중",
+			"screen_name": "NyaNyaNyangC",
+			"location": "오타쿠웨이",
+			"description": "나는 능히 할 수가 없다. 능이버섯이다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1474,
+			"friends_count": 884,
+			"listed_count": 18,
+			"created_at": "Thu Jun 04 03:14:06 +0000 2015",
+			"favourites_count": 6212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265116222288359424/MlolO4dN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265116222288359424/MlolO4dN_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2169,
+		"favorite_count": 753,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그런 점에서 난 '선함'을 타고난 성정의 결과처럼 그리는 것은 안 좋아한다. 선함을 캐릭터의 본질로 삼는 성인들의 설화 치고 '(내면의) 악마와 싸우는 일화'가 빠지는 경우가 없는데 많은 '착한 설정의 캐릭터'들이 이걸 건너뛰어 엉터리로 보이게 되는 경우가 많음."
+	},
+	{
+		"created_at": "Sun May 16 10:39:13 +0000 2021",
+		"id": 1132609108710846500,
+		"id_str": "1393878697912983554",
+		"full_text": "난 사람들이 선한 캐릭터를 싫어하는 이유가, 천재 캐릭터 만들기 어려운 것과 일맥상통한다고 생각한다. 천재 캐릭터가 작가의 지능을 넘어서지 못하듯이, 선한 캐릭터는 작가의 집념을 넘어서지 못하니까.\n\n왜 집념이냐 하면, 선함은 의심과 불안과 고민과 갈등으로 이루어지니까.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3235646006,
+			"id_str": "3235646006",
+			"name": "그냥냥씨@웹생재활중",
+			"screen_name": "NyaNyaNyangC",
+			"location": "오타쿠웨이",
+			"description": "나는 능히 할 수가 없다. 능이버섯이다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1474,
+			"friends_count": 884,
+			"listed_count": 18,
+			"created_at": "Thu Jun 04 03:14:06 +0000 2015",
+			"favourites_count": 6212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265116222288359424/MlolO4dN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265116222288359424/MlolO4dN_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7377,
+		"favorite_count": 2452,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "난 사람들이 선한 캐릭터를 싫어하는 이유가, 천재 캐릭터 만들기 어려운 것과 일맥상통한다고 생각한다. 천재 캐릭터가 작가의 지능을 넘어서지 못하듯이, 선한 캐릭터는 작가의 집념을 넘어서지 못하니까.\n\n왜 집념이냐 하면, 선함은 의심과 불안과 고민과 갈등으로 이루어지니까."
+	},
+	{
+		"created_at": "Sun May 16 10:37:45 +0000 2021",
+		"id": 1393876598659567600,
+		"id_str": "1393878328801644546",
+		"full_text": "저는 이 부분과 연결되는, 소위 본격 추리소설의 뿌리가 같다는 점에 주목해야 한다는 입장입니다. 마술을 직접 했던 입장에서 일루전 마술의 이국적인 오컬트와 기술적 낭만을 대표하는 기계트릭의 결합이야 말로 일본의 변격/본격 논란이니까요 https://t.co/Yefv6bLJqy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yefv6bLJqy",
+					"expanded_url": "https://twitter.com/indoornomad/status/1124861588882591744",
+					"display_url": "twitter.com/indoornomad/st…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 187070498,
+			"id_str": "187070498",
+			"name": "손지상(孫 志尚, Son Ji-Sang)",
+			"screen_name": "doskharaas",
+			"location": "독방",
+			"description": "원고의뢰 및 문의: sonkaiju 네이버메일 | 저서 및 역서 목록: https://t.co/8qFNSt2HwY",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8qFNSt2HwY",
+							"expanded_url": "http://m.aladin.co.kr/m/msearch.aspx?SearchTarget=Book&KeyWord=%EC%86%90%EC%A7%80%EC%83%81&KeyRecentPublish=0&OutStock=0",
+							"display_url": "m.aladin.co.kr/m/msearch.aspx…",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3431,
+			"friends_count": 1377,
+			"listed_count": 47,
+			"created_at": "Sun Sep 05 04:57:43 +0000 2010",
+			"favourites_count": 46496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 179387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380751442831499264/vS_yTMCr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380751442831499264/vS_yTMCr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/187070498/1618031772",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1124861588882591700,
+		"quoted_status_id_str": "1124861588882591744",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Yefv6bLJqy",
+			"expanded": "https://twitter.com/indoornomad/status/1124861588882591744",
+			"display": "twitter.com/indoornomad/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 05 02:21:16 +0000 2019",
+			"id": 1124861588882591700,
+			"id_str": "1124861588882591744",
+			"full_text": "개인적인 의견이지만 근현대 마술은 그것이 정립됐을 당시의 '기술적인 낭만'으로 대표되는 벨에포크적인 사회 분위기와 필연적으로 맞닿았으며, 당대에서 이어져오는 제국주의적 모티프 등의 재생산 문제에 대해서 마술사들과 관람객 차원에서의 논의가 이뤄졌으면 합니다. https://t.co/2iBELxjk0p",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				143
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1124856327396741100,
+						"id_str": "1124856327396741120",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/media/D5xK3rnVUAAGkDN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5xK3rnVUAAGkDN.jpg",
+						"url": "https://t.co/2iBELxjk0p",
+						"display_url": "pic.twitter.com/2iBELxjk0p",
+						"expanded_url": "https://twitter.com/IndoorCaravan/status/1124861588882591744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 726,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 241,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 425,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1124856327396741100,
+						"id_str": "1124856327396741120",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/media/D5xK3rnVUAAGkDN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5xK3rnVUAAGkDN.jpg",
+						"url": "https://t.co/2iBELxjk0p",
+						"display_url": "pic.twitter.com/2iBELxjk0p",
+						"expanded_url": "https://twitter.com/IndoorCaravan/status/1124861588882591744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 726,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 241,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 425,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1124856764048887800,
+						"id_str": "1124856764048887809",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/media/D5xLRGRUUAEe-B3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5xLRGRUUAEe-B3.jpg",
+						"url": "https://t.co/2iBELxjk0p",
+						"display_url": "pic.twitter.com/2iBELxjk0p",
+						"expanded_url": "https://twitter.com/IndoorCaravan/status/1124861588882591744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 700,
+								"h": 924,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 924,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 515,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1124861486969409500,
+						"id_str": "1124861486969409537",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/media/D5xPkAhUUAEvqp4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5xPkAhUUAEvqp4.jpg",
+						"url": "https://t.co/2iBELxjk0p",
+						"display_url": "pic.twitter.com/2iBELxjk0p",
+						"expanded_url": "https://twitter.com/IndoorCaravan/status/1124861588882591744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1124861570465402900,
+						"id_str": "1124861570465402880",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/media/D5xPo3kUEAARcUQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5xPo3kUEAARcUQ.jpg",
+						"url": "https://t.co/2iBELxjk0p",
+						"display_url": "pic.twitter.com/2iBELxjk0p",
+						"expanded_url": "https://twitter.com/IndoorCaravan/status/1124861588882591744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1124861587578212400,
+			"in_reply_to_status_id_str": "1124861587578212353",
+			"in_reply_to_user_id": 1123446097081507800,
+			"in_reply_to_user_id_str": "1123446097081507840",
+			"in_reply_to_screen_name": "IndoorNomad",
+			"user": {
+				"id": 1123446097081507800,
+				"id_str": "1123446097081507840",
+				"name": "집구석 유목민",
+				"screen_name": "IndoorNomad",
+				"location": "대한민국 서울",
+				"description": "휘장은 삐라따님의 그림입니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 771,
+				"friends_count": 978,
+				"listed_count": 5,
+				"created_at": "Wed May 01 04:36:36 +0000 2019",
+				"favourites_count": 545,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 42578,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1365151816250392582/QdZn0JLI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1365151816250392582/QdZn0JLI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1123446097081507840/1619574320",
+				"profile_link_color": "AC8C75",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저는 이 부분과 연결되는, 소위 본격 추리소설의 뿌리가 같다는 점에 주목해야 한다는 입장입니다. 마술을 직접 했던 입장에서 일루전 마술의 이국적인 오컬트와 기술적 낭만을 대표하는 기계트릭의 결합이야 말로 일본의 변격/본격 논란이니까요 https://t.co/Yefv6bLJqy"
+	},
+	{
+		"created_at": "Sun May 16 10:37:29 +0000 2021",
+		"id": 1124861588882591700,
+		"id_str": "1393878260736577537",
+		"full_text": "개인적인 의견이지만 근현대 마술은 그것이 정립됐을 당시의 '기술적인 낭만'으로 대표되는 벨에포크적인 사회 분위기와 필연적으로 맞닿았으며, 당대에서 이어져오는 제국주의적 모티프 등의 재생산 문제에 대해서 마술사들과 관람객 차원에서의 논의가 이뤄졌으면 합니다. https://t.co/2iBELxjk0p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1124856327396741100,
+					"id_str": "1124856327396741120",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/D5xK3rnVUAAGkDN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5xK3rnVUAAGkDN.jpg",
+					"url": "https://t.co/2iBELxjk0p",
+					"display_url": "pic.twitter.com/2iBELxjk0p",
+					"expanded_url": "https://twitter.com/IndoorCaravan/status/1124861588882591744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 726,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 241,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 425,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124856327396741100,
+					"id_str": "1124856327396741120",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/D5xK3rnVUAAGkDN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5xK3rnVUAAGkDN.jpg",
+					"url": "https://t.co/2iBELxjk0p",
+					"display_url": "pic.twitter.com/2iBELxjk0p",
+					"expanded_url": "https://twitter.com/IndoorCaravan/status/1124861588882591744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 726,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 241,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 425,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1124856764048887800,
+					"id_str": "1124856764048887809",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/D5xLRGRUUAEe-B3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5xLRGRUUAEe-B3.jpg",
+					"url": "https://t.co/2iBELxjk0p",
+					"display_url": "pic.twitter.com/2iBELxjk0p",
+					"expanded_url": "https://twitter.com/IndoorCaravan/status/1124861588882591744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 924,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 924,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 515,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1124861486969409500,
+					"id_str": "1124861486969409537",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/D5xPkAhUUAEvqp4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5xPkAhUUAEvqp4.jpg",
+					"url": "https://t.co/2iBELxjk0p",
+					"display_url": "pic.twitter.com/2iBELxjk0p",
+					"expanded_url": "https://twitter.com/IndoorCaravan/status/1124861588882591744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1124861570465402900,
+					"id_str": "1124861570465402880",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/D5xPo3kUEAARcUQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5xPo3kUEAARcUQ.jpg",
+					"url": "https://t.co/2iBELxjk0p",
+					"display_url": "pic.twitter.com/2iBELxjk0p",
+					"expanded_url": "https://twitter.com/IndoorCaravan/status/1124861588882591744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1124861587578212400,
+		"in_reply_to_status_id_str": "1124861587578212353",
+		"in_reply_to_user_id": 1123446097081507800,
+		"in_reply_to_user_id_str": "1123446097081507840",
+		"in_reply_to_screen_name": "IndoorNomad",
+		"user": {
+			"id": 1123446097081507800,
+			"id_str": "1123446097081507840",
+			"name": "집구석 유목민",
+			"screen_name": "IndoorNomad",
+			"location": "대한민국 서울",
+			"description": "휘장은 삐라따님의 그림입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 771,
+			"friends_count": 978,
+			"listed_count": 5,
+			"created_at": "Wed May 01 04:36:36 +0000 2019",
+			"favourites_count": 545,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1365151816250392582/QdZn0JLI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1365151816250392582/QdZn0JLI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1123446097081507840/1619574320",
+			"profile_link_color": "AC8C75",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "개인적인 의견이지만 근현대 마술은 그것이 정립됐을 당시의 '기술적인 낭만'으로 대표되는 벨에포크적인 사회 분위기와 필연적으로 맞닿았으며, 당대에서 이어져오는 제국주의적 모티프 등의 재생산 문제에 대해서 마술사들과 관람객 차원에서의 논의가 이뤄졌으면 합니다. https://t.co/2iBELxjk0p"
+	},
+	{
+		"created_at": "Sun May 16 10:37:23 +0000 2021",
+		"id": 1124861587578212400,
+		"id_str": "1393878235860045824",
+		"full_text": "첨언하자면 개인적으로 마술에 관심이 있다보니 알게 된 것으로 19세기에 근현대 오락적 마술이 정립되는 과정에서 오리엔탈리즘적인 모티프는 당시 마술 홍보 및 공연 양상, 일루전 명칭 등에 자리잡았으며, 이러한 이미지는 지금까지도 근대 마술을 재현하며 재생산됩니다.\n\nhttps://t.co/NUIrzffKR6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NUIrzffKR6",
+					"expanded_url": "https://twitter.com/kcanari/status/1124847636400431104",
+					"display_url": "twitter.com/kcanari/status…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1123446097081507800,
+			"id_str": "1123446097081507840",
+			"name": "집구석 유목민",
+			"screen_name": "IndoorNomad",
+			"location": "대한민국 서울",
+			"description": "휘장은 삐라따님의 그림입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 771,
+			"friends_count": 978,
+			"listed_count": 5,
+			"created_at": "Wed May 01 04:36:36 +0000 2019",
+			"favourites_count": 545,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42578,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1365151816250392582/QdZn0JLI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1365151816250392582/QdZn0JLI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1123446097081507840/1619574320",
+			"profile_link_color": "AC8C75",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1124847636400431100,
+		"quoted_status_id_str": "1124847636400431104",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NUIrzffKR6",
+			"expanded": "https://twitter.com/kcanari/status/1124847636400431104",
+			"display": "twitter.com/kcanari/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 05 01:25:49 +0000 2019",
+			"id": 1124847636400431100,
+			"id_str": "1124847636400431104",
+			"full_text": "추리소설의 금기 중 하나인 녹스의 10계 중에 5번 “중국인을 등장시키면 안된다”라는 말이 있을 정도로 당시 중국인 이미지난 미스테리했고 그런 이미지를 활용해 마술사로 활동했던 청링쑤 이야기 타래. https://t.co/N8NZHxtgig",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				110
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/N8NZHxtgig",
+						"expanded_url": "https://twitter.com/yinzhen2017/status/1124732858608652288",
+						"display_url": "twitter.com/yinzhen2017/st…",
+						"indices": [
+							111,
+							134
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 101148636,
+				"id_str": "101148636",
+				"name": "까날(오승택)",
+				"screen_name": "kcanari",
+				"location": "KOREA Sungnam",
+				"description": "'홋카이도에 먹으러가자' 글쓴이. 일본 식도락 여행 전문 블로그 운영중. 우리음식, 일본음식, 우리술, 일본술에 관심이 많은 사람.",
+				"url": "https://t.co/lBdKLdgZ3Z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lBdKLdgZ3Z",
+								"expanded_url": "http://kcanari.egloos.com",
+								"display_url": "kcanari.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 48722,
+				"friends_count": 294,
+				"listed_count": 185,
+				"created_at": "Sat Jan 02 05:42:27 +0000 2010",
+				"favourites_count": 955,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 144446,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/101148636/1365251288",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1124732858608652300,
+			"quoted_status_id_str": "1124732858608652288",
+			"quoted_status_permalink": {
+				"url": "https://t.co/N8NZHxtgig",
+				"expanded": "https://twitter.com/yinzhen2017/status/1124732858608652288",
+				"display": "twitter.com/yinzhen2017/st…"
+			},
+			"retweet_count": 112,
+			"favorite_count": 57,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 65,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "첨언하자면 개인적으로 마술에 관심이 있다보니 알게 된 것으로 19세기에 근현대 오락적 마술이 정립되는 과정에서 오리엔탈리즘적인 모티프는 당시 마술 홍보 및 공연 양상, 일루전 명칭 등에 자리잡았으며, 이러한 이미지는 지금까지도 근대 마술을 재현하며 재생산됩니다.\n\nhttps://t.co/NUIrzffKR6"
+	},
+	{
+		"created_at": "Sun May 16 10:37:17 +0000 2021",
+		"id": 1124847636400431100,
+		"id_str": "1393878214444036100",
+		"full_text": "추리소설의 금기 중 하나인 녹스의 10계 중에 5번 “중국인을 등장시키면 안된다”라는 말이 있을 정도로 당시 중국인 이미지난 미스테리했고 그런 이미지를 활용해 마술사로 활동했던 청링쑤 이야기 타래. https://t.co/N8NZHxtgig",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N8NZHxtgig",
+					"expanded_url": "https://twitter.com/yinzhen2017/status/1124732858608652288",
+					"display_url": "twitter.com/yinzhen2017/st…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 101148636,
+			"id_str": "101148636",
+			"name": "까날(오승택)",
+			"screen_name": "kcanari",
+			"location": "KOREA Sungnam",
+			"description": "'홋카이도에 먹으러가자' 글쓴이. 일본 식도락 여행 전문 블로그 운영중. 우리음식, 일본음식, 우리술, 일본술에 관심이 많은 사람.",
+			"url": "https://t.co/lBdKLdgZ3Z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lBdKLdgZ3Z",
+							"expanded_url": "http://kcanari.egloos.com",
+							"display_url": "kcanari.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48722,
+			"friends_count": 294,
+			"listed_count": 185,
+			"created_at": "Sat Jan 02 05:42:27 +0000 2010",
+			"favourites_count": 955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 144446,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101148636/1365251288",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1124732858608652300,
+		"quoted_status_id_str": "1124732858608652288",
+		"quoted_status_permalink": {
+			"url": "https://t.co/N8NZHxtgig",
+			"expanded": "https://twitter.com/yinzhen2017/status/1124732858608652288",
+			"display": "twitter.com/yinzhen2017/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 04 17:49:44 +0000 2019",
+			"id": 1124732858608652300,
+			"id_str": "1124732858608652288",
+			"full_text": "백인 남성이 중국인인 척 하고 유럽을 속인 케이스로 程连苏- Chung Ling Soo가 있습니다. 지금 보통화 방식으로 읽으면 청롄쑤인데, 청링쑤로 활동한 것 같으니 청링쑤라고 읽을게요. https://t.co/Q6EY9wk0rY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				105
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1124732462192402400,
+						"id_str": "1124732462192402433",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/D5vaNxxUIAEt4aQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5vaNxxUIAEt4aQ.jpg",
+						"url": "https://t.co/Q6EY9wk0rY",
+						"display_url": "pic.twitter.com/Q6EY9wk0rY",
+						"expanded_url": "https://twitter.com/yinzhen2017/status/1124732858608652288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 470,
+								"h": 621,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 470,
+								"h": 621,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 470,
+								"h": 621,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1124732462192402400,
+						"id_str": "1124732462192402433",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/D5vaNxxUIAEt4aQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5vaNxxUIAEt4aQ.jpg",
+						"url": "https://t.co/Q6EY9wk0rY",
+						"display_url": "pic.twitter.com/Q6EY9wk0rY",
+						"expanded_url": "https://twitter.com/yinzhen2017/status/1124732858608652288/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 470,
+								"h": 621,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 470,
+								"h": 621,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 470,
+								"h": 621,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 896876620887150600,
+				"id_str": "896876620887150592",
+				"name": "이소",
+				"screen_name": "yinzhen2017",
+				"location": "Girls can do anything",
+				"description": "lisaoinchina@kakao.com\nDM 확인하지 않습니다.",
+				"url": "https://t.co/4x0GPhlZXU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4x0GPhlZXU",
+								"expanded_url": "http://www.instagram.com/lisaoinchina",
+								"display_url": "instagram.com/lisaoinchina",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11066,
+				"friends_count": 3851,
+				"listed_count": 64,
+				"created_at": "Sun Aug 13 23:30:24 +0000 2017",
+				"favourites_count": 2956,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19559,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1319454228448825344/528xl_W0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1319454228448825344/528xl_W0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/896876620887150592/1603417378",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 187,
+			"favorite_count": 116,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 112,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "추리소설의 금기 중 하나인 녹스의 10계 중에 5번 “중국인을 등장시키면 안된다”라는 말이 있을 정도로 당시 중국인 이미지난 미스테리했고 그런 이미지를 활용해 마술사로 활동했던 청링쑤 이야기 타래. https://t.co/N8NZHxtgig"
+	},
+	{
+		"created_at": "Sun May 16 10:36:16 +0000 2021",
+		"id": 1393875212140089300,
+		"id_str": "1393877956787855360",
+		"full_text": "이 일화는 마술 역사를 다룬 걸작서 제임스 랜디의 &lt;제임스랜디의 마술이야기&gt; (동학사, 1994)에 실려있습니다 https://t.co/FkZvk3nYVc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FkZvk3nYVc",
+					"expanded_url": "https://twitter.com/kcanari/status/1393676871758270468",
+					"display_url": "twitter.com/kcanari/status…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 187070498,
+			"id_str": "187070498",
+			"name": "손지상(孫 志尚, Son Ji-Sang)",
+			"screen_name": "doskharaas",
+			"location": "독방",
+			"description": "원고의뢰 및 문의: sonkaiju 네이버메일 | 저서 및 역서 목록: https://t.co/8qFNSt2HwY",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8qFNSt2HwY",
+							"expanded_url": "http://m.aladin.co.kr/m/msearch.aspx?SearchTarget=Book&KeyWord=%EC%86%90%EC%A7%80%EC%83%81&KeyRecentPublish=0&OutStock=0",
+							"display_url": "m.aladin.co.kr/m/msearch.aspx…",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3431,
+			"friends_count": 1377,
+			"listed_count": 47,
+			"created_at": "Sun Sep 05 04:57:43 +0000 2010",
+			"favourites_count": 46496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 179387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380751442831499264/vS_yTMCr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380751442831499264/vS_yTMCr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/187070498/1618031772",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1393676871758270500,
+		"quoted_status_id_str": "1393676871758270468",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FkZvk3nYVc",
+			"expanded": "https://twitter.com/kcanari/status/1393676871758270468",
+			"display": "twitter.com/kcanari/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 15 21:17:14 +0000 2021",
+			"id": 1393676871758270500,
+			"id_str": "1393676871758270468",
+			"full_text": "이런 일도 있었다. 자칭 중국인 마술사가 중국 분위기를 내려고 중국에서 찍은 사진을 바탕으로 마술 도구를 만들고 사진의 담벼락에 써 있는 한자를 마술 도구에 옮겨 적었는데. 막상 마술이 시작되자 중국에서 온 손님들이 배를 잡고 웃었다고... 담벼락의 한자가 소변금지였다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				151
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": 1393675314031517700,
+			"in_reply_to_status_id_str": "1393675314031517696",
+			"in_reply_to_user_id": 101148636,
+			"in_reply_to_user_id_str": "101148636",
+			"in_reply_to_screen_name": "kcanari",
+			"user": {
+				"id": 101148636,
+				"id_str": "101148636",
+				"name": "까날(오승택)",
+				"screen_name": "kcanari",
+				"location": "KOREA Sungnam",
+				"description": "'홋카이도에 먹으러가자' 글쓴이. 일본 식도락 여행 전문 블로그 운영중. 우리음식, 일본음식, 우리술, 일본술에 관심이 많은 사람.",
+				"url": "https://t.co/lBdKLdgZ3Z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lBdKLdgZ3Z",
+								"expanded_url": "http://kcanari.egloos.com",
+								"display_url": "kcanari.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 48722,
+				"friends_count": 294,
+				"listed_count": 185,
+				"created_at": "Sat Jan 02 05:42:27 +0000 2010",
+				"favourites_count": 955,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 144446,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/101148636/1365251288",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 일화는 마술 역사를 다룬 걸작서 제임스 랜디의 &lt;제임스랜디의 마술이야기&gt; (동학사, 1994)에 실려있습니다 https://t.co/FkZvk3nYVc"
+	},
+	{
+		"created_at": "Sun May 16 10:36:05 +0000 2021",
+		"id": 1393675314031517700,
+		"id_str": "1393877911904657408",
+		"full_text": "콜린 퍼스가 영화 매직 인 문라이트에서 중국인 마술사로 나오거나 프레스티지에서 중국인 마술사가 나오는 것도 다 고증(?)임. 근대 마술의 바탕...\n\n추리소설를 쓸 때 지켜야 하는 10가지 금기(녹스의 십계)중에 “중국인을 등장시키면 안된다.”도 같은 맥락. 중국인=마술사 https://t.co/x9XeV1p7oJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1393675310864892000,
+					"id_str": "1393675310864891907",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/E1dUT6xVgAMZ7cv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1dUT6xVgAMZ7cv.jpg",
+					"url": "https://t.co/x9XeV1p7oJ",
+					"display_url": "pic.twitter.com/x9XeV1p7oJ",
+					"expanded_url": "https://twitter.com/kcanari/status/1393675314031517696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 390,
+							"h": 390,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 390,
+							"h": 390,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 390,
+							"h": 390,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1393675310864892000,
+					"id_str": "1393675310864891907",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/E1dUT6xVgAMZ7cv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1dUT6xVgAMZ7cv.jpg",
+					"url": "https://t.co/x9XeV1p7oJ",
+					"display_url": "pic.twitter.com/x9XeV1p7oJ",
+					"expanded_url": "https://twitter.com/kcanari/status/1393675314031517696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 390,
+							"h": 390,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 390,
+							"h": 390,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 390,
+							"h": 390,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1393675310852231200,
+					"id_str": "1393675310852231168",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/E1dUT6uUUAAtPtV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1dUT6uUUAAtPtV.jpg",
+					"url": "https://t.co/x9XeV1p7oJ",
+					"display_url": "pic.twitter.com/x9XeV1p7oJ",
+					"expanded_url": "https://twitter.com/kcanari/status/1393675314031517696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 224,
+							"h": 224,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 224,
+							"h": 224,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 224,
+							"h": 224,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1393673974827999200,
+		"in_reply_to_status_id_str": "1393673974827999233",
+		"in_reply_to_user_id": 101148636,
+		"in_reply_to_user_id_str": "101148636",
+		"in_reply_to_screen_name": "kcanari",
+		"user": {
+			"id": 101148636,
+			"id_str": "101148636",
+			"name": "까날(오승택)",
+			"screen_name": "kcanari",
+			"location": "KOREA Sungnam",
+			"description": "'홋카이도에 먹으러가자' 글쓴이. 일본 식도락 여행 전문 블로그 운영중. 우리음식, 일본음식, 우리술, 일본술에 관심이 많은 사람.",
+			"url": "https://t.co/lBdKLdgZ3Z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lBdKLdgZ3Z",
+							"expanded_url": "http://kcanari.egloos.com",
+							"display_url": "kcanari.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48722,
+			"friends_count": 294,
+			"listed_count": 185,
+			"created_at": "Sat Jan 02 05:42:27 +0000 2010",
+			"favourites_count": 955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 144446,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101148636/1365251288",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "콜린 퍼스가 영화 매직 인 문라이트에서 중국인 마술사로 나오거나 프레스티지에서 중국인 마술사가 나오는 것도 다 고증(?)임. 근대 마술의 바탕...\n\n추리소설를 쓸 때 지켜야 하는 10가지 금기(녹스의 십계)중에 “중국인을 등장시키면 안된다.”도 같은 맥락. 중국인=마술사 https://t.co/x9XeV1p7oJ"
+	},
+	{
 		"created_at": "Sun May 16 09:52:46 +0000 2021",
 		"id": 1393867009247506400,
 		"id_str": "1393867009247506434",
