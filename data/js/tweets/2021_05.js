@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Mon May 17 14:58:01 +0000 2021",
+		"id": 1394251656519323600,
+		"id_str": "1394306216856199173",
+		"full_text": "이런 것을 올려 보았습니다 🙏 https://t.co/czuILTi9SM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/czuILTi9SM",
+					"expanded_url": "https://twitter.com/beingsince/status/1394219154484326400",
+					"display_url": "twitter.com/beingsince/sta…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 30107360,
+			"id_str": "30107360",
+			"name": "고아침",
+			"screen_name": "achimkoh",
+			"location": "",
+			"description": "precariat robotica 🛠️🤖",
+			"url": "https://t.co/LMc9y4woVG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LMc9y4woVG",
+							"expanded_url": "http://scalarvectortensor.net",
+							"display_url": "scalarvectortensor.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 601,
+			"friends_count": 207,
+			"listed_count": 16,
+			"created_at": "Fri Apr 10 00:22:43 +0000 2009",
+			"favourites_count": 2635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999406615060099072/UWyMBFIo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999406615060099072/UWyMBFIo_normal.jpg",
+			"profile_link_color": "444444",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1394219154484326400,
+		"quoted_status_id_str": "1394219154484326400",
+		"quoted_status_permalink": {
+			"url": "https://t.co/czuILTi9SM",
+			"expanded": "https://twitter.com/beingsince/status/1394219154484326400",
+			"display": "twitter.com/beingsince/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 17 09:12:04 +0000 2021",
+			"id": 1394219154484326400,
+			"id_str": "1394219154484326400",
+			"full_text": "[속보] 코로나19 백신 보도, 제목 빌런은... '충격' https://t.co/3JVb8HCLE1 #soprize #datacow \n\n누가 감염병 보도준칙을 제일 안 지켰나. 훌륭한 분석. https://t.co/T8spmjYhDC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				107
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "soprize",
+						"indices": [
+							57,
+							65
+						]
+					},
+					{
+						"text": "datacow",
+						"indices": [
+							66,
+							74
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3JVb8HCLE1",
+						"expanded_url": "https://soprize.so/answer/300",
+						"display_url": "soprize.so/answer/300",
+						"indices": [
+							33,
+							56
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1394218919624265700,
+						"id_str": "1394218919624265734",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/E1lCuHNVUAYfJW1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E1lCuHNVUAYfJW1.jpg",
+						"url": "https://t.co/T8spmjYhDC",
+						"display_url": "pic.twitter.com/T8spmjYhDC",
+						"expanded_url": "https://twitter.com/beingsince/status/1394219154484326400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1710,
+								"h": 1566,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1099,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 623,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1394218919624265700,
+						"id_str": "1394218919624265734",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/E1lCuHNVUAYfJW1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E1lCuHNVUAYfJW1.jpg",
+						"url": "https://t.co/T8spmjYhDC",
+						"display_url": "pic.twitter.com/T8spmjYhDC",
+						"expanded_url": "https://twitter.com/beingsince/status/1394219154484326400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1710,
+								"h": 1566,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1099,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 623,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 161705484,
+				"id_str": "161705484",
+				"name": "since",
+				"screen_name": "beingsince",
+				"location": "dong-jak, seoul, south korea",
+				"description": "도시-데이터-정책-미디어 유관업무 종사자. 소를 키웁니다. urbanotter. dodal @ alookso. 요즘은 https://t.co/IuTJB1OumP 를 꾸려가고 있습니다.",
+				"url": "https://t.co/Uh4S2t2GxA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Uh4S2t2GxA",
+								"expanded_url": "http://smilesl.tistory.com/",
+								"display_url": "smilesl.tistory.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/IuTJB1OumP",
+								"expanded_url": "http://soprize.so",
+								"display_url": "soprize.so",
+								"indices": [
+									66,
+									89
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2820,
+				"friends_count": 652,
+				"listed_count": 40,
+				"created_at": "Thu Jul 01 15:04:27 +0000 2010",
+				"favourites_count": 9097,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26937,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1367701672642846726/brgk2iQT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367701672642846726/brgk2iQT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/161705484/1359488850",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2480,
+			"favorite_count": 530,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 31,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이런 것을 올려 보았습니다 🙏 https://t.co/czuILTi9SM"
+	},
+	{
 		"created_at": "Mon May 17 13:59:08 +0000 2021",
 		"id": 1369598140282675200,
 		"id_str": "1394291395964260358",
