@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 20 11:01:37 +0000 2021",
+		"id": 1395274272914886700,
+		"id_str": "1395333886889005057",
+		"full_text": "https://t.co/wUg2YDpSb2\n\n랑시에르 정치 개념이 희안한 정의인데, 불화하는 순간이 정치이고 그 외의 무엇을 보고 무엇을 정의내릴지를 다루는건 '치안'(=통상적 개념의 정치)이라 보네...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wUg2YDpSb2",
+					"expanded_url": "https://www.hani.co.kr/arti/culture/book/900614.html",
+					"display_url": "hani.co.kr/arti/culture/b…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1395272176719188000,
+		"in_reply_to_status_id_str": "1395272176719187969",
+		"in_reply_to_user_id": 103580145,
+		"in_reply_to_user_id_str": "103580145",
+		"in_reply_to_screen_name": "L3V14TH4N1104",
+		"user": {
+			"id": 103580145,
+			"id_str": "103580145",
+			"name": "L3V14",
+			"screen_name": "L3V14TH4N1104",
+			"location": "Time and Space for bussiness. ",
+			"description": "I DIDN'T CHOOSE THE PUG LIFE, THE PUG LIFE CHOOSE ME. // Nin-gen Nooooo Nooooo Nin-gen //DA-ME-NIN-GEN//프사는 @moo_seon 님이 그려주셨습니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1124,
+			"friends_count": 616,
+			"listed_count": 32,
+			"created_at": "Sun Jan 10 14:24:54 +0000 2010",
+			"favourites_count": 68136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 267391,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F0F0F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202374898355556352/WocoQsKW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202374898355556352/WocoQsKW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103580145/1418183586",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/wUg2YDpSb2\n\n랑시에르 정치 개념이 희안한 정의인데, 불화하는 순간이 정치이고 그 외의 무엇을 보고 무엇을 정의내릴지를 다루는건 '치안'(=통상적 개념의 정치)이라 보네..."
+	},
+	{
 		"created_at": "Wed May 19 09:28:07 +0000 2021",
 		"id": 1394925932993925000,
 		"id_str": "1394947968776560643",
@@ -25,7 +119,7 @@ Grailbird.data.tweets_2021_05 =
 		"user": {
 			"id": 116991627,
 			"id_str": "116991627",
-			"name": "🏳️‍🌈대뇌찌질🏳️‍⚧",
+			"name": "🏳️🌈대뇌찌질🏳️⚧",
 			"screen_name": "HaxenHammer",
 			"location": "",
 			"description": "국가공인아키비스트(돈듦)/대체로 애니프사 200% 한남/(前)노동당원/VCP찬성/퀄리티필터 적용 중",
