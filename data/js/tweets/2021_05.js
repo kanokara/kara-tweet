@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 21 12:37:51 +0000 2021",
+		"id": 1395669589791367200,
+		"id_str": "1395720491411726337",
+		"full_text": "이 빌어먹을 (1) 아이콘 웹트에서조차 들어갈 때마다 뜨는데 어떡하면 좋음???\n\n트위터 꿀팁: 일단 디엠을 터놓고 뭐 하나 보낸 뒤 1초만에 계폭하면 평생(적어도 1달은 갈 듯) 상대가 자신을 못 잊고 신경쓰게 만들 수 있음\n\n저기 제가 해달란 거 다해주고 호의로 대해줬자나요 이렇게 갚기야? https://t.co/8OIOX1nxzA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1395669147757924400,
+					"id_str": "1395669147757924352",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/E15psgAVUAAUh3L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E15psgAVUAAUh3L.jpg",
+					"url": "https://t.co/8OIOX1nxzA",
+					"display_url": "pic.twitter.com/8OIOX1nxzA",
+					"expanded_url": "https://twitter.com/JuYuwol/status/1395669589791367168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 692,
+							"h": 389,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 692,
+							"h": 389,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395669147757924400,
+					"id_str": "1395669147757924352",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/E15psgAVUAAUh3L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E15psgAVUAAUh3L.jpg",
+					"url": "https://t.co/8OIOX1nxzA",
+					"display_url": "pic.twitter.com/8OIOX1nxzA",
+					"expanded_url": "https://twitter.com/JuYuwol/status/1395669589791367168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 692,
+							"h": 389,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 692,
+							"h": 389,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1395335195906113500,
+		"in_reply_to_status_id_str": "1395335195906113540",
+		"in_reply_to_user_id": 3254546942,
+		"in_reply_to_user_id_str": "3254546942",
+		"in_reply_to_screen_name": "JuYuwol",
+		"user": {
+			"id": 3254546942,
+			"id_str": "3254546942",
+			"name": "주유월",
+			"screen_name": "JuYuwol",
+			"location": "",
+			"description": "비공개 리스트로 팔로잉합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272,
+			"friends_count": 1,
+			"listed_count": 1,
+			"created_at": "Wed Jun 24 11:08:39 +0000 2015",
+			"favourites_count": 14115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33289,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084444651849801730/uEImmo9l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084444651849801730/uEImmo9l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3254546942/1547694224",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 빌어먹을 (1) 아이콘 웹트에서조차 들어갈 때마다 뜨는데 어떡하면 좋음???\n\n트위터 꿀팁: 일단 디엠을 터놓고 뭐 하나 보낸 뒤 1초만에 계폭하면 평생(적어도 1달은 갈 듯) 상대가 자신을 못 잊고 신경쓰게 만들 수 있음\n\n저기 제가 해달란 거 다해주고 호의로 대해줬자나요 이렇게 갚기야? https://t.co/8OIOX1nxzA"
+	},
+	{
 		"created_at": "Fri May 21 07:17:09 +0000 2021",
 		"id": 1395514534949916700,
 		"id_str": "1395639788619780099",
