@@ -1,6 +1,547 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 21 14:05:10 +0000 2021",
+		"id": 1395742465865314300,
+		"id_str": "1395742465865314305",
+		"full_text": "남자들은 타자와 불통이고 세상과 불화하는 인물을 좋아하도록 타고 나서...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3692,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "남자들은 타자와 불통이고 세상과 불화하는 인물을 좋아하도록 타고 나서..."
+	},
+	{
+		"created_at": "Fri May 21 14:04:31 +0000 2021",
+		"id": 1395739290978558000,
+		"id_str": "1395742304330125315",
+		"full_text": "RT) 중2병의 화신이라고 생각함.... 그래서 그렇게 뭇 사춘기 소년들의 마음을 뒤흔든 것이며.... 아닌 사람들에겐 이게 뭐냐 스트뤠스....의 근원이 되신 것임.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3235646006,
+			"id_str": "3235646006",
+			"name": "그냥냥씨@웹생재활중",
+			"screen_name": "NyaNyaNyangC",
+			"location": "오타쿠웨이",
+			"description": "나는 능히 할 수가 없다. 능이버섯이다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1480,
+			"friends_count": 883,
+			"listed_count": 18,
+			"created_at": "Thu Jun 04 03:14:06 +0000 2015",
+			"favourites_count": 6215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265116222288359424/MlolO4dN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265116222288359424/MlolO4dN_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "RT) 중2병의 화신이라고 생각함.... 그래서 그렇게 뭇 사춘기 소년들의 마음을 뒤흔든 것이며.... 아닌 사람들에겐 이게 뭐냐 스트뤠스....의 근원이 되신 것임."
+	},
+	{
+		"created_at": "Fri May 21 14:04:29 +0000 2021",
+		"id": 1395716815649591300,
+		"id_str": "1395742293668220933",
+		"full_text": "얘는 약간 좀 아니 뭐라고 해야하지 딱 꼬집어서 말할 수는 없는데 좀 애가 떼쓰는 것 같다고 해야하나 암튼 끝까지 계속 세이버랑 얘기 안 하는 것도 그렇고 좀 어린애가 떼쓰는 것 같음...ㅋㅋ 그렇게 성배를 얻고 싶으면 세이버랑 제대로 대화하면서 전술 짜는 편이 훨씬 효율적일텐데 https://t.co/fFa7F9tJ41",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1395716808951226400,
+					"id_str": "1395716808951226372",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E16VCvyUYAQF9RY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E16VCvyUYAQF9RY.jpg",
+					"url": "https://t.co/fFa7F9tJ41",
+					"display_url": "pic.twitter.com/fFa7F9tJ41",
+					"expanded_url": "https://twitter.com/bbodok_1657/status/1395716815649591298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395716808951226400,
+					"id_str": "1395716808951226372",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E16VCvyUYAQF9RY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E16VCvyUYAQF9RY.jpg",
+					"url": "https://t.co/fFa7F9tJ41",
+					"display_url": "pic.twitter.com/fFa7F9tJ41",
+					"expanded_url": "https://twitter.com/bbodok_1657/status/1395716815649591298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1395716808955424800,
+					"id_str": "1395716808955424771",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E16VCvzUcAMK0al.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E16VCvzUcAMK0al.jpg",
+					"url": "https://t.co/fFa7F9tJ41",
+					"display_url": "pic.twitter.com/fFa7F9tJ41",
+					"expanded_url": "https://twitter.com/bbodok_1657/status/1395716815649591298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1395715276579106800,
+		"in_reply_to_status_id_str": "1395715276579106817",
+		"in_reply_to_user_id": 1386952335801294800,
+		"in_reply_to_user_id_str": "1386952335801294852",
+		"in_reply_to_screen_name": "bbodok_1657",
+		"user": {
+			"id": 1386952335801294800,
+			"id_str": "1386952335801294852",
+			"name": "말하는감자",
+			"screen_name": "bbodok_1657",
+			"location": "",
+			"description": "I am the bone of my potato",
+			"url": "https://t.co/6K3E5J9Pyb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6K3E5J9Pyb",
+							"expanded_url": "https://peing.net/ko/bbodok_1657",
+							"display_url": "peing.net/ko/bbodok_1657",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 713,
+			"friends_count": 62,
+			"listed_count": 4,
+			"created_at": "Tue Apr 27 07:56:28 +0000 2021",
+			"favourites_count": 923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388146912746819584/x4GsBS82_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388146912746819584/x4GsBS82_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "얘는 약간 좀 아니 뭐라고 해야하지 딱 꼬집어서 말할 수는 없는데 좀 애가 떼쓰는 것 같다고 해야하나 암튼 끝까지 계속 세이버랑 얘기 안 하는 것도 그렇고 좀 어린애가 떼쓰는 것 같음...ㅋㅋ 그렇게 성배를 얻고 싶으면 세이버랑 제대로 대화하면서 전술 짜는 편이 훨씬 효율적일텐데 https://t.co/fFa7F9tJ41"
+	},
+	{
+		"created_at": "Fri May 21 13:45:52 +0000 2021",
+		"id": 1395737608802562000,
+		"id_str": "1395737608802562048",
+		"full_text": "'~에 대한' 것은 결국 양자의 관계 맺기의 방식, 주체와 객체의 전도, 전복, 정복과 같은 것들.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1395736763860086800,
+		"in_reply_to_status_id_str": "1395736763860086784",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3692,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "'~에 대한' 것은 결국 양자의 관계 맺기의 방식, 주체와 객체의 전도, 전복, 정복과 같은 것들."
+	},
+	{
+		"created_at": "Fri May 21 13:42:30 +0000 2021",
+		"id": 1395736763860086800,
+		"id_str": "1395736763860086784",
+		"full_text": "그럼에도 여성과 다르게 느껴지는 건 남성의 그것은 일방적인(디커뮤니케이션) 반면에 여성의 그것은 쌍방적이기(인커뮤니케이션) 때문이에요. 코드가 다르고, 욕망이 다른 편이란 거죠. 때문에 남성의 성욕은 상대의 육체에 대한 것이기 마련이고 여성의 성욕은 상대의 정신에 대한 것이기 쉬워요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1395735563798421500,
+		"in_reply_to_status_id_str": "1395735563798421505",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3692,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "그럼에도 여성과 다르게 느껴지는 건 남성의 그것은 일방적인(디커뮤니케이션) 반면에 여성의 그것은 쌍방적이기(인커뮤니케이션) 때문이에요. 코드가 다르고, 욕망이 다른 편이란 거죠. 때문에 남성의 성욕은 상대의 육체에 대한 것이기 마련이고 여성의 성욕은 상대의 정신에 대한 것이기 쉬워요."
+	},
+	{
 		"created_at": "Fri May 21 12:37:51 +0000 2021",
 		"id": 1395669589791367200,
 		"id_str": "1395720491411726337",
