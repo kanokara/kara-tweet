@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 25 10:31:59 +0000 2021",
+		"id": 1397138370979983400,
+		"id_str": "1397138370979983365",
+		"full_text": "\"연역과 귀납에 대해 잘 알려진 오해가 하나 있습니다. 그에 따르면 연역이란 일반적인 사실로부터 구체적인 사실을, 귀납은 구체적인 사실로부터 일반적인 사실을 도출한다고 설명되죠. 하지만 이러한 설명은 기억하기도 어려울 뿐 아니라 대단히 잘못된 설명입니다.\" https://t.co/WLM7xqPOuI https://t.co/MihLhVagdS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WLM7xqPOuI",
+					"expanded_url": "https://brunch.co.kr/@basiefir/16",
+					"display_url": "brunch.co.kr/@basiefir/16",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1397138312997970000,
+					"id_str": "1397138312997969940",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/E2Oh5LBVIBQSRza.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2Oh5LBVIBQSRza.jpg",
+					"url": "https://t.co/MihLhVagdS",
+					"display_url": "pic.twitter.com/MihLhVagdS",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1397138370979983365/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 936,
+							"h": 527,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 936,
+							"h": 527,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1397138312997970000,
+					"id_str": "1397138312997969940",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/E2Oh5LBVIBQSRza.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2Oh5LBVIBQSRza.jpg",
+					"url": "https://t.co/MihLhVagdS",
+					"display_url": "pic.twitter.com/MihLhVagdS",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1397138370979983365/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 936,
+							"h": 527,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 936,
+							"h": 527,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1397138330521772000,
+					"id_str": "1397138330521772034",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/E2Oh6MTVIAIy7pD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2Oh6MTVIAIy7pD.jpg",
+					"url": "https://t.co/MihLhVagdS",
+					"display_url": "pic.twitter.com/MihLhVagdS",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1397138370979983365/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 936,
+							"h": 527,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 936,
+							"h": 527,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1397137960093458400,
+		"in_reply_to_status_id_str": "1397137960093458433",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13818,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"연역과 귀납에 대해 잘 알려진 오해가 하나 있습니다. 그에 따르면 연역이란 일반적인 사실로부터 구체적인 사실을, 귀납은 구체적인 사실로부터 일반적인 사실을 도출한다고 설명되죠. 하지만 이러한 설명은 기억하기도 어려울 뿐 아니라 대단히 잘못된 설명입니다.\" https://t.co/WLM7xqPOuI https://t.co/MihLhVagdS"
+	},
+	{
 		"created_at": "Mon May 24 22:55:53 +0000 2021",
 		"id": 1396726478935511000,
 		"id_str": "1396963189623967749",
