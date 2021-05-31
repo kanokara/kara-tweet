@@ -1,6 +1,2548 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Mon May 31 19:57:53 +0000 2021",
+		"id": 302373379099484160,
+		"id_str": "1399455111596756994",
+		"full_text": "뷁빠님처럼 다른사람 놀리는데 재능이 있으려면 뭐가 필요한가요? — 네거티브 복지를 향수하는 계층이 되면 됨... http://t.co/jK1hJXNO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "http://t.co/jK1hJXNO",
+					"expanded_url": "http://ask.fm/a/2g3pg0ia",
+					"display_url": "ask.fm/a/2g3pg0ia",
+					"indices": [
+						63,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://ask.fm/\" rel=\"nofollow\">Ask.fm</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 315032827,
+			"id_str": "315032827",
+			"name": "뷁커드빠",
+			"screen_name": "snobproof",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 58,
+			"listed_count": 7,
+			"created_at": "Sat Jun 11 05:51:25 +0000 2011",
+			"favourites_count": 3403,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/453512383231582209/elXR0e2z_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/453512383231582209/elXR0e2z_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뷁빠님처럼 다른사람 놀리는데 재능이 있으려면 뭐가 필요한가요? — 네거티브 복지를 향수하는 계층이 되면 됨... http://t.co/jK1hJXNO"
+	},
+	{
+		"created_at": "Mon May 31 19:56:14 +0000 2021",
+		"id": 509299045480034300,
+		"id_str": "1399454696608206850",
+		"full_text": "뷁스크유저라면 애국진보 합시다 ㅎㅎ 일단 전국민 하향평준화로 하향복지 실천 좀 — 네거티브 복지 개꿀ㅎㅎ 내가 『노력』으로 올라가기는 글렀으니 니들이 『불행』으로 내 옆 구렁텅이로 떨어지는...그런 세... http://t.co/GQhzgAZDRZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "http://t.co/GQhzgAZDRZ",
+					"expanded_url": "http://ask.fm/a/b5hmo17j",
+					"display_url": "ask.fm/a/b5hmo17j",
+					"indices": [
+						116,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://ask.fm/\" rel=\"nofollow\">Ask.fm</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 315032827,
+			"id_str": "315032827",
+			"name": "뷁커드빠",
+			"screen_name": "snobproof",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 58,
+			"listed_count": 7,
+			"created_at": "Sat Jun 11 05:51:25 +0000 2011",
+			"favourites_count": 3403,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/453512383231582209/elXR0e2z_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/453512383231582209/elXR0e2z_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뷁스크유저라면 애국진보 합시다 ㅎㅎ 일단 전국민 하향평준화로 하향복지 실천 좀 — 네거티브 복지 개꿀ㅎㅎ 내가 『노력』으로 올라가기는 글렀으니 니들이 『불행』으로 내 옆 구렁텅이로 떨어지는...그런 세... http://t.co/GQhzgAZDRZ"
+	},
+	{
+		"created_at": "Mon May 31 19:54:19 +0000 2021",
+		"id": 955109858558165000,
+		"id_str": "1399454213290168320",
+		"full_text": "나도 몰락에서 즐거움을 발견하는 네거티브 복지 최적화 음지인간이 아니라 구마처럼 해맑게 살고 십었다... https://t.co/5T7LbRuCgs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 955109852057034800,
+					"id_str": "955109852057034757",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DUE7WZ1V4AUAxnr.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DUE7WZ1V4AUAxnr.jpg",
+					"url": "https://t.co/5T7LbRuCgs",
+					"display_url": "pic.twitter.com/5T7LbRuCgs",
+					"expanded_url": "https://twitter.com/Bloomers_Suki/status/955109858558164993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 186,
+							"h": 156,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 186,
+							"h": 156,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 186,
+							"h": 156,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 955109852057034800,
+					"id_str": "955109852057034757",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DUE7WZ1V4AUAxnr.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DUE7WZ1V4AUAxnr.jpg",
+					"url": "https://t.co/5T7LbRuCgs",
+					"display_url": "pic.twitter.com/5T7LbRuCgs",
+					"expanded_url": "https://twitter.com/Bloomers_Suki/status/955109858558164993/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 186,
+							"h": 156,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 186,
+							"h": 156,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 186,
+							"h": 156,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							31,
+							26
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DUE7WZ1V4AUAxnr.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://janetter.net/\" rel=\"nofollow\">Janetter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 220722651,
+			"id_str": "220722651",
+			"name": "씁",
+			"screen_name": "Bloomers_Suki",
+			"location": "방과후 체육창고",
+			"description": "하루하루가 흑역사\r\nC= C= C= C= C= C= ┌(；*'ω'*)┘",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585,
+			"friends_count": 185,
+			"listed_count": 16,
+			"created_at": "Sun Nov 28 17:08:00 +0000 2010",
+			"favourites_count": 1389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 109847,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224187334926553088/nHjvs7vZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224187334926553088/nHjvs7vZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/220722651/1401347518",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나도 몰락에서 즐거움을 발견하는 네거티브 복지 최적화 음지인간이 아니라 구마처럼 해맑게 살고 십었다... https://t.co/5T7LbRuCgs"
+	},
+	{
+		"created_at": "Mon May 31 19:52:24 +0000 2021",
+		"id": 1399453732157362200,
+		"id_str": "1399453732157362180",
+		"full_text": "디씨 출신의 클러스터에서 마이너스/네거티브 복지란 말이 농담 삼아 돌았던 거, 사실 정곡을 찌르고 있는 거죠.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "디씨 출신의 클러스터에서 마이너스/네거티브 복지란 말이 농담 삼아 돌았던 거, 사실 정곡을 찌르고 있는 거죠."
+	},
+	{
+		"created_at": "Mon May 31 19:46:59 +0000 2021",
+		"id": 1398783835760857000,
+		"id_str": "1399452368949837824",
+		"full_text": "'외국 나가서 인종차별 받지 않는 게 아니라 차별받고 보상받길 원하시나요' 이 논리도 너무 인상적이다\n그치만 여러번 말하지만 머릿속에 사람위에 사람있고 사람밑에 사람있다는 마인드가 있으면 자기 이등시민 되는것도 당연하게 받아들임. or '난 외국 안나갈건뒈~~'https://t.co/2T0dWEWC7j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2T0dWEWC7j",
+					"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511748848574468?s=20",
+					"display_url": "twitter.com/ChBerryPrinces…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1398782823654248400,
+		"in_reply_to_status_id_str": "1398782823654248450",
+		"in_reply_to_user_id": 948641158514782200,
+		"in_reply_to_user_id_str": "948641158514782210",
+		"in_reply_to_screen_name": "_cream_n_sugar",
+		"user": {
+			"id": 948641158514782200,
+			"id_str": "948641158514782210",
+			"name": "크림앤슈거",
+			"screen_name": "_cream_n_sugar",
+			"location": "",
+			"description": "번탈아줌마✝️♀️ 🐀",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271,
+			"friends_count": 248,
+			"listed_count": 1,
+			"created_at": "Wed Jan 03 19:44:11 +0000 2018",
+			"favourites_count": 5515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267352417953181696/drJ7rZfx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267352417953181696/drJ7rZfx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/948641158514782210/1619604803",
+			"profile_link_color": "621D02",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1398511748848574500,
+		"quoted_status_id_str": "1398511748848574468",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2T0dWEWC7j",
+			"expanded": "https://twitter.com/ChBerryPrincess/status/1398511748848574468?s=20",
+			"display": "twitter.com/ChBerryPrinces…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 29 05:29:18 +0000 2021",
+			"id": 1398511748848574500,
+			"id_str": "1398511748848574468",
+			"full_text": "눈높이 맞춤교육 해도 이해를 못하는 한남1 https://t.co/iBc0KSSF6N",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				23
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1398511740845891600,
+						"id_str": "1398511740845891589",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/E2iDBMdVIAUF0-_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2iDBMdVIAUF0-_.jpg",
+						"url": "https://t.co/iBc0KSSF6N",
+						"display_url": "pic.twitter.com/iBc0KSSF6N",
+						"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511748848574468/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 173,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 1890,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 305,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1398511740845891600,
+						"id_str": "1398511740845891589",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/E2iDBMdVIAUF0-_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2iDBMdVIAUF0-_.jpg",
+						"url": "https://t.co/iBc0KSSF6N",
+						"display_url": "pic.twitter.com/iBc0KSSF6N",
+						"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511748848574468/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 173,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 1890,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 305,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1398511741181436000,
+						"id_str": "1398511741181435910",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/E2iDBNtVIAYcBq4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2iDBNtVIAYcBq4.jpg",
+						"url": "https://t.co/iBc0KSSF6N",
+						"display_url": "pic.twitter.com/iBc0KSSF6N",
+						"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511748848574468/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 356,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 201,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 1620,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1398511741642834000,
+						"id_str": "1398511741642833924",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/E2iDBPbVgAQSRZN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2iDBPbVgAQSRZN.jpg",
+						"url": "https://t.co/iBc0KSSF6N",
+						"display_url": "pic.twitter.com/iBc0KSSF6N",
+						"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511748848574468/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 1890,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 173,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 305,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1398511742104133600,
+						"id_str": "1398511742104133632",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/E2iDBRJUYAACfJL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2iDBRJUYAACfJL.jpg",
+						"url": "https://t.co/iBc0KSSF6N",
+						"display_url": "pic.twitter.com/iBc0KSSF6N",
+						"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511748848574468/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 356,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 1620,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 201,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1398511737477820400,
+			"in_reply_to_status_id_str": "1398511737477820418",
+			"in_reply_to_user_id": 1338413267119530000,
+			"in_reply_to_user_id_str": "1338413267119529984",
+			"in_reply_to_screen_name": "ChBerryPrincess",
+			"user": {
+				"id": 1338413267119530000,
+				"id_str": "1338413267119529984",
+				"name": "🍓딸기공주님🍓",
+				"screen_name": "ChBerryPrincess",
+				"location": "딸기왕국 딸기시 딸기동 딸기궁전",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 115,
+				"friends_count": 116,
+				"listed_count": 0,
+				"created_at": "Mon Dec 14 09:19:38 +0000 2020",
+				"favourites_count": 500,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 114,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1372165402504007680/WCBu16Q5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372165402504007680/WCBu16Q5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1338413267119529984/1612846406",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6837,
+			"favorite_count": 2226,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'외국 나가서 인종차별 받지 않는 게 아니라 차별받고 보상받길 원하시나요' 이 논리도 너무 인상적이다\n그치만 여러번 말하지만 머릿속에 사람위에 사람있고 사람밑에 사람있다는 마인드가 있으면 자기 이등시민 되는것도 당연하게 받아들임. or '난 외국 안나갈건뒈~~'https://t.co/2T0dWEWC7j"
+	},
+	{
+		"created_at": "Mon May 31 19:46:56 +0000 2021",
+		"id": 1398782823654248400,
+		"id_str": "1399452353573527552",
+		"full_text": "엠씨(하하?)의 '와 이게 이렇게 풀리네' 라는 말이 인상적ㅎㅎㅎ 손작가가 풀어가는 논리가 언제나 진리는 아닌데 진리처럼 들릴 수 있게 말을 한다는 걸까, 혹은 은근 반대편에 동조한단 걸까?\n암튼 '성차별은 여남에게 모두 손해다'라는 말은 여남이 같이 살아가는 사회를 전제했을 때야 나오는 말.. https://t.co/dK8XcJquN8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dK8XcJquN8",
+					"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511725087916034",
+					"display_url": "twitter.com/ChBerryPrinces…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 948641158514782200,
+			"id_str": "948641158514782210",
+			"name": "크림앤슈거",
+			"screen_name": "_cream_n_sugar",
+			"location": "",
+			"description": "번탈아줌마✝️♀️ 🐀",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271,
+			"friends_count": 248,
+			"listed_count": 1,
+			"created_at": "Wed Jan 03 19:44:11 +0000 2018",
+			"favourites_count": 5515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267352417953181696/drJ7rZfx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267352417953181696/drJ7rZfx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/948641158514782210/1619604803",
+			"profile_link_color": "621D02",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1398511725087916000,
+		"quoted_status_id_str": "1398511725087916034",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dK8XcJquN8",
+			"expanded": "https://twitter.com/ChBerryPrincess/status/1398511725087916034",
+			"display": "twitter.com/ChBerryPrinces…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 29 05:29:13 +0000 2021",
+			"id": 1398511725087916000,
+			"id_str": "1398511725087916034",
+			"full_text": "https://t.co/G3EnFTo8Af",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1398511714232987600,
+						"id_str": "1398511714232987654",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/E2iC_pUUcAYY5XA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2iC_pUUcAYY5XA.jpg",
+						"url": "https://t.co/G3EnFTo8Af",
+						"display_url": "pic.twitter.com/G3EnFTo8Af",
+						"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511725087916034/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 134,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 405,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 237,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1398511714232987600,
+						"id_str": "1398511714232987654",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/E2iC_pUUcAYY5XA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2iC_pUUcAYY5XA.jpg",
+						"url": "https://t.co/G3EnFTo8Af",
+						"display_url": "pic.twitter.com/G3EnFTo8Af",
+						"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511725087916034/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 134,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 405,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 237,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1398511715315163100,
+						"id_str": "1398511715315163136",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/E2iC_tWVIAAcQOC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2iC_tWVIAAcQOC.jpg",
+						"url": "https://t.co/G3EnFTo8Af",
+						"display_url": "pic.twitter.com/G3EnFTo8Af",
+						"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511725087916034/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 456,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 267,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 151,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1398511716871274500,
+						"id_str": "1398511716871274497",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/E2iC_zJVgAEfYqg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2iC_zJVgAEfYqg.jpg",
+						"url": "https://t.co/G3EnFTo8Af",
+						"display_url": "pic.twitter.com/G3EnFTo8Af",
+						"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511725087916034/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 305,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 1890,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 173,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1398511718247006200,
+						"id_str": "1398511718247006216",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/E2iC_4RVgAgdpZj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2iC_4RVgAgdpZj.jpg",
+						"url": "https://t.co/G3EnFTo8Af",
+						"display_url": "pic.twitter.com/G3EnFTo8Af",
+						"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511725087916034/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 267,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 151,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 456,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1398511708872724500,
+			"in_reply_to_status_id_str": "1398511708872724482",
+			"in_reply_to_user_id": 1338413267119530000,
+			"in_reply_to_user_id_str": "1338413267119529984",
+			"in_reply_to_screen_name": "ChBerryPrincess",
+			"user": {
+				"id": 1338413267119530000,
+				"id_str": "1338413267119529984",
+				"name": "🍓딸기공주님🍓",
+				"screen_name": "ChBerryPrincess",
+				"location": "딸기왕국 딸기시 딸기동 딸기궁전",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 115,
+				"friends_count": 116,
+				"listed_count": 0,
+				"created_at": "Mon Dec 14 09:19:38 +0000 2020",
+				"favourites_count": 500,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 114,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1372165402504007680/WCBu16Q5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372165402504007680/WCBu16Q5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1338413267119529984/1612846406",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1536,
+			"favorite_count": 786,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "엠씨(하하?)의 '와 이게 이렇게 풀리네' 라는 말이 인상적ㅎㅎㅎ 손작가가 풀어가는 논리가 언제나 진리는 아닌데 진리처럼 들릴 수 있게 말을 한다는 걸까, 혹은 은근 반대편에 동조한단 걸까?\n암튼 '성차별은 여남에게 모두 손해다'라는 말은 여남이 같이 살아가는 사회를 전제했을 때야 나오는 말.. https://t.co/dK8XcJquN8"
+	},
+	{
+		"created_at": "Mon May 31 19:45:34 +0000 2021",
+		"id": 1398848956491198500,
+		"id_str": "1399452011792269315",
+		"full_text": "'타인의 불안, 불편, 손해 기타등등 에 공감하고 동조' 가 안 되니까 결국 '자기자신에게 손해가 될 수도 있는 문제' 로 말해줘야 하는구나.... 시발 https://t.co/yNKocQofKj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yNKocQofKj",
+					"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511748848574468",
+					"display_url": "twitter.com/ChBerryPrinces…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 935477335,
+			"id_str": "935477335",
+			"name": "닉값하는 헛소Leeya",
+			"screen_name": "_X_Leeya",
+			"location": "",
+			"description": "평범한 변태 / 애인있음 꺌룰랭",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43,
+			"friends_count": 53,
+			"listed_count": 1,
+			"created_at": "Thu Nov 08 21:25:54 +0000 2012",
+			"favourites_count": 1113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 57915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1157147591022243840/9qGU_bTJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1157147591022243840/9qGU_bTJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/935477335/1499616847",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1398511748848574500,
+		"quoted_status_id_str": "1398511748848574468",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yNKocQofKj",
+			"expanded": "https://twitter.com/ChBerryPrincess/status/1398511748848574468",
+			"display": "twitter.com/ChBerryPrinces…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 29 05:29:18 +0000 2021",
+			"id": 1398511748848574500,
+			"id_str": "1398511748848574468",
+			"full_text": "눈높이 맞춤교육 해도 이해를 못하는 한남1 https://t.co/iBc0KSSF6N",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				23
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1398511740845891600,
+						"id_str": "1398511740845891589",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/E2iDBMdVIAUF0-_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2iDBMdVIAUF0-_.jpg",
+						"url": "https://t.co/iBc0KSSF6N",
+						"display_url": "pic.twitter.com/iBc0KSSF6N",
+						"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511748848574468/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 173,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 1890,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 305,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1398511740845891600,
+						"id_str": "1398511740845891589",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/E2iDBMdVIAUF0-_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2iDBMdVIAUF0-_.jpg",
+						"url": "https://t.co/iBc0KSSF6N",
+						"display_url": "pic.twitter.com/iBc0KSSF6N",
+						"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511748848574468/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 173,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 1890,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 305,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1398511741181436000,
+						"id_str": "1398511741181435910",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/E2iDBNtVIAYcBq4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2iDBNtVIAYcBq4.jpg",
+						"url": "https://t.co/iBc0KSSF6N",
+						"display_url": "pic.twitter.com/iBc0KSSF6N",
+						"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511748848574468/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 356,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 201,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 1620,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1398511741642834000,
+						"id_str": "1398511741642833924",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/E2iDBPbVgAQSRZN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2iDBPbVgAQSRZN.jpg",
+						"url": "https://t.co/iBc0KSSF6N",
+						"display_url": "pic.twitter.com/iBc0KSSF6N",
+						"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511748848574468/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 1890,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 173,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 305,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1398511742104133600,
+						"id_str": "1398511742104133632",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/E2iDBRJUYAACfJL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2iDBRJUYAACfJL.jpg",
+						"url": "https://t.co/iBc0KSSF6N",
+						"display_url": "pic.twitter.com/iBc0KSSF6N",
+						"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511748848574468/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 356,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 1620,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 201,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1398511737477820400,
+			"in_reply_to_status_id_str": "1398511737477820418",
+			"in_reply_to_user_id": 1338413267119530000,
+			"in_reply_to_user_id_str": "1338413267119529984",
+			"in_reply_to_screen_name": "ChBerryPrincess",
+			"user": {
+				"id": 1338413267119530000,
+				"id_str": "1338413267119529984",
+				"name": "🍓딸기공주님🍓",
+				"screen_name": "ChBerryPrincess",
+				"location": "딸기왕국 딸기시 딸기동 딸기궁전",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 115,
+				"friends_count": 116,
+				"listed_count": 0,
+				"created_at": "Mon Dec 14 09:19:38 +0000 2020",
+				"favourites_count": 500,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 114,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1372165402504007680/WCBu16Q5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372165402504007680/WCBu16Q5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1338413267119529984/1612846406",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6837,
+			"favorite_count": 2226,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'타인의 불안, 불편, 손해 기타등등 에 공감하고 동조' 가 안 되니까 결국 '자기자신에게 손해가 될 수도 있는 문제' 로 말해줘야 하는구나.... 시발 https://t.co/yNKocQofKj"
+	},
+	{
+		"created_at": "Mon May 31 19:44:44 +0000 2021",
+		"id": 1398592463145619500,
+		"id_str": "1399451800596402176",
+		"full_text": "이게 왜 그러냐면.. 자기가 여자를 만나서 결혼을 영위할 자신이 없는 사람들은 미래적으로 반려자에게 이득이 오면 자기한테도 같이 온다는 사실에 대해서 생각을 못하는 거임. 상대를 못 믿는거고 자기한테 올 것이라는 확신이 없는거임. 노력 없이 갖고싶다 뭐 그런거지. 비단 결혼이아니라 연애도 https://t.co/iu6yRyGywI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iu6yRyGywI",
+					"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511748848574468",
+					"display_url": "twitter.com/ChBerryPrinces…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1325036531258593300,
+			"id_str": "1325036531258593281",
+			"name": "𝐓𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐘𝐞𝐣𝐢",
+			"screen_name": "behappy_Yeji",
+			"location": "",
+			"description": "INTP 일상계 02 2N 172 힘 짱 쎄지는 것이 목표인 헬린이",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41,
+			"friends_count": 45,
+			"listed_count": 1,
+			"created_at": "Sat Nov 07 11:25:08 +0000 2020",
+			"favourites_count": 514,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 866,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1386298286722621445/QgY3z2g8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1386298286722621445/QgY3z2g8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1325036531258593281/1619357095",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1398511748848574500,
+		"quoted_status_id_str": "1398511748848574468",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iu6yRyGywI",
+			"expanded": "https://twitter.com/ChBerryPrincess/status/1398511748848574468",
+			"display": "twitter.com/ChBerryPrinces…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 29 05:29:18 +0000 2021",
+			"id": 1398511748848574500,
+			"id_str": "1398511748848574468",
+			"full_text": "눈높이 맞춤교육 해도 이해를 못하는 한남1 https://t.co/iBc0KSSF6N",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				23
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1398511740845891600,
+						"id_str": "1398511740845891589",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/E2iDBMdVIAUF0-_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2iDBMdVIAUF0-_.jpg",
+						"url": "https://t.co/iBc0KSSF6N",
+						"display_url": "pic.twitter.com/iBc0KSSF6N",
+						"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511748848574468/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 173,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 1890,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 305,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1398511740845891600,
+						"id_str": "1398511740845891589",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/E2iDBMdVIAUF0-_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2iDBMdVIAUF0-_.jpg",
+						"url": "https://t.co/iBc0KSSF6N",
+						"display_url": "pic.twitter.com/iBc0KSSF6N",
+						"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511748848574468/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 173,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 1890,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 305,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1398511741181436000,
+						"id_str": "1398511741181435910",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/E2iDBNtVIAYcBq4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2iDBNtVIAYcBq4.jpg",
+						"url": "https://t.co/iBc0KSSF6N",
+						"display_url": "pic.twitter.com/iBc0KSSF6N",
+						"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511748848574468/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 356,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 201,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 1620,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1398511741642834000,
+						"id_str": "1398511741642833924",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/E2iDBPbVgAQSRZN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2iDBPbVgAQSRZN.jpg",
+						"url": "https://t.co/iBc0KSSF6N",
+						"display_url": "pic.twitter.com/iBc0KSSF6N",
+						"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511748848574468/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 1890,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 173,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 305,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1398511742104133600,
+						"id_str": "1398511742104133632",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/E2iDBRJUYAACfJL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2iDBRJUYAACfJL.jpg",
+						"url": "https://t.co/iBc0KSSF6N",
+						"display_url": "pic.twitter.com/iBc0KSSF6N",
+						"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511748848574468/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 356,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 1620,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 201,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1398511737477820400,
+			"in_reply_to_status_id_str": "1398511737477820418",
+			"in_reply_to_user_id": 1338413267119530000,
+			"in_reply_to_user_id_str": "1338413267119529984",
+			"in_reply_to_screen_name": "ChBerryPrincess",
+			"user": {
+				"id": 1338413267119530000,
+				"id_str": "1338413267119529984",
+				"name": "🍓딸기공주님🍓",
+				"screen_name": "ChBerryPrincess",
+				"location": "딸기왕국 딸기시 딸기동 딸기궁전",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 115,
+				"friends_count": 116,
+				"listed_count": 0,
+				"created_at": "Mon Dec 14 09:19:38 +0000 2020",
+				"favourites_count": 500,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 114,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1372165402504007680/WCBu16Q5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372165402504007680/WCBu16Q5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1338413267119529984/1612846406",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6837,
+			"favorite_count": 2226,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 14,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이게 왜 그러냐면.. 자기가 여자를 만나서 결혼을 영위할 자신이 없는 사람들은 미래적으로 반려자에게 이득이 오면 자기한테도 같이 온다는 사실에 대해서 생각을 못하는 거임. 상대를 못 믿는거고 자기한테 올 것이라는 확신이 없는거임. 노력 없이 갖고싶다 뭐 그런거지. 비단 결혼이아니라 연애도 https://t.co/iu6yRyGywI"
+	},
+	{
+		"created_at": "Mon May 31 19:42:50 +0000 2021",
+		"id": 1399331214641623000,
+		"id_str": "1399451322538029057",
+		"full_text": "이사람 맘에 안드는 부분이 여자가 섹스 안/못해주는게 남자한테 '불이익'이고 여자를 소유하기 위해서 여권을 지지해야 하고\n내 여자의 손해가 곧 나의 손해란 식으로 여자는 남자에게 종속된 존재란 사고방식을 은연중에 드러내서 개별로임\n이게 \"눈높이 맞춤교육\"으로 의도된 거라면 할 말 없고. https://t.co/aLzGIwf4xy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aLzGIwf4xy",
+					"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511748848574468",
+					"display_url": "twitter.com/ChBerryPrinces…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 990578789833891800,
+			"id_str": "990578789833891840",
+			"name": "구독계",
+			"screen_name": "yYlQJhiFcNEHt10",
+			"location": "",
+			"description": "스스로 생각하는 사람",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24,
+			"friends_count": 632,
+			"listed_count": 0,
+			"created_at": "Sun Apr 29 13:09:22 +0000 2018",
+			"favourites_count": 19290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1044202758566363136/ulxCkyzx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1044202758566363136/ulxCkyzx_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1398511748848574500,
+		"quoted_status_id_str": "1398511748848574468",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aLzGIwf4xy",
+			"expanded": "https://twitter.com/ChBerryPrincess/status/1398511748848574468",
+			"display": "twitter.com/ChBerryPrinces…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 29 05:29:18 +0000 2021",
+			"id": 1398511748848574500,
+			"id_str": "1398511748848574468",
+			"full_text": "눈높이 맞춤교육 해도 이해를 못하는 한남1 https://t.co/iBc0KSSF6N",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				23
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1398511740845891600,
+						"id_str": "1398511740845891589",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/E2iDBMdVIAUF0-_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2iDBMdVIAUF0-_.jpg",
+						"url": "https://t.co/iBc0KSSF6N",
+						"display_url": "pic.twitter.com/iBc0KSSF6N",
+						"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511748848574468/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 173,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 1890,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 305,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1398511740845891600,
+						"id_str": "1398511740845891589",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/E2iDBMdVIAUF0-_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2iDBMdVIAUF0-_.jpg",
+						"url": "https://t.co/iBc0KSSF6N",
+						"display_url": "pic.twitter.com/iBc0KSSF6N",
+						"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511748848574468/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 173,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 1890,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 305,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1398511741181436000,
+						"id_str": "1398511741181435910",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/E2iDBNtVIAYcBq4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2iDBNtVIAYcBq4.jpg",
+						"url": "https://t.co/iBc0KSSF6N",
+						"display_url": "pic.twitter.com/iBc0KSSF6N",
+						"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511748848574468/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 356,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 201,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 1620,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1398511741642834000,
+						"id_str": "1398511741642833924",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/E2iDBPbVgAQSRZN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2iDBPbVgAQSRZN.jpg",
+						"url": "https://t.co/iBc0KSSF6N",
+						"display_url": "pic.twitter.com/iBc0KSSF6N",
+						"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511748848574468/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 1890,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 173,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 305,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1398511742104133600,
+						"id_str": "1398511742104133632",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/E2iDBRJUYAACfJL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2iDBRJUYAACfJL.jpg",
+						"url": "https://t.co/iBc0KSSF6N",
+						"display_url": "pic.twitter.com/iBc0KSSF6N",
+						"expanded_url": "https://twitter.com/ChBerryPrincess/status/1398511748848574468/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 356,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 480,
+								"h": 1620,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 201,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1398511737477820400,
+			"in_reply_to_status_id_str": "1398511737477820418",
+			"in_reply_to_user_id": 1338413267119530000,
+			"in_reply_to_user_id_str": "1338413267119529984",
+			"in_reply_to_screen_name": "ChBerryPrincess",
+			"user": {
+				"id": 1338413267119530000,
+				"id_str": "1338413267119529984",
+				"name": "🍓딸기공주님🍓",
+				"screen_name": "ChBerryPrincess",
+				"location": "딸기왕국 딸기시 딸기동 딸기궁전",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 115,
+				"friends_count": 116,
+				"listed_count": 0,
+				"created_at": "Mon Dec 14 09:19:38 +0000 2020",
+				"favourites_count": 500,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 114,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1372165402504007680/WCBu16Q5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372165402504007680/WCBu16Q5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1338413267119529984/1612846406",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6837,
+			"favorite_count": 2226,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이사람 맘에 안드는 부분이 여자가 섹스 안/못해주는게 남자한테 '불이익'이고 여자를 소유하기 위해서 여권을 지지해야 하고\n내 여자의 손해가 곧 나의 손해란 식으로 여자는 남자에게 종속된 존재란 사고방식을 은연중에 드러내서 개별로임\n이게 \"눈높이 맞춤교육\"으로 의도된 거라면 할 말 없고. https://t.co/aLzGIwf4xy"
+	},
+	{
+		"created_at": "Mon May 31 19:35:50 +0000 2021",
+		"id": 1399449560334798800,
+		"id_str": "1399449560334798848",
+		"full_text": "남녀 공히 이상형에 대한 눈높이와 조건이 맞질 않고 타협할 필요성도 못 느끼는 시대에 평균적 인간상, 평균적 가정, 공동체의 성원임을 전제하여 그에 맞는 이치로 설득해봤자 안 통하는 거죠.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1399448070971039700,
+		"in_reply_to_status_id_str": "1399448070971039745",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "남녀 공히 이상형에 대한 눈높이와 조건이 맞질 않고 타협할 필요성도 못 느끼는 시대에 평균적 인간상, 평균적 가정, 공동체의 성원임을 전제하여 그에 맞는 이치로 설득해봤자 안 통하는 거죠."
+	},
+	{
+		"created_at": "Mon May 31 19:29:55 +0000 2021",
+		"id": 1399448070971039700,
+		"id_str": "1399448070971039745",
+		"full_text": "이 같은 파괴적 충동에 더하여, 강자에 호감을 느끼고 추종하고 대리만족하는 남성적 기질이 문제를 더 심화하는 거고요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1399447404995252200,
+		"in_reply_to_status_id_str": "1399447404995252224",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이 같은 파괴적 충동에 더하여, 강자에 호감을 느끼고 추종하고 대리만족하는 남성적 기질이 문제를 더 심화하는 거고요."
+	},
+	{
+		"created_at": "Mon May 31 19:27:16 +0000 2021",
+		"id": 1399447404995252200,
+		"id_str": "1399447404995252224",
+		"full_text": "일부다처제의 예를 들면, 번식경쟁에서 타의로 이미 탈락한 남성 입장에선 자신이 손해볼 것 없이, 여성 사이에서 한정된 자원에 대한 경쟁이 더 치열해질 뿐만 아니라 부대적 성차별의 재생이 파급되리라 기대되는 거죠.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1399444815511576600,
+		"in_reply_to_status_id_str": "1399444815511576576",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "일부다처제의 예를 들면, 번식경쟁에서 타의로 이미 탈락한 남성 입장에선 자신이 손해볼 것 없이, 여성 사이에서 한정된 자원에 대한 경쟁이 더 치열해질 뿐만 아니라 부대적 성차별의 재생이 파급되리라 기대되는 거죠."
+	},
+	{
 		"created_at": "Mon May 31 17:45:05 +0000 2021",
 		"id": 1399421687855161300,
 		"id_str": "1399421687855161349",
