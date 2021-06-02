@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 02 05:30:08 +0000 2021",
+		"id": 1393580255336489000,
+		"id_str": "1399961509891952640",
+		"full_text": "사회 제도와 정부에 맞닥뜨릴 때면 경직된 태도를 취하게 된다. 이렇게 이들은 자진해 신자유주의를 받아들이고 있으며, 성인이 되는 여정을 방해하는 혼란과 배신을 신 자유주의가 해결해 주리라 믿는다.” 커밍업 쇼트, P160~161",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1393580188450005000,
+		"in_reply_to_status_id_str": "1393580188450004996",
+		"in_reply_to_user_id": 1151098641643266000,
+		"in_reply_to_user_id_str": "1151098641643266048",
+		"in_reply_to_screen_name": "nnnackckck",
+		"user": {
+			"id": 1151098641643266000,
+			"id_str": "1151098641643266048",
+			"name": "나낙",
+			"screen_name": "nnnackckck",
+			"location": "",
+			"description": "🌈/ 배우/ 사회학도/ 살아지지않기 /contact : ananack12@gmail.com",
+			"url": "https://t.co/XA8WURGCUS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XA8WURGCUS",
+							"expanded_url": "http://asked.kr/ananack12",
+							"display_url": "asked.kr/ananack12",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25,
+			"friends_count": 158,
+			"listed_count": 1,
+			"created_at": "Tue Jul 16 11:57:57 +0000 2019",
+			"favourites_count": 8505,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374773357556555778/zN2t4fym_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374773357556555778/zN2t4fym_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1151098641643266048/1618683203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "사회 제도와 정부에 맞닥뜨릴 때면 경직된 태도를 취하게 된다. 이렇게 이들은 자진해 신자유주의를 받아들이고 있으며, 성인이 되는 여정을 방해하는 혼란과 배신을 신 자유주의가 해결해 주리라 믿는다.” 커밍업 쇼트, P160~161"
+	},
+	{
+		"created_at": "Wed Jun 02 05:30:06 +0000 2021",
+		"id": 1393580188450005000,
+		"id_str": "1399961501159493632",
+		"full_text": "그래서 노동 계급 남녀는 혼자 힘으로 성공하지 못한 사람들과 자신 사이에 가혹한 경계선을 긋는다. 그러면서 도움받을 자격이 없다고 여겨지는 타자들에게 싶은 적대감을 표출한다. 노동계급 남녀는 타자와의 연대를 거부하고, 각자가 자신의 정체성과 미래를 규정할 수 있는 개인이라고 고집하며,",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1393580122226139100,
+		"in_reply_to_status_id_str": "1393580122226139141",
+		"in_reply_to_user_id": 1151098641643266000,
+		"in_reply_to_user_id_str": "1151098641643266048",
+		"in_reply_to_screen_name": "nnnackckck",
+		"user": {
+			"id": 1151098641643266000,
+			"id_str": "1151098641643266048",
+			"name": "나낙",
+			"screen_name": "nnnackckck",
+			"location": "",
+			"description": "🌈/ 배우/ 사회학도/ 살아지지않기 /contact : ananack12@gmail.com",
+			"url": "https://t.co/XA8WURGCUS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XA8WURGCUS",
+							"expanded_url": "http://asked.kr/ananack12",
+							"display_url": "asked.kr/ananack12",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25,
+			"friends_count": 158,
+			"listed_count": 1,
+			"created_at": "Tue Jul 16 11:57:57 +0000 2019",
+			"favourites_count": 8505,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374773357556555778/zN2t4fym_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374773357556555778/zN2t4fym_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1151098641643266048/1618683203",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그래서 노동 계급 남녀는 혼자 힘으로 성공하지 못한 사람들과 자신 사이에 가혹한 경계선을 긋는다. 그러면서 도움받을 자격이 없다고 여겨지는 타자들에게 싶은 적대감을 표출한다. 노동계급 남녀는 타자와의 연대를 거부하고, 각자가 자신의 정체성과 미래를 규정할 수 있는 개인이라고 고집하며,"
+	},
+	{
 		"created_at": "Wed Jun 02 04:06:45 +0000 2021",
 		"id": 1399542921188110300,
 		"id_str": "1399940525982044163",
