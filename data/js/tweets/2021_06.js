@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 04 08:11:53 +0000 2021",
+		"id": 1400725916041433000,
+		"id_str": "1400726992153026562",
+		"full_text": "소설과 영화의 매체차를 깊이 헤아리지 않는 천진함도 있겠고(재생산적 글쓰기의 유형), 옮기기만 하면 되는 서술적 요약의 용이함도 있을 거 같네요.\nhttps://t.co/bvUtbaCtQl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bvUtbaCtQl",
+					"expanded_url": "https://twitter.com/howmystery/status/1400631387665747969?s=19",
+					"display_url": "twitter.com/howmystery/sta…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8,
+			"friends_count": 32,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1400631387665748000,
+		"quoted_status_id_str": "1400631387665747969",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bvUtbaCtQl",
+			"expanded": "https://twitter.com/howmystery/status/1400631387665747969?s=19",
+			"display": "twitter.com/howmystery/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 04 01:51:59 +0000 2021",
+			"id": 1400631387665748000,
+			"id_str": "1400631387665747969",
+			"full_text": "번역서를 제외하고, 미스터리 장르에 대한 담론이나 이론 등을 전개하는 글을 보면 궁금한 점이 있다. 왜 영화를 예시로 가져올까? 내가 본 거의 모든 글들이 다 그랬다. 보다 대중적이어서 독자의 이해가 쉽기 때문인가? 하지만 둘은 너무 다른걸.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				135
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1088389252717527000,
+				"id_str": "1088389252717527040",
+				"name": "decca",
+				"screen_name": "howmystery",
+				"location": "대한민국 서울",
+				"description": "Tell me about it // deccaa@gmail.com //  애매한 업무용 계정 @Edi01D // 애매한 개인 계정 @dacec4 // 애매한 모임용 계정 @mydokmo",
+				"url": "https://t.co/l8hHoZYhtS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/l8hHoZYhtS",
+								"expanded_url": "http://howmystery.com",
+								"display_url": "howmystery.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 354,
+				"friends_count": 150,
+				"listed_count": 4,
+				"created_at": "Thu Jan 24 10:53:13 +0000 2019",
+				"favourites_count": 304,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4203,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1399648260722102272/xQ0WqhOz_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1399648260722102272/xQ0WqhOz_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1088389252717527040/1572840555",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소설과 영화의 매체차를 깊이 헤아리지 않는 천진함도 있겠고(재생산적 글쓰기의 유형), 옮기기만 하면 되는 서술적 요약의 용이함도 있을 거 같네요.\nhttps://t.co/bvUtbaCtQl"
+	},
+	{
 		"created_at": "Fri Jun 04 08:10:54 +0000 2021",
 		"id": 1400719802264559600,
 		"id_str": "1400726742109540359",
