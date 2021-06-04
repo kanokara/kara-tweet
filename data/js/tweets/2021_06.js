@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 04 08:10:54 +0000 2021",
+		"id": 1400719802264559600,
+		"id_str": "1400726742109540359",
+		"full_text": "늘 하는 말. “나는 옛날 어떤 경험을 했다”는 중요한 1차 정보지만 “나는 옛날 어떤 경험을 하지 않았다”는 아닙니다. 우리의 지식과 경험폭에는 한계가 있으니까요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1400718491125117000,
+		"in_reply_to_status_id_str": "1400718491125116933",
+		"in_reply_to_user_id": 151807455,
+		"in_reply_to_user_id_str": "151807455",
+		"in_reply_to_screen_name": "djuna01",
+		"user": {
+			"id": 151807455,
+			"id_str": "151807455",
+			"name": "djuna",
+			"screen_name": "djuna01",
+			"location": "South Korea",
+			"description": "대본 밖에서, 여자 주인공만 모른다, 죽은 고래에서 온 사람들, 도둑왕의 딸, 돼지 먹이, 사라지는 미로 속 짐승들, 불가사리를 위하여, 변신 괴물들을 위한 금요일 모임, 남자주인공에겐 없다, 항상성, 찢어진 종잇조각의 신, 평형추, 콩알이를 지켜라!, 아발론, 셰익스피어의 숲",
+			"url": "https://t.co/H2DSFma3D2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H2DSFma3D2",
+							"expanded_url": "http://djuna.kr",
+							"display_url": "djuna.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78767,
+			"friends_count": 220,
+			"listed_count": 536,
+			"created_at": "Fri Jun 04 08:44:20 +0000 2010",
+			"favourites_count": 1067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 379892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F2F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/151807455/1622309931",
+			"profile_link_color": "464A5C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FB274A",
+			"profile_text_color": "DB6955",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "늘 하는 말. “나는 옛날 어떤 경험을 했다”는 중요한 1차 정보지만 “나는 옛날 어떤 경험을 하지 않았다”는 아닙니다. 우리의 지식과 경험폭에는 한계가 있으니까요."
+	},
+	{
+		"created_at": "Fri Jun 04 08:10:49 +0000 2021",
+		"id": 1400718491125117000,
+		"id_str": "1400726720274071552",
+		"full_text": "당시엔 해외여행을 할 수 있는 사람이 한줌도 안 되었던 때니 그걸로 책까지 쓴 사람은 한국에서 유명해질 수밖에 없겠지요. 해외여행 자유화가 된 뒤로 ‘여행가’의 명성은 의미가 없어졌지요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1400717874713358300,
+		"in_reply_to_status_id_str": "1400717874713358336",
+		"in_reply_to_user_id": 151807455,
+		"in_reply_to_user_id_str": "151807455",
+		"in_reply_to_screen_name": "djuna01",
+		"user": {
+			"id": 151807455,
+			"id_str": "151807455",
+			"name": "djuna",
+			"screen_name": "djuna01",
+			"location": "South Korea",
+			"description": "대본 밖에서, 여자 주인공만 모른다, 죽은 고래에서 온 사람들, 도둑왕의 딸, 돼지 먹이, 사라지는 미로 속 짐승들, 불가사리를 위하여, 변신 괴물들을 위한 금요일 모임, 남자주인공에겐 없다, 항상성, 찢어진 종잇조각의 신, 평형추, 콩알이를 지켜라!, 아발론, 셰익스피어의 숲",
+			"url": "https://t.co/H2DSFma3D2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H2DSFma3D2",
+							"expanded_url": "http://djuna.kr",
+							"display_url": "djuna.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78767,
+			"friends_count": 220,
+			"listed_count": 536,
+			"created_at": "Fri Jun 04 08:44:20 +0000 2010",
+			"favourites_count": 1067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 379892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F2F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/151807455/1622309931",
+			"profile_link_color": "464A5C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FB274A",
+			"profile_text_color": "DB6955",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "당시엔 해외여행을 할 수 있는 사람이 한줌도 안 되었던 때니 그걸로 책까지 쓴 사람은 한국에서 유명해질 수밖에 없겠지요. 해외여행 자유화가 된 뒤로 ‘여행가’의 명성은 의미가 없어졌지요."
+	},
+	{
+		"created_at": "Fri Jun 04 08:10:45 +0000 2021",
+		"id": 1400716688748802000,
+		"id_str": "1400726706684452867",
+		"full_text": "rt) 80년대생이라면 모를 수도 있죠. 그런데 전집을 갖고 있지 않다고 해도 김찬삼은 대중적으로 꽤 알려진 사람이었습니다. 여기저기 텔레비전에도 많이 나왔고요. 어떤 명성은 쉽게 시든다는 예라고 할 수 있지요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 151807455,
+			"id_str": "151807455",
+			"name": "djuna",
+			"screen_name": "djuna01",
+			"location": "South Korea",
+			"description": "대본 밖에서, 여자 주인공만 모른다, 죽은 고래에서 온 사람들, 도둑왕의 딸, 돼지 먹이, 사라지는 미로 속 짐승들, 불가사리를 위하여, 변신 괴물들을 위한 금요일 모임, 남자주인공에겐 없다, 항상성, 찢어진 종잇조각의 신, 평형추, 콩알이를 지켜라!, 아발론, 셰익스피어의 숲",
+			"url": "https://t.co/H2DSFma3D2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H2DSFma3D2",
+							"expanded_url": "http://djuna.kr",
+							"display_url": "djuna.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78767,
+			"friends_count": 220,
+			"listed_count": 536,
+			"created_at": "Fri Jun 04 08:44:20 +0000 2010",
+			"favourites_count": 1067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 379892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F2F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/959625463051141121/TqD-WL7e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/151807455/1622309931",
+			"profile_link_color": "464A5C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FB274A",
+			"profile_text_color": "DB6955",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "rt) 80년대생이라면 모를 수도 있죠. 그런데 전집을 갖고 있지 않다고 해도 김찬삼은 대중적으로 꽤 알려진 사람이었습니다. 여기저기 텔레비전에도 많이 나왔고요. 어떤 명성은 쉽게 시든다는 예라고 할 수 있지요."
+	},
+	{
 		"created_at": "Wed Jun 02 20:18:14 +0000 2021",
 		"id": 1400104758908657700,
 		"id_str": "1400185006173999109",
