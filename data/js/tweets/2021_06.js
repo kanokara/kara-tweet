@@ -1,6 +1,828 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 07 12:07:22 +0000 2021",
+		"id": 1358814805302280200,
+		"id_str": "1401873415930212353",
+		"full_text": "그리고 이점이 센가이 선생님의 관점의 기본단위인 거 같음\n이분은 추리소설에서 이성과 현실을 찾지 않음\n빛과 이성이 필연적으로 동반하는 어둠과 광기 그리고 그런 상극할 법한 것들이 어우러지다 못해 넘쳐흘러버리며 그리는 무늬 같은 것을 추리소설에서 보고 있음",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1358814066316222500,
+		"in_reply_to_status_id_str": "1358814066316222468",
+		"in_reply_to_user_id": 1228950591079977000,
+		"in_reply_to_user_id_str": "1228950591079976962",
+		"in_reply_to_screen_name": "genshi_o",
+		"user": {
+			"id": 1228950591079977000,
+			"id_str": "1228950591079976962",
+			"name": "양키책덕☄☔❄️⚡⛈",
+			"screen_name": "genshi_o",
+			"location": "내겐 오천권의 책이 있고 그중 켄간아슈라가 짱임",
+			"description": "책덕질 및 창작 관련 사담계 https://t.co/oM2f1YgwvS #ㅌㄹ_ㅇㅋ",
+			"url": "https://t.co/b15trFOpLu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b15trFOpLu",
+							"expanded_url": "https://britg.kr/novel-author/1935/",
+							"display_url": "britg.kr/novel-author/1…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oM2f1YgwvS",
+							"expanded_url": "https://peing.net/ko/genshi_o",
+							"display_url": "peing.net/ko/genshi_o",
+							"indices": [
+								16,
+								39
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 137,
+			"friends_count": 52,
+			"listed_count": 1,
+			"created_at": "Sun Feb 16 07:53:58 +0000 2020",
+			"favourites_count": 2152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398911398164373508/SXGC0M4G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398911398164373508/SXGC0M4G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1228950591079976962/1581839755",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그리고 이점이 센가이 선생님의 관점의 기본단위인 거 같음\n이분은 추리소설에서 이성과 현실을 찾지 않음\n빛과 이성이 필연적으로 동반하는 어둠과 광기 그리고 그런 상극할 법한 것들이 어우러지다 못해 넘쳐흘러버리며 그리는 무늬 같은 것을 추리소설에서 보고 있음"
+	},
+	{
+		"created_at": "Mon Jun 07 12:07:18 +0000 2021",
+		"id": 1358814066316222500,
+		"id_str": "1401873399090057218",
+		"full_text": "센가이선생이 주목하는 건 흔히 '이성과 과학의 문학'으로 알려진 미스터리가 어째서 그런 괴기 환상 변태취향을 강하게 띠었느냐인데 전쟁 전 탐정소설은 이성뿐 아니라 그게 초래한 광기가 징후적으로 드러나는 장르였던듯\n아니 논조로 보면 오히려 '이성이 아니라 광기'에 방점이 찍힘",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1358813181875871700,
+		"in_reply_to_status_id_str": "1358813181875871751",
+		"in_reply_to_user_id": 1228950591079977000,
+		"in_reply_to_user_id_str": "1228950591079976962",
+		"in_reply_to_screen_name": "genshi_o",
+		"user": {
+			"id": 1228950591079977000,
+			"id_str": "1228950591079976962",
+			"name": "양키책덕☄☔❄️⚡⛈",
+			"screen_name": "genshi_o",
+			"location": "내겐 오천권의 책이 있고 그중 켄간아슈라가 짱임",
+			"description": "책덕질 및 창작 관련 사담계 https://t.co/oM2f1YgwvS #ㅌㄹ_ㅇㅋ",
+			"url": "https://t.co/b15trFOpLu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b15trFOpLu",
+							"expanded_url": "https://britg.kr/novel-author/1935/",
+							"display_url": "britg.kr/novel-author/1…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oM2f1YgwvS",
+							"expanded_url": "https://peing.net/ko/genshi_o",
+							"display_url": "peing.net/ko/genshi_o",
+							"indices": [
+								16,
+								39
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 137,
+			"friends_count": 52,
+			"listed_count": 1,
+			"created_at": "Sun Feb 16 07:53:58 +0000 2020",
+			"favourites_count": 2152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398911398164373508/SXGC0M4G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398911398164373508/SXGC0M4G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1228950591079976962/1581839755",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "센가이선생이 주목하는 건 흔히 '이성과 과학의 문학'으로 알려진 미스터리가 어째서 그런 괴기 환상 변태취향을 강하게 띠었느냐인데 전쟁 전 탐정소설은 이성뿐 아니라 그게 초래한 광기가 징후적으로 드러나는 장르였던듯\n아니 논조로 보면 오히려 '이성이 아니라 광기'에 방점이 찍힘"
+	},
+	{
+		"created_at": "Mon Jun 07 12:07:15 +0000 2021",
+		"id": 1358813181875871700,
+		"id_str": "1401873386620428292",
+		"full_text": "서구문명(근대화)는 어디까지나 '빛'으로써 왔는데 그것이 아이러니하게도 그동안 보이지 않았던 어둠의 존재들을 어둠으로써 드러나게 함\n그리고 드러나니까 사람의 흥미를 끌고 성장하기 시작한 언중들이 그걸 가십으로 소비함\n소위말하는 30년대 에로그로취향은 얄팍하게 말하자면 그런맥락",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1358812757240385500,
+		"in_reply_to_status_id_str": "1358812757240385536",
+		"in_reply_to_user_id": 1228950591079977000,
+		"in_reply_to_user_id_str": "1228950591079976962",
+		"in_reply_to_screen_name": "genshi_o",
+		"user": {
+			"id": 1228950591079977000,
+			"id_str": "1228950591079976962",
+			"name": "양키책덕☄☔❄️⚡⛈",
+			"screen_name": "genshi_o",
+			"location": "내겐 오천권의 책이 있고 그중 켄간아슈라가 짱임",
+			"description": "책덕질 및 창작 관련 사담계 https://t.co/oM2f1YgwvS #ㅌㄹ_ㅇㅋ",
+			"url": "https://t.co/b15trFOpLu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b15trFOpLu",
+							"expanded_url": "https://britg.kr/novel-author/1935/",
+							"display_url": "britg.kr/novel-author/1…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oM2f1YgwvS",
+							"expanded_url": "https://peing.net/ko/genshi_o",
+							"display_url": "peing.net/ko/genshi_o",
+							"indices": [
+								16,
+								39
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 137,
+			"friends_count": 52,
+			"listed_count": 1,
+			"created_at": "Sun Feb 16 07:53:58 +0000 2020",
+			"favourites_count": 2152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398911398164373508/SXGC0M4G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398911398164373508/SXGC0M4G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1228950591079976962/1581839755",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "서구문명(근대화)는 어디까지나 '빛'으로써 왔는데 그것이 아이러니하게도 그동안 보이지 않았던 어둠의 존재들을 어둠으로써 드러나게 함\n그리고 드러나니까 사람의 흥미를 끌고 성장하기 시작한 언중들이 그걸 가십으로 소비함\n소위말하는 30년대 에로그로취향은 얄팍하게 말하자면 그런맥락"
+	},
+	{
+		"created_at": "Mon Jun 07 12:07:13 +0000 2021",
+		"id": 1358812757240385500,
+		"id_str": "1401873375832657927",
+		"full_text": "일본 미스터리가 왜 그러게 '이상하고' '기괴한' 취향으로 발달했는지를 일본 근대화랑 연관지어서 설명함\n국문학사 같은 데서 보는 에로그로물에 대한 평가랑은 또 다른 색다른 관점인데 일통하긴 함 이른바 '근대의 빛이 초래한 어둠'이란 것",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1358812374107521000,
+		"in_reply_to_status_id_str": "1358812374107521024",
+		"in_reply_to_user_id": 1228950591079977000,
+		"in_reply_to_user_id_str": "1228950591079976962",
+		"in_reply_to_screen_name": "genshi_o",
+		"user": {
+			"id": 1228950591079977000,
+			"id_str": "1228950591079976962",
+			"name": "양키책덕☄☔❄️⚡⛈",
+			"screen_name": "genshi_o",
+			"location": "내겐 오천권의 책이 있고 그중 켄간아슈라가 짱임",
+			"description": "책덕질 및 창작 관련 사담계 https://t.co/oM2f1YgwvS #ㅌㄹ_ㅇㅋ",
+			"url": "https://t.co/b15trFOpLu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b15trFOpLu",
+							"expanded_url": "https://britg.kr/novel-author/1935/",
+							"display_url": "britg.kr/novel-author/1…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oM2f1YgwvS",
+							"expanded_url": "https://peing.net/ko/genshi_o",
+							"display_url": "peing.net/ko/genshi_o",
+							"indices": [
+								16,
+								39
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 137,
+			"friends_count": 52,
+			"listed_count": 1,
+			"created_at": "Sun Feb 16 07:53:58 +0000 2020",
+			"favourites_count": 2152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398911398164373508/SXGC0M4G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398911398164373508/SXGC0M4G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1228950591079976962/1581839755",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "일본 미스터리가 왜 그러게 '이상하고' '기괴한' 취향으로 발달했는지를 일본 근대화랑 연관지어서 설명함\n국문학사 같은 데서 보는 에로그로물에 대한 평가랑은 또 다른 색다른 관점인데 일통하긴 함 이른바 '근대의 빛이 초래한 어둠'이란 것"
+	},
+	{
+		"created_at": "Mon Jun 07 12:07:10 +0000 2021",
+		"id": 1358812374107521000,
+		"id_str": "1401873367427289095",
+		"full_text": "이분 꽤 활동을 많이 하시긴 하는데 그의 관점이 '주류'인지까진 모르겠다. 괴기환상물에 대한 취향을 바탕으로 하고 있는데, 아무래도 그쪽은 대중물로선 이미 주류는 한참 아니니까.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1358812081466736600,
+		"in_reply_to_status_id_str": "1358812081466736642",
+		"in_reply_to_user_id": 1228950591079977000,
+		"in_reply_to_user_id_str": "1228950591079976962",
+		"in_reply_to_screen_name": "genshi_o",
+		"user": {
+			"id": 1228950591079977000,
+			"id_str": "1228950591079976962",
+			"name": "양키책덕☄☔❄️⚡⛈",
+			"screen_name": "genshi_o",
+			"location": "내겐 오천권의 책이 있고 그중 켄간아슈라가 짱임",
+			"description": "책덕질 및 창작 관련 사담계 https://t.co/oM2f1YgwvS #ㅌㄹ_ㅇㅋ",
+			"url": "https://t.co/b15trFOpLu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b15trFOpLu",
+							"expanded_url": "https://britg.kr/novel-author/1935/",
+							"display_url": "britg.kr/novel-author/1…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oM2f1YgwvS",
+							"expanded_url": "https://peing.net/ko/genshi_o",
+							"display_url": "peing.net/ko/genshi_o",
+							"indices": [
+								16,
+								39
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 137,
+			"friends_count": 52,
+			"listed_count": 1,
+			"created_at": "Sun Feb 16 07:53:58 +0000 2020",
+			"favourites_count": 2152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398911398164373508/SXGC0M4G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398911398164373508/SXGC0M4G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1228950591079976962/1581839755",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이분 꽤 활동을 많이 하시긴 하는데 그의 관점이 '주류'인지까진 모르겠다. 괴기환상물에 대한 취향을 바탕으로 하고 있는데, 아무래도 그쪽은 대중물로선 이미 주류는 한참 아니니까."
+	},
+	{
+		"created_at": "Mon Jun 07 12:07:09 +0000 2021",
+		"id": 1358812081466736600,
+		"id_str": "1401873360888352773",
+		"full_text": "헐 이제와서 센가이 아키유키랑 나랑 취향이 진짜 똑같다는 걸 깨닫는구나 \n처음 읽었을 때도 헐 마자마자 동감동감 했는데 다 까먹은 것뿐인가???",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1228950591079977000,
+			"id_str": "1228950591079976962",
+			"name": "양키책덕☄☔❄️⚡⛈",
+			"screen_name": "genshi_o",
+			"location": "내겐 오천권의 책이 있고 그중 켄간아슈라가 짱임",
+			"description": "책덕질 및 창작 관련 사담계 https://t.co/oM2f1YgwvS #ㅌㄹ_ㅇㅋ",
+			"url": "https://t.co/b15trFOpLu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b15trFOpLu",
+							"expanded_url": "https://britg.kr/novel-author/1935/",
+							"display_url": "britg.kr/novel-author/1…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oM2f1YgwvS",
+							"expanded_url": "https://peing.net/ko/genshi_o",
+							"display_url": "peing.net/ko/genshi_o",
+							"indices": [
+								16,
+								39
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 137,
+			"friends_count": 52,
+			"listed_count": 1,
+			"created_at": "Sun Feb 16 07:53:58 +0000 2020",
+			"favourites_count": 2152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398911398164373508/SXGC0M4G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398911398164373508/SXGC0M4G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1228950591079976962/1581839755",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "헐 이제와서 센가이 아키유키랑 나랑 취향이 진짜 똑같다는 걸 깨닫는구나 \n처음 읽었을 때도 헐 마자마자 동감동감 했는데 다 까먹은 것뿐인가???"
+	},
+	{
+		"created_at": "Mon Jun 07 12:06:55 +0000 2021",
+		"id": 941598447697764400,
+		"id_str": "1401873303724195845",
+		"full_text": "기묘한 범죄가 잔뜩 있었다. 다시 말해 당시 사회상으로 볼 때 완전히 제로에서 나온 발상은 아니라는 것이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 941598333717512200,
+		"in_reply_to_status_id_str": "941598333717512193",
+		"in_reply_to_user_id": 187070498,
+		"in_reply_to_user_id_str": "187070498",
+		"in_reply_to_screen_name": "doskharaas",
+		"user": {
+			"id": 187070498,
+			"id_str": "187070498",
+			"name": "손지상(孫 志尚, Son Ji-Sang)",
+			"screen_name": "doskharaas",
+			"location": "독방",
+			"description": "원고의뢰 및 문의: sonkaiju 네이버메일 | 저서 및 역서 목록: https://t.co/8qFNSt2HwY",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8qFNSt2HwY",
+							"expanded_url": "http://m.aladin.co.kr/m/msearch.aspx?SearchTarget=Book&KeyWord=%EC%86%90%EC%A7%80%EC%83%81&KeyRecentPublish=0&OutStock=0",
+							"display_url": "m.aladin.co.kr/m/msearch.aspx…",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3430,
+			"friends_count": 1375,
+			"listed_count": 48,
+			"created_at": "Sun Sep 05 04:57:43 +0000 2010",
+			"favourites_count": 46388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 179285,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1396373375207890946/V8LzPw7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1396373375207890946/V8LzPw7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/187070498/1618031772",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "기묘한 범죄가 잔뜩 있었다. 다시 말해 당시 사회상으로 볼 때 완전히 제로에서 나온 발상은 아니라는 것이다."
+	},
+	{
+		"created_at": "Mon Jun 07 12:06:53 +0000 2021",
+		"id": 941598333717512200,
+		"id_str": "1401873294647648258",
+		"full_text": "본격추리소설에 등장할만한 기묘하고 잔혹하고 부조리한 범죄가 당대에 엄청 많았기 때문이다. 예를 들어 1910년대 소년강력범죄를 모아놓은 책을 보면 \"다섯살 동생이 자기 떡을 먹었다고 포수인 아버지 엽총으로 동생 얼굴을 날려버린 여덟살 소년\"이라던가 \"초등학교 여자애와 불륜\" 같은",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 941597977826672600,
+		"in_reply_to_status_id_str": "941597977826672641",
+		"in_reply_to_user_id": 187070498,
+		"in_reply_to_user_id_str": "187070498",
+		"in_reply_to_screen_name": "doskharaas",
+		"user": {
+			"id": 187070498,
+			"id_str": "187070498",
+			"name": "손지상(孫 志尚, Son Ji-Sang)",
+			"screen_name": "doskharaas",
+			"location": "독방",
+			"description": "원고의뢰 및 문의: sonkaiju 네이버메일 | 저서 및 역서 목록: https://t.co/8qFNSt2HwY",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8qFNSt2HwY",
+							"expanded_url": "http://m.aladin.co.kr/m/msearch.aspx?SearchTarget=Book&KeyWord=%EC%86%90%EC%A7%80%EC%83%81&KeyRecentPublish=0&OutStock=0",
+							"display_url": "m.aladin.co.kr/m/msearch.aspx…",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3430,
+			"friends_count": 1375,
+			"listed_count": 48,
+			"created_at": "Sun Sep 05 04:57:43 +0000 2010",
+			"favourites_count": 46388,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 179285,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1396373375207890946/V8LzPw7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1396373375207890946/V8LzPw7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/187070498/1618031772",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "본격추리소설에 등장할만한 기묘하고 잔혹하고 부조리한 범죄가 당대에 엄청 많았기 때문이다. 예를 들어 1910년대 소년강력범죄를 모아놓은 책을 보면 \"다섯살 동생이 자기 떡을 먹었다고 포수인 아버지 엽총으로 동생 얼굴을 날려버린 여덟살 소년\"이라던가 \"초등학교 여자애와 불륜\" 같은"
+	},
+	{
 		"created_at": "Mon Jun 07 11:06:12 +0000 2021",
 		"id": 1401858023346172000,
 		"id_str": "1401858023346171906",
