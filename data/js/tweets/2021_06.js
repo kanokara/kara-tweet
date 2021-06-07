@@ -1,6 +1,515 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 07 13:57:07 +0000 2021",
+		"id": 1401885226775634000,
+		"id_str": "1401901033677148168",
+		"full_text": "연구에 관심 있는 분이 있다면 아래 연구를 참고.(자칭 '문학 권력 트릴로지'입니다.)\n작가-비평가 관계와 비평가의 구조적 위치가 소설 단행본 판매량 증감에 미치는 영향\n비평 언어의 변동: 문예지 비평 텍스트에 나타난 개념단어의 변동 양상\nhttps://t.co/BiXCvv03W4\nhttps://t.co/omaoDkZlKR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BiXCvv03W4",
+					"expanded_url": "https://bit.ly/3vZtuSD",
+					"display_url": "bit.ly/3vZtuSD",
+					"indices": [
+						134,
+						157
+					]
+				},
+				{
+					"url": "https://t.co/omaoDkZlKR",
+					"expanded_url": "https://bit.ly/3fYPHKJ",
+					"display_url": "bit.ly/3fYPHKJ",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1401883864742600700,
+		"in_reply_to_status_id_str": "1401883864742600705",
+		"in_reply_to_user_id": 1918065115,
+		"in_reply_to_user_id_str": "1918065115",
+		"in_reply_to_screen_name": "chukbak",
+		"user": {
+			"id": 1918065115,
+			"id_str": "1918065115",
+			"name": "불좀꺼줘",
+			"screen_name": "chukbak",
+			"location": "",
+			"description": "명륜동시인/디지털인문학 연구자로 불리고 싶지만/현실은 양산형 데이터과학자",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 325,
+			"friends_count": 295,
+			"listed_count": 4,
+			"created_at": "Sun Sep 29 20:12:20 +0000 2013",
+			"favourites_count": 490,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 536,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/690409639100420096/qUxnth98_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/690409639100420096/qUxnth98_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "연구에 관심 있는 분이 있다면 아래 연구를 참고.(자칭 '문학 권력 트릴로지'입니다.)\n작가-비평가 관계와 비평가의 구조적 위치가 소설 단행본 판매량 증감에 미치는 영향\n비평 언어의 변동: 문예지 비평 텍스트에 나타난 개념단어의 변동 양상\nhttps://t.co/BiXCvv03W4\nhttps://t.co/omaoDkZlKR"
+	},
+	{
+		"created_at": "Mon Jun 07 13:57:05 +0000 2021",
+		"id": 1401883864742600700,
+		"id_str": "1401901027318648837",
+		"full_text": "이 연구는 2015년 가을에 첫 학회 발표를 했고, 거의 6년이 지난 지금 돌이켜 보면(정말 이렇게 오래 되다니) 사회학의 입장에서만 인문학 데이터를 다뤘다는 약점이 보입니다. 물론 제 지도교수님이 사회학 전공이었고, 사실상 이 논문은 사회과학 논문에 가깝습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1401883218526179300,
+		"in_reply_to_status_id_str": "1401883218526179338",
+		"in_reply_to_user_id": 1918065115,
+		"in_reply_to_user_id_str": "1918065115",
+		"in_reply_to_screen_name": "chukbak",
+		"user": {
+			"id": 1918065115,
+			"id_str": "1918065115",
+			"name": "불좀꺼줘",
+			"screen_name": "chukbak",
+			"location": "",
+			"description": "명륜동시인/디지털인문학 연구자로 불리고 싶지만/현실은 양산형 데이터과학자",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 325,
+			"friends_count": 295,
+			"listed_count": 4,
+			"created_at": "Sun Sep 29 20:12:20 +0000 2013",
+			"favourites_count": 490,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 536,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/690409639100420096/qUxnth98_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/690409639100420096/qUxnth98_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이 연구는 2015년 가을에 첫 학회 발표를 했고, 거의 6년이 지난 지금 돌이켜 보면(정말 이렇게 오래 되다니) 사회학의 입장에서만 인문학 데이터를 다뤘다는 약점이 보입니다. 물론 제 지도교수님이 사회학 전공이었고, 사실상 이 논문은 사회과학 논문에 가깝습니다."
+	},
+	{
+		"created_at": "Mon Jun 07 13:57:03 +0000 2021",
+		"id": 1401883218526179300,
+		"id_str": "1401901018690953222",
+		"full_text": "모두 손으로 데이터를 수집하느라 (스크래핑 따윈 불가능한 데이터) 수명을 깎아 연구를 했습니다 (농담이 아니라 죽는줄). 향후 네트워크에 활용된 문인들의 네트워크 데이터를 웹에 공개할 계획이 있습니다. 물론 졸업이 먼저라... 언젠간 하겠지요? https://t.co/xRPpOcwbP5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1401882767617454000,
+					"id_str": "1401882767617454082",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/E3R88xyUcAIoJom.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3R88xyUcAIoJom.jpg",
+					"url": "https://t.co/xRPpOcwbP5",
+					"display_url": "pic.twitter.com/xRPpOcwbP5",
+					"expanded_url": "https://twitter.com/chukbak/status/1401883218526179338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1401882767617454000,
+					"id_str": "1401882767617454082",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/E3R88xyUcAIoJom.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3R88xyUcAIoJom.jpg",
+					"url": "https://t.co/xRPpOcwbP5",
+					"display_url": "pic.twitter.com/xRPpOcwbP5",
+					"expanded_url": "https://twitter.com/chukbak/status/1401883218526179338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1401883209915240400,
+		"in_reply_to_status_id_str": "1401883209915240448",
+		"in_reply_to_user_id": 1918065115,
+		"in_reply_to_user_id_str": "1918065115",
+		"in_reply_to_screen_name": "chukbak",
+		"user": {
+			"id": 1918065115,
+			"id_str": "1918065115",
+			"name": "불좀꺼줘",
+			"screen_name": "chukbak",
+			"location": "",
+			"description": "명륜동시인/디지털인문학 연구자로 불리고 싶지만/현실은 양산형 데이터과학자",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 325,
+			"friends_count": 295,
+			"listed_count": 4,
+			"created_at": "Sun Sep 29 20:12:20 +0000 2013",
+			"favourites_count": 490,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 536,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/690409639100420096/qUxnth98_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/690409639100420096/qUxnth98_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모두 손으로 데이터를 수집하느라 (스크래핑 따윈 불가능한 데이터) 수명을 깎아 연구를 했습니다 (농담이 아니라 죽는줄). 향후 네트워크에 활용된 문인들의 네트워크 데이터를 웹에 공개할 계획이 있습니다. 물론 졸업이 먼저라... 언젠간 하겠지요? https://t.co/xRPpOcwbP5"
+	},
+	{
+		"created_at": "Mon Jun 07 13:57:01 +0000 2021",
+		"id": 1401883209915240400,
+		"id_str": "1401901009417297923",
+		"full_text": "\"외국 국적의 작가나 학자를 제외하고 이들 3대 계간지에 작품이 직접 소개되거나 평론의 대상으로 거론된 시인, 소설가, 비평가 수는 총 1,565명이었다. 우리는 이들의 성별, 나이, 등단년도, 출신대학-대학원, 학과 등의 사회인구학적 정보를 함께 수집하였다. \"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1401883208619233300,
+		"in_reply_to_status_id_str": "1401883208619233286",
+		"in_reply_to_user_id": 1918065115,
+		"in_reply_to_user_id_str": "1918065115",
+		"in_reply_to_screen_name": "chukbak",
+		"user": {
+			"id": 1918065115,
+			"id_str": "1918065115",
+			"name": "불좀꺼줘",
+			"screen_name": "chukbak",
+			"location": "",
+			"description": "명륜동시인/디지털인문학 연구자로 불리고 싶지만/현실은 양산형 데이터과학자",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 325,
+			"friends_count": 295,
+			"listed_count": 4,
+			"created_at": "Sun Sep 29 20:12:20 +0000 2013",
+			"favourites_count": 490,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 536,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/690409639100420096/qUxnth98_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/690409639100420096/qUxnth98_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"외국 국적의 작가나 학자를 제외하고 이들 3대 계간지에 작품이 직접 소개되거나 평론의 대상으로 거론된 시인, 소설가, 비평가 수는 총 1,565명이었다. 우리는 이들의 성별, 나이, 등단년도, 출신대학-대학원, 학과 등의 사회인구학적 정보를 함께 수집하였다. \""
+	},
+	{
+		"created_at": "Mon Jun 07 13:56:57 +0000 2021",
+		"id": 1401883208619233300,
+		"id_str": "1401900992778555393",
+		"full_text": "\"우리는 1994년에서 2014년까지 간행된 『창작과 비평』, 『문학동네』, 『문학과 사회』 전체의 서지 정보를 조사했다. 21년 동안 이들 3대 계간지에서저자가 명기된 시, 소설, 평론, 논문, 대담-칼럼은 총 11,037편이었다.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1401882049930141700,
+		"in_reply_to_status_id_str": "1401882049930141699",
+		"in_reply_to_user_id": 1918065115,
+		"in_reply_to_user_id_str": "1918065115",
+		"in_reply_to_screen_name": "chukbak",
+		"user": {
+			"id": 1918065115,
+			"id_str": "1918065115",
+			"name": "불좀꺼줘",
+			"screen_name": "chukbak",
+			"location": "",
+			"description": "명륜동시인/디지털인문학 연구자로 불리고 싶지만/현실은 양산형 데이터과학자",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 325,
+			"friends_count": 295,
+			"listed_count": 4,
+			"created_at": "Sun Sep 29 20:12:20 +0000 2013",
+			"favourites_count": 490,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 536,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/690409639100420096/qUxnth98_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/690409639100420096/qUxnth98_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"우리는 1994년에서 2014년까지 간행된 『창작과 비평』, 『문학동네』, 『문학과 사회』 전체의 서지 정보를 조사했다. 21년 동안 이들 3대 계간지에서저자가 명기된 시, 소설, 평론, 논문, 대담-칼럼은 총 11,037편이었다.\""
+	},
+	{
 		"created_at": "Mon Jun 07 12:16:56 +0000 2021",
 		"id": 1401455662538756000,
 		"id_str": "1401875821397102605",
