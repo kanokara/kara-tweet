@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 08 13:21:07 +0000 2021",
+		"id": 1402254362848628700,
+		"id_str": "1402254362848628736",
+		"full_text": "의미의 전이, 전성, 전와. 가장 적합한 용어는 전와네요.\nhttps://t.co/XsyJiZqTvP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XsyJiZqTvP",
+					"expanded_url": "https://twitter.com/JaesikKwak/status/1402212194075365383",
+					"display_url": "twitter.com/JaesikKwak/sta…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 97,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1402212194075365400,
+		"quoted_status_id_str": "1402212194075365383",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XsyJiZqTvP",
+			"expanded": "https://twitter.com/JaesikKwak/status/1402212194075365383",
+			"display": "twitter.com/JaesikKwak/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 08 10:33:33 +0000 2021",
+			"id": 1402212194075365400,
+			"id_str": "1402212194075365383",
+			"full_text": "잠깐상식: 화학물질 중 브롬이 들어간 브롬화합물을 영어로 bromide라 부르는데 이 브로마이드를 입힌 종이를 고급 사진 인화용으로 많이 써서 브로마이드지 라고 불렀고, 그것이 와전돼 고급 사진을 브로마이드지 라고 부르게 되었고, 그게 다시 와전돼 커다란 연예인 사진을 브로마이드라도 부르게됨",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				163
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 595154440,
+				"id_str": "595154440",
+				"name": "곽재식",
+				"screen_name": "JaesikKwak",
+				"location": "",
+				"description": "작가. 공학박사. gerecter@gmail.com",
+				"url": "http://jaesikkwak.blogspot.kr/",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://jaesikkwak.blogspot.kr/",
+								"expanded_url": null,
+								"indices": [
+									0,
+									30
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20093,
+				"friends_count": 1467,
+				"listed_count": 139,
+				"created_at": "Thu May 31 03:57:29 +0000 2012",
+				"favourites_count": 704,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10213,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1131205676124913664/MhWhB1u8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131205676124913664/MhWhB1u8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/595154440/1617290152",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1130,
+			"favorite_count": 534,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "의미의 전이, 전성, 전와. 가장 적합한 용어는 전와네요.\nhttps://t.co/XsyJiZqTvP"
+	},
+	{
 		"created_at": "Tue Jun 08 11:37:52 +0000 2021",
 		"id": 1402202095567081500,
 		"id_str": "1402228381651922951",
