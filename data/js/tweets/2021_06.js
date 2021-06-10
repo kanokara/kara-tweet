@@ -1,6 +1,489 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 10 12:45:26 +0000 2021",
+		"id": 1402863210739368000,
+		"id_str": "1402970157845155846",
+		"full_text": "논문 작성할 때 단어를 늘리려면 같은 말을 반복하는 것이 중요합니다. 즉, 유사한 어구를 반복함으로서 논문의 길이가 늘어 난 것 같은 효과를 줄 수 있다는 거죠. 이처럼 되풀이되는 표현을 통해 논문의 분량을 늘림으로 하여, 많은 글자수의 논문을 문구 중복을 통해 이룰 수 있다는 것입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1316756497209069600,
+			"id_str": "1316756497209069570",
+			"name": "琿",
+			"screen_name": "Gua1ngHa3i",
+			"location": "",
+			"description": "烟波江上臥孤舟",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 201,
+			"friends_count": 169,
+			"listed_count": 1,
+			"created_at": "Thu Oct 15 15:03:21 +0000 2020",
+			"favourites_count": 204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8075,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377551091907264513/CgfEMcZe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377551091907264513/CgfEMcZe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1316756497209069570/1617268750",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 710,
+		"favorite_count": 158,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "논문 작성할 때 단어를 늘리려면 같은 말을 반복하는 것이 중요합니다. 즉, 유사한 어구를 반복함으로서 논문의 길이가 늘어 난 것 같은 효과를 줄 수 있다는 거죠. 이처럼 되풀이되는 표현을 통해 논문의 분량을 늘림으로 하여, 많은 글자수의 논문을 문구 중복을 통해 이룰 수 있다는 것입니다."
+	},
+	{
+		"created_at": "Thu Jun 10 12:44:28 +0000 2021",
+		"id": 1402966010718683100,
+		"id_str": "1402969917037547524",
+		"full_text": "@medievalart_kr 쉽게 말해 극장판 도라에몽과 짱구가 비극, 티비판이 희극입니당",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "medievalart_kr",
+					"name": "중세인쇄소",
+					"id": 4058912834,
+					"id_str": "4058912834",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1402965788835737600,
+		"in_reply_to_status_id_str": "1402965788835737607",
+		"in_reply_to_user_id": 4058912834,
+		"in_reply_to_user_id_str": "4058912834",
+		"in_reply_to_screen_name": "medievalart_kr",
+		"user": {
+			"id": 187070498,
+			"id_str": "187070498",
+			"name": "손지상(孫 志尚, Son Ji-Sang)",
+			"screen_name": "doskharaas",
+			"location": "독방",
+			"description": "원고의뢰 및 문의: sonkaiju 네이버메일 | 저서 및 역서 목록: https://t.co/8qFNSt2HwY",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8qFNSt2HwY",
+							"expanded_url": "http://m.aladin.co.kr/m/msearch.aspx?SearchTarget=Book&KeyWord=%EC%86%90%EC%A7%80%EC%83%81&KeyRecentPublish=0&OutStock=0",
+							"display_url": "m.aladin.co.kr/m/msearch.aspx…",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3427,
+			"friends_count": 1375,
+			"listed_count": 48,
+			"created_at": "Sun Sep 05 04:57:43 +0000 2010",
+			"favourites_count": 46383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 179287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1396373375207890946/V8LzPw7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1396373375207890946/V8LzPw7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/187070498/1618031772",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@medievalart_kr 쉽게 말해 극장판 도라에몽과 짱구가 비극, 티비판이 희극입니당"
+	},
+	{
+		"created_at": "Thu Jun 10 12:44:24 +0000 2021",
+		"id": 1402965007717965800,
+		"id_str": "1402969898150551559",
+		"full_text": "@medievalart_kr 아마 비극이 내용으로 결정된다고 생각하는 사람들이었던 모양이군요…",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "medievalart_kr",
+					"name": "중세인쇄소",
+					"id": 4058912834,
+					"id_str": "4058912834",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1402964691962323000,
+		"in_reply_to_status_id_str": "1402964691962322948",
+		"in_reply_to_user_id": 4058912834,
+		"in_reply_to_user_id_str": "4058912834",
+		"in_reply_to_screen_name": "medievalart_kr",
+		"user": {
+			"id": 187070498,
+			"id_str": "187070498",
+			"name": "손지상(孫 志尚, Son Ji-Sang)",
+			"screen_name": "doskharaas",
+			"location": "독방",
+			"description": "원고의뢰 및 문의: sonkaiju 네이버메일 | 저서 및 역서 목록: https://t.co/8qFNSt2HwY",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8qFNSt2HwY",
+							"expanded_url": "http://m.aladin.co.kr/m/msearch.aspx?SearchTarget=Book&KeyWord=%EC%86%90%EC%A7%80%EC%83%81&KeyRecentPublish=0&OutStock=0",
+							"display_url": "m.aladin.co.kr/m/msearch.aspx…",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3427,
+			"friends_count": 1375,
+			"listed_count": 48,
+			"created_at": "Sun Sep 05 04:57:43 +0000 2010",
+			"favourites_count": 46383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 179287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1396373375207890946/V8LzPw7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1396373375207890946/V8LzPw7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/187070498/1618031772",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@medievalart_kr 아마 비극이 내용으로 결정된다고 생각하는 사람들이었던 모양이군요…"
+	},
+	{
+		"created_at": "Thu Jun 10 12:44:13 +0000 2021",
+		"id": 1402963416524890000,
+		"id_str": "1402969853007335430",
+		"full_text": "비극은 주인공이 이야기 속에서 무언가 이루려고 하는 행동이 잘되고 못되고를 반복하며, 누적되는 결과인 플롯이 새옹지마처럼 상승하강하며 주인공의 처지나 자아가 바뀌는 과정을 그리는 형식. 해피한 할리우드 엔딩이라도 형식상 대부분 할리우드 영화는 비극이다. https://t.co/9Hu3GdJnSR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9Hu3GdJnSR",
+					"expanded_url": "https://twitter.com/medievalart_kr/status/1402832022905622529",
+					"display_url": "twitter.com/medievalart_kr…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 187070498,
+			"id_str": "187070498",
+			"name": "손지상(孫 志尚, Son Ji-Sang)",
+			"screen_name": "doskharaas",
+			"location": "독방",
+			"description": "원고의뢰 및 문의: sonkaiju 네이버메일 | 저서 및 역서 목록: https://t.co/8qFNSt2HwY",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8qFNSt2HwY",
+							"expanded_url": "http://m.aladin.co.kr/m/msearch.aspx?SearchTarget=Book&KeyWord=%EC%86%90%EC%A7%80%EC%83%81&KeyRecentPublish=0&OutStock=0",
+							"display_url": "m.aladin.co.kr/m/msearch.aspx…",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3427,
+			"friends_count": 1375,
+			"listed_count": 48,
+			"created_at": "Sun Sep 05 04:57:43 +0000 2010",
+			"favourites_count": 46383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 179287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1396373375207890946/V8LzPw7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1396373375207890946/V8LzPw7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/187070498/1618031772",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1402832022905622500,
+		"quoted_status_id_str": "1402832022905622529",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9Hu3GdJnSR",
+			"expanded": "https://twitter.com/medievalart_kr/status/1402832022905622529",
+			"display": "twitter.com/medievalart_kr…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 10 03:36:32 +0000 2021",
+			"id": 1402832022905622500,
+			"id_str": "1402832022905622529",
+			"full_text": "비극=고귀하고 다 가진 사람이 몰락하는 이야기\n라는 정의를 보니 생각나는데,(도덕적 옳고그름을 떠나서)원래 ‘없는’사람이 구르고 고생하는 이야기 취향인 사람들도 있긴 하지만 귀한사람이 몰락하는 얘기가 더 보편적 취향처럼 보이는데 어떤 심리기제가 작용한 걸까 싶긴 함",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				148
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4058912834,
+				"id_str": "4058912834",
+				"name": "중세인쇄소",
+				"screen_name": "medievalart_kr",
+				"location": "",
+				"description": "필사본 삽화 등 11세기~15세기의 중세 미술품들을 중심으로 소개합니다(아닌것도올라옴).봇아님 역사로 아무말하는계정",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15938,
+				"friends_count": 307,
+				"listed_count": 156,
+				"created_at": "Thu Oct 29 15:32:29 +0000 2015",
+				"favourites_count": 69202,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 68666,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1238477373583974400/QTmSmPKG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238477373583974400/QTmSmPKG_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 47,
+			"favorite_count": 64,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 31,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "비극은 주인공이 이야기 속에서 무언가 이루려고 하는 행동이 잘되고 못되고를 반복하며, 누적되는 결과인 플롯이 새옹지마처럼 상승하강하며 주인공의 처지나 자아가 바뀌는 과정을 그리는 형식. 해피한 할리우드 엔딩이라도 형식상 대부분 할리우드 영화는 비극이다. https://t.co/9Hu3GdJnSR"
+	},
+	{
 		"created_at": "Thu Jun 10 07:37:19 +0000 2021",
 		"id": 1402892618648879000,
 		"id_str": "1402892618648879107",
