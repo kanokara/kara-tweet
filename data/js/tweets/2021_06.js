@@ -1,6 +1,591 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 10 14:09:45 +0000 2021",
+		"id": 1402990926092333000,
+		"id_str": "1402991376392876045",
+		"full_text": "@nekizlab 아니 정말로요. 처음에 설정한 가능성에서 연역되어 나오지 않는 것은 기본적으로 희극 형식입니당…",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nekizlab",
+					"name": "Nekizlab",
+					"id": 129115028,
+					"id_str": "129115028",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1402990147654717400,
+		"in_reply_to_status_id_str": "1402990147654717468",
+		"in_reply_to_user_id": 129115028,
+		"in_reply_to_user_id_str": "129115028",
+		"in_reply_to_screen_name": "nekizlab",
+		"user": {
+			"id": 187070498,
+			"id_str": "187070498",
+			"name": "손지상(孫 志尚, Son Ji-Sang)",
+			"screen_name": "doskharaas",
+			"location": "독방",
+			"description": "원고의뢰 및 문의: sonkaiju 네이버메일 | 저서 및 역서 목록: https://t.co/8qFNSt2HwY",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8qFNSt2HwY",
+							"expanded_url": "http://m.aladin.co.kr/m/msearch.aspx?SearchTarget=Book&KeyWord=%EC%86%90%EC%A7%80%EC%83%81&KeyRecentPublish=0&OutStock=0",
+							"display_url": "m.aladin.co.kr/m/msearch.aspx…",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3428,
+			"friends_count": 1375,
+			"listed_count": 48,
+			"created_at": "Sun Sep 05 04:57:43 +0000 2010",
+			"favourites_count": 46376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 179296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1396373375207890946/V8LzPw7v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1396373375207890946/V8LzPw7v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/187070498/1618031772",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@nekizlab 아니 정말로요. 처음에 설정한 가능성에서 연역되어 나오지 않는 것은 기본적으로 희극 형식입니당…"
+	},
+	{
+		"created_at": "Thu Jun 10 13:45:08 +0000 2021",
+		"id": 1402985181959446500,
+		"id_str": "1402985181959446533",
+		"full_text": "덧붙이자면 이러한 등질적인 내면의 표상이 바로 문단 특유의 '소시민성'이라고 보는 게 제 개인적 해석이에요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 97,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13963,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "덧붙이자면 이러한 등질적인 내면의 표상이 바로 문단 특유의 '소시민성'이라고 보는 게 제 개인적 해석이에요."
+	},
+	{
+		"created_at": "Thu Jun 10 13:43:12 +0000 2021",
+		"id": 1402981394163245000,
+		"id_str": "1402984695755771917",
+		"full_text": "한국문단에서 SF를 일부분 포용하기에 앞서 이나바 신이치로는 06년에 이미 판타지와 SF 장르를 이 (문단적) 리얼리즘에 따라 나누어 판단할 수 있으며 SF는 상대적으로 문단문학에 근친적인 장르라고 지적한 바 있어요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1402979378095476700,
+		"in_reply_to_status_id_str": "1402979378095476737",
+		"in_reply_to_user_id": 834020169680719900,
+		"in_reply_to_user_id_str": "834020169680719872",
+		"in_reply_to_screen_name": "ehrtjshxm7",
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8,
+			"friends_count": 33,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한국문단에서 SF를 일부분 포용하기에 앞서 이나바 신이치로는 06년에 이미 판타지와 SF 장르를 이 (문단적) 리얼리즘에 따라 나누어 판단할 수 있으며 SF는 상대적으로 문단문학에 근친적인 장르라고 지적한 바 있어요."
+	},
+	{
+		"created_at": "Thu Jun 10 13:43:10 +0000 2021",
+		"id": 1402979378095476700,
+		"id_str": "1402984688453521413",
+		"full_text": "정확히 말하자면 이것은 국민국가에 복무하는 리얼리즘의 얘기인데요, 문단문학이 근대에 유효했던 것은 '상상의 공동체'로서의 '하나의 리얼'을 매개하는 장치였기 때문이에요. 즉, 공통 인식에 의거하여 등질적인 내면을 사생하는 역할을 담당하고 있었죠.\nhttps://t.co/l809lwm8W6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l809lwm8W6",
+					"expanded_url": "https://twitter.com/happiest_cat/status/1402971721074835458?s=19",
+					"display_url": "twitter.com/happiest_cat/s…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1402976463763034000,
+		"in_reply_to_status_id_str": "1402976463763034112",
+		"in_reply_to_user_id": 834020169680719900,
+		"in_reply_to_user_id_str": "834020169680719872",
+		"in_reply_to_screen_name": "ehrtjshxm7",
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8,
+			"friends_count": 33,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1402971721074835500,
+		"quoted_status_id_str": "1402971721074835458",
+		"quoted_status_permalink": {
+			"url": "https://t.co/l809lwm8W6",
+			"expanded": "https://twitter.com/happiest_cat/status/1402971721074835458?s=19",
+			"display": "twitter.com/happiest_cat/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 10 12:51:38 +0000 2021",
+			"id": 1402971721074835500,
+			"id_str": "1402971721074835458",
+			"full_text": "@edrevre '외국풍의 상상의 세계'에 적응해서 비평하고 우열을 가릴 수 있었던 문단인력은 그야말로 전무했습니다. 다행히 SF는 단편창작도 로컬라이징도 훨씬 손쉬운 장르였지만, 대다수의 출판사들은 아직 SF에 대해 뭘 어떻게 감잡아야 할지 모르고 검증된 작가와만 계약하고 싶은 게 현실일 겁니다.",
+			"truncated": false,
+			"display_text_range": [
+				9,
+				167
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "edrevre",
+						"name": "초록",
+						"id": 1391025434079412200,
+						"id_str": "1391025434079412228",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1402970911381201000,
+			"in_reply_to_status_id_str": "1402970911381200898",
+			"in_reply_to_user_id": 894385849,
+			"in_reply_to_user_id_str": "894385849",
+			"in_reply_to_screen_name": "happiest_cat",
+			"user": {
+				"id": 894385849,
+				"id_str": "894385849",
+				"name": "내가 제일 행복한 고양이",
+				"screen_name": "happiest_cat",
+				"location": "",
+				"description": "세상 모든 고양이가 행복하면 좋겠네. 주로 짱돌과 책을 모읍니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 917,
+				"friends_count": 693,
+				"listed_count": 10,
+				"created_at": "Sun Oct 21 01:26:43 +0000 2012",
+				"favourites_count": 105675,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 153014,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2743618170/dc0e00395cd2aa99207f0241ef475a6a_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2743618170/dc0e00395cd2aa99207f0241ef475a6a_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정확히 말하자면 이것은 국민국가에 복무하는 리얼리즘의 얘기인데요, 문단문학이 근대에 유효했던 것은 '상상의 공동체'로서의 '하나의 리얼'을 매개하는 장치였기 때문이에요. 즉, 공통 인식에 의거하여 등질적인 내면을 사생하는 역할을 담당하고 있었죠.\nhttps://t.co/l809lwm8W6"
+	},
+	{
+		"created_at": "Thu Jun 10 13:43:08 +0000 2021",
+		"id": 1402976463763034000,
+		"id_str": "1402984677942513668",
+		"full_text": "국내 평단에서 장르소설의 부상은 대중소설의 연장선상(문단문학과의 대립항)에서 이해되었지만 그러한 인식틀 자체가 시대착오적이었죠. 지금 생각해보면 포스트모더니즘의 인식틀이 이 관계에 맞아떨어졌어요. (하나로 응집된) 거대서사의 붕괴와 (여럿으로 분열된) 미시서사(들)의 창성.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1402972878274920400,
+		"in_reply_to_status_id_str": "1402972878274920449",
+		"in_reply_to_user_id": 834020169680719900,
+		"in_reply_to_user_id_str": "834020169680719872",
+		"in_reply_to_screen_name": "ehrtjshxm7",
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8,
+			"friends_count": 33,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "국내 평단에서 장르소설의 부상은 대중소설의 연장선상(문단문학과의 대립항)에서 이해되었지만 그러한 인식틀 자체가 시대착오적이었죠. 지금 생각해보면 포스트모더니즘의 인식틀이 이 관계에 맞아떨어졌어요. (하나로 응집된) 거대서사의 붕괴와 (여럿으로 분열된) 미시서사(들)의 창성."
+	},
+	{
 		"created_at": "Thu Jun 10 12:45:26 +0000 2021",
 		"id": 1402863210739368000,
 		"id_str": "1402970157845155846",
