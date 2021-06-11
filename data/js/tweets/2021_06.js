@@ -1,6 +1,403 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 11 12:57:06 +0000 2021",
+		"id": 1403335480888893400,
+		"id_str": "1403335480888893440",
+		"full_text": "기실 국고에서 돈 나갈 것도 없이, 광고를 달고 광고 없애기 위해 정액제에 가입하는 식의 모델이면 도리어 이익이 남지 않을까 싶고 (...)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1403333885824434200,
+		"in_reply_to_status_id_str": "1403333885824434177",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 97,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "기실 국고에서 돈 나갈 것도 없이, 광고를 달고 광고 없애기 위해 정액제에 가입하는 식의 모델이면 도리어 이익이 남지 않을까 싶고 (...)"
+	},
+	{
+		"created_at": "Fri Jun 11 12:53:00 +0000 2021",
+		"id": 1403334450256113700,
+		"id_str": "1403334450256113664",
+		"full_text": "인용: 기원이 잊혀지더라도 사람들은 존재하는 것에 이유나 기원을 만들어 기워넣음. 거의 본능적인 행위인 듯. \nhttps://t.co/Mk2mtEPehn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mk2mtEPehn",
+					"expanded_url": "https://twitter.com/ksixrenine/status/1403308259251945478?s=20",
+					"display_url": "twitter.com/ksixrenine/sta…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 97,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1403308259251945500,
+		"quoted_status_id_str": "1403308259251945478",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Mk2mtEPehn",
+			"expanded": "https://twitter.com/ksixrenine/status/1403308259251945478?s=20",
+			"display": "twitter.com/ksixrenine/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 11 11:08:55 +0000 2021",
+			"id": 1403308259251945500,
+			"id_str": "1403308259251945478",
+			"full_text": "미역국 먹다=시험에 불합격하다 라는 뜻으로 쓰인 이유가 흔히 '미역이 미끄러워 시험에 미끄러졌다'라고 아는데 사실은 원래 미역국 먹다=어떤 단체가 해산하다라는 뜻으로 쓰였고, 구한말 일제가 조선군대 해산解散하던 일을 은어로 해산解産에 빗대 말하던 것부터라고\nhttps://t.co/gul4IWTVKh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				167
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gul4IWTVKh",
+						"expanded_url": "http://www.busan.com/view/busan/view.php?code=20050214000084",
+						"display_url": "busan.com/view/busan/vie…",
+						"indices": [
+							144,
+							167
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 127226485,
+				"id_str": "127226485",
+				"name": "해외로동자 H",
+				"screen_name": "ksixrenine",
+				"location": "프린스턴 법대 (존재하지않음)",
+				"description": "당신과 내가 생각이 다른건 자연스러운 겁니다.욕사절.FUB free #PrayForSyria *가짜뉴스+비논리(논리적 답변못하니 깔거없나 플필뒤지며 이죽대는)에는 화냅니다.외국어배우는걸좋아합니다. 정치성향:회색이니 지지자분들 오해마3\nENG/日本語/中文/Tiếng Việt",
+				"url": "http://t.co/1HFp5EhG4p",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/1HFp5EhG4p",
+								"expanded_url": "http://blog.naver.com/cloudless0",
+								"display_url": "blog.naver.com/cloudless0",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2257,
+				"friends_count": 1678,
+				"listed_count": 39,
+				"created_at": "Sun Mar 28 14:08:11 +0000 2010",
+				"favourites_count": 1192,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 171557,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/666468890088636416/VLKacp-h_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/666468890088636416/VLKacp-h_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/127226485/1367114946",
+				"profile_link_color": "0EE60E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 77,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인용: 기원이 잊혀지더라도 사람들은 존재하는 것에 이유나 기원을 만들어 기워넣음. 거의 본능적인 행위인 듯. \nhttps://t.co/Mk2mtEPehn"
+	},
+	{
+		"created_at": "Fri Jun 11 12:52:26 +0000 2021",
+		"id": 1403308259251945500,
+		"id_str": "1403334309683945474",
+		"full_text": "미역국 먹다=시험에 불합격하다 라는 뜻으로 쓰인 이유가 흔히 '미역이 미끄러워 시험에 미끄러졌다'라고 아는데 사실은 원래 미역국 먹다=어떤 단체가 해산하다라는 뜻으로 쓰였고, 구한말 일제가 조선군대 해산解散하던 일을 은어로 해산解産에 빗대 말하던 것부터라고\nhttps://t.co/gul4IWTVKh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gul4IWTVKh",
+					"expanded_url": "http://www.busan.com/view/busan/view.php?code=20050214000084",
+					"display_url": "busan.com/view/busan/vie…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 127226485,
+			"id_str": "127226485",
+			"name": "해외로동자 H",
+			"screen_name": "ksixrenine",
+			"location": "프린스턴 법대 (존재하지않음)",
+			"description": "당신과 내가 생각이 다른건 자연스러운 겁니다.욕사절.FUB free #PrayForSyria *가짜뉴스+비논리(논리적 답변못하니 깔거없나 플필뒤지며 이죽대는)에는 화냅니다.외국어배우는걸좋아합니다. 정치성향:회색이니 지지자분들 오해마3\nENG/日本語/中文/Tiếng Việt",
+			"url": "http://t.co/1HFp5EhG4p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1HFp5EhG4p",
+							"expanded_url": "http://blog.naver.com/cloudless0",
+							"display_url": "blog.naver.com/cloudless0",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2257,
+			"friends_count": 1678,
+			"listed_count": 39,
+			"created_at": "Sun Mar 28 14:08:11 +0000 2010",
+			"favourites_count": 1192,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 171557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/666468890088636416/VLKacp-h_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/666468890088636416/VLKacp-h_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/127226485/1367114946",
+			"profile_link_color": "0EE60E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미역국 먹다=시험에 불합격하다 라는 뜻으로 쓰인 이유가 흔히 '미역이 미끄러워 시험에 미끄러졌다'라고 아는데 사실은 원래 미역국 먹다=어떤 단체가 해산하다라는 뜻으로 쓰였고, 구한말 일제가 조선군대 해산解散하던 일을 은어로 해산解産에 빗대 말하던 것부터라고\nhttps://t.co/gul4IWTVKh"
+	},
+	{
 		"created_at": "Fri Jun 11 05:29:17 +0000 2021",
 		"id": 1402863927638192000,
 		"id_str": "1403222786089185282",
