@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 11 05:29:17 +0000 2021",
+		"id": 1402863927638192000,
+		"id_str": "1403222786089185282",
+		"full_text": "@MIll_0 @patriarchmoriya 엥 이준석은 메갈 아닙니까! https://t.co/H5a5ql3gqP",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MIll_0",
+					"name": "밀파크P🎗️",
+					"id": 150751035,
+					"id_str": "150751035",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "patriarchmoriya",
+					"name": "김천애",
+					"id": 1240544284039766000,
+					"id_str": "1240544284039766016",
+					"indices": [
+						8,
+						24
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1402863924509220900,
+					"id_str": "1402863924509220865",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/E3f5ToCVIAEvVlO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3f5ToCVIAEvVlO.jpg",
+					"url": "https://t.co/H5a5ql3gqP",
+					"display_url": "pic.twitter.com/H5a5ql3gqP",
+					"expanded_url": "https://twitter.com/hl970226/status/1402863927638192134/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 843,
+							"h": 405,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 327,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 843,
+							"h": 405,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402863924509220900,
+					"id_str": "1402863924509220865",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/E3f5ToCVIAEvVlO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3f5ToCVIAEvVlO.jpg",
+					"url": "https://t.co/H5a5ql3gqP",
+					"display_url": "pic.twitter.com/H5a5ql3gqP",
+					"expanded_url": "https://twitter.com/hl970226/status/1402863927638192134/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 843,
+							"h": 405,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 327,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 843,
+							"h": 405,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1402863489064992800,
+		"in_reply_to_status_id_str": "1402863489064992769",
+		"in_reply_to_user_id": 150751035,
+		"in_reply_to_user_id_str": "150751035",
+		"in_reply_to_screen_name": "MIll_0",
+		"user": {
+			"id": 2542714939,
+			"id_str": "2542714939",
+			"name": "(몬덴킨트KR) 道寭 고양잇과 쉬흘라P",
+			"screen_name": "hl970226",
+			"location": "상자",
+			"description": "如月千早P/XENOGLOSSIAがダイスキな虎/モンデンキントKR/비밀결사 문사철/유교힙스터/역덕 아님 삼덕 아님/부계 @DuxValentinus 유머계 @chihaya_judge 박제계 @shihla_bakje 빻취계 @shihla_grade",
+			"url": "https://t.co/7srt8kyVfS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7srt8kyVfS",
+							"expanded_url": "http://ask.fm/hl970226",
+							"display_url": "ask.fm/hl970226",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2693,
+			"friends_count": 1863,
+			"listed_count": 0,
+			"created_at": "Tue Jun 03 03:42:11 +0000 2014",
+			"favourites_count": 6026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 669994,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245341058650656768/GG1egRr6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245341058650656768/GG1egRr6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2542714939/1522588567",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@MIll_0 @patriarchmoriya 엥 이준석은 메갈 아닙니까! https://t.co/H5a5ql3gqP"
+	},
+	{
 		"created_at": "Fri Jun 11 04:41:17 +0000 2021",
 		"id": 1403210015226298400,
 		"id_str": "1403210707856814082",
