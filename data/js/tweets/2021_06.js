@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 12 21:46:44 +0000 2021",
+		"id": 1403831157242822700,
+		"id_str": "1403831157242822656",
+		"full_text": "PC가 최선은 아니라지만 정말 이런 주류영합적 사고 방식은 받아들이기 어렵네요. 이 정도로 퇴행하는 건 대체...\nhttps://t.co/AwbQoNk6r8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AwbQoNk6r8",
+					"expanded_url": "https://twitter.com/peach_nebula/status/1403571070469165060?s=19",
+					"display_url": "twitter.com/peach_nebula/s…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 97,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13985,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1403571070469165000,
+		"quoted_status_id_str": "1403571070469165060",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AwbQoNk6r8",
+			"expanded": "https://twitter.com/peach_nebula/status/1403571070469165060?s=19",
+			"display": "twitter.com/peach_nebula/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 12 04:33:14 +0000 2021",
+			"id": 1403571070469165000,
+			"id_str": "1403571070469165060",
+			"full_text": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ \"못생기면 pc야? 너도 pc야?\"ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/6x16HaXWwL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				136
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1403571067994603500,
+						"id_str": "1403571067994603524",
+						"indices": [
+							137,
+							160
+						],
+						"media_url": "http://pbs.twimg.com/media/E3p8cyzVgAQCRz4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E3p8cyzVgAQCRz4.jpg",
+						"url": "https://t.co/6x16HaXWwL",
+						"display_url": "pic.twitter.com/6x16HaXWwL",
+						"expanded_url": "https://twitter.com/peach_nebula/status/1403571070469165060/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 554,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 945,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1403571067994603500,
+						"id_str": "1403571067994603524",
+						"indices": [
+							137,
+							160
+						],
+						"media_url": "http://pbs.twimg.com/media/E3p8cyzVgAQCRz4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E3p8cyzVgAQCRz4.jpg",
+						"url": "https://t.co/6x16HaXWwL",
+						"display_url": "pic.twitter.com/6x16HaXWwL",
+						"expanded_url": "https://twitter.com/peach_nebula/status/1403571070469165060/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 554,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 314,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 945,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 135408735,
+				"id_str": "135408735",
+				"name": "박 모모🏖박 복숭아",
+				"screen_name": "peach_nebula",
+				"location": "",
+				"description": "어디에나 있는 꽃이지만 바람이 불어와도 지지 않아요 어디에서나 피는 꽃이지만 많은 비가 내려도 괜찮아요",
+				"url": "https://t.co/PEQsUxMqHB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PEQsUxMqHB",
+								"expanded_url": "https://select.ridibooks.com/article/channel/@princess",
+								"display_url": "select.ridibooks.com/article/channe…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 797,
+				"friends_count": 356,
+				"listed_count": 13,
+				"created_at": "Wed Apr 21 06:32:51 +0000 2010",
+				"favourites_count": 6005,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 172195,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1401504923569639429/zhFozWAr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1401504923569639429/zhFozWAr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/135408735/1623251967",
+				"profile_link_color": "C9A0DC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1719,
+			"favorite_count": 362,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "PC가 최선은 아니라지만 정말 이런 주류영합적 사고 방식은 받아들이기 어렵네요. 이 정도로 퇴행하는 건 대체...\nhttps://t.co/AwbQoNk6r8"
+	},
+	{
 		"created_at": "Sat Jun 12 20:45:30 +0000 2021",
 		"id": 1403815746291916800,
 		"id_str": "1403815746291916800",
