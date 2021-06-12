@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 12 07:26:36 +0000 2021",
+		"id": 1403381361633677300,
+		"id_str": "1403614698889572353",
+		"full_text": "예를 들어 부동산 잘오른다 싶었는데 적폐청산? 내 부동산? 내가 부동산 투자하는것도 적폐야? 나를 하우스푸어로 만들셈이냐고? 문재앙이 나라 망하게 하네!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1403381015179976700,
+		"in_reply_to_status_id_str": "1403381015179976704",
+		"in_reply_to_user_id": 81994673,
+		"in_reply_to_user_id_str": "81994673",
+		"in_reply_to_screen_name": "seventeeeeeenth",
+		"user": {
+			"id": 81994673,
+			"id_str": "81994673",
+			"name": "민주당지지자아니라고씨발놈들아(175번째하는이야기)",
+			"screen_name": "seventeeeeeenth",
+			"location": "",
+			"description": "LiVE dRUNK, dIE dREAMING",
+			"url": "https://t.co/tSGu9iCIMR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tSGu9iCIMR",
+							"expanded_url": "http://never.knows.best",
+							"display_url": "never.knows.best",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2803,
+			"friends_count": 1523,
+			"listed_count": 37,
+			"created_at": "Tue Oct 13 02:49:55 +0000 2009",
+			"favourites_count": 12498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 168085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1399061917629485060/AB-nh75Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1399061917629485060/AB-nh75Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/81994673/1619674278",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "예를 들어 부동산 잘오른다 싶었는데 적폐청산? 내 부동산? 내가 부동산 투자하는것도 적폐야? 나를 하우스푸어로 만들셈이냐고? 문재앙이 나라 망하게 하네!"
+	},
+	{
 		"created_at": "Sat Jun 12 05:01:56 +0000 2021",
 		"id": 1403578289646575600,
 		"id_str": "1403578289646575618",
