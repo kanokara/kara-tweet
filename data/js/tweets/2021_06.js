@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 13 13:06:28 +0000 2021",
+		"id": 1404062614536159200,
+		"id_str": "1404062614536159232",
+		"full_text": "저도 받으면 안 되는 상태에서 2급을 땄는데, 장롱면허인 채로 갱신되면서 1급이 됐어요 (...)\nhttps://t.co/bgJUM6z6Nb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bgJUM6z6Nb",
+					"expanded_url": "https://twitter.com/firemankss/status/1403953128131596296?s=19",
+					"display_url": "twitter.com/firemankss/sta…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 97,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1403953128131596300,
+		"quoted_status_id_str": "1403953128131596296",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bgJUM6z6Nb",
+			"expanded": "https://twitter.com/firemankss/status/1403953128131596296?s=19",
+			"display": "twitter.com/firemankss/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 13 05:51:24 +0000 2021",
+			"id": 1403953128131596300,
+			"id_str": "1403953128131596296",
+			"full_text": "그리고 그 결과물😑 https://t.co/iM0TNkLDjg https://t.co/epULKsA4fE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				34
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iM0TNkLDjg",
+						"expanded_url": "https://twitter.com/hibyeDCAPT/status/1403895691785560067",
+						"display_url": "twitter.com/hibyeDCAPT/sta…",
+						"indices": [
+							11,
+							34
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1403953126080585700,
+						"id_str": "1403953126080585730",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/E3vX7gFVIAIwp1U.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E3vX7gFVIAIwp1U.jpg",
+						"url": "https://t.co/epULKsA4fE",
+						"display_url": "pic.twitter.com/epULKsA4fE",
+						"expanded_url": "https://twitter.com/firemankss/status/1403953128131596296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1079,
+								"h": 833,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 525,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1079,
+								"h": 833,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1403953126080585700,
+						"id_str": "1403953126080585730",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/media/E3vX7gFVIAIwp1U.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E3vX7gFVIAIwp1U.jpg",
+						"url": "https://t.co/epULKsA4fE",
+						"display_url": "pic.twitter.com/epULKsA4fE",
+						"expanded_url": "https://twitter.com/firemankss/status/1403953128131596296/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1079,
+								"h": 833,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 525,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1079,
+								"h": 833,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1165472348587225000,
+				"id_str": "1165472348587225090",
+				"name": "사직동 수호신 상수🤏",
+				"screen_name": "firemankss",
+				"location": "안남 메트로폴리스",
+				"description": "진보는 관성을 끝없이 극복하는 것이다 /#BlackLivesMatter/#AlwaysProud/#IndependencePalestine/#김성수는_영화의_신이다/#설강화폐지/Foul is when Referee Whistles.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 95,
+				"friends_count": 152,
+				"listed_count": 1,
+				"created_at": "Sun Aug 25 03:54:11 +0000 2019",
+				"favourites_count": 1706,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 43821,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1377467123698606084/5p5wYkKS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377467123698606084/5p5wYkKS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1165472348587225090/1617248728",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1403895691785560000,
+			"quoted_status_id_str": "1403895691785560067",
+			"quoted_status_permalink": {
+				"url": "https://t.co/iM0TNkLDjg",
+				"expanded": "https://twitter.com/hibyeDCAPT/status/1403895691785560067",
+				"display": "twitter.com/hibyeDCAPT/sta…"
+			},
+			"retweet_count": 1285,
+			"favorite_count": 136,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저도 받으면 안 되는 상태에서 2급을 땄는데, 장롱면허인 채로 갱신되면서 1급이 됐어요 (...)\nhttps://t.co/bgJUM6z6Nb"
+	},
+	{
 		"created_at": "Sun Jun 13 09:18:10 +0000 2021",
 		"id": 1404005163166175200,
 		"id_str": "1404005163166175234",
