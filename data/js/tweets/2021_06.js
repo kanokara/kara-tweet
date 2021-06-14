@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 14 07:44:01 +0000 2021",
+		"id": 1404331357170512000,
+		"id_str": "1404343857563664388",
+		"full_text": "올해 상반기만 소설 3권의 표지 그림을 그렸는데요. 서점에서 눈에 확 뛴다 생각한 책이 제 그림이었다는 피드백을 여러번 받고 기쁜 마음.. 호호. 올해 한 10권쯤 표지 작업을 하고 싶다는 과감한 목표와 희망이 있습니다. 📚 (열일) https://t.co/DnWAJVe53T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1404331345686405000,
+					"id_str": "1404331345686405125",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/E30v6x6VoAUf_vE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E30v6x6VoAUf_vE.jpg",
+					"url": "https://t.co/DnWAJVe53T",
+					"display_url": "pic.twitter.com/DnWAJVe53T",
+					"expanded_url": "https://twitter.com/bonhkr/status/1404331357170511880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1404331345686405000,
+					"id_str": "1404331345686405125",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/E30v6x6VoAUf_vE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E30v6x6VoAUf_vE.jpg",
+					"url": "https://t.co/DnWAJVe53T",
+					"display_url": "pic.twitter.com/DnWAJVe53T",
+					"expanded_url": "https://twitter.com/bonhkr/status/1404331357170511880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1404331345686397000,
+					"id_str": "1404331345686396939",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/E30v6x6VgAsLhJW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E30v6x6VgAsLhJW.jpg",
+					"url": "https://t.co/DnWAJVe53T",
+					"display_url": "pic.twitter.com/DnWAJVe53T",
+					"expanded_url": "https://twitter.com/bonhkr/status/1404331357170511880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 122708475,
+			"id_str": "122708475",
+			"name": "봉현",
+			"screen_name": "bonhkr",
+			"location": "",
+			"description": "글 쓰고 그림 그립니다. 베개는 필요없어,네가 있으니까 / 나는 아주,예쁘게 웃었다 / 여백이 / 오늘 내가 마음에 든다 : 4권의 에세이를 냈습니다. / janeannnet@gmail.com",
+			"url": "https://t.co/ICkpPkueuT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ICkpPkueuT",
+							"expanded_url": "https://www.youtube.com/channel/UCm74qSXJ5vprbw-a7seKc9g",
+							"display_url": "youtube.com/channel/UCm74q…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16678,
+			"friends_count": 1036,
+			"listed_count": 109,
+			"created_at": "Sat Mar 13 16:26:31 +0000 2010",
+			"favourites_count": 7406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224042534332092416/xwRSLBXW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224042534332092416/xwRSLBXW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/122708475/1580669241",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "올해 상반기만 소설 3권의 표지 그림을 그렸는데요. 서점에서 눈에 확 뛴다 생각한 책이 제 그림이었다는 피드백을 여러번 받고 기쁜 마음.. 호호. 올해 한 10권쯤 표지 작업을 하고 싶다는 과감한 목표와 희망이 있습니다. 📚 (열일) https://t.co/DnWAJVe53T"
+	},
+	{
 		"created_at": "Mon Jun 14 06:07:48 +0000 2021",
 		"id": 1404227529649516500,
 		"id_str": "1404319641665605633",
