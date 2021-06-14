@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 14 03:37:17 +0000 2021",
+		"id": 1403934024339386400,
+		"id_str": "1404281765968048131",
+		"full_text": "이준석이 천안함에 공 들이는 이유가 있네. 일베, 펨코 등 수꼴 이남자 커뮤니티들 전부 천안함을 세월호에 비견하며 자가발전 돌리고 있는데 정작 천안함 유가족들은 그렇지 않음. 오히려 더 적대시. 이날 간담회도 기자들 불러서 불쾌함 표시한 뒤 비공개로 전환하려던 때 유가족 대표가 한 말. https://t.co/ayAWm7xXFx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1403933922241613800,
+					"id_str": "1403933922241613824",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1403933922241613824/pu/img/n-82iygPsICXLGNG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1403933922241613824/pu/img/n-82iygPsICXLGNG.jpg",
+					"url": "https://t.co/ayAWm7xXFx",
+					"display_url": "pic.twitter.com/ayAWm7xXFx",
+					"expanded_url": "https://twitter.com/sugarromma/status/1403934024339386382/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 592,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403933922241613800,
+					"id_str": "1403933922241613824",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1403933922241613824/pu/img/n-82iygPsICXLGNG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1403933922241613824/pu/img/n-82iygPsICXLGNG.jpg",
+					"url": "https://t.co/ayAWm7xXFx",
+					"display_url": "pic.twitter.com/ayAWm7xXFx",
+					"expanded_url": "https://twitter.com/sugarromma/status/1403934024339386382/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 592,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							80,
+							37
+						],
+						"duration_millis": 140027,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1403933922241613824/pu/vid/1280x592/xZ822BIdE4jnPXhA.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1403933922241613824/pu/pl/tis3kJ1EWxv38cpg.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1403933922241613824/pu/vid/778x360/H2Qldwz2PrR5VlSk.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1403933922241613824/pu/vid/582x270/vIYBovWdboYM0-N4.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1179550746154434600,
+			"id_str": "1179550746154434560",
+			"name": "월1000 애당눔",
+			"screen_name": "sugarromma",
+			"location": "쿠킹덤",
+			"description": "쿠킹덤을 일군 역군. 따뜻하면 녹아내림. 물은 어느 정도 참을 수 있음. 우유랑 상극!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2087,
+			"friends_count": 262,
+			"listed_count": 8,
+			"created_at": "Thu Oct 03 00:16:45 +0000 2019",
+			"favourites_count": 29299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1385283215015911424/8f1EDQOB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1385283215015911424/8f1EDQOB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1179550746154434560/1622724080",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2061,
+		"favorite_count": 823,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이준석이 천안함에 공 들이는 이유가 있네. 일베, 펨코 등 수꼴 이남자 커뮤니티들 전부 천안함을 세월호에 비견하며 자가발전 돌리고 있는데 정작 천안함 유가족들은 그렇지 않음. 오히려 더 적대시. 이날 간담회도 기자들 불러서 불쾌함 표시한 뒤 비공개로 전환하려던 때 유가족 대표가 한 말. https://t.co/ayAWm7xXFx"
+	},
+	{
 		"created_at": "Sun Jun 13 19:42:18 +0000 2021",
 		"id": 1404162229285490700,
 		"id_str": "1404162229285490690",
