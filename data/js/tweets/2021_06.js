@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 14 09:24:54 +0000 2021",
+		"id": 1404369245471875000,
+		"id_str": "1404369245471875076",
+		"full_text": "탐라 너머의 분이라서 몰랐는데 같은 분이었구나... 그런데 예전 계정이 더 친근한 건 어쩔 수 없네요 (...) https://t.co/UPJOt9MLCY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1404369140710658000,
+					"id_str": "1404369140710658048",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/E31SSvWUUAAlScE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E31SSvWUUAAlScE.jpg",
+					"url": "https://t.co/UPJOt9MLCY",
+					"display_url": "pic.twitter.com/UPJOt9MLCY",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1404369245471875076/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 447,
+							"h": 312,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 447,
+							"h": 312,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 447,
+							"h": 312,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1404369140710658000,
+					"id_str": "1404369140710658048",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/E31SSvWUUAAlScE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E31SSvWUUAAlScE.jpg",
+					"url": "https://t.co/UPJOt9MLCY",
+					"display_url": "pic.twitter.com/UPJOt9MLCY",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1404369245471875076/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 447,
+							"h": 312,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 447,
+							"h": 312,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 447,
+							"h": 312,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1404369153465585700,
+					"id_str": "1404369153465585670",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/E31STe3VEAYwmIJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E31STe3VEAYwmIJ.jpg",
+					"url": "https://t.co/UPJOt9MLCY",
+					"display_url": "pic.twitter.com/UPJOt9MLCY",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1404369245471875076/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 362,
+							"h": 342,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 362,
+							"h": 342,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 362,
+							"h": 342,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 97,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "탐라 너머의 분이라서 몰랐는데 같은 분이었구나... 그런데 예전 계정이 더 친근한 건 어쩔 수 없네요 (...) https://t.co/UPJOt9MLCY"
+	},
+	{
 		"created_at": "Mon Jun 14 07:44:01 +0000 2021",
 		"id": 1404331357170512000,
 		"id_str": "1404343857563664388",
