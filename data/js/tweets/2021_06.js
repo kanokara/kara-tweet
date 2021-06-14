@@ -1,6 +1,780 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 14 13:38:29 +0000 2021",
+		"id": 1403981238814134300,
+		"id_str": "1404433062260187137",
+		"full_text": "는 소리를 일상적으로 듣는 한국의 많은 서비스직 여성들 상황보다 나을지도 모른다는 생각을 하니 눈물이 앞을 가림... ㅠㅠ \n저런 비 현실감을 유지하는 것 자체가 저런 행동이 현실에서 통용되지 않음을 나타내주는 반증 아닐까. 실제로 메이드카페 손님도 바깥의 여자에겐 안그런다고 하쟈너...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1403980819480203300,
+		"in_reply_to_status_id_str": "1403980819480203265",
+		"in_reply_to_user_id": 1165815441861689300,
+		"in_reply_to_user_id_str": "1165815441861689346",
+		"in_reply_to_screen_name": "manakim87351974",
+		"user": {
+			"id": 1165815441861689300,
+			"id_str": "1165815441861689346",
+			"name": "mana kim",
+			"screen_name": "manakim87351974",
+			"location": "",
+			"description": "Baroque lolita fashion owner designer, live with 5 cats and 1 human",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 525,
+			"friends_count": 222,
+			"listed_count": 4,
+			"created_at": "Mon Aug 26 02:37:25 +0000 2019",
+			"favourites_count": 8563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1165816257112727553/te1e_z_U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1165816257112727553/te1e_z_U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1165815441861689346/1579188427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "는 소리를 일상적으로 듣는 한국의 많은 서비스직 여성들 상황보다 나을지도 모른다는 생각을 하니 눈물이 앞을 가림... ㅠㅠ \n저런 비 현실감을 유지하는 것 자체가 저런 행동이 현실에서 통용되지 않음을 나타내주는 반증 아닐까. 실제로 메이드카페 손님도 바깥의 여자에겐 안그런다고 하쟈너..."
+	},
+	{
+		"created_at": "Mon Jun 14 13:38:28 +0000 2021",
+		"id": 1403980819480203300,
+		"id_str": "1404433055305981953",
+		"full_text": "최소한의 보호장치이다. 저것 이외의 더 무언가를 요구받지 않을 수 있으니까(실제로 터치나 무리한 요구를 하면 쫓겨남) \n어찌보면 카페에서 단골손님메뉴 외워서 ㅁㅁ드릴까요? 라고 묻자 번호를 달라고 했다는 사연이나 매일같이 찾아와 커피마시더니 고백하고는 거절하자 왜 친절하게 구느냐",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1403980238321643500,
+		"in_reply_to_status_id_str": "1403980238321643522",
+		"in_reply_to_user_id": 1165815441861689300,
+		"in_reply_to_user_id_str": "1165815441861689346",
+		"in_reply_to_screen_name": "manakim87351974",
+		"user": {
+			"id": 1165815441861689300,
+			"id_str": "1165815441861689346",
+			"name": "mana kim",
+			"screen_name": "manakim87351974",
+			"location": "",
+			"description": "Baroque lolita fashion owner designer, live with 5 cats and 1 human",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 525,
+			"friends_count": 222,
+			"listed_count": 4,
+			"created_at": "Mon Aug 26 02:37:25 +0000 2019",
+			"favourites_count": 8563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1165816257112727553/te1e_z_U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1165816257112727553/te1e_z_U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1165815441861689346/1579188427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "최소한의 보호장치이다. 저것 이외의 더 무언가를 요구받지 않을 수 있으니까(실제로 터치나 무리한 요구를 하면 쫓겨남) \n어찌보면 카페에서 단골손님메뉴 외워서 ㅁㅁ드릴까요? 라고 묻자 번호를 달라고 했다는 사연이나 매일같이 찾아와 커피마시더니 고백하고는 거절하자 왜 친절하게 구느냐"
+	},
+	{
+		"created_at": "Mon Jun 14 13:38:26 +0000 2021",
+		"id": 1403980238321643500,
+		"id_str": "1404433046590267399",
+		"full_text": "같은 동양인 여성의 눈에서 저런 메이드의 서비스를 즐기는 남성을 흰눈으로 볼수는 있겠지만 왜 메이드카페에서 저런 정형화되어있는 행동들을 하는지는 조금 더 생각해 봐야 한다. 메이드 카페의 수요자가 있는 있는 이유는 수요자들의 수만큼 있겠지만 종사자들에게 저런 정형화된 시스템은 https://t.co/3bPgJI4y3g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3bPgJI4y3g",
+					"expanded_url": "https://twitter.com/SuR_RW/status/1403000473909547015",
+					"display_url": "twitter.com/SuR_RW/status/…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1165815441861689300,
+			"id_str": "1165815441861689346",
+			"name": "mana kim",
+			"screen_name": "manakim87351974",
+			"location": "",
+			"description": "Baroque lolita fashion owner designer, live with 5 cats and 1 human",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 525,
+			"friends_count": 222,
+			"listed_count": 4,
+			"created_at": "Mon Aug 26 02:37:25 +0000 2019",
+			"favourites_count": 8563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1165816257112727553/te1e_z_U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1165816257112727553/te1e_z_U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1165815441861689346/1579188427",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1403000473909547000,
+		"quoted_status_id_str": "1403000473909547015",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3bPgJI4y3g",
+			"expanded": "https://twitter.com/SuR_RW/status/1403000473909547015",
+			"display": "twitter.com/SuR_RW/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 10 14:45:54 +0000 2021",
+			"id": 1403000473909547000,
+			"id_str": "1403000473909547015",
+			"full_text": "최고의 체험담...\n\n* 이 클립의 영상은 Japan with Sue Perkins - Episode 2 https://t.co/8a82HDWFq8 에 수록되어 있습니다. https://t.co/cS7ERA3UiW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				95
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8a82HDWFq8",
+						"expanded_url": "https://www.bbc.co.uk/iplayer/episode/m0008scc/japan-with-sue-perkins-series-1-episode-2",
+						"display_url": "bbc.co.uk/iplayer/episod…",
+						"indices": [
+							59,
+							82
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1402999188095312000,
+						"id_str": "1402999188095311883",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1402999188095311883/pu/img/iYWAgzDTMi6DEaig.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1402999188095311883/pu/img/iYWAgzDTMi6DEaig.jpg",
+						"url": "https://t.co/cS7ERA3UiW",
+						"display_url": "pic.twitter.com/cS7ERA3UiW",
+						"expanded_url": "https://twitter.com/SuR_RW/status/1403000473909547015/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1402999188095312000,
+						"id_str": "1402999188095311883",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1402999188095311883/pu/img/iYWAgzDTMi6DEaig.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1402999188095311883/pu/img/iYWAgzDTMi6DEaig.jpg",
+						"url": "https://t.co/cS7ERA3UiW",
+						"display_url": "pic.twitter.com/cS7ERA3UiW",
+						"expanded_url": "https://twitter.com/SuR_RW/status/1403000473909547015/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 84752,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1402999188095311883/pu/vid/960x540/5DHrtr9DioU8CJZd.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1402999188095311883/pu/pl/nbMrZRQv1sRQa0NH.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1402999188095311883/pu/vid/640x360/Mx7vwSVB27oy6VNm.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1402999188095311883/pu/vid/480x270/KJ9APeV5NzW6543l.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1402997701344518100,
+			"in_reply_to_status_id_str": "1402997701344518158",
+			"in_reply_to_user_id": 191801643,
+			"in_reply_to_user_id_str": "191801643",
+			"in_reply_to_screen_name": "SuR_RW",
+			"user": {
+				"id": 191801643,
+				"id_str": "191801643",
+				"name": "슈르🍤😷🏳️‍🌈덕질계",
+				"screen_name": "SuR_RW",
+				"location": "ｼｭﾃﾙﾝﾋﾞﾙﾄとﾖｺﾊﾏの間の何処か",
+				"description": "잡덕이에요~!🦀\n혼잣말 멘션에는 대답하지 않습니다 / LGBTQ 혐오 발언이 보이면 차단합니다 / '초멘'을 뮤트해 두었습니다.\n20↑↑・日本語は少しなら読める方…だとは思いますが上手に操れないので目下勉強中です… ﾌｫﾛﾘﾑはお気軽にどうぞ!  (一応日本語垢はここ→ @SuR_JP)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4198,
+				"friends_count": 28,
+				"listed_count": 14,
+				"created_at": "Fri Sep 17 11:46:38 +0000 2010",
+				"favourites_count": 39542,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 65302,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1228498524251152384/G3FuNgcb_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228498524251152384/G3FuNgcb_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/191801643/1491796749",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8514,
+			"favorite_count": 3126,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 7,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "같은 동양인 여성의 눈에서 저런 메이드의 서비스를 즐기는 남성을 흰눈으로 볼수는 있겠지만 왜 메이드카페에서 저런 정형화되어있는 행동들을 하는지는 조금 더 생각해 봐야 한다. 메이드 카페의 수요자가 있는 있는 이유는 수요자들의 수만큼 있겠지만 종사자들에게 저런 정형화된 시스템은 https://t.co/3bPgJI4y3g"
+	},
+	{
+		"created_at": "Mon Jun 14 13:11:41 +0000 2021",
+		"id": 1401791254292156400,
+		"id_str": "1404426318381416455",
+		"full_text": "보통 약자들에게 약자다움을 증명하라고 하는데 그걸 증명하는 순간 대부분은 인간으로서의 무언가를 심하게 훼손당한다. 존엄성이든, 생명이든. https://t.co/cUVzX9Utpi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cUVzX9Utpi",
+					"expanded_url": "https://twitter.com/HANBINIZM/status/1401337544197824512",
+					"display_url": "twitter.com/HANBINIZM/stat…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 754558666058059800,
+			"id_str": "754558666058059780",
+			"name": "Commission🌸레이지빈 | 🚫DO NOT REPOST🚫",
+			"screen_name": "amibean_mdzs",
+			"location": "",
+			"description": "I:설우|성인|그림러|묵향장르,얼하,살파랑|상시 커미션|멘션스루 고의X",
+			"url": "https://t.co/AXdguUQDTY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AXdguUQDTY",
+							"expanded_url": "https://peing.net/ko/amibean12",
+							"display_url": "peing.net/ko/amibean12",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7777,
+			"friends_count": 166,
+			"listed_count": 43,
+			"created_at": "Sun Jul 17 06:09:39 +0000 2016",
+			"favourites_count": 2696,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1328,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1385640348840460290/tOeT1YDx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1385640348840460290/tOeT1YDx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/754558666058059780/1619197378",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1401337544197824500,
+		"quoted_status_id_str": "1401337544197824512",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cUVzX9Utpi",
+			"expanded": "https://twitter.com/HANBINIZM/status/1401337544197824512",
+			"display": "twitter.com/HANBINIZM/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 06 00:38:00 +0000 2021",
+			"id": 1401337544197824500,
+			"id_str": "1401337544197824512",
+			"full_text": "이 세상의 진짜 약자는 자신이 약자라고 주장할 힘조차 없고, 진짜 강자는 자신이 약자라고 세상을 기만할 수 있는 힘마저 갖고 있다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				73
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 139679652,
+				"id_str": "139679652",
+				"name": "THE HANBIN 💉",
+				"screen_name": "HANBINIZM",
+				"location": "",
+				"description": "인생은 살기 어렵다는데 트윗이 이렇게 쉽게 쓰여지는 것은 부끄러운 일이다.",
+				"url": "https://t.co/WANeE7wBIz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WANeE7wBIz",
+								"expanded_url": "https://hanbinizm.tistory.com/",
+								"display_url": "hanbinizm.tistory.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3365,
+				"friends_count": 455,
+				"listed_count": 32,
+				"created_at": "Mon May 03 10:35:31 +0000 2010",
+				"favourites_count": 28211,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 142740,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1220343309559717888/FzBTGM4Y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220343309559717888/FzBTGM4Y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/139679652/1620871488",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3483,
+			"favorite_count": 2185,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 8,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보통 약자들에게 약자다움을 증명하라고 하는데 그걸 증명하는 순간 대부분은 인간으로서의 무언가를 심하게 훼손당한다. 존엄성이든, 생명이든. https://t.co/cUVzX9Utpi"
+	},
+	{
+		"created_at": "Mon Jun 14 13:11:08 +0000 2021",
+		"id": 1401337544197824500,
+		"id_str": "1404426178035732484",
+		"full_text": "이 세상의 진짜 약자는 자신이 약자라고 주장할 힘조차 없고, 진짜 강자는 자신이 약자라고 세상을 기만할 수 있는 힘마저 갖고 있다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 139679652,
+			"id_str": "139679652",
+			"name": "THE HANBIN 💉",
+			"screen_name": "HANBINIZM",
+			"location": "",
+			"description": "인생은 살기 어렵다는데 트윗이 이렇게 쉽게 쓰여지는 것은 부끄러운 일이다.",
+			"url": "https://t.co/WANeE7wBIz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WANeE7wBIz",
+							"expanded_url": "https://hanbinizm.tistory.com/",
+							"display_url": "hanbinizm.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3365,
+			"friends_count": 455,
+			"listed_count": 32,
+			"created_at": "Mon May 03 10:35:31 +0000 2010",
+			"favourites_count": 28211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 142740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220343309559717888/FzBTGM4Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220343309559717888/FzBTGM4Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/139679652/1620871488",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3483,
+		"favorite_count": 2185,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이 세상의 진짜 약자는 자신이 약자라고 주장할 힘조차 없고, 진짜 강자는 자신이 약자라고 세상을 기만할 수 있는 힘마저 갖고 있다."
+	},
+	{
 		"created_at": "Mon Jun 14 13:10:52 +0000 2021",
 		"id": 1404412418365612000,
 		"id_str": "1404426112243965953",
