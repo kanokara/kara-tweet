@@ -1,6 +1,680 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 15 16:54:39 +0000 2021",
+		"id": 1404844816517648400,
+		"id_str": "1404844816517648386",
+		"full_text": "동아일보 1958년\nhttps://t.co/NsW5ilQ2J7 https://t.co/4ynROMobXs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NsW5ilQ2J7",
+					"expanded_url": "https://newslibrary.naver.com/viewer/index.nhn?articleId=1958092400209104001&editNo=1&printCount=1&publishDate=1958-09-24&officeId=00020&pageNo=4&printNo=11129&publishType=00010",
+					"display_url": "newslibrary.naver.com/viewer/index.n…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1404844675031126000,
+					"id_str": "1404844675031126018",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/E38CyevUUAIwCOS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E38CyevUUAIwCOS.jpg",
+					"url": "https://t.co/4ynROMobXs",
+					"display_url": "pic.twitter.com/4ynROMobXs",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1404844816517648386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 545,
+							"h": 275,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 545,
+							"h": 275,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 545,
+							"h": 275,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1404844675031126000,
+					"id_str": "1404844675031126018",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/E38CyevUUAIwCOS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E38CyevUUAIwCOS.jpg",
+					"url": "https://t.co/4ynROMobXs",
+					"display_url": "pic.twitter.com/4ynROMobXs",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1404844816517648386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 545,
+							"h": 275,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 545,
+							"h": 275,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 545,
+							"h": 275,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1404844687035224000,
+					"id_str": "1404844687035224065",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/E38CzLdUUAEynu3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E38CzLdUUAEynu3.jpg",
+					"url": "https://t.co/4ynROMobXs",
+					"display_url": "pic.twitter.com/4ynROMobXs",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1404844816517648386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 537,
+							"h": 381,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 537,
+							"h": 381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 537,
+							"h": 381,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1404843502752592000,
+		"in_reply_to_status_id_str": "1404843502752591874",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 97,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "동아일보 1958년\nhttps://t.co/NsW5ilQ2J7 https://t.co/4ynROMobXs"
+	},
+	{
+		"created_at": "Tue Jun 15 16:49:26 +0000 2021",
+		"id": 1404843502752592000,
+		"id_str": "1404843502752591874",
+		"full_text": "https://t.co/REB7s9Kp1U\n\n(참고: 원문에는 '위선'이란 단어가 쓰이지 않음.)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/REB7s9Kp1U",
+					"expanded_url": "http://sillok.history.go.kr/id/kna_10811028_002#footnote_view1",
+					"display_url": "sillok.history.go.kr/id/kna_1081102…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1404843374356537300,
+		"in_reply_to_status_id_str": "1404843374356537347",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 97,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/REB7s9Kp1U\n\n(참고: 원문에는 '위선'이란 단어가 쓰이지 않음.)"
+	},
+	{
+		"created_at": "Tue Jun 15 16:48:55 +0000 2021",
+		"id": 1404843374356537300,
+		"id_str": "1404843374356537347",
+		"full_text": "\"지금 세상사람들은 방자한 마음으로 악을 하는 자를 진실에 힘쓴다고 하여 심히 배척하지 않으면서 선을 하는 사람을 보고는 반드시 위선이라고 의심하여, 명예 좋아하는 사람을 미워하고 이익 좋아하는 사람을 미워하지 않습니다. 그러므로 정언지의 말은 세속의 폐단을 바로잡기 위한 것입니다.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1404843047750279200,
+		"in_reply_to_status_id_str": "1404843047750279174",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 97,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "\"지금 세상사람들은 방자한 마음으로 악을 하는 자를 진실에 힘쓴다고 하여 심히 배척하지 않으면서 선을 하는 사람을 보고는 반드시 위선이라고 의심하여, 명예 좋아하는 사람을 미워하고 이익 좋아하는 사람을 미워하지 않습니다. 그러므로 정언지의 말은 세속의 폐단을 바로잡기 위한 것입니다.\""
+	},
+	{
+		"created_at": "Tue Jun 15 16:47:37 +0000 2021",
+		"id": 1404843047750279200,
+		"id_str": "1404843047750279174",
+		"full_text": "\"아무리 작은 허물이라도 찾아내려 하고, 위선(僞善)이라 지목하기도 하였습니다. 그리하여 선을 하는 사람으로 하여금 행적을 감추고 옮겨다니면서 학문한다는 이름을 피하게 하였으니, 이것이 후세의 큰 병폐입니다.\" (이이, 선조실록, 1575년.)\nhttps://t.co/xGKnLaYELI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xGKnLaYELI",
+					"expanded_url": "http://sillok.history.go.kr/id/knb_10810001_004",
+					"display_url": "sillok.history.go.kr/id/knb_1081000…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 97,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"아무리 작은 허물이라도 찾아내려 하고, 위선(僞善)이라 지목하기도 하였습니다. 그리하여 선을 하는 사람으로 하여금 행적을 감추고 옮겨다니면서 학문한다는 이름을 피하게 하였으니, 이것이 후세의 큰 병폐입니다.\" (이이, 선조실록, 1575년.)\nhttps://t.co/xGKnLaYELI"
+	},
+	{
+		"created_at": "Tue Jun 15 16:35:12 +0000 2021",
+		"id": 1404839231827058700,
+		"id_str": "1404839921479688197",
+		"full_text": "개인 품행의 평가와 사회 규범의 평가는 다른 영역이니까요. 위선은 적어도 무엇이 미덕인지 사회적 공통인식하에 그 규율이 재확인되는 기능적 작용이지만, 위악은 언행의 형식적 일치만 있다면 악덕의 추구도 좋게 평가되는 가치의 전도가 일어나 문명의 토대를 위협하죠.\nhttps://t.co/sjgbEgFUYv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sjgbEgFUYv",
+					"expanded_url": "https://twitter.com/NyaNyaNyangC/status/1404765836234027015",
+					"display_url": "twitter.com/NyaNyaNyangC/s…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9,
+			"friends_count": 33,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 612,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1404765836234027000,
+		"quoted_status_id_str": "1404765836234027015",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sjgbEgFUYv",
+			"expanded": "https://twitter.com/NyaNyaNyangC/status/1404765836234027015",
+			"display": "twitter.com/NyaNyaNyangC/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 15 11:40:49 +0000 2021",
+			"id": 1404765836234027000,
+			"id_str": "1404765836234027015",
+			"full_text": "위선도 선이야 어쩌고는 뭐 좀 바른 짓좀 하려면 위선이라고 떠들어대는 축생들 때문에 빡쳐서 하는 말이지 사실 정보값이 없는 말이다. 선이냐 아니냐는 행위의 상세가 결정짓는 것인데 위선이란 개념에 말하는 사람의 주관 외에 무슨 정보가 있는지.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				134
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3235646006,
+				"id_str": "3235646006",
+				"name": "그냥냥씨@웹생재활중",
+				"screen_name": "NyaNyaNyangC",
+				"location": "오타쿠웨이",
+				"description": "나는 능히 할 수가 없다. 능이버섯이다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1513,
+				"friends_count": 885,
+				"listed_count": 19,
+				"created_at": "Thu Jun 04 03:14:06 +0000 2015",
+				"favourites_count": 6278,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 81226,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1265116222288359424/MlolO4dN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265116222288359424/MlolO4dN_normal.jpg",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "개인 품행의 평가와 사회 규범의 평가는 다른 영역이니까요. 위선은 적어도 무엇이 미덕인지 사회적 공통인식하에 그 규율이 재확인되는 기능적 작용이지만, 위악은 언행의 형식적 일치만 있다면 악덕의 추구도 좋게 평가되는 가치의 전도가 일어나 문명의 토대를 위협하죠.\nhttps://t.co/sjgbEgFUYv"
+	},
+	{
 		"created_at": "Tue Jun 15 13:49:51 +0000 2021",
 		"id": 1404701702121398300,
 		"id_str": "1404798308418261000",
