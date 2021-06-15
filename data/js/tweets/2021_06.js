@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 15 13:49:51 +0000 2021",
+		"id": 1404701702121398300,
+		"id_str": "1404798308418261000",
+		"full_text": "@외장하드 같아요 https://t.co/ZoPBQ6xBMv https://t.co/CJsnwVkaZu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZoPBQ6xBMv",
+					"expanded_url": "https://twitter.com/im623_/status/1404700460729077763",
+					"display_url": "twitter.com/im623_/status/…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1404701700158464000,
+					"id_str": "1404701700158464000",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/E36AwP1VIAAoE6B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E36AwP1VIAAoE6B.jpg",
+					"url": "https://t.co/CJsnwVkaZu",
+					"display_url": "pic.twitter.com/CJsnwVkaZu",
+					"expanded_url": "https://twitter.com/im623_/status/1404701702121398274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 390,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 390,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 390,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1404701700158464000,
+					"id_str": "1404701700158464000",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/E36AwP1VIAAoE6B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E36AwP1VIAAoE6B.jpg",
+					"url": "https://t.co/CJsnwVkaZu",
+					"display_url": "pic.twitter.com/CJsnwVkaZu",
+					"expanded_url": "https://twitter.com/im623_/status/1404701702121398274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 390,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 390,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 390,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288430598793490400,
+			"id_str": "1288430598793490438",
+			"name": "사족보행 레몬샌드",
+			"screen_name": "im623_",
+			"location": "",
+			"description": "미블씀 쫌이라도 알티 돌면 트윗뮤트함 직멘부탁",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 115,
+			"friends_count": 115,
+			"listed_count": 0,
+			"created_at": "Wed Jul 29 11:06:14 +0000 2020",
+			"favourites_count": 11876,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397909249343164418/ZCM7OVyS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397909249343164418/ZCM7OVyS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288430598793490438/1623293860",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1404700460729077800,
+		"quoted_status_id_str": "1404700460729077763",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZoPBQ6xBMv",
+			"expanded": "https://twitter.com/im623_/status/1404700460729077763",
+			"display": "twitter.com/im623_/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 15 07:21:02 +0000 2021",
+			"id": 1404700460729077800,
+			"id_str": "1404700460729077763",
+			"full_text": "가끔...\n예시를 들면 가격이 두상이 3.0인데 전신이 4.5라고 적혀잇는 경우는 가격 측정이 어케된건지 조금 갸웃됨\n전신...왤케저렴해 두상의 3/2라는 점이",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				89
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1288430598793490400,
+				"id_str": "1288430598793490438",
+				"name": "사족보행 레몬샌드",
+				"screen_name": "im623_",
+				"location": "",
+				"description": "미블씀 쫌이라도 알티 돌면 트윗뮤트함 직멘부탁",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 115,
+				"friends_count": 115,
+				"listed_count": 0,
+				"created_at": "Wed Jul 29 11:06:14 +0000 2020",
+				"favourites_count": 11876,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 85825,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1397909249343164418/ZCM7OVyS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397909249343164418/ZCM7OVyS_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288430598793490438/1623293860",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2344,
+		"favorite_count": 290,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@외장하드 같아요 https://t.co/ZoPBQ6xBMv https://t.co/CJsnwVkaZu"
+	},
+	{
 		"created_at": "Tue Jun 15 05:07:27 +0000 2021",
 		"id": 1404543000731021300,
 		"id_str": "1404666844561043458",
