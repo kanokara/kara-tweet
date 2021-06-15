@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 15 05:07:27 +0000 2021",
+		"id": 1404543000731021300,
+		"id_str": "1404666844561043458",
+		"full_text": "다들 제 공포소설론에 동의해주니 흐뭇하네요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1627227828,
+			"id_str": "1627227828",
+			"name": "위래🌹☂️",
+			"screen_name": "N91211",
+			"location": "n91211.postype.com",
+			"description": "단편 「미궁에는 괴물이」가 2010년 10월 네이버 ‘오늘의 문학’란 게재 되어 첫 고료를 받았다. 이후 여러 지면에 장르소설 단편을 썼고, 웹소설 『마왕이 너무 많다』를 11권으로 문피아에서 완결했다. 현재 문피아에서 『슬기로운 문명생활』을 연재중이다.",
+			"url": "https://t.co/OfoZqj1u83",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OfoZqj1u83",
+							"expanded_url": "https://britg.kr/user/wirae",
+							"display_url": "britg.kr/user/wirae",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2299,
+			"friends_count": 922,
+			"listed_count": 22,
+			"created_at": "Sun Jul 28 06:48:52 +0000 2013",
+			"favourites_count": 247818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 169900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250807726638198785/U2TPPNJn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250807726638198785/U2TPPNJn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1627227828/1585831639",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "다들 제 공포소설론에 동의해주니 흐뭇하네요."
+	},
+	{
+		"created_at": "Tue Jun 15 05:07:12 +0000 2021",
+		"id": 1297049518504964000,
+		"id_str": "1404666780878970882",
+		"full_text": "때문에 호러는 윤리에 대한 장르이다. https://t.co/4TOx7QUzCH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4TOx7QUzCH",
+					"expanded_url": "https://twitter.com/shinhogoesreal/status/1296997134797950976",
+					"display_url": "twitter.com/shinhogoesreal…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1627227828,
+			"id_str": "1627227828",
+			"name": "위래🌹☂️",
+			"screen_name": "N91211",
+			"location": "n91211.postype.com",
+			"description": "단편 「미궁에는 괴물이」가 2010년 10월 네이버 ‘오늘의 문학’란 게재 되어 첫 고료를 받았다. 이후 여러 지면에 장르소설 단편을 썼고, 웹소설 『마왕이 너무 많다』를 11권으로 문피아에서 완결했다. 현재 문피아에서 『슬기로운 문명생활』을 연재중이다.",
+			"url": "https://t.co/OfoZqj1u83",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OfoZqj1u83",
+							"expanded_url": "https://britg.kr/user/wirae",
+							"display_url": "britg.kr/user/wirae",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2299,
+			"friends_count": 922,
+			"listed_count": 22,
+			"created_at": "Sun Jul 28 06:48:52 +0000 2013",
+			"favourites_count": 247818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 169900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250807726638198785/U2TPPNJn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250807726638198785/U2TPPNJn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1627227828/1585831639",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1296997134797951000,
+		"quoted_status_id_str": "1296997134797950976",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4TOx7QUzCH",
+			"expanded": "https://twitter.com/shinhogoesreal/status/1296997134797950976",
+			"display": "twitter.com/shinhogoesreal…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 22 02:26:28 +0000 2020",
+			"id": 1296997134797951000,
+			"id_str": "1296997134797950976",
+			"full_text": "뭐야 누가 또 이상한 트윗을 올렸길래....\n전 자주 하는 말이지만 공포라는 장르 자체가 90퍼는 비정상성에 대한 혐오로 이루어져있다고 생각을 합니다\n비단 정신병&amp;병원에 대한 공포소재만 이런 것이 아님",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				116
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 44582489,
+				"id_str": "44582489",
+				"name": "(반쯤빈집) 역4 엄마백합 먹을 사람 구하는 신호",
+				"screen_name": "shinhogoesreal",
+				"location": "마스토돈",
+				"description": "트위터 기능을 조금씩 정지시키고 있습니다. 비팔알림 OFF. 마스토돈으로 이주중.",
+				"url": "https://t.co/RXcK0DAmSp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RXcK0DAmSp",
+								"expanded_url": "https://qdon.space/@shinhogoesreal",
+								"display_url": "qdon.space/@shinhogoesreal",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 904,
+				"friends_count": 711,
+				"listed_count": 13,
+				"created_at": "Thu Jun 04 09:37:22 +0000 2009",
+				"favourites_count": 31013,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 227405,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1403760752075235331/DRtmfBMy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403760752075235331/DRtmfBMy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/44582489/1611223092",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 686,
+			"favorite_count": 337,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 6433,
+		"favorite_count": 1758,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "때문에 호러는 윤리에 대한 장르이다. https://t.co/4TOx7QUzCH"
+	},
+	{
 		"created_at": "Mon Jun 14 15:47:15 +0000 2021",
 		"id": 1404465466182045700,
 		"id_str": "1404465466182045705",
