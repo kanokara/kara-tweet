@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 16 15:31:03 +0000 2021",
+		"id": 1405180821170835500,
+		"id_str": "1405186166874206209",
+		"full_text": "어젯밤에 적은 타래를 보강해: 투자자들의 세계관에 대해 썼습니다. 꽤 길고 자세하며 정치적으로는 전혀 올바르지 않은 글입니다. 하지만 재미는 있을 거라고 생각합니다.\n\nhttps://t.co/Rc18orTM7Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Rc18orTM7Y",
+					"expanded_url": "https://fruitwangler.postype.com/post/10081228",
+					"display_url": "fruitwangler.postype.com/post/10081228",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1323846128136196000,
+			"id_str": "1323846128136196096",
+			"name": "FruitWangler",
+			"screen_name": "FruitWangler",
+			"location": "안남시",
+			"description": "Not Furtwängler, FruitWangler\nMen have been so mad as to believe that God is pleased by harmony",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 459,
+			"friends_count": 87,
+			"listed_count": 6,
+			"created_at": "Wed Nov 04 04:34:52 +0000 2020",
+			"favourites_count": 380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388448819071766528/Yx5nmILG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388448819071766528/Yx5nmILG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1323846128136196096/1619866957",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어젯밤에 적은 타래를 보강해: 투자자들의 세계관에 대해 썼습니다. 꽤 길고 자세하며 정치적으로는 전혀 올바르지 않은 글입니다. 하지만 재미는 있을 거라고 생각합니다.\n\nhttps://t.co/Rc18orTM7Y"
+	},
+	{
 		"created_at": "Wed Jun 16 05:43:54 +0000 2021",
 		"id": 1405037003805134800,
 		"id_str": "1405038402127339520",
