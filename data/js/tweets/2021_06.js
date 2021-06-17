@@ -1,6 +1,645 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 17 15:58:38 +0000 2021",
+		"id": 1351377029053128700,
+		"id_str": "1405555492814946311",
+		"full_text": "쿠팡 물류센터는\n직원대우가 좀그지같고\n무기계약 드럽게 전환안시켜주고\n2년 안넘길려고 1년 11개월 29일 계약하는 회사지만\n돈잘주고 밥잘주고 4대보험잘들어주는 곳이라\n딱 단기알바하기좋은곳...\n계약직되면 시급 오르고 명절선물주지만 그거말곤 메리트를 못느낌...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 506867282,
+			"id_str": "506867282",
+			"name": "🅼︎🅸︎🅻︎🅺︎🆈︎ 🅸︎🅲︎🅴︎ 🅱︎🅴︎🅰︎🆁︎",
+			"screen_name": "milky_ice_bear",
+			"location": "5-38 Melon Road, Lime Beach, Greenesia",
+			"description": "피 곤 해",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21,
+			"friends_count": 65,
+			"listed_count": 2,
+			"created_at": "Tue Feb 28 04:19:52 +0000 2012",
+			"favourites_count": 368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9819,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356632956316487680/W2kTH542_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356632956316487680/W2kTH542_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/506867282/1619099510",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "쿠팡 물류센터는\n직원대우가 좀그지같고\n무기계약 드럽게 전환안시켜주고\n2년 안넘길려고 1년 11개월 29일 계약하는 회사지만\n돈잘주고 밥잘주고 4대보험잘들어주는 곳이라\n딱 단기알바하기좋은곳...\n계약직되면 시급 오르고 명절선물주지만 그거말곤 메리트를 못느낌..."
+	},
+	{
+		"created_at": "Thu Jun 17 15:58:11 +0000 2021",
+		"id": 1365701288638308400,
+		"id_str": "1405555382177583104",
+		"full_text": "택배물류센터 현장에는 돈 때문에 4대보험 안내는사람, 현금지급/투잡/불체/미성년자등의 이유로 기록없이 현금지급만 받아가는 사람 등등등 이 있습니다..(쿠팡은 직고용이라 아마 미등록은없긴 할 것임..) https://t.co/JwxAxDHCVY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JwxAxDHCVY",
+					"expanded_url": "https://twitter.com/mul_doe/status/1365690574376853504",
+					"display_url": "twitter.com/mul_doe/status…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1593357210,
+			"id_str": "1593357210",
+			"name": "TigA [티가]",
+			"screen_name": "TigA_LOL",
+			"location": "",
+			"description": "성인 여성/백합/데레마스/우마무스메(말딸 단어 씀) 🚢🍟 좌우상대고정/ 비팔로알림off FUB free 무멘션=구독팔  헤더 nagyagyagya님 커미션 프사 래팝 RaPOP2340님 커미션 비팔로우 알람 꺼놓음 용무는 디엠",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 320,
+			"friends_count": 825,
+			"listed_count": 8,
+			"created_at": "Sun Jul 14 13:26:04 +0000 2013",
+			"favourites_count": 54496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 221912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350911807704109056/3djx9aO2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350911807704109056/3djx9aO2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1593357210/1576082102",
+			"profile_link_color": "D8E2EB",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1365690574376853500,
+		"quoted_status_id_str": "1365690574376853504",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JwxAxDHCVY",
+			"expanded": "https://twitter.com/mul_doe/status/1365690574376853504",
+			"display": "twitter.com/mul_doe/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 27 15:49:40 +0000 2021",
+			"id": 1365690574376853500,
+			"id_str": "1365690574376853504",
+			"full_text": "솔직히 쿠팡이 너무 많다기 보단 다른 업체가 심할 정도로 수치 줄였다는 생각이 먼저 든다 https://t.co/jKWnhngr4X",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				49
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jKWnhngr4X",
+						"expanded_url": "https://twitter.com/anzinne/status/1365680650527723526",
+						"display_url": "twitter.com/anzinne/status…",
+						"indices": [
+							50,
+							73
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2573222966,
+				"id_str": "2573222966",
+				"name": "물도",
+				"screen_name": "mul_doe",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2469,
+				"friends_count": 169,
+				"listed_count": 17,
+				"created_at": "Tue Jun 17 16:49:07 +0000 2014",
+				"favourites_count": 4772,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 111730,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1305679844882001920/gePd_9Ir_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305679844882001920/gePd_9Ir_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2573222966/1600133154",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1365680650527723500,
+			"quoted_status_id_str": "1365680650527723526",
+			"quoted_status_permalink": {
+				"url": "https://t.co/jKWnhngr4X",
+				"expanded": "https://twitter.com/anzinne/status/1365680650527723526",
+				"display": "twitter.com/anzinne/status…"
+			},
+			"retweet_count": 1872,
+			"favorite_count": 480,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 14,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "택배물류센터 현장에는 돈 때문에 4대보험 안내는사람, 현금지급/투잡/불체/미성년자등의 이유로 기록없이 현금지급만 받아가는 사람 등등등 이 있습니다..(쿠팡은 직고용이라 아마 미등록은없긴 할 것임..) https://t.co/JwxAxDHCVY"
+	},
+	{
+		"created_at": "Thu Jun 17 15:27:51 +0000 2021",
+		"id": 1405547749068529700,
+		"id_str": "1405547749068529668",
+		"full_text": "왜 아직도 파쇄 직전 알람 서비스 같은 게 도입 안 됐나 모르겠어요. D-30 같은 식으로 메시지가 가면 잠재수요가 폭발할 텐데.\nhttps://t.co/hWdV8I47EA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hWdV8I47EA",
+					"expanded_url": "https://twitter.com/piorezero/status/1405423929229856768?s=19",
+					"display_url": "twitter.com/piorezero/stat…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 97,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3828,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1405423929229856800,
+		"quoted_status_id_str": "1405423929229856768",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hWdV8I47EA",
+			"expanded": "https://twitter.com/piorezero/status/1405423929229856768?s=19",
+			"display": "twitter.com/piorezero/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 17 07:15:50 +0000 2021",
+			"id": 1405423929229856800,
+			"id_str": "1405423929229856768",
+			"full_text": "도정제 전이었다면 할인이라도 때려서 파쇄비용은 절감했겠죠. https://t.co/h3MN1mssvd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				32
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1405423892877889500,
+						"id_str": "1405423892877889539",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/E4ERlZXVUAMRDL-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4ERlZXVUAMRDL-.jpg",
+						"url": "https://t.co/h3MN1mssvd",
+						"display_url": "pic.twitter.com/h3MN1mssvd",
+						"expanded_url": "https://twitter.com/piorezero/status/1405423929229856768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 420,
+								"h": 711,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 420,
+								"h": 711,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 402,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1405423892877889500,
+						"id_str": "1405423892877889539",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/E4ERlZXVUAMRDL-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4ERlZXVUAMRDL-.jpg",
+						"url": "https://t.co/h3MN1mssvd",
+						"display_url": "pic.twitter.com/h3MN1mssvd",
+						"expanded_url": "https://twitter.com/piorezero/status/1405423929229856768/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 420,
+								"h": 711,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 420,
+								"h": 711,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 402,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 150068970,
+				"id_str": "150068970",
+				"name": "피오레",
+				"screen_name": "piorezero",
+				"location": "",
+				"description": "카페인은 약간의 부작용이 있지만 매우 많은 문제를 해결하는데 큰 도움을 줍니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2608,
+				"friends_count": 1509,
+				"listed_count": 0,
+				"created_at": "Mon May 31 00:44:00 +0000 2010",
+				"favourites_count": 71819,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 46888,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1396031199374569473/ctZToLbh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1396031199374569473/ctZToLbh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/150068970/1609809570",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 66,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "왜 아직도 파쇄 직전 알람 서비스 같은 게 도입 안 됐나 모르겠어요. D-30 같은 식으로 메시지가 가면 잠재수요가 폭발할 텐데.\nhttps://t.co/hWdV8I47EA"
+	},
+	{
+		"created_at": "Thu Jun 17 15:21:50 +0000 2021",
+		"id": 1405523105422798800,
+		"id_str": "1405546232320192515",
+		"full_text": "쿠팡 김범석 \"모든 직위 사임\"..중대재해 처벌 피하려고? \nhttps://t.co/XBUyWln2EH \n\n그러니까 지금 쿠팡이 하는 꼬라지라는게\n회사 본체는 있는데 하는 일은 전부 외주고\n죄다 '개인사업자' '쿠리어'데려다 노동자는 아니지만 어디선가 뿅하고 나타나고\n심지어 사장도 누군지 모른다는거 아녀 ㅋ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XBUyWln2EH",
+					"expanded_url": "https://news.v.daum.net/v/20210617202213874",
+					"display_url": "news.v.daum.net/v/202106172022…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150878657,
+			"id_str": "150878657",
+			"name": "마이너스의 손",
+			"screen_name": "Dangerplanet",
+			"location": "",
+			"description": "등급외 제품입니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2143,
+			"friends_count": 1724,
+			"listed_count": 29,
+			"created_at": "Wed Jun 02 01:56:18 +0000 2010",
+			"favourites_count": 117798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 281958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000285967449/e3f657864e119774038f862e4389d05a_normal.png",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "쿠팡 김범석 \"모든 직위 사임\"..중대재해 처벌 피하려고? \nhttps://t.co/XBUyWln2EH \n\n그러니까 지금 쿠팡이 하는 꼬라지라는게\n회사 본체는 있는데 하는 일은 전부 외주고\n죄다 '개인사업자' '쿠리어'데려다 노동자는 아니지만 어디선가 뿅하고 나타나고\n심지어 사장도 누군지 모른다는거 아녀 ㅋ"
+	},
+	{
 		"created_at": "Thu Jun 17 14:09:51 +0000 2021",
 		"id": 1405528117565821000,
 		"id_str": "1405528117565820932",
