@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 17 08:54:24 +0000 2021",
+		"id": 1405407824939786200,
+		"id_str": "1405448733567766529",
+		"full_text": "단국대-청운대 컨소시엄 사이트에서는 베트남어, 몽골어, 아랍어, 포르투갈어 초급 교재 pdf 및 음성 파일을 무료로 제공하고 있다. https://t.co/nLAIhtR6tM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nLAIhtR6tM",
+					"expanded_url": "http://cfl.dankook.ac.kr/bbs/board.php?bo_table=business03",
+					"display_url": "cfl.dankook.ac.kr/bbs/board.php?…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1405325177420927000,
+		"in_reply_to_status_id_str": "1405325177420926984",
+		"in_reply_to_user_id": 758910740690448400,
+		"in_reply_to_user_id_str": "758910740690448389",
+		"in_reply_to_screen_name": "jaspachates",
+		"user": {
+			"id": 758910740690448400,
+			"id_str": "758910740690448389",
+			"name": "벽옥",
+			"screen_name": "jaspachates",
+			"location": "유애나 1기~4기",
+			"description": "다만 꺼지지 않는 작은 불빛이 여기 반짝 살아있어요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 801,
+			"friends_count": 193,
+			"listed_count": 1,
+			"created_at": "Fri Jul 29 06:23:15 +0000 2016",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1376291466448924676/VqQd-aTq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1376291466448924676/VqQd-aTq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/758910740690448389/1582078531",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "단국대-청운대 컨소시엄 사이트에서는 베트남어, 몽골어, 아랍어, 포르투갈어 초급 교재 pdf 및 음성 파일을 무료로 제공하고 있다. https://t.co/nLAIhtR6tM"
+	},
+	{
+		"created_at": "Thu Jun 17 08:54:21 +0000 2021",
+		"id": 1405325177420927000,
+		"id_str": "1405448719135166467",
+		"full_text": "k-mooc https://t.co/hUM9uJ6Zzu 사이트에서도 강좌 검색조건을 인문-언어,문학으로 설정하면 폴란드어, 포르투갈어, 몽골어, 스와힐리어, 태국어, 베트남어, 아랍어, 힌디어, 미얀마어의 입문-초급단계 동영상 강좌들을 찾을 수 있다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hUM9uJ6Zzu",
+					"expanded_url": "http://www.kmooc.kr",
+					"display_url": "kmooc.kr",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1405320545177047000,
+		"in_reply_to_status_id_str": "1405320545177047045",
+		"in_reply_to_user_id": 758910740690448400,
+		"in_reply_to_user_id_str": "758910740690448389",
+		"in_reply_to_screen_name": "jaspachates",
+		"user": {
+			"id": 758910740690448400,
+			"id_str": "758910740690448389",
+			"name": "벽옥",
+			"screen_name": "jaspachates",
+			"location": "유애나 1기~4기",
+			"description": "다만 꺼지지 않는 작은 불빛이 여기 반짝 살아있어요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 801,
+			"friends_count": 193,
+			"listed_count": 1,
+			"created_at": "Fri Jul 29 06:23:15 +0000 2016",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1376291466448924676/VqQd-aTq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1376291466448924676/VqQd-aTq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/758910740690448389/1582078531",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "k-mooc https://t.co/hUM9uJ6Zzu 사이트에서도 강좌 검색조건을 인문-언어,문학으로 설정하면 폴란드어, 포르투갈어, 몽골어, 스와힐리어, 태국어, 베트남어, 아랍어, 힌디어, 미얀마어의 입문-초급단계 동영상 강좌들을 찾을 수 있다."
+	},
+	{
+		"created_at": "Thu Jun 17 08:54:18 +0000 2021",
+		"id": 1405320545177047000,
+		"id_str": "1405448706770366466",
+		"full_text": "한국외대 특수외국어교육진흥사업단에서는 힌디어, 포르투갈어, 페르시아어(이란어), 태국어, 라오스어 강의를 역시 무료로 제공중. 이쪽은 주1-2회 일정시간에 만나는 화상강의다. https://t.co/gFMqMaVssr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gFMqMaVssr",
+					"expanded_url": "http://cfl.ac.kr/lms/crm/selectCurriculumAllList.do?menuId=MNU_0000000000000066",
+					"display_url": "cfl.ac.kr/lms/crm/select…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1405319671851667500,
+		"in_reply_to_status_id_str": "1405319671851667458",
+		"in_reply_to_user_id": 758910740690448400,
+		"in_reply_to_user_id_str": "758910740690448389",
+		"in_reply_to_screen_name": "jaspachates",
+		"user": {
+			"id": 758910740690448400,
+			"id_str": "758910740690448389",
+			"name": "벽옥",
+			"screen_name": "jaspachates",
+			"location": "유애나 1기~4기",
+			"description": "다만 꺼지지 않는 작은 불빛이 여기 반짝 살아있어요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 801,
+			"friends_count": 193,
+			"listed_count": 1,
+			"created_at": "Fri Jul 29 06:23:15 +0000 2016",
+			"favourites_count": 30,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1376291466448924676/VqQd-aTq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1376291466448924676/VqQd-aTq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/758910740690448389/1582078531",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한국외대 특수외국어교육진흥사업단에서는 힌디어, 포르투갈어, 페르시아어(이란어), 태국어, 라오스어 강의를 역시 무료로 제공중. 이쪽은 주1-2회 일정시간에 만나는 화상강의다. https://t.co/gFMqMaVssr"
+	},
+	{
 		"created_at": "Thu Jun 17 00:48:22 +0000 2021",
 		"id": 1405326416602812400,
 		"id_str": "1405326416602812416",
