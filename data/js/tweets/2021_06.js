@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 17 20:12:14 +0000 2021",
+		"id": 1401778187453943800,
+		"id_str": "1405619315768893441",
+		"full_text": "https://t.co/3MqzunMXF3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1401777503274893300,
+					"id_str": "1401777503274893313",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1401777503274893313/pu/img/hGBgwJZWLudZ4UMa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1401777503274893313/pu/img/hGBgwJZWLudZ4UMa.jpg",
+					"url": "https://t.co/3MqzunMXF3",
+					"display_url": "pic.twitter.com/3MqzunMXF3",
+					"expanded_url": "https://twitter.com/Experimentvid/status/1401778187453943813/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 1138,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 1138,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1401777503274893300,
+					"id_str": "1401777503274893313",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1401777503274893313/pu/img/hGBgwJZWLudZ4UMa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1401777503274893313/pu/img/hGBgwJZWLudZ4UMa.jpg",
+					"url": "https://t.co/3MqzunMXF3",
+					"display_url": "pic.twitter.com/3MqzunMXF3",
+					"expanded_url": "https://twitter.com/Experimentvid/status/1401778187453943813/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 1138,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 1138,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							569
+						],
+						"duration_millis": 12967,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1401777503274893313/pu/pl/hnI3S4lgk6CsT9X7.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1401777503274893313/pu/vid/640x1138/dV3lobJkQADPosux.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1401777503274893313/pu/vid/320x568/ABeEkY6C169IPJzP.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1401777503274893313/pu/vid/480x852/trvrsyK2BmK6LJKu.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1362442394189271000,
+			"id_str": "1362442394189271040",
+			"name": "Experiment Vids ⚓",
+			"screen_name": "Experimentvid",
+			"location": "",
+			"description": "POSTING CRAZY EXPERIMENTS EVERY DAY!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160713,
+			"friends_count": 1,
+			"listed_count": 330,
+			"created_at": "Thu Feb 18 16:43:07 +0000 2021",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 171,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391771619492655112/htG6fcKf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391771619492655112/htG6fcKf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1362442394189271040/1620658865",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 782,
+		"favorite_count": 2653,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/3MqzunMXF3"
+	},
+	{
 		"created_at": "Thu Jun 17 15:58:38 +0000 2021",
 		"id": 1351377029053128700,
 		"id_str": "1405555492814946311",
