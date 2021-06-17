@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 17 21:17:26 +0000 2021",
+		"id": 1405635724515287000,
+		"id_str": "1405635724515287040",
+		"full_text": "쿄애니 사건...\nhttps://t.co/6fc3fgHzbC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6fc3fgHzbC",
+					"expanded_url": "https://twitter.com/SparklingMelona/status/1405273875680686080?s=19",
+					"display_url": "twitter.com/SparklingMelon…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 96,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3829,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1405273875680686000,
+		"quoted_status_id_str": "1405273875680686080",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6fc3fgHzbC",
+			"expanded": "https://twitter.com/SparklingMelona/status/1405273875680686080?s=19",
+			"display": "twitter.com/SparklingMelon…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 16 21:19:35 +0000 2021",
+			"id": 1405273875680686000,
+			"id_str": "1405273875680686080",
+			"full_text": "(가 무엇인지는 아래 설명)\n: 따라서 자신의 생각을 남이 자신한테 말한 것으로 오인한 것이나, 당한 사람은 저 사람이 나를 엿먹이기 위해 꾸며낸 거짓말을 여기저기 전하고 다닌다고 생각할 수 있음 https://t.co/bnzeGqY3FQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				109
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1405273869376655400,
+						"id_str": "1405273869376655362",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/E4CJI4RVkAIILEs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4CJI4RVkAIILEs.jpg",
+						"url": "https://t.co/bnzeGqY3FQ",
+						"display_url": "pic.twitter.com/bnzeGqY3FQ",
+						"expanded_url": "https://twitter.com/SparklingMelona/status/1405273875680686080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 666,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 749,
+								"h": 765,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 749,
+								"h": 765,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1405273869376655400,
+						"id_str": "1405273869376655362",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/E4CJI4RVkAIILEs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4CJI4RVkAIILEs.jpg",
+						"url": "https://t.co/bnzeGqY3FQ",
+						"display_url": "pic.twitter.com/bnzeGqY3FQ",
+						"expanded_url": "https://twitter.com/SparklingMelona/status/1405273875680686080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 666,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 749,
+								"h": 765,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 749,
+								"h": 765,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1405272814542737400,
+			"in_reply_to_status_id_str": "1405272814542737410",
+			"in_reply_to_user_id": 991765239501910000,
+			"in_reply_to_user_id_str": "991765239501910016",
+			"in_reply_to_screen_name": "SparklingMelona",
+			"user": {
+				"id": 991765239501910000,
+				"id_str": "991765239501910016",
+				"name": "스테이플러",
+				"screen_name": "SparklingMelona",
+				"location": "",
+				"description": "니 차 안에서 후렌치파이 먹는생각",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2265,
+				"friends_count": 159,
+				"listed_count": 9,
+				"created_at": "Wed May 02 19:43:53 +0000 2018",
+				"favourites_count": 17731,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 135799,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/991770371983642624/bDj_pQf0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/991770371983642624/bDj_pQf0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/991765239501910016/1548550403",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 132,
+			"favorite_count": 116,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "쿄애니 사건...\nhttps://t.co/6fc3fgHzbC"
+	},
+	{
 		"created_at": "Thu Jun 17 20:12:14 +0000 2021",
 		"id": 1401778187453943800,
 		"id_str": "1405619315768893441",
