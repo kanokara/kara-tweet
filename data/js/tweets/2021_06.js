@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 18 17:15:45 +0000 2021",
+		"id": 1405911026730553300,
+		"id_str": "1405937288203231234",
+		"full_text": "잘도 그러겠다행 ㅋㅋㅋ https://t.co/ir5zuR9wGb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ir5zuR9wGb",
+					"expanded_url": "https://twitter.com/lensweet/status/1230350293184811008",
+					"display_url": "twitter.com/lensweet/statu…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 315032827,
+			"id_str": "315032827",
+			"name": "뷁커드빠",
+			"screen_name": "snobproof",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 268,
+			"friends_count": 58,
+			"listed_count": 7,
+			"created_at": "Sat Jun 11 05:51:25 +0000 2011",
+			"favourites_count": 3578,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 94778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/453512383231582209/elXR0e2z_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/453512383231582209/elXR0e2z_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1230350293184811000,
+		"quoted_status_id_str": "1230350293184811008",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ir5zuR9wGb",
+			"expanded": "https://twitter.com/lensweet/status/1230350293184811008",
+			"display": "twitter.com/lensweet/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 20 04:35:43 +0000 2020",
+			"id": 1230350293184811000,
+			"id_str": "1230350293184811008",
+			"full_text": "\"MIT linguistics prof: “In English a double negative forms a positive. In some languages, e.g. Russian, a double negative remains a negative. There isn’t a single language, not one, whee a double positive can express a negative.” Voice from back of the room piped up “Yeah, right”",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15759966,
+				"id_str": "15759966",
+				"name": "lensweet",
+				"screen_name": "lensweet",
+				"location": "Orcas Island, Washington",
+				"description": "Author of 60+ books (most recently Songs of Light, St. Is, Contextual Intelligence), Jesus follower, theo-semiotician, professor, https://t.co/g9NiKHFtGq",
+				"url": "https://t.co/GaMmRf0bME",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GaMmRf0bME",
+								"expanded_url": "http://www.leonardsweet.com",
+								"display_url": "leonardsweet.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/g9NiKHFtGq",
+								"expanded_url": "http://preachthestory.com",
+								"display_url": "preachthestory.com",
+								"indices": [
+									130,
+									153
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 35712,
+				"friends_count": 571,
+				"listed_count": 1256,
+				"created_at": "Thu Aug 07 05:10:55 +0000 2008",
+				"favourites_count": 6269,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28234,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1282073287535673344/Uj5XKXq4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1282073287535673344/Uj5XKXq4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15759966/1607568582",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 44,
+			"favorite_count": 125,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잘도 그러겠다행 ㅋㅋㅋ https://t.co/ir5zuR9wGb"
+	},
+	{
 		"created_at": "Fri Jun 18 17:08:10 +0000 2021",
 		"id": 1405935382290518000,
 		"id_str": "1405935382290518016",
