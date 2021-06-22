@@ -1,6 +1,2571 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 22 10:02:59 +0000 2021",
+		"id": 1407229786590568400,
+		"id_str": "1407277931760553986",
+		"full_text": "25. \"In sum, we are offloading our evolved information-foraging processes onto algorithms. But these algorithms are typically designed to maximize profitability, with often insufficient incentive to promote an informed, just, healthy, and sustainable society.\"\n\nTo be continued...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407229260968829000,
+		"in_reply_to_status_id_str": "1407229260968828928",
+		"in_reply_to_user_id": 3238448948,
+		"in_reply_to_user_id_str": "3238448948",
+		"in_reply_to_screen_name": "CT_Bergstrom",
+		"user": {
+			"id": 3238448948,
+			"id_str": "3238448948",
+			"name": "Carl T. Bergstrom",
+			"screen_name": "CT_Bergstrom",
+			"location": "Duwamish Lands (Seattle)",
+			"description": "#BlackLivesMatter\n\nInformation flow in bio, society, & science.\n\nBook *Calling Bullshit*: https://t.co/RJrqkYSrwM\n\nI love crows and ravens. he/him",
+			"url": "https://t.co/rB8CjwDMSs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rB8CjwDMSs",
+							"expanded_url": "http://ctbergstrom.com",
+							"display_url": "ctbergstrom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RJrqkYSrwM",
+							"expanded_url": "http://tinyurl.com/y7ekfkhx",
+							"display_url": "tinyurl.com/y7ekfkhx",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 139939,
+			"friends_count": 2151,
+			"listed_count": 3562,
+			"created_at": "Sun Jun 07 03:38:21 +0000 2015",
+			"favourites_count": 59062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238448948/1607164133",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 94,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "25. \"In sum, we are offloading our evolved information-foraging processes onto algorithms. But these algorithms are typically designed to maximize profitability, with often insufficient incentive to promote an informed, just, healthy, and sustainable society.\"\n\nTo be continued..."
+	},
+	{
+		"created_at": "Tue Jun 22 10:02:57 +0000 2021",
+		"id": 1407229260968829000,
+		"id_str": "1407277923069939729",
+		"full_text": "24. Now add in the fact that these algorithms are opaque, sometimes even to their creators, and mercurial. We don't know what they're doing, or what effects they are having, because the only people who have the data to measure it consider that information too valuable to share.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407226683791315000,
+		"in_reply_to_status_id_str": "1407226683791314946",
+		"in_reply_to_user_id": 3238448948,
+		"in_reply_to_user_id_str": "3238448948",
+		"in_reply_to_screen_name": "CT_Bergstrom",
+		"user": {
+			"id": 3238448948,
+			"id_str": "3238448948",
+			"name": "Carl T. Bergstrom",
+			"screen_name": "CT_Bergstrom",
+			"location": "Duwamish Lands (Seattle)",
+			"description": "#BlackLivesMatter\n\nInformation flow in bio, society, & science.\n\nBook *Calling Bullshit*: https://t.co/RJrqkYSrwM\n\nI love crows and ravens. he/him",
+			"url": "https://t.co/rB8CjwDMSs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rB8CjwDMSs",
+							"expanded_url": "http://ctbergstrom.com",
+							"display_url": "ctbergstrom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RJrqkYSrwM",
+							"expanded_url": "http://tinyurl.com/y7ekfkhx",
+							"display_url": "tinyurl.com/y7ekfkhx",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 139939,
+			"friends_count": 2151,
+			"listed_count": 3562,
+			"created_at": "Sun Jun 07 03:38:21 +0000 2015",
+			"favourites_count": 59062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238448948/1607164133",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "24. Now add in the fact that these algorithms are opaque, sometimes even to their creators, and mercurial. We don't know what they're doing, or what effects they are having, because the only people who have the data to measure it consider that information too valuable to share."
+	},
+	{
+		"created_at": "Tue Jun 22 10:02:55 +0000 2021",
+		"id": 1407226683791315000,
+		"id_str": "1407277916262592517",
+		"full_text": "23. Other times, algorithms may learn that agreement is boring and conflict is engaging. In the struggle for attention, righteous indignation outcompetes thoughtful discussion. So that's what we get. In this way they regulate the emotional tenor of the online worlds we inhabit.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407226014657179600,
+		"in_reply_to_status_id_str": "1407226014657179656",
+		"in_reply_to_user_id": 3238448948,
+		"in_reply_to_user_id_str": "3238448948",
+		"in_reply_to_screen_name": "CT_Bergstrom",
+		"user": {
+			"id": 3238448948,
+			"id_str": "3238448948",
+			"name": "Carl T. Bergstrom",
+			"screen_name": "CT_Bergstrom",
+			"location": "Duwamish Lands (Seattle)",
+			"description": "#BlackLivesMatter\n\nInformation flow in bio, society, & science.\n\nBook *Calling Bullshit*: https://t.co/RJrqkYSrwM\n\nI love crows and ravens. he/him",
+			"url": "https://t.co/rB8CjwDMSs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rB8CjwDMSs",
+							"expanded_url": "http://ctbergstrom.com",
+							"display_url": "ctbergstrom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RJrqkYSrwM",
+							"expanded_url": "http://tinyurl.com/y7ekfkhx",
+							"display_url": "tinyurl.com/y7ekfkhx",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 139939,
+			"friends_count": 2151,
+			"listed_count": 3562,
+			"created_at": "Sun Jun 07 03:38:21 +0000 2015",
+			"favourites_count": 59062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238448948/1607164133",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "23. Other times, algorithms may learn that agreement is boring and conflict is engaging. In the struggle for attention, righteous indignation outcompetes thoughtful discussion. So that's what we get. In this way they regulate the emotional tenor of the online worlds we inhabit."
+	},
+	{
+		"created_at": "Tue Jun 22 10:02:54 +0000 2021",
+		"id": 1407226014657179600,
+		"id_str": "1407277911187492869",
+		"full_text": "22. Algorithms create filter bubbles at times. They recommend that I connect with people who thinking like I do, and even if I seek out divergent viewpoints, other algorithms may learn that I don't engage with them and start to down-rank them in my feed.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407225408211210200,
+		"in_reply_to_status_id_str": "1407225408211210242",
+		"in_reply_to_user_id": 3238448948,
+		"in_reply_to_user_id_str": "3238448948",
+		"in_reply_to_screen_name": "CT_Bergstrom",
+		"user": {
+			"id": 3238448948,
+			"id_str": "3238448948",
+			"name": "Carl T. Bergstrom",
+			"screen_name": "CT_Bergstrom",
+			"location": "Duwamish Lands (Seattle)",
+			"description": "#BlackLivesMatter\n\nInformation flow in bio, society, & science.\n\nBook *Calling Bullshit*: https://t.co/RJrqkYSrwM\n\nI love crows and ravens. he/him",
+			"url": "https://t.co/rB8CjwDMSs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rB8CjwDMSs",
+							"expanded_url": "http://ctbergstrom.com",
+							"display_url": "ctbergstrom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RJrqkYSrwM",
+							"expanded_url": "http://tinyurl.com/y7ekfkhx",
+							"display_url": "tinyurl.com/y7ekfkhx",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 139939,
+			"friends_count": 2151,
+			"listed_count": 3562,
+			"created_at": "Sun Jun 07 03:38:21 +0000 2015",
+			"favourites_count": 59062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238448948/1607164133",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "22. Algorithms create filter bubbles at times. They recommend that I connect with people who thinking like I do, and even if I seek out divergent viewpoints, other algorithms may learn that I don't engage with them and start to down-rank them in my feed."
+	},
+	{
+		"created_at": "Tue Jun 22 10:02:50 +0000 2021",
+		"id": 1407225408211210200,
+		"id_str": "1407277895437885446",
+		"full_text": "21. ...and to build up a detailed enough profile to predict what makes you click, specifically. \n\nSure, the results are sometimes risible. But sometimes they're not. Machine learning is a powerful beast when competently implemented and fed with an endless supply of data.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407224897995214800,
+		"in_reply_to_status_id_str": "1407224897995214848",
+		"in_reply_to_user_id": 3238448948,
+		"in_reply_to_user_id_str": "3238448948",
+		"in_reply_to_screen_name": "CT_Bergstrom",
+		"user": {
+			"id": 3238448948,
+			"id_str": "3238448948",
+			"name": "Carl T. Bergstrom",
+			"screen_name": "CT_Bergstrom",
+			"location": "Duwamish Lands (Seattle)",
+			"description": "#BlackLivesMatter\n\nInformation flow in bio, society, & science.\n\nBook *Calling Bullshit*: https://t.co/RJrqkYSrwM\n\nI love crows and ravens. he/him",
+			"url": "https://t.co/rB8CjwDMSs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rB8CjwDMSs",
+							"expanded_url": "http://ctbergstrom.com",
+							"display_url": "ctbergstrom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RJrqkYSrwM",
+							"expanded_url": "http://tinyurl.com/y7ekfkhx",
+							"display_url": "tinyurl.com/y7ekfkhx",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 139939,
+			"friends_count": 2151,
+			"listed_count": 3562,
+			"created_at": "Sun Jun 07 03:38:21 +0000 2015",
+			"favourites_count": 59062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238448948/1607164133",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "21. ...and to build up a detailed enough profile to predict what makes you click, specifically. \n\nSure, the results are sometimes risible. But sometimes they're not. Machine learning is a powerful beast when competently implemented and fed with an endless supply of data."
+	},
+	{
+		"created_at": "Tue Jun 22 10:02:49 +0000 2021",
+		"id": 1407224897995214800,
+		"id_str": "1407277888307564550",
+		"full_text": "20. And these algorithms know so much about us. The amount of data is staggering. There are hundreds of simultaneous A-B experiments ongoing at any time to figure out what makes us click, collectively....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407223822231634000,
+		"in_reply_to_status_id_str": "1407223822231633922",
+		"in_reply_to_user_id": 3238448948,
+		"in_reply_to_user_id_str": "3238448948",
+		"in_reply_to_screen_name": "CT_Bergstrom",
+		"user": {
+			"id": 3238448948,
+			"id_str": "3238448948",
+			"name": "Carl T. Bergstrom",
+			"screen_name": "CT_Bergstrom",
+			"location": "Duwamish Lands (Seattle)",
+			"description": "#BlackLivesMatter\n\nInformation flow in bio, society, & science.\n\nBook *Calling Bullshit*: https://t.co/RJrqkYSrwM\n\nI love crows and ravens. he/him",
+			"url": "https://t.co/rB8CjwDMSs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rB8CjwDMSs",
+							"expanded_url": "http://ctbergstrom.com",
+							"display_url": "ctbergstrom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RJrqkYSrwM",
+							"expanded_url": "http://tinyurl.com/y7ekfkhx",
+							"display_url": "tinyurl.com/y7ekfkhx",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 139939,
+			"friends_count": 2151,
+			"listed_count": 3562,
+			"created_at": "Sun Jun 07 03:38:21 +0000 2015",
+			"favourites_count": 59062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238448948/1607164133",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "20. And these algorithms know so much about us. The amount of data is staggering. There are hundreds of simultaneous A-B experiments ongoing at any time to figure out what makes us click, collectively...."
+	},
+	{
+		"created_at": "Tue Jun 22 10:02:47 +0000 2021",
+		"id": 1407223822231634000,
+		"id_str": "1407277879612768258",
+		"full_text": "19. Perhaps even worse, who you *know* on social media is in some large part a function of whom algorithms wanted you to know.\n\nYou may like your online friends because they're cool or whatever, but you *met* many of them because some algorithm thought that would keep you online.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407223058713088000,
+		"in_reply_to_status_id_str": "1407223058713088010",
+		"in_reply_to_user_id": 3238448948,
+		"in_reply_to_user_id_str": "3238448948",
+		"in_reply_to_screen_name": "CT_Bergstrom",
+		"user": {
+			"id": 3238448948,
+			"id_str": "3238448948",
+			"name": "Carl T. Bergstrom",
+			"screen_name": "CT_Bergstrom",
+			"location": "Duwamish Lands (Seattle)",
+			"description": "#BlackLivesMatter\n\nInformation flow in bio, society, & science.\n\nBook *Calling Bullshit*: https://t.co/RJrqkYSrwM\n\nI love crows and ravens. he/him",
+			"url": "https://t.co/rB8CjwDMSs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rB8CjwDMSs",
+							"expanded_url": "http://ctbergstrom.com",
+							"display_url": "ctbergstrom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RJrqkYSrwM",
+							"expanded_url": "http://tinyurl.com/y7ekfkhx",
+							"display_url": "tinyurl.com/y7ekfkhx",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 139939,
+			"friends_count": 2151,
+			"listed_count": 3562,
+			"created_at": "Sun Jun 07 03:38:21 +0000 2015",
+			"favourites_count": 59062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238448948/1607164133",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 77,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "19. Perhaps even worse, who you *know* on social media is in some large part a function of whom algorithms wanted you to know.\n\nYou may like your online friends because they're cool or whatever, but you *met* many of them because some algorithm thought that would keep you online."
+	},
+	{
+		"created_at": "Tue Jun 22 10:02:45 +0000 2021",
+		"id": 1407223058713088000,
+		"id_str": "1407277872432115716",
+		"full_text": "18. The fourth and final development we discuss is the role of algorithms and algorithmic feedback. \n\nThe posts you see on social media—including this thread, I fear—are fed to you by algorithms designed to maximize your engagement, not the veracity of the content you consume.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407218435507986400,
+		"in_reply_to_status_id_str": "1407218435507986476",
+		"in_reply_to_user_id": 3238448948,
+		"in_reply_to_user_id_str": "3238448948",
+		"in_reply_to_screen_name": "CT_Bergstrom",
+		"user": {
+			"id": 3238448948,
+			"id_str": "3238448948",
+			"name": "Carl T. Bergstrom",
+			"screen_name": "CT_Bergstrom",
+			"location": "Duwamish Lands (Seattle)",
+			"description": "#BlackLivesMatter\n\nInformation flow in bio, society, & science.\n\nBook *Calling Bullshit*: https://t.co/RJrqkYSrwM\n\nI love crows and ravens. he/him",
+			"url": "https://t.co/rB8CjwDMSs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rB8CjwDMSs",
+							"expanded_url": "http://ctbergstrom.com",
+							"display_url": "ctbergstrom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RJrqkYSrwM",
+							"expanded_url": "http://tinyurl.com/y7ekfkhx",
+							"display_url": "tinyurl.com/y7ekfkhx",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 139939,
+			"friends_count": 2151,
+			"listed_count": 3562,
+			"created_at": "Sun Jun 07 03:38:21 +0000 2015",
+			"favourites_count": 59062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238448948/1607164133",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "18. The fourth and final development we discuss is the role of algorithms and algorithmic feedback. \n\nThe posts you see on social media—including this thread, I fear—are fed to you by algorithms designed to maximize your engagement, not the veracity of the content you consume."
+	},
+	{
+		"created_at": "Tue Jun 22 10:02:44 +0000 2021",
+		"id": 1407218435507986400,
+		"id_str": "1407277866941706246",
+		"full_text": "17. I want to correct a misperception I'm seeing. Our message is not \"ads are evil.\"\n\nIt's that social media etc. been designed largely to sell ads, which means it is not designed with care to facilitate the spread of reliable information, let alone improve human well-being.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407209311076421600,
+		"in_reply_to_status_id_str": "1407209311076421633",
+		"in_reply_to_user_id": 3238448948,
+		"in_reply_to_user_id_str": "3238448948",
+		"in_reply_to_screen_name": "CT_Bergstrom",
+		"user": {
+			"id": 3238448948,
+			"id_str": "3238448948",
+			"name": "Carl T. Bergstrom",
+			"screen_name": "CT_Bergstrom",
+			"location": "Duwamish Lands (Seattle)",
+			"description": "#BlackLivesMatter\n\nInformation flow in bio, society, & science.\n\nBook *Calling Bullshit*: https://t.co/RJrqkYSrwM\n\nI love crows and ravens. he/him",
+			"url": "https://t.co/rB8CjwDMSs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rB8CjwDMSs",
+							"expanded_url": "http://ctbergstrom.com",
+							"display_url": "ctbergstrom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RJrqkYSrwM",
+							"expanded_url": "http://tinyurl.com/y7ekfkhx",
+							"display_url": "tinyurl.com/y7ekfkhx",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 139939,
+			"friends_count": 2151,
+			"listed_count": 3562,
+			"created_at": "Sun Jun 07 03:38:21 +0000 2015",
+			"favourites_count": 59062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238448948/1607164133",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 214,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "17. I want to correct a misperception I'm seeing. Our message is not \"ads are evil.\"\n\nIt's that social media etc. been designed largely to sell ads, which means it is not designed with care to facilitate the spread of reliable information, let alone improve human well-being."
+	},
+	{
+		"created_at": "Tue Jun 22 10:02:36 +0000 2021",
+		"id": 1407209311076421600,
+		"id_str": "1407277836835061764",
+		"full_text": "16. Think about the downside of frictionless communication. \n\nWhy isn't your postal mailbox buried in 50 pounds of junk mail every day? Because stamps cost money. \n\nWhy didn't you get long-distance phone scammers in the 1990s? 25 cents a minute back then, that's why.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407204640144257000,
+		"in_reply_to_status_id_str": "1407204640144257027",
+		"in_reply_to_user_id": 3238448948,
+		"in_reply_to_user_id_str": "3238448948",
+		"in_reply_to_screen_name": "CT_Bergstrom",
+		"user": {
+			"id": 3238448948,
+			"id_str": "3238448948",
+			"name": "Carl T. Bergstrom",
+			"screen_name": "CT_Bergstrom",
+			"location": "Duwamish Lands (Seattle)",
+			"description": "#BlackLivesMatter\n\nInformation flow in bio, society, & science.\n\nBook *Calling Bullshit*: https://t.co/RJrqkYSrwM\n\nI love crows and ravens. he/him",
+			"url": "https://t.co/rB8CjwDMSs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rB8CjwDMSs",
+							"expanded_url": "http://ctbergstrom.com",
+							"display_url": "ctbergstrom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RJrqkYSrwM",
+							"expanded_url": "http://tinyurl.com/y7ekfkhx",
+							"display_url": "tinyurl.com/y7ekfkhx",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 139939,
+			"friends_count": 2151,
+			"listed_count": 3562,
+			"created_at": "Sun Jun 07 03:38:21 +0000 2015",
+			"favourites_count": 59062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238448948/1607164133",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 200,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "16. Think about the downside of frictionless communication. \n\nWhy isn't your postal mailbox buried in 50 pounds of junk mail every day? Because stamps cost money. \n\nWhy didn't you get long-distance phone scammers in the 1990s? 25 cents a minute back then, that's why."
+	},
+	{
+		"created_at": "Tue Jun 22 10:02:34 +0000 2021",
+		"id": 1407204640144257000,
+		"id_str": "1407277828186333186",
+		"full_text": "15. Suddenly a deception is cascading through every corner of the online world. It's even hard to triangulate to figure out if it's true, because by this point it's coming at you from all sides and seemingly from a plenitude of sources. \n\nThe very same day it was crafted.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407204242998239200,
+		"in_reply_to_status_id_str": "1407204242998239235",
+		"in_reply_to_user_id": 3238448948,
+		"in_reply_to_user_id_str": "3238448948",
+		"in_reply_to_screen_name": "CT_Bergstrom",
+		"user": {
+			"id": 3238448948,
+			"id_str": "3238448948",
+			"name": "Carl T. Bergstrom",
+			"screen_name": "CT_Bergstrom",
+			"location": "Duwamish Lands (Seattle)",
+			"description": "#BlackLivesMatter\n\nInformation flow in bio, society, & science.\n\nBook *Calling Bullshit*: https://t.co/RJrqkYSrwM\n\nI love crows and ravens. he/him",
+			"url": "https://t.co/rB8CjwDMSs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rB8CjwDMSs",
+							"expanded_url": "http://ctbergstrom.com",
+							"display_url": "ctbergstrom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RJrqkYSrwM",
+							"expanded_url": "http://tinyurl.com/y7ekfkhx",
+							"display_url": "tinyurl.com/y7ekfkhx",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 139939,
+			"friends_count": 2151,
+			"listed_count": 3562,
+			"created_at": "Sun Jun 07 03:38:21 +0000 2015",
+			"favourites_count": 59062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238448948/1607164133",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 140,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "15. Suddenly a deception is cascading through every corner of the online world. It's even hard to triangulate to figure out if it's true, because by this point it's coming at you from all sides and seemingly from a plenitude of sources. \n\nThe very same day it was crafted."
+	},
+	{
+		"created_at": "Tue Jun 22 10:02:32 +0000 2021",
+		"id": 1407204242998239200,
+		"id_str": "1407277820187869187",
+		"full_text": "14. All this takes place at essentially zero cost at staggering speed. Someone pens a piece of disinformation after lunch. It gets amplified a few times, and reaches e.g. the leader of the free world later that afternoon.  He retweets it to 90 million people, who amplify further.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407203540779507700,
+		"in_reply_to_status_id_str": "1407203540779507716",
+		"in_reply_to_user_id": 3238448948,
+		"in_reply_to_user_id_str": "3238448948",
+		"in_reply_to_screen_name": "CT_Bergstrom",
+		"user": {
+			"id": 3238448948,
+			"id_str": "3238448948",
+			"name": "Carl T. Bergstrom",
+			"screen_name": "CT_Bergstrom",
+			"location": "Duwamish Lands (Seattle)",
+			"description": "#BlackLivesMatter\n\nInformation flow in bio, society, & science.\n\nBook *Calling Bullshit*: https://t.co/RJrqkYSrwM\n\nI love crows and ravens. he/him",
+			"url": "https://t.co/rB8CjwDMSs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rB8CjwDMSs",
+							"expanded_url": "http://ctbergstrom.com",
+							"display_url": "ctbergstrom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RJrqkYSrwM",
+							"expanded_url": "http://tinyurl.com/y7ekfkhx",
+							"display_url": "tinyurl.com/y7ekfkhx",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 139939,
+			"friends_count": 2151,
+			"listed_count": 3562,
+			"created_at": "Sun Jun 07 03:38:21 +0000 2015",
+			"favourites_count": 59062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238448948/1607164133",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 123,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "14. All this takes place at essentially zero cost at staggering speed. Someone pens a piece of disinformation after lunch. It gets amplified a few times, and reaches e.g. the leader of the free world later that afternoon.  He retweets it to 90 million people, who amplify further."
+	},
+	{
+		"created_at": "Tue Jun 22 10:02:31 +0000 2021",
+		"id": 1407203540779507700,
+		"id_str": "1407277814898860034",
+		"full_text": "13. Third, the ease and fidelity afforded by digital communication. Online, messages can be forwarded, re-forwarded, and re-re-forwarded time and again without a loss of resolution, without breaking down in gibberish like in a kids' game of telephone.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407201806275420200,
+		"in_reply_to_status_id_str": "1407201806275420161",
+		"in_reply_to_user_id": 3238448948,
+		"in_reply_to_user_id_str": "3238448948",
+		"in_reply_to_screen_name": "CT_Bergstrom",
+		"user": {
+			"id": 3238448948,
+			"id_str": "3238448948",
+			"name": "Carl T. Bergstrom",
+			"screen_name": "CT_Bergstrom",
+			"location": "Duwamish Lands (Seattle)",
+			"description": "#BlackLivesMatter\n\nInformation flow in bio, society, & science.\n\nBook *Calling Bullshit*: https://t.co/RJrqkYSrwM\n\nI love crows and ravens. he/him",
+			"url": "https://t.co/rB8CjwDMSs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rB8CjwDMSs",
+							"expanded_url": "http://ctbergstrom.com",
+							"display_url": "ctbergstrom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RJrqkYSrwM",
+							"expanded_url": "http://tinyurl.com/y7ekfkhx",
+							"display_url": "tinyurl.com/y7ekfkhx",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 139939,
+			"friends_count": 2151,
+			"listed_count": 3562,
+			"created_at": "Sun Jun 07 03:38:21 +0000 2015",
+			"favourites_count": 59062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238448948/1607164133",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 111,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "13. Third, the ease and fidelity afforded by digital communication. Online, messages can be forwarded, re-forwarded, and re-re-forwarded time and again without a loss of resolution, without breaking down in gibberish like in a kids' game of telephone."
+	},
+	{
+		"created_at": "Tue Jun 22 10:02:29 +0000 2021",
+		"id": 1407201806275420200,
+		"id_str": "1407277807714009100",
+		"full_text": "12. Moreover, preferential attachment processes (often abetted by algorithms, more on that later) accelerate the inequality of influence online. \n\nNetwork structure differs as well, with more \"long ties\" online that accelerate the spread of information and disinformation alike.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407201223493656600,
+		"in_reply_to_status_id_str": "1407201223493656576",
+		"in_reply_to_user_id": 3238448948,
+		"in_reply_to_user_id_str": "3238448948",
+		"in_reply_to_screen_name": "CT_Bergstrom",
+		"user": {
+			"id": 3238448948,
+			"id_str": "3238448948",
+			"name": "Carl T. Bergstrom",
+			"screen_name": "CT_Bergstrom",
+			"location": "Duwamish Lands (Seattle)",
+			"description": "#BlackLivesMatter\n\nInformation flow in bio, society, & science.\n\nBook *Calling Bullshit*: https://t.co/RJrqkYSrwM\n\nI love crows and ravens. he/him",
+			"url": "https://t.co/rB8CjwDMSs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rB8CjwDMSs",
+							"expanded_url": "http://ctbergstrom.com",
+							"display_url": "ctbergstrom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RJrqkYSrwM",
+							"expanded_url": "http://tinyurl.com/y7ekfkhx",
+							"display_url": "tinyurl.com/y7ekfkhx",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 139939,
+			"friends_count": 2151,
+			"listed_count": 3562,
+			"created_at": "Sun Jun 07 03:38:21 +0000 2015",
+			"favourites_count": 59062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238448948/1607164133",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 109,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "12. Moreover, preferential attachment processes (often abetted by algorithms, more on that later) accelerate the inequality of influence online. \n\nNetwork structure differs as well, with more \"long ties\" online that accelerate the spread of information and disinformation alike."
+	},
+	{
+		"created_at": "Tue Jun 22 10:02:28 +0000 2021",
+		"id": 1407201223493656600,
+		"id_str": "1407277800621441025",
+		"full_text": "11. Second, network structure. Face-to-face networks limit the scope of influence; we can only talk to so many people in a day. On social media it's different. IRL I couldn't tell 200,000 people about this paper in an afternoon. More than that have clicked on this thread already.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407199244151267300,
+		"in_reply_to_status_id_str": "1407199244151267330",
+		"in_reply_to_user_id": 3238448948,
+		"in_reply_to_user_id_str": "3238448948",
+		"in_reply_to_screen_name": "CT_Bergstrom",
+		"user": {
+			"id": 3238448948,
+			"id_str": "3238448948",
+			"name": "Carl T. Bergstrom",
+			"screen_name": "CT_Bergstrom",
+			"location": "Duwamish Lands (Seattle)",
+			"description": "#BlackLivesMatter\n\nInformation flow in bio, society, & science.\n\nBook *Calling Bullshit*: https://t.co/RJrqkYSrwM\n\nI love crows and ravens. he/him",
+			"url": "https://t.co/rB8CjwDMSs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rB8CjwDMSs",
+							"expanded_url": "http://ctbergstrom.com",
+							"display_url": "ctbergstrom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RJrqkYSrwM",
+							"expanded_url": "http://tinyurl.com/y7ekfkhx",
+							"display_url": "tinyurl.com/y7ekfkhx",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 139939,
+			"friends_count": 2151,
+			"listed_count": 3562,
+			"created_at": "Sun Jun 07 03:38:21 +0000 2015",
+			"favourites_count": 59062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238448948/1607164133",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 144,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "11. Second, network structure. Face-to-face networks limit the scope of influence; we can only talk to so many people in a day. On social media it's different. IRL I couldn't tell 200,000 people about this paper in an afternoon. More than that have clicked on this thread already."
+	},
+	{
+		"created_at": "Tue Jun 22 10:02:27 +0000 2021",
+		"id": 1407199244151267300,
+		"id_str": "1407277795537940486",
+		"full_text": "10. Research in opinion dynamics, animal behavior, network epistemology, and statistical physics reveals that the ability to come to collective decisions depends strongly on the size of the group. Bigger does not mean wiser or better-functioning.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407199242951692300,
+		"in_reply_to_status_id_str": "1407199242951692288",
+		"in_reply_to_user_id": 3238448948,
+		"in_reply_to_user_id_str": "3238448948",
+		"in_reply_to_screen_name": "CT_Bergstrom",
+		"user": {
+			"id": 3238448948,
+			"id_str": "3238448948",
+			"name": "Carl T. Bergstrom",
+			"screen_name": "CT_Bergstrom",
+			"location": "Duwamish Lands (Seattle)",
+			"description": "#BlackLivesMatter\n\nInformation flow in bio, society, & science.\n\nBook *Calling Bullshit*: https://t.co/RJrqkYSrwM\n\nI love crows and ravens. he/him",
+			"url": "https://t.co/rB8CjwDMSs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rB8CjwDMSs",
+							"expanded_url": "http://ctbergstrom.com",
+							"display_url": "ctbergstrom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RJrqkYSrwM",
+							"expanded_url": "http://tinyurl.com/y7ekfkhx",
+							"display_url": "tinyurl.com/y7ekfkhx",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 139939,
+			"friends_count": 2151,
+			"listed_count": 3562,
+			"created_at": "Sun Jun 07 03:38:21 +0000 2015",
+			"favourites_count": 59062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238448948/1607164133",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 166,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "10. Research in opinion dynamics, animal behavior, network epistemology, and statistical physics reveals that the ability to come to collective decisions depends strongly on the size of the group. Bigger does not mean wiser or better-functioning."
+	},
+	{
+		"created_at": "Tue Jun 22 10:02:25 +0000 2021",
+		"id": 1407199242951692300,
+		"id_str": "1407277790047588358",
+		"full_text": "9. We write \"Expanding the scale of a collectively behaving system by eight orders of magnitude is certain to have functional consequences. Not only are societies at the scale of ours rare in the natural world; they also are often ecologically unstable where they do form.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407197857334009900,
+		"in_reply_to_status_id_str": "1407197857334009873",
+		"in_reply_to_user_id": 3238448948,
+		"in_reply_to_user_id_str": "3238448948",
+		"in_reply_to_screen_name": "CT_Bergstrom",
+		"user": {
+			"id": 3238448948,
+			"id_str": "3238448948",
+			"name": "Carl T. Bergstrom",
+			"screen_name": "CT_Bergstrom",
+			"location": "Duwamish Lands (Seattle)",
+			"description": "#BlackLivesMatter\n\nInformation flow in bio, society, & science.\n\nBook *Calling Bullshit*: https://t.co/RJrqkYSrwM\n\nI love crows and ravens. he/him",
+			"url": "https://t.co/rB8CjwDMSs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rB8CjwDMSs",
+							"expanded_url": "http://ctbergstrom.com",
+							"display_url": "ctbergstrom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RJrqkYSrwM",
+							"expanded_url": "http://tinyurl.com/y7ekfkhx",
+							"display_url": "tinyurl.com/y7ekfkhx",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 139939,
+			"friends_count": 2151,
+			"listed_count": 3562,
+			"created_at": "Sun Jun 07 03:38:21 +0000 2015",
+			"favourites_count": 59062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238448948/1607164133",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 135,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "9. We write \"Expanding the scale of a collectively behaving system by eight orders of magnitude is certain to have functional consequences. Not only are societies at the scale of ours rare in the natural world; they also are often ecologically unstable where they do form.\""
+	},
+	{
+		"created_at": "Tue Jun 22 10:02:23 +0000 2021",
+		"id": 1407197857334009900,
+		"id_str": "1407277779645652992",
+		"full_text": "8. So what is so radically different now compared to twenty years ago, and why does it matter? In the paper, we explore a few factors. \n\nFirst, scale. We've gone from small face-to-face communities to a global network of 3.6 billion social media users in the blink of an eye.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407116329052639200,
+		"in_reply_to_status_id_str": "1407116329052639234",
+		"in_reply_to_user_id": 3238448948,
+		"in_reply_to_user_id_str": "3238448948",
+		"in_reply_to_screen_name": "CT_Bergstrom",
+		"user": {
+			"id": 3238448948,
+			"id_str": "3238448948",
+			"name": "Carl T. Bergstrom",
+			"screen_name": "CT_Bergstrom",
+			"location": "Duwamish Lands (Seattle)",
+			"description": "#BlackLivesMatter\n\nInformation flow in bio, society, & science.\n\nBook *Calling Bullshit*: https://t.co/RJrqkYSrwM\n\nI love crows and ravens. he/him",
+			"url": "https://t.co/rB8CjwDMSs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rB8CjwDMSs",
+							"expanded_url": "http://ctbergstrom.com",
+							"display_url": "ctbergstrom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RJrqkYSrwM",
+							"expanded_url": "http://tinyurl.com/y7ekfkhx",
+							"display_url": "tinyurl.com/y7ekfkhx",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 139939,
+			"friends_count": 2151,
+			"listed_count": 3562,
+			"created_at": "Sun Jun 07 03:38:21 +0000 2015",
+			"favourites_count": 59062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238448948/1607164133",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 161,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "8. So what is so radically different now compared to twenty years ago, and why does it matter? In the paper, we explore a few factors. \n\nFirst, scale. We've gone from small face-to-face communities to a global network of 3.6 billion social media users in the blink of an eye."
+	},
+	{
+		"created_at": "Tue Jun 22 10:02:21 +0000 2021",
+		"id": 1407116329052639200,
+		"id_str": "1407277771991093248",
+		"full_text": "7. Aside: The paper has been in the works for over two years. A 2019 draft said something along the lines of \"Imagine that pandemic hit and people wouldn't follow public health advice because of misinformation spread online. We'd be *really* screwed then.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407115121055305700,
+		"in_reply_to_status_id_str": "1407115121055305758",
+		"in_reply_to_user_id": 3238448948,
+		"in_reply_to_user_id_str": "3238448948",
+		"in_reply_to_screen_name": "CT_Bergstrom",
+		"user": {
+			"id": 3238448948,
+			"id_str": "3238448948",
+			"name": "Carl T. Bergstrom",
+			"screen_name": "CT_Bergstrom",
+			"location": "Duwamish Lands (Seattle)",
+			"description": "#BlackLivesMatter\n\nInformation flow in bio, society, & science.\n\nBook *Calling Bullshit*: https://t.co/RJrqkYSrwM\n\nI love crows and ravens. he/him",
+			"url": "https://t.co/rB8CjwDMSs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rB8CjwDMSs",
+							"expanded_url": "http://ctbergstrom.com",
+							"display_url": "ctbergstrom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RJrqkYSrwM",
+							"expanded_url": "http://tinyurl.com/y7ekfkhx",
+							"display_url": "tinyurl.com/y7ekfkhx",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 139939,
+			"friends_count": 2151,
+			"listed_count": 3562,
+			"created_at": "Sun Jun 07 03:38:21 +0000 2015",
+			"favourites_count": 59062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238448948/1607164133",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 105,
+		"favorite_count": 672,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "7. Aside: The paper has been in the works for over two years. A 2019 draft said something along the lines of \"Imagine that pandemic hit and people wouldn't follow public health advice because of misinformation spread online. We'd be *really* screwed then.\""
+	},
+	{
+		"created_at": "Tue Jun 22 10:02:19 +0000 2021",
+		"id": 1407115121055305700,
+		"id_str": "1407277764562984968",
+		"full_text": "6. It is difficult to overestimate the stakes. If these technologies so effectively sow mis- and disinformation worldwide, how we can hope to solve problems such as global warming, extinction, war, food security, pandemics? How can we prevent democracies from crumbling?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407113648426741800,
+		"in_reply_to_status_id_str": "1407113648426741761",
+		"in_reply_to_user_id": 3238448948,
+		"in_reply_to_user_id_str": "3238448948",
+		"in_reply_to_screen_name": "CT_Bergstrom",
+		"user": {
+			"id": 3238448948,
+			"id_str": "3238448948",
+			"name": "Carl T. Bergstrom",
+			"screen_name": "CT_Bergstrom",
+			"location": "Duwamish Lands (Seattle)",
+			"description": "#BlackLivesMatter\n\nInformation flow in bio, society, & science.\n\nBook *Calling Bullshit*: https://t.co/RJrqkYSrwM\n\nI love crows and ravens. he/him",
+			"url": "https://t.co/rB8CjwDMSs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rB8CjwDMSs",
+							"expanded_url": "http://ctbergstrom.com",
+							"display_url": "ctbergstrom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RJrqkYSrwM",
+							"expanded_url": "http://tinyurl.com/y7ekfkhx",
+							"display_url": "tinyurl.com/y7ekfkhx",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 139939,
+			"friends_count": 2151,
+			"listed_count": 3562,
+			"created_at": "Sun Jun 07 03:38:21 +0000 2015",
+			"favourites_count": 59062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238448948/1607164133",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 369,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "6. It is difficult to overestimate the stakes. If these technologies so effectively sow mis- and disinformation worldwide, how we can hope to solve problems such as global warming, extinction, war, food security, pandemics? How can we prevent democracies from crumbling?"
+	},
+	{
+		"created_at": "Tue Jun 22 10:02:18 +0000 2021",
+		"id": 1407113648426741800,
+		"id_str": "1407277757743079435",
+		"full_text": "5. We don't have a theory for how human decision-making operates in an algorithm-driven online network of comprising billions of souls—and we argue there is no reason to expect some sort of invisible hand is going to bail us out and ensure that good information floats to the top.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407112913748299800,
+		"in_reply_to_status_id_str": "1407112913748299778",
+		"in_reply_to_user_id": 3238448948,
+		"in_reply_to_user_id_str": "3238448948",
+		"in_reply_to_screen_name": "CT_Bergstrom",
+		"user": {
+			"id": 3238448948,
+			"id_str": "3238448948",
+			"name": "Carl T. Bergstrom",
+			"screen_name": "CT_Bergstrom",
+			"location": "Duwamish Lands (Seattle)",
+			"description": "#BlackLivesMatter\n\nInformation flow in bio, society, & science.\n\nBook *Calling Bullshit*: https://t.co/RJrqkYSrwM\n\nI love crows and ravens. he/him",
+			"url": "https://t.co/rB8CjwDMSs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rB8CjwDMSs",
+							"expanded_url": "http://ctbergstrom.com",
+							"display_url": "ctbergstrom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RJrqkYSrwM",
+							"expanded_url": "http://tinyurl.com/y7ekfkhx",
+							"display_url": "tinyurl.com/y7ekfkhx",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 139939,
+			"friends_count": 2151,
+			"listed_count": 3562,
+			"created_at": "Sun Jun 07 03:38:21 +0000 2015",
+			"favourites_count": 59062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238448948/1607164133",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 348,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "5. We don't have a theory for how human decision-making operates in an algorithm-driven online network of comprising billions of souls—and we argue there is no reason to expect some sort of invisible hand is going to bail us out and ensure that good information floats to the top."
+	},
+	{
+		"created_at": "Tue Jun 22 10:02:15 +0000 2021",
+		"id": 1407112913748299800,
+		"id_str": "1407277746963632130",
+		"full_text": "4. The problem is that this enormous transformation has taken place not as a stewarded effort to improve information quality or to further human well-being, but more or less simply for the purpose of keeping people engaged online in order to sell ads.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407100350142697500,
+		"in_reply_to_status_id_str": "1407100350142697473",
+		"in_reply_to_user_id": 3238448948,
+		"in_reply_to_user_id_str": "3238448948",
+		"in_reply_to_screen_name": "CT_Bergstrom",
+		"user": {
+			"id": 3238448948,
+			"id_str": "3238448948",
+			"name": "Carl T. Bergstrom",
+			"screen_name": "CT_Bergstrom",
+			"location": "Duwamish Lands (Seattle)",
+			"description": "#BlackLivesMatter\n\nInformation flow in bio, society, & science.\n\nBook *Calling Bullshit*: https://t.co/RJrqkYSrwM\n\nI love crows and ravens. he/him",
+			"url": "https://t.co/rB8CjwDMSs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rB8CjwDMSs",
+							"expanded_url": "http://ctbergstrom.com",
+							"display_url": "ctbergstrom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RJrqkYSrwM",
+							"expanded_url": "http://tinyurl.com/y7ekfkhx",
+							"display_url": "tinyurl.com/y7ekfkhx",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 139939,
+			"friends_count": 2151,
+			"listed_count": 3562,
+			"created_at": "Sun Jun 07 03:38:21 +0000 2015",
+			"favourites_count": 59062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238448948/1607164133",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 92,
+		"favorite_count": 444,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "4. The problem is that this enormous transformation has taken place not as a stewarded effort to improve information quality or to further human well-being, but more or less simply for the purpose of keeping people engaged online in order to sell ads."
+	},
+	{
+		"created_at": "Tue Jun 22 10:02:14 +0000 2021",
+		"id": 1407100350142697500,
+		"id_str": "1407277741502722050",
+		"full_text": "3. Think about how you receive information today, compared to fifteen years or twenty years ago. \n\nSocial media, internet search, click-based advertising: innovations in information technology and new mechanisms for monetizing information have rewired human communication.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407099264363208700,
+		"in_reply_to_status_id_str": "1407099264363208706",
+		"in_reply_to_user_id": 3238448948,
+		"in_reply_to_user_id_str": "3238448948",
+		"in_reply_to_screen_name": "CT_Bergstrom",
+		"user": {
+			"id": 3238448948,
+			"id_str": "3238448948",
+			"name": "Carl T. Bergstrom",
+			"screen_name": "CT_Bergstrom",
+			"location": "Duwamish Lands (Seattle)",
+			"description": "#BlackLivesMatter\n\nInformation flow in bio, society, & science.\n\nBook *Calling Bullshit*: https://t.co/RJrqkYSrwM\n\nI love crows and ravens. he/him",
+			"url": "https://t.co/rB8CjwDMSs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rB8CjwDMSs",
+							"expanded_url": "http://ctbergstrom.com",
+							"display_url": "ctbergstrom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RJrqkYSrwM",
+							"expanded_url": "http://tinyurl.com/y7ekfkhx",
+							"display_url": "tinyurl.com/y7ekfkhx",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 139939,
+			"friends_count": 2151,
+			"listed_count": 3562,
+			"created_at": "Sun Jun 07 03:38:21 +0000 2015",
+			"favourites_count": 59062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238448948/1607164133",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 307,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "3. Think about how you receive information today, compared to fifteen years or twenty years ago. \n\nSocial media, internet search, click-based advertising: innovations in information technology and new mechanisms for monetizing information have rewired human communication."
+	},
+	{
+		"created_at": "Tue Jun 22 10:02:12 +0000 2021",
+		"id": 1407099264363208700,
+		"id_str": "1407277733508313088",
+		"full_text": "2. This thread describes the paper and the backstory leading to it. I'll be posting over the course of the day as I can find the time.\n\nThree years ago, @uwcip postdoc @jbakcoleman organized a summer meeting at Princeton. I attended, and it changed the direction of my research.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "uwcip",
+					"name": "Center for an Informed Public",
+					"id": 1149023588818624500,
+					"id_str": "1149023588818624512",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"screen_name": "jbakcoleman",
+					"name": "Joe \"Dr. Doomscroller\" Bak-Coleman",
+					"id": 1419907861,
+					"id_str": "1419907861",
+					"indices": [
+						168,
+						180
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407098810942165000,
+		"in_reply_to_status_id_str": "1407098810942164993",
+		"in_reply_to_user_id": 3238448948,
+		"in_reply_to_user_id_str": "3238448948",
+		"in_reply_to_screen_name": "CT_Bergstrom",
+		"user": {
+			"id": 3238448948,
+			"id_str": "3238448948",
+			"name": "Carl T. Bergstrom",
+			"screen_name": "CT_Bergstrom",
+			"location": "Duwamish Lands (Seattle)",
+			"description": "#BlackLivesMatter\n\nInformation flow in bio, society, & science.\n\nBook *Calling Bullshit*: https://t.co/RJrqkYSrwM\n\nI love crows and ravens. he/him",
+			"url": "https://t.co/rB8CjwDMSs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rB8CjwDMSs",
+							"expanded_url": "http://ctbergstrom.com",
+							"display_url": "ctbergstrom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RJrqkYSrwM",
+							"expanded_url": "http://tinyurl.com/y7ekfkhx",
+							"display_url": "tinyurl.com/y7ekfkhx",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 139939,
+			"friends_count": 2151,
+			"listed_count": 3562,
+			"created_at": "Sun Jun 07 03:38:21 +0000 2015",
+			"favourites_count": 59062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278245715093815296/3Cgr874Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238448948/1607164133",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 217,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "2. This thread describes the paper and the backstory leading to it. I'll be posting over the course of the day as I can find the time.\n\nThree years ago, @uwcip postdoc @jbakcoleman organized a summer meeting at Princeton. I attended, and it changed the direction of my research."
+	},
+	{
 		"created_at": "Mon Jun 21 03:25:20 +0000 2021",
 		"id": 1406815473476407300,
 		"id_str": "1406815473476407303",
