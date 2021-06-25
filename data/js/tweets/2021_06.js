@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 25 00:25:37 +0000 2021",
+		"id": 1408219384737255400,
+		"id_str": "1408219798014627842",
+		"full_text": "여성 권익을 위해 동성 집단 내의 군비경쟁을 그만 두자는 것은 일리가 있는 주장입니다. 하지만 현대 여성이 남성의 동물적 면모에 혐오를 느껴 기왕 타자화할 것이라면, 그들의 그런 속성을 전제하고 보다 차갑게 접근하는 편이 현명할 것입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1408219304143724500,
+		"in_reply_to_status_id_str": "1408219304143724544",
+		"in_reply_to_user_id": 834020169680719900,
+		"in_reply_to_user_id_str": "834020169680719872",
+		"in_reply_to_screen_name": "ehrtjshxm7",
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10,
+			"friends_count": 33,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 695,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "여성 권익을 위해 동성 집단 내의 군비경쟁을 그만 두자는 것은 일리가 있는 주장입니다. 하지만 현대 여성이 남성의 동물적 면모에 혐오를 느껴 기왕 타자화할 것이라면, 그들의 그런 속성을 전제하고 보다 차갑게 접근하는 편이 현명할 것입니다."
+	},
+	{
+		"created_at": "Fri Jun 25 00:25:35 +0000 2021",
+		"id": 1408219304143724500,
+		"id_str": "1408219787470147584",
+		"full_text": "경제학의 합리적 인간을 설정하니까 그렇죠… 우리는 인간도 동물임을 잊으려 애쓴다. 비폭력적인 동물로 유명한 보노보는 암컷 상위의 사회인데, 이들은 성적으로(난교로) 수컷을 달랜다. 인간 사회는 여성의 본능에 따라 성적 대상화조차 금기시한다. 이것은 결정적 차이다.\nhttps://t.co/3WqsPOEypW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3WqsPOEypW",
+					"expanded_url": "https://twitter.com/imaum0217/status/1408021148445540355",
+					"display_url": "twitter.com/imaum0217/stat…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10,
+			"friends_count": 33,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 695,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1408021148445540400,
+		"quoted_status_id_str": "1408021148445540355",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3WqsPOEypW",
+			"expanded": "https://twitter.com/imaum0217/status/1408021148445540355",
+			"display": "twitter.com/imaum0217/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 24 11:16:16 +0000 2021",
+			"id": 1408021148445540400,
+			"id_str": "1408021148445540355",
+			"full_text": "친한 선생님이 한국의 남녀 성비 얘기를 들으시다가 \"이해가 안 되는 부분이 있는데, 여성의 수가 적으면 남자들이 그만큼 여성들에게 잘 해야 하는 거 아니야?? 여혐 남성들이 왜 생기는 거지?\"라고😇",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				110
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 197707412,
+				"id_str": "197707412",
+				"name": "지뇽뇽의 사회심리학 이야기",
+				"screen_name": "imaum0217",
+				"location": "Jin Park",
+				"description": "Psychology, Human Behavioral Research @DukePsychNeuro @UNC_PMR",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 79285,
+				"friends_count": 265,
+				"listed_count": 410,
+				"created_at": "Sat Oct 02 06:52:00 +0000 2010",
+				"favourites_count": 8861,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 30049,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1408054686763032578/znf0XzZ3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1408054686763032578/znf0XzZ3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/197707412/1567713781",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 753,
+			"favorite_count": 553,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "경제학의 합리적 인간을 설정하니까 그렇죠… 우리는 인간도 동물임을 잊으려 애쓴다. 비폭력적인 동물로 유명한 보노보는 암컷 상위의 사회인데, 이들은 성적으로(난교로) 수컷을 달랜다. 인간 사회는 여성의 본능에 따라 성적 대상화조차 금기시한다. 이것은 결정적 차이다.\nhttps://t.co/3WqsPOEypW"
+	},
+	{
 		"created_at": "Thu Jun 24 23:34:07 +0000 2021",
 		"id": 1408206836637966300,
 		"id_str": "1408206836637966338",
