@@ -1,6 +1,958 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 08 18:59:37 +0000 2021",
+		"id": 1412729423535685600,
+		"id_str": "1413211185994813444",
+		"full_text": "여론은 전체적인 흐름이 어떻게 되어가는지 지표로써 작용해야지 정치적 행동을 하기 위한 판단 기준으로 삼는 건 정치적으로 멍청한 행동임. 왜 브렉시트를 국민투표로 정하는 게 멍청한 행동이었는지 상기할 필요가 있음. 마찬가지 의미에서 스코틀랜드 독립투표도 멍청한 짓이 될 것임.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": 1412729422357147600,
+		"in_reply_to_status_id_str": "1412729422357147651",
+		"in_reply_to_user_id": 40862564,
+		"in_reply_to_user_id_str": "40862564",
+		"in_reply_to_screen_name": "mipeng",
+		"user": {
+			"id": 40862564,
+			"id_str": "40862564",
+			"name": "될대로 되라",
+			"screen_name": "mipeng",
+			"location": "",
+			"description": "평범한 직장인",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 513,
+			"friends_count": 378,
+			"listed_count": 11,
+			"created_at": "Mon May 18 12:22:36 +0000 2009",
+			"favourites_count": 2259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101482605160083461/R2qFV6tv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101482605160083461/R2qFV6tv_normal.jpg",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "여론은 전체적인 흐름이 어떻게 되어가는지 지표로써 작용해야지 정치적 행동을 하기 위한 판단 기준으로 삼는 건 정치적으로 멍청한 행동임. 왜 브렉시트를 국민투표로 정하는 게 멍청한 행동이었는지 상기할 필요가 있음. 마찬가지 의미에서 스코틀랜드 독립투표도 멍청한 짓이 될 것임."
+	},
+	{
+		"created_at": "Thu Jul 08 18:59:34 +0000 2021",
+		"id": 1412729422357147600,
+		"id_str": "1413211173508448256",
+		"full_text": "예를 들어 체임벌린 수상은 뮌헨 회의로 나치 독일의 힘을 키워준 것으로 유명하지만, 국내에서는 전쟁을 막았다고 환영하는 여론을 얻었음. 하지만 몇 개월 뒤에 나치가 폴란드를 침공하자 여론의 뭇매를 맞고 사퇴함. 여론에서 특정 결론이라는 건 생각보다 쉽게 바뀜.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": 1412722211350327300,
+		"in_reply_to_status_id_str": "1412722211350327299",
+		"in_reply_to_user_id": 40862564,
+		"in_reply_to_user_id_str": "40862564",
+		"in_reply_to_screen_name": "mipeng",
+		"user": {
+			"id": 40862564,
+			"id_str": "40862564",
+			"name": "될대로 되라",
+			"screen_name": "mipeng",
+			"location": "",
+			"description": "평범한 직장인",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 513,
+			"friends_count": 378,
+			"listed_count": 11,
+			"created_at": "Mon May 18 12:22:36 +0000 2009",
+			"favourites_count": 2259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101482605160083461/R2qFV6tv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101482605160083461/R2qFV6tv_normal.jpg",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "예를 들어 체임벌린 수상은 뮌헨 회의로 나치 독일의 힘을 키워준 것으로 유명하지만, 국내에서는 전쟁을 막았다고 환영하는 여론을 얻었음. 하지만 몇 개월 뒤에 나치가 폴란드를 침공하자 여론의 뭇매를 맞고 사퇴함. 여론에서 특정 결론이라는 건 생각보다 쉽게 바뀜."
+	},
+	{
+		"created_at": "Thu Jul 08 18:59:32 +0000 2021",
+		"id": 1412722211350327300,
+		"id_str": "1413211166604595201",
+		"full_text": "얼마전에 논란이 되었던 이대남 여론조사처럼 여론조사 자체가 객관적으로 현상을 \"측정\"하려면 굉장히 정교해야 하는데 사실 거의 불가능에 가까움. 왜냐하면 여론은 정책결정자의 행동과 외부 요소에 의해 자주 바뀔 수 있음. 그래서 정부조직 자체가 보수적으로 움직이도록 조직되어 있는 거고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1412722210142314500,
+		"in_reply_to_status_id_str": "1412722210142314498",
+		"in_reply_to_user_id": 40862564,
+		"in_reply_to_user_id_str": "40862564",
+		"in_reply_to_screen_name": "mipeng",
+		"user": {
+			"id": 40862564,
+			"id_str": "40862564",
+			"name": "될대로 되라",
+			"screen_name": "mipeng",
+			"location": "",
+			"description": "평범한 직장인",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 513,
+			"friends_count": 378,
+			"listed_count": 11,
+			"created_at": "Mon May 18 12:22:36 +0000 2009",
+			"favourites_count": 2259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101482605160083461/R2qFV6tv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101482605160083461/R2qFV6tv_normal.jpg",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "얼마전에 논란이 되었던 이대남 여론조사처럼 여론조사 자체가 객관적으로 현상을 \"측정\"하려면 굉장히 정교해야 하는데 사실 거의 불가능에 가까움. 왜냐하면 여론은 정책결정자의 행동과 외부 요소에 의해 자주 바뀔 수 있음. 그래서 정부조직 자체가 보수적으로 움직이도록 조직되어 있는 거고."
+	},
+	{
+		"created_at": "Thu Jul 08 18:59:23 +0000 2021",
+		"id": 1412722210142314500,
+		"id_str": "1413211128209891328",
+		"full_text": "다른 식의 질문으로 북한을 얻기 위해 중국과 전쟁을 해서 해야 하느냐? 라는 질문도 할 수 있고. 중국이랑 전쟁하는데 미국 또는 일본이 개입하지 않아도 중국과 전쟁할 꺼냐? 라는 식의 질문에도 여러가지 답변이 나올 수 있음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1412722208762368000,
+		"in_reply_to_status_id_str": "1412722208762368004",
+		"in_reply_to_user_id": 40862564,
+		"in_reply_to_user_id_str": "40862564",
+		"in_reply_to_screen_name": "mipeng",
+		"user": {
+			"id": 40862564,
+			"id_str": "40862564",
+			"name": "될대로 되라",
+			"screen_name": "mipeng",
+			"location": "",
+			"description": "평범한 직장인",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 513,
+			"friends_count": 378,
+			"listed_count": 11,
+			"created_at": "Mon May 18 12:22:36 +0000 2009",
+			"favourites_count": 2259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101482605160083461/R2qFV6tv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101482605160083461/R2qFV6tv_normal.jpg",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "다른 식의 질문으로 북한을 얻기 위해 중국과 전쟁을 해서 해야 하느냐? 라는 질문도 할 수 있고. 중국이랑 전쟁하는데 미국 또는 일본이 개입하지 않아도 중국과 전쟁할 꺼냐? 라는 식의 질문에도 여러가지 답변이 나올 수 있음."
+	},
+	{
+		"created_at": "Thu Jul 08 18:59:13 +0000 2021",
+		"id": 1412722208762368000,
+		"id_str": "1413211086422044681",
+		"full_text": "그냥 대부분이 사람이 질문자체가 이상하다는 걸 지적하는 버릇이 없음. 두번째 질문도 원하는 대답을 얻기 위해 한 질문인 건 마찬가지임. 예를 들어 붕괴해서 알아서 정부세우게 UN이나 6자공동 관리구역으로 만들자라는 옵션은 없잖아? https://t.co/y1TKXQdfD6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y1TKXQdfD6",
+					"expanded_url": "https://twitter.com/sight_archive/status/1412620839372025858",
+					"display_url": "twitter.com/sight_archive/…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40862564,
+			"id_str": "40862564",
+			"name": "될대로 되라",
+			"screen_name": "mipeng",
+			"location": "",
+			"description": "평범한 직장인",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 513,
+			"friends_count": 378,
+			"listed_count": 11,
+			"created_at": "Mon May 18 12:22:36 +0000 2009",
+			"favourites_count": 2259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101482605160083461/R2qFV6tv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101482605160083461/R2qFV6tv_normal.jpg",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1412620839372025900,
+		"quoted_status_id_str": "1412620839372025858",
+		"quoted_status_permalink": {
+			"url": "https://t.co/y1TKXQdfD6",
+			"expanded": "https://twitter.com/sight_archive/status/1412620839372025858",
+			"display": "twitter.com/sight_archive/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 07 03:53:47 +0000 2021",
+			"id": 1412620839372025900,
+			"id_str": "1412620839372025858",
+			"full_text": "우리나라 통일에 대한 발상의 전환 https://t.co/Qu7pzLqRiw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				18
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1412620809227563000,
+						"id_str": "1412620809227563012",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/E5qjJEBVcAQCDMw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5qjJEBVcAQCDMw.jpg",
+						"url": "https://t.co/Qu7pzLqRiw",
+						"display_url": "pic.twitter.com/Qu7pzLqRiw",
+						"expanded_url": "https://twitter.com/sight_archive/status/1412620839372025858/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 693,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 734,
+								"h": 1271,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 393,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1412620809227563000,
+						"id_str": "1412620809227563012",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/E5qjJEBVcAQCDMw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5qjJEBVcAQCDMw.jpg",
+						"url": "https://t.co/Qu7pzLqRiw",
+						"display_url": "pic.twitter.com/Qu7pzLqRiw",
+						"expanded_url": "https://twitter.com/sight_archive/status/1412620839372025858/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 693,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 734,
+								"h": 1271,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 393,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1412620809240137700,
+						"id_str": "1412620809240137729",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/E5qjJEEVUAEW6P5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5qjJEEVUAEW6P5.jpg",
+						"url": "https://t.co/Qu7pzLqRiw",
+						"display_url": "pic.twitter.com/Qu7pzLqRiw",
+						"expanded_url": "https://twitter.com/sight_archive/status/1412620839372025858/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 395,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 696,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 734,
+								"h": 1265,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1412620809244352500,
+						"id_str": "1412620809244352516",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/E5qjJEFVoAQfy9s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5qjJEFVoAQfy9s.jpg",
+						"url": "https://t.co/Qu7pzLqRiw",
+						"display_url": "pic.twitter.com/Qu7pzLqRiw",
+						"expanded_url": "https://twitter.com/sight_archive/status/1412620839372025858/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 734,
+								"h": 1266,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 394,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 696,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1412620809235886000,
+						"id_str": "1412620809235886083",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/E5qjJEDUcAM4niC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5qjJEDUcAM4niC.jpg",
+						"url": "https://t.co/Qu7pzLqRiw",
+						"display_url": "pic.twitter.com/Qu7pzLqRiw",
+						"expanded_url": "https://twitter.com/sight_archive/status/1412620839372025858/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 593,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 734,
+								"h": 841,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 734,
+								"h": 841,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1378204366851559400,
+				"id_str": "1378204366851559426",
+				"name": "오늘의 통찰",
+				"screen_name": "sight_archive",
+				"location": "",
+				"description": "깨달은 것들에 대해 기록해나가는 계정",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3309,
+				"friends_count": 0,
+				"listed_count": 13,
+				"created_at": "Sat Apr 03 04:35:36 +0000 2021",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 33,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1381130186960240641/SBKNXeQd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1381130186960240641/SBKNXeQd_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8292,
+			"favorite_count": 5759,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 27,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그냥 대부분이 사람이 질문자체가 이상하다는 걸 지적하는 버릇이 없음. 두번째 질문도 원하는 대답을 얻기 위해 한 질문인 건 마찬가지임. 예를 들어 붕괴해서 알아서 정부세우게 UN이나 6자공동 관리구역으로 만들자라는 옵션은 없잖아? https://t.co/y1TKXQdfD6"
+	},
+	{
+		"created_at": "Thu Jul 08 18:50:14 +0000 2021",
+		"id": 1413208824920514600,
+		"id_str": "1413208824920514561",
+		"full_text": "\"한국인들은 방공호 정서를 갖고 있으며, 외부로부터의 위협에 지나치게 민감하고, 언제나 희생자 놀이를 할 준비가되어 있다는 것이다. 이 비판은 때로는 타당하지만...\" (다니엘 튜더, 2013) https://t.co/yyvGwSIR8J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1413208823016280000,
+					"id_str": "1413208823016280065",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/E5y57-FVUAEnuv1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5y57-FVUAEnuv1.jpg",
+					"url": "https://t.co/yyvGwSIR8J",
+					"display_url": "pic.twitter.com/yyvGwSIR8J",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1413208824920514561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 499,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1006,
+							"h": 738,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1006,
+							"h": 738,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413208823016280000,
+					"id_str": "1413208823016280065",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/E5y57-FVUAEnuv1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5y57-FVUAEnuv1.jpg",
+					"url": "https://t.co/yyvGwSIR8J",
+					"display_url": "pic.twitter.com/yyvGwSIR8J",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1413208824920514561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 499,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1006,
+							"h": 738,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1006,
+							"h": 738,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 96,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3857,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14173,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"한국인들은 방공호 정서를 갖고 있으며, 외부로부터의 위협에 지나치게 민감하고, 언제나 희생자 놀이를 할 준비가되어 있다는 것이다. 이 비판은 때로는 타당하지만...\" (다니엘 튜더, 2013) https://t.co/yyvGwSIR8J"
+	},
+	{
+		"created_at": "Thu Jul 08 18:41:23 +0000 2021",
+		"id": 290694414840508400,
+		"id_str": "1413206597854138368",
+		"full_text": "@cm171 방공호정서는 임근준 선생님의 용어지요. 들어주셔서 감사합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cm171",
+					"name": "NAMISA",
+					"id": 237259569,
+					"id_str": "237259569",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 290692288588415000,
+		"in_reply_to_status_id_str": "290692288588414976",
+		"in_reply_to_user_id": 237259569,
+		"in_reply_to_user_id_str": "237259569",
+		"in_reply_to_screen_name": "cm171",
+		"user": {
+			"id": 69777839,
+			"id_str": "69777839",
+			"name": "JP",
+			"screen_name": "DrPatariro",
+			"location": "",
+			"description": "If it's unmeasurable, I am not interested in it.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6340,
+			"friends_count": 7047,
+			"listed_count": 117,
+			"created_at": "Sat Aug 29 03:33:25 +0000 2009",
+			"favourites_count": 7119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 190845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1165970014412922881/2E4n09SC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1165970014412922881/2E4n09SC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/69777839/1423901897",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@cm171 방공호정서는 임근준 선생님의 용어지요. 들어주셔서 감사합니다."
+	},
+	{
 		"created_at": "Thu Jul 08 17:56:30 +0000 2021",
 		"id": 1413195303180673000,
 		"id_str": "1413195303180673025",
