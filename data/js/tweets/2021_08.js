@@ -1,6 +1,178 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sat Aug 28 21:24:50 +0000 2021",
+		"id": 1431729512979394600,
+		"id_str": "1431729512979394561",
+		"full_text": "\"위선을 욕하기는 쉽다. 자신에 대한 성찰이 불필요하기 때문이다. 같은 짓을 저지른 사람도 돌을 던질 수 있다. 위선 프레임이 강해지면 (중략) 다른 사람은 은근슬쩍 비난 여론으로부터 자유로워진다.\"\n\nhttps://t.co/fJEdHqJUYj https://t.co/HKST1kYonQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fJEdHqJUYj",
+					"expanded_url": "https://m.hani.co.kr/arti/society/society_general/1007688.html#cb#csidx17df1d71aac227cb45079b398b8c2e1",
+					"display_url": "m.hani.co.kr/arti/society/s…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1431729211941654500,
+					"id_str": "1431729211941654529",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/E96GIfRVEAEbS8B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E96GIfRVEAEbS8B.jpg",
+					"url": "https://t.co/HKST1kYonQ",
+					"display_url": "pic.twitter.com/HKST1kYonQ",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1431729512979394561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1047,
+							"h": 1297,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 969,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1431729211941654500,
+					"id_str": "1431729211941654529",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/E96GIfRVEAEbS8B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E96GIfRVEAEbS8B.jpg",
+					"url": "https://t.co/HKST1kYonQ",
+					"display_url": "pic.twitter.com/HKST1kYonQ",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1431729512979394561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1047,
+							"h": 1297,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 969,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 7,
+			"friends_count": 94,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"위선을 욕하기는 쉽다. 자신에 대한 성찰이 불필요하기 때문이다. 같은 짓을 저지른 사람도 돌을 던질 수 있다. 위선 프레임이 강해지면 (중략) 다른 사람은 은근슬쩍 비난 여론으로부터 자유로워진다.\"\n\nhttps://t.co/fJEdHqJUYj https://t.co/HKST1kYonQ"
+	},
+	{
 		"created_at": "Sat Aug 14 03:50:15 +0000 2021",
 		"id": 1426390688170602500,
 		"id_str": "1426390688170602498",
