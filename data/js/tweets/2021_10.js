@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 20 05:23:48 +0000 2021",
+		"id": 1450677263859548200,
+		"id_str": "1450694216217071619",
+		"full_text": "책 디테일에 쓰러짐 https://t.co/Wrut912Ha1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1450677256947335200,
+					"id_str": "1450677256947335170",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/FCHXR3gVgAIQpAb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCHXR3gVgAIQpAb.jpg",
+					"url": "https://t.co/Wrut912Ha1",
+					"display_url": "pic.twitter.com/Wrut912Ha1",
+					"expanded_url": "https://twitter.com/lakinan/status/1450677263859548162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 605,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1395,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1068,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450677256947335200,
+					"id_str": "1450677256947335170",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/FCHXR3gVgAIQpAb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCHXR3gVgAIQpAb.jpg",
+					"url": "https://t.co/Wrut912Ha1",
+					"display_url": "pic.twitter.com/Wrut912Ha1",
+					"expanded_url": "https://twitter.com/lakinan/status/1450677263859548162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 605,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1395,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1068,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1450677256964083700,
+					"id_str": "1450677256964083715",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/FCHXR3kVEAMdU-o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCHXR3kVEAMdU-o.jpg",
+					"url": "https://t.co/Wrut912Ha1",
+					"display_url": "pic.twitter.com/Wrut912Ha1",
+					"expanded_url": "https://twitter.com/lakinan/status/1450677263859548162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 603,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1065,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 231756493,
+			"id_str": "231756493",
+			"name": "오나선",
+			"screen_name": "lakinan",
+			"location": "",
+			"description": "그리고 결국 할 수 있는 일을 모두 한 후에는, 더 완벽한 것은 없으니, 그저 사람들을 믿는 수밖에 없다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9124,
+			"friends_count": 527,
+			"listed_count": 74,
+			"created_at": "Wed Dec 29 11:16:37 +0000 2010",
+			"favourites_count": 1241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1416436927784357894/iKeTU7X9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1416436927784357894/iKeTU7X9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/231756493/1503487449",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 555,
+		"favorite_count": 249,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "책 디테일에 쓰러짐 https://t.co/Wrut912Ha1"
+	},
+	{
 		"created_at": "Tue Oct 19 10:12:19 +0000 2021",
 		"id": 1450404436996620300,
 		"id_str": "1450404436996620292",
