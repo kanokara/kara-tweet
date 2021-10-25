@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 25 13:20:42 +0000 2021",
+		"id": 1450863757555503000,
+		"id_str": "1452626171938496513",
+		"full_text": "진정한 친구^^ https://t.co/zXyDqNaW5j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1450863727125823500,
+					"id_str": "1450863727125823488",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/FCKA33DVgAA4lfz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCKA33DVgAA4lfz.jpg",
+					"url": "https://t.co/zXyDqNaW5j",
+					"display_url": "pic.twitter.com/zXyDqNaW5j",
+					"expanded_url": "https://twitter.com/talmo18/status/1450863757555503109/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450863727125823500,
+					"id_str": "1450863727125823488",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/FCKA33DVgAA4lfz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCKA33DVgAA4lfz.jpg",
+					"url": "https://t.co/zXyDqNaW5j",
+					"display_url": "pic.twitter.com/zXyDqNaW5j",
+					"expanded_url": "https://twitter.com/talmo18/status/1450863757555503109/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1450861950707982300,
+		"in_reply_to_status_id_str": "1450861950707982338",
+		"in_reply_to_user_id": 779763069966692400,
+		"in_reply_to_user_id_str": "779763069966692352",
+		"in_reply_to_screen_name": "talmo18",
+		"user": {
+			"id": 779763069966692400,
+			"id_str": "779763069966692352",
+			"name": "먹🌚しじま",
+			"screen_name": "talmo18",
+			"location": "불모지",
+			"description": "◆Do not repost or use my artwork\n◆日本語おk\n◆Pixiv→ https://t.co/agitULbW9A",
+			"url": "https://t.co/DsEtqv3klV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DsEtqv3klV",
+							"expanded_url": "https://talmo18.postype.com/",
+							"display_url": "talmo18.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/agitULbW9A",
+							"expanded_url": "http://pixiv.net/users/1515591",
+							"display_url": "pixiv.net/users/1515591",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2022,
+			"friends_count": 10,
+			"listed_count": 17,
+			"created_at": "Sat Sep 24 19:22:57 +0000 2016",
+			"favourites_count": 7904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9246,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434152262541053953/RfS8jo7n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434152262541053953/RfS8jo7n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/779763069966692352/1634887783",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 270,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "진정한 친구^^ https://t.co/zXyDqNaW5j"
+	},
+	{
 		"created_at": "Mon Oct 25 10:47:06 +0000 2021",
 		"id": 1452587517924970500,
 		"id_str": "1452587517924970501",
