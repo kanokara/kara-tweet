@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 10 09:52:13 +0000 2021",
+		"id": 1458371912174768000,
+		"id_str": "1458371912174768129",
+		"full_text": "@sayanghwa 네. 안 그런 남성향이 드물죠. 사회 질서의 바깥에 초월적으로 위치하면서도 사회로부터 승인되고 구애되는. 비단 픽션뿐 아니라 남성 추종자를 이끄는 리더들은 이런 스토리로 자신을 포지셔닝하는 거 같아요.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sayanghwa",
+					"name": "UFO의 여름 속의 레이먼드",
+					"id": 1696420058,
+					"id_str": "1696420058",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1458370596132188200,
+		"in_reply_to_status_id_str": "1458370596132188163",
+		"in_reply_to_user_id": 1696420058,
+		"in_reply_to_user_id_str": "1696420058",
+		"in_reply_to_screen_name": "sayanghwa",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sayanghwa 네. 안 그런 남성향이 드물죠. 사회 질서의 바깥에 초월적으로 위치하면서도 사회로부터 승인되고 구애되는. 비단 픽션뿐 아니라 남성 추종자를 이끄는 리더들은 이런 스토리로 자신을 포지셔닝하는 거 같아요."
+	},
+	{
+		"created_at": "Wed Nov 10 09:25:55 +0000 2021",
+		"id": 1458365292220862500,
+		"id_str": "1458365292220862470",
+		"full_text": "사회 내 존재로 잘 나가는 인물을 선망하는 것과 사회 외 존재로 잘 나가는 인물을 선망하는... 그런 위치 설정의 차이.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1458339458491711500,
+		"in_reply_to_status_id_str": "1458339458491711489",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "사회 내 존재로 잘 나가는 인물을 선망하는 것과 사회 외 존재로 잘 나가는 인물을 선망하는... 그런 위치 설정의 차이."
+	},
+	{
+		"created_at": "Wed Nov 10 09:12:20 +0000 2021",
+		"id": 1458334503328309200,
+		"id_str": "1458361873129082882",
+		"full_text": "특정 집단을 만들어 자극적인 이름을 붙이는 건 많이 해왔고 실제로 인지도를 높이고 여론에 반영하는데 매우 성공적인 방식이고 다들 쓰고 싶겠지만, 이를 위해 설문 대상자를 “모호한 기준으로” 분류하고 이를 기반으로 하고자 하는 말을 풀어가는 기법’을 사용하는 글을 나는 신뢰하기 어렵네.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1458332657691943000,
+		"in_reply_to_status_id_str": "1458332657691942915",
+		"in_reply_to_user_id": 52306752,
+		"in_reply_to_user_id_str": "52306752",
+		"in_reply_to_screen_name": "mazycat",
+		"user": {
+			"id": 52306752,
+			"id_str": "52306752",
+			"name": "JeongMin Kwon(꼬젯)",
+			"screen_name": "mazycat",
+			"location": "Seoul,KOREA",
+			"description": "Data Tinker. 데이터 관련 온갖 일 + 저술, 번역, 감수. 트윗엔 주로 잡담 및 잉여질. https://t.co/L47yqPdBRp",
+			"url": "https://t.co/AEqAiPY9IJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AEqAiPY9IJ",
+							"expanded_url": "http://cojette.github.io",
+							"display_url": "cojette.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/L47yqPdBRp",
+							"expanded_url": "https://www.aladin.co.kr/m/mproduct.aspx?ItemId=276662690",
+							"display_url": "aladin.co.kr/m/mproduct.asp…",
+							"indices": [
+								56,
+								79
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2310,
+			"friends_count": 557,
+			"listed_count": 75,
+			"created_at": "Tue Jun 30 04:48:15 +0000 2009",
+			"favourites_count": 4032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1218450055268466688/QfbQzOnq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218450055268466688/QfbQzOnq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52306752/1595991323",
+			"profile_link_color": "037091",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "363636",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "특정 집단을 만들어 자극적인 이름을 붙이는 건 많이 해왔고 실제로 인지도를 높이고 여론에 반영하는데 매우 성공적인 방식이고 다들 쓰고 싶겠지만, 이를 위해 설문 대상자를 “모호한 기준으로” 분류하고 이를 기반으로 하고자 하는 말을 풀어가는 기법’을 사용하는 글을 나는 신뢰하기 어렵네."
+	},
+	{
 		"created_at": "Wed Nov 10 07:43:16 +0000 2021",
 		"id": 1458339458491711500,
 		"id_str": "1458339458491711489",
