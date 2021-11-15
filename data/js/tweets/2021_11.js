@@ -1,6 +1,869 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 15 02:42:23 +0000 2021",
+		"id": 1459534705007550500,
+		"id_str": "1460075678842245121",
+		"full_text": "난 이걸 이용해서 초딩 이하만 이용 가능한 수영장 어린이 미끄럼틀을 탔다 내 나이 스물둘의 여름이었다 https://t.co/dcI0GZLAwl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dcI0GZLAwl",
+					"expanded_url": "https://twitter.com/qqeung_/status/1459067755794108416",
+					"display_url": "twitter.com/qqeung_/status…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 714508642263797800,
+			"id_str": "714508642263797760",
+			"name": "흥의 꽃",
+			"screen_name": "4PSSIluiZbg1dJq",
+			"location": "대한민국",
+			"description": "꽃과 함께",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16,
+			"friends_count": 420,
+			"listed_count": 0,
+			"created_at": "Mon Mar 28 17:45:10 +0000 2016",
+			"favourites_count": 21260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048231123547971584/8E1HHWX4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048231123547971584/8E1HHWX4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/714508642263797760/1538752867",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1459067755794108400,
+		"quoted_status_id_str": "1459067755794108416",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dcI0GZLAwl",
+			"expanded": "https://twitter.com/qqeung_/status/1459067755794108416",
+			"display": "twitter.com/qqeung_/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 12 07:57:15 +0000 2021",
+			"id": 1459067755794108400,
+			"id_str": "1459067755794108416",
+			"full_text": "불란서에서 나는 어딜가나 갱장히 친절하게 대해졌다 나중에 친구를 만나서 그 이유를 알 수 있었다 빠리 시민들은 나를.. 나를.. 어린이로 알았던 것이다..",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				86
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1135744837599150100,
+				"id_str": "1135744837599150080",
+				"name": "양서류(메인트봐주세요)",
+				"screen_name": "qqeung_",
+				"location": "라이온즈파크",
+				"description": "그거 내가 썼는데 아침에 일어나니까 없더라고 염소가 먹었나봐",
+				"url": "https://t.co/JlXQOzK64a",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JlXQOzK64a",
+								"expanded_url": "http://dancingkirin.tistory.com",
+								"display_url": "dancingkirin.tistory.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1546,
+				"friends_count": 380,
+				"listed_count": 7,
+				"created_at": "Tue Jun 04 03:07:25 +0000 2019",
+				"favourites_count": 4339,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 64582,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1407951329788526594/YRJyPQ4t_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407951329788526594/YRJyPQ4t_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1135744837599150080/1635136125",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8007,
+			"favorite_count": 4633,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 59,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "난 이걸 이용해서 초딩 이하만 이용 가능한 수영장 어린이 미끄럼틀을 탔다 내 나이 스물둘의 여름이었다 https://t.co/dcI0GZLAwl"
+	},
+	{
+		"created_at": "Mon Nov 15 02:42:16 +0000 2021",
+		"id": 1459493112959492000,
+		"id_str": "1460075650878824449",
+		"full_text": "이전에 일하던 회사가 외국인의 왕래가 많았는데...\n언제나 큐티 스위티 베이비 소리를 들었던 이유를 깨달았다\n날... 응애로 본 거였어?\n알바 온... 학생으로 봤던 거야?\n미국인 데이비드씨 듣고있다면 정답을 알려줘 https://t.co/hep9g4gbYb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hep9g4gbYb",
+					"expanded_url": "https://twitter.com/qqeung_/status/1459067755794108416",
+					"display_url": "twitter.com/qqeung_/status…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1140678648443228200,
+			"id_str": "1140678648443228160",
+			"name": "어깨펴고척추세우세요",
+			"screen_name": "joongdok_1864",
+			"location": "",
+			"description": "20⬆️🔥눋시 버닝🔥중독 메인🔥글그림 멀티연성러🔥글밥먹는 인간🔥현생에 치여사는 편🔥법블레스유🔥\n닉네임 : 미스즈🔥",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72,
+			"friends_count": 110,
+			"listed_count": 2,
+			"created_at": "Mon Jun 17 17:52:37 +0000 2019",
+			"favourites_count": 2323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1735,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1438124569701740545/DoImff2w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1438124569701740545/DoImff2w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1140678648443228160/1627798436",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1459067755794108400,
+		"quoted_status_id_str": "1459067755794108416",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hep9g4gbYb",
+			"expanded": "https://twitter.com/qqeung_/status/1459067755794108416",
+			"display": "twitter.com/qqeung_/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 12 07:57:15 +0000 2021",
+			"id": 1459067755794108400,
+			"id_str": "1459067755794108416",
+			"full_text": "불란서에서 나는 어딜가나 갱장히 친절하게 대해졌다 나중에 친구를 만나서 그 이유를 알 수 있었다 빠리 시민들은 나를.. 나를.. 어린이로 알았던 것이다..",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				86
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1135744837599150100,
+				"id_str": "1135744837599150080",
+				"name": "양서류(메인트봐주세요)",
+				"screen_name": "qqeung_",
+				"location": "라이온즈파크",
+				"description": "그거 내가 썼는데 아침에 일어나니까 없더라고 염소가 먹었나봐",
+				"url": "https://t.co/JlXQOzK64a",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JlXQOzK64a",
+								"expanded_url": "http://dancingkirin.tistory.com",
+								"display_url": "dancingkirin.tistory.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1546,
+				"friends_count": 380,
+				"listed_count": 7,
+				"created_at": "Tue Jun 04 03:07:25 +0000 2019",
+				"favourites_count": 4339,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 64582,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1407951329788526594/YRJyPQ4t_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407951329788526594/YRJyPQ4t_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1135744837599150080/1635136125",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8007,
+			"favorite_count": 4633,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이전에 일하던 회사가 외국인의 왕래가 많았는데...\n언제나 큐티 스위티 베이비 소리를 들었던 이유를 깨달았다\n날... 응애로 본 거였어?\n알바 온... 학생으로 봤던 거야?\n미국인 데이비드씨 듣고있다면 정답을 알려줘 https://t.co/hep9g4gbYb"
+	},
+	{
+		"created_at": "Mon Nov 15 02:26:34 +0000 2021",
+		"id": 1459362377317503000,
+		"id_str": "1460071697910931459",
+		"full_text": "ㅋㅋㅋㅋㅋㅋ앜ㅋㅋ 센트럴파크 걷고 있는데 지나가던 경찰차가 갑자기 서더니 경찰관, 경찰차, 그리고 내가 잘 나올 수 있게 사진을 찍게 해줘서 진짜 당황스러웠는데.. 뭐야.. 경찰차가 멋지다고 생각할 어린이로 알았던 걸까..?... 추억 만들어주기,,?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1459359790186958800,
+		"in_reply_to_status_id_str": "1459359790186958854",
+		"in_reply_to_user_id": 820227414110314500,
+		"in_reply_to_user_id_str": "820227414110314497",
+		"in_reply_to_screen_name": "tangerine_kki",
+		"user": {
+			"id": 820227414110314500,
+			"id_str": "820227414110314497",
+			"name": "꒱⊹ ˚◞. 귤",
+			"screen_name": "tangerine_kki",
+			"location": "",
+			"description": "슬플 때 무언가 결심하지 말 것.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3216,
+			"friends_count": 130,
+			"listed_count": 17,
+			"created_at": "Sat Jan 14 11:13:49 +0000 2017",
+			"favourites_count": 23416,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 337,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1451879767171473408/ENMx1v-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451879767171473408/ENMx1v-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/820227414110314497/1634992989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1160,
+		"favorite_count": 730,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "ㅋㅋㅋㅋㅋㅋ앜ㅋㅋ 센트럴파크 걷고 있는데 지나가던 경찰차가 갑자기 서더니 경찰관, 경찰차, 그리고 내가 잘 나올 수 있게 사진을 찍게 해줘서 진짜 당황스러웠는데.. 뭐야.. 경찰차가 멋지다고 생각할 어린이로 알았던 걸까..?... 추억 만들어주기,,?"
+	},
+	{
+		"created_at": "Mon Nov 15 02:26:32 +0000 2021",
+		"id": 1459359790186958800,
+		"id_str": "1460071688700260354",
+		"full_text": "세상에.. 나 뉴욕에 있을 때 내 손은 음식 먹을 때 밖에 안 쓰고 모든 짐을 다 들어주었으며 조금이라도 길을 헤매는 듯 보이면 허니 무슨 일이야 눈을 맞춰주며 도와주었고 내 신발과 복장이 너무너무 귀엽다며 어디서든 칭찬받았어.. 레이디퍼스트를 넘어선 무언가를 느꼈는데.. 설마..? https://t.co/NgKY1locKk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NgKY1locKk",
+					"expanded_url": "https://twitter.com/qqeung_/status/1459067755794108416",
+					"display_url": "twitter.com/qqeung_/status…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 820227414110314500,
+			"id_str": "820227414110314497",
+			"name": "꒱⊹ ˚◞. 귤",
+			"screen_name": "tangerine_kki",
+			"location": "",
+			"description": "슬플 때 무언가 결심하지 말 것.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3216,
+			"friends_count": 130,
+			"listed_count": 17,
+			"created_at": "Sat Jan 14 11:13:49 +0000 2017",
+			"favourites_count": 23416,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 337,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1451879767171473408/ENMx1v-j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451879767171473408/ENMx1v-j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/820227414110314497/1634992989",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1459067755794108400,
+		"quoted_status_id_str": "1459067755794108416",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NgKY1locKk",
+			"expanded": "https://twitter.com/qqeung_/status/1459067755794108416",
+			"display": "twitter.com/qqeung_/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 12 07:57:15 +0000 2021",
+			"id": 1459067755794108400,
+			"id_str": "1459067755794108416",
+			"full_text": "불란서에서 나는 어딜가나 갱장히 친절하게 대해졌다 나중에 친구를 만나서 그 이유를 알 수 있었다 빠리 시민들은 나를.. 나를.. 어린이로 알았던 것이다..",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				86
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1135744837599150100,
+				"id_str": "1135744837599150080",
+				"name": "양서류(메인트봐주세요)",
+				"screen_name": "qqeung_",
+				"location": "라이온즈파크",
+				"description": "그거 내가 썼는데 아침에 일어나니까 없더라고 염소가 먹었나봐",
+				"url": "https://t.co/JlXQOzK64a",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JlXQOzK64a",
+								"expanded_url": "http://dancingkirin.tistory.com",
+								"display_url": "dancingkirin.tistory.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1546,
+				"friends_count": 380,
+				"listed_count": 7,
+				"created_at": "Tue Jun 04 03:07:25 +0000 2019",
+				"favourites_count": 4339,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 64582,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1407951329788526594/YRJyPQ4t_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407951329788526594/YRJyPQ4t_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1135744837599150080/1635136125",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8007,
+			"favorite_count": 4633,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 5430,
+		"favorite_count": 2230,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세상에.. 나 뉴욕에 있을 때 내 손은 음식 먹을 때 밖에 안 쓰고 모든 짐을 다 들어주었으며 조금이라도 길을 헤매는 듯 보이면 허니 무슨 일이야 눈을 맞춰주며 도와주었고 내 신발과 복장이 너무너무 귀엽다며 어디서든 칭찬받았어.. 레이디퍼스트를 넘어선 무언가를 느꼈는데.. 설마..? https://t.co/NgKY1locKk"
+	},
+	{
+		"created_at": "Mon Nov 15 02:12:36 +0000 2021",
+		"id": 1459069177218494500,
+		"id_str": "1460068185210703874",
+		"full_text": "지하철에서.. 막.. 자리를 양보 해주고 더운데 있음 물도 챙겨주었다.. 나는 상냥한 빠리인들에게 감동 받아서 아 이래서 다들 파리에 살고 싶다는.. 건가..? 했다..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1459067755794108400,
+		"in_reply_to_status_id_str": "1459067755794108416",
+		"in_reply_to_user_id": 1135744837599150100,
+		"in_reply_to_user_id_str": "1135744837599150080",
+		"in_reply_to_screen_name": "qqeung_",
+		"user": {
+			"id": 1135744837599150100,
+			"id_str": "1135744837599150080",
+			"name": "양서류(메인트봐주세요)",
+			"screen_name": "qqeung_",
+			"location": "라이온즈파크",
+			"description": "그거 내가 썼는데 아침에 일어나니까 없더라고 염소가 먹었나봐",
+			"url": "https://t.co/JlXQOzK64a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JlXQOzK64a",
+							"expanded_url": "http://dancingkirin.tistory.com",
+							"display_url": "dancingkirin.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1546,
+			"friends_count": 380,
+			"listed_count": 7,
+			"created_at": "Tue Jun 04 03:07:25 +0000 2019",
+			"favourites_count": 4339,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407951329788526594/YRJyPQ4t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407951329788526594/YRJyPQ4t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1135744837599150080/1635136125",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1803,
+		"favorite_count": 1418,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "지하철에서.. 막.. 자리를 양보 해주고 더운데 있음 물도 챙겨주었다.. 나는 상냥한 빠리인들에게 감동 받아서 아 이래서 다들 파리에 살고 싶다는.. 건가..? 했다.."
+	},
+	{
+		"created_at": "Mon Nov 15 02:12:34 +0000 2021",
+		"id": 1459067755794108400,
+		"id_str": "1460068175383461896",
+		"full_text": "불란서에서 나는 어딜가나 갱장히 친절하게 대해졌다 나중에 친구를 만나서 그 이유를 알 수 있었다 빠리 시민들은 나를.. 나를.. 어린이로 알았던 것이다..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1135744837599150100,
+			"id_str": "1135744837599150080",
+			"name": "양서류(메인트봐주세요)",
+			"screen_name": "qqeung_",
+			"location": "라이온즈파크",
+			"description": "그거 내가 썼는데 아침에 일어나니까 없더라고 염소가 먹었나봐",
+			"url": "https://t.co/JlXQOzK64a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JlXQOzK64a",
+							"expanded_url": "http://dancingkirin.tistory.com",
+							"display_url": "dancingkirin.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1546,
+			"friends_count": 380,
+			"listed_count": 7,
+			"created_at": "Tue Jun 04 03:07:25 +0000 2019",
+			"favourites_count": 4339,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407951329788526594/YRJyPQ4t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407951329788526594/YRJyPQ4t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1135744837599150080/1635136125",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8007,
+		"favorite_count": 4633,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "불란서에서 나는 어딜가나 갱장히 친절하게 대해졌다 나중에 친구를 만나서 그 이유를 알 수 있었다 빠리 시민들은 나를.. 나를.. 어린이로 알았던 것이다.."
+	},
+	{
 		"created_at": "Sun Nov 14 12:42:22 +0000 2021",
 		"id": 1459738432020705300,
 		"id_str": "1459864281424424965",
