@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 25 00:01:15 +0000 2021",
+		"id": 1433440733197787100,
+		"id_str": "1463659006291968004",
+		"full_text": "이 순정만화 잡지 일람을 보면서 추억 여행 가능하신 분! ㅋㅋㅋㅋ https://t.co/f5cnu0OYWz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433440720623337500,
+					"id_str": "1433440720623337476",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/E-SavZ9VgAQSd0y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-SavZ9VgAQSd0y.jpg",
+					"url": "https://t.co/f5cnu0OYWz",
+					"display_url": "pic.twitter.com/f5cnu0OYWz",
+					"expanded_url": "https://twitter.com/avecalice/status/1433440733197787141/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1392,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 462,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433440720623337500,
+					"id_str": "1433440720623337476",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/E-SavZ9VgAQSd0y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-SavZ9VgAQSd0y.jpg",
+					"url": "https://t.co/f5cnu0OYWz",
+					"display_url": "pic.twitter.com/f5cnu0OYWz",
+					"expanded_url": "https://twitter.com/avecalice/status/1433440733197787141/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 816,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1392,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 462,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1433440096376615000,
+		"in_reply_to_status_id_str": "1433440096376614915",
+		"in_reply_to_user_id": 107911969,
+		"in_reply_to_user_id_str": "107911969",
+		"in_reply_to_screen_name": "avecalice",
+		"user": {
+			"id": 107911969,
+			"id_str": "107911969",
+			"name": "Kimmy",
+			"screen_name": "avecalice",
+			"location": "",
+			"description": "갈비뼈를 잘 닫자.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4924,
+			"friends_count": 255,
+			"listed_count": 33,
+			"created_at": "Sun Jan 24 05:04:21 +0000 2010",
+			"favourites_count": 20354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44031,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1457900107186450435/ZmUrH1fV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1457900107186450435/ZmUrH1fV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/107911969/1636208868",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 131,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 순정만화 잡지 일람을 보면서 추억 여행 가능하신 분! ㅋㅋㅋㅋ https://t.co/f5cnu0OYWz"
+	},
+	{
 		"created_at": "Wed Nov 24 08:07:24 +0000 2021",
 		"id": 1463418962146852900,
 		"id_str": "1463418962146852869",
