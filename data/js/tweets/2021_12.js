@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 11 16:24:27 +0000 2021",
+		"id": 1469669826260271000,
+		"id_str": "1469704642452164608",
+		"full_text": "그런데, 그럼에도 불구하고, 그 전제가 무결하다고 믿어 버리는 건 이상한 일이라는 게 내 생각입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1469669685465841700,
+		"in_reply_to_status_id_str": "1469669685465841664",
+		"in_reply_to_user_id": 1323846128136196000,
+		"in_reply_to_user_id_str": "1323846128136196096",
+		"in_reply_to_screen_name": "FruitWangler",
+		"user": {
+			"id": 1323846128136196000,
+			"id_str": "1323846128136196096",
+			"name": "FruitWangler",
+			"screen_name": "FruitWangler",
+			"location": "안남시 가내수공업 글 제작소",
+			"description": "「계약직 신으로 살아가는 법」을 썼습니다. 해제와 예전에 쓴 단편들을 포스타입에서 볼 수 있습니다.\n\nrosefinchh@gmail.com",
+			"url": "https://t.co/WMHfE04WIu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WMHfE04WIu",
+							"expanded_url": "https://fruitwangler.postype.com/",
+							"display_url": "fruitwangler.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2338,
+			"friends_count": 188,
+			"listed_count": 12,
+			"created_at": "Wed Nov 04 04:34:52 +0000 2020",
+			"favourites_count": 4698,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388448819071766528/Yx5nmILG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388448819071766528/Yx5nmILG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1323846128136196096/1619866957",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그런데, 그럼에도 불구하고, 그 전제가 무결하다고 믿어 버리는 건 이상한 일이라는 게 내 생각입니다."
+	},
+	{
+		"created_at": "Sat Dec 11 16:24:25 +0000 2021",
+		"id": 1469669685465841700,
+		"id_str": "1469704634705260545",
+		"full_text": "그러니까, 어떤 도구는 특정한 방향의 주장과 밀접하게 관련되기 때문에, 그 도구가 해당 주장을 내포하는 것처럼 보일 때가 있습니다. 사실은 꽤 자주 그러하고, 뭐, 그래서 우리는 암묵적으로 이 도구가 그 방향을 지시한다고 전제한 상태로 뭔가를 해석하게끔 됩니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1469668893417676800,
+		"in_reply_to_status_id_str": "1469668893417676802",
+		"in_reply_to_user_id": 1323846128136196000,
+		"in_reply_to_user_id_str": "1323846128136196096",
+		"in_reply_to_screen_name": "FruitWangler",
+		"user": {
+			"id": 1323846128136196000,
+			"id_str": "1323846128136196096",
+			"name": "FruitWangler",
+			"screen_name": "FruitWangler",
+			"location": "안남시 가내수공업 글 제작소",
+			"description": "「계약직 신으로 살아가는 법」을 썼습니다. 해제와 예전에 쓴 단편들을 포스타입에서 볼 수 있습니다.\n\nrosefinchh@gmail.com",
+			"url": "https://t.co/WMHfE04WIu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WMHfE04WIu",
+							"expanded_url": "https://fruitwangler.postype.com/",
+							"display_url": "fruitwangler.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2338,
+			"friends_count": 188,
+			"listed_count": 12,
+			"created_at": "Wed Nov 04 04:34:52 +0000 2020",
+			"favourites_count": 4698,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388448819071766528/Yx5nmILG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388448819071766528/Yx5nmILG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1323846128136196096/1619866957",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그러니까, 어떤 도구는 특정한 방향의 주장과 밀접하게 관련되기 때문에, 그 도구가 해당 주장을 내포하는 것처럼 보일 때가 있습니다. 사실은 꽤 자주 그러하고, 뭐, 그래서 우리는 암묵적으로 이 도구가 그 방향을 지시한다고 전제한 상태로 뭔가를 해석하게끔 됩니다."
+	},
+	{
+		"created_at": "Sat Dec 11 16:24:18 +0000 2021",
+		"id": 1469668893417676800,
+		"id_str": "1469704605714247680",
+		"full_text": "한편으로는 \"법체계가 우리의 삶에 유익한-만들어진 것이듯 그 사회적 구성물 역시 우리의 유익에 좋으며, 따라서 성별이분법은 공고화되어야만 한다\" 라는 주장에 사용될 수도 있을 것입니다. 전 이 주장에 전혀 동의하지 않는데 도구로 활용하자면 여기에도 쓰일 수가 있다는 말입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1469668396501733400,
+		"in_reply_to_status_id_str": "1469668396501733385",
+		"in_reply_to_user_id": 1323846128136196000,
+		"in_reply_to_user_id_str": "1323846128136196096",
+		"in_reply_to_screen_name": "FruitWangler",
+		"user": {
+			"id": 1323846128136196000,
+			"id_str": "1323846128136196096",
+			"name": "FruitWangler",
+			"screen_name": "FruitWangler",
+			"location": "안남시 가내수공업 글 제작소",
+			"description": "「계약직 신으로 살아가는 법」을 썼습니다. 해제와 예전에 쓴 단편들을 포스타입에서 볼 수 있습니다.\n\nrosefinchh@gmail.com",
+			"url": "https://t.co/WMHfE04WIu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WMHfE04WIu",
+							"expanded_url": "https://fruitwangler.postype.com/",
+							"display_url": "fruitwangler.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2338,
+			"friends_count": 188,
+			"listed_count": 12,
+			"created_at": "Wed Nov 04 04:34:52 +0000 2020",
+			"favourites_count": 4698,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388448819071766528/Yx5nmILG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388448819071766528/Yx5nmILG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1323846128136196096/1619866957",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한편으로는 \"법체계가 우리의 삶에 유익한-만들어진 것이듯 그 사회적 구성물 역시 우리의 유익에 좋으며, 따라서 성별이분법은 공고화되어야만 한다\" 라는 주장에 사용될 수도 있을 것입니다. 전 이 주장에 전혀 동의하지 않는데 도구로 활용하자면 여기에도 쓰일 수가 있다는 말입니다."
+	},
+	{
 		"created_at": "Thu Dec 09 00:57:28 +0000 2021",
 		"id": 1468385736055726000,
 		"id_str": "1468746585882640385",
