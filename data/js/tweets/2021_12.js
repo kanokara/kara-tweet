@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 13 19:51:47 +0000 2021",
+		"id": 1470021326408908800,
+		"id_str": "1470481597808128000",
+		"full_text": "아싸를 빼앗긴게 아니라 찐따들이 아싸를 빼앗은거였다.......... https://t.co/qvnj87KRdX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470021041481142300,
+					"id_str": "1470021041481142272",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FGaQWUXVUAAmocc.png",
+					"media_url_https": "https://pbs.twimg.com/media/FGaQWUXVUAAmocc.png",
+					"url": "https://t.co/qvnj87KRdX",
+					"display_url": "pic.twitter.com/qvnj87KRdX",
+					"expanded_url": "https://twitter.com/EggMari0/status/1470021326408908808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 733,
+							"h": 896,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 733,
+							"h": 896,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470021041481142300,
+					"id_str": "1470021041481142272",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FGaQWUXVUAAmocc.png",
+					"media_url_https": "https://pbs.twimg.com/media/FGaQWUXVUAAmocc.png",
+					"url": "https://t.co/qvnj87KRdX",
+					"display_url": "pic.twitter.com/qvnj87KRdX",
+					"expanded_url": "https://twitter.com/EggMari0/status/1470021326408908808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 733,
+							"h": 896,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 733,
+							"h": 896,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1470021114814361600,
+					"id_str": "1470021114814361605",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/FGaQaljVcAUlkVf.png",
+					"media_url_https": "https://pbs.twimg.com/media/FGaQaljVcAUlkVf.png",
+					"url": "https://t.co/qvnj87KRdX",
+					"display_url": "pic.twitter.com/qvnj87KRdX",
+					"expanded_url": "https://twitter.com/EggMari0/status/1470021326408908808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 746,
+							"h": 863,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 746,
+							"h": 863,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 588,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1146665808229048300,
+			"id_str": "1146665808229048320",
+			"name": "◣ ◥◣ 🧪 ◥◣ ◥",
+			"screen_name": "EggMari0",
+			"location": "적안최고",
+			"description": "🧪🧪🧪🧪🧪🧪",
+			"url": "https://t.co/NnNidYyC88",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NnNidYyC88",
+							"expanded_url": "http://pink.hair.best",
+							"display_url": "pink.hair.best",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 349,
+			"friends_count": 257,
+			"listed_count": 5,
+			"created_at": "Thu Jul 04 06:23:27 +0000 2019",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 107621,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1467668805815967747/sys43Vzb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467668805815967747/sys43Vzb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1146665808229048320/1573734976",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4401,
+		"favorite_count": 1424,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아싸를 빼앗긴게 아니라 찐따들이 아싸를 빼앗은거였다.......... https://t.co/qvnj87KRdX"
+	},
+	{
+		"created_at": "Mon Dec 13 19:24:24 +0000 2021",
+		"id": 1470474705719394300,
+		"id_str": "1470474705719394307",
+		"full_text": "어디선가 여자가 약탈을 당할 때 빨리 적응할 필요가 있었기에 전 남자를 빨리 잊고 현재에 충실한 경향을 갖게 되었단 소리를 들어봤는데... // 다른 한편으론 남성이 처녀성에 집착하는 한 가지 이유가 될 수도 있겠네요 (자기 기질을 상대에게 투사)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1470474067979673600,
+		"in_reply_to_status_id_str": "1470474067979673600",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3788,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "어디선가 여자가 약탈을 당할 때 빨리 적응할 필요가 있었기에 전 남자를 빨리 잊고 현재에 충실한 경향을 갖게 되었단 소리를 들어봤는데... // 다른 한편으론 남성이 처녀성에 집착하는 한 가지 이유가 될 수도 있겠네요 (자기 기질을 상대에게 투사)"
+	},
+	{
 		"created_at": "Sun Dec 12 06:01:04 +0000 2021",
 		"id": 1469910150261928000,
 		"id_str": "1469910150261927936",
