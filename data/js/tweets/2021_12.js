@@ -1,6 +1,979 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 22 13:48:43 +0000 2021",
+		"id": 1473651720672936000,
+		"id_str": "1473651720672935936",
+		"full_text": "예컨대 자유주의 페미니즘 같은, 피해자의 사고/프레임에서 벗어나는 법은 결코 주류 페미니즘 안에 채택되지 않죠. 특히 '한 문화'라는 특유의 한국 민족성이 배양하는 토양에선.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1473650819090497500,
+		"in_reply_to_status_id_str": "1473650819090497537",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "예컨대 자유주의 페미니즘 같은, 피해자의 사고/프레임에서 벗어나는 법은 결코 주류 페미니즘 안에 채택되지 않죠. 특히 '한 문화'라는 특유의 한국 민족성이 배양하는 토양에선."
+	},
+	{
+		"created_at": "Wed Dec 22 13:45:09 +0000 2021",
+		"id": 1473650819090497500,
+		"id_str": "1473650819090497537",
+		"full_text": "페미니즘은 여성의 이러한 뇌 구조에 적합하게 설계되어, 부의 되먹임을 일으켜 연명하는 이념.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1473650372258730000,
+		"in_reply_to_status_id_str": "1473650372258729984",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "페미니즘은 여성의 이러한 뇌 구조에 적합하게 설계되어, 부의 되먹임을 일으켜 연명하는 이념."
+	},
+	{
+		"created_at": "Wed Dec 22 13:43:54 +0000 2021",
+		"id": 1473618879981428700,
+		"id_str": "1473650508372283394",
+		"full_text": "(이 트윗은 눈사람을 부수는 또는 눈사람 부수는 사람을 징벌하는 행동을 옹호하거나 비난하기 위해서가 아니라, 이를 둘러싼 논쟁을 이해하기 위해서는 '눈사람'이 아닌 '눈사람 부수기'에 부여된 특수한 사회적 의미를 고려할 필요가 있다는 주장을 펴기 위해 쓰여졌습니다...)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1473617591339864000,
+		"in_reply_to_status_id_str": "1473617591339864064",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 201194230,
+			"id_str": "201194230",
+			"name": "아리솀을 탄핵하자",
+			"screen_name": "sithclare",
+			"location": "과이스이미다인본부, 오스트인에딜, 에레기온, 중간계",
+			"description": "테다스 무신론자 / 오타쿠를 탈덕하게 만들지 못하는 고통은 오타쿠를 더욱 강하게 만든다",
+			"url": "https://t.co/eFqwu2bujb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eFqwu2bujb",
+							"expanded_url": "https://sithclare.postype.com/?_ga=2.227609694.2109631546.1545335411-1249716168.1538818153",
+							"display_url": "sithclare.postype.com/?_ga=2.2276096…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 305,
+			"friends_count": 398,
+			"listed_count": 7,
+			"created_at": "Mon Oct 11 09:18:45 +0000 2010",
+			"favourites_count": 81769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 157292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1472170806608564232/ijh0KTxi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1472170806608564232/ijh0KTxi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/201194230/1608523097",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "(이 트윗은 눈사람을 부수는 또는 눈사람 부수는 사람을 징벌하는 행동을 옹호하거나 비난하기 위해서가 아니라, 이를 둘러싼 논쟁을 이해하기 위해서는 '눈사람'이 아닌 '눈사람 부수기'에 부여된 특수한 사회적 의미를 고려할 필요가 있다는 주장을 펴기 위해 쓰여졌습니다...)"
+	},
+	{
+		"created_at": "Wed Dec 22 13:43:46 +0000 2021",
+		"id": 1473617591339864000,
+		"id_str": "1473650471193956355",
+		"full_text": "동물이나 여성에 대한 폭력을 가볍게 휘두르는 것, 또는 그러한 행동을 하는  일군의 사람들(집단-캐릭터)에 대한 보다 광범위한 징벌 욕구를 표현하는 것일 수 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1473617589641236500,
+		"in_reply_to_status_id_str": "1473617589641236483",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 201194230,
+			"id_str": "201194230",
+			"name": "아리솀을 탄핵하자",
+			"screen_name": "sithclare",
+			"location": "과이스이미다인본부, 오스트인에딜, 에레기온, 중간계",
+			"description": "테다스 무신론자 / 오타쿠를 탈덕하게 만들지 못하는 고통은 오타쿠를 더욱 강하게 만든다",
+			"url": "https://t.co/eFqwu2bujb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eFqwu2bujb",
+							"expanded_url": "https://sithclare.postype.com/?_ga=2.227609694.2109631546.1545335411-1249716168.1538818153",
+							"display_url": "sithclare.postype.com/?_ga=2.2276096…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 305,
+			"friends_count": 398,
+			"listed_count": 7,
+			"created_at": "Mon Oct 11 09:18:45 +0000 2010",
+			"favourites_count": 81769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 157292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1472170806608564232/ijh0KTxi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1472170806608564232/ijh0KTxi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/201194230/1608523097",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "동물이나 여성에 대한 폭력을 가볍게 휘두르는 것, 또는 그러한 행동을 하는  일군의 사람들(집단-캐릭터)에 대한 보다 광범위한 징벌 욕구를 표현하는 것일 수 있습니다."
+	},
+	{
+		"created_at": "Wed Dec 22 13:43:43 +0000 2021",
+		"id": 1473617589641236500,
+		"id_str": "1473650461941309447",
+		"full_text": "이 맥락에서 '눈사람 부수기'에 대한 대중적 징벌 욕구 역시 약자 폭력에 대한 훨씬 광범위한 징벌 욕구와 연결되어 이해될 필요가 있다는 것이 제 견해입니다. 눈사람에 돌 넣기를 옹호하는 사람들은 단순히 유년 시절의 추억을 떠오르게 하는 눈사람을 훼손한 행위에 대해서가 아닌",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1473617587573387300,
+		"in_reply_to_status_id_str": "1473617587573387271",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 201194230,
+			"id_str": "201194230",
+			"name": "아리솀을 탄핵하자",
+			"screen_name": "sithclare",
+			"location": "과이스이미다인본부, 오스트인에딜, 에레기온, 중간계",
+			"description": "테다스 무신론자 / 오타쿠를 탈덕하게 만들지 못하는 고통은 오타쿠를 더욱 강하게 만든다",
+			"url": "https://t.co/eFqwu2bujb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eFqwu2bujb",
+							"expanded_url": "https://sithclare.postype.com/?_ga=2.227609694.2109631546.1545335411-1249716168.1538818153",
+							"display_url": "sithclare.postype.com/?_ga=2.2276096…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 305,
+			"friends_count": 398,
+			"listed_count": 7,
+			"created_at": "Mon Oct 11 09:18:45 +0000 2010",
+			"favourites_count": 81769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 157292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1472170806608564232/ijh0KTxi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1472170806608564232/ijh0KTxi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/201194230/1608523097",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이 맥락에서 '눈사람 부수기'에 대한 대중적 징벌 욕구 역시 약자 폭력에 대한 훨씬 광범위한 징벌 욕구와 연결되어 이해될 필요가 있다는 것이 제 견해입니다. 눈사람에 돌 넣기를 옹호하는 사람들은 단순히 유년 시절의 추억을 떠오르게 하는 눈사람을 훼손한 행위에 대해서가 아닌"
+	},
+	{
+		"created_at": "Wed Dec 22 13:43:38 +0000 2021",
+		"id": 1473617587573387300,
+		"id_str": "1473650439493423116",
+		"full_text": "'눈사람'은 그 자체론 동심과 가족주의의 상징일 뿐이지만, 인용된 이적의 글(근래 이 행위에 부여된 사회적 의미를 대변하는) 속 '눈사람 부수기' 라는 특수한 맥락에 놓인 '눈사람'은 이제 동물, 여성 등 폭력을 당하는 사회적 약자의 병렬에 놓여 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1473617585744728000,
+		"in_reply_to_status_id_str": "1473617585744728065",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 201194230,
+			"id_str": "201194230",
+			"name": "아리솀을 탄핵하자",
+			"screen_name": "sithclare",
+			"location": "과이스이미다인본부, 오스트인에딜, 에레기온, 중간계",
+			"description": "테다스 무신론자 / 오타쿠를 탈덕하게 만들지 못하는 고통은 오타쿠를 더욱 강하게 만든다",
+			"url": "https://t.co/eFqwu2bujb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eFqwu2bujb",
+							"expanded_url": "https://sithclare.postype.com/?_ga=2.227609694.2109631546.1545335411-1249716168.1538818153",
+							"display_url": "sithclare.postype.com/?_ga=2.2276096…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 305,
+			"friends_count": 398,
+			"listed_count": 7,
+			"created_at": "Mon Oct 11 09:18:45 +0000 2010",
+			"favourites_count": 81769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 157292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1472170806608564232/ijh0KTxi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1472170806608564232/ijh0KTxi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/201194230/1608523097",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "'눈사람'은 그 자체론 동심과 가족주의의 상징일 뿐이지만, 인용된 이적의 글(근래 이 행위에 부여된 사회적 의미를 대변하는) 속 '눈사람 부수기' 라는 특수한 맥락에 놓인 '눈사람'은 이제 동물, 여성 등 폭력을 당하는 사회적 약자의 병렬에 놓여 있습니다."
+	},
+	{
+		"created_at": "Wed Dec 22 13:43:36 +0000 2021",
+		"id": 1473617585744728000,
+		"id_str": "1473650431218044930",
+		"full_text": "'눈사람 부수기'가 sns상에서 광범위한 공분을 사는 이유는 그것이 단지 '눈사람'이 구현하는 보편 가치를 훼손했기 때문이 아니라, '눈사람 부수기'에 동물 여성을 대상으로 하는 약자 대상 폭력의 연장선이라는 추가적인 사회적 의미가 부여되어 있기 때문 아닐까요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1473617583811137500,
+		"in_reply_to_status_id_str": "1473617583811137536",
+		"in_reply_to_user_id": 201194230,
+		"in_reply_to_user_id_str": "201194230",
+		"in_reply_to_screen_name": "sithclare",
+		"user": {
+			"id": 201194230,
+			"id_str": "201194230",
+			"name": "아리솀을 탄핵하자",
+			"screen_name": "sithclare",
+			"location": "과이스이미다인본부, 오스트인에딜, 에레기온, 중간계",
+			"description": "테다스 무신론자 / 오타쿠를 탈덕하게 만들지 못하는 고통은 오타쿠를 더욱 강하게 만든다",
+			"url": "https://t.co/eFqwu2bujb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eFqwu2bujb",
+							"expanded_url": "https://sithclare.postype.com/?_ga=2.227609694.2109631546.1545335411-1249716168.1538818153",
+							"display_url": "sithclare.postype.com/?_ga=2.2276096…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 305,
+			"friends_count": 398,
+			"listed_count": 7,
+			"created_at": "Mon Oct 11 09:18:45 +0000 2010",
+			"favourites_count": 81769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 157292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1472170806608564232/ijh0KTxi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1472170806608564232/ijh0KTxi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/201194230/1608523097",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "'눈사람 부수기'가 sns상에서 광범위한 공분을 사는 이유는 그것이 단지 '눈사람'이 구현하는 보편 가치를 훼손했기 때문이 아니라, '눈사람 부수기'에 동물 여성을 대상으로 하는 약자 대상 폭력의 연장선이라는 추가적인 사회적 의미가 부여되어 있기 때문 아닐까요."
+	},
+	{
+		"created_at": "Wed Dec 22 13:43:34 +0000 2021",
+		"id": 1473617583811137500,
+		"id_str": "1473650421415968770",
+		"full_text": "재미있는 분석이지만, 눈사람을 부수는 사람에 대한 징벌 욕구를 이해하기 위해서는 '눈사람 부수기'에 부여된 특수한 사회적 의미가 보다 고려될 필요가 있지 않나 합니다. 말씀대로 눈사람이라는 상징물이 사회적 존중을 받는 이유는 그것이 구현하는 보편적 가족주의 이미지 때문이지만 https://t.co/4YkiOWxkqs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4YkiOWxkqs",
+					"expanded_url": "https://twitter.com/fruitwangler/status/1473603682654887938",
+					"display_url": "twitter.com/fruitwangler/s…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 201194230,
+			"id_str": "201194230",
+			"name": "아리솀을 탄핵하자",
+			"screen_name": "sithclare",
+			"location": "과이스이미다인본부, 오스트인에딜, 에레기온, 중간계",
+			"description": "테다스 무신론자 / 오타쿠를 탈덕하게 만들지 못하는 고통은 오타쿠를 더욱 강하게 만든다",
+			"url": "https://t.co/eFqwu2bujb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eFqwu2bujb",
+							"expanded_url": "https://sithclare.postype.com/?_ga=2.227609694.2109631546.1545335411-1249716168.1538818153",
+							"display_url": "sithclare.postype.com/?_ga=2.2276096…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 305,
+			"friends_count": 398,
+			"listed_count": 7,
+			"created_at": "Mon Oct 11 09:18:45 +0000 2010",
+			"favourites_count": 81769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 157292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1472170806608564232/ijh0KTxi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1472170806608564232/ijh0KTxi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/201194230/1608523097",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1473603682654888000,
+		"quoted_status_id_str": "1473603682654887938",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4YkiOWxkqs",
+			"expanded": "https://twitter.com/fruitwangler/status/1473603682654887938",
+			"display": "twitter.com/fruitwangler/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 22 10:37:50 +0000 2021",
+			"id": 1473603682654888000,
+			"id_str": "1473603682654887938",
+			"full_text": "못된 마음으로 눈사람을 부수는 사람과 못된 마음으로 눈사람에 돌을 넣는 사람에 대해 썼습니다. 무엇이 우리의 도덕적 감정에 관여하는지, 그리고 행위자의 의도가 무엇을 말해주는지를 가볍게 훑습니다. \n\nhttps://t.co/N3QqfiOhq3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				135
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/N3QqfiOhq3",
+						"expanded_url": "https://fruitwangler.postype.com/post/11411136",
+						"display_url": "fruitwangler.postype.com/post/11411136",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1323846128136196000,
+				"id_str": "1323846128136196096",
+				"name": "FruitWangler",
+				"screen_name": "FruitWangler",
+				"location": "안남시 가내수공업 글 제작소",
+				"description": "「계약직 신으로 살아가는 법」을 썼습니다. 해제와 예전에 쓴 단편들을 포스타입에서 볼 수 있습니다.\n\nrosefinchh@gmail.com",
+				"url": "https://t.co/WMHfE04WIu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WMHfE04WIu",
+								"expanded_url": "https://fruitwangler.postype.com/",
+								"display_url": "fruitwangler.postype.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2582,
+				"friends_count": 193,
+				"listed_count": 12,
+				"created_at": "Wed Nov 04 04:34:52 +0000 2020",
+				"favourites_count": 5080,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5062,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1388448819071766528/Yx5nmILG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388448819071766528/Yx5nmILG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1323846128136196096/1619866957",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 281,
+			"favorite_count": 135,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 88,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "재미있는 분석이지만, 눈사람을 부수는 사람에 대한 징벌 욕구를 이해하기 위해서는 '눈사람 부수기'에 부여된 특수한 사회적 의미가 보다 고려될 필요가 있지 않나 합니다. 말씀대로 눈사람이라는 상징물이 사회적 존중을 받는 이유는 그것이 구현하는 보편적 가족주의 이미지 때문이지만 https://t.co/4YkiOWxkqs"
+	},
+	{
+		"created_at": "Wed Dec 22 13:43:31 +0000 2021",
+		"id": 1473603682654888000,
+		"id_str": "1473650411525767169",
+		"full_text": "못된 마음으로 눈사람을 부수는 사람과 못된 마음으로 눈사람에 돌을 넣는 사람에 대해 썼습니다. 무엇이 우리의 도덕적 감정에 관여하는지, 그리고 행위자의 의도가 무엇을 말해주는지를 가볍게 훑습니다. \n\nhttps://t.co/N3QqfiOhq3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N3QqfiOhq3",
+					"expanded_url": "https://fruitwangler.postype.com/post/11411136",
+					"display_url": "fruitwangler.postype.com/post/11411136",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1323846128136196000,
+			"id_str": "1323846128136196096",
+			"name": "FruitWangler",
+			"screen_name": "FruitWangler",
+			"location": "안남시 가내수공업 글 제작소",
+			"description": "「계약직 신으로 살아가는 법」을 썼습니다. 해제와 예전에 쓴 단편들을 포스타입에서 볼 수 있습니다.\n\nrosefinchh@gmail.com",
+			"url": "https://t.co/WMHfE04WIu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WMHfE04WIu",
+							"expanded_url": "https://fruitwangler.postype.com/",
+							"display_url": "fruitwangler.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2582,
+			"friends_count": 193,
+			"listed_count": 12,
+			"created_at": "Wed Nov 04 04:34:52 +0000 2020",
+			"favourites_count": 5080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5062,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1388448819071766528/Yx5nmILG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1388448819071766528/Yx5nmILG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1323846128136196096/1619866957",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 281,
+		"favorite_count": 135,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "못된 마음으로 눈사람을 부수는 사람과 못된 마음으로 눈사람에 돌을 넣는 사람에 대해 썼습니다. 무엇이 우리의 도덕적 감정에 관여하는지, 그리고 행위자의 의도가 무엇을 말해주는지를 가볍게 훑습니다. \n\nhttps://t.co/N3QqfiOhq3"
+	},
+	{
 		"created_at": "Sat Dec 18 19:21:33 +0000 2021",
 		"id": 1472285928442204200,
 		"id_str": "1472285928442204160",
