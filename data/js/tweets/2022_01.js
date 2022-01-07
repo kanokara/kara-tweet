@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 07 12:52:44 +0000 2022",
+		"id": 1479416799104237600,
+		"id_str": "1479435835561095169",
+		"full_text": "걍... 살인이 옳은 시대이고 모두가 살인을 하고 싶어하기 때문에... 특히 트위터에서는. 눈사람 논쟁 다 기억하고 있음 빌어먹을 놈의 눈사람 부수는 것에 '화내는' 인간들의 살의가 가장 소름끼친다는 걸 화내는새끼들은 모름",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1479416235825983500,
+		"in_reply_to_status_id_str": "1479416235825983495",
+		"in_reply_to_user_id": 3254546942,
+		"in_reply_to_user_id_str": "3254546942",
+		"in_reply_to_screen_name": "JuYuwol",
+		"user": {
+			"id": 3254546942,
+			"id_str": "3254546942",
+			"name": "주유월",
+			"screen_name": "JuYuwol",
+			"location": "",
+			"description": "페잉: https://t.co/PaONCbqLCd",
+			"url": "https://t.co/mYKbQYkc8E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mYKbQYkc8E",
+							"expanded_url": "http://yuwol.pe.kr",
+							"display_url": "yuwol.pe.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PaONCbqLCd",
+							"expanded_url": "https://peing.net/ko/f16f8172693f66",
+							"display_url": "peing.net/ko/f16f8172693…",
+							"indices": [
+								4,
+								27
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 522,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Wed Jun 24 11:08:39 +0000 2015",
+			"favourites_count": 14387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084444651849801730/uEImmo9l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084444651849801730/uEImmo9l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3254546942/1547694224",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "걍... 살인이 옳은 시대이고 모두가 살인을 하고 싶어하기 때문에... 특히 트위터에서는. 눈사람 논쟁 다 기억하고 있음 빌어먹을 놈의 눈사람 부수는 것에 '화내는' 인간들의 살의가 가장 소름끼친다는 걸 화내는새끼들은 모름"
+	},
+	{
 		"created_at": "Mon Jan 03 17:07:15 +0000 2022",
 		"id": 1477977319046205400,
 		"id_str": "1478050336283963392",
