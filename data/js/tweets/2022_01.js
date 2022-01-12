@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 12 00:47:47 +0000 2022",
+		"id": 1481064210532794400,
+		"id_str": "1481065336871206913",
+		"full_text": "@och7896 결국 위문편지란 장치도 민족이란 거대한 단위의 가족을, 상상의 공동체를 구성하는 사회 구성의 원리가 아닐까요? 이것을 해체하면 그 대안은 있을까요?\nhttps://t.co/WNcHqnKCZ7 https://t.co/RAgofyZUZ6",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "och7896",
+					"name": "오찬호",
+					"id": 128671909,
+					"id_str": "128671909",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WNcHqnKCZ7",
+					"expanded_url": "https://m.dcinside.com/board/neostock/2188395?recommend=1#comment_box",
+					"display_url": "m.dcinside.com/board/neostock…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1481064200072237000,
+					"id_str": "1481064200072237056",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FI3MCv7akAAjESF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI3MCv7akAAjESF.jpg",
+					"url": "https://t.co/RAgofyZUZ6",
+					"display_url": "pic.twitter.com/RAgofyZUZ6",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1481064210532794373/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 285,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 413,
+							"h": 984,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 413,
+							"h": 984,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481064200072237000,
+					"id_str": "1481064200072237056",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FI3MCv7akAAjESF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI3MCv7akAAjESF.jpg",
+					"url": "https://t.co/RAgofyZUZ6",
+					"display_url": "pic.twitter.com/RAgofyZUZ6",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1481064210532794373/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 285,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 413,
+							"h": 984,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 413,
+							"h": 984,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1481063467478306800,
+		"in_reply_to_status_id_str": "1481063467478306818",
+		"in_reply_to_user_id": 834020169680719900,
+		"in_reply_to_user_id_str": "834020169680719872",
+		"in_reply_to_screen_name": "ehrtjshxm7",
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9,
+			"friends_count": 32,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 695,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@och7896 결국 위문편지란 장치도 민족이란 거대한 단위의 가족을, 상상의 공동체를 구성하는 사회 구성의 원리가 아닐까요? 이것을 해체하면 그 대안은 있을까요?\nhttps://t.co/WNcHqnKCZ7 https://t.co/RAgofyZUZ6"
+	},
+	{
 		"created_at": "Tue Jan 11 14:10:11 +0000 2022",
 		"id": 1480904876603617300,
 		"id_str": "1480904876603617281",
