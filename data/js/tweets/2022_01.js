@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 16 08:25:11 +0000 2022",
+		"id": 1482593373311496200,
+		"id_str": "1482629994363113472",
+		"full_text": "@medievalart_kr 빅토르 위고!",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "medievalart_kr",
+					"name": "중세인쇄소",
+					"id": 4058912834,
+					"id_str": "4058912834",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1482593023401730000,
+		"in_reply_to_status_id_str": "1482593023401730048",
+		"in_reply_to_user_id": 4058912834,
+		"in_reply_to_user_id_str": "4058912834",
+		"in_reply_to_screen_name": "medievalart_kr",
+		"user": {
+			"id": 2450071008,
+			"id_str": "2450071008",
+			"name": "ssohg",
+			"screen_name": "hms903095",
+			"location": "대한민국",
+			"description": "삼국지프사",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 1075,
+			"listed_count": 3,
+			"created_at": "Thu Apr 17 16:48:43 +0000 2014",
+			"favourites_count": 71442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 149723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1439620146587308033/pIfX_CmP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439620146587308033/pIfX_CmP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2450071008/1615867637",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@medievalart_kr 빅토르 위고!"
+	},
+	{
+		"created_at": "Sun Jan 16 08:25:09 +0000 2022",
+		"id": 1482590311352193000,
+		"id_str": "1482629985966125058",
+		"full_text": "@medievalart_kr 신과 영혼, 책임감. 이 세 가지 사상만 있으면 충분하다. 적어도 내겐 충분했다.\n그것이 진정한 종교이다.\n나는 그 속에서 살아왔고 그 속에서 죽을 것이다. 진리와 광명, 정의, 양심, \n그것이 바로 신이다.\n\n대문호는 유언장도 명문으로 쓰는듯(...)",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "medievalart_kr",
+					"name": "중세인쇄소",
+					"id": 4058912834,
+					"id_str": "4058912834",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1482585171870113800,
+		"in_reply_to_status_id_str": "1482585171870113799",
+		"in_reply_to_user_id": 4058912834,
+		"in_reply_to_user_id_str": "4058912834",
+		"in_reply_to_screen_name": "medievalart_kr",
+		"user": {
+			"id": 2450071008,
+			"id_str": "2450071008",
+			"name": "ssohg",
+			"screen_name": "hms903095",
+			"location": "대한민국",
+			"description": "삼국지프사",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 1075,
+			"listed_count": 3,
+			"created_at": "Thu Apr 17 16:48:43 +0000 2014",
+			"favourites_count": 71442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 149723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1439620146587308033/pIfX_CmP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439620146587308033/pIfX_CmP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2450071008/1615867637",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@medievalart_kr 신과 영혼, 책임감. 이 세 가지 사상만 있으면 충분하다. 적어도 내겐 충분했다.\n그것이 진정한 종교이다.\n나는 그 속에서 살아왔고 그 속에서 죽을 것이다. 진리와 광명, 정의, 양심, \n그것이 바로 신이다.\n\n대문호는 유언장도 명문으로 쓰는듯(...)"
+	},
+	{
 		"created_at": "Sun Jan 16 08:03:58 +0000 2022",
 		"id": 1482624657950113800,
 		"id_str": "1482624657950113792",
