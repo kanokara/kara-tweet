@@ -1,6 +1,496 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 22 16:25:02 +0000 2022",
+		"id": 1484353282240049200,
+		"id_str": "1484925079477981184",
+		"full_text": "웹툰계에 적용한다면, 웹툰이 돈이 되고 투자가 몰리면 몰릴 수록, 다수대중의 지갑을 털 수 있는 돈되는 메이저 장르가 돈안되는 장르를 플랫폼에서 밀어낼 동기도 동력도 증가한다는 말이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1484320180629287000,
+		"in_reply_to_status_id_str": "1484320180629286913",
+		"in_reply_to_user_id": 1027717303,
+		"in_reply_to_user_id_str": "1027717303",
+		"in_reply_to_screen_name": "shaindtwt",
+		"user": {
+			"id": 1027717303,
+			"id_str": "1027717303",
+			"name": "shaind",
+			"screen_name": "shaindtwt",
+			"location": "ROK",
+			"description": "Sicut Lilium inter Spinas sic Amica mea inter Filias.\n\n마음함 : 안경, 백합, 기타",
+			"url": "https://t.co/D7FksZZC6m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/D7FksZZC6m",
+							"expanded_url": "http://shaind.egloos.com",
+							"display_url": "shaind.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 407,
+			"friends_count": 1925,
+			"listed_count": 15,
+			"created_at": "Sat Dec 22 04:03:08 +0000 2012",
+			"favourites_count": 55409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/748429213623934976/fUxkZSZt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/748429213623934976/fUxkZSZt_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "웹툰계에 적용한다면, 웹툰이 돈이 되고 투자가 몰리면 몰릴 수록, 다수대중의 지갑을 털 수 있는 돈되는 메이저 장르가 돈안되는 장르를 플랫폼에서 밀어낼 동기도 동력도 증가한다는 말이다."
+	},
+	{
+		"created_at": "Sat Jan 22 16:24:47 +0000 2022",
+		"id": 1484320180629287000,
+		"id_str": "1484925019222581248",
+		"full_text": "비직관적으로 들리겠지만, 토양 영양분이 부족한 열대우림이나 건조기후대의 관목지가 토양이 비옥한 온대림보다 생물다양성이 높다. \n\n그 이유는 토양이 비옥할수록, 성장이 빠르고 번식력이 우월한 종이 자신의 우월성을 발휘해서 토지와 햇빛을 독점하고 다른 식물종을 밀어내기가 쉽기 때문.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1484318260166557700,
+		"in_reply_to_status_id_str": "1484318260166557697",
+		"in_reply_to_user_id": 1027717303,
+		"in_reply_to_user_id_str": "1027717303",
+		"in_reply_to_screen_name": "shaindtwt",
+		"user": {
+			"id": 1027717303,
+			"id_str": "1027717303",
+			"name": "shaind",
+			"screen_name": "shaindtwt",
+			"location": "ROK",
+			"description": "Sicut Lilium inter Spinas sic Amica mea inter Filias.\n\n마음함 : 안경, 백합, 기타",
+			"url": "https://t.co/D7FksZZC6m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/D7FksZZC6m",
+							"expanded_url": "http://shaind.egloos.com",
+							"display_url": "shaind.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 407,
+			"friends_count": 1925,
+			"listed_count": 15,
+			"created_at": "Sat Dec 22 04:03:08 +0000 2012",
+			"favourites_count": 55409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/748429213623934976/fUxkZSZt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/748429213623934976/fUxkZSZt_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "비직관적으로 들리겠지만, 토양 영양분이 부족한 열대우림이나 건조기후대의 관목지가 토양이 비옥한 온대림보다 생물다양성이 높다. \n\n그 이유는 토양이 비옥할수록, 성장이 빠르고 번식력이 우월한 종이 자신의 우월성을 발휘해서 토지와 햇빛을 독점하고 다른 식물종을 밀어내기가 쉽기 때문."
+	},
+	{
+		"created_at": "Sat Jan 22 16:24:44 +0000 2022",
+		"id": 1484318260166557700,
+		"id_str": "1484925003774971906",
+		"full_text": "자원이 부족할 때 다양성이 증가한다는 것은 경제나 산업뿐만 아니라 생태계에서도 나타나는 일반적인 현상.\n\nhttps://t.co/3fr1YHnLeu https://t.co/HE3svNPU32",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3fr1YHnLeu",
+					"expanded_url": "https://youtu.be/mWVATekt4ZA",
+					"display_url": "youtu.be/mWVATekt4ZA",
+					"indices": [
+						59,
+						82
+					]
+				},
+				{
+					"url": "https://t.co/HE3svNPU32",
+					"expanded_url": "https://twitter.com/mouse_niconi/status/1484092230617137154",
+					"display_url": "twitter.com/mouse_niconi/s…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1027717303,
+			"id_str": "1027717303",
+			"name": "shaind",
+			"screen_name": "shaindtwt",
+			"location": "ROK",
+			"description": "Sicut Lilium inter Spinas sic Amica mea inter Filias.\n\n마음함 : 안경, 백합, 기타",
+			"url": "https://t.co/D7FksZZC6m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/D7FksZZC6m",
+							"expanded_url": "http://shaind.egloos.com",
+							"display_url": "shaind.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 407,
+			"friends_count": 1925,
+			"listed_count": 15,
+			"created_at": "Sat Dec 22 04:03:08 +0000 2012",
+			"favourites_count": 55409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 88909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/748429213623934976/fUxkZSZt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/748429213623934976/fUxkZSZt_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1484092230617137200,
+		"quoted_status_id_str": "1484092230617137154",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HE3svNPU32",
+			"expanded": "https://twitter.com/mouse_niconi/status/1484092230617137154",
+			"display": "twitter.com/mouse_niconi/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 20 09:15:35 +0000 2022",
+			"id": 1484092230617137200,
+			"id_str": "1484092230617137154",
+			"full_text": "2013년 당시 네이버 웹툰인데 표지만 봐도 매우 다양했다는 것이 잘 느껴지지요.. https://t.co/njoD2LoTkn https://t.co/MCRZ0iahvS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				70
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/njoD2LoTkn",
+						"expanded_url": "https://twitter.com/np5882/status/1483898650908528643",
+						"display_url": "twitter.com/np5882/status/…",
+						"indices": [
+							47,
+							70
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1484092183280242700,
+						"id_str": "1484092183280242691",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/FJiN-kZaUAMsi6H.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJiN-kZaUAMsi6H.jpg",
+						"url": "https://t.co/MCRZ0iahvS",
+						"display_url": "pic.twitter.com/MCRZ0iahvS",
+						"expanded_url": "https://twitter.com/mouse_niconi/status/1484092230617137154/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 702,
+								"h": 954,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 702,
+								"h": 954,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1484092183280242700,
+						"id_str": "1484092183280242691",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/FJiN-kZaUAMsi6H.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJiN-kZaUAMsi6H.jpg",
+						"url": "https://t.co/MCRZ0iahvS",
+						"display_url": "pic.twitter.com/MCRZ0iahvS",
+						"expanded_url": "https://twitter.com/mouse_niconi/status/1484092230617137154/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 702,
+								"h": 954,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 702,
+								"h": 954,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1351737127210401800,
+				"id_str": "1351737127210401795",
+				"name": "새앙쥐🙂🍭📡",
+				"screen_name": "mouse_niconi",
+				"location": "서울시 강동구",
+				"description": "러브라이브/뱅드림/리듬게임 외 서브컬쳐의 이것저것을 파고 있습니다. 트친소 흔적 남기시면 찾아가용.. 🙂 잘 부탁드립니당 :)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1313,
+				"friends_count": 1085,
+				"listed_count": 10,
+				"created_at": "Wed Jan 20 03:44:08 +0000 2021",
+				"favourites_count": 20431,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20485,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1477885257181728769/yrTdZ4a-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477885257181728769/yrTdZ4a-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1351737127210401795/1628276187",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1483898650908528600,
+			"quoted_status_id_str": "1483898650908528643",
+			"quoted_status_permalink": {
+				"url": "https://t.co/njoD2LoTkn",
+				"expanded": "https://twitter.com/np5882/status/1483898650908528643",
+				"display": "twitter.com/np5882/status/…"
+			},
+			"retweet_count": 19552,
+			"favorite_count": 8510,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 12,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자원이 부족할 때 다양성이 증가한다는 것은 경제나 산업뿐만 아니라 생태계에서도 나타나는 일반적인 현상.\n\nhttps://t.co/3fr1YHnLeu https://t.co/HE3svNPU32"
+	},
+	{
 		"created_at": "Thu Jan 20 18:47:52 +0000 2022",
 		"id": 1484236248919470000,
 		"id_str": "1484236248919470080",
