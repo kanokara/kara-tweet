@@ -1,6 +1,1157 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 23 00:13:40 +0000 2022",
+		"id": 1484797332600549400,
+		"id_str": "1485043014947188737",
+		"full_text": "이 일화를 읽은 후, 폭력보다 강인한 것이 무엇인지 생각하게 되는 계기가 되었다. 책 출처는 틱낫한 스님의 \"침묵\"입니다. https://t.co/nH3DICSpAD https://t.co/PGnZwjAd01",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nH3DICSpAD",
+					"expanded_url": "https://twitter.com/and_so_0n/status/1484749741108113412",
+					"display_url": "twitter.com/and_so_0n/stat…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1484797328439799800,
+					"id_str": "1484797328439799809",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FJsPTa0acAEMgxr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJsPTa0acAEMgxr.jpg",
+					"url": "https://t.co/PGnZwjAd01",
+					"display_url": "pic.twitter.com/PGnZwjAd01",
+					"expanded_url": "https://twitter.com/and_so_0n/status/1484797332600549376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 745,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484797328439799800,
+					"id_str": "1484797328439799809",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FJsPTa0acAEMgxr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJsPTa0acAEMgxr.jpg",
+					"url": "https://t.co/PGnZwjAd01",
+					"display_url": "pic.twitter.com/PGnZwjAd01",
+					"expanded_url": "https://twitter.com/and_so_0n/status/1484797332600549376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 745,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 317200841,
+			"id_str": "317200841",
+			"name": "응정🪴",
+			"screen_name": "and_so_0n",
+			"location": "",
+			"description": "비평합니다. @sa_gack 비평집 #침투 청탁 문의는 riyunion@naver.com 으로 주세요. 대부분의 트윗을 뮤트, 비팔 알림 꺼뒀어요. 꼭 전할 메시지는 디엠으로😉",
+			"url": "https://t.co/uZg5WxPzDG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uZg5WxPzDG",
+							"expanded_url": "https://andso0n.com",
+							"display_url": "andso0n.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9899,
+			"friends_count": 1395,
+			"listed_count": 10,
+			"created_at": "Tue Jun 14 15:46:49 +0000 2011",
+			"favourites_count": 12371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476163005394329603/DovSZOXy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476163005394329603/DovSZOXy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/317200841/1640585764",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1484749741108113400,
+		"quoted_status_id_str": "1484749741108113412",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nH3DICSpAD",
+			"expanded": "https://twitter.com/and_so_0n/status/1484749741108113412",
+			"display": "twitter.com/and_so_0n/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 22 04:48:18 +0000 2022",
+			"id": 1484749741108113400,
+			"id_str": "1484749741108113412",
+			"full_text": "오늘 틱낫한 스님이 타계하셨다. 문자학과 동양철학을 전공한 불교신자 엄마 밑에서 자란 나는, 손을 뻗으면 불교서적이 널린 환경에서 자랐는데 그 중에서도 틱낫한 스님의 책에서 읽은 어느 일화가 너무 강렬해서 잊을 수가 없다. 1947년에 스님은 베트남의 한 사찰에서 지내고 있었는데 당시는 (&gt;)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				167
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 317200841,
+				"id_str": "317200841",
+				"name": "응정🪴",
+				"screen_name": "and_so_0n",
+				"location": "",
+				"description": "비평합니다. @sa_gack 비평집 #침투 청탁 문의는 riyunion@naver.com 으로 주세요. 대부분의 트윗을 뮤트, 비팔 알림 꺼뒀어요. 꼭 전할 메시지는 디엠으로😉",
+				"url": "https://t.co/uZg5WxPzDG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uZg5WxPzDG",
+								"expanded_url": "https://andso0n.com",
+								"display_url": "andso0n.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9899,
+				"friends_count": 1395,
+				"listed_count": 10,
+				"created_at": "Tue Jun 14 15:46:49 +0000 2011",
+				"favourites_count": 12371,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20722,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1476163005394329603/DovSZOXy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476163005394329603/DovSZOXy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/317200841/1640585764",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1936,
+			"favorite_count": 1601,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 46,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 일화를 읽은 후, 폭력보다 강인한 것이 무엇인지 생각하게 되는 계기가 되었다. 책 출처는 틱낫한 스님의 \"침묵\"입니다. https://t.co/nH3DICSpAD https://t.co/PGnZwjAd01"
+	},
+	{
+		"created_at": "Sun Jan 23 00:13:30 +0000 2022",
+		"id": 1484749761739911200,
+		"id_str": "1485042974182768640",
+		"full_text": "아무도 없을 것이라 예상한 방문을 거칠게 열어젖혔을 때, 오롯이 자신의 호흡에만 집중하고 있는 50-60명 정도의 스님들이 등장하는 장면의 묘사에 완전히 압도되었다. 폭력에 의해 으스러지지 않는 것, 총을 쥔 사람이 자신이 무엇을 쥐고 있는지 생각해보게 하는 힘이 이 이야기엔 있었다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1484749759944720400,
+		"in_reply_to_status_id_str": "1484749759944720387",
+		"in_reply_to_user_id": 317200841,
+		"in_reply_to_user_id_str": "317200841",
+		"in_reply_to_screen_name": "and_so_0n",
+		"user": {
+			"id": 317200841,
+			"id_str": "317200841",
+			"name": "응정🪴",
+			"screen_name": "and_so_0n",
+			"location": "",
+			"description": "비평합니다. @sa_gack 비평집 #침투 청탁 문의는 riyunion@naver.com 으로 주세요. 대부분의 트윗을 뮤트, 비팔 알림 꺼뒀어요. 꼭 전할 메시지는 디엠으로😉",
+			"url": "https://t.co/uZg5WxPzDG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uZg5WxPzDG",
+							"expanded_url": "https://andso0n.com",
+							"display_url": "andso0n.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9899,
+			"friends_count": 1395,
+			"listed_count": 10,
+			"created_at": "Tue Jun 14 15:46:49 +0000 2011",
+			"favourites_count": 12371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476163005394329603/DovSZOXy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476163005394329603/DovSZOXy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/317200841/1640585764",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 489,
+		"favorite_count": 777,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아무도 없을 것이라 예상한 방문을 거칠게 열어젖혔을 때, 오롯이 자신의 호흡에만 집중하고 있는 50-60명 정도의 스님들이 등장하는 장면의 묘사에 완전히 압도되었다. 폭력에 의해 으스러지지 않는 것, 총을 쥔 사람이 자신이 무엇을 쥐고 있는지 생각해보게 하는 힘이 이 이야기엔 있었다."
+	},
+	{
+		"created_at": "Sun Jan 23 00:13:27 +0000 2022",
+		"id": 1484749759944720400,
+		"id_str": "1485042962849746944",
+		"full_text": "스님과의 대화 후 그 군인은 일요일마다 사원을 찾아와서 함께 명상하며 수행을 하다가 한달 후 알제리로 갔으나 그후부터 연락이 끊겼다고 한다. 스님은 책에서 이렇게 쓰고 있다. \"그는 안전할까요? 하지만 나는 마지막으로 그를 보았을 때 그가 평화로웠다는 사실을 압니다.\" 나는 이 일화를 읽고",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1484749757390426000,
+		"in_reply_to_status_id_str": "1484749757390426117",
+		"in_reply_to_user_id": 317200841,
+		"in_reply_to_user_id_str": "317200841",
+		"in_reply_to_screen_name": "and_so_0n",
+		"user": {
+			"id": 317200841,
+			"id_str": "317200841",
+			"name": "응정🪴",
+			"screen_name": "and_so_0n",
+			"location": "",
+			"description": "비평합니다. @sa_gack 비평집 #침투 청탁 문의는 riyunion@naver.com 으로 주세요. 대부분의 트윗을 뮤트, 비팔 알림 꺼뒀어요. 꼭 전할 메시지는 디엠으로😉",
+			"url": "https://t.co/uZg5WxPzDG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uZg5WxPzDG",
+							"expanded_url": "https://andso0n.com",
+							"display_url": "andso0n.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9899,
+			"friends_count": 1395,
+			"listed_count": 10,
+			"created_at": "Tue Jun 14 15:46:49 +0000 2011",
+			"favourites_count": 12371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476163005394329603/DovSZOXy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476163005394329603/DovSZOXy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/317200841/1640585764",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 143,
+		"favorite_count": 321,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "스님과의 대화 후 그 군인은 일요일마다 사원을 찾아와서 함께 명상하며 수행을 하다가 한달 후 알제리로 갔으나 그후부터 연락이 끊겼다고 한다. 스님은 책에서 이렇게 쓰고 있다. \"그는 안전할까요? 하지만 나는 마지막으로 그를 보았을 때 그가 평화로웠다는 사실을 압니다.\" 나는 이 일화를 읽고"
+	},
+	{
+		"created_at": "Sun Jan 23 00:13:24 +0000 2022",
+		"id": 1484749757390426000,
+		"id_str": "1485042950254260225",
+		"full_text": "이곳에서 전쟁을 하고 있는지 알수 없어졌단다. 스님들의 평화롭고 고요한 삶을 바라보면서 지구에서 살아가는 생명들에 대해 생각하고 프랑스군인과 배트민 저항군 사이의 증오심에 대해 고민하게 됐다고. 그 프랑스 군인은 고등학교를 졸업하고 바로 전쟁에 참여한 스물 한살의 청년이었다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1484749752856375300,
+		"in_reply_to_status_id_str": "1484749752856375298",
+		"in_reply_to_user_id": 317200841,
+		"in_reply_to_user_id_str": "317200841",
+		"in_reply_to_screen_name": "and_so_0n",
+		"user": {
+			"id": 317200841,
+			"id_str": "317200841",
+			"name": "응정🪴",
+			"screen_name": "and_so_0n",
+			"location": "",
+			"description": "비평합니다. @sa_gack 비평집 #침투 청탁 문의는 riyunion@naver.com 으로 주세요. 대부분의 트윗을 뮤트, 비팔 알림 꺼뒀어요. 꼭 전할 메시지는 디엠으로😉",
+			"url": "https://t.co/uZg5WxPzDG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uZg5WxPzDG",
+							"expanded_url": "https://andso0n.com",
+							"display_url": "andso0n.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9899,
+			"friends_count": 1395,
+			"listed_count": 10,
+			"created_at": "Tue Jun 14 15:46:49 +0000 2011",
+			"favourites_count": 12371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476163005394329603/DovSZOXy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476163005394329603/DovSZOXy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/317200841/1640585764",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 170,
+		"favorite_count": 293,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이곳에서 전쟁을 하고 있는지 알수 없어졌단다. 스님들의 평화롭고 고요한 삶을 바라보면서 지구에서 살아가는 생명들에 대해 생각하고 프랑스군인과 배트민 저항군 사이의 증오심에 대해 고민하게 됐다고. 그 프랑스 군인은 고등학교를 졸업하고 바로 전쟁에 참여한 스물 한살의 청년이었다."
+	},
+	{
+		"created_at": "Sun Jan 23 00:13:22 +0000 2022",
+		"id": 1484749752856375300,
+		"id_str": "1485042940565422081",
+		"full_text": "이었다고 한다. 승려들이 명상하는 걸 보고 군인들은 어쩐지 시끄럽게 해선 안될 것 같아 마당에서 명상이 끝나길 삼십분쯤 기다렸단다. 그리곤 명상시간이 끝났음을 알리는 종소리가 울리고 한 스님이 군인들을 정중하게 맞이했다고. 자신들은 곧 기지로 돌아갔지만 그 시간부터 그 군인은 자신이 왜",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1484749751119917000,
+		"in_reply_to_status_id_str": "1484749751119917058",
+		"in_reply_to_user_id": 317200841,
+		"in_reply_to_user_id_str": "317200841",
+		"in_reply_to_screen_name": "and_so_0n",
+		"user": {
+			"id": 317200841,
+			"id_str": "317200841",
+			"name": "응정🪴",
+			"screen_name": "and_so_0n",
+			"location": "",
+			"description": "비평합니다. @sa_gack 비평집 #침투 청탁 문의는 riyunion@naver.com 으로 주세요. 대부분의 트윗을 뮤트, 비팔 알림 꺼뒀어요. 꼭 전할 메시지는 디엠으로😉",
+			"url": "https://t.co/uZg5WxPzDG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uZg5WxPzDG",
+							"expanded_url": "https://andso0n.com",
+							"display_url": "andso0n.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9899,
+			"friends_count": 1395,
+			"listed_count": 10,
+			"created_at": "Tue Jun 14 15:46:49 +0000 2011",
+			"favourites_count": 12371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476163005394329603/DovSZOXy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476163005394329603/DovSZOXy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/317200841/1640585764",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 115,
+		"favorite_count": 194,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이었다고 한다. 승려들이 명상하는 걸 보고 군인들은 어쩐지 시끄럽게 해선 안될 것 같아 마당에서 명상이 끝나길 삼십분쯤 기다렸단다. 그리곤 명상시간이 끝났음을 알리는 종소리가 울리고 한 스님이 군인들을 정중하게 맞이했다고. 자신들은 곧 기지로 돌아갔지만 그 시간부터 그 군인은 자신이 왜"
+	},
+	{
+		"created_at": "Sun Jan 23 00:13:19 +0000 2022",
+		"id": 1484749751119917000,
+		"id_str": "1485042928703913984",
+		"full_text": "군인은 자신들이 등장했을 때 당황하거나 겁을 먹거나 도망치지 않는 사람들을 그때 처음 만났단다. 이 말을 듣던 틱낫한 스님이 \"그건 저희가 저녁 명상하는 시간에 오셨기 때문에 저희는 각자 자신의 호흡에 집중했을 뿐\"이라고 답하자 군인이 답하길 \"마치 보이지 않는 기묘한 군대를 만난 기분\"(&gt;)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1484749749492523000,
+		"in_reply_to_status_id_str": "1484749749492523008",
+		"in_reply_to_user_id": 317200841,
+		"in_reply_to_user_id_str": "317200841",
+		"in_reply_to_screen_name": "and_so_0n",
+		"user": {
+			"id": 317200841,
+			"id_str": "317200841",
+			"name": "응정🪴",
+			"screen_name": "and_so_0n",
+			"location": "",
+			"description": "비평합니다. @sa_gack 비평집 #침투 청탁 문의는 riyunion@naver.com 으로 주세요. 대부분의 트윗을 뮤트, 비팔 알림 꺼뒀어요. 꼭 전할 메시지는 디엠으로😉",
+			"url": "https://t.co/uZg5WxPzDG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uZg5WxPzDG",
+							"expanded_url": "https://andso0n.com",
+							"display_url": "andso0n.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9899,
+			"friends_count": 1395,
+			"listed_count": 10,
+			"created_at": "Tue Jun 14 15:46:49 +0000 2011",
+			"favourites_count": 12371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476163005394329603/DovSZOXy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476163005394329603/DovSZOXy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/317200841/1640585764",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 237,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "군인은 자신들이 등장했을 때 당황하거나 겁을 먹거나 도망치지 않는 사람들을 그때 처음 만났단다. 이 말을 듣던 틱낫한 스님이 \"그건 저희가 저녁 명상하는 시간에 오셨기 때문에 저희는 각자 자신의 호흡에 집중했을 뿐\"이라고 답하자 군인이 답하길 \"마치 보이지 않는 기묘한 군대를 만난 기분\"(&gt;)"
+	},
+	{
+		"created_at": "Sun Jan 23 00:13:16 +0000 2022",
+		"id": 1484749749492523000,
+		"id_str": "1485042917043765250",
+		"full_text": "겁을 먹도록 계속해서 위협적인 소리를 냈는데 사원이 너무 조용한 바람에 점차 자신들이 내는 소리가 스스로에게 불편하게 여겨질 정도로 그 조용함이 크게 다가왔다고. 수색 도중 비어 있을 거라고 생각한 방을 벌컥 열었는데, 그 방에는 50-60명의 승려들이 고요히 앉아서 명상을 하고 있었다. (&gt;)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1484749747823202300,
+		"in_reply_to_status_id_str": "1484749747823202306",
+		"in_reply_to_user_id": 317200841,
+		"in_reply_to_user_id_str": "317200841",
+		"in_reply_to_screen_name": "and_so_0n",
+		"user": {
+			"id": 317200841,
+			"id_str": "317200841",
+			"name": "응정🪴",
+			"screen_name": "and_so_0n",
+			"location": "",
+			"description": "비평합니다. @sa_gack 비평집 #침투 청탁 문의는 riyunion@naver.com 으로 주세요. 대부분의 트윗을 뮤트, 비팔 알림 꺼뒀어요. 꼭 전할 메시지는 디엠으로😉",
+			"url": "https://t.co/uZg5WxPzDG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uZg5WxPzDG",
+							"expanded_url": "https://andso0n.com",
+							"display_url": "andso0n.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9899,
+			"friends_count": 1395,
+			"listed_count": 10,
+			"created_at": "Tue Jun 14 15:46:49 +0000 2011",
+			"favourites_count": 12371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476163005394329603/DovSZOXy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476163005394329603/DovSZOXy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/317200841/1640585764",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 187,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "겁을 먹도록 계속해서 위협적인 소리를 냈는데 사원이 너무 조용한 바람에 점차 자신들이 내는 소리가 스스로에게 불편하게 여겨질 정도로 그 조용함이 크게 다가왔다고. 수색 도중 비어 있을 거라고 생각한 방을 벌컥 열었는데, 그 방에는 50-60명의 승려들이 고요히 앉아서 명상을 하고 있었다. (&gt;)"
+	},
+	{
+		"created_at": "Sun Jan 23 00:13:13 +0000 2022",
+		"id": 1484749747823202300,
+		"id_str": "1485042905115168768",
+		"full_text": "잡으러 사찰에 들이닥쳤단다. 그런데 군인들은 굉장히 당황했다고. 왜냐하면 보통 군인들이 나타나면 사람들은 정신없이 도망치느라 시끄러워지는데 그들이 일부러 위협적인 소리를 내며 들어갔으나 사원엔 아무도 없는 것처럼 아무 반응이 없었다고. 군인들은 혹시라도 숨어있는 베트민 저항군인이(&gt;)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1484749746187403300,
+		"in_reply_to_status_id_str": "1484749746187403265",
+		"in_reply_to_user_id": 317200841,
+		"in_reply_to_user_id_str": "317200841",
+		"in_reply_to_screen_name": "and_so_0n",
+		"user": {
+			"id": 317200841,
+			"id_str": "317200841",
+			"name": "응정🪴",
+			"screen_name": "and_so_0n",
+			"location": "",
+			"description": "비평합니다. @sa_gack 비평집 #침투 청탁 문의는 riyunion@naver.com 으로 주세요. 대부분의 트윗을 뮤트, 비팔 알림 꺼뒀어요. 꼭 전할 메시지는 디엠으로😉",
+			"url": "https://t.co/uZg5WxPzDG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uZg5WxPzDG",
+							"expanded_url": "https://andso0n.com",
+							"display_url": "andso0n.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9899,
+			"friends_count": 1395,
+			"listed_count": 10,
+			"created_at": "Tue Jun 14 15:46:49 +0000 2011",
+			"favourites_count": 12371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476163005394329603/DovSZOXy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476163005394329603/DovSZOXy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/317200841/1640585764",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 138,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "잡으러 사찰에 들이닥쳤단다. 그런데 군인들은 굉장히 당황했다고. 왜냐하면 보통 군인들이 나타나면 사람들은 정신없이 도망치느라 시끄러워지는데 그들이 일부러 위협적인 소리를 내며 들어갔으나 사원엔 아무도 없는 것처럼 아무 반응이 없었다고. 군인들은 혹시라도 숨어있는 베트민 저항군인이(&gt;)"
+	},
+	{
+		"created_at": "Sun Jan 23 00:13:10 +0000 2022",
+		"id": 1484749746187403300,
+		"id_str": "1485042891945054208",
+		"full_text": "새벽에 길을 나선 틱낫한 스님을 따로 불러 대화를 요청하더란다. 스님이 이에 응해서 조용한 장소로 옮겼더니 그 군인이 자신은 열흘 전 스님이 있는 사찰에 정찰을 갔던 사람이라고 밝히며 당시 본인의 경험를 스님에게 털어놓는다. 그 프랑스 군인은 다섯 명의 부하 병사를 데리고 베트민 저항군을",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1484749744471945200,
+		"in_reply_to_status_id_str": "1484749744471945218",
+		"in_reply_to_user_id": 317200841,
+		"in_reply_to_user_id_str": "317200841",
+		"in_reply_to_screen_name": "and_so_0n",
+		"user": {
+			"id": 317200841,
+			"id_str": "317200841",
+			"name": "응정🪴",
+			"screen_name": "and_so_0n",
+			"location": "",
+			"description": "비평합니다. @sa_gack 비평집 #침투 청탁 문의는 riyunion@naver.com 으로 주세요. 대부분의 트윗을 뮤트, 비팔 알림 꺼뒀어요. 꼭 전할 메시지는 디엠으로😉",
+			"url": "https://t.co/uZg5WxPzDG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uZg5WxPzDG",
+							"expanded_url": "https://andso0n.com",
+							"display_url": "andso0n.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9899,
+			"friends_count": 1395,
+			"listed_count": 10,
+			"created_at": "Tue Jun 14 15:46:49 +0000 2011",
+			"favourites_count": 12371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476163005394329603/DovSZOXy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476163005394329603/DovSZOXy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/317200841/1640585764",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 144,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "새벽에 길을 나선 틱낫한 스님을 따로 불러 대화를 요청하더란다. 스님이 이에 응해서 조용한 장소로 옮겼더니 그 군인이 자신은 열흘 전 스님이 있는 사찰에 정찰을 갔던 사람이라고 밝히며 당시 본인의 경험를 스님에게 털어놓는다. 그 프랑스 군인은 다섯 명의 부하 병사를 데리고 베트민 저항군을"
+	},
+	{
+		"created_at": "Sun Jan 23 00:13:08 +0000 2022",
+		"id": 1484749744471945200,
+		"id_str": "1485042881509597187",
+		"full_text": "프랑스 군대가 베트남에 군사기지를 설치하고 베트남군과 총격을 벌이던 시기였다. 아침에 일어나면 총격전으로 길위에 죽은 사람들이 널려있던 시기라고 한다. 그런데 틱낫한 스님이 머물렀던 사찰의 위치는 외진 곳이라 총격이 자주 벌어져서 사람들의 발길이 뜸했다고. 그런데 하루는 한 군인이(&gt;)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1484749741108113400,
+		"in_reply_to_status_id_str": "1484749741108113412",
+		"in_reply_to_user_id": 317200841,
+		"in_reply_to_user_id_str": "317200841",
+		"in_reply_to_screen_name": "and_so_0n",
+		"user": {
+			"id": 317200841,
+			"id_str": "317200841",
+			"name": "응정🪴",
+			"screen_name": "and_so_0n",
+			"location": "",
+			"description": "비평합니다. @sa_gack 비평집 #침투 청탁 문의는 riyunion@naver.com 으로 주세요. 대부분의 트윗을 뮤트, 비팔 알림 꺼뒀어요. 꼭 전할 메시지는 디엠으로😉",
+			"url": "https://t.co/uZg5WxPzDG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uZg5WxPzDG",
+							"expanded_url": "https://andso0n.com",
+							"display_url": "andso0n.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9899,
+			"friends_count": 1395,
+			"listed_count": 10,
+			"created_at": "Tue Jun 14 15:46:49 +0000 2011",
+			"favourites_count": 12371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476163005394329603/DovSZOXy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476163005394329603/DovSZOXy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/317200841/1640585764",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 157,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "프랑스 군대가 베트남에 군사기지를 설치하고 베트남군과 총격을 벌이던 시기였다. 아침에 일어나면 총격전으로 길위에 죽은 사람들이 널려있던 시기라고 한다. 그런데 틱낫한 스님이 머물렀던 사찰의 위치는 외진 곳이라 총격이 자주 벌어져서 사람들의 발길이 뜸했다고. 그런데 하루는 한 군인이(&gt;)"
+	},
+	{
 		"created_at": "Sat Jan 22 16:25:02 +0000 2022",
 		"id": 1484353282240049200,
 		"id_str": "1484925079477981184",
