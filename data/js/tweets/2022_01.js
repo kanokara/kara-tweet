@@ -1,6 +1,511 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 24 16:18:50 +0000 2022",
+		"id": 1485648294852579300,
+		"id_str": "1485648294852579333",
+		"full_text": "이것이 무엇을 의미하는지는 현 단계에선 미지수라고 하지만, 제 생각에는 사랑의 방식과 대상이 극도로 변형되는 것이 아닐까 싶네요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1485647458747437000,
+		"in_reply_to_status_id_str": "1485647458747437057",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이것이 무엇을 의미하는지는 현 단계에선 미지수라고 하지만, 제 생각에는 사랑의 방식과 대상이 극도로 변형되는 것이 아닐까 싶네요."
+	},
+	{
+		"created_at": "Mon Jan 24 16:15:30 +0000 2022",
+		"id": 1485647458747437000,
+		"id_str": "1485647458747437057",
+		"full_text": "학습이 아니라 젖을 물리는 순간부터 여성의 뇌는 영구적으로 변화하는 것이 관찰되어, 10년 후에도 아이 양육 여부를 90% 이상의 확률로 알 수 있다고 해요.\nhttps://t.co/EXuS3pDO7g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EXuS3pDO7g",
+					"expanded_url": "https://twitter.com/plluto/status/1371312194151874566?t=cHJ2nfkxwvR33hnMnZqwOg&s=19",
+					"display_url": "twitter.com/plluto/status/…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1371312194151874600,
+		"quoted_status_id_str": "1371312194151874566",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EXuS3pDO7g",
+			"expanded": "https://twitter.com/plluto/status/1371312194151874566?t=cHJ2nfkxwvR33hnMnZqwOg&s=19",
+			"display": "twitter.com/plluto/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 15 04:07:59 +0000 2021",
+			"id": 1371312194151874600,
+			"id_str": "1371312194151874566",
+			"full_text": "상관없습니다. 애는 이뻐서 키우는 게 아니에요. 낳고 나면 책임감 때문에 키우는 거고, 실제로 애가 태어나자마자 예뻐하고 좋아하는 여성은 1/3도 안됩니다. 애가 예뻐지는 건 오히려 학습에 가깝습니다. 첫째는 예쁜지도 모르고 키웠는데 둘째나 늦둥이는 예쁘더라는게 그래서 그래요. https://t.co/b6rDmMRP9c",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				155
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/b6rDmMRP9c",
+						"expanded_url": "https://twitter.com/olivebutterfly3/status/1371282216056066053",
+						"display_url": "twitter.com/olivebutterfly…",
+						"indices": [
+							156,
+							179
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 63650856,
+				"id_str": "63650856",
+				"name": "플루토(Heejung Kim)🎗",
+				"screen_name": "plluto",
+				"location": "Seoul",
+				"description": "Game Designer/Scenario Writer, T/ORPG Master, Mom of a girl and a boy 데못죽/내스급 홀릭 중. 파판14 모그리섭. RPG 포타 : https://t.co/8SzIdA6Mdk",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/8SzIdA6Mdk",
+								"expanded_url": "http://plluto-rpg.postype.com",
+								"display_url": "plluto-rpg.postype.com",
+								"indices": [
+									104,
+									127
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1200,
+				"friends_count": 1122,
+				"listed_count": 22,
+				"created_at": "Fri Aug 07 05:43:41 +0000 2009",
+				"favourites_count": 146020,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 67760,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1424627093556523009/UWjO6K4A_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424627093556523009/UWjO6K4A_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63650856/1518238493",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1371282216056066000,
+			"quoted_status_id_str": "1371282216056066053",
+			"quoted_status_permalink": {
+				"url": "https://t.co/b6rDmMRP9c",
+				"expanded": "https://twitter.com/olivebutterfly3/status/1371282216056066053",
+				"display": "twitter.com/olivebutterfly…"
+			},
+			"retweet_count": 3959,
+			"favorite_count": 1568,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "학습이 아니라 젖을 물리는 순간부터 여성의 뇌는 영구적으로 변화하는 것이 관찰되어, 10년 후에도 아이 양육 여부를 90% 이상의 확률로 알 수 있다고 해요.\nhttps://t.co/EXuS3pDO7g"
+	},
+	{
+		"created_at": "Mon Jan 24 16:13:03 +0000 2022",
+		"id": 1485643538251776000,
+		"id_str": "1485646839546527744",
+		"full_text": "https://t.co/yzvVB2KpVn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1485643501308383200,
+					"id_str": "1485643501308383233",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ4Q5KZakAEI0ti.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ4Q5KZakAEI0ti.jpg",
+					"url": "https://t.co/yzvVB2KpVn",
+					"display_url": "pic.twitter.com/yzvVB2KpVn",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1485643538251776006/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 401,
+							"h": 950,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 287,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 401,
+							"h": 950,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485643501308383200,
+					"id_str": "1485643501308383233",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ4Q5KZakAEI0ti.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ4Q5KZakAEI0ti.jpg",
+					"url": "https://t.co/yzvVB2KpVn",
+					"display_url": "pic.twitter.com/yzvVB2KpVn",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1485643538251776006/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 401,
+							"h": 950,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 287,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 401,
+							"h": 950,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1485643529271799800,
+					"id_str": "1485643529271799811",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ4Q6ykacAMWCXm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ4Q6ykacAMWCXm.jpg",
+					"url": "https://t.co/yzvVB2KpVn",
+					"display_url": "pic.twitter.com/yzvVB2KpVn",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1485643538251776006/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 401,
+							"h": 908,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 401,
+							"h": 908,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1485643437445894100,
+		"in_reply_to_status_id_str": "1485643437445894145",
+		"in_reply_to_user_id": 834020169680719900,
+		"in_reply_to_user_id_str": "834020169680719872",
+		"in_reply_to_screen_name": "ehrtjshxm7",
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9,
+			"friends_count": 32,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/yzvVB2KpVn"
+	},
+	{
 		"created_at": "Mon Jan 24 12:36:40 +0000 2022",
 		"id": 1485592185211076600,
 		"id_str": "1485592386105675780",
