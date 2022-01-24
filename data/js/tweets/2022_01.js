@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 24 12:36:40 +0000 2022",
+		"id": 1485592185211076600,
+		"id_str": "1485592386105675780",
+		"full_text": "\"유럽 비교 대상국 전체 분석에서 연령층이 불안에 유의미한 영향을 미치지 못하는 것과 달리 한국은 노인보다 비노인층에서 불안을 느낄 가능성이 높게 나타나고, 유럽 국가와 상반되게 한국은 교육 수준이 높을 경우 불안을 느낄 가능성도 불안에 통계적으로 유의미한 영향을 미치는  것으로 나타나\" https://t.co/2VXHumMTLi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1485592173932585000,
+					"id_str": "1485592173932584960",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ3iNhBaIAAc3TH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ3iNhBaIAAc3TH.jpg",
+					"url": "https://t.co/2VXHumMTLi",
+					"display_url": "pic.twitter.com/2VXHumMTLi",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1485592185211076610/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 555,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 882,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 882,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485592173932585000,
+					"id_str": "1485592173932584960",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ3iNhBaIAAc3TH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ3iNhBaIAAc3TH.jpg",
+					"url": "https://t.co/2VXHumMTLi",
+					"display_url": "pic.twitter.com/2VXHumMTLi",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1485592185211076610/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 555,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 882,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 882,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1485592178806390800,
+					"id_str": "1485592178806390787",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ3iNzLagAMDkmI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ3iNzLagAMDkmI.jpg",
+					"url": "https://t.co/2VXHumMTLi",
+					"display_url": "pic.twitter.com/2VXHumMTLi",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1485592185211076610/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 2009,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 645,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 366,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1485588938383564800,
+		"in_reply_to_status_id_str": "1485588938383564800",
+		"in_reply_to_user_id": 834020169680719900,
+		"in_reply_to_user_id_str": "834020169680719872",
+		"in_reply_to_screen_name": "ehrtjshxm7",
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9,
+			"friends_count": 32,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 702,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"유럽 비교 대상국 전체 분석에서 연령층이 불안에 유의미한 영향을 미치지 못하는 것과 달리 한국은 노인보다 비노인층에서 불안을 느낄 가능성이 높게 나타나고, 유럽 국가와 상반되게 한국은 교육 수준이 높을 경우 불안을 느낄 가능성도 불안에 통계적으로 유의미한 영향을 미치는  것으로 나타나\" https://t.co/2VXHumMTLi"
+	},
+	{
+		"created_at": "Mon Jan 24 12:36:37 +0000 2022",
+		"id": 1485588938383564800,
+		"id_str": "1485592373745041413",
+		"full_text": "젊은 여성이 사기범죄나 사이비에 취약한 까닭 역시 여기에 있을지도.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1485588258168131600,
+		"in_reply_to_status_id_str": "1485588258168131585",
+		"in_reply_to_user_id": 834020169680719900,
+		"in_reply_to_user_id_str": "834020169680719872",
+		"in_reply_to_screen_name": "ehrtjshxm7",
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9,
+			"friends_count": 32,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 702,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "젊은 여성이 사기범죄나 사이비에 취약한 까닭 역시 여기에 있을지도."
+	},
+	{
 		"created_at": "Mon Jan 24 11:43:23 +0000 2022",
 		"id": 1485578587227197400,
 		"id_str": "1485578977398095872",
