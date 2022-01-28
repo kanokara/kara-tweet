@@ -1,6 +1,1050 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 28 13:22:05 +0000 2022",
+		"id": 1486927319659053000,
+		"id_str": "1487053368119881728",
+		"full_text": "\"Snake Detection Hypothesis\"\n유인원의 진화는 뱀을 빨리 알아보기 위해 촉진되었다는 가설.\n\n다수의 실험에서 인간은 흐릿한 뱀의 모습을 다른 흐릿한 동물보다 먼저 알아본다. (사진 1,2)\n\n원숭이는 다른 사진보다 뱀 사진을 봤을 때 시각정보를 처리하는 뇌의 부위가 폭발적으로 반응한다.(사진 3) https://t.co/oiDIF09ntl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486924382748700700,
+					"id_str": "1486924382748700673",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FKKd2RmacAEMhKS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKKd2RmacAEMhKS.jpg",
+					"url": "https://t.co/oiDIF09ntl",
+					"display_url": "pic.twitter.com/oiDIF09ntl",
+					"expanded_url": "https://twitter.com/literaczy/status/1486927319659053057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1828,
+							"h": 1028,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486924382748700700,
+					"id_str": "1486924382748700673",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FKKd2RmacAEMhKS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKKd2RmacAEMhKS.jpg",
+					"url": "https://t.co/oiDIF09ntl",
+					"display_url": "pic.twitter.com/oiDIF09ntl",
+					"expanded_url": "https://twitter.com/literaczy/status/1486927319659053057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1828,
+							"h": 1028,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1486924097741553700,
+					"id_str": "1486924097741553664",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FKKdlr3agAAkdhe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKKdlr3agAAkdhe.jpg",
+					"url": "https://t.co/oiDIF09ntl",
+					"display_url": "pic.twitter.com/oiDIF09ntl",
+					"expanded_url": "https://twitter.com/literaczy/status/1486927319659053057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1828,
+							"h": 1030,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1486925471988461600,
+					"id_str": "1486925471988461568",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FKKe1rVaMAAo1Z2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKKe1rVaMAAo1Z2.jpg",
+					"url": "https://t.co/oiDIF09ntl",
+					"display_url": "pic.twitter.com/oiDIF09ntl",
+					"expanded_url": "https://twitter.com/literaczy/status/1486927319659053057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1828,
+							"h": 1030,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1014616586,
+			"id_str": "1014616586",
+			"name": "댐중생",
+			"screen_name": "literaczy",
+			"location": "In your area",
+			"description": "역덕.\nI translate tweets & I commission paintings.",
+			"url": "https://t.co/zTr2zKP44v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zTr2zKP44v",
+							"expanded_url": "http://inuitshut.egloos.com/",
+							"display_url": "inuitshut.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2296,
+			"friends_count": 570,
+			"listed_count": 21,
+			"created_at": "Sun Dec 16 06:29:43 +0000 2012",
+			"favourites_count": 27802,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1451980890020532224/op9QRqFI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451980890020532224/op9QRqFI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1014616586/1638069202",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 622,
+		"favorite_count": 441,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"Snake Detection Hypothesis\"\n유인원의 진화는 뱀을 빨리 알아보기 위해 촉진되었다는 가설.\n\n다수의 실험에서 인간은 흐릿한 뱀의 모습을 다른 흐릿한 동물보다 먼저 알아본다. (사진 1,2)\n\n원숭이는 다른 사진보다 뱀 사진을 봤을 때 시각정보를 처리하는 뇌의 부위가 폭발적으로 반응한다.(사진 3) https://t.co/oiDIF09ntl"
+	},
+	{
+		"created_at": "Fri Jan 28 13:21:32 +0000 2022",
+		"id": 1170403539849379800,
+		"id_str": "1487053229984649226",
+		"full_text": "\"산등성이 꼭대기를 따라 생성된 크레비스는 알리가 검을 뽑아 용을 벤 자국이고, 그 주변의 불긋불긋한 광석이 노출된 부분은 용의 피다. 지하수가 흐르는 소리는 용이 죽으면서 내는 신음소리고, 산등성이 끝자락에서 흘러나오는 희뿌연 암반수는 참회하는 용의 눈물이다.\"\nhttps://t.co/CNgwMCV3JM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CNgwMCV3JM",
+					"expanded_url": "http://inuitshut.egloos.com/1944786",
+					"display_url": "inuitshut.egloos.com/1944786",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1163477652138631200,
+		"in_reply_to_status_id_str": "1163477652138631169",
+		"in_reply_to_user_id": 1014616586,
+		"in_reply_to_user_id_str": "1014616586",
+		"in_reply_to_screen_name": "literaczy",
+		"user": {
+			"id": 1014616586,
+			"id_str": "1014616586",
+			"name": "댐중생",
+			"screen_name": "literaczy",
+			"location": "In your area",
+			"description": "역덕.\nI translate tweets & I commission paintings.",
+			"url": "https://t.co/zTr2zKP44v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zTr2zKP44v",
+							"expanded_url": "http://inuitshut.egloos.com/",
+							"display_url": "inuitshut.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2296,
+			"friends_count": 570,
+			"listed_count": 21,
+			"created_at": "Sun Dec 16 06:29:43 +0000 2012",
+			"favourites_count": 27802,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1451980890020532224/op9QRqFI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451980890020532224/op9QRqFI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1014616586/1638069202",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"산등성이 꼭대기를 따라 생성된 크레비스는 알리가 검을 뽑아 용을 벤 자국이고, 그 주변의 불긋불긋한 광석이 노출된 부분은 용의 피다. 지하수가 흐르는 소리는 용이 죽으면서 내는 신음소리고, 산등성이 끝자락에서 흘러나오는 희뿌연 암반수는 참회하는 용의 눈물이다.\"\nhttps://t.co/CNgwMCV3JM"
+	},
+	{
+		"created_at": "Fri Jan 28 13:21:16 +0000 2022",
+		"id": 1472354357303967700,
+		"id_str": "1487053159813959692",
+		"full_text": "깊은 관심이 있으시면 이 글도 꼭 읽어봐 주시길\n\n“...그렇다면 하즈랏 알리와 세인트 조지가 그토록 닮은 이유는 둘 다 진짜 정체가 페레이둔이기 때문인걸까?”\n-&lt;붓다 더 드래곤 슬레이어&gt; https://t.co/bzxSxenE9a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bzxSxenE9a",
+					"expanded_url": "https://twitter.com/literaczy/status/1170403539849379840",
+					"display_url": "twitter.com/literaczy/stat…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1472353327749152800,
+		"in_reply_to_status_id_str": "1472353327749152770",
+		"in_reply_to_user_id": 4058912834,
+		"in_reply_to_user_id_str": "4058912834",
+		"in_reply_to_screen_name": "medievalart_kr",
+		"user": {
+			"id": 4058912834,
+			"id_str": "4058912834",
+			"name": "중세인쇄소",
+			"screen_name": "medievalart_kr",
+			"location": "",
+			"description": "필사본 삽화 등 11세기~15세기의 중세 미술품들을 중심으로 소개합니다(아닌것도올라옴).봇아님 역사로 아무말하는계정",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16934,
+			"friends_count": 304,
+			"listed_count": 153,
+			"created_at": "Thu Oct 29 15:32:29 +0000 2015",
+			"favourites_count": 76292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238477373583974400/QTmSmPKG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238477373583974400/QTmSmPKG_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1170403539849379800,
+		"quoted_status_id_str": "1170403539849379840",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bzxSxenE9a",
+			"expanded": "https://twitter.com/literaczy/status/1170403539849379840",
+			"display": "twitter.com/literaczy/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 07 18:28:43 +0000 2019",
+			"id": 1170403539849379800,
+			"id_str": "1170403539849379840",
+			"full_text": "\"산등성이 꼭대기를 따라 생성된 크레비스는 알리가 검을 뽑아 용을 벤 자국이고, 그 주변의 불긋불긋한 광석이 노출된 부분은 용의 피다. 지하수가 흐르는 소리는 용이 죽으면서 내는 신음소리고, 산등성이 끝자락에서 흘러나오는 희뿌연 암반수는 참회하는 용의 눈물이다.\"\nhttps://t.co/CNgwMCV3JM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				171
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CNgwMCV3JM",
+						"expanded_url": "http://inuitshut.egloos.com/1944786",
+						"display_url": "inuitshut.egloos.com/1944786",
+						"indices": [
+							148,
+							171
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1163477652138631200,
+			"in_reply_to_status_id_str": "1163477652138631169",
+			"in_reply_to_user_id": 1014616586,
+			"in_reply_to_user_id_str": "1014616586",
+			"in_reply_to_screen_name": "literaczy",
+			"user": {
+				"id": 1014616586,
+				"id_str": "1014616586",
+				"name": "댐중생",
+				"screen_name": "literaczy",
+				"location": "In your area",
+				"description": "역덕.\nI translate tweets & I commission paintings.",
+				"url": "https://t.co/zTr2zKP44v",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zTr2zKP44v",
+								"expanded_url": "http://inuitshut.egloos.com/",
+								"display_url": "inuitshut.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2296,
+				"friends_count": 570,
+				"listed_count": 21,
+				"created_at": "Sun Dec 16 06:29:43 +0000 2012",
+				"favourites_count": 27802,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 59140,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1451980890020532224/op9QRqFI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451980890020532224/op9QRqFI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1014616586/1638069202",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 48,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "깊은 관심이 있으시면 이 글도 꼭 읽어봐 주시길\n\n“...그렇다면 하즈랏 알리와 세인트 조지가 그토록 닮은 이유는 둘 다 진짜 정체가 페레이둔이기 때문인걸까?”\n-&lt;붓다 더 드래곤 슬레이어&gt; https://t.co/bzxSxenE9a"
+	},
+	{
+		"created_at": "Fri Jan 28 13:21:10 +0000 2022",
+		"id": 1472353327749152800,
+		"id_str": "1487053138515267584",
+		"full_text": "움짤에 사용된 유물 사진은 아즈다하 용을 무찌르는 가르샤스프  •퓌톤을 무찌르는 아폴론 •용을 무찌르는 성 게오르기우스  •스와트강의 아팔라라용왕을 굴복시키는 붓다 • 티아마트를 물리치는 마르두크\n그리고 시초가 된 꿈 타래는 아래 참조 https://t.co/ttzOuXKwk3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1472353322732769300,
+					"id_str": "1472353322732769283",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FG7Zi9FaUAMTyl8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG7Zi9FaUAMTyl8.jpg",
+					"url": "https://t.co/ttzOuXKwk3",
+					"display_url": "pic.twitter.com/ttzOuXKwk3",
+					"expanded_url": "https://twitter.com/medievalart_kr/status/1472353327749152770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1170,
+							"h": 1992,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 399,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 705,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472353322732769300,
+					"id_str": "1472353322732769283",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FG7Zi9FaUAMTyl8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG7Zi9FaUAMTyl8.jpg",
+					"url": "https://t.co/ttzOuXKwk3",
+					"display_url": "pic.twitter.com/ttzOuXKwk3",
+					"expanded_url": "https://twitter.com/medievalart_kr/status/1472353327749152770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1170,
+							"h": 1992,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 399,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 705,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1472353322728587300,
+					"id_str": "1472353322728587264",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FG7Zi9EagAA6cxZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG7Zi9EagAA6cxZ.jpg",
+					"url": "https://t.co/ttzOuXKwk3",
+					"display_url": "pic.twitter.com/ttzOuXKwk3",
+					"expanded_url": "https://twitter.com/medievalart_kr/status/1472353327749152770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1170,
+							"h": 1605,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 496,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 875,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1472353320228769800,
+		"in_reply_to_status_id_str": "1472353320228769793",
+		"in_reply_to_user_id": 4058912834,
+		"in_reply_to_user_id_str": "4058912834",
+		"in_reply_to_screen_name": "medievalart_kr",
+		"user": {
+			"id": 4058912834,
+			"id_str": "4058912834",
+			"name": "중세인쇄소",
+			"screen_name": "medievalart_kr",
+			"location": "",
+			"description": "필사본 삽화 등 11세기~15세기의 중세 미술품들을 중심으로 소개합니다(아닌것도올라옴).봇아님 역사로 아무말하는계정",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16934,
+			"friends_count": 304,
+			"listed_count": 153,
+			"created_at": "Thu Oct 29 15:32:29 +0000 2015",
+			"favourites_count": 76292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238477373583974400/QTmSmPKG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238477373583974400/QTmSmPKG_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "움짤에 사용된 유물 사진은 아즈다하 용을 무찌르는 가르샤스프  •퓌톤을 무찌르는 아폴론 •용을 무찌르는 성 게오르기우스  •스와트강의 아팔라라용왕을 굴복시키는 붓다 • 티아마트를 물리치는 마르두크\n그리고 시초가 된 꿈 타래는 아래 참조 https://t.co/ttzOuXKwk3"
+	},
+	{
+		"created_at": "Fri Jan 28 13:21:06 +0000 2022",
+		"id": 1472353320228769800,
+		"id_str": "1487053121641582598",
+		"full_text": "모종뱀물이란 무엇인가?\n“모든 종교는 뱀을 물리치기 위한 종교”의 줄임말로\n1) 탐라의 한 역덕이 꾼 꿈에서 나온 말이 너무 삽간지였기 때문에 \n2) 그리고 서아시아와 중앙아시아 중심으로 퍼져 나간 뱀(용)을 물리치는 영웅 전설이 많은 종교에 상존했기 때문에 소소하게 흥하게 된 탐라 밈 https://t.co/DbHjDnrVhH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DbHjDnrVhH",
+					"expanded_url": "https://twitter.com/Azn_Phucboi/status/1472329487639629833",
+					"display_url": "twitter.com/Azn_Phucboi/st…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4058912834,
+			"id_str": "4058912834",
+			"name": "중세인쇄소",
+			"screen_name": "medievalart_kr",
+			"location": "",
+			"description": "필사본 삽화 등 11세기~15세기의 중세 미술품들을 중심으로 소개합니다(아닌것도올라옴).봇아님 역사로 아무말하는계정",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16934,
+			"friends_count": 304,
+			"listed_count": 153,
+			"created_at": "Thu Oct 29 15:32:29 +0000 2015",
+			"favourites_count": 76292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238477373583974400/QTmSmPKG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238477373583974400/QTmSmPKG_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1472329487639629800,
+		"quoted_status_id_str": "1472329487639629833",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DbHjDnrVhH",
+			"expanded": "https://twitter.com/Azn_Phucboi/status/1472329487639629833",
+			"display": "twitter.com/Azn_Phucboi/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 18 22:14:39 +0000 2021",
+			"id": 1472329487639629800,
+			"id_str": "1472329487639629833",
+			"full_text": "모종뱀물 움짤 https://t.co/36ZRG8gLir",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				7
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1472329468664496000,
+						"id_str": "1472329468664496141",
+						"indices": [
+							8,
+							31
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FG7D2dwWQA015Bb.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FG7D2dwWQA015Bb.jpg",
+						"url": "https://t.co/36ZRG8gLir",
+						"display_url": "pic.twitter.com/36ZRG8gLir",
+						"expanded_url": "https://twitter.com/Azn_Phucboi/status/1472329487639629833/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 250,
+								"h": 168,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 250,
+								"h": 168,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 250,
+								"h": 168,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1472329468664496000,
+						"id_str": "1472329468664496141",
+						"indices": [
+							8,
+							31
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FG7D2dwWQA015Bb.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FG7D2dwWQA015Bb.jpg",
+						"url": "https://t.co/36ZRG8gLir",
+						"display_url": "pic.twitter.com/36ZRG8gLir",
+						"expanded_url": "https://twitter.com/Azn_Phucboi/status/1472329487639629833/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 250,
+								"h": 168,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 250,
+								"h": 168,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 250,
+								"h": 168,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								125,
+								84
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/FG7D2dwWQA015Bb.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 727360869215162400,
+				"id_str": "727360869215162368",
+				"name": "Achaemenid Nathan (Blue Checkmark)",
+				"screen_name": "Azn_Phucboi",
+				"location": "West Lafayette, IN",
+				"description": "고대/중세 근동-중앙아시아 좇문가. 유희왕 팡인. 미국애니 좋아함. 자캐 세계관 만듬. \n\nNathan Supremacist. Near East/Central Asian \"\"'Historian\"\"\". Vague leftist.",
+				"url": "https://t.co/ADhngUv3Ad",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ADhngUv3Ad",
+								"expanded_url": "https://www.postype.com/profile/@fodowa",
+								"display_url": "postype.com/profile/@fodowa",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1064,
+				"friends_count": 820,
+				"listed_count": 8,
+				"created_at": "Tue May 03 04:55:19 +0000 2016",
+				"favourites_count": 184107,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 28826,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1428867428759580675/y-wCgQxy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1428867428759580675/y-wCgQxy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/727360869215162368/1631082372",
+				"profile_link_color": "7F0046",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 43,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2177,
+		"favorite_count": 1483,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모종뱀물이란 무엇인가?\n“모든 종교는 뱀을 물리치기 위한 종교”의 줄임말로\n1) 탐라의 한 역덕이 꾼 꿈에서 나온 말이 너무 삽간지였기 때문에 \n2) 그리고 서아시아와 중앙아시아 중심으로 퍼져 나간 뱀(용)을 물리치는 영웅 전설이 많은 종교에 상존했기 때문에 소소하게 흥하게 된 탐라 밈 https://t.co/DbHjDnrVhH"
+	},
+	{
 		"created_at": "Tue Jan 25 02:26:47 +0000 2022",
 		"id": 1485801292492861400,
 		"id_str": "1485801292492861442",
