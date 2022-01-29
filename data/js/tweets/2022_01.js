@@ -1,6 +1,933 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 29 05:59:14 +0000 2022",
+		"id": 1280066786969317400,
+		"id_str": "1487304309599801344",
+		"full_text": "니 십자가가 뭔데? 뭘로 만들어졌는데?\n\n내 십자가는 내 마음속 믿음과 신앙이다 https://t.co/CvqOaSvTBN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1280066740529946600,
+					"id_str": "1280066740529946626",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/EcO16x4UYAIrwoX.png",
+					"media_url_https": "https://pbs.twimg.com/media/EcO16x4UYAIrwoX.png",
+					"url": "https://t.co/CvqOaSvTBN",
+					"display_url": "pic.twitter.com/CvqOaSvTBN",
+					"expanded_url": "https://twitter.com/Rotriever/status/1280066786969317376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 100,
+							"h": 100,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 100,
+							"h": 100,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 100,
+							"h": 100,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 100,
+							"h": 100,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280066740529946600,
+					"id_str": "1280066740529946626",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/EcO16x4UYAIrwoX.png",
+					"media_url_https": "https://pbs.twimg.com/media/EcO16x4UYAIrwoX.png",
+					"url": "https://t.co/CvqOaSvTBN",
+					"display_url": "pic.twitter.com/CvqOaSvTBN",
+					"expanded_url": "https://twitter.com/Rotriever/status/1280066786969317376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 100,
+							"h": 100,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 100,
+							"h": 100,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 100,
+							"h": 100,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 100,
+							"h": 100,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1280066753557459000,
+					"id_str": "1280066753557458949",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/EcO17iaUcAUUMIA.png",
+					"media_url_https": "https://pbs.twimg.com/media/EcO17iaUcAUUMIA.png",
+					"url": "https://t.co/CvqOaSvTBN",
+					"display_url": "pic.twitter.com/CvqOaSvTBN",
+					"expanded_url": "https://twitter.com/Rotriever/status/1280066786969317376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 100,
+							"h": 100,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 100,
+							"h": 100,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 100,
+							"h": 100,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 100,
+							"h": 100,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1114701997922345000,
+			"id_str": "1114701997922344960",
+			"name": "Rоtriеvеr🎗",
+			"screen_name": "Rotriever",
+			"location": "대한민국",
+			"description": "끝없는 고통을 느껴보세요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 471,
+			"friends_count": 1234,
+			"listed_count": 3,
+			"created_at": "Sun Apr 07 01:30:41 +0000 2019",
+			"favourites_count": 30416,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 57190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1446007300020322307/Q2R3XW-T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1446007300020322307/Q2R3XW-T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1114701997922344960/1621625165",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "니 십자가가 뭔데? 뭘로 만들어졌는데?\n\n내 십자가는 내 마음속 믿음과 신앙이다 https://t.co/CvqOaSvTBN"
+	},
+	{
+		"created_at": "Sat Jan 29 05:43:24 +0000 2022",
+		"id": 1330465618328387600,
+		"id_str": "1487300321848487940",
+		"full_text": "역덕들이 꾸는 꿈 https://t.co/VL9c8Z0qfa https://t.co/lALMgjvAKq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VL9c8Z0qfa",
+					"expanded_url": "https://twitter.com/chungsinhexp/status/1330460260256018432?s=21",
+					"display_url": "twitter.com/chungsinhexp/s…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1330465607024664600,
+					"id_str": "1330465607024664576",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/EnbDa6SUYAAsBnh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnbDa6SUYAAsBnh.jpg",
+					"url": "https://t.co/lALMgjvAKq",
+					"display_url": "pic.twitter.com/lALMgjvAKq",
+					"expanded_url": "https://twitter.com/medievalart_kr/status/1330465618328387584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 175,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 308,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 526,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1330465607024664600,
+					"id_str": "1330465607024664576",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/EnbDa6SUYAAsBnh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnbDa6SUYAAsBnh.jpg",
+					"url": "https://t.co/lALMgjvAKq",
+					"display_url": "pic.twitter.com/lALMgjvAKq",
+					"expanded_url": "https://twitter.com/medievalart_kr/status/1330465618328387584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 175,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 308,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 526,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1330465607016321000,
+					"id_str": "1330465607016321024",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/EnbDa6QVEAAxY5p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnbDa6QVEAAxY5p.jpg",
+					"url": "https://t.co/lALMgjvAKq",
+					"display_url": "pic.twitter.com/lALMgjvAKq",
+					"expanded_url": "https://twitter.com/medievalart_kr/status/1330465618328387584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 216,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 609,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 381,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1330465607020466200,
+					"id_str": "1330465607020466176",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/EnbDa6RUUAAW_J6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnbDa6RUUAAW_J6.jpg",
+					"url": "https://t.co/lALMgjvAKq",
+					"display_url": "pic.twitter.com/lALMgjvAKq",
+					"expanded_url": "https://twitter.com/medievalart_kr/status/1330465618328387584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 799,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 283,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 499,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4058912834,
+			"id_str": "4058912834",
+			"name": "중세인쇄소",
+			"screen_name": "medievalart_kr",
+			"location": "",
+			"description": "필사본 삽화 등 11세기~15세기의 중세 미술품들을 중심으로 소개합니다(아닌것도올라옴).봇아님 역사로 아무말하는계정",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16981,
+			"friends_count": 304,
+			"listed_count": 153,
+			"created_at": "Thu Oct 29 15:32:29 +0000 2015",
+			"favourites_count": 76309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76858,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1238477373583974400/QTmSmPKG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1238477373583974400/QTmSmPKG_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1330460260256018400,
+		"quoted_status_id_str": "1330460260256018432",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VL9c8Z0qfa",
+			"expanded": "https://twitter.com/chungsinhexp/status/1330460260256018432?s=21",
+			"display": "twitter.com/chungsinhexp/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 22 10:36:59 +0000 2020",
+			"id": 1330460260256018400,
+			"id_str": "1330460260256018432",
+			"full_text": "으슥한 그늘에서 행사를 지켜보면서 나는 혼자 생각했다. \n\n'중요한건 어떤 종교가 더 잘났는지를 가려내는 것이 아니다. 중요한건 모든 종교가 뱀을 무찌르기 위한 종교라는 것이다.'\n\n그리고 꿈에서 깼다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				113
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1330460254782546000,
+			"in_reply_to_status_id_str": "1330460254782545920",
+			"in_reply_to_user_id": 1014616586,
+			"in_reply_to_user_id_str": "1014616586",
+			"in_reply_to_screen_name": "literaczy",
+			"user": {
+				"id": 1014616586,
+				"id_str": "1014616586",
+				"name": "댐중생",
+				"screen_name": "literaczy",
+				"location": "In your area",
+				"description": "역덕.\nI translate tweets & I commission paintings.",
+				"url": "https://t.co/zTr2zKP44v",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zTr2zKP44v",
+								"expanded_url": "http://inuitshut.egloos.com/",
+								"display_url": "inuitshut.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2316,
+				"friends_count": 572,
+				"listed_count": 21,
+				"created_at": "Sun Dec 16 06:29:43 +0000 2012",
+				"favourites_count": 27805,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 59146,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1451980890020532224/op9QRqFI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451980890020532224/op9QRqFI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1014616586/1638069202",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 133,
+			"favorite_count": 131,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 450,
+		"favorite_count": 258,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "역덕들이 꾸는 꿈 https://t.co/VL9c8Z0qfa https://t.co/lALMgjvAKq"
+	},
+	{
+		"created_at": "Sat Jan 29 05:43:19 +0000 2022",
+		"id": 1330460260256018400,
+		"id_str": "1487300304626679813",
+		"full_text": "으슥한 그늘에서 행사를 지켜보면서 나는 혼자 생각했다. \n\n'중요한건 어떤 종교가 더 잘났는지를 가려내는 것이 아니다. 중요한건 모든 종교가 뱀을 무찌르기 위한 종교라는 것이다.'\n\n그리고 꿈에서 깼다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1330460254782546000,
+		"in_reply_to_status_id_str": "1330460254782545920",
+		"in_reply_to_user_id": 1014616586,
+		"in_reply_to_user_id_str": "1014616586",
+		"in_reply_to_screen_name": "literaczy",
+		"user": {
+			"id": 1014616586,
+			"id_str": "1014616586",
+			"name": "댐중생",
+			"screen_name": "literaczy",
+			"location": "In your area",
+			"description": "역덕.\nI translate tweets & I commission paintings.",
+			"url": "https://t.co/zTr2zKP44v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zTr2zKP44v",
+							"expanded_url": "http://inuitshut.egloos.com/",
+							"display_url": "inuitshut.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2316,
+			"friends_count": 572,
+			"listed_count": 21,
+			"created_at": "Sun Dec 16 06:29:43 +0000 2012",
+			"favourites_count": 27805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1451980890020532224/op9QRqFI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451980890020532224/op9QRqFI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1014616586/1638069202",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 133,
+		"favorite_count": 131,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "으슥한 그늘에서 행사를 지켜보면서 나는 혼자 생각했다. \n\n'중요한건 어떤 종교가 더 잘났는지를 가려내는 것이 아니다. 중요한건 모든 종교가 뱀을 무찌르기 위한 종교라는 것이다.'\n\n그리고 꿈에서 깼다."
+	},
+	{
+		"created_at": "Sat Jan 29 05:43:17 +0000 2022",
+		"id": 1330460254782546000,
+		"id_str": "1487300293847306242",
+		"full_text": "내가 자리잡은 바위틈 아래에는 외국인 직원들이 한데 모여 왕국의 우스꽝스러움을 이야기하며 저들끼리 낄낄대고 있었다.\n\n하지만 그들조차 나라의 법도에 따라 왕국의 뱀들과 결혼한 상태였다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1330460252722974700,
+		"in_reply_to_status_id_str": "1330460252722974720",
+		"in_reply_to_user_id": 1014616586,
+		"in_reply_to_user_id_str": "1014616586",
+		"in_reply_to_screen_name": "literaczy",
+		"user": {
+			"id": 1014616586,
+			"id_str": "1014616586",
+			"name": "댐중생",
+			"screen_name": "literaczy",
+			"location": "In your area",
+			"description": "역덕.\nI translate tweets & I commission paintings.",
+			"url": "https://t.co/zTr2zKP44v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zTr2zKP44v",
+							"expanded_url": "http://inuitshut.egloos.com/",
+							"display_url": "inuitshut.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2316,
+			"friends_count": 572,
+			"listed_count": 21,
+			"created_at": "Sun Dec 16 06:29:43 +0000 2012",
+			"favourites_count": 27805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1451980890020532224/op9QRqFI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451980890020532224/op9QRqFI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1014616586/1638069202",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "내가 자리잡은 바위틈 아래에는 외국인 직원들이 한데 모여 왕국의 우스꽝스러움을 이야기하며 저들끼리 낄낄대고 있었다.\n\n하지만 그들조차 나라의 법도에 따라 왕국의 뱀들과 결혼한 상태였다."
+	},
+	{
+		"created_at": "Sat Jan 29 05:43:15 +0000 2022",
+		"id": 1330460252722974700,
+		"id_str": "1487300287832666112",
+		"full_text": "이 나라 사람들의 인종은 대체로 크메르계인 것으로 보였고, 이 사람들이 왜 하나같이 기괴한 변장을 하고 행사에 참석했는지도 금방 알 수 있었다.\n\n이들이 식물로 변장해있는 화단의 바로 앞에는 뱀과 악어와 온갖 육식 파충류가 기어다니고 있어서, 식물인 척 하고 숨어있을 수 밖에 없는 것이었다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1330460250579746800,
+		"in_reply_to_status_id_str": "1330460250579746818",
+		"in_reply_to_user_id": 1014616586,
+		"in_reply_to_user_id_str": "1014616586",
+		"in_reply_to_screen_name": "literaczy",
+		"user": {
+			"id": 1014616586,
+			"id_str": "1014616586",
+			"name": "댐중생",
+			"screen_name": "literaczy",
+			"location": "In your area",
+			"description": "역덕.\nI translate tweets & I commission paintings.",
+			"url": "https://t.co/zTr2zKP44v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zTr2zKP44v",
+							"expanded_url": "http://inuitshut.egloos.com/",
+							"display_url": "inuitshut.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2316,
+			"friends_count": 572,
+			"listed_count": 21,
+			"created_at": "Sun Dec 16 06:29:43 +0000 2012",
+			"favourites_count": 27805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1451980890020532224/op9QRqFI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451980890020532224/op9QRqFI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1014616586/1638069202",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이 나라 사람들의 인종은 대체로 크메르계인 것으로 보였고, 이 사람들이 왜 하나같이 기괴한 변장을 하고 행사에 참석했는지도 금방 알 수 있었다.\n\n이들이 식물로 변장해있는 화단의 바로 앞에는 뱀과 악어와 온갖 육식 파충류가 기어다니고 있어서, 식물인 척 하고 숨어있을 수 밖에 없는 것이었다."
+	},
+	{
+		"created_at": "Sat Jan 29 05:43:10 +0000 2022",
+		"id": 1330460250579746800,
+		"id_str": "1487300266299133955",
+		"full_text": "말이 백장미지, 커다란 흰 배추같이 생긴 왕관이었다.\n\n여왕 뿐 아니라 행사에 모인 모든 사람들이 식물을 모방하고 있었다.\n\n왕국의 오랜 신하들은 땅에 몸을 파묻은채 지면 위로 내놓은 머리만 새카맣게 칠해서 마치 수박 같은 채소가 땅위에 난 모양이었고, 그밖에도 각종 열대식물로 변장해있었다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1330460248411435000,
+		"in_reply_to_status_id_str": "1330460248411435009",
+		"in_reply_to_user_id": 1014616586,
+		"in_reply_to_user_id_str": "1014616586",
+		"in_reply_to_screen_name": "literaczy",
+		"user": {
+			"id": 1014616586,
+			"id_str": "1014616586",
+			"name": "댐중생",
+			"screen_name": "literaczy",
+			"location": "In your area",
+			"description": "역덕.\nI translate tweets & I commission paintings.",
+			"url": "https://t.co/zTr2zKP44v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zTr2zKP44v",
+							"expanded_url": "http://inuitshut.egloos.com/",
+							"display_url": "inuitshut.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2316,
+			"friends_count": 572,
+			"listed_count": 21,
+			"created_at": "Sun Dec 16 06:29:43 +0000 2012",
+			"favourites_count": 27805,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1451980890020532224/op9QRqFI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451980890020532224/op9QRqFI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1014616586/1638069202",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "말이 백장미지, 커다란 흰 배추같이 생긴 왕관이었다.\n\n여왕 뿐 아니라 행사에 모인 모든 사람들이 식물을 모방하고 있었다.\n\n왕국의 오랜 신하들은 땅에 몸을 파묻은채 지면 위로 내놓은 머리만 새카맣게 칠해서 마치 수박 같은 채소가 땅위에 난 모양이었고, 그밖에도 각종 열대식물로 변장해있었다."
+	},
+	{
 		"created_at": "Fri Jan 28 13:22:05 +0000 2022",
 		"id": 1486927319659053000,
 		"id_str": "1487053368119881728",
