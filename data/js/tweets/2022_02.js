@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 03 03:04:09 +0000 2022",
+		"id": 1488759245118242800,
+		"id_str": "1489072186534989833",
+		"full_text": "애를 낳지 않으면 패배자라는 언설에 평소같으면 여자가 애 낳는 기계냐느니, 정상가족의 함정이 어떻고 다양성의 시대를 주절주절 옳은 소리하셨을 분들이 빻은 라노베 보는 한남들이 저출산 국가의 원인이고 나라에 망조가 들게 만든다는 갓침에는 썸즈업을 날리는 아름다운 모습... https://t.co/vdq7lqkP36",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1488759219558174700,
+					"id_str": "1488759219558174720",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FKkin1XaUAAKDq1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKkin1XaUAAKDq1.jpg",
+					"url": "https://t.co/vdq7lqkP36",
+					"display_url": "pic.twitter.com/vdq7lqkP36",
+					"expanded_url": "https://twitter.com/Bloomers_Suki/status/1488759245118242817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1488759219558174700,
+					"id_str": "1488759219558174720",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FKkin1XaUAAKDq1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKkin1XaUAAKDq1.jpg",
+					"url": "https://t.co/vdq7lqkP36",
+					"display_url": "pic.twitter.com/vdq7lqkP36",
+					"expanded_url": "https://twitter.com/Bloomers_Suki/status/1488759245118242817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 220722651,
+			"id_str": "220722651",
+			"name": "씁",
+			"screen_name": "Bloomers_Suki",
+			"location": "방과후 체육창고",
+			"description": "하루하루가 흑역사\r\nC= C= C= C= C= C= ┌(；*'ω'*)┘",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 582,
+			"friends_count": 186,
+			"listed_count": 16,
+			"created_at": "Sun Nov 28 17:08:00 +0000 2010",
+			"favourites_count": 1412,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 115601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224187334926553088/nHjvs7vZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224187334926553088/nHjvs7vZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/220722651/1401347518",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "애를 낳지 않으면 패배자라는 언설에 평소같으면 여자가 애 낳는 기계냐느니, 정상가족의 함정이 어떻고 다양성의 시대를 주절주절 옳은 소리하셨을 분들이 빻은 라노베 보는 한남들이 저출산 국가의 원인이고 나라에 망조가 들게 만든다는 갓침에는 썸즈업을 날리는 아름다운 모습... https://t.co/vdq7lqkP36"
+	},
+	{
 		"created_at": "Wed Feb 02 00:04:21 +0000 2022",
 		"id": 1488369470611460000,
 		"id_str": "1488664550904057856",
