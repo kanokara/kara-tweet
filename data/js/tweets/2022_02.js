@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 05 19:57:10 +0000 2022",
+		"id": 1489589716811153400,
+		"id_str": "1490051896832593921",
+		"full_text": "트위터에서 맨날 위염이나 장염 있다면서 불닭볶음면이나 마라탕 먹었다고 트윗하는 것과 비슷하다. https://t.co/ZKHJpWE2rm 이 분 좀 천재. 커뮤가 궁금해서 찾은건데...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZKHJpWE2rm",
+					"expanded_url": "https://theqoo.net/square/1453463656",
+					"display_url": "theqoo.net/square/1453463…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1489588884606709800,
+		"in_reply_to_status_id_str": "1489588884606709767",
+		"in_reply_to_user_id": 42414289,
+		"in_reply_to_user_id_str": "42414289",
+		"in_reply_to_screen_name": "eaupierre",
+		"user": {
+			"id": 42414289,
+			"id_str": "42414289",
+			"name": "𝗹𝗼𝗯𝗼𝗼𝘀 🐯",
+			"screen_name": "eaupierre",
+			"location": "",
+			"description": "뭐든 오늘부터. 아니, 지금부터. 알면 좀 하자.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11410,
+			"friends_count": 898,
+			"listed_count": 93,
+			"created_at": "Mon May 25 14:30:02 +0000 2009",
+			"favourites_count": 7386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 118381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1025052840991944704/frtYbsBC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025052840991944704/frtYbsBC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42414289/1512781250",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1708,
+		"favorite_count": 291,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트위터에서 맨날 위염이나 장염 있다면서 불닭볶음면이나 마라탕 먹었다고 트윗하는 것과 비슷하다. https://t.co/ZKHJpWE2rm 이 분 좀 천재. 커뮤가 궁금해서 찾은건데..."
+	},
+	{
 		"created_at": "Sat Feb 05 01:00:33 +0000 2022",
 		"id": 1489765858876727300,
 		"id_str": "1489765858876727298",
