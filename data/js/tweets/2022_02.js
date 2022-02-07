@@ -1,6 +1,695 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 07 10:23:25 +0000 2022",
+		"id": 1490513329705554000,
+		"id_str": "1490632284017688578",
+		"full_text": "사실 시각에 국한된 것이 아니라, 뇌의 주된 기능 자체가 이런 노이즈가 가득한 raw데이터를 일정한 알고리즘과 축적된 경험을 토대로 신뢰할만한 정보로 보정해주는 것입니다. 시각, 후각, 촉각, 자기 신체의 반응 등등 모든 영역에서요. https://t.co/o7uQQEFIPP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o7uQQEFIPP",
+					"expanded_url": "https://twitter.com/Gua1ngHa3i/status/1489631629773447171",
+					"display_url": "twitter.com/Gua1ngHa3i/sta…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 296804482,
+			"id_str": "296804482",
+			"name": "삐라따 Pirata",
+			"screen_name": "pirata_ex",
+			"location": "",
+			"description": "그림계 @RMT_RMT_RMT 각색 콘티 작가 /서양검술메모 시리즈는 정식출판 작업중 /ARMA Eastern Seoul study group",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11228,
+			"friends_count": 976,
+			"listed_count": 112,
+			"created_at": "Wed May 11 12:42:58 +0000 2011",
+			"favourites_count": 11073,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1414250311485624329/73lp3QMY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1414250311485624329/73lp3QMY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/296804482/1579230399",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1489631629773447200,
+		"quoted_status_id_str": "1489631629773447171",
+		"quoted_status_permalink": {
+			"url": "https://t.co/o7uQQEFIPP",
+			"expanded": "https://twitter.com/Gua1ngHa3i/status/1489631629773447171",
+			"display": "twitter.com/Gua1ngHa3i/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 04 16:07:11 +0000 2022",
+			"id": 1489631629773447200,
+			"id_str": "1489631629773447171",
+			"full_text": "뇌가 보정하지 않는다면 인간은 이따위로 보고 살아야 함\n저걸 상하놔우를 뒤집고 &gt; 시신경 지우고 &gt; 맹점 채워 넣어서 보정함 https://t.co/sF21v2rIdO https://t.co/X3xgMRGSmU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				99
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/sF21v2rIdO",
+						"expanded_url": "https://twitter.com/Gua1ngHa3i/status/1489630986350448644",
+						"display_url": "twitter.com/Gua1ngHa3i/sta…",
+						"indices": [
+							76,
+							99
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1489631625595949000,
+						"id_str": "1489631625595949057",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/FKw8EjHVkAEp942.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FKw8EjHVkAEp942.jpg",
+						"url": "https://t.co/X3xgMRGSmU",
+						"display_url": "pic.twitter.com/X3xgMRGSmU",
+						"expanded_url": "https://twitter.com/Gua1ngHa3i/status/1489631629773447171/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1323,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 555,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 980,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1489631625595949000,
+						"id_str": "1489631625595949057",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/FKw8EjHVkAEp942.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FKw8EjHVkAEp942.jpg",
+						"url": "https://t.co/X3xgMRGSmU",
+						"display_url": "pic.twitter.com/X3xgMRGSmU",
+						"expanded_url": "https://twitter.com/Gua1ngHa3i/status/1489631629773447171/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1323,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 555,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 980,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1316756497209069600,
+				"id_str": "1316756497209069570",
+				"name": "琿",
+				"screen_name": "Gua1ngHa3i",
+				"location": "",
+				"description": "작은 고추로 태어 난 큰 불행들아",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 394,
+				"friends_count": 234,
+				"listed_count": 1,
+				"created_at": "Thu Oct 15 15:03:21 +0000 2020",
+				"favourites_count": 2351,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 40361,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1439520410958065667/ioc8kdU1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439520410958065667/ioc8kdU1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1316756497209069570/1632043385",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1489630986350448600,
+			"quoted_status_id_str": "1489630986350448644",
+			"quoted_status_permalink": {
+				"url": "https://t.co/sF21v2rIdO",
+				"expanded": "https://twitter.com/Gua1ngHa3i/status/1489630986350448644",
+				"display": "twitter.com/Gua1ngHa3i/sta…"
+			},
+			"retweet_count": 3937,
+			"favorite_count": 1523,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 180,
+		"favorite_count": 112,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사실 시각에 국한된 것이 아니라, 뇌의 주된 기능 자체가 이런 노이즈가 가득한 raw데이터를 일정한 알고리즘과 축적된 경험을 토대로 신뢰할만한 정보로 보정해주는 것입니다. 시각, 후각, 촉각, 자기 신체의 반응 등등 모든 영역에서요. https://t.co/o7uQQEFIPP"
+	},
+	{
+		"created_at": "Mon Feb 07 10:19:09 +0000 2022",
+		"id": 1490199293172486100,
+		"id_str": "1490631210200346624",
+		"full_text": "거짓 아이디로 맘카페에 가입하고, 엄마인척 고충을 나누다가 자극적인 사연을 던지고. 아이디를 바꿔가면서 다시 그 글에 댓글을 달고.\n난 바이럴을 하는 내내 죄책감과 현타에 시달렸고 오래 못가 그만뒀다. 그 다음부터는 뭘 사든 절대 네이버에 쳐보지 않는다. 네이버 검색엔진의 신뢰도는 죽었다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1490198633832087600,
+		"in_reply_to_status_id_str": "1490198633832087552",
+		"in_reply_to_user_id": 871271812495061000,
+		"in_reply_to_user_id_str": "871271812495060992",
+		"in_reply_to_screen_name": "onthe_shore",
+		"user": {
+			"id": 871271812495061000,
+			"id_str": "871271812495060992",
+			"name": "greeny",
+			"screen_name": "onthe_shore",
+			"location": "",
+			"description": "더 나은 사람이 되는 것, 최소한의 노력",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29,
+			"friends_count": 11,
+			"listed_count": 0,
+			"created_at": "Sun Jun 04 07:46:02 +0000 2017",
+			"favourites_count": 782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250251896377335808/NGVS_TvW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250251896377335808/NGVS_TvW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/871271812495060992/1586918448",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1736,
+		"favorite_count": 456,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "거짓 아이디로 맘카페에 가입하고, 엄마인척 고충을 나누다가 자극적인 사연을 던지고. 아이디를 바꿔가면서 다시 그 글에 댓글을 달고.\n난 바이럴을 하는 내내 죄책감과 현타에 시달렸고 오래 못가 그만뒀다. 그 다음부터는 뭘 사든 절대 네이버에 쳐보지 않는다. 네이버 검색엔진의 신뢰도는 죽었다."
+	},
+	{
+		"created_at": "Mon Feb 07 10:19:01 +0000 2022",
+		"id": 1490198633832087600,
+		"id_str": "1490631175773503488",
+		"full_text": "바이럴 마케팅 10개월 해본 입장에서 매우 공감함. 맘카페 회원의 50%는 진짜 맘이 아니다. 어마어마한 마케터들이 숨어있고, 아이디의 노출도를 올리기 위해 자극적인 글을 쓰고 댓글 조회수를 받는다. 여성혐오로 범벅된 그 글들이 지금의 '맘충'의 이미지를 만드는데 엄청난 기여를 했을것이다. https://t.co/B6dvt1O6kL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B6dvt1O6kL",
+					"expanded_url": "https://twitter.com/cool_left/status/1489097934335770625",
+					"display_url": "twitter.com/cool_left/stat…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 871271812495061000,
+			"id_str": "871271812495060992",
+			"name": "greeny",
+			"screen_name": "onthe_shore",
+			"location": "",
+			"description": "더 나은 사람이 되는 것, 최소한의 노력",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29,
+			"friends_count": 11,
+			"listed_count": 0,
+			"created_at": "Sun Jun 04 07:46:02 +0000 2017",
+			"favourites_count": 782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250251896377335808/NGVS_TvW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250251896377335808/NGVS_TvW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/871271812495060992/1586918448",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1489097934335770600,
+		"quoted_status_id_str": "1489097934335770625",
+		"quoted_status_permalink": {
+			"url": "https://t.co/B6dvt1O6kL",
+			"expanded": "https://twitter.com/cool_left/status/1489097934335770625",
+			"display": "twitter.com/cool_left/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 03 04:46:28 +0000 2022",
+			"id": 1489097934335770600,
+			"id_str": "1489097934335770625",
+			"full_text": "놀랍게도 이와 비슷한 내용이 실린 책이 있다.\n오늘날 남여갈등 등이 마케터들에 의해 증폭되었을지도 모른다는 의구심을 강하게 가질 수 밖에 없는 이유. 아래는 신승호 저, &lt;한국형 UCC 마케팅&gt;(해냄,2007) 의 143~145페이지의 내용을 발췌한 내용이다. https://t.co/adNb3uHfZZ https://t.co/T5zCNLsDNF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				175
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/adNb3uHfZZ",
+						"expanded_url": "https://twitter.com/kstartupceo/status/1489097155100876802",
+						"display_url": "twitter.com/kstartupceo/st…",
+						"indices": [
+							152,
+							175
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1489097784712376300,
+						"id_str": "1489097784712376320",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/FKpWi62aMAAcI-r.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FKpWi62aMAAcI-r.jpg",
+						"url": "https://t.co/T5zCNLsDNF",
+						"display_url": "pic.twitter.com/T5zCNLsDNF",
+						"expanded_url": "https://twitter.com/cool_left/status/1489097934335770625/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 458,
+								"h": 649,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 458,
+								"h": 649,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 458,
+								"h": 649,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1489097784712376300,
+						"id_str": "1489097784712376320",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/FKpWi62aMAAcI-r.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FKpWi62aMAAcI-r.jpg",
+						"url": "https://t.co/T5zCNLsDNF",
+						"display_url": "pic.twitter.com/T5zCNLsDNF",
+						"expanded_url": "https://twitter.com/cool_left/status/1489097934335770625/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 458,
+								"h": 649,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 458,
+								"h": 649,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 458,
+								"h": 649,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1489097811493007400,
+						"id_str": "1489097811493007360",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/FKpWkenaMAAtmG6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FKpWkenaMAAtmG6.jpg",
+						"url": "https://t.co/T5zCNLsDNF",
+						"display_url": "pic.twitter.com/T5zCNLsDNF",
+						"expanded_url": "https://twitter.com/cool_left/status/1489097934335770625/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1144,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 380,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 670,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 469349816,
+				"id_str": "469349816",
+				"name": "공적업무로 자리 비웁니다.",
+				"screen_name": "cool_left",
+				"location": "",
+				"description": "p",
+				"url": "https://t.co/vUY95YucAv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vUY95YucAv",
+								"expanded_url": "http://naver.com",
+								"display_url": "naver.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1277,
+				"friends_count": 1145,
+				"listed_count": 18,
+				"created_at": "Fri Jan 20 14:13:59 +0000 2012",
+				"favourites_count": 11699,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15497,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1486648461626064900/z0JCmoKp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1486648461626064900/z0JCmoKp_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1489097155100876800,
+			"quoted_status_id_str": "1489097155100876802",
+			"quoted_status_permalink": {
+				"url": "https://t.co/adNb3uHfZZ",
+				"expanded": "https://twitter.com/kstartupceo/status/1489097155100876802",
+				"display": "twitter.com/kstartupceo/st…"
+			},
+			"retweet_count": 973,
+			"favorite_count": 355,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 6768,
+		"favorite_count": 1512,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "바이럴 마케팅 10개월 해본 입장에서 매우 공감함. 맘카페 회원의 50%는 진짜 맘이 아니다. 어마어마한 마케터들이 숨어있고, 아이디의 노출도를 올리기 위해 자극적인 글을 쓰고 댓글 조회수를 받는다. 여성혐오로 범벅된 그 글들이 지금의 '맘충'의 이미지를 만드는데 엄청난 기여를 했을것이다. https://t.co/B6dvt1O6kL"
+	},
+	{
 		"created_at": "Sun Feb 06 06:23:51 +0000 2022",
 		"id": 1490209604776902700,
 		"id_str": "1490209604776902656",
