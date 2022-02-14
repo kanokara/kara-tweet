@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 14 10:27:38 +0000 2022",
+		"id": 1493136088369873000,
+		"id_str": "1493170058910375936",
+		"full_text": "その場で過ごしているかのように\n時間帯によって映る景色もゆっくり、\n刻々と変化していきます。\n勉強の合間に―仕事の息抜きに。\nhttps://t.co/ffTH7Lvr3f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ffTH7Lvr3f",
+					"expanded_url": "https://www.youtube.com/watch?v=ELVVQ5nIQ9I",
+					"display_url": "youtube.com/watch?v=ELVVQ5…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1493101754807816200,
+		"in_reply_to_status_id_str": "1493101754807816197",
+		"in_reply_to_user_id": 17445709,
+		"in_reply_to_user_id_str": "17445709",
+		"in_reply_to_screen_name": "ufotable",
+		"user": {
+			"id": 17445709,
+			"id_str": "17445709",
+			"name": "ufotable",
+			"screen_name": "ufotable",
+			"location": "Koenji",
+			"description": "アニメーションスタジオufotableの公式アカウント。 #鬼滅の刃 #demonslayer #fate_sn_anime Youtube https://t.co/FBaw5g14G8 公式EC https://t.co/2BJqGgafle",
+			"url": "https://t.co/MLhdPWlZYs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MLhdPWlZYs",
+							"expanded_url": "https://www.ufotable.com/",
+							"display_url": "ufotable.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FBaw5g14G8",
+							"expanded_url": "http://youtube.com/c/ufotable_inc",
+							"display_url": "youtube.com/c/ufotable_inc",
+							"indices": [
+								71,
+								94
+							]
+						},
+						{
+							"url": "https://t.co/2BJqGgafle",
+							"expanded_url": "http://webshop.ufotable.co.jp",
+							"display_url": "webshop.ufotable.co.jp",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 918715,
+			"friends_count": 31,
+			"listed_count": 5261,
+			"created_at": "Mon Nov 17 17:25:51 +0000 2008",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 40828,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7D1414",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1492010728148336640/iTXUq3Fh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1492010728148336640/iTXUq3Fh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17445709/1644765105",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "AE0000",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 178,
+		"favorite_count": 449,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "その場で過ごしているかのように\n時間帯によって映る景色もゆっくり、\n刻々と変化していきます。\n勉強の合間に―仕事の息抜きに。\nhttps://t.co/ffTH7Lvr3f"
+	},
+	{
 		"created_at": "Sun Feb 13 09:43:28 +0000 2022",
 		"id": 1492796556482809900,
 		"id_str": "1492796556482809856",
