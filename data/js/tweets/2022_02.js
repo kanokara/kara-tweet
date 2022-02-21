@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 21 16:57:53 +0000 2022",
+		"id": 1495746327871103000,
+		"id_str": "1495804985040596992",
+		"full_text": "윤이 처음에 토론에 대해 기피증에 가까운 태도를 보였던 걸 감안하면 이건 철저히 기획된 토론 태도로밖에 보이지 않아 무식이라는 결점을 매력으로 승화시키는 방법을 치밀하게 연구하고 연습해온 느낌이랄까 이게 곧 토론의 종말을 뜻하는 한 징후라면... 이제는 토론 이상의 무엇인가가 필요하다..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1495731535584333800,
+		"in_reply_to_status_id_str": "1495731535584333826",
+		"in_reply_to_user_id": 1237388448333361200,
+		"in_reply_to_user_id_str": "1237388448333361153",
+		"in_reply_to_screen_name": "meineaufgabe",
+		"user": {
+			"id": 1237388448333361200,
+			"id_str": "1237388448333361153",
+			"name": "haneuieon",
+			"screen_name": "meineaufgabe",
+			"location": "",
+			"description": "무단횡단 전문가",
+			"url": "https://t.co/itjriOCwIw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itjriOCwIw",
+							"expanded_url": "https://brunch.co.kr/@meineaufgabe",
+							"display_url": "brunch.co.kr/@meineaufgabe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1220,
+			"friends_count": 353,
+			"listed_count": 3,
+			"created_at": "Tue Mar 10 14:43:02 +0000 2020",
+			"favourites_count": 59650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1426505853394321409/1Kqzk-e9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1426505853394321409/1Kqzk-e9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1237388448333361153/1631962041",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 158,
+		"favorite_count": 71,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "윤이 처음에 토론에 대해 기피증에 가까운 태도를 보였던 걸 감안하면 이건 철저히 기획된 토론 태도로밖에 보이지 않아 무식이라는 결점을 매력으로 승화시키는 방법을 치밀하게 연구하고 연습해온 느낌이랄까 이게 곧 토론의 종말을 뜻하는 한 징후라면... 이제는 토론 이상의 무엇인가가 필요하다.."
+	},
+	{
+		"created_at": "Mon Feb 21 16:57:51 +0000 2022",
+		"id": 1495731535584333800,
+		"id_str": "1495804974147993601",
+		"full_text": "이제 이건 정치적 담론의 경쟁이 아니고 그냥 이미지 경쟁이다 물론 이미지 경쟁의 성격을 띄게 된 건 오래된 일이지만 이전과는 다르게 이미지 경쟁만 남은 것 같다는 점에서 참혹하다 대선은 죽었고 이미지 오디션만 남았다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1495730443479842800,
+		"in_reply_to_status_id_str": "1495730443479842817",
+		"in_reply_to_user_id": 1237388448333361200,
+		"in_reply_to_user_id_str": "1237388448333361153",
+		"in_reply_to_screen_name": "meineaufgabe",
+		"user": {
+			"id": 1237388448333361200,
+			"id_str": "1237388448333361153",
+			"name": "haneuieon",
+			"screen_name": "meineaufgabe",
+			"location": "",
+			"description": "무단횡단 전문가",
+			"url": "https://t.co/itjriOCwIw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itjriOCwIw",
+							"expanded_url": "https://brunch.co.kr/@meineaufgabe",
+							"display_url": "brunch.co.kr/@meineaufgabe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1220,
+			"friends_count": 353,
+			"listed_count": 3,
+			"created_at": "Tue Mar 10 14:43:02 +0000 2020",
+			"favourites_count": 59650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1426505853394321409/1Kqzk-e9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1426505853394321409/1Kqzk-e9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1237388448333361153/1631962041",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 137,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이제 이건 정치적 담론의 경쟁이 아니고 그냥 이미지 경쟁이다 물론 이미지 경쟁의 성격을 띄게 된 건 오래된 일이지만 이전과는 다르게 이미지 경쟁만 남은 것 같다는 점에서 참혹하다 대선은 죽었고 이미지 오디션만 남았다"
+	},
+	{
 		"created_at": "Mon Feb 21 01:56:58 +0000 2022",
 		"id": 1495343486291579000,
 		"id_str": "1495578259056381952",
