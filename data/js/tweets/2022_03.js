@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 11 19:30:50 +0000 2022",
+		"id": 1501655905951051800,
+		"id_str": "1502366458470232064",
+		"full_text": "진짜 윤석열 당선 된거야???\n여가부 폐지 되면\n이제 사아야 처럼 예쁘고 참하고\n고분고분하고 밥 잘하고 빨래 잘하고\n애 잘 보고 집안일 열심히 하는 여자들을\n만날 수 있는 거야??? https://t.co/wlAYcUPgv7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1501655898598506500,
+					"id_str": "1501655898598506496",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FNb0FWrVgAA4Uzo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNb0FWrVgAA4Uzo.jpg",
+					"url": "https://t.co/wlAYcUPgv7",
+					"display_url": "pic.twitter.com/wlAYcUPgv7",
+					"expanded_url": "https://twitter.com/rita_rozayen/status/1501655905951051778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 1002,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1501655898598506500,
+					"id_str": "1501655898598506496",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FNb0FWrVgAA4Uzo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNb0FWrVgAA4Uzo.jpg",
+					"url": "https://t.co/wlAYcUPgv7",
+					"display_url": "pic.twitter.com/wlAYcUPgv7",
+					"expanded_url": "https://twitter.com/rita_rozayen/status/1501655905951051778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 1002,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1501655898623656000,
+					"id_str": "1501655898623655938",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FNb0FWxVQAIlAOn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNb0FWxVQAIlAOn.jpg",
+					"url": "https://t.co/wlAYcUPgv7",
+					"display_url": "pic.twitter.com/wlAYcUPgv7",
+					"expanded_url": "https://twitter.com/rita_rozayen/status/1501655905951051778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 751,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 751,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1501655898778857500,
+					"id_str": "1501655898778857472",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FNb0FXWVcAAm_It.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNb0FXWVcAAm_It.jpg",
+					"url": "https://t.co/wlAYcUPgv7",
+					"display_url": "pic.twitter.com/wlAYcUPgv7",
+					"expanded_url": "https://twitter.com/rita_rozayen/status/1501655905951051778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1501655898787246000,
+					"id_str": "1501655898787246081",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FNb0FXYVcAE3Uuy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNb0FXYVcAE3Uuy.jpg",
+					"url": "https://t.co/wlAYcUPgv7",
+					"display_url": "pic.twitter.com/wlAYcUPgv7",
+					"expanded_url": "https://twitter.com/rita_rozayen/status/1501655905951051778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 1002,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 367326382,
+			"id_str": "367326382",
+			"name": "Sumire",
+			"screen_name": "rita_rozayen",
+			"location": "대한민국",
+			"description": "凛子の男子/大戦略/デレステ/ミリシタ/Capitalism_Ho!/FPS/TPS",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 164,
+			"friends_count": 2997,
+			"listed_count": 9,
+			"created_at": "Sat Sep 03 19:46:33 +0000 2011",
+			"favourites_count": 28922,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26734,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/881638043538530304/o_m2VY2D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/881638043538530304/o_m2VY2D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/367326382/1501105219",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 676,
+		"favorite_count": 142,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "진짜 윤석열 당선 된거야???\n여가부 폐지 되면\n이제 사아야 처럼 예쁘고 참하고\n고분고분하고 밥 잘하고 빨래 잘하고\n애 잘 보고 집안일 열심히 하는 여자들을\n만날 수 있는 거야??? https://t.co/wlAYcUPgv7"
+	},
+	{
 		"created_at": "Fri Mar 11 07:49:58 +0000 2022",
 		"id": 1502190077556170800,
 		"id_str": "1502190077556170753",
