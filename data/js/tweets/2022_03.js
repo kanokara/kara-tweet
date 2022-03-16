@@ -1,6 +1,574 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Wed Mar 16 21:01:55 +0000 2022",
+		"id": 1503938273722638300,
+		"id_str": "1504201318100918272",
+		"full_text": "'전쟁 때문에 자꾸 물가 오르고 주가 떨어지는데 우크라이나 항복하면 안되냐?' 라고 생각하는 사람들은 읽어봐야 할 글 https://t.co/YpPdvorMYI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1503936920019431400,
+					"id_str": "1503936920019431424",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FN8OqRpacAAAV8U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN8OqRpacAAAV8U.jpg",
+					"url": "https://t.co/YpPdvorMYI",
+					"display_url": "pic.twitter.com/YpPdvorMYI",
+					"expanded_url": "https://twitter.com/museun_happen/status/1503938273722638337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 1259,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 858,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1503936920019431400,
+					"id_str": "1503936920019431424",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FN8OqRpacAAAV8U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN8OqRpacAAAV8U.jpg",
+					"url": "https://t.co/YpPdvorMYI",
+					"display_url": "pic.twitter.com/YpPdvorMYI",
+					"expanded_url": "https://twitter.com/museun_happen/status/1503938273722638337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 1259,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 858,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1503936920015220700,
+					"id_str": "1503936920015220740",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FN8OqRoaMAQHodq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN8OqRoaMAQHodq.jpg",
+					"url": "https://t.co/YpPdvorMYI",
+					"display_url": "pic.twitter.com/YpPdvorMYI",
+					"expanded_url": "https://twitter.com/museun_happen/status/1503938273722638337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1156,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 529,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1156,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1023826712822333400,
+			"id_str": "1023826712822333441",
+			"name": "무슨 일이 일어나고 있나요?",
+			"screen_name": "museun_happen",
+			"location": "",
+			"description": "여러가지 이슈를 알려드립니다 / 문의, 제보는 쪽지로 / 모든 제보를 올리거나 응답할 수 없으므로 올리기에 적합한 제보인 경우에만 답변을 남기고 올립니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91121,
+			"friends_count": 0,
+			"listed_count": 172,
+			"created_at": "Mon Jul 30 07:04:44 +0000 2018",
+			"favourites_count": 81,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1431152843675738113/k0c0pcN5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1431152843675738113/k0c0pcN5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1023826712822333441/1630046939",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2699,
+		"favorite_count": 760,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'전쟁 때문에 자꾸 물가 오르고 주가 떨어지는데 우크라이나 항복하면 안되냐?' 라고 생각하는 사람들은 읽어봐야 할 글 https://t.co/YpPdvorMYI"
+	},
+	{
+		"created_at": "Wed Mar 16 20:55:04 +0000 2022",
+		"id": 1502552487915491300,
+		"id_str": "1504199594250432512",
+		"full_text": "팬픽을 읽는 사람들은 원작의 인물 구도를 가져오되 이야기의 감정선이 원작과는 다르게 구성된 걸 원한다고 볼 수 있겠다. 이렇게 재미있는 연구가 있다니. 논문 연구자들의 전공이 무엇일까 궁금했는데. 컴퓨터 사이언스 전공자들이었다. 문학 전공자가 한명도 없다니. 이과생이 다해먹는건가 흑흑.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1502552485923225600,
+		"in_reply_to_status_id_str": "1502552485923225603",
+		"in_reply_to_user_id": 1918065115,
+		"in_reply_to_user_id_str": "1918065115",
+		"in_reply_to_screen_name": "chukbak",
+		"user": {
+			"id": 1918065115,
+			"id_str": "1918065115",
+			"name": "김병준(Byungjun Kim)",
+			"screen_name": "chukbak",
+			"location": "KAIST",
+			"description": "디지털인문학 연구자 | 'DH in South Korea' Slack 채널(https://t.co/193AN7OZoJ) |\n월간 디지털인문학 Youtube(https://t.co/04HHQt7DxV) |\nDigital Humanities/Korean Studies/NLP/Data Science/Bibilometrics",
+			"url": "https://t.co/wnuxGpiIkF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wnuxGpiIkF",
+							"expanded_url": "https://scholar.google.com/citations?user=y-34CCwAAAAJ&hl=en",
+							"display_url": "scholar.google.com/citations?user…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/193AN7OZoJ",
+							"expanded_url": "http://bit.ly/3t8sFGK",
+							"display_url": "bit.ly/3t8sFGK",
+							"indices": [
+								42,
+								65
+							]
+						},
+						{
+							"url": "https://t.co/04HHQt7DxV",
+							"expanded_url": "http://bit.ly/3ssiy0t",
+							"display_url": "bit.ly/3ssiy0t",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1265,
+			"friends_count": 1087,
+			"listed_count": 4,
+			"created_at": "Sun Sep 29 20:12:20 +0000 2013",
+			"favourites_count": 3696,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1461277500924129280/oeqU37SB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1461277500924129280/oeqU37SB_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 618,
+		"favorite_count": 241,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "팬픽을 읽는 사람들은 원작의 인물 구도를 가져오되 이야기의 감정선이 원작과는 다르게 구성된 걸 원한다고 볼 수 있겠다. 이렇게 재미있는 연구가 있다니. 논문 연구자들의 전공이 무엇일까 궁금했는데. 컴퓨터 사이언스 전공자들이었다. 문학 전공자가 한명도 없다니. 이과생이 다해먹는건가 흑흑."
+	},
+	{
+		"created_at": "Wed Mar 16 20:54:47 +0000 2022",
+		"id": 1502552485923225600,
+		"id_str": "1504199523479916546",
+		"full_text": "팬픽과 원작의 emotional arcs의 유사도,그리고 character graph 유사도가 팬픽의 인기의 미치는 영향을 연구한 논문. emotional arcs의 유사도가 낮을수록(원작과 팬픽의 감정선이 다를수록) 인기가 긍정적인 영향을 미치며, character graphs(인물 구조)는 비슷할수록 인기에 긍정인 영향을 준다. https://t.co/hLrDShKQBl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hLrDShKQBl",
+					"expanded_url": "https://twitter.com/chukbak/status/1502546971877281796",
+					"display_url": "twitter.com/chukbak/status…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1918065115,
+			"id_str": "1918065115",
+			"name": "김병준(Byungjun Kim)",
+			"screen_name": "chukbak",
+			"location": "KAIST",
+			"description": "디지털인문학 연구자 | 'DH in South Korea' Slack 채널(https://t.co/193AN7OZoJ) |\n월간 디지털인문학 Youtube(https://t.co/04HHQt7DxV) |\nDigital Humanities/Korean Studies/NLP/Data Science/Bibilometrics",
+			"url": "https://t.co/wnuxGpiIkF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wnuxGpiIkF",
+							"expanded_url": "https://scholar.google.com/citations?user=y-34CCwAAAAJ&hl=en",
+							"display_url": "scholar.google.com/citations?user…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/193AN7OZoJ",
+							"expanded_url": "http://bit.ly/3t8sFGK",
+							"display_url": "bit.ly/3t8sFGK",
+							"indices": [
+								42,
+								65
+							]
+						},
+						{
+							"url": "https://t.co/04HHQt7DxV",
+							"expanded_url": "http://bit.ly/3ssiy0t",
+							"display_url": "bit.ly/3ssiy0t",
+							"indices": [
+								87,
+								110
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1265,
+			"friends_count": 1087,
+			"listed_count": 4,
+			"created_at": "Sun Sep 29 20:12:20 +0000 2013",
+			"favourites_count": 3696,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1461277500924129280/oeqU37SB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1461277500924129280/oeqU37SB_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1502546971877281800,
+		"quoted_status_id_str": "1502546971877281796",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hLrDShKQBl",
+			"expanded": "https://twitter.com/chukbak/status/1502546971877281796",
+			"display": "twitter.com/chukbak/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 12 07:28:08 +0000 2022",
+			"id": 1502546971877281800,
+			"id_str": "1502546971877281796",
+			"full_text": "\"Our results show that the similarity between fanfictions and their associated original story in terms of emotional arcs and character graphs significantly relates to fanfictions’ popularity.\"\nhttps://t.co/AEKYHNnMdD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				216
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AEKYHNnMdD",
+						"expanded_url": "https://link.springer.com/article/10.1007/s13278-021-00854-9",
+						"display_url": "link.springer.com/article/10.100…",
+						"indices": [
+							193,
+							216
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1918065115,
+				"id_str": "1918065115",
+				"name": "김병준(Byungjun Kim)",
+				"screen_name": "chukbak",
+				"location": "KAIST",
+				"description": "디지털인문학 연구자 | 'DH in South Korea' Slack 채널(https://t.co/193AN7OZoJ) |\n월간 디지털인문학 Youtube(https://t.co/04HHQt7DxV) |\nDigital Humanities/Korean Studies/NLP/Data Science/Bibilometrics",
+				"url": "https://t.co/wnuxGpiIkF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wnuxGpiIkF",
+								"expanded_url": "https://scholar.google.com/citations?user=y-34CCwAAAAJ&hl=en",
+								"display_url": "scholar.google.com/citations?user…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/193AN7OZoJ",
+								"expanded_url": "http://bit.ly/3t8sFGK",
+								"display_url": "bit.ly/3t8sFGK",
+								"indices": [
+									42,
+									65
+								]
+							},
+							{
+								"url": "https://t.co/04HHQt7DxV",
+								"expanded_url": "http://bit.ly/3ssiy0t",
+								"display_url": "bit.ly/3ssiy0t",
+								"indices": [
+									87,
+									110
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1265,
+				"friends_count": 1087,
+				"listed_count": 4,
+				"created_at": "Sun Sep 29 20:12:20 +0000 2013",
+				"favourites_count": 3696,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2659,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1461277500924129280/oeqU37SB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1461277500924129280/oeqU37SB_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1358,
+		"favorite_count": 432,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "팬픽과 원작의 emotional arcs의 유사도,그리고 character graph 유사도가 팬픽의 인기의 미치는 영향을 연구한 논문. emotional arcs의 유사도가 낮을수록(원작과 팬픽의 감정선이 다를수록) 인기가 긍정적인 영향을 미치며, character graphs(인물 구조)는 비슷할수록 인기에 긍정인 영향을 준다. https://t.co/hLrDShKQBl"
+	},
+	{
 		"created_at": "Sat Mar 12 16:09:52 +0000 2022",
 		"id": 1502678114396438500,
 		"id_str": "1502678270814613504",
