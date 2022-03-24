@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 24 15:08:03 +0000 2022",
+		"id": 1507011367836205000,
+		"id_str": "1507011367836205057",
+		"full_text": "몽골이 처들어오거나 일본이 처들어오거나 아무리 생각해도 '부역'하고 있을 거 같고 그게 정당하다고 판단되네요. 우파를 욕하는 좌파들만으론 공동체가 아예 성립할 수가 없죠. 권력과 권위, 질서와 안녕을 인정하고 추구해야 공동체가 성립하는 것이지.\nhttps://t.co/FMJF0c5x1v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FMJF0c5x1v",
+					"expanded_url": "https://twitter.com/CiceroFlager8/status/1506837348876636164?t=dNOtG0JBsXq7Ikvsjdf5ow&s=19",
+					"display_url": "twitter.com/CiceroFlager8/…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 90,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1506837348876636200,
+		"quoted_status_id_str": "1506837348876636164",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FMJF0c5x1v",
+			"expanded": "https://twitter.com/CiceroFlager8/status/1506837348876636164?t=dNOtG0JBsXq7Ikvsjdf5ow&s=19",
+			"display": "twitter.com/CiceroFlager8/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 24 03:36:34 +0000 2022",
+			"id": 1506837348876636200,
+			"id_str": "1506837348876636164",
+			"full_text": "2차대전 중 나치점령에 부역한 유럽의 보수주의자들이 한무더기라 외국인들이 이해못한다는게 난 더 이해가 안감. https://t.co/5UHImCMCTB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				60
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5UHImCMCTB",
+						"expanded_url": "https://twitter.com/ctn4067/status/1506443216585125889",
+						"display_url": "twitter.com/ctn4067/status…",
+						"indices": [
+							61,
+							84
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 894720883289333800,
+				"id_str": "894720883289333760",
+				"name": "Cicero",
+				"screen_name": "CiceroFlager8",
+				"location": "대한민국 수원시",
+				"description": "경기지역 교육현장 노동자. \n그러나 본 트위터는 계정주의 취향을 제외하곤 그 무엇도 보장하지 않습니다.",
+				"url": "https://t.co/B5Y3BAeBoZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/B5Y3BAeBoZ",
+								"expanded_url": "https://ask.fm/CiceroFlager8",
+								"display_url": "ask.fm/CiceroFlager8",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2480,
+				"friends_count": 640,
+				"listed_count": 15,
+				"created_at": "Tue Aug 08 00:44:16 +0000 2017",
+				"favourites_count": 12272,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 40548,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/940434546494881792/zN3uYsdi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/940434546494881792/zN3uYsdi_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1506443216585126000,
+			"quoted_status_id_str": "1506443216585125889",
+			"quoted_status_permalink": {
+				"url": "https://t.co/5UHImCMCTB",
+				"expanded": "https://twitter.com/ctn4067/status/1506443216585125889",
+				"display": "twitter.com/ctn4067/status…"
+			},
+			"retweet_count": 358,
+			"favorite_count": 146,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "몽골이 처들어오거나 일본이 처들어오거나 아무리 생각해도 '부역'하고 있을 거 같고 그게 정당하다고 판단되네요. 우파를 욕하는 좌파들만으론 공동체가 아예 성립할 수가 없죠. 권력과 권위, 질서와 안녕을 인정하고 추구해야 공동체가 성립하는 것이지.\nhttps://t.co/FMJF0c5x1v"
+	},
+	{
 		"created_at": "Thu Mar 24 05:09:47 +0000 2022",
 		"id": 1506860807921213400,
 		"id_str": "1506860807921213443",
