@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sat Mar 26 08:56:14 +0000 2022",
+		"id": 1507642573204357000,
+		"id_str": "1507642573204357123",
+		"full_text": "신좌파적 마인드 너무 유해하고 해롭다. 개인을 위한 국가권력의 개입은 올바르고, 공동체를 위한 국가권력의 개입은 틀렸다는 사고방식.\nhttps://t.co/Isg3wQUs8h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Isg3wQUs8h",
+					"expanded_url": "https://twitter.com/reyfelski/status/1507251289176293376?t=pOwRduhzM-kyLsFP5ZFh4A&s=19",
+					"display_url": "twitter.com/reyfelski/stat…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 90,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3862,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1507251289176293400,
+		"quoted_status_id_str": "1507251289176293376",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Isg3wQUs8h",
+			"expanded": "https://twitter.com/reyfelski/status/1507251289176293376?t=pOwRduhzM-kyLsFP5ZFh4A&s=19",
+			"display": "twitter.com/reyfelski/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 25 07:01:25 +0000 2022",
+			"id": 1507251289176293400,
+			"id_str": "1507251289176293376",
+			"full_text": "인구가족부? 조지 오웰이 탐낼 만한 작명이다 조지 오웰 뭐 하냐 무덤에서 나와 주세요 앗 내가 그 단어를 1984에서 썼어야 했는데 그렇게까지 악랄한 표현은 생각 못했구나 당신이 대놓고 디스토피아 만든 소설에서도 못 만든 말을 2022년 한국의 대통령당선인이 햇읍니다",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 171894543,
+				"id_str": "171894543",
+				"name": "확인절차",
+				"screen_name": "reyfelski",
+				"location": "경찰 검찰 국정원 세관 아무도 모르는 일입니다",
+				"description": "나는 자수정이 빛 속에 놓여 있다고 어떤 마음의 공간에 그런 것이 있다고 믿기 시작했다 그것이 좋았다 - 백은선, 「멸종위기」",
+				"url": "https://t.co/8bSaGa2MnV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8bSaGa2MnV",
+								"expanded_url": "http://blog.naver.com/pheebs12",
+								"display_url": "blog.naver.com/pheebs12",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1388,
+				"friends_count": 200,
+				"listed_count": 17,
+				"created_at": "Wed Jul 28 12:41:35 +0000 2010",
+				"favourites_count": 16008,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 67017,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1495327310857510912/sQQYSOhm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1495327310857510912/sQQYSOhm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/171894543/1555857505",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 815,
+			"favorite_count": 426,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "신좌파적 마인드 너무 유해하고 해롭다. 개인을 위한 국가권력의 개입은 올바르고, 공동체를 위한 국가권력의 개입은 틀렸다는 사고방식.\nhttps://t.co/Isg3wQUs8h"
+	},
+	{
 		"created_at": "Fri Mar 25 01:45:22 +0000 2022",
 		"id": 1506957513215729700,
 		"id_str": "1507171751595483144",
