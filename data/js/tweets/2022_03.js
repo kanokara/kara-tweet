@@ -1,6 +1,1158 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Tue Mar 29 12:10:14 +0000 2022",
+		"id": 1508778558583632000,
+		"id_str": "1508778558583631879",
+		"full_text": "다시 생각해도, 위문편지 건을 정체성정치로 끌어들이며 열내던 분들이 저러는 건 우습지도 않네요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1508772895694082000,
+		"in_reply_to_status_id_str": "1508772895694082048",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 90,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3864,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "다시 생각해도, 위문편지 건을 정체성정치로 끌어들이며 열내던 분들이 저러는 건 우습지도 않네요."
+	},
+	{
+		"created_at": "Tue Mar 29 12:01:28 +0000 2022",
+		"id": 1508635736689418200,
+		"id_str": "1508776352576839685",
+		"full_text": "\"한국인, 일생 중 34년을 인터넷 사용에 쓴다…아시아 1위\" https://t.co/WgX3HS2PKK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WgX3HS2PKK",
+					"expanded_url": "https://www.yna.co.kr/view/AKR20220329085200017?input=tw",
+					"display_url": "yna.co.kr/view/AKR202203…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.yonhapnews.co.kr\" rel=\"nofollow\">Yonhap News</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147451838,
+			"id_str": "147451838",
+			"name": "연합뉴스",
+			"screen_name": "yonhaptweet",
+			"location": "대한민국 서울",
+			"description": "[홈페이지] https://t.co/1xjsaY9KNh  \n제보는 카카오톡, 라인, 위챗 okjebo",
+			"url": "https://t.co/1xjsaY9KNh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								7,
+								30
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 343734,
+			"friends_count": 68130,
+			"listed_count": 4540,
+			"created_at": "Mon May 24 05:08:01 +0000 2010",
+			"favourites_count": 229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 266111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1548822583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1531,
+		"favorite_count": 370,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"한국인, 일생 중 34년을 인터넷 사용에 쓴다…아시아 1위\" https://t.co/WgX3HS2PKK"
+	},
+	{
+		"created_at": "Tue Mar 29 11:47:44 +0000 2022",
+		"id": 1508772895694082000,
+		"id_str": "1508772895694082048",
+		"full_text": "뉴딜의 시대네요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1508772746280390700,
+		"in_reply_to_status_id_str": "1508772746280390661",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 90,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3864,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "뉴딜의 시대네요."
+	},
+	{
+		"created_at": "Tue Mar 29 11:47:09 +0000 2022",
+		"id": 1508772746280390700,
+		"id_str": "1508772746280390661",
+		"full_text": "그래서 이런 진단은 바보 같은 것.\nhttps://t.co/X8q8KTPGlW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X8q8KTPGlW",
+					"expanded_url": "https://twitter.com/cfr0g/status/1508665261645131779?t=nIlHk8Pw7SBzw67TCwMQzw&s=19",
+					"display_url": "twitter.com/cfr0g/status/1…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1508772440427565000,
+		"in_reply_to_status_id_str": "1508772440427565062",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 90,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3864,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1508665261645131800,
+		"quoted_status_id_str": "1508665261645131779",
+		"quoted_status_permalink": {
+			"url": "https://t.co/X8q8KTPGlW",
+			"expanded": "https://twitter.com/cfr0g/status/1508665261645131779?t=nIlHk8Pw7SBzw67TCwMQzw&s=19",
+			"display": "twitter.com/cfr0g/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 29 04:40:02 +0000 2022",
+			"id": 1508665261645131800,
+			"id_str": "1508665261645131779",
+			"full_text": "자본주의 사회에 '보상'이라는 개념은 전혀 어울리지 않고, '거래'가 훨씬 더 잘 어울림. 이러니 자꾸 게임 세대 세계관과 어색하게 충돌이 나는게 아닌가 함.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				88
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1508656141437309000,
+			"in_reply_to_status_id_str": "1508656141437308929",
+			"in_reply_to_user_id": 54579208,
+			"in_reply_to_user_id_str": "54579208",
+			"in_reply_to_screen_name": "cfr0g",
+			"user": {
+				"id": 54579208,
+				"id_str": "54579208",
+				"name": "괴골 [개물]",
+				"screen_name": "cfr0g",
+				"location": "",
+				"description": "데이터나 과학 이야기 가끔.",
+				"url": "https://t.co/YBbUyVIHiQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YBbUyVIHiQ",
+								"expanded_url": "http://blog.naver.com/datafr0g",
+								"display_url": "blog.naver.com/datafr0g",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7419,
+				"friends_count": 149,
+				"listed_count": 116,
+				"created_at": "Tue Jul 07 15:30:26 +0000 2009",
+				"favourites_count": 737,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 78041,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "195679",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54579208/1402586925",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 233,
+			"favorite_count": 116,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그래서 이런 진단은 바보 같은 것.\nhttps://t.co/X8q8KTPGlW"
+	},
+	{
+		"created_at": "Tue Mar 29 11:46:42 +0000 2022",
+		"id": 1508665261645131800,
+		"id_str": "1508772636125401092",
+		"full_text": "자본주의 사회에 '보상'이라는 개념은 전혀 어울리지 않고, '거래'가 훨씬 더 잘 어울림. 이러니 자꾸 게임 세대 세계관과 어색하게 충돌이 나는게 아닌가 함.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1508656141437309000,
+		"in_reply_to_status_id_str": "1508656141437308929",
+		"in_reply_to_user_id": 54579208,
+		"in_reply_to_user_id_str": "54579208",
+		"in_reply_to_screen_name": "cfr0g",
+		"user": {
+			"id": 54579208,
+			"id_str": "54579208",
+			"name": "괴골 [개물]",
+			"screen_name": "cfr0g",
+			"location": "",
+			"description": "데이터나 과학 이야기 가끔.",
+			"url": "https://t.co/YBbUyVIHiQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YBbUyVIHiQ",
+							"expanded_url": "http://blog.naver.com/datafr0g",
+							"display_url": "blog.naver.com/datafr0g",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7419,
+			"friends_count": 149,
+			"listed_count": 116,
+			"created_at": "Tue Jul 07 15:30:26 +0000 2009",
+			"favourites_count": 737,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 78041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "195679",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54579208/1402586925",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 233,
+		"favorite_count": 116,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "자본주의 사회에 '보상'이라는 개념은 전혀 어울리지 않고, '거래'가 훨씬 더 잘 어울림. 이러니 자꾸 게임 세대 세계관과 어색하게 충돌이 나는게 아닌가 함."
+	},
+	{
+		"created_at": "Tue Mar 29 11:45:56 +0000 2022",
+		"id": 1508772440427565000,
+		"id_str": "1508772440427565062",
+		"full_text": "본디부터 보상이 존재하지 않았던 것이 아닌, 그동안 주어지던 대가가 더는 소구되지 않는 것으로 변화하고 있단 것이 정확한 진단. 공동체의 이완에 따른 사회적 계약의 파탄, 변화.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1508771682055381000,
+		"in_reply_to_status_id_str": "1508771682055380992",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 90,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3864,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "본디부터 보상이 존재하지 않았던 것이 아닌, 그동안 주어지던 대가가 더는 소구되지 않는 것으로 변화하고 있단 것이 정확한 진단. 공동체의 이완에 따른 사회적 계약의 파탄, 변화."
+	},
+	{
+		"created_at": "Tue Mar 29 11:43:24 +0000 2022",
+		"id": 1508431657828724700,
+		"id_str": "1508771802767499264",
+		"full_text": "도대체 품성이 올곧은 것에 왜 '보상'이 주어져야 한다고 생각하는거야? 도대체 저 사고의 근원은 뭐지. 디폴트 사고 체계부터 잘못됨. 아연하다. https://t.co/L1eEJSLjJE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/L1eEJSLjJE",
+					"expanded_url": "https://twitter.com/vermilionsun/status/1508295510834114561",
+					"display_url": "twitter.com/vermilionsun/s…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 151392934,
+			"id_str": "151392934",
+			"name": "김그냥",
+			"screen_name": "shinyhye",
+			"location": "",
+			"description": "슈뢰딩거의 엘지야구 탈덕",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 569,
+			"friends_count": 176,
+			"listed_count": 8,
+			"created_at": "Thu Jun 03 09:06:46 +0000 2010",
+			"favourites_count": 7075,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 195701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1504778149518749696/kADJPqKY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504778149518749696/kADJPqKY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/151392934/1644760526",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1508295510834114600,
+		"quoted_status_id_str": "1508295510834114561",
+		"quoted_status_permalink": {
+			"url": "https://t.co/L1eEJSLjJE",
+			"expanded": "https://twitter.com/vermilionsun/status/1508295510834114561",
+			"display": "twitter.com/vermilionsun/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 28 04:10:47 +0000 2022",
+			"id": 1508295510834114600,
+			"id_str": "1508295510834114561",
+			"full_text": "반대로 지금 남성 중 20-30대가 청소년기를 거칠 때 또래집단이나 기성세대집단이게서 인정받을 수 있는 가치가 게임 랭킹 티어나 학벌 말고 무엇을 인정받을 수 있었나 싶기도하다.\n개인의 품성이 올곧은 것에 충분한 보상을 쥐어주었던가... https://t.co/VXotJ5xktN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				132
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VXotJ5xktN",
+						"expanded_url": "https://twitter.com/psychokinesis23/status/1508074561983905800",
+						"display_url": "twitter.com/psychokinesis2…",
+						"indices": [
+							133,
+							156
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 241330958,
+				"id_str": "241330958",
+				"name": "주강현 Kanghyun Chu",
+				"screen_name": "vermilionsun",
+				"location": "Lausanne, Switzerland",
+				"description": "포닥끝나고 자유인의 삶으로 몸과 건강 챙기는 시간 갖는 중. 운이 좋아서 당장 배곯을 걱정은 하지 않는 것에 감사합니다.",
+				"url": "https://t.co/a4uGmXejzv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/a4uGmXejzv",
+								"expanded_url": "http://blog.naver.com/jedichu",
+								"display_url": "blog.naver.com/jedichu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 546,
+				"friends_count": 1041,
+				"listed_count": 5,
+				"created_at": "Sat Jan 22 00:49:55 +0000 2011",
+				"favourites_count": 5842,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 47898,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1424396552710283268/qnpi5v-3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424396552710283268/qnpi5v-3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/241330958/1647484017",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "00444ddc0d6f0493",
+				"url": "https://api.twitter.com/1.1/geo/id/00444ddc0d6f0493.json",
+				"place_type": "city",
+				"name": "서구",
+				"full_name": "대한민국 서구",
+				"country_code": "KR",
+				"country": "대한민국",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								128.511924886336,
+								35.8724081520102
+							],
+							[
+								128.674203110842,
+								35.8724081520102
+							],
+							[
+								128.674203110842,
+								36.0146262455566
+							],
+							[
+								128.511924886336,
+								36.0146262455566
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1508074561983905800,
+			"quoted_status_id_str": "1508074561983905800",
+			"quoted_status_permalink": {
+				"url": "https://t.co/VXotJ5xktN",
+				"expanded": "https://twitter.com/psychokinesis23/status/1508074561983905800",
+				"display": "twitter.com/psychokinesis2…"
+			},
+			"retweet_count": 92,
+			"favorite_count": 49,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 276,
+		"favorite_count": 139,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "도대체 품성이 올곧은 것에 왜 '보상'이 주어져야 한다고 생각하는거야? 도대체 저 사고의 근원은 뭐지. 디폴트 사고 체계부터 잘못됨. 아연하다. https://t.co/L1eEJSLjJE"
+	},
+	{
+		"created_at": "Tue Mar 29 11:43:21 +0000 2022",
+		"id": 1508295510834114600,
+		"id_str": "1508771792571146241",
+		"full_text": "반대로 지금 남성 중 20-30대가 청소년기를 거칠 때 또래집단이나 기성세대집단이게서 인정받을 수 있는 가치가 게임 랭킹 티어나 학벌 말고 무엇을 인정받을 수 있었나 싶기도하다.\n개인의 품성이 올곧은 것에 충분한 보상을 쥐어주었던가... https://t.co/VXotJ5xktN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VXotJ5xktN",
+					"expanded_url": "https://twitter.com/psychokinesis23/status/1508074561983905800",
+					"display_url": "twitter.com/psychokinesis2…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 241330958,
+			"id_str": "241330958",
+			"name": "주강현 Kanghyun Chu",
+			"screen_name": "vermilionsun",
+			"location": "Lausanne, Switzerland",
+			"description": "포닥끝나고 자유인의 삶으로 몸과 건강 챙기는 시간 갖는 중. 운이 좋아서 당장 배곯을 걱정은 하지 않는 것에 감사합니다.",
+			"url": "https://t.co/a4uGmXejzv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a4uGmXejzv",
+							"expanded_url": "http://blog.naver.com/jedichu",
+							"display_url": "blog.naver.com/jedichu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 546,
+			"friends_count": 1041,
+			"listed_count": 5,
+			"created_at": "Sat Jan 22 00:49:55 +0000 2011",
+			"favourites_count": 5842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1424396552710283268/qnpi5v-3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424396552710283268/qnpi5v-3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/241330958/1647484017",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00444ddc0d6f0493",
+			"url": "https://api.twitter.com/1.1/geo/id/00444ddc0d6f0493.json",
+			"place_type": "city",
+			"name": "서구",
+			"full_name": "대한민국 서구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							128.511924886336,
+							35.8724081520102
+						],
+						[
+							128.674203110842,
+							35.8724081520102
+						],
+						[
+							128.674203110842,
+							36.0146262455566
+						],
+						[
+							128.511924886336,
+							36.0146262455566
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1508074561983905800,
+		"quoted_status_id_str": "1508074561983905800",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VXotJ5xktN",
+			"expanded": "https://twitter.com/psychokinesis23/status/1508074561983905800",
+			"display": "twitter.com/psychokinesis2…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 27 13:32:48 +0000 2022",
+			"id": 1508074561983905800,
+			"id_str": "1508074561983905800",
+			"full_text": "이 트윗이 흥미로운 이유는 이준ㅅ의 학벌이 그의 유일한 매력이라 생각하는 점이다. 클럽이나 까페에서 여자한테 플러팅한답시고 대학교 학생증을 꺼내는 남자들의 일화를 그대로 옮겨놓은 것 같다고 할까ㅋ학벌로 일사천리 연애까지 가능할거라 믿는 그의 이 가련한 자신감... https://t.co/0XPANAm54A",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				147
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0XPANAm54A",
+						"expanded_url": "https://twitter.com/qtx1lg/status/1507739380701532160",
+						"display_url": "twitter.com/qtx1lg/status/…",
+						"indices": [
+							148,
+							171
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2167975296,
+				"id_str": "2167975296",
+				"name": "Holden🔻Weatherfield",
+				"screen_name": "psychokinesis23",
+				"location": "",
+				"description": "🤬😖😤🤤☺️😭😡",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2293,
+				"friends_count": 751,
+				"listed_count": 11,
+				"created_at": "Fri Nov 01 07:44:16 +0000 2013",
+				"favourites_count": 12324,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 204861,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1378549139940597760/J9VFaVH0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1378549139940597760/J9VFaVH0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2167975296/1617508008",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1507739380701532200,
+			"quoted_status_id_str": "1507739380701532160",
+			"quoted_status_permalink": {
+				"url": "https://t.co/0XPANAm54A",
+				"expanded": "https://twitter.com/qtx1lg/status/1507739380701532160",
+				"display": "twitter.com/qtx1lg/status/…"
+			},
+			"retweet_count": 5979,
+			"favorite_count": 1923,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 92,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "반대로 지금 남성 중 20-30대가 청소년기를 거칠 때 또래집단이나 기성세대집단이게서 인정받을 수 있는 가치가 게임 랭킹 티어나 학벌 말고 무엇을 인정받을 수 있었나 싶기도하다.\n개인의 품성이 올곧은 것에 충분한 보상을 쥐어주었던가... https://t.co/VXotJ5xktN"
+	},
+	{
 		"created_at": "Tue Mar 29 09:45:38 +0000 2022",
 		"id": 1508742169456423000,
 		"id_str": "1508742169456422916",
