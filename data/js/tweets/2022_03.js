@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 31 08:22:45 +0000 2022",
+		"id": 1509065122047615000,
+		"id_str": "1509446083554181128",
+		"full_text": "こういう「今や世界はこっちが多数派！」て理由でそれを肯定する（追従する）理屈を使っていくと、「今や世界人口の71%が独裁国家暮らし」て事実になんも言えなくなってしまう気がするんだよな\n\nhttps://t.co/60Rk4TBAOd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/60Rk4TBAOd",
+					"expanded_url": "https://news.yahoo.co.jp/byline/nishiokashoji/20220308-00285498",
+					"display_url": "news.yahoo.co.jp/byline/nishiok…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18900725,
+			"id_str": "18900725",
+			"name": "リンドウ",
+			"screen_name": "rindoh",
+			"location": "",
+			"description": "アニメ『魔術士オーフェンはぐれ旅』、この後すぐ！ ぜってぇ観てくれよな！",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1738,
+			"friends_count": 290,
+			"listed_count": 63,
+			"created_at": "Mon Jan 12 13:46:06 +0000 2009",
+			"favourites_count": 3476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/737667079/denim_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/737667079/denim_normal.jpg",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 874,
+		"favorite_count": 1615,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "こういう「今や世界はこっちが多数派！」て理由でそれを肯定する（追従する）理屈を使っていくと、「今や世界人口の71%が独裁国家暮らし」て事実になんも言えなくなってしまう気がするんだよな\n\nhttps://t.co/60Rk4TBAOd"
+	},
+	{
 		"created_at": "Wed Mar 30 10:06:54 +0000 2022",
 		"id": 1509100621860900900,
 		"id_str": "1509109906682814465",
