@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 08 05:07:11 +0000 2022",
+		"id": 1512295971379507200,
+		"id_str": "1512295971379507201",
+		"full_text": "현 체제의 경쟁 원리를 집어치우지 않으면 절대 해결할 수 없는 문제죠. 결국 개인 간, 기업 간, 국가 간 경쟁에 기반하기 때문에 독점 시스템 말고는 답이 없어요.\nhttps://t.co/K7wV79YmrI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K7wV79YmrI",
+					"expanded_url": "https://twitter.com/envsha/status/1512264631230042112?t=yjFke_m29rujisCDTCW3XA&s=19",
+					"display_url": "twitter.com/envsha/status/…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1512264631230042000,
+		"quoted_status_id_str": "1512264631230042112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/K7wV79YmrI",
+			"expanded": "https://twitter.com/envsha/status/1512264631230042112?t=yjFke_m29rujisCDTCW3XA&s=19",
+			"display": "twitter.com/envsha/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 08 03:02:39 +0000 2022",
+			"id": 1512264631230042000,
+			"id_str": "1512264631230042112",
+			"full_text": "\"기후과학자인 나는 매일매일 삶이 돈룩업이다\" 라고했던 NASA 기후과학자 피터 칼머스 진짜 울면서 얘기한다.. \"이대로는 모든것을 잃을것이다 거짓말도 과장도 아니다\" 체이스은행 입구에서 Extinction Rebellion 평화시위하다가 체포됐다고하네요. https://t.co/r2ggndJMJY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				143
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/r2ggndJMJY",
+						"expanded_url": "https://twitter.com/erstone7/status/1511799016329080833",
+						"display_url": "twitter.com/erstone7/statu…",
+						"indices": [
+							144,
+							167
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1205292880861909000,
+				"id_str": "1205292880861908992",
+				"name": "기후위기 아카이브",
+				"screen_name": "envsha",
+				"location": "Seoul, Republic of Korea",
+				"description": "심각해보이나요? ㅎㅎ 심각합니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10025,
+				"friends_count": 153,
+				"listed_count": 32,
+				"created_at": "Fri Dec 13 01:06:43 +0000 2019",
+				"favourites_count": 268,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1414,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1225959997961461760/Oh1TYxA7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225959997961461760/Oh1TYxA7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1205292880861908992/1576502224",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1511799016329080800,
+			"quoted_status_id_str": "1511799016329080833",
+			"quoted_status_permalink": {
+				"url": "https://t.co/r2ggndJMJY",
+				"expanded": "https://twitter.com/erstone7/status/1511799016329080833",
+				"display": "twitter.com/erstone7/statu…"
+			},
+			"retweet_count": 5503,
+			"favorite_count": 1477,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "현 체제의 경쟁 원리를 집어치우지 않으면 절대 해결할 수 없는 문제죠. 결국 개인 간, 기업 간, 국가 간 경쟁에 기반하기 때문에 독점 시스템 말고는 답이 없어요.\nhttps://t.co/K7wV79YmrI"
+	},
+	{
 		"created_at": "Tue Apr 05 00:55:38 +0000 2022",
 		"id": 1511145503584845800,
 		"id_str": "1511145503584845827",
