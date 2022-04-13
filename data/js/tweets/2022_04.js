@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 13 08:02:30 +0000 2022",
+		"id": 1432035657451401200,
+		"id_str": "1514152029895430147",
+		"full_text": "저도 생각나는대로 추가해 본 트위터어휘목록\n(스파이 주의)\n\n당연함\n훅 들어오다\n맥락맹\n공론화\n(new!)\n뇌에 힘주다\n-러\n가좍\n-함\n싸불\n과몰입\nmax\n뵤\n배덕감\n뭐드라\n빻았다\n박제\n플로우\n내적 친밀감\n스루\n마려움\n-에 진심 https://t.co/gaabJl53ZB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gaabJl53ZB",
+					"expanded_url": "https://twitter.com/luvlawpoverty/status/1431885651838787587",
+					"display_url": "twitter.com/luvlawpoverty/…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 842829023650562000,
+			"id_str": "842829023650562048",
+			"name": "⚡️당신이까먹은그거☝🏻Thiŋs🅤4got⚡️",
+			"screen_name": "muodraa",
+			"location": "DM/대화 중 질문 내용은 트위터에 게재될 수 있습니다",
+			"description": "\"(...) 망각의 순간을 포착해 문제를 해결하는 #뭐드라 는 누구나 하나 쯤 갖고 있을 어렴풋한 기억 속 동화 제목부터 언젠가 방문했던 사진 속 장소까지, 디지털 세대 이전의 사라진 기억들과 정보과잉 시대의 지식자원 파편화에 맞서 분투한다.\" -틍민정음 서문 발췌-",
+			"url": "https://t.co/odFb1NBOMP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/odFb1NBOMP",
+							"expanded_url": "http://mu.eonn.ga",
+							"display_url": "mu.eonn.ga",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3618,
+			"friends_count": 2591,
+			"listed_count": 12,
+			"created_at": "Fri Mar 17 20:04:33 +0000 2017",
+			"favourites_count": 11129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1428333119552180230/_B4wtwfF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1428333119552180230/_B4wtwfF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842829023650562048/1623507795",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1431885651838787600,
+		"quoted_status_id_str": "1431885651838787587",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gaabJl53ZB",
+			"expanded": "https://twitter.com/luvlawpoverty/status/1431885651838787587",
+			"display": "twitter.com/luvlawpoverty/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Aug 29 07:45:17 +0000 2021",
+			"id": 1431885651838787600,
+			"id_str": "1431885651838787587",
+			"full_text": "트위터어휘목록 용례 https://t.co/XrHGzT8CeZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				10
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1431885543806177300,
+						"id_str": "1431885543806177281",
+						"indices": [
+							11,
+							34
+						],
+						"media_url": "http://pbs.twimg.com/media/E98UUM2VkAE4LNB.png",
+						"media_url_https": "https://pbs.twimg.com/media/E98UUM2VkAE4LNB.png",
+						"url": "https://t.co/XrHGzT8CeZ",
+						"display_url": "pic.twitter.com/XrHGzT8CeZ",
+						"expanded_url": "https://twitter.com/luvlawpoverty/status/1431885651838787587/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 370,
+								"h": 840,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 300,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 370,
+								"h": 840,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1431885543806177300,
+						"id_str": "1431885543806177281",
+						"indices": [
+							11,
+							34
+						],
+						"media_url": "http://pbs.twimg.com/media/E98UUM2VkAE4LNB.png",
+						"media_url_https": "https://pbs.twimg.com/media/E98UUM2VkAE4LNB.png",
+						"url": "https://t.co/XrHGzT8CeZ",
+						"display_url": "pic.twitter.com/XrHGzT8CeZ",
+						"expanded_url": "https://twitter.com/luvlawpoverty/status/1431885651838787587/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 370,
+								"h": 840,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 300,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 370,
+								"h": 840,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1431884999641354200,
+			"in_reply_to_status_id_str": "1431884999641354241",
+			"in_reply_to_user_id": 1418396717104308200,
+			"in_reply_to_user_id_str": "1418396717104308225",
+			"in_reply_to_screen_name": "luvlawpoverty",
+			"user": {
+				"id": 1418396717104308200,
+				"id_str": "1418396717104308225",
+				"name": "horus in furs",
+				"screen_name": "luvlawpoverty",
+				"location": "",
+				"description": "cursed tweets",
+				"url": "https://t.co/HWqWRgaGeV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HWqWRgaGeV",
+								"expanded_url": "http://peing.net/ko/luvlawpoverty",
+								"display_url": "peing.net/ko/luvlawpover…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2669,
+				"friends_count": 176,
+				"listed_count": 9,
+				"created_at": "Fri Jul 23 02:25:15 +0000 2021",
+				"favourites_count": 6610,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10603,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1509817885367365632/sLMMR4mF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509817885367365632/sLMMR4mF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1418396717104308225/1649818988",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 154,
+			"favorite_count": 54,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 6,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저도 생각나는대로 추가해 본 트위터어휘목록\n(스파이 주의)\n\n당연함\n훅 들어오다\n맥락맹\n공론화\n(new!)\n뇌에 힘주다\n-러\n가좍\n-함\n싸불\n과몰입\nmax\n뵤\n배덕감\n뭐드라\n빻았다\n박제\n플로우\n내적 친밀감\n스루\n마려움\n-에 진심 https://t.co/gaabJl53ZB"
+	},
+	{
 		"created_at": "Fri Apr 08 23:55:39 +0000 2022",
 		"id": 1512579960695029800,
 		"id_str": "1512579960695029761",
