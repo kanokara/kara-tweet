@@ -1,6 +1,638 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 15 15:09:35 +0000 2022",
+		"id": 1513489300335308800,
+		"id_str": "1514984286264651782",
+		"full_text": "The RRP can help fund the upcoming deluge of coupon Treasuries, but it won't be easy. This post describes the two mechanisms through which it can happen, and suggests the Treasury market could hit an 'air pocket.'\n\nhttps://t.co/3kTjso6XyH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3kTjso6XyH",
+					"expanded_url": "https://fedguy.com/draining-the-rrp/",
+					"display_url": "fedguy.com/draining-the-r…",
+					"indices": [
+						215,
+						238
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 718702333,
+			"id_str": "718702333",
+			"name": "Joseph Wang",
+			"screen_name": "FedGuy12",
+			"location": "",
+			"description": "former senior fed trader. personal views only. not investment advice.",
+			"url": "https://t.co/lr0qLXd1Cv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lr0qLXd1Cv",
+							"expanded_url": "http://fedguy.com",
+							"display_url": "fedguy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33380,
+			"friends_count": 526,
+			"listed_count": 877,
+			"created_at": "Thu Jul 26 20:26:50 +0000 2012",
+			"favourites_count": 2826,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1297726161183703043/rJG1MfJk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1297726161183703043/rJG1MfJk_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 274,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The RRP can help fund the upcoming deluge of coupon Treasuries, but it won't be easy. This post describes the two mechanisms through which it can happen, and suggests the Treasury market could hit an 'air pocket.'\n\nhttps://t.co/3kTjso6XyH"
+	},
+	{
+		"created_at": "Fri Apr 15 15:09:13 +0000 2022",
+		"id": 1514639097280741400,
+		"id_str": "1514984195181137921",
+		"full_text": "how market turmoil will affect them on a systemic risk/solvency basis. After all the Fed was created because fractional reserve banking works fine as long as no one starts to panic.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1514639094588002300,
+		"in_reply_to_status_id_str": "1514639094588002323",
+		"in_reply_to_user_id": 1955426832,
+		"in_reply_to_user_id_str": "1955426832",
+		"in_reply_to_screen_name": "BimetallismBro",
+		"user": {
+			"id": 1955426832,
+			"id_str": "1955426832",
+			"name": "Bimetallism Bro",
+			"screen_name": "BimetallismBro",
+			"location": "USA",
+			"description": "🇺🇸🇨🇭 Libertarian. Austrian Econ. Hard Assets. Value/Dividends Investor. Charts. Central banking critic. Geopolitics. #Gold #Silver #Bitcoin",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 586,
+			"friends_count": 1473,
+			"listed_count": 20,
+			"created_at": "Sat Oct 12 01:45:03 +0000 2013",
+			"favourites_count": 20517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19305,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1286096028911964161/0uETTuLI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1286096028911964161/0uETTuLI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1955426832/1586889614",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "how market turmoil will affect them on a systemic risk/solvency basis. After all the Fed was created because fractional reserve banking works fine as long as no one starts to panic."
+	},
+	{
+		"created_at": "Fri Apr 15 15:08:26 +0000 2022",
+		"id": 1514627287999729700,
+		"id_str": "1514983995427389442",
+		"full_text": "When the Fed did QT last time, banks could absorb a lot of the difference. However, US commercial banks now have the highest percentage of their assets in Treasuries in modern history.\n\nThe US needs the foreign bid for Treasuries to pick up, otherwise QT could get pretty awkward. https://t.co/JJAwvNYfvP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1514625599133864000,
+					"id_str": "1514625599133863939",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FQUH9SQWUAMCjfC.png",
+					"media_url_https": "https://pbs.twimg.com/media/FQUH9SQWUAMCjfC.png",
+					"url": "https://t.co/JJAwvNYfvP",
+					"display_url": "pic.twitter.com/JJAwvNYfvP",
+					"expanded_url": "https://twitter.com/LynAldenContact/status/1514627287999729668/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 682,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 682,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514625599133864000,
+					"id_str": "1514625599133863939",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FQUH9SQWUAMCjfC.png",
+					"media_url_https": "https://pbs.twimg.com/media/FQUH9SQWUAMCjfC.png",
+					"url": "https://t.co/JJAwvNYfvP",
+					"display_url": "pic.twitter.com/JJAwvNYfvP",
+					"expanded_url": "https://twitter.com/LynAldenContact/status/1514627287999729668/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 682,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 682,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1514627285164376000,
+		"in_reply_to_status_id_str": "1514627285164376069",
+		"in_reply_to_user_id": 823766058909761500,
+		"in_reply_to_user_id_str": "823766058909761536",
+		"in_reply_to_screen_name": "LynAldenContact",
+		"user": {
+			"id": 823766058909761500,
+			"id_str": "823766058909761536",
+			"name": "Lyn Alden",
+			"screen_name": "LynAldenContact",
+			"location": "",
+			"description": "Founder of Lyn Alden Investment Strategy. Fundamental investing with a global macro overlay. Finance/Engineering blended background.",
+			"url": "https://t.co/0HTJ9b37aL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0HTJ9b37aL",
+							"expanded_url": "https://www.lynalden.com",
+							"display_url": "lynalden.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 400571,
+			"friends_count": 324,
+			"listed_count": 6991,
+			"created_at": "Tue Jan 24 05:35:08 +0000 2017",
+			"favourites_count": 10506,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11087,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366094142405812234/LCWXc4QQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366094142405812234/LCWXc4QQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/823766058909761536/1500768020",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 480,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When the Fed did QT last time, banks could absorb a lot of the difference. However, US commercial banks now have the highest percentage of their assets in Treasuries in modern history.\n\nThe US needs the foreign bid for Treasuries to pick up, otherwise QT could get pretty awkward. https://t.co/JJAwvNYfvP"
+	},
+	{
+		"created_at": "Fri Apr 15 15:08:14 +0000 2022",
+		"id": 1514627285164376000,
+		"id_str": "1514983945628426245",
+		"full_text": "Other than the Fed, US commercial banks have been the biggest Treasury buyers since 2020.\n\nSome analysts like @FedGuy12 are concerned that banks will be unable to support the Treasury market at some point, and I agree. When the Fed attempts QT, this is an area to watch. https://t.co/GpwjdktbUw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FedGuy12",
+					"name": "Joseph Wang",
+					"id": 718702333,
+					"id_str": "718702333",
+					"indices": [
+						110,
+						119
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1514624538830590000,
+					"id_str": "1514624538830589956",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/FQUG_kUWUAQEM2J.png",
+					"media_url_https": "https://pbs.twimg.com/media/FQUG_kUWUAQEM2J.png",
+					"url": "https://t.co/GpwjdktbUw",
+					"display_url": "pic.twitter.com/GpwjdktbUw",
+					"expanded_url": "https://twitter.com/LynAldenContact/status/1514627285164376069/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 682,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 682,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1514624538830590000,
+					"id_str": "1514624538830589956",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/FQUG_kUWUAQEM2J.png",
+					"media_url_https": "https://pbs.twimg.com/media/FQUG_kUWUAQEM2J.png",
+					"url": "https://t.co/GpwjdktbUw",
+					"display_url": "pic.twitter.com/GpwjdktbUw",
+					"expanded_url": "https://twitter.com/LynAldenContact/status/1514627285164376069/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 682,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 682,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 823766058909761500,
+			"id_str": "823766058909761536",
+			"name": "Lyn Alden",
+			"screen_name": "LynAldenContact",
+			"location": "",
+			"description": "Founder of Lyn Alden Investment Strategy. Fundamental investing with a global macro overlay. Finance/Engineering blended background.",
+			"url": "https://t.co/0HTJ9b37aL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0HTJ9b37aL",
+							"expanded_url": "https://www.lynalden.com",
+							"display_url": "lynalden.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 400571,
+			"friends_count": 324,
+			"listed_count": 6991,
+			"created_at": "Tue Jan 24 05:35:08 +0000 2017",
+			"favourites_count": 10506,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11087,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366094142405812234/LCWXc4QQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366094142405812234/LCWXc4QQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/823766058909761536/1500768020",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 127,
+		"favorite_count": 690,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Other than the Fed, US commercial banks have been the biggest Treasury buyers since 2020.\n\nSome analysts like @FedGuy12 are concerned that banks will be unable to support the Treasury market at some point, and I agree. When the Fed attempts QT, this is an area to watch. https://t.co/GpwjdktbUw"
+	},
+	{
+		"created_at": "Fri Apr 15 14:53:12 +0000 2022",
+		"id": 1514853799373926400,
+		"id_str": "1514980164161400837",
+		"full_text": "古い意味でのオタクは、膨大な知識と修練を経ているけど、近年の推し型のオタクは、愛(情念)による一点突破ができる。それは、前者の年齢的優位に基づくマウンティングに対する、後発世代のある種のプロテストにもなっている。なるほど。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1084462628053741600,
+			"id_str": "1084462628053741568",
+			"name": "杉田俊介",
+			"screen_name": "sssugita",
+			"location": "",
+			"description": "批評家。『フリーターにとって自由とは何か』『無能力批評』『宮崎駿論』『長渕剛論』『非モテの品格』『宇多田ヒカル論』『ジョジョ論』『戦争と虚構』『安彦良和の戦争と平和』『ドラえもん論』『人志とたけし』。共著『フリーターズフリー』『相模原障害者殺傷事件』『対抗言論』等。sssugita@hotmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4529,
+			"friends_count": 313,
+			"listed_count": 70,
+			"created_at": "Sun Jan 13 14:50:13 +0000 2019",
+			"favourites_count": 1760,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1221775476764446725/HC_xA86Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221775476764446725/HC_xA86Q_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 156,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "古い意味でのオタクは、膨大な知識と修練を経ているけど、近年の推し型のオタクは、愛(情念)による一点突破ができる。それは、前者の年齢的優位に基づくマウンティングに対する、後発世代のある種のプロテストにもなっている。なるほど。"
+	},
+	{
 		"created_at": "Wed Apr 13 08:02:30 +0000 2022",
 		"id": 1432035657451401200,
 		"id_str": "1514152029895430147",
