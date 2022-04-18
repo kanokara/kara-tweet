@@ -1,6 +1,666 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 18 16:59:31 +0000 2022",
+		"id": 1516099116350468000,
+		"id_str": "1516099116350468101",
+		"full_text": "이 간극은 서구식 개인주의와 일본식 개인주의로 대별되는 공동체와의 관계맺음과 동서양 사고방식의 차.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1516098785327591400,
+		"in_reply_to_status_id_str": "1516098785327591424",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이 간극은 서구식 개인주의와 일본식 개인주의로 대별되는 공동체와의 관계맺음과 동서양 사고방식의 차."
+	},
+	{
+		"created_at": "Mon Apr 18 16:58:12 +0000 2022",
+		"id": 1516098785327591400,
+		"id_str": "1516098785327591424",
+		"full_text": "인류의 통합과 번영은 언제나 소수파 정체성의 양보, 또는 말살로 이루어져 왔어요. 20세기 중후반의 진보, 또는 이완은 꿈결처럼 행복한 시기였지만... 서구 사상은 더 이상 해법이 될 수 없고, 최선의 모델은 기묘하게 마이너리티가 존중된다는 일본의 그것.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "인류의 통합과 번영은 언제나 소수파 정체성의 양보, 또는 말살로 이루어져 왔어요. 20세기 중후반의 진보, 또는 이완은 꿈결처럼 행복한 시기였지만... 서구 사상은 더 이상 해법이 될 수 없고, 최선의 모델은 기묘하게 마이너리티가 존중된다는 일본의 그것."
+	},
+	{
+		"created_at": "Mon Apr 18 16:52:27 +0000 2022",
+		"id": 1516097336929583000,
+		"id_str": "1516097336929583105",
+		"full_text": "\"촘스키 교수는 그러면서 \"이런 협상을 좋아하지 않을 수도 있다. 내일 허리케인이 온다는 사실을 좋아하지 않을지라도 '허리케인이 좋지 않아', 또는 '허리케인을 인정하지 않아'라는 말로는 허리케인이 들이닥치는 것을 멈출 수 없다\"고 강조했다.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "\"촘스키 교수는 그러면서 \"이런 협상을 좋아하지 않을 수도 있다. 내일 허리케인이 온다는 사실을 좋아하지 않을지라도 '허리케인이 좋지 않아', 또는 '허리케인을 인정하지 않아'라는 말로는 허리케인이 들이닥치는 것을 멈출 수 없다\"고 강조했다.\""
+	},
+	{
+		"created_at": "Mon Apr 18 16:52:07 +0000 2022",
+		"id": 1515896533107212300,
+		"id_str": "1516097251009265665",
+		"full_text": "반전 지성인 촘스키 \"핵전쟁 피하려면 우크라가 러에 양보해야\" https://t.co/3uuka9FPTB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3uuka9FPTB",
+					"expanded_url": "https://www.yna.co.kr/view/AKR20220418080700009?input=tw",
+					"display_url": "yna.co.kr/view/AKR202204…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.yonhapnews.co.kr\" rel=\"nofollow\">Yonhap News</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147451838,
+			"id_str": "147451838",
+			"name": "연합뉴스",
+			"screen_name": "yonhaptweet",
+			"location": "대한민국 서울",
+			"description": "[홈페이지] https://t.co/1xjsaY9KNh  \n제보는 카카오톡, 라인, 위챗 okjebo",
+			"url": "https://t.co/1xjsaY9KNh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1xjsaY9KNh",
+							"expanded_url": "https://www.yna.co.kr",
+							"display_url": "yna.co.kr",
+							"indices": [
+								7,
+								30
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 346674,
+			"friends_count": 68069,
+			"listed_count": 4541,
+			"created_at": "Mon May 24 05:08:01 +0000 2010",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 269102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/557097098739343360/20O5papR_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147451838/1548822583",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "반전 지성인 촘스키 \"핵전쟁 피하려면 우크라가 러에 양보해야\" https://t.co/3uuka9FPTB"
+	},
+	{
+		"created_at": "Mon Apr 18 16:36:15 +0000 2022",
+		"id": 1516093258711302100,
+		"id_str": "1516093258711302145",
+		"full_text": "두 가지의 사회적 책임/역할을 해체하는 운동 중 신자유주의 따위보다 신좌파야말로 이 사회의 토대를 결정적으로 무너트리는 동력. 그들이 '억압'이라 해석하는 '책임'을 받아들이고 사회의 일원이 되어야 함을, 그것이 비록 불균등할지라도 어른으로서 서야만 함을.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1516089499490857000,
+		"in_reply_to_status_id_str": "1516089499490856966",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "두 가지의 사회적 책임/역할을 해체하는 운동 중 신자유주의 따위보다 신좌파야말로 이 사회의 토대를 결정적으로 무너트리는 동력. 그들이 '억압'이라 해석하는 '책임'을 받아들이고 사회의 일원이 되어야 함을, 그것이 비록 불균등할지라도 어른으로서 서야만 함을."
+	},
+	{
+		"created_at": "Mon Apr 18 16:21:18 +0000 2022",
+		"id": 1516089499490857000,
+		"id_str": "1516089499490856966",
+		"full_text": "반체제적인 분열적 정체성과 도덕관을 내세우는 신좌파는 끔찍하기 짝이 없어요. 사회를 죽음으로 몰아세우는 반사회적 사회주의자들이라니. 마이너리티의 연대 같은 개소리는 집어치워. 파국이 다가오고 있는 게 정말 안 보이는 거야?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1516087168460279800,
+		"in_reply_to_status_id_str": "1516087168460279809",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "반체제적인 분열적 정체성과 도덕관을 내세우는 신좌파는 끔찍하기 짝이 없어요. 사회를 죽음으로 몰아세우는 반사회적 사회주의자들이라니. 마이너리티의 연대 같은 개소리는 집어치워. 파국이 다가오고 있는 게 정말 안 보이는 거야?"
+	},
+	{
+		"created_at": "Mon Apr 18 16:12:16 +0000 2022",
+		"id": 1514756263103668200,
+		"id_str": "1516087222998810624",
+		"full_text": "Social media has dissolved the mortar of our society and made America stupid, @JonHaidt argues. It’s not just a phase:\n\nhttps://t.co/o2eSLaGAn0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JonHaidt",
+					"name": "Jonathan Haidt",
+					"id": 106204123,
+					"id_str": "106204123",
+					"indices": [
+						78,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/o2eSLaGAn0",
+					"expanded_url": "http://on.theatln.tc/ZhzpUXM",
+					"display_url": "on.theatln.tc/ZhzpUXM",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35773039,
+			"id_str": "35773039",
+			"name": "The Atlantic",
+			"screen_name": "TheAtlantic",
+			"location": "",
+			"description": "Exploring the American idea through ambitious, essential reporting and storytelling. Of no party or clique since 1857. https://t.co/uHeZCz8ahz",
+			"url": "https://t.co/j4JSgDlv80",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j4JSgDlv80",
+							"expanded_url": "http://theatlantic.com/subscribe",
+							"display_url": "theatlantic.com/subscribe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uHeZCz8ahz",
+							"expanded_url": "http://theatlantic.com",
+							"display_url": "theatlantic.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2150486,
+			"friends_count": 1085,
+			"listed_count": 30955,
+			"created_at": "Mon Apr 27 15:41:54 +0000 2009",
+			"favourites_count": 484,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 205438,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194197788273315845/AA0O_yzc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194197788273315845/AA0O_yzc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35773039/1573659023",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "BFBFBF",
+			"profile_sidebar_fill_color": "E6ECF2",
+			"profile_text_color": "000408",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 140,
+		"favorite_count": 419,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Social media has dissolved the mortar of our society and made America stupid, @JonHaidt argues. It’s not just a phase:\n\nhttps://t.co/o2eSLaGAn0"
+	},
+	{
 		"created_at": "Sun Apr 17 16:46:16 +0000 2022",
 		"id": 1515733394348712000,
 		"id_str": "1515733394348711938",
