@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 21 17:45:39 +0000 2022",
+		"id": 1516978486774313000,
+		"id_str": "1517197887205408768",
+		"full_text": "평소에도 재밌는 글을 쓰지만 경제/군사 분석은 다소 허술한 면이 있었던 것에 비해 이번에는 본인의 전공분야라 그런지 특히 흥미로웠음. https://t.co/zlntHPmsT8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zlntHPmsT8",
+					"expanded_url": "https://twitter.com/kamilkazani/status/1516162437455654913",
+					"display_url": "twitter.com/kamilkazani/st…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 716136496873414700,
+			"id_str": "716136496873414656",
+			"name": "mejiro.eth",
+			"screen_name": "mejiroth",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 32,
+			"listed_count": 1,
+			"created_at": "Sat Apr 02 05:33:40 +0000 2016",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1489505781804326917/aireI_MP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1489505781804326917/aireI_MP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/716136496873414656/1643511248",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1516162437455655000,
+		"quoted_status_id_str": "1516162437455654913",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zlntHPmsT8",
+			"expanded": "https://twitter.com/kamilkazani/status/1516162437455654913",
+			"display": "twitter.com/kamilkazani/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 18 21:11:08 +0000 2022",
+			"id": 1516162437455655000,
+			"id_str": "1516162437455654913",
+			"full_text": "War of memes: why Z-war won't end with peace\n\nSome Western analysts unfamiliar with Eastern European cultural context perceive Z-war as an accident. They presume that Russian invasion results from some sort of \"misunderstanding\" or mistake which can be resolved via negotiations🧵 https://t.co/diHMDIpvu0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1516162428710531000,
+						"id_str": "1516162428710531072",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/FQp9sikVsAA53ZR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQp9sikVsAA53ZR.jpg",
+						"url": "https://t.co/diHMDIpvu0",
+						"display_url": "pic.twitter.com/diHMDIpvu0",
+						"expanded_url": "https://twitter.com/kamilkazani/status/1516162437455654913/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 982,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 556,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1222,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1516162428710531000,
+						"id_str": "1516162428710531072",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/FQp9sikVsAA53ZR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQp9sikVsAA53ZR.jpg",
+						"url": "https://t.co/diHMDIpvu0",
+						"display_url": "pic.twitter.com/diHMDIpvu0",
+						"expanded_url": "https://twitter.com/kamilkazani/status/1516162437455654913/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 982,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 556,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1222,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1364845405,
+				"id_str": "1364845405",
+				"name": "Kamil Galeev",
+				"screen_name": "kamilkazani",
+				"location": "Washington DC",
+				"description": "Galina Starovoitova Fellow @TheWilsonCenter. MLitt in Early Modern History, St Andrews. MA in China Studies, Peking University",
+				"url": "https://t.co/6OBt3wu1gR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6OBt3wu1gR",
+								"expanded_url": "https://kamilkazani.substack.com",
+								"display_url": "kamilkazani.substack.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 326943,
+				"friends_count": 576,
+				"listed_count": 5752,
+				"created_at": "Fri Apr 19 16:30:08 +0000 2013",
+				"favourites_count": 1085,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3674,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1482496939966877696/UkcBGHrh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1482496939966877696/UkcBGHrh_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5701,
+			"favorite_count": 16039,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "평소에도 재밌는 글을 쓰지만 경제/군사 분석은 다소 허술한 면이 있었던 것에 비해 이번에는 본인의 전공분야라 그런지 특히 흥미로웠음. https://t.co/zlntHPmsT8"
+	},
+	{
 		"created_at": "Wed Apr 20 19:57:09 +0000 2022",
 		"id": 1516805723501789200,
 		"id_str": "1516868591878295552",
