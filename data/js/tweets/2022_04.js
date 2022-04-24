@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sun Apr 24 00:25:35 +0000 2022",
+		"id": 1515627296123924500,
+		"id_str": "1518023310680158208",
+		"full_text": "일러스트레이터, 웹툰작가의 장비 세팅, 추천 정리했습니다.\n신티크프로, 모니터,키보드, 마우스, 발받침대, 손목보호대 등등 대충 눈에보이는대로 썼습니다\n대충 분노의 개빡침 있습니다 주의\nhttps://t.co/9DNzpvAAhZ https://t.co/sCjWFwhhKS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9DNzpvAAhZ",
+					"expanded_url": "https://blog.naver.com/reagans2/222703309688",
+					"display_url": "blog.naver.com/reagans2/22270…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1515624644434620400,
+					"id_str": "1515624644434620418",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FQiUlYBacAIFqSc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQiUlYBacAIFqSc.jpg",
+					"url": "https://t.co/sCjWFwhhKS",
+					"display_url": "pic.twitter.com/sCjWFwhhKS",
+					"expanded_url": "https://twitter.com/emernea/status/1515627296123924483/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1515624644434620400,
+					"id_str": "1515624644434620418",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FQiUlYBacAIFqSc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQiUlYBacAIFqSc.jpg",
+					"url": "https://t.co/sCjWFwhhKS",
+					"display_url": "pic.twitter.com/sCjWFwhhKS",
+					"expanded_url": "https://twitter.com/emernea/status/1515627296123924483/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 323062448,
+			"id_str": "323062448",
+			"name": "영원한 마감의 리건 😌",
+			"screen_name": "emernea",
+			"location": "그림연습계:reagan1120",
+			"description": "◆CONTACT : reagans2@naver.com   ◆Don't use my art without permission               ◆장르팔로 비추",
+			"url": "https://t.co/CbAWtTwatW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CbAWtTwatW",
+							"expanded_url": "https://www.instagram.com/reagans2/",
+							"display_url": "instagram.com/reagans2/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5402,
+			"friends_count": 285,
+			"listed_count": 30,
+			"created_at": "Fri Jun 24 05:45:14 +0000 2011",
+			"favourites_count": 6142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 106231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E8F5F2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1511743707678408706/BvpuHvRX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1511743707678408706/BvpuHvRX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/323062448/1649262761",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5468,
+		"favorite_count": 5044,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일러스트레이터, 웹툰작가의 장비 세팅, 추천 정리했습니다.\n신티크프로, 모니터,키보드, 마우스, 발받침대, 손목보호대 등등 대충 눈에보이는대로 썼습니다\n대충 분노의 개빡침 있습니다 주의\nhttps://t.co/9DNzpvAAhZ https://t.co/sCjWFwhhKS"
+	},
+	{
 		"created_at": "Sun Apr 24 00:01:17 +0000 2022",
 		"id": 1515611547753599000,
 		"id_str": "1518017196634435584",
