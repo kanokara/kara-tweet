@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sun Apr 24 00:01:17 +0000 2022",
+		"id": 1515611547753599000,
+		"id_str": "1518017196634435584",
+		"full_text": "가디언 @guardian 은 언제 시민들한테 설문 돌려서 모아서 분석하고 기사내다보면 폭염에 다시 에너지위기와 인플레가 올텐데 원인 분석 미리해놔야지..\n\n두 번 이야기 안 할테니까 지난 가을에 영국에서 시작된 글로벌 에너지 위기가 왜 왔는지 타래로 설명해줄께... https://t.co/dBJou0xMa7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						4,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dBJou0xMa7",
+					"expanded_url": "https://twitter.com/guardian/status/1515595919202283528",
+					"display_url": "twitter.com/guardian/statu…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 62760345,
+			"id_str": "62760345",
+			"name": "새벽노을",
+			"screen_name": "383174U",
+			"location": "",
+			"description": "운이 좋았을 수도 있지만, 우연히 생긴 일은 아니다. https://t.co/6uBHbJ8Lve",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6uBHbJ8Lve",
+							"expanded_url": "https://blog.naver.com/ginius94",
+							"display_url": "blog.naver.com/ginius94",
+							"indices": [
+								30,
+								53
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2834,
+			"friends_count": 181,
+			"listed_count": 64,
+			"created_at": "Tue Aug 04 08:35:28 +0000 2009",
+			"favourites_count": 8619,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 192247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1161865377019600897/V56RSN3s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161865377019600897/V56RSN3s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/62760345/1552293901",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1515595919202283500,
+		"quoted_status_id_str": "1515595919202283528",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dBJou0xMa7",
+			"expanded": "https://twitter.com/guardian/status/1515595919202283528",
+			"display": "twitter.com/guardian/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 17 07:40:00 +0000 2022",
+			"id": 1515595919202283500,
+			"id_str": "1515595919202283528",
+			"full_text": "Cost of food in the UK: tell us the price difference compared with last year https://t.co/jwqmYEG9GU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				100
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jwqmYEG9GU",
+						"expanded_url": "https://www.theguardian.com/business/2022/apr/05/cost-of-food-in-the-uk-tell-us-the-price-difference-compared-with-last-year?CMP=share_btn_tw",
+						"display_url": "theguardian.com/business/2022/…",
+						"indices": [
+							77,
+							100
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 87818409,
+				"id_str": "87818409",
+				"name": "The Guardian",
+				"screen_name": "guardian",
+				"location": "London",
+				"description": "The need for independent journalism has never been greater. Become a Guardian supporter: https://t.co/gWyuUVlObq",
+				"url": "https://t.co/c53pnmnuIT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/c53pnmnuIT",
+								"expanded_url": "https://www.theguardian.com",
+								"display_url": "theguardian.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/gWyuUVlObq",
+								"expanded_url": "https://support.theguardian.com",
+								"display_url": "support.theguardian.com",
+								"indices": [
+									89,
+									112
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10442485,
+				"friends_count": 1061,
+				"listed_count": 4,
+				"created_at": "Thu Nov 05 23:49:19 +0000 2009",
+				"favourites_count": 141,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 742979,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1175141826870861825/K2qKoGla_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175141826870861825/K2qKoGla_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/87818409/1620214786",
+				"profile_link_color": "005789",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CAE3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 39,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 348,
+		"favorite_count": 361,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "가디언 @guardian 은 언제 시민들한테 설문 돌려서 모아서 분석하고 기사내다보면 폭염에 다시 에너지위기와 인플레가 올텐데 원인 분석 미리해놔야지..\n\n두 번 이야기 안 할테니까 지난 가을에 영국에서 시작된 글로벌 에너지 위기가 왜 왔는지 타래로 설명해줄께... https://t.co/dBJou0xMa7"
+	},
+	{
 		"created_at": "Sat Apr 23 22:59:11 +0000 2022",
 		"id": 1518001567223455700,
 		"id_str": "1518001567223455745",
