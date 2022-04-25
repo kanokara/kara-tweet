@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 25 03:32:52 +0000 2022",
+		"id": 1446124999832576000,
+		"id_str": "1518432829264199681",
+		"full_text": "@d_alicante 엌ㅋㅋㅋ 맞아요 저도 언젠가부터 그냥 시뮬레이션 돌리는 걸로 인생 그냥 다 퉁치고 사는 거 같아요 (이대로 살아도 괜찮은 것인가..)",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "d_alicante",
+					"name": "dahyeh lee 이다혜 ੯‧̀͡u\\",
+					"id": 351514953,
+					"id_str": "351514953",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1446019000857555000,
+		"in_reply_to_status_id_str": "1446019000857554951",
+		"in_reply_to_user_id": 351514953,
+		"in_reply_to_user_id_str": "351514953",
+		"in_reply_to_screen_name": "d_alicante",
+		"user": {
+			"id": 141659122,
+			"id_str": "141659122",
+			"name": "박작가",
+			"screen_name": "antipoint",
+			"location": "",
+			"description": "극 씁니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147327,
+			"friends_count": 417,
+			"listed_count": 570,
+			"created_at": "Sat May 08 17:26:11 +0000 2010",
+			"favourites_count": 2512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088047491415605248/WzQK9WPe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088047491415605248/WzQK9WPe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141659122/1602855731",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@d_alicante 엌ㅋㅋㅋ 맞아요 저도 언젠가부터 그냥 시뮬레이션 돌리는 걸로 인생 그냥 다 퉁치고 사는 거 같아요 (이대로 살아도 괜찮은 것인가..)"
+	},
+	{
+		"created_at": "Mon Apr 25 03:32:48 +0000 2022",
+		"id": 1446018037304344600,
+		"id_str": "1518432813468745728",
+		"full_text": "@d_alicante 맞아요 ㅎㅎ 체력 딸려서 마음에만 적어두고 그냥 있는건데 이제 기억력도 떨어져서 맘속에 적어둔 것도 곧 까먹음… 결론은 어쩐지 기력없는 사람=너그러운 사람이 되어버리는 것..",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "d_alicante",
+					"name": "dahyeh lee 이다혜 ੯‧̀͡u\\",
+					"id": 351514953,
+					"id_str": "351514953",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1446015059348521000,
+		"in_reply_to_status_id_str": "1446015059348520962",
+		"in_reply_to_user_id": 351514953,
+		"in_reply_to_user_id_str": "351514953",
+		"in_reply_to_screen_name": "d_alicante",
+		"user": {
+			"id": 141659122,
+			"id_str": "141659122",
+			"name": "박작가",
+			"screen_name": "antipoint",
+			"location": "",
+			"description": "극 씁니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147327,
+			"friends_count": 417,
+			"listed_count": 570,
+			"created_at": "Sat May 08 17:26:11 +0000 2010",
+			"favourites_count": 2512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088047491415605248/WzQK9WPe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088047491415605248/WzQK9WPe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141659122/1602855731",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@d_alicante 맞아요 ㅎㅎ 체력 딸려서 마음에만 적어두고 그냥 있는건데 이제 기억력도 떨어져서 맘속에 적어둔 것도 곧 까먹음… 결론은 어쩐지 기력없는 사람=너그러운 사람이 되어버리는 것.."
+	},
+	{
 		"created_at": "Sun Apr 24 23:58:41 +0000 2022",
 		"id": 1518378928280588300,
 		"id_str": "1518378928280588288",
