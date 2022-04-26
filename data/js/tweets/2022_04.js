@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 26 17:35:58 +0000 2022",
+		"id": 1518928638301081600,
+		"id_str": "1519007389621841921",
+		"full_text": "잠깐 찾아보니고사성어는 아니지만 무협지 기술 이름도 아니다.\n同歸於盡으로 검색하면 대만 교육청 주소를 가진 사전이 나온다.\nhttps://t.co/9Or2G7fQBj\n이에 따르면 崇禎本金瓶梅 등에서 동귀어진이 언급되는데, 이걸 찾아보니 금병매의 챕터 명이다. 금병매는 고서는 아니지만 중국 사대기서다. https://t.co/3pispXKZEf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9Or2G7fQBj",
+					"expanded_url": "https://pedia.cloud.edu.tw/Entry/Detail/?title=%E5%90%8C%E6%AD%B8%E6%96%BC%E7%9B%A1",
+					"display_url": "pedia.cloud.edu.tw/Entry/Detail/?…",
+					"indices": [
+						69,
+						92
+					]
+				},
+				{
+					"url": "https://t.co/3pispXKZEf",
+					"expanded_url": "https://twitter.com/mozzzzza_rella/status/1518844162132819968",
+					"display_url": "twitter.com/mozzzzza_rella…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 57750599,
+			"id_str": "57750599",
+			"name": "용가리",
+			"screen_name": "yonggary",
+			"location": "",
+			"description": "716도 503도 버틴 계정인데...버텨주마.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 1068,
+			"listed_count": 1,
+			"created_at": "Fri Jul 17 20:38:27 +0000 2009",
+			"favourites_count": 103008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509915389597462530/0NWrLJTl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509915389597462530/0NWrLJTl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/57750599/1648826857",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1518844162132820000,
+		"quoted_status_id_str": "1518844162132819968",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3pispXKZEf",
+			"expanded": "https://twitter.com/mozzzzza_rella/status/1518844162132819968",
+			"display": "twitter.com/mozzzzza_rella…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 26 06:47:21 +0000 2022",
+			"id": 1518844162132820000,
+			"id_str": "1518844162132819968",
+			"full_text": "오늘의 충격...\n'동귀어진'은 고사성어가 아니었다. 무협지 기술 이름이라고.... 그러니까 만독불침, 금강불괴 이런 용어들이랑 같은 단어고 고사성어는 아니었던 것이다.\n깨달음의 길은 끝이 없나니.... https://t.co/yLBQEA6Emo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				113
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1518844157988839400,
+						"id_str": "1518844157988839425",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/FRQEtuoaIAEE9E6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRQEtuoaIAEE9E6.jpg",
+						"url": "https://t.co/yLBQEA6Emo",
+						"display_url": "pic.twitter.com/yLBQEA6Emo",
+						"expanded_url": "https://twitter.com/mozzzzza_rella/status/1518844162132819968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 674,
+								"h": 329,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 674,
+								"h": 329,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 674,
+								"h": 329,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1518844157988839400,
+						"id_str": "1518844157988839425",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/FRQEtuoaIAEE9E6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRQEtuoaIAEE9E6.jpg",
+						"url": "https://t.co/yLBQEA6Emo",
+						"display_url": "pic.twitter.com/yLBQEA6Emo",
+						"expanded_url": "https://twitter.com/mozzzzza_rella/status/1518844162132819968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 674,
+								"h": 329,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 674,
+								"h": 329,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 674,
+								"h": 329,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 818479187379880000,
+				"id_str": "818479187379879936",
+				"name": "🌱표고버섯🐾안정은 루틴에서",
+				"screen_name": "mozzzzza_rella",
+				"location": "💎에오르제아 ⛩로랑신사 ✋모리오초",
+				"description": "프리랜서 번역가(🇰🇷🇬🇧🇯🇵) 문학, 게임, 문화컨텐츠 인도네시아어🇮🇩공부중! 🇨🇵🇨🇳 얘네는 발만 담가봄 동물권/인권/환경 🐾🌿 채식지향인 몸건강 정신건강 지갑건강🥳",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 147,
+				"friends_count": 88,
+				"listed_count": 1,
+				"created_at": "Mon Jan 09 15:26:59 +0000 2017",
+				"favourites_count": 775,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10392,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1303851511789678592/CUi7ujjv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1303851511789678592/CUi7ujjv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/818479187379879936/1553208170",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3236,
+			"favorite_count": 985,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 35,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠깐 찾아보니고사성어는 아니지만 무협지 기술 이름도 아니다.\n同歸於盡으로 검색하면 대만 교육청 주소를 가진 사전이 나온다.\nhttps://t.co/9Or2G7fQBj\n이에 따르면 崇禎本金瓶梅 등에서 동귀어진이 언급되는데, 이걸 찾아보니 금병매의 챕터 명이다. 금병매는 고서는 아니지만 중국 사대기서다. https://t.co/3pispXKZEf"
+	},
+	{
 		"created_at": "Tue Apr 26 04:09:42 +0000 2022",
 		"id": 1518804487401799700,
 		"id_str": "1518804487401799681",
