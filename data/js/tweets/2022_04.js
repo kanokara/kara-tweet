@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sat Apr 30 02:04:26 +0000 2022",
+		"id": 1519960409700114400,
+		"id_str": "1520222514567610368",
+		"full_text": "커다란 곳간에 양곡을 가득 쌓아 놓은 지주가 마을에 기근이 여러 차례 왔는데 한톨도 풀지 않고 방관하다가, 오년 후에 곳간 문을 열어 “이야 반 정도 밖에 안 썩고 이만큼이나 남았네” 하면서 뿌듯해 하고 있다. 문재인 정권의 지지율에 대한 태도를 보면 드는 생각이다. https://t.co/5QK9QTgfUp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5QK9QTgfUp",
+					"expanded_url": "https://twitter.com/bawerk/status/1519957722317291520",
+					"display_url": "twitter.com/bawerk/status/…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33403373,
+			"id_str": "33403373",
+			"name": "이주민 / Jumin Lee",
+			"screen_name": "oldtype",
+			"location": "Los Angeles, CA",
+			"description": "미국사는 한국인 미국변호사 // 손변호사님 남편, 큰딸(강아지)와 작은딸(사람)의 아빠 // 저자: “왜 차별금지법인가\" 전국 주요 서점에서 찾아보실 수 있습니다.",
+			"url": "https://t.co/CxwgihQY4M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CxwgihQY4M",
+							"expanded_url": "http://brunch.co.kr/@oldtype09",
+							"display_url": "brunch.co.kr/@oldtype09",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3769,
+			"friends_count": 803,
+			"listed_count": 67,
+			"created_at": "Mon Apr 20 03:18:51 +0000 2009",
+			"favourites_count": 171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498223901465219075/awMFiTiK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498223901465219075/awMFiTiK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33403373/1515822638",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1519957722317291500,
+		"quoted_status_id_str": "1519957722317291520",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5QK9QTgfUp",
+			"expanded": "https://twitter.com/bawerk/status/1519957722317291520",
+			"display": "twitter.com/bawerk/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 29 08:32:15 +0000 2022",
+			"id": 1519957722317291500,
+			"id_str": "1519957722317291520",
+			"full_text": "대통령의 국정 수행 지지도(job approval rating) 자체가 목적이 될  수 있나? 그건 해당 대통령이 이루고자 하는 정치적 의제를 위해서 소진해야 할 국정 동력, 정치적 자본(political capital)으로서의 의미가 있을 뿐. 그러나, 문재인정권은 결국 위 지지도로 아.무.것.도. 안했다는 게 진짜 문제! https://t.co/8dIgw5Q2zb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				182
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8dIgw5Q2zb",
+						"expanded_url": "https://twitter.com/yonhaptweet/status/1519954477650182144",
+						"display_url": "twitter.com/yonhaptweet/st…",
+						"indices": [
+							183,
+							206
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 146748385,
+				"id_str": "146748385",
+				"name": "소위 더불어민주당 해산촉구형 예의 바른 악당",
+				"screen_name": "Bawerk",
+				"location": "Seoul, South Korea",
+				"description": "탐라를 꽤 어지럽히는 연작 트윗과 폭풍 리트윗 주의. 이유없이 언팔/블록/뮤트함. 동의하는 트윗만 리트윗하는 것은 아님. 뻘소리하며 내 트윗을 인용RT하는 계정은 뮤트 또는 차단. 나름 역덕이자 LG트윈스 팬. 전 허프포스트 코리아 블로거.",
+				"url": "https://t.co/gHopw4zUDO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gHopw4zUDO",
+								"expanded_url": "http://m.huffpost.com/kr/author/bawerk",
+								"display_url": "m.huffpost.com/kr/author/bawe…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6239,
+				"friends_count": 656,
+				"listed_count": 213,
+				"created_at": "Sat May 22 06:55:37 +0000 2010",
+				"favourites_count": 62513,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 279995,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1070801854072709120/i7NiEVo3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070801854072709120/i7NiEVo3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/146748385/1645936995",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1519954477650182100,
+			"quoted_status_id_str": "1519954477650182144",
+			"quoted_status_permalink": {
+				"url": "https://t.co/8dIgw5Q2zb",
+				"expanded": "https://twitter.com/yonhaptweet/status/1519954477650182144",
+				"display": "twitter.com/yonhaptweet/st…"
+			},
+			"retweet_count": 24,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 10,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "커다란 곳간에 양곡을 가득 쌓아 놓은 지주가 마을에 기근이 여러 차례 왔는데 한톨도 풀지 않고 방관하다가, 오년 후에 곳간 문을 열어 “이야 반 정도 밖에 안 썩고 이만큼이나 남았네” 하면서 뿌듯해 하고 있다. 문재인 정권의 지지율에 대한 태도를 보면 드는 생각이다. https://t.co/5QK9QTgfUp"
+	},
+	{
 		"created_at": "Tue Apr 26 17:35:58 +0000 2022",
 		"id": 1518928638301081600,
 		"id_str": "1519007389621841921",
