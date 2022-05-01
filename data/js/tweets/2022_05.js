@@ -1,6 +1,351 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sun May 01 07:58:26 +0000 2022",
+		"id": 1520673988602925000,
+		"id_str": "1520673988602925057",
+		"full_text": "그 전까지는 서브컬처라는 인식 없이 대여점에서 일본 만화를 접하던 식으로 일정한 준거점이 생겨나 있던 거 같아요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1520672803623944200,
+		"in_reply_to_status_id_str": "1520672803623944193",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "그 전까지는 서브컬처라는 인식 없이 대여점에서 일본 만화를 접하던 식으로 일정한 준거점이 생겨나 있던 거 같아요."
+	},
+	{
+		"created_at": "Sun May 01 07:53:43 +0000 2022",
+		"id": 1520672803623944200,
+		"id_str": "1520672803623944193",
+		"full_text": "제가 덕질 입문하던 당시에도 낡았다는 이미지를 받았으니... https://t.co/JEW6GoeZoC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JEW6GoeZoC",
+					"expanded_url": "https://twitter.com/ms_retailer/status/1520031873657098240",
+					"display_url": "twitter.com/ms_retailer/st…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1520031873657098200,
+		"quoted_status_id_str": "1520031873657098240",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JEW6GoeZoC",
+			"expanded": "https://twitter.com/ms_retailer/status/1520031873657098240",
+			"display": "twitter.com/ms_retailer/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 29 13:26:54 +0000 2022",
+			"id": 1520031873657098200,
+			"id_str": "1520031873657098240",
+			"full_text": "멸종 위기의 그림체 달아둠 https://t.co/5kuY1RG2lg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				14
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1520031868166770700,
+						"id_str": "1520031868166770688",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/FRg87j1akAApZby.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRg87j1akAApZby.jpg",
+						"url": "https://t.co/5kuY1RG2lg",
+						"display_url": "pic.twitter.com/5kuY1RG2lg",
+						"expanded_url": "https://twitter.com/ms_retailer/status/1520031873657098240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 558,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 474,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 558,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1520031868166770700,
+						"id_str": "1520031868166770688",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/FRg87j1akAApZby.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRg87j1akAApZby.jpg",
+						"url": "https://t.co/5kuY1RG2lg",
+						"display_url": "pic.twitter.com/5kuY1RG2lg",
+						"expanded_url": "https://twitter.com/ms_retailer/status/1520031873657098240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 558,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 474,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 558,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1520017267765170200,
+			"in_reply_to_status_id_str": "1520017267765170176",
+			"in_reply_to_user_id": 1377233277388398600,
+			"in_reply_to_user_id_str": "1377233277388398595",
+			"in_reply_to_screen_name": "ms_retailer",
+			"user": {
+				"id": 1377233277388398600,
+				"id_str": "1377233277388398595",
+				"name": "황금메론무공심중사건",
+				"screen_name": "ms_retailer",
+				"location": "",
+				"description": "자기소개를 봤다... \n프로필을 클릭했다...\n나에게 관심이 있다...\n날 좋아한다...?",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 371,
+				"friends_count": 281,
+				"listed_count": 3,
+				"created_at": "Wed Mar 31 12:16:22 +0000 2021",
+				"favourites_count": 31884,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 31550,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1513757010537611267/cwFjWgfT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1513757010537611267/cwFjWgfT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377233277388398595/1634638350",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1867,
+			"favorite_count": 987,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제가 덕질 입문하던 당시에도 낡았다는 이미지를 받았으니... https://t.co/JEW6GoeZoC"
+	},
+	{
 		"created_at": "Sun May 01 05:51:45 +0000 2022",
 		"id": 1520642108587012000,
 		"id_str": "1520642108587012096",
@@ -277,7 +622,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "노년사랑",
 			"screen_name": "QuI_1n_TenebriS",
 			"location": "",
-			"description": "🏳️‍⚧️",
+			"description": "🏳️⚧️",
 			"url": "https://t.co/EDihSrIu3B",
 			"entities": {
 				"url": {
