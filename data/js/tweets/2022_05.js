@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 02 05:43:38 +0000 2022",
+		"id": 1521001865474809900,
+		"id_str": "1521002454464163840",
+		"full_text": "성평등 진작이 출산율을 제고한다는 기존 이론은 노르딕 모델로 증거되었으나, 2010년대 들어 그 기반이 반쯤 파탄난 상태. 소셜 미디어의 발달에 따라 사회적 상호작용이 과잉되며, 갇힌 낙원의 «제25우주» 쥐 실험과 같이, 높아진 준거의 경쟁심리에 따라 자진 도태를 택하는 여성 집단이 주류화 중. https://t.co/29Kkau2IjS https://t.co/sL8Xe0c37J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/29Kkau2IjS",
+					"expanded_url": "https://twitter.com/jongjin_choi_kr/status/1520704483990601728",
+					"display_url": "twitter.com/jongjin_choi_k…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1521001863080194000,
+					"id_str": "1521001863080194048",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FRuvIseaMAAD0ci.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRuvIseaMAAD0ci.jpg",
+					"url": "https://t.co/sL8Xe0c37J",
+					"display_url": "pic.twitter.com/sL8Xe0c37J",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1521001865474809856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 810,
+							"h": 520,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 437,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 810,
+							"h": 520,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1521001863080194000,
+					"id_str": "1521001863080194048",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FRuvIseaMAAD0ci.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRuvIseaMAAD0ci.jpg",
+					"url": "https://t.co/sL8Xe0c37J",
+					"display_url": "pic.twitter.com/sL8Xe0c37J",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1521001865474809856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 810,
+							"h": 520,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 437,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 810,
+							"h": 520,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8,
+			"friends_count": 32,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 726,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1520704483990601700,
+		"quoted_status_id_str": "1520704483990601728",
+		"quoted_status_permalink": {
+			"url": "https://t.co/29Kkau2IjS",
+			"expanded": "https://twitter.com/jongjin_choi_kr/status/1520704483990601728",
+			"display": "twitter.com/jongjin_choi_k…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 01 09:59:36 +0000 2022",
+			"id": 1520704483990601700,
+			"id_str": "1520704483990601728",
+			"full_text": "우연히 페이스북에서 본 그래프. Y축은 출생률, X축은 남성의 가사&amp;육아분담 정도를 나타낸다고 한다.\n\n아빠들의 가사노동/육아 참여가 획기적으로 늘어나지 않는 이상 큰 변화는 일어나지 않을거다. https://t.co/Pm8EMKTQUq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				112
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1520704473764864000,
+						"id_str": "1520704473764864001",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/FRqgqW8aIAE9QLn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRqgqW8aIAE9QLn.jpg",
+						"url": "https://t.co/Pm8EMKTQUq",
+						"display_url": "pic.twitter.com/Pm8EMKTQUq",
+						"expanded_url": "https://twitter.com/jongjin_choi_kr/status/1520704483990601728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 517,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1170,
+								"h": 890,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1170,
+								"h": 890,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1520704473764864000,
+						"id_str": "1520704473764864001",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/FRqgqW8aIAE9QLn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRqgqW8aIAE9QLn.jpg",
+						"url": "https://t.co/Pm8EMKTQUq",
+						"display_url": "pic.twitter.com/Pm8EMKTQUq",
+						"expanded_url": "https://twitter.com/jongjin_choi_kr/status/1520704483990601728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 517,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1170,
+								"h": 890,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1170,
+								"h": 890,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2193432673,
+				"id_str": "2193432673",
+				"name": "진 @ 🇰🇷",
+				"screen_name": "jongjin_choi_kr",
+				"location": "South Korea",
+				"description": "아이 육아를 맡고 있는 아빠입니다. 그리고 재미있으면서 의미있는 변화를 만들고 싶어서, 커리어를 바꾸기 위해 노력 중입니다. 다양성을 추구합니다. 🏳️‍🌈 저와 결이 안 맞다 싶으면 그냥 피해가시는 걸 추천합니다.  Co-maker of @hivearena",
+				"url": "https://t.co/xJti7mQNBh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xJti7mQNBh",
+								"expanded_url": "https://jongjinchoi.com",
+								"display_url": "jongjinchoi.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1608,
+				"friends_count": 687,
+				"listed_count": 110,
+				"created_at": "Thu Nov 14 03:23:48 +0000 2013",
+				"favourites_count": 2723,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3921,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1484724056935243776/cUCXnhhA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1484724056935243776/cUCXnhhA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2193432673/1501566853",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1531,
+			"favorite_count": 666,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "성평등 진작이 출산율을 제고한다는 기존 이론은 노르딕 모델로 증거되었으나, 2010년대 들어 그 기반이 반쯤 파탄난 상태. 소셜 미디어의 발달에 따라 사회적 상호작용이 과잉되며, 갇힌 낙원의 «제25우주» 쥐 실험과 같이, 높아진 준거의 경쟁심리에 따라 자진 도태를 택하는 여성 집단이 주류화 중. https://t.co/29Kkau2IjS https://t.co/sL8Xe0c37J"
+	},
+	{
 		"created_at": "Sun May 01 07:58:26 +0000 2022",
 		"id": 1520673988602925000,
 		"id_str": "1520673988602925057",
