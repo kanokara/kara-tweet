@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 10 08:07:48 +0000 2022",
+		"id": 1523937837665915000,
+		"id_str": "1523937837665914880",
+		"full_text": "출산 후 여성의 두뇌를 살펴보면 불가역적인 구조 변화(축소)가 일어나고, 그로 인해 브레인포그에 시달리는 게 이미 오랫동안 관찰되었죠. 성적 열정의 한 부분이 사라지는 것. https://t.co/Z3GZNQPDdz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z3GZNQPDdz",
+					"expanded_url": "https://twitter.com/CultistFish/status/1523851417047670785",
+					"display_url": "twitter.com/CultistFish/st…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3914,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1523851417047670800,
+		"quoted_status_id_str": "1523851417047670785",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Z3GZNQPDdz",
+			"expanded": "https://twitter.com/CultistFish/status/1523851417047670785",
+			"display": "twitter.com/CultistFish/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 10 02:24:24 +0000 2022",
+			"id": 1523851417047670800,
+			"id_str": "1523851417047670785",
+			"full_text": "\"소위 '엄마 뇌'는 불가역적인 모성의 증상이 아니다. 어머니들이 수조 달러어치 무임 노동을 제공함에도 불구하고 이를 돕지 않는 사회의 증상이다.\" https://t.co/zFhjj9wqEW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				82
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zFhjj9wqEW",
+						"expanded_url": "https://twitter.com/TheAtlantic/status/1523850150631907328",
+						"display_url": "twitter.com/TheAtlantic/st…",
+						"indices": [
+							83,
+							106
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1514122739681882000,
+				"id_str": "1514122739681882116",
+				"name": "김성일",
+				"screen_name": "CultistFish",
+				"location": "서울",
+				"description": "김성일 Sungil Kim (he/him) SF/판타지/호러 소설가; 연락은 그린북 에이전시로 grb@grb-agency.com  SFF/Horror writer; represented by Greenbook Agency 초여명 편집장 EiC of Dayspring Games",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 312,
+				"friends_count": 168,
+				"listed_count": 0,
+				"created_at": "Wed Apr 13 06:06:15 +0000 2022",
+				"favourites_count": 71,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 981,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1514122894791491587/0T9d1jyF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1514122894791491587/0T9d1jyF_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1523850150631907300,
+			"quoted_status_id_str": "1523850150631907328",
+			"quoted_status_permalink": {
+				"url": "https://t.co/zFhjj9wqEW",
+				"expanded": "https://twitter.com/TheAtlantic/status/1523850150631907328",
+				"display": "twitter.com/TheAtlantic/st…"
+			},
+			"retweet_count": 19,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "출산 후 여성의 두뇌를 살펴보면 불가역적인 구조 변화(축소)가 일어나고, 그로 인해 브레인포그에 시달리는 게 이미 오랫동안 관찰되었죠. 성적 열정의 한 부분이 사라지는 것. https://t.co/Z3GZNQPDdz"
+	},
+	{
 		"created_at": "Mon May 09 14:35:04 +0000 2022",
 		"id": 1523672908027297800,
 		"id_str": "1523672908027297793",
