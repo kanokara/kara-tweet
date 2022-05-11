@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 11 10:54:21 +0000 2022",
+		"id": 1524259197533102000,
+		"id_str": "1524342137965654017",
+		"full_text": "@: 더 정확하게 말하면 보호와 양육의 책임을 누가 지느냐의 문제인데, 이 책임을 지는 위험을 부담할 생각이 사회 전반적으로 없음. 그럼 꼭 그런 어른이 되어야 하나? 사람이 꼭 어른이 되어야 하는 것은 아님. 그럼 그 일을 아무도 하지 않는 게 괜찮은가? 괜찮지 않음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1524259195406626800,
+		"in_reply_to_status_id_str": "1524259195406626816",
+		"in_reply_to_user_id": 1477189915905785900,
+		"in_reply_to_user_id_str": "1477189915905785861",
+		"in_reply_to_screen_name": "p1easurepieces",
+		"user": {
+			"id": 1477189915905785900,
+			"id_str": "1477189915905785861",
+			"name": "조각",
+			"screen_name": "p1easurepieces",
+			"location": "",
+			"description": "find what you love and let it kill you",
+			"url": "https://t.co/M2tnYln6y5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M2tnYln6y5",
+							"expanded_url": "http://peing.net/p1easurepieces",
+							"display_url": "peing.net/p1easurepieces",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 499,
+			"friends_count": 243,
+			"listed_count": 1,
+			"created_at": "Sat Jan 01 08:08:23 +0000 2022",
+			"favourites_count": 1426,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1039,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1522048159433691136/REyC--4h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1522048159433691136/REyC--4h_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1477189915905785861/1651716537",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@: 더 정확하게 말하면 보호와 양육의 책임을 누가 지느냐의 문제인데, 이 책임을 지는 위험을 부담할 생각이 사회 전반적으로 없음. 그럼 꼭 그런 어른이 되어야 하나? 사람이 꼭 어른이 되어야 하는 것은 아님. 그럼 그 일을 아무도 하지 않는 게 괜찮은가? 괜찮지 않음."
+	},
+	{
 		"created_at": "Wed May 11 09:12:43 +0000 2022",
 		"id": 1523923556278579200,
 		"id_str": "1524316560093253633",
