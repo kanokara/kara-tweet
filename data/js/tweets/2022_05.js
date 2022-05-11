@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 11 09:12:43 +0000 2022",
+		"id": 1523923556278579200,
+		"id_str": "1524316560093253633",
+		"full_text": "https://t.co/XpsqVnKOIA https://t.co/RMCWOPKkXR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XpsqVnKOIA",
+					"expanded_url": "https://twitter.com/O_khee_/status/1523919164544487424",
+					"display_url": "twitter.com/O_khee_/status…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1523923547025928200,
+					"id_str": "1523923547025928193",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FSYQZFVVcAExGXp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSYQZFVVcAExGXp.jpg",
+					"url": "https://t.co/RMCWOPKkXR",
+					"display_url": "pic.twitter.com/RMCWOPKkXR",
+					"expanded_url": "https://twitter.com/O_khee_/status/1523923556278579201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523923547025928200,
+					"id_str": "1523923547025928193",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FSYQZFVVcAExGXp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSYQZFVVcAExGXp.jpg",
+					"url": "https://t.co/RMCWOPKkXR",
+					"display_url": "pic.twitter.com/RMCWOPKkXR",
+					"expanded_url": "https://twitter.com/O_khee_/status/1523923556278579201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1187246818758819800,
+			"id_str": "1187246818758819840",
+			"name": "조각🍰",
+			"screen_name": "O_khee_",
+			"location": "",
+			"description": "추미애절대사수함 알람🔕",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1378,
+			"friends_count": 176,
+			"listed_count": 7,
+			"created_at": "Thu Oct 24 05:58:00 +0000 2019",
+			"favourites_count": 1969,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501721047506161664/f5P7zu--_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501721047506161664/f5P7zu--_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1187246818758819840/1647042132",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1523919164544487400,
+		"quoted_status_id_str": "1523919164544487424",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XpsqVnKOIA",
+			"expanded": "https://twitter.com/O_khee_/status/1523919164544487424",
+			"display": "twitter.com/O_khee_/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 10 06:53:36 +0000 2022",
+			"id": 1523919164544487400,
+			"id_str": "1523919164544487424",
+			"full_text": "안녕히계세요 여러분 문재인편 https://t.co/NAS09BERQY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				15
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1523919126049091600,
+						"id_str": "1523919126049091584",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/FSYMXv6UcAAT-ik.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSYMXv6UcAAT-ik.jpg",
+						"url": "https://t.co/NAS09BERQY",
+						"display_url": "pic.twitter.com/NAS09BERQY",
+						"expanded_url": "https://twitter.com/O_khee_/status/1523919164544487424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 828,
+								"h": 828,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 828,
+								"h": 828,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1523919126049091600,
+						"id_str": "1523919126049091584",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/FSYMXv6UcAAT-ik.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSYMXv6UcAAT-ik.jpg",
+						"url": "https://t.co/NAS09BERQY",
+						"display_url": "pic.twitter.com/NAS09BERQY",
+						"expanded_url": "https://twitter.com/O_khee_/status/1523919164544487424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 828,
+								"h": 828,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 828,
+								"h": 828,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1523919126036566000,
+						"id_str": "1523919126036566016",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/FSYMXv3VUAAXzCV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSYMXv3VUAAXzCV.jpg",
+						"url": "https://t.co/NAS09BERQY",
+						"display_url": "pic.twitter.com/NAS09BERQY",
+						"expanded_url": "https://twitter.com/O_khee_/status/1523919164544487424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 736,
+								"h": 552,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 736,
+								"h": 552,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1187246818758819800,
+				"id_str": "1187246818758819840",
+				"name": "조각🍰",
+				"screen_name": "O_khee_",
+				"location": "",
+				"description": "추미애절대사수함 알람🔕",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1378,
+				"friends_count": 176,
+				"listed_count": 7,
+				"created_at": "Thu Oct 24 05:58:00 +0000 2019",
+				"favourites_count": 1969,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 38416,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1501721047506161664/f5P7zu--_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501721047506161664/f5P7zu--_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1187246818758819840/1647042132",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 768,
+			"favorite_count": 339,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "ko"
+		},
+		"retweet_count": 92,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "und",
+		"text": "https://t.co/XpsqVnKOIA https://t.co/RMCWOPKkXR"
+	},
+	{
 		"created_at": "Wed May 11 07:26:50 +0000 2022",
 		"id": 1524289913990320000,
 		"id_str": "1524289913990320129",
