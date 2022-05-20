@@ -1,6 +1,672 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 20 06:49:59 +0000 2022",
+		"id": 1527507244580864000,
+		"id_str": "1527542134663831553",
+		"full_text": "출처는 Global Preference Survey라는 조사이고, 논문도 QJE에 출판됨.\n\nhttps://t.co/vsAoMybqIW\n\n- Falk, A., Becker, A., Dohmen, T., Enke, B., Huffman, D., &amp; Sunde, U. (2018). Global evidence on economic preferences. Quarterly Journal of Economics, 133 (4), 1645–1692.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vsAoMybqIW",
+					"expanded_url": "https://www.briq-institute.org/global-preferences/home",
+					"display_url": "briq-institute.org/global-prefere…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1527507242769035300,
+		"in_reply_to_status_id_str": "1527507242769035264",
+		"in_reply_to_user_id": 35781837,
+		"in_reply_to_user_id_str": "35781837",
+		"in_reply_to_screen_name": "dennoch1919",
+		"user": {
+			"id": 35781837,
+			"id_str": "35781837",
+			"name": "dennoch",
+			"screen_name": "dennoch1919",
+			"location": "Seoul, South Korea",
+			"description": "깨끗하고 불빛 환한 곳",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4287,
+			"friends_count": 396,
+			"listed_count": 33,
+			"created_at": "Mon Apr 27 16:15:57 +0000 2009",
+			"favourites_count": 6819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383646614716239873/MmLg_hvx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383646614716239873/MmLg_hvx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35781837/1649594535",
+			"profile_link_color": "001871",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "출처는 Global Preference Survey라는 조사이고, 논문도 QJE에 출판됨.\n\nhttps://t.co/vsAoMybqIW\n\n- Falk, A., Becker, A., Dohmen, T., Enke, B., Huffman, D., &amp; Sunde, U. (2018). Global evidence on economic preferences. Quarterly Journal of Economics, 133 (4), 1645–1692."
+	},
+	{
+		"created_at": "Fri May 20 06:46:30 +0000 2022",
+		"id": 1527502595522461700,
+		"id_str": "1527541254346936321",
+		"full_text": "그냥 대한민국이 ‘자아의탁과 정념’만 남은 거 같음. 모든 기준이 밖을 향해 있고 내가 기준에 도달 못하니 누군가를 내 분신으로 삼고 근데 또 그 분신의 성공이 나의 것은 아니니 정념은 쌓이고. 분신을 비판한다 싶으면 그건 나에 대한 공격이라고 치환해 쌓여있던 정념을 그 순간 터뜨리는… https://t.co/mfC7sbmx9r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mfC7sbmx9r",
+					"expanded_url": "https://twitter.com/beatdead22/status/1527471909016719360",
+					"display_url": "twitter.com/beatdead22/sta…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 443923178,
+			"id_str": "443923178",
+			"name": "sojumania 🎗",
+			"screen_name": "sojumaniada",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 512,
+			"listed_count": 2,
+			"created_at": "Thu Dec 22 17:56:54 +0000 2011",
+			"favourites_count": 3618,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/628548190074056704/b6mqnTiL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/628548190074056704/b6mqnTiL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/443923178/1429190599",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1527471909016719400,
+		"quoted_status_id_str": "1527471909016719360",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mfC7sbmx9r",
+			"expanded": "https://twitter.com/beatdead22/status/1527471909016719360",
+			"display": "twitter.com/beatdead22/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 20 02:10:56 +0000 2022",
+			"id": 1527471909016719400,
+			"id_str": "1527471909016719360",
+			"full_text": "케이팝 팬덤의 본질은 '자아의탁과 정념 발산' 이거인 것 같음 ㅋㅋㅋㅋ 외모고 퍼포먼스고 콘텐츠고 다 그 다음임. 다들 좌표 찍고 무언가에 열렬하게 에너지를 쏟기 위해 팬덤을 자처한다. 실제로 매혹이라는 사건이 일어나는가는 이제 부차적인 일임. 그냥 불링과 숭배 자체가 스포츠임ㅋㅋ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				157
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1478940387746394000,
+				"id_str": "1478940387746394113",
+				"name": "성북동 김이사",
+				"screen_name": "beatdead22",
+				"location": "원고 의뢰 : gooseul2020@gmail.com",
+				"description": "실업자라는 사실을 감추기 위해 소설가인 척 하는 사람 #YOUR_BEST_AI_FRIEND",
+				"url": "https://t.co/P8yVfTcyNW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/P8yVfTcyNW",
+								"expanded_url": "https://url.kr/xbwk9o",
+								"display_url": "url.kr/xbwk9o",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6112,
+				"friends_count": 849,
+				"listed_count": 14,
+				"created_at": "Thu Jan 06 04:04:18 +0000 2022",
+				"favourites_count": 32413,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 43505,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1524651235936448512/nVIkXQH1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1524651235936448512/nVIkXQH1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1478940387746394113/1646047919",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 406,
+			"favorite_count": 293,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그냥 대한민국이 ‘자아의탁과 정념’만 남은 거 같음. 모든 기준이 밖을 향해 있고 내가 기준에 도달 못하니 누군가를 내 분신으로 삼고 근데 또 그 분신의 성공이 나의 것은 아니니 정념은 쌓이고. 분신을 비판한다 싶으면 그건 나에 대한 공격이라고 치환해 쌓여있던 정념을 그 순간 터뜨리는… https://t.co/mfC7sbmx9r"
+	},
+	{
+		"created_at": "Fri May 20 06:44:12 +0000 2022",
+		"id": 1527522542872801300,
+		"id_str": "1527540679026814976",
+		"full_text": "https://t.co/2iCtFyiCVi https://t.co/YLykStorzJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2iCtFyiCVi",
+					"expanded_url": "https://twitter.com/dennoch1919/status/1527507240051044352",
+					"display_url": "twitter.com/dennoch1919/st…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1527522536568721400,
+					"id_str": "1527522536568721408",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FTLZp2KVEAAtZVF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTLZp2KVEAAtZVF.jpg",
+					"url": "https://t.co/YLykStorzJ",
+					"display_url": "pic.twitter.com/YLykStorzJ",
+					"expanded_url": "https://twitter.com/Draco1466/status/1527522542872801281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1293,
+							"h": 898,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 472,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 833,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527522536568721400,
+					"id_str": "1527522536568721408",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FTLZp2KVEAAtZVF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTLZp2KVEAAtZVF.jpg",
+					"url": "https://t.co/YLykStorzJ",
+					"display_url": "pic.twitter.com/YLykStorzJ",
+					"expanded_url": "https://twitter.com/Draco1466/status/1527522542872801281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1293,
+							"h": 898,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 472,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 833,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52282094,
+			"id_str": "52282094",
+			"name": "병속의 뇌",
+			"screen_name": "Draco1466",
+			"location": "병속의 포르말린",
+			"description": "등급 : 케테르(Keter)/데이타 말소(DATA EXPUNGED)/Remember0416/ask.fm/kns0347",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 674,
+			"friends_count": 2136,
+			"listed_count": 43,
+			"created_at": "Tue Jun 30 03:00:11 +0000 2009",
+			"favourites_count": 34481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 270295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343445027075190785/4bHtFFBb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343445027075190785/4bHtFFBb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52282094/1528986132",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1527507240051044400,
+		"quoted_status_id_str": "1527507240051044352",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2iCtFyiCVi",
+			"expanded": "https://twitter.com/dennoch1919/status/1527507240051044352",
+			"display": "twitter.com/dennoch1919/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 20 04:31:20 +0000 2022",
+			"id": 1527507240051044400,
+			"id_str": "1527507240051044352",
+			"full_text": "세계 76개국(전세계 인구 90%)을 대상으로 실시한 선호도 조사에 따르면, 한국인들은 내가 뭘 당했으면 갚아줘야 한다는 성향(negative reciprocity, 음의 호혜성)이 세계 2위. 1위 크로아티아가 인구 400만 정도라는 점을 고려하면 어느 정도 규모가 있는 국가 중에서는 사실상 1위인 셈. https://t.co/ruIUsqDOyb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				171
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1527507233075957800,
+						"id_str": "1527507233075957760",
+						"indices": [
+							172,
+							195
+						],
+						"media_url": "http://pbs.twimg.com/media/FTLLvENVEAACMcR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTLLvENVEAACMcR.jpg",
+						"url": "https://t.co/ruIUsqDOyb",
+						"display_url": "pic.twitter.com/ruIUsqDOyb",
+						"expanded_url": "https://twitter.com/dennoch1919/status/1527507240051044352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1170,
+								"h": 1252,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 635,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1121,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1527507233075957800,
+						"id_str": "1527507233075957760",
+						"indices": [
+							172,
+							195
+						],
+						"media_url": "http://pbs.twimg.com/media/FTLLvENVEAACMcR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTLLvENVEAACMcR.jpg",
+						"url": "https://t.co/ruIUsqDOyb",
+						"display_url": "pic.twitter.com/ruIUsqDOyb",
+						"expanded_url": "https://twitter.com/dennoch1919/status/1527507240051044352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1170,
+								"h": 1252,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 635,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1121,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1527507233088499700,
+						"id_str": "1527507233088499712",
+						"indices": [
+							172,
+							195
+						],
+						"media_url": "http://pbs.twimg.com/media/FTLLvEQUcAAMjUI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTLLvEQUcAAMjUI.jpg",
+						"url": "https://t.co/ruIUsqDOyb",
+						"display_url": "pic.twitter.com/ruIUsqDOyb",
+						"expanded_url": "https://twitter.com/dennoch1919/status/1527507240051044352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 117,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 199,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 66,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 35781837,
+				"id_str": "35781837",
+				"name": "dennoch",
+				"screen_name": "dennoch1919",
+				"location": "Seoul, South Korea",
+				"description": "깨끗하고 불빛 환한 곳",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4287,
+				"friends_count": 396,
+				"listed_count": 33,
+				"created_at": "Mon Apr 27 16:15:57 +0000 2009",
+				"favourites_count": 6819,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9550,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1383646614716239873/MmLg_hvx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383646614716239873/MmLg_hvx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/35781837/1649594535",
+				"profile_link_color": "001871",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 839,
+			"favorite_count": 338,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 12,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "und",
+		"text": "https://t.co/2iCtFyiCVi https://t.co/YLykStorzJ"
+	},
+	{
 		"created_at": "Sun May 15 15:27:50 +0000 2022",
 		"id": 1525860513670140000,
 		"id_str": "1525860513670139904",
