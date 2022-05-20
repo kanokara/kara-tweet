@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 20 11:11:20 +0000 2022",
+		"id": 1527322731422789600,
+		"id_str": "1527607903150292994",
+		"full_text": "그니까욬ㅋㅋㅋ 지가 계약서에 싸인해놓고 수습종료 철회요구ㅋ 듣도보도 못한 발상임 사회성부족 오따꾸가 자꾸 놀던 물로 진출을 하니 이런 일이 생기는 거임 그럼 수습기간에 개길거 다 개겨놓고 당연히 정규고용 될 줄 알았나 심지어 공무원도 수습이 있는뎁쇼 뭘 잘했다고 충격까지 받았대",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3990933798,
+			"id_str": "3990933798",
+			"name": "망개떡",
+			"screen_name": "xii1030",
+			"location": "",
+			"description": "MCU:CA 럼벜/스벜/스벜럼/스럼벜/리버스👌 \n헤더 나인님(@09_25)\n마도조사:진정령 망무 희징💙💜\n\nhttps://t.co/pbA47iQlZ3…",
+			"url": "https://t.co/aiWrUJM2Eo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aiWrUJM2Eo",
+							"expanded_url": "http://xii1020.postype.com",
+							"display_url": "xii1020.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pbA47iQlZ3",
+							"expanded_url": "http://peing.net/ko/xii1030?p=a",
+							"display_url": "peing.net/ko/xii1030?p=a",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1208,
+			"friends_count": 112,
+			"listed_count": 4,
+			"created_at": "Fri Oct 23 12:10:57 +0000 2015",
+			"favourites_count": 35268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517657214353539072/Uh5OEoCr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517657214353539072/Uh5OEoCr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3990933798/1527687108",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그니까욬ㅋㅋㅋ 지가 계약서에 싸인해놓고 수습종료 철회요구ㅋ 듣도보도 못한 발상임 사회성부족 오따꾸가 자꾸 놀던 물로 진출을 하니 이런 일이 생기는 거임 그럼 수습기간에 개길거 다 개겨놓고 당연히 정규고용 될 줄 알았나 심지어 공무원도 수습이 있는뎁쇼 뭘 잘했다고 충격까지 받았대"
+	},
+	{
 		"created_at": "Fri May 20 11:10:40 +0000 2022",
 		"id": 1527244694098706400,
 		"id_str": "1527607734484729861",
