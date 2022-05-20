@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 20 11:10:40 +0000 2022",
+		"id": 1527244694098706400,
+		"id_str": "1527607734484729861",
+		"full_text": "부당해고 뜻을 잘 모르는 모양인데 해당 사안은 애초에 해고가 아님 그저 수습계약의 종료와 재계약 의사가 없었음을 통보한 거고 계약기간이 도래함으로 인해 근로관계가 자연 소멸한 것에 지나지 않음 애초에 해고가 없었는데 뭔 해고철회를 해.. 심지어 지가 사인한 수습계약서잖아",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3990933798,
+			"id_str": "3990933798",
+			"name": "망개떡",
+			"screen_name": "xii1030",
+			"location": "",
+			"description": "MCU:CA 럼벜/스벜/스벜럼/스럼벜/리버스👌 \n헤더 나인님(@09_25)\n마도조사:진정령 망무 희징💙💜\n\nhttps://t.co/pbA47iQlZ3…",
+			"url": "https://t.co/aiWrUJM2Eo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aiWrUJM2Eo",
+							"expanded_url": "http://xii1020.postype.com",
+							"display_url": "xii1020.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pbA47iQlZ3",
+							"expanded_url": "http://peing.net/ko/xii1030?p=a",
+							"display_url": "peing.net/ko/xii1030?p=a",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1208,
+			"friends_count": 112,
+			"listed_count": 4,
+			"created_at": "Fri Oct 23 12:10:57 +0000 2015",
+			"favourites_count": 35261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517657214353539072/Uh5OEoCr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517657214353539072/Uh5OEoCr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3990933798/1527687108",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "부당해고 뜻을 잘 모르는 모양인데 해당 사안은 애초에 해고가 아님 그저 수습계약의 종료와 재계약 의사가 없었음을 통보한 거고 계약기간이 도래함으로 인해 근로관계가 자연 소멸한 것에 지나지 않음 애초에 해고가 없었는데 뭔 해고철회를 해.. 심지어 지가 사인한 수습계약서잖아"
+	},
+	{
 		"created_at": "Fri May 20 06:49:59 +0000 2022",
 		"id": 1527507244580864000,
 		"id_str": "1527542134663831553",
