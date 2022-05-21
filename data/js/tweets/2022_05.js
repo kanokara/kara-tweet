@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sat May 21 05:07:23 +0000 2022",
+		"id": 1527878698883743700,
+		"id_str": "1527878698883743744",
+		"full_text": "특히나 여성은 기본적으로 양성애적 성향을 타고 난다는 점의 문제. 설사 생식이 체외적으로 가능한 세상이 도래할지라도, 남녀 간의 결합이 지금처럼 약화되며 자매애로 변질된다면 더는 미래가 없어요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1527875595333677000,
+		"in_reply_to_status_id_str": "1527875595333677059",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "특히나 여성은 기본적으로 양성애적 성향을 타고 난다는 점의 문제. 설사 생식이 체외적으로 가능한 세상이 도래할지라도, 남녀 간의 결합이 지금처럼 약화되며 자매애로 변질된다면 더는 미래가 없어요."
+	},
+	{
+		"created_at": "Sat May 21 05:03:37 +0000 2022",
+		"id": 1527536516976631800,
+		"id_str": "1527877754473291777",
+		"full_text": "일본 보수의 가치 https://t.co/mjLhc4R0M4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mjLhc4R0M4",
+					"expanded_url": "http://www.labortoday.co.kr/news/articleView.html?idxno=208592",
+					"display_url": "labortoday.co.kr/news/articleVi…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1464941756114698200,
+			"id_str": "1464941756114698244",
+			"name": "송김승현",
+			"screen_name": "r17891868",
+			"location": "liberalism🔶",
+			"description": "21G 수도권 게이 정의당원",
+			"url": "https://t.co/4xgvwUZVQT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4xgvwUZVQT",
+							"expanded_url": "https://peing.net/r17891868",
+							"display_url": "peing.net/r17891868",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128,
+			"friends_count": 3598,
+			"listed_count": 0,
+			"created_at": "Sun Nov 28 12:58:32 +0000 2021",
+			"favourites_count": 15125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527781903503200256/hVVDzKVA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527781903503200256/hVVDzKVA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1464941756114698244/1639626328",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일본 보수의 가치 https://t.co/mjLhc4R0M4"
+	},
+	{
 		"created_at": "Fri May 20 11:11:20 +0000 2022",
 		"id": 1527322731422789600,
 		"id_str": "1527607903150292994",
