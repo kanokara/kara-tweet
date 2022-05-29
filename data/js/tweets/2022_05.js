@@ -1,6 +1,581 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sun May 29 04:53:33 +0000 2022",
+		"id": 1530090871298748400,
+		"id_str": "1530774321014394880",
+		"full_text": "초반부 상대가 사랑 없이\n남성향 : 성적인 행위를 허락한다-&gt;날좋아하나?\n여성향 : 성적인 행위를 허락한다-&gt;상처받음\n&gt;아무렴어때 일단 하고 생각하자&lt;랑 &gt;날 좋아하지도 않으면서 어떻게 이럴 수 있어 너무해&lt; 살짝 이런 느낌인 것 같은데 근데 이건 진짜 주관전 견해고 안 이런 것도 많음 주의",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1530090869826564000,
+		"in_reply_to_status_id_str": "1530090869826564096",
+		"in_reply_to_user_id": 1445563986422890500,
+		"in_reply_to_user_id_str": "1445563986422890497",
+		"in_reply_to_screen_name": "yookmanchoon",
+		"user": {
+			"id": 1445563986422890500,
+			"id_str": "1445563986422890497",
+			"name": "‼️클튜 출첵 하세요‼️육만춘",
+			"screen_name": "yookmanchoon",
+			"location": "",
+			"description": "⚠만춘/マンチュン/ManChoon ⚠성인",
+			"url": "https://t.co/H8c2OuYpvC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H8c2OuYpvC",
+							"expanded_url": "https://teo-ng.postype.com/",
+							"display_url": "teo-ng.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53,
+			"friends_count": 72,
+			"listed_count": 1,
+			"created_at": "Wed Oct 06 01:38:13 +0000 2021",
+			"favourites_count": 202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1512972658170040320/tex1A69X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1512972658170040320/tex1A69X_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "초반부 상대가 사랑 없이\n남성향 : 성적인 행위를 허락한다-&gt;날좋아하나?\n여성향 : 성적인 행위를 허락한다-&gt;상처받음\n&gt;아무렴어때 일단 하고 생각하자&lt;랑 &gt;날 좋아하지도 않으면서 어떻게 이럴 수 있어 너무해&lt; 살짝 이런 느낌인 것 같은데 근데 이건 진짜 주관전 견해고 안 이런 것도 많음 주의"
+	},
+	{
+		"created_at": "Sun May 29 04:53:30 +0000 2022",
+		"id": 1530090869826564000,
+		"id_str": "1530774308360192000",
+		"full_text": "여성향은 상대역이 하는 모든 행위를 사랑으로 받아들이고 없는 사랑도 발굴해냄. 상대의 폭력성이나 편력적인 성향 조차도 극복해야 하는 시련쯤으로 여기고 목적지는 오로지 사랑임. 그래서 성행위는 일찍이 나오고 오히려 사랑확인이 절정요소임. 진실하고 절실한 사랑만이 주역을 결말로 보내줌.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1530090868283019300,
+		"in_reply_to_status_id_str": "1530090868283019264",
+		"in_reply_to_user_id": 1445563986422890500,
+		"in_reply_to_user_id_str": "1445563986422890497",
+		"in_reply_to_screen_name": "yookmanchoon",
+		"user": {
+			"id": 1445563986422890500,
+			"id_str": "1445563986422890497",
+			"name": "‼️클튜 출첵 하세요‼️육만춘",
+			"screen_name": "yookmanchoon",
+			"location": "",
+			"description": "⚠만춘/マンチュン/ManChoon ⚠성인",
+			"url": "https://t.co/H8c2OuYpvC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H8c2OuYpvC",
+							"expanded_url": "https://teo-ng.postype.com/",
+							"display_url": "teo-ng.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53,
+			"friends_count": 72,
+			"listed_count": 1,
+			"created_at": "Wed Oct 06 01:38:13 +0000 2021",
+			"favourites_count": 202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1512972658170040320/tex1A69X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1512972658170040320/tex1A69X_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "여성향은 상대역이 하는 모든 행위를 사랑으로 받아들이고 없는 사랑도 발굴해냄. 상대의 폭력성이나 편력적인 성향 조차도 극복해야 하는 시련쯤으로 여기고 목적지는 오로지 사랑임. 그래서 성행위는 일찍이 나오고 오히려 사랑확인이 절정요소임. 진실하고 절실한 사랑만이 주역을 결말로 보내줌."
+	},
+	{
+		"created_at": "Sun May 29 04:53:27 +0000 2022",
+		"id": 1530090868283019300,
+		"id_str": "1530774295504654336",
+		"full_text": "절대적으로 이렇다는 건 아니고 주로 남성향은 상대 주역이 있어도 제3자가 들이대면 성애적 행위를 하는데 그다지 거리낌이 없는 경우가 많고 오히려 자존감이 충족된다 그래야 되나 상대가 자길 성적으로 원한다는 사실 자체에 순전히 기뻐하는 듯 함. 관계 중 속삭이는 사랑은 옵션쯤으로 취급.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1530090866118754300,
+		"in_reply_to_status_id_str": "1530090866118754305",
+		"in_reply_to_user_id": 1445563986422890500,
+		"in_reply_to_user_id_str": "1445563986422890497",
+		"in_reply_to_screen_name": "yookmanchoon",
+		"user": {
+			"id": 1445563986422890500,
+			"id_str": "1445563986422890497",
+			"name": "‼️클튜 출첵 하세요‼️육만춘",
+			"screen_name": "yookmanchoon",
+			"location": "",
+			"description": "⚠만춘/マンチュン/ManChoon ⚠성인",
+			"url": "https://t.co/H8c2OuYpvC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H8c2OuYpvC",
+							"expanded_url": "https://teo-ng.postype.com/",
+							"display_url": "teo-ng.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53,
+			"friends_count": 72,
+			"listed_count": 1,
+			"created_at": "Wed Oct 06 01:38:13 +0000 2021",
+			"favourites_count": 202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1512972658170040320/tex1A69X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1512972658170040320/tex1A69X_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "절대적으로 이렇다는 건 아니고 주로 남성향은 상대 주역이 있어도 제3자가 들이대면 성애적 행위를 하는데 그다지 거리낌이 없는 경우가 많고 오히려 자존감이 충족된다 그래야 되나 상대가 자길 성적으로 원한다는 사실 자체에 순전히 기뻐하는 듯 함. 관계 중 속삭이는 사랑은 옵션쯤으로 취급."
+	},
+	{
+		"created_at": "Sun May 29 04:53:24 +0000 2022",
+		"id": 1530090866118754300,
+		"id_str": "1530774283697651712",
+		"full_text": "저런 시각적인 것도 있지만 개인적으론 사랑을 대하는 태도로 갈린다고 생각했는데... 남성향은 몸으로 나누는 걸 빼면 순애적인 사랑이 없는 경우가 많음. 반면의 여성향은 폭력조차 사랑으로 해석함. https://t.co/BMsDZfdKH7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BMsDZfdKH7",
+					"expanded_url": "https://twitter.com/Root_phase2/status/1530036594367143937",
+					"display_url": "twitter.com/Root_phase2/st…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1445563986422890500,
+			"id_str": "1445563986422890497",
+			"name": "‼️클튜 출첵 하세요‼️육만춘",
+			"screen_name": "yookmanchoon",
+			"location": "",
+			"description": "⚠만춘/マンチュン/ManChoon ⚠성인",
+			"url": "https://t.co/H8c2OuYpvC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H8c2OuYpvC",
+							"expanded_url": "https://teo-ng.postype.com/",
+							"display_url": "teo-ng.postype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53,
+			"friends_count": 72,
+			"listed_count": 1,
+			"created_at": "Wed Oct 06 01:38:13 +0000 2021",
+			"favourites_count": 202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1512972658170040320/tex1A69X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1512972658170040320/tex1A69X_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1530036594367144000,
+		"quoted_status_id_str": "1530036594367143937",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BMsDZfdKH7",
+			"expanded": "https://twitter.com/Root_phase2/status/1530036594367143937",
+			"display": "twitter.com/Root_phase2/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 27 04:02:05 +0000 2022",
+			"id": 1530036594367144000,
+			"id_str": "1530036594367143937",
+			"full_text": "이만한 비교를 본적 없음 https://t.co/ZJ9KHnAvjm https://t.co/sd1RFdeiBd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				37
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZJ9KHnAvjm",
+						"expanded_url": "https://twitter.com/otaku_meme_/status/1529807016331313152",
+						"display_url": "twitter.com/otaku_meme_/st…",
+						"indices": [
+							14,
+							37
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1530036591624089600,
+						"id_str": "1530036591624089600",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/FTvILHEacAAMqJF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTvILHEacAAMqJF.jpg",
+						"url": "https://t.co/sd1RFdeiBd",
+						"display_url": "pic.twitter.com/sd1RFdeiBd",
+						"expanded_url": "https://twitter.com/Root_phase2/status/1530036594367143937/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1530036591624089600,
+						"id_str": "1530036591624089600",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/FTvILHEacAAMqJF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTvILHEacAAMqJF.jpg",
+						"url": "https://t.co/sd1RFdeiBd",
+						"display_url": "pic.twitter.com/sd1RFdeiBd",
+						"expanded_url": "https://twitter.com/Root_phase2/status/1530036594367143937/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1445784514752508000,
+				"id_str": "1445784514752507906",
+				"name": "김뿌리",
+				"screen_name": "Root_phase2",
+				"location": "",
+				"description": "02오타쿠",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 47,
+				"friends_count": 90,
+				"listed_count": 0,
+				"created_at": "Wed Oct 06 16:14:33 +0000 2021",
+				"favourites_count": 23031,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9227,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1445785227255681028/p_EMcT_v_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445785227255681028/p_EMcT_v_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1529807016331313200,
+			"quoted_status_id_str": "1529807016331313152",
+			"quoted_status_permalink": {
+				"url": "https://t.co/ZJ9KHnAvjm",
+				"expanded": "https://twitter.com/otaku_meme_/status/1529807016331313152",
+				"display": "twitter.com/otaku_meme_/st…"
+			},
+			"retweet_count": 5138,
+			"favorite_count": 2441,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 29,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저런 시각적인 것도 있지만 개인적으론 사랑을 대하는 태도로 갈린다고 생각했는데... 남성향은 몸으로 나누는 걸 빼면 순애적인 사랑이 없는 경우가 많음. 반면의 여성향은 폭력조차 사랑으로 해석함. https://t.co/BMsDZfdKH7"
+	},
+	{
 		"created_at": "Sun May 29 04:02:25 +0000 2022",
 		"id": 1530761453556207600,
 		"id_str": "1530761453556207616",
