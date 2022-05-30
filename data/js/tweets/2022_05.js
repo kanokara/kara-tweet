@@ -1,6 +1,512 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 30 05:50:02 +0000 2022",
+		"id": 1531150924525469700,
+		"id_str": "1531150924525469697",
+		"full_text": "같은 문화권인 경우 남부일수록 보수적...이란 인상이 있는데 꽤 흥미로운 주제 같네요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1531149259890126800,
+		"in_reply_to_status_id_str": "1531149259890126848",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3954,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "같은 문화권인 경우 남부일수록 보수적...이란 인상이 있는데 꽤 흥미로운 주제 같네요."
+	},
+	{
+		"created_at": "Mon May 30 05:43:54 +0000 2022",
+		"id": 1531000941884936200,
+		"id_str": "1531149381160022017",
+		"full_text": "저 타래에 달린 자료인데, 음... 사실 저 울긋불긋한 나라들에서 내가 겪은 일들을 백인 친구에게 얘기하며 이거 인종차별이냐 물으면 아니라고 그 사람들 원래 그렇다고 하긴 하는데 썩 믿기진 않았다만, 놀러온 아들 친구 밥도 안 챙겨줄 정도면 그냥 진짜 문화 차이라고 생각해야 할듯. https://t.co/gzowGJPJxu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1530998980624146400,
+					"id_str": "1530998980624146432",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FT8zdheWYAAUoqY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FT8zdheWYAAUoqY.jpg",
+					"url": "https://t.co/gzowGJPJxu",
+					"display_url": "pic.twitter.com/gzowGJPJxu",
+					"expanded_url": "https://twitter.com/maybrian7/status/1531000941884936193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 612,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1530998980624146400,
+					"id_str": "1530998980624146432",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FT8zdheWYAAUoqY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FT8zdheWYAAUoqY.jpg",
+					"url": "https://t.co/gzowGJPJxu",
+					"display_url": "pic.twitter.com/gzowGJPJxu",
+					"expanded_url": "https://twitter.com/maybrian7/status/1531000941884936193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 612,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1530998761656393700,
+		"in_reply_to_status_id_str": "1530998761656393728",
+		"in_reply_to_user_id": 1474028168,
+		"in_reply_to_user_id_str": "1474028168",
+		"in_reply_to_screen_name": "maybrian7",
+		"user": {
+			"id": 1474028168,
+			"id_str": "1474028168",
+			"name": "elle",
+			"screen_name": "maybrian7",
+			"location": "",
+			"description": "You can't win, you can't break even and you can't get out of the game",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 473,
+			"friends_count": 84,
+			"listed_count": 5,
+			"created_at": "Sat Jun 01 07:08:14 +0000 2013",
+			"favourites_count": 1225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2818,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883716946142810114/tTP_L8mt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883716946142810114/tTP_L8mt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1474028168/1486714849",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 886,
+		"favorite_count": 310,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저 타래에 달린 자료인데, 음... 사실 저 울긋불긋한 나라들에서 내가 겪은 일들을 백인 친구에게 얘기하며 이거 인종차별이냐 물으면 아니라고 그 사람들 원래 그렇다고 하긴 하는데 썩 믿기진 않았다만, 놀러온 아들 친구 밥도 안 챙겨줄 정도면 그냥 진짜 문화 차이라고 생각해야 할듯. https://t.co/gzowGJPJxu"
+	},
+	{
+		"created_at": "Mon May 30 05:43:50 +0000 2022",
+		"id": 1530998761656393700,
+		"id_str": "1531149364898701313",
+		"full_text": "가장 기이했던 문화 충격에 대한 증언인데, 스웨덴인 친구네 집에 놀러갔는데 밥때가 되서 친구 엄마가 밥먹으라고 부르니 친구가 자기 밥 먹고 올 때까지 방에서 기다리라고 하고 혼자 밥 먹으러 갔다는 내용... 그리고 이어지는 증언들... ... https://t.co/XCRxGPSWeW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XCRxGPSWeW",
+					"expanded_url": "https://twitter.com/SamQari/status/1529868644846641153",
+					"display_url": "twitter.com/SamQari/status…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1474028168,
+			"id_str": "1474028168",
+			"name": "elle",
+			"screen_name": "maybrian7",
+			"location": "",
+			"description": "You can't win, you can't break even and you can't get out of the game",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 473,
+			"friends_count": 84,
+			"listed_count": 5,
+			"created_at": "Sat Jun 01 07:08:14 +0000 2013",
+			"favourites_count": 1225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2818,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883716946142810114/tTP_L8mt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883716946142810114/tTP_L8mt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1474028168/1486714849",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1529868644846641200,
+		"quoted_status_id_str": "1529868644846641153",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XCRxGPSWeW",
+			"expanded": "https://twitter.com/SamQari/status/1529868644846641153",
+			"display": "twitter.com/SamQari/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 26 16:54:43 +0000 2022",
+			"id": 1529868644846641200,
+			"id_str": "1529868644846641153",
+			"full_text": "Not here to judge but I don’t understand this. How’re you going to eat without inviting your friend? https://t.co/bFEgoLiuDB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				100
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1529868636822831000,
+						"id_str": "1529868636822831108",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/FTsva2rWAAQm3ja.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTsva2rWAAQm3ja.jpg",
+						"url": "https://t.co/bFEgoLiuDB",
+						"display_url": "pic.twitter.com/bFEgoLiuDB",
+						"expanded_url": "https://twitter.com/SamQari/status/1529868644846641153/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 728,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 412,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1529868636822831000,
+						"id_str": "1529868636822831108",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/FTsva2rWAAQm3ja.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTsva2rWAAQm3ja.jpg",
+						"url": "https://t.co/bFEgoLiuDB",
+						"display_url": "pic.twitter.com/bFEgoLiuDB",
+						"expanded_url": "https://twitter.com/SamQari/status/1529868644846641153/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 728,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 412,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1242,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 749594376481931300,
+				"id_str": "749594376481931264",
+				"name": "Seeker",
+				"screen_name": "SamQari",
+				"location": "Brampton, Ontario",
+				"description": "Just a guy on Twitter 🇦🇫 🇨🇦",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2904,
+				"friends_count": 282,
+				"listed_count": 10,
+				"created_at": "Sun Jul 03 13:23:20 +0000 2016",
+				"favourites_count": 27778,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 32254,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1421527343735218178/5tiOH1FB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421527343735218178/5tiOH1FB_normal.jpg",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12109,
+			"favorite_count": 80444,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3103,
+		"favorite_count": 859,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "가장 기이했던 문화 충격에 대한 증언인데, 스웨덴인 친구네 집에 놀러갔는데 밥때가 되서 친구 엄마가 밥먹으라고 부르니 친구가 자기 밥 먹고 올 때까지 방에서 기다리라고 하고 혼자 밥 먹으러 갔다는 내용... 그리고 이어지는 증언들... ... https://t.co/XCRxGPSWeW"
+	},
+	{
 		"created_at": "Sun May 29 15:18:22 +0000 2022",
 		"id": 1530842987420614700,
 		"id_str": "1530931562598248448",
