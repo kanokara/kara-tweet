@@ -1,6 +1,89 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 01 03:16:58 +0000 2022",
+		"id": 1531837178481082400,
+		"id_str": "1531837178481082368",
+		"full_text": "지난 세월 동안 진보 친화적 입장을 취해온 것은 이들이 내세우는 공동체/연대란 명분에 속아서였지만 실제 그 욕망과 파급은 어디까지나 반공동체적인 것이었음을 뒤늦게 깨닫고 지금의 흑화한 모습이 되어버렸네요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1531835649829253000,
+		"in_reply_to_status_id_str": "1531835649829253121",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3965,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "지난 세월 동안 진보 친화적 입장을 취해온 것은 이들이 내세우는 공동체/연대란 명분에 속아서였지만 실제 그 욕망과 파급은 어디까지나 반공동체적인 것이었음을 뒤늦게 깨닫고 지금의 흑화한 모습이 되어버렸네요."
+	},
+	{
 		"created_at": "Wed Jun 01 03:10:53 +0000 2022",
 		"id": 1531835649829253000,
 		"id_str": "1531835649829253121",
@@ -288,7 +371,7 @@ Grailbird.data.tweets_2022_06 =
 			"name": "시월(October)",
 			"screen_name": "octbr10",
 			"location": "",
-			"description": "🇰🇷🇨🇭🇺🇸🇪🇸 물 들어올 때(만) 노 젓자. 세상만사가 궁금(해서 큰일). 하고싶은 거 많은데 힘들어서 못하겠다. ㅋ🏔🚵‍♀️🛼🏊‍♀️⛷🚣‍♀️\n\nhttps://t.co/85e7swU969\nhttps://t.co/8M7YbULkPJ",
+			"description": "🇰🇷🇨🇭🇺🇸🇪🇸 물 들어올 때(만) 노 젓자. 세상만사가 궁금(해서 큰일). 하고싶은 거 많은데 힘들어서 못하겠다. ㅋ🏔🚵♀️🛼🏊♀️⛷🚣♀️\n\nhttps://t.co/85e7swU969\nhttps://t.co/8M7YbULkPJ",
 			"url": null,
 			"entities": {
 				"description": {
