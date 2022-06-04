@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 04 11:42:45 +0000 2022",
+		"id": 1526598632354349000,
+		"id_str": "1533051628273958912",
+		"full_text": "@nyanfas 논노님 완전 기특해요٩(๑^o^๑)۶ 논노님 정말 굉장해요（๑✧∀✧๑） 논노님 완전 기특해요٩(๑^o^๑)۶ 논노님 정말 굉장해요（๑✧∀✧๑）논노님 완전 기특해요٩(๑^o^๑)۶ 논노님 정말 굉장해요（๑✧∀✧๑）논노님 완전 기특해요٩(๑^o^๑)۶ 논노님 정말 굉장해요（๑✧∀✧๑）논노님 완전 최고~~~!!!",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nyanfas",
+					"name": "논노",
+					"id": 1415211103303340000,
+					"id_str": "1415211103303340036",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1526522383816724500,
+		"in_reply_to_status_id_str": "1526522383816724480",
+		"in_reply_to_user_id": 1415211103303340000,
+		"in_reply_to_user_id_str": "1415211103303340036",
+		"in_reply_to_screen_name": "nyanfas",
+		"user": {
+			"id": 914122796589920300,
+			"id_str": "914122796589920256",
+			"name": "Reina/💙💛",
+			"screen_name": "nocturneofreina",
+			"location": "",
+			"description": "순간의 기억들이 모인 나의 야상곡 : FE지망생 / 개발공부 외 rt 많음 / 탐라의 ❤️ 요정 / 이별은 보통 블언블",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 241,
+			"friends_count": 390,
+			"listed_count": 2,
+			"created_at": "Sat Sep 30 13:40:33 +0000 2017",
+			"favourites_count": 25273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1499921555731595267/tyWS1_oS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1499921555731595267/tyWS1_oS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/914122796589920256/1646444152",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@nyanfas 논노님 완전 기특해요٩(๑^o^๑)۶ 논노님 정말 굉장해요（๑✧∀✧๑） 논노님 완전 기특해요٩(๑^o^๑)۶ 논노님 정말 굉장해요（๑✧∀✧๑）논노님 완전 기특해요٩(๑^o^๑)۶ 논노님 정말 굉장해요（๑✧∀✧๑）논노님 완전 기특해요٩(๑^o^๑)۶ 논노님 정말 굉장해요（๑✧∀✧๑）논노님 완전 최고~~~!!!"
+	},
+	{
 		"created_at": "Sat Jun 04 09:17:43 +0000 2022",
 		"id": 1533015129297940500,
 		"id_str": "1533015129297940480",
