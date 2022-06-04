@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 04 00:25:32 +0000 2022",
+		"id": 1532881198842019800,
+		"id_str": "1532881198842019840",
+		"full_text": "과거의 반규범이 주류화된 결과물일 수도. https://t.co/tgHNFe4lXt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tgHNFe4lXt",
+					"expanded_url": "https://twitter.com/anatatachi_ohno/status/1532875242972270592",
+					"display_url": "twitter.com/anatatachi_ohn…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 3982,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1532875242972270600,
+		"quoted_status_id_str": "1532875242972270592",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tgHNFe4lXt",
+			"expanded": "https://twitter.com/anatatachi_ohno/status/1532875242972270592",
+			"display": "twitter.com/anatatachi_ohn…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 04 00:01:52 +0000 2022",
+			"id": 1532875242972270600,
+			"id_str": "1532875242972270592",
+			"full_text": "スレッド。若い芸術家志望者にとって、かつては抵抗すべき規範があったが、今は見えない監視の目を意識させられているのか。。こういうことは、これまで問題化した様々な例を題材に大学の授業で考える時間が必要なのだろうけど、大学以前の鑑賞・リテラシー教育もますます重要になると思う。 https://t.co/H52xGG0MSp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				135
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/H52xGG0MSp",
+						"expanded_url": "https://twitter.com/yamakawafuyuki/status/1532352839527596032",
+						"display_url": "twitter.com/yamakawafuyuki…",
+						"indices": [
+							136,
+							159
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4554089774,
+				"id_str": "4554089774",
+				"name": "大野左紀子",
+				"screen_name": "anatatachi_ohno",
+				"location": "名古屋周辺",
+				"description": "● 細々と文筆\n● 著書『アーティスト症候群』『アート・ヒステリー』『「女」が邪魔をする』他　共著『ラッセンとは何だったのか？』他 \n● 連載「シネマの男  父なき時代のファーザーシップ」https://t.co/g01eDpjI4W\n●「性の源にある暴力性の避け難さ」https://t.co/9CxF6eCOdJ",
+				"url": "https://t.co/6Dh1mlPZUS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6Dh1mlPZUS",
+								"expanded_url": "http://profile.hatena.ne.jp/ohnosakiko/",
+								"display_url": "profile.hatena.ne.jp/ohnosakiko/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/g01eDpjI4W",
+								"expanded_url": "https://onl.bz/DWBJrzm",
+								"display_url": "onl.bz/DWBJrzm",
+								"indices": [
+									94,
+									117
+								]
+							},
+							{
+								"url": "https://t.co/9CxF6eCOdJ",
+								"expanded_url": "https://onl.bz/numi4Aw",
+								"display_url": "onl.bz/numi4Aw",
+								"indices": [
+									135,
+									158
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 13768,
+				"friends_count": 305,
+				"listed_count": 264,
+				"created_at": "Mon Dec 14 06:29:04 +0000 2015",
+				"favourites_count": 16849,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 31839,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875517359846440960/mkSChJct_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875517359846440960/mkSChJct_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4554089774/1521614912",
+				"profile_link_color": "BFE4E8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1532352839527596000,
+			"quoted_status_id_str": "1532352839527596032",
+			"quoted_status_permalink": {
+				"url": "https://t.co/H52xGG0MSp",
+				"expanded": "https://twitter.com/yamakawafuyuki/status/1532352839527596032",
+				"display": "twitter.com/yamakawafuyuki…"
+			},
+			"retweet_count": 18,
+			"favorite_count": 45,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "과거의 반규범이 주류화된 결과물일 수도. https://t.co/tgHNFe4lXt"
+	},
+	{
 		"created_at": "Fri Jun 03 22:57:11 +0000 2022",
 		"id": 1532858964781957000,
 		"id_str": "1532858964781957120",
