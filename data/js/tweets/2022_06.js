@@ -1,6 +1,560 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 06 09:26:30 +0000 2022",
+		"id": 1532504466813235200,
+		"id_str": "1533742116643684352",
+		"full_text": "https://t.co/hmejGtJOnh\nなかなかすごい話なので読んでください",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hmejGtJOnh",
+					"expanded_url": "https://gendai.ismedia.jp/articles/-/95783",
+					"display_url": "gendai.ismedia.jp/articles/-/957…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 60067534,
+			"id_str": "60067534",
+			"name": "飯田一史",
+			"screen_name": "cattower",
+			"location": "",
+			"description": "ライター。出版産業、コンテンツビジネス、マンガ、子どもの本、教育などについて取材・調査・執筆。単著『ウェブ小説30年史』『いま、子どもの本が売れる理由』『マンガ雑誌は死んだ』等。Yahoo!ニュース個人、現代ビジネス、新文化ほかに寄稿。DM以外の通知は切ってます　ichiiida@gmail.com.グロービスMBA",
+			"url": "https://t.co/aO0tRGBb8l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aO0tRGBb8l",
+							"expanded_url": "https://ichiiida.theletter.jp/",
+							"display_url": "ichiiida.theletter.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3087,
+			"friends_count": 1595,
+			"listed_count": 0,
+			"created_at": "Sat Jul 25 14:25:20 +0000 2009",
+			"favourites_count": 8697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/589950168423800832/TfReieL4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/589950168423800832/TfReieL4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/60067534/1532066106",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 22,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "https://t.co/hmejGtJOnh\nなかなかすごい話なので読んでください"
+	},
+	{
+		"created_at": "Mon Jun 06 09:26:28 +0000 2022",
+		"id": 1532560337161289700,
+		"id_str": "1533742105105145856",
+		"full_text": "저자가 연장자의 시각에서 관찰해서 그렇지, 실제로는 전세계적인 인싸 현상의 한 부분. https://t.co/DqJCqJmxOd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DqJCqJmxOd",
+					"expanded_url": "https://twitter.com/cattower/status/1532504466813235200",
+					"display_url": "twitter.com/cattower/statu…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8,
+			"friends_count": 31,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1532504466813235200,
+		"quoted_status_id_str": "1532504466813235200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DqJCqJmxOd",
+			"expanded": "https://twitter.com/cattower/status/1532504466813235200",
+			"display": "twitter.com/cattower/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 02 23:28:32 +0000 2022",
+			"id": 1532504466813235200,
+			"id_str": "1532504466813235200",
+			"full_text": "https://t.co/hmejGtJOnh\nなかなかすごい話なので読んでください",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				42
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hmejGtJOnh",
+						"expanded_url": "https://gendai.ismedia.jp/articles/-/95783",
+						"display_url": "gendai.ismedia.jp/articles/-/957…",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 60067534,
+				"id_str": "60067534",
+				"name": "飯田一史",
+				"screen_name": "cattower",
+				"location": "",
+				"description": "ライター。出版産業、コンテンツビジネス、マンガ、子どもの本、教育などについて取材・調査・執筆。単著『ウェブ小説30年史』『いま、子どもの本が売れる理由』『マンガ雑誌は死んだ』等。Yahoo!ニュース個人、現代ビジネス、新文化ほかに寄稿。DM以外の通知は切ってます　ichiiida@gmail.com.グロービスMBA",
+				"url": "https://t.co/aO0tRGBb8l",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aO0tRGBb8l",
+								"expanded_url": "https://ichiiida.theletter.jp/",
+								"display_url": "ichiiida.theletter.jp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3087,
+				"friends_count": 1595,
+				"listed_count": 0,
+				"created_at": "Sat Jul 25 14:25:20 +0000 2009",
+				"favourites_count": 8697,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18797,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "8B542B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/589950168423800832/TfReieL4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/589950168423800832/TfReieL4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/60067534/1532066106",
+				"profile_link_color": "9D582E",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저자가 연장자의 시각에서 관찰해서 그렇지, 실제로는 전세계적인 인싸 현상의 한 부분. https://t.co/DqJCqJmxOd"
+	},
+	{
+		"created_at": "Mon Jun 06 09:24:45 +0000 2022",
+		"id": 1533741473174552600,
+		"id_str": "1533741673221885952",
+		"full_text": "평균적 일상성과 조응하는 이런 개인주의의 발흥은 전 세계적으로 나타난 '인싸' 지향성과 분리하여 볼 수 없다.\nhttps://t.co/pQxHFOCRnt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pQxHFOCRnt",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1532560337161289728?t=H9AyzT2GH1VuA5tIrCr0pg&s=19",
+					"display_url": "twitter.com/ehrtjshxm7/sta…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1533737875506106400,
+		"in_reply_to_status_id_str": "1533737875506106368",
+		"in_reply_to_user_id": 834020169680719900,
+		"in_reply_to_user_id_str": "834020169680719872",
+		"in_reply_to_screen_name": "ehrtjshxm7",
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8,
+			"friends_count": 31,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1532560337161289700,
+		"quoted_status_id_str": "1532560337161289728",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pQxHFOCRnt",
+			"expanded": "https://twitter.com/ehrtjshxm7/status/1532560337161289728?t=H9AyzT2GH1VuA5tIrCr0pg&s=19",
+			"display": "twitter.com/ehrtjshxm7/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 03 03:10:32 +0000 2022",
+			"id": 1532560337161289700,
+			"id_str": "1532560337161289728",
+			"full_text": "저자가 연장자의 시각에서 관찰해서 그렇지, 실제로는 전세계적인 인싸 현상의 한 부분. https://t.co/DqJCqJmxOd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				47
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DqJCqJmxOd",
+						"expanded_url": "https://twitter.com/cattower/status/1532504466813235200",
+						"display_url": "twitter.com/cattower/statu…",
+						"indices": [
+							48,
+							71
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 834020169680719900,
+				"id_str": "834020169680719872",
+				"name": "서록",
+				"screen_name": "ehrtjshxm7",
+				"location": "",
+				"description": "당신을 읽습니다",
+				"url": "https://t.co/W9CtT3M9vi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/W9CtT3M9vi",
+								"expanded_url": "http://twilog.org/ehrtjshxm7",
+								"display_url": "twilog.org/ehrtjshxm7",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8,
+				"friends_count": 31,
+				"listed_count": 0,
+				"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+				"favourites_count": 713,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 230,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1532504466813235200,
+			"quoted_status_id_str": "1532504466813235200",
+			"quoted_status_permalink": {
+				"url": "https://t.co/DqJCqJmxOd",
+				"expanded": "https://twitter.com/cattower/status/1532504466813235200",
+				"display": "twitter.com/cattower/statu…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "평균적 일상성과 조응하는 이런 개인주의의 발흥은 전 세계적으로 나타난 '인싸' 지향성과 분리하여 볼 수 없다.\nhttps://t.co/pQxHFOCRnt"
+	},
+	{
 		"created_at": "Mon Jun 06 04:36:24 +0000 2022",
 		"id": 1533669110294655000,
 		"id_str": "1533669110294654976",
