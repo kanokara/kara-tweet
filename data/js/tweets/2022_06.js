@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 12 08:35:06 +0000 2022",
+		"id": 1535900353790500900,
+		"id_str": "1535903505495384064",
+		"full_text": "농지가 부족하던 전근대에는, 아무래도 \"남자는 경작하며 여자는 길쌈한다\"는 성별 분업이 더 뚜렷했으리라 추측할 만한 대목 (2/2) https://t.co/wNdhJD3S1o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1535899793049854000,
+					"id_str": "1535899793049853952",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/FVCcuWdVIAA4xE6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVCcuWdVIAA4xE6.jpg",
+					"url": "https://t.co/wNdhJD3S1o",
+					"display_url": "pic.twitter.com/wNdhJD3S1o",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1535900353790500864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 429,
+							"h": 683,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 429,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 427,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1535899793049854000,
+					"id_str": "1535899793049853952",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/FVCcuWdVIAA4xE6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVCcuWdVIAA4xE6.jpg",
+					"url": "https://t.co/wNdhJD3S1o",
+					"display_url": "pic.twitter.com/wNdhJD3S1o",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1535900353790500864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 429,
+							"h": 683,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 429,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 427,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1535899818198851600,
+					"id_str": "1535899818198851584",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/FVCcv0JUYAAWSWB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVCcv0JUYAAWSWB.jpg",
+					"url": "https://t.co/wNdhJD3S1o",
+					"display_url": "pic.twitter.com/wNdhJD3S1o",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1535900353790500864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 345,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 428,
+							"h": 844,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 428,
+							"h": 844,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1535899844815954000,
+					"id_str": "1535899844815953920",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/FVCcxXTVIAAT79R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVCcxXTVIAAT79R.jpg",
+					"url": "https://t.co/wNdhJD3S1o",
+					"display_url": "pic.twitter.com/wNdhJD3S1o",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1535900353790500864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 212,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 695,
+							"h": 217,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 695,
+							"h": 217,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1535899166752350200,
+		"in_reply_to_status_id_str": "1535899166752350211",
+		"in_reply_to_user_id": 834020169680719900,
+		"in_reply_to_user_id_str": "834020169680719872",
+		"in_reply_to_screen_name": "ehrtjshxm7",
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8,
+			"friends_count": 31,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 717,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "농지가 부족하던 전근대에는, 아무래도 \"남자는 경작하며 여자는 길쌈한다\"는 성별 분업이 더 뚜렷했으리라 추측할 만한 대목 (2/2) https://t.co/wNdhJD3S1o"
+	},
+	{
 		"created_at": "Sat Jun 11 12:10:07 +0000 2022",
 		"id": 1535595231332417500,
 		"id_str": "1535595231332417536",
