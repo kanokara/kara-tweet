@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 14 14:30:42 +0000 2022",
+		"id": 1536434210545643500,
+		"id_str": "1536717774407729152",
+		"full_text": "20 years ago, the Internet was an escape from the real world. Today, the real world is an escape from the Internet.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3429950987,
+			"id_str": "3429950987",
+			"name": "World of Engineering",
+			"screen_name": "engineers_feed",
+			"location": "Los Angeles, CA",
+			"description": "The most fun way to learn something new everyday. Support the project by sending a tip ₿ or become a WoE patron ⤴️",
+			"url": "https://t.co/E3S5LCfrSi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/E3S5LCfrSi",
+							"expanded_url": "http://world-of-engineering.org",
+							"display_url": "world-of-engineering.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2285928,
+			"friends_count": 42,
+			"listed_count": 4122,
+			"created_at": "Tue Aug 18 14:38:54 +0000 2015",
+			"favourites_count": 2006,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509808420030844929/ifEhyqHM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509808420030844929/ifEhyqHM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3429950987/1652330779",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1851,
+		"favorite_count": 9246,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "20 years ago, the Internet was an escape from the real world. Today, the real world is an escape from the Internet."
+	},
+	{
 		"created_at": "Tue Jun 14 14:05:14 +0000 2022",
 		"id": 1536711365565755400,
 		"id_str": "1536711365565755398",
