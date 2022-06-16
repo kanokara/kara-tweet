@@ -1,6 +1,1184 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 16 15:43:26 +0000 2022",
+		"id": 1537460850466111500,
+		"id_str": "1537460850466111489",
+		"full_text": "RT한 개인주의적 작법의 문제를 계속 지적해왔는데... 정체성정치/신좌파의 진정한 문제는 바로 문자 그대로의 정치, 커뮤니케이션을 제거해버린다는 데 있을지도.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 4024,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "RT한 개인주의적 작법의 문제를 계속 지적해왔는데... 정체성정치/신좌파의 진정한 문제는 바로 문자 그대로의 정치, 커뮤니케이션을 제거해버린다는 데 있을지도."
+	},
+	{
+		"created_at": "Thu Jun 16 15:40:49 +0000 2022",
+		"id": 1537295836581068800,
+		"id_str": "1537460195210973190",
+		"full_text": "これは私の印象とも一致する。多様性が尊重されるようになったことの影響だろうか。個人的な事柄についてはお互いに相手の領域に踏み込まなければ済むけど、共同で何かを行う際の作法はまた別に必要。それがないと恋愛もグループワークも政治もうまくいかない。 https://t.co/hAzkVf2CrD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hAzkVf2CrD",
+					"expanded_url": "https://twitter.com/kurageru/status/1537035046305280002",
+					"display_url": "twitter.com/kurageru/statu…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1422418843029229600,
+			"id_str": "1422418843029229571",
+			"name": "Daisuke IKEMOTO/池本　大輔",
+			"screen_name": "MGULaw",
+			"location": "",
+			"description": "Specialized in IR/Comparative European Politics. 都内の私大で国際関係論・比較政治を担当。主著は『ＥＵ政治論』（有斐閣ストゥディア，2020年）。\nhttps://t.co/WIoUgq8llG",
+			"url": "https://t.co/Juk3TgW32N",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Juk3TgW32N",
+							"expanded_url": "https://researchmap.jp/daisuke_ikemoto",
+							"display_url": "researchmap.jp/daisuke_ikemoto",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/WIoUgq8llG",
+							"expanded_url": "http://www.yuhikaku.co.jp/books/detail/9784641150737",
+							"display_url": "yuhikaku.co.jp/books/detail/9…",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2917,
+			"friends_count": 327,
+			"listed_count": 117,
+			"created_at": "Tue Aug 03 04:47:46 +0000 2021",
+			"favourites_count": 5135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422436165811007491/3dUS98RS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422436165811007491/3dUS98RS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1422418843029229571/1638692654",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1537035046305280000,
+		"quoted_status_id_str": "1537035046305280002",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hAzkVf2CrD",
+			"expanded": "https://twitter.com/kurageru/status/1537035046305280002",
+			"display": "twitter.com/kurageru/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 15 11:31:26 +0000 2022",
+			"id": 1537035046305280000,
+			"id_str": "1537035046305280002",
+			"full_text": "学生と話していると、今の若い人がどれほど禁欲的に他者の内面に踏み込むことを悪と感じ、忌避しているがわかって驚くことがある。恋人がいないというのもこういうスタンスと関わりがあるだろう。",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				91
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27636532,
+				"id_str": "27636532",
+				"name": "倉数茂　『名もなき王国』文庫化しました（ポプラ文庫）",
+				"screen_name": "kurageru",
+				"location": "",
+				"description": "小説家。第一回ピュアフル文学賞、第一回文学しゃべるの会文学賞。日本SF作家クラブ、変格ミステリ作家クラブ会員。視聴覚文芸部。BFCファイター。マイクロノベリスト。『忘れられたその場所で、』。東海大学教員",
+				"url": "https://t.co/slkfjWO96r",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/slkfjWO96r",
+								"expanded_url": "https://www.amazon.co.jp/%E6%9C%AC-%E5%80%89%E6%95%B0-%E8%8C%82/s?rh=n%3A465392%2Cp_27%3A%E5%80%89%E",
+								"display_url": "amazon.co.jp/%E6%9C%AC-%E5%…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2823,
+				"friends_count": 698,
+				"listed_count": 72,
+				"created_at": "Mon Mar 30 13:34:23 +0000 2009",
+				"favourites_count": 28814,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20573,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1489574656051130370/z1-WC0qE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1489574656051130370/z1-WC0qE_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9215,
+			"favorite_count": 54004,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ja"
+		},
+		"retweet_count": 10,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "これは私の印象とも一致する。多様性が尊重されるようになったことの影響だろうか。個人的な事柄についてはお互いに相手の領域に踏み込まなければ済むけど、共同で何かを行う際の作法はまた別に必要。それがないと恋愛もグループワークも政治もうまくいかない。 https://t.co/hAzkVf2CrD"
+	},
+	{
+		"created_at": "Thu Jun 16 15:39:42 +0000 2022",
+		"id": 1537306093093011500,
+		"id_str": "1537459911143362560",
+		"full_text": "割と「ドラマ」の脚本を書くときに、この問題は露呈してきたりしますね。ドラマは、人と人が関わり合って、対立したりしながら状況や関係性や心理が変化していくプロセスを書くものですが、これが書けなくなっている傾向は見えますね。対立しない、変化しない、という感じで……",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1537305704918577200,
+		"in_reply_to_status_id_str": "1537305704918577153",
+		"in_reply_to_user_id": 15737772,
+		"in_reply_to_user_id_str": "15737772",
+		"in_reply_to_screen_name": "naoya_fujita",
+		"user": {
+			"id": 15737772,
+			"id_str": "15737772",
+			"name": "藤田直哉@『攻殻機動隊論』『ららほら2』",
+			"screen_name": "naoya_fujita",
+			"location": "日本 東京",
+			"description": "文芸評論 博士（学術）日本映画大学准教授。編著『東日本大震災後文学論』『地域アート』『ららほら』単著『新世紀ゾンビ論』『虚構内存在』『シン・ゴジラ論』『娯楽としての炎上』『攻殻機動隊論』「わたしのなかにある深い矛盾、現在の状況からそのままやってくる深い矛盾を、体制側のなかで伝達していかねばなりません」（サルトル）",
+			"url": "https://t.co/Kp9WWmKOk6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Kp9WWmKOk6",
+							"expanded_url": "http://d.hatena.ne.jp/naoya_fujita/",
+							"display_url": "d.hatena.ne.jp/naoya_fujita/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12758,
+			"friends_count": 10513,
+			"listed_count": 670,
+			"created_at": "Tue Aug 05 16:04:48 +0000 2008",
+			"favourites_count": 42660,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1472768160671887361/36xVFNS0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1472768160671887361/36xVFNS0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15737772/1639297760",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "割と「ドラマ」の脚本を書くときに、この問題は露呈してきたりしますね。ドラマは、人と人が関わり合って、対立したりしながら状況や関係性や心理が変化していくプロセスを書くものですが、これが書けなくなっている傾向は見えますね。対立しない、変化しない、という感じで……"
+	},
+	{
+		"created_at": "Thu Jun 16 15:39:30 +0000 2022",
+		"id": 1537305704918577200,
+		"id_str": "1537459863483482113",
+		"full_text": "他者の内面に踏み込むことも、自己を開示することも、人と関わり合うことも忌避している感じですね。コンビニでの売り買いみたいに他者や社会とかかわっているというか……　コロナとか、社会の価値観の変化とか、SNSでの「友達地獄」的なもののせいもあるんだろうな、と感じます。 https://t.co/Mox8mqyMmo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mox8mqyMmo",
+					"expanded_url": "https://twitter.com/kurageru/status/1537035046305280002",
+					"display_url": "twitter.com/kurageru/statu…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15737772,
+			"id_str": "15737772",
+			"name": "藤田直哉@『攻殻機動隊論』『ららほら2』",
+			"screen_name": "naoya_fujita",
+			"location": "日本 東京",
+			"description": "文芸評論 博士（学術）日本映画大学准教授。編著『東日本大震災後文学論』『地域アート』『ららほら』単著『新世紀ゾンビ論』『虚構内存在』『シン・ゴジラ論』『娯楽としての炎上』『攻殻機動隊論』「わたしのなかにある深い矛盾、現在の状況からそのままやってくる深い矛盾を、体制側のなかで伝達していかねばなりません」（サルトル）",
+			"url": "https://t.co/Kp9WWmKOk6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Kp9WWmKOk6",
+							"expanded_url": "http://d.hatena.ne.jp/naoya_fujita/",
+							"display_url": "d.hatena.ne.jp/naoya_fujita/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12758,
+			"friends_count": 10513,
+			"listed_count": 670,
+			"created_at": "Tue Aug 05 16:04:48 +0000 2008",
+			"favourites_count": 42660,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1472768160671887361/36xVFNS0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1472768160671887361/36xVFNS0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15737772/1639297760",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1537035046305280000,
+		"quoted_status_id_str": "1537035046305280002",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Mox8mqyMmo",
+			"expanded": "https://twitter.com/kurageru/status/1537035046305280002",
+			"display": "twitter.com/kurageru/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 15 11:31:26 +0000 2022",
+			"id": 1537035046305280000,
+			"id_str": "1537035046305280002",
+			"full_text": "学生と話していると、今の若い人がどれほど禁欲的に他者の内面に踏み込むことを悪と感じ、忌避しているがわかって驚くことがある。恋人がいないというのもこういうスタンスと関わりがあるだろう。",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				91
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27636532,
+				"id_str": "27636532",
+				"name": "倉数茂　『名もなき王国』文庫化しました（ポプラ文庫）",
+				"screen_name": "kurageru",
+				"location": "",
+				"description": "小説家。第一回ピュアフル文学賞、第一回文学しゃべるの会文学賞。日本SF作家クラブ、変格ミステリ作家クラブ会員。視聴覚文芸部。BFCファイター。マイクロノベリスト。『忘れられたその場所で、』。東海大学教員",
+				"url": "https://t.co/slkfjWO96r",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/slkfjWO96r",
+								"expanded_url": "https://www.amazon.co.jp/%E6%9C%AC-%E5%80%89%E6%95%B0-%E8%8C%82/s?rh=n%3A465392%2Cp_27%3A%E5%80%89%E",
+								"display_url": "amazon.co.jp/%E6%9C%AC-%E5%…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2823,
+				"friends_count": 698,
+				"listed_count": 72,
+				"created_at": "Mon Mar 30 13:34:23 +0000 2009",
+				"favourites_count": 28814,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20573,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1489574656051130370/z1-WC0qE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1489574656051130370/z1-WC0qE_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9215,
+			"favorite_count": 54004,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ja"
+		},
+		"retweet_count": 20,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "他者の内面に踏み込むことも、自己を開示することも、人と関わり合うことも忌避している感じですね。コンビニでの売り買いみたいに他者や社会とかかわっているというか……　コロナとか、社会の価値観の変化とか、SNSでの「友達地獄」的なもののせいもあるんだろうな、と感じます。 https://t.co/Mox8mqyMmo"
+	},
+	{
+		"created_at": "Thu Jun 16 15:38:31 +0000 2022",
+		"id": 1537035050185035800,
+		"id_str": "1537459614249529344",
+		"full_text": "なぜこう思ったかというと、授業である小説を読んでいて、恋人の「内面」を知ろうとするのは暴力ではないかという意見が出たから。なるほど、そう感じるのかと。恋人ともジェントルな距離を保ち続けるということかと。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1537035048977068000,
+		"in_reply_to_status_id_str": "1537035048977068032",
+		"in_reply_to_user_id": 27636532,
+		"in_reply_to_user_id_str": "27636532",
+		"in_reply_to_screen_name": "kurageru",
+		"user": {
+			"id": 27636532,
+			"id_str": "27636532",
+			"name": "倉数茂　『名もなき王国』文庫化しました（ポプラ文庫）",
+			"screen_name": "kurageru",
+			"location": "",
+			"description": "小説家。第一回ピュアフル文学賞、第一回文学しゃべるの会文学賞。日本SF作家クラブ、変格ミステリ作家クラブ会員。視聴覚文芸部。BFCファイター。マイクロノベリスト。『忘れられたその場所で、』。東海大学教員",
+			"url": "https://t.co/slkfjWO96r",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/slkfjWO96r",
+							"expanded_url": "https://www.amazon.co.jp/%E6%9C%AC-%E5%80%89%E6%95%B0-%E8%8C%82/s?rh=n%3A465392%2Cp_27%3A%E5%80%89%E",
+							"display_url": "amazon.co.jp/%E6%9C%AC-%E5%…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2823,
+			"friends_count": 698,
+			"listed_count": 72,
+			"created_at": "Mon Mar 30 13:34:23 +0000 2009",
+			"favourites_count": 28814,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1489574656051130370/z1-WC0qE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1489574656051130370/z1-WC0qE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1099,
+		"favorite_count": 4716,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "なぜこう思ったかというと、授業である小説を読んでいて、恋人の「内面」を知ろうとするのは暴力ではないかという意見が出たから。なるほど、そう感じるのかと。恋人ともジェントルな距離を保ち続けるということかと。"
+	},
+	{
+		"created_at": "Thu Jun 16 15:38:29 +0000 2022",
+		"id": 1537035048977068000,
+		"id_str": "1537459604615221253",
+		"full_text": "昨年映画『花束みたいな恋をした』が話題になり、ヒットしたのは、マイナーな趣味を介して男女が一切の暴力性と無縁に通じ合い、心と体がつながるという奇跡のような事態を描いていたからではないだろうか。性欲からも暴力性が浄化され趣味こそが愛を生む。サブカル者のユートピア。少なくとも前半は。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1537035047551012900,
+		"in_reply_to_status_id_str": "1537035047551012864",
+		"in_reply_to_user_id": 27636532,
+		"in_reply_to_user_id_str": "27636532",
+		"in_reply_to_screen_name": "kurageru",
+		"user": {
+			"id": 27636532,
+			"id_str": "27636532",
+			"name": "倉数茂　『名もなき王国』文庫化しました（ポプラ文庫）",
+			"screen_name": "kurageru",
+			"location": "",
+			"description": "小説家。第一回ピュアフル文学賞、第一回文学しゃべるの会文学賞。日本SF作家クラブ、変格ミステリ作家クラブ会員。視聴覚文芸部。BFCファイター。マイクロノベリスト。『忘れられたその場所で、』。東海大学教員",
+			"url": "https://t.co/slkfjWO96r",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/slkfjWO96r",
+							"expanded_url": "https://www.amazon.co.jp/%E6%9C%AC-%E5%80%89%E6%95%B0-%E8%8C%82/s?rh=n%3A465392%2Cp_27%3A%E5%80%89%E",
+							"display_url": "amazon.co.jp/%E6%9C%AC-%E5%…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2823,
+			"friends_count": 698,
+			"listed_count": 72,
+			"created_at": "Mon Mar 30 13:34:23 +0000 2009",
+			"favourites_count": 28814,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1489574656051130370/z1-WC0qE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1489574656051130370/z1-WC0qE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 753,
+		"favorite_count": 3997,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "昨年映画『花束みたいな恋をした』が話題になり、ヒットしたのは、マイナーな趣味を介して男女が一切の暴力性と無縁に通じ合い、心と体がつながるという奇跡のような事態を描いていたからではないだろうか。性欲からも暴力性が浄化され趣味こそが愛を生む。サブカル者のユートピア。少なくとも前半は。"
+	},
+	{
+		"created_at": "Thu Jun 16 15:38:27 +0000 2022",
+		"id": 1537035047551012900,
+		"id_str": "1537459596436307968",
+		"full_text": "付け加えておくと、他者を心理的に侵犯しないよう常に気を遣うというのは、優れた倫理的態度だと思う。ただ、それだけでは人間関係は進展しないとも感じてしまう。ここで内面に踏み込むというのは、相手の「本心」を知りたがるとか、相手の言葉に強く異を唱えるとかいったこと。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1537035046305280000,
+		"in_reply_to_status_id_str": "1537035046305280002",
+		"in_reply_to_user_id": 27636532,
+		"in_reply_to_user_id_str": "27636532",
+		"in_reply_to_screen_name": "kurageru",
+		"user": {
+			"id": 27636532,
+			"id_str": "27636532",
+			"name": "倉数茂　『名もなき王国』文庫化しました（ポプラ文庫）",
+			"screen_name": "kurageru",
+			"location": "",
+			"description": "小説家。第一回ピュアフル文学賞、第一回文学しゃべるの会文学賞。日本SF作家クラブ、変格ミステリ作家クラブ会員。視聴覚文芸部。BFCファイター。マイクロノベリスト。『忘れられたその場所で、』。東海大学教員",
+			"url": "https://t.co/slkfjWO96r",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/slkfjWO96r",
+							"expanded_url": "https://www.amazon.co.jp/%E6%9C%AC-%E5%80%89%E6%95%B0-%E8%8C%82/s?rh=n%3A465392%2Cp_27%3A%E5%80%89%E",
+							"display_url": "amazon.co.jp/%E6%9C%AC-%E5%…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2823,
+			"friends_count": 698,
+			"listed_count": 72,
+			"created_at": "Mon Mar 30 13:34:23 +0000 2009",
+			"favourites_count": 28814,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1489574656051130370/z1-WC0qE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1489574656051130370/z1-WC0qE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1498,
+		"favorite_count": 7103,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "付け加えておくと、他者を心理的に侵犯しないよう常に気を遣うというのは、優れた倫理的態度だと思う。ただ、それだけでは人間関係は進展しないとも感じてしまう。ここで内面に踏み込むというのは、相手の「本心」を知りたがるとか、相手の言葉に強く異を唱えるとかいったこと。"
+	},
+	{
+		"created_at": "Thu Jun 16 15:38:24 +0000 2022",
+		"id": 1537035046305280000,
+		"id_str": "1537459584205725696",
+		"full_text": "学生と話していると、今の若い人がどれほど禁欲的に他者の内面に踏み込むことを悪と感じ、忌避しているがわかって驚くことがある。恋人がいないというのもこういうスタンスと関わりがあるだろう。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27636532,
+			"id_str": "27636532",
+			"name": "倉数茂　『名もなき王国』文庫化しました（ポプラ文庫）",
+			"screen_name": "kurageru",
+			"location": "",
+			"description": "小説家。第一回ピュアフル文学賞、第一回文学しゃべるの会文学賞。日本SF作家クラブ、変格ミステリ作家クラブ会員。視聴覚文芸部。BFCファイター。マイクロノベリスト。『忘れられたその場所で、』。東海大学教員",
+			"url": "https://t.co/slkfjWO96r",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/slkfjWO96r",
+							"expanded_url": "https://www.amazon.co.jp/%E6%9C%AC-%E5%80%89%E6%95%B0-%E8%8C%82/s?rh=n%3A465392%2Cp_27%3A%E5%80%89%E",
+							"display_url": "amazon.co.jp/%E6%9C%AC-%E5%…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2823,
+			"friends_count": 698,
+			"listed_count": 72,
+			"created_at": "Mon Mar 30 13:34:23 +0000 2009",
+			"favourites_count": 28814,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1489574656051130370/z1-WC0qE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1489574656051130370/z1-WC0qE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9215,
+		"favorite_count": 54004,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "学生と話していると、今の若い人がどれほど禁欲的に他者の内面に踏み込むことを悪と感じ、忌避しているがわかって驚くことがある。恋人がいないというのもこういうスタンスと関わりがあるだろう。"
+	},
+	{
+		"created_at": "Thu Jun 16 15:28:54 +0000 2022",
+		"id": 1537457196543647700,
+		"id_str": "1537457196543647744",
+		"full_text": "서구식 주권국가란 사고방식의 한계. 침해될 수 없는 모두 동일한 주권을 보유했다는 원자적 동일성사고에서 비롯된 것. 이 사고방식은 통합을 이뤄내기 어려움. https://t.co/Z3v9fUFMl4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z3v9fUFMl4",
+					"expanded_url": "https://twitter.com/KiyikKiyik/status/1537247945120428032",
+					"display_url": "twitter.com/KiyikKiyik/sta…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 4024,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1537247945120428000,
+		"quoted_status_id_str": "1537247945120428032",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Z3v9fUFMl4",
+			"expanded": "https://twitter.com/KiyikKiyik/status/1537247945120428032",
+			"display": "twitter.com/KiyikKiyik/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 16 01:37:25 +0000 2022",
+			"id": 1537247945120428000,
+			"id_str": "1537247945120428032",
+			"full_text": "국가의 영향력이 줄어들어야 하는 이유가, 글로벌한 이슈에는 글로벌한 대응을 해야 하기 때문에,였는데 팬데믹 상황에서도 봤지만 그냥 국가중심으로 대응함. 기후문제를 해결하면 될 걸 그냥 전쟁이나 하는 게 지금 체제.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				119
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1537247039784112000,
+			"in_reply_to_status_id_str": "1537247039784112128",
+			"in_reply_to_user_id": 234639250,
+			"in_reply_to_user_id_str": "234639250",
+			"in_reply_to_screen_name": "KiyikKiyik",
+			"user": {
+				"id": 234639250,
+				"id_str": "234639250",
+				"name": "배명훈",
+				"screen_name": "KiyikKiyik",
+				"location": "서울",
+				"description": "Bae Myung-hoon. Writer. 소설가. https://t.co/P0xjciimRV",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/P0xjciimRV",
+								"expanded_url": "http://blossomcreative.co.kr",
+								"display_url": "blossomcreative.co.kr",
+								"indices": [
+									29,
+									52
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 9435,
+				"friends_count": 457,
+				"listed_count": 171,
+				"created_at": "Thu Jan 06 05:22:26 +0000 2011",
+				"favourites_count": 695,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22434,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1536884163064008704/Xb0532oM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1536884163064008704/Xb0532oM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/234639250/1410106654",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서구식 주권국가란 사고방식의 한계. 침해될 수 없는 모두 동일한 주권을 보유했다는 원자적 동일성사고에서 비롯된 것. 이 사고방식은 통합을 이뤄내기 어려움. https://t.co/Z3v9fUFMl4"
+	},
+	{
 		"created_at": "Wed Jun 15 15:47:34 +0000 2022",
 		"id": 1537099505438544000,
 		"id_str": "1537099505438543873",
