@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 18 19:29:56 +0000 2022",
+		"id": 1538242629733073000,
+		"id_str": "1538242629733072896",
+		"full_text": "인류가 자유라는 미명하에 이렇게 죽어가는구나. https://t.co/72loJvXQPE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/72loJvXQPE",
+					"expanded_url": "https://twitter.com/Realtimepainfo/status/1537637483202383872",
+					"display_url": "twitter.com/Realtimepainfo…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 4026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1537637483202384000,
+		"quoted_status_id_str": "1537637483202383872",
+		"quoted_status_permalink": {
+			"url": "https://t.co/72loJvXQPE",
+			"expanded": "https://twitter.com/Realtimepainfo/status/1537637483202383872",
+			"display": "twitter.com/Realtimepainfo…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 17 03:25:18 +0000 2022",
+			"id": 1537637483202384000,
+			"id_str": "1537637483202383872",
+			"full_text": "\" 왜 자기 자식은 취직만 어찌저찌 했을 뿐인 찐따라는걸 인정 못하는걸까?\" 너무 심금을 울림 https://t.co/td34cmoMXz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				52
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/td34cmoMXz",
+						"expanded_url": "https://twitter.com/leesin_plus5/status/1537275385993625600",
+						"display_url": "twitter.com/leesin_plus5/s…",
+						"indices": [
+							53,
+							76
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1057923578023145500,
+				"id_str": "1057923578023145474",
+				"name": "실시간고통정보",
+				"screen_name": "Realtimepainfo",
+				"location": "무의미한 신앙을 지속함",
+				"description": "실패한 디자인의 생물 #열심히살지않기협회",
+				"url": "https://t.co/EwCd8gALcE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EwCd8gALcE",
+								"expanded_url": "https://peing.net/ko/realtimepainfo",
+								"display_url": "peing.net/ko/realtimepai…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1923,
+				"friends_count": 826,
+				"listed_count": 8,
+				"created_at": "Thu Nov 01 09:13:31 +0000 2018",
+				"favourites_count": 24275,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 19469,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1418186579835686912/Blr5-tWm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1418186579835686912/Blr5-tWm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1057923578023145474/1617287166",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1537275385993625600,
+			"quoted_status_id_str": "1537275385993625600",
+			"quoted_status_permalink": {
+				"url": "https://t.co/td34cmoMXz",
+				"expanded": "https://twitter.com/leesin_plus5/status/1537275385993625600",
+				"display": "twitter.com/leesin_plus5/s…"
+			},
+			"retweet_count": 7041,
+			"favorite_count": 2249,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인류가 자유라는 미명하에 이렇게 죽어가는구나. https://t.co/72loJvXQPE"
+	},
+	{
 		"created_at": "Sat Jun 18 04:22:51 +0000 2022",
 		"id": 1538013291867680800,
 		"id_str": "1538014351810269184",
