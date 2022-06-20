@@ -1,6 +1,973 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 20 16:55:13 +0000 2022",
+		"id": 1538928350290653200,
+		"id_str": "1538928470092582912",
+		"full_text": "이런 관점에서 보면 일본 젊은 층에서 먼저 일어났던 보수화와 맥이 닿아있는 문제고, 세계 전체가 이런 방향으로 흘러가리라 예상 가능하지 않을까.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1538921911178014700,
+		"in_reply_to_status_id_str": "1538921911178014720",
+		"in_reply_to_user_id": 834020169680719900,
+		"in_reply_to_user_id_str": "834020169680719872",
+		"in_reply_to_screen_name": "ehrtjshxm7",
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10,
+			"friends_count": 31,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 723,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이런 관점에서 보면 일본 젊은 층에서 먼저 일어났던 보수화와 맥이 닿아있는 문제고, 세계 전체가 이런 방향으로 흘러가리라 예상 가능하지 않을까."
+	},
+	{
+		"created_at": "Mon Jun 20 16:29:59 +0000 2022",
+		"id": 1538921911178014700,
+		"id_str": "1538922117227368449",
+		"full_text": "90년대생은 유례가 없는 사회적 취약계층임에도, 남성 집단은 악마화만 당하며 윗세대에게 가야 할 청구서를 대신 받기까지 하는 상황.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1538917093545980000,
+		"in_reply_to_status_id_str": "1538917093545979904",
+		"in_reply_to_user_id": 834020169680719900,
+		"in_reply_to_user_id_str": "834020169680719872",
+		"in_reply_to_screen_name": "ehrtjshxm7",
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10,
+			"friends_count": 31,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 723,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "90년대생은 유례가 없는 사회적 취약계층임에도, 남성 집단은 악마화만 당하며 윗세대에게 가야 할 청구서를 대신 받기까지 하는 상황."
+	},
+	{
+		"created_at": "Mon Jun 20 16:18:43 +0000 2022",
+		"id": 1538917093545980000,
+		"id_str": "1538919284402888704",
+		"full_text": "이대남이 도매금으로 까이는 건 억울할 수밖에 없는 실정.\nhttps://t.co/SExLJfh2ih",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SExLJfh2ih",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1536434039581995008?t=YtRbuEOVVRzuLNX9OPZrtw&s=19",
+					"display_url": "twitter.com/ehrtjshxm7/sta…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1538916232060997600,
+		"in_reply_to_status_id_str": "1538916232060997632",
+		"in_reply_to_user_id": 834020169680719900,
+		"in_reply_to_user_id_str": "834020169680719872",
+		"in_reply_to_screen_name": "ehrtjshxm7",
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10,
+			"friends_count": 31,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 723,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1536434039581995000,
+		"quoted_status_id_str": "1536434039581995008",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SExLJfh2ih",
+			"expanded": "https://twitter.com/ehrtjshxm7/status/1536434039581995008?t=YtRbuEOVVRzuLNX9OPZrtw&s=19",
+			"display": "twitter.com/ehrtjshxm7/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 13 19:43:15 +0000 2022",
+			"id": 1536434039581995000,
+			"id_str": "1536434039581995008",
+			"full_text": "기혼남성의 가사노동과 관련, 통계청의 『2019년 생활시간조사』를 분석. 앞선 세대들과 달리 Y세대(1980~)는 성 역할 태도 가설 · 경제적 효율성 가설이 아닌, 시간 가용성 가설 · 요구 반응 가능성 가설에 의해서만 설명 가능한 결과. (이현아·김주희(2021). 세대별 기혼남성의 가사노동시간 연구) https://t.co/RPMfwJYd6z",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				171
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1536432635031208000,
+						"id_str": "1536432635031207936",
+						"indices": [
+							172,
+							195
+						],
+						"media_url": "http://pbs.twimg.com/media/FVKBV1haQAAUIqW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FVKBV1haQAAUIqW.jpg",
+						"url": "https://t.co/RPMfwJYd6z",
+						"display_url": "pic.twitter.com/RPMfwJYd6z",
+						"expanded_url": "https://twitter.com/ehrtjshxm7/status/1536434039581995008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 622,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 824,
+								"h": 754,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 824,
+								"h": 754,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1536432635031208000,
+						"id_str": "1536432635031207936",
+						"indices": [
+							172,
+							195
+						],
+						"media_url": "http://pbs.twimg.com/media/FVKBV1haQAAUIqW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FVKBV1haQAAUIqW.jpg",
+						"url": "https://t.co/RPMfwJYd6z",
+						"display_url": "pic.twitter.com/RPMfwJYd6z",
+						"expanded_url": "https://twitter.com/ehrtjshxm7/status/1536434039581995008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 622,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 824,
+								"h": 754,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 824,
+								"h": 754,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1536432658603192300,
+						"id_str": "1536432658603192320",
+						"indices": [
+							172,
+							195
+						],
+						"media_url": "http://pbs.twimg.com/media/FVKBXNVaMAA8-Lz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FVKBXNVaMAA8-Lz.jpg",
+						"url": "https://t.co/RPMfwJYd6z",
+						"display_url": "pic.twitter.com/RPMfwJYd6z",
+						"expanded_url": "https://twitter.com/ehrtjshxm7/status/1536434039581995008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 398,
+								"h": 578,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 398,
+								"h": 578,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 398,
+								"h": 578,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1536432682783359000,
+						"id_str": "1536432682783358976",
+						"indices": [
+							172,
+							195
+						],
+						"media_url": "http://pbs.twimg.com/media/FVKBYnaaQAAI-PG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FVKBYnaaQAAI-PG.jpg",
+						"url": "https://t.co/RPMfwJYd6z",
+						"display_url": "pic.twitter.com/RPMfwJYd6z",
+						"expanded_url": "https://twitter.com/ehrtjshxm7/status/1536434039581995008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 396,
+								"h": 626,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 396,
+								"h": 626,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 396,
+								"h": 626,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1536432710780330000,
+						"id_str": "1536432710780329984",
+						"indices": [
+							172,
+							195
+						],
+						"media_url": "http://pbs.twimg.com/media/FVKBaPtaIAAcmE6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FVKBaPtaIAAcmE6.jpg",
+						"url": "https://t.co/RPMfwJYd6z",
+						"display_url": "pic.twitter.com/RPMfwJYd6z",
+						"expanded_url": "https://twitter.com/ehrtjshxm7/status/1536434039581995008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 408,
+								"h": 607,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 408,
+								"h": 607,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 408,
+								"h": 607,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 834020169680719900,
+				"id_str": "834020169680719872",
+				"name": "서록",
+				"screen_name": "ehrtjshxm7",
+				"location": "",
+				"description": "당신을 읽습니다",
+				"url": "https://t.co/W9CtT3M9vi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/W9CtT3M9vi",
+								"expanded_url": "http://twilog.org/ehrtjshxm7",
+								"display_url": "twilog.org/ehrtjshxm7",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10,
+				"friends_count": 31,
+				"listed_count": 0,
+				"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+				"favourites_count": 723,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 264,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이대남이 도매금으로 까이는 건 억울할 수밖에 없는 실정.\nhttps://t.co/SExLJfh2ih"
+	},
+	{
+		"created_at": "Mon Jun 20 16:18:40 +0000 2022",
+		"id": 1538916232060997600,
+		"id_str": "1538919270117101568",
+		"full_text": "86세대의 영구 집권.\n국회 비중 / 기업 비중 / \n소득 점유 / 세대 비교 / https://t.co/3lBQ6vM1yv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1538916208615243800,
+					"id_str": "1538916208615243776",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/FVtUI2GaQAAO2ri.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVtUI2GaQAAO2ri.jpg",
+					"url": "https://t.co/3lBQ6vM1yv",
+					"display_url": "pic.twitter.com/3lBQ6vM1yv",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1538916232060997632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 516,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 516,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 516,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538916208615243800,
+					"id_str": "1538916208615243776",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/FVtUI2GaQAAO2ri.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVtUI2GaQAAO2ri.jpg",
+					"url": "https://t.co/3lBQ6vM1yv",
+					"display_url": "pic.twitter.com/3lBQ6vM1yv",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1538916232060997632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 516,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 516,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 516,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1538916217616216000,
+					"id_str": "1538916217616216064",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/FVtUJXoaMAAsZ2Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVtUJXoaMAAsZ2Y.jpg",
+					"url": "https://t.co/3lBQ6vM1yv",
+					"display_url": "pic.twitter.com/3lBQ6vM1yv",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1538916232060997632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 559,
+							"h": 473,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 559,
+							"h": 473,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 559,
+							"h": 473,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1538916224910135300,
+					"id_str": "1538916224910135296",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/FVtUJyzakAA9Bj_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVtUJyzakAA9Bj_.jpg",
+					"url": "https://t.co/3lBQ6vM1yv",
+					"display_url": "pic.twitter.com/3lBQ6vM1yv",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1538916232060997632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 566,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 566,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 550,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1538916228932452400,
+					"id_str": "1538916228932452352",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/FVtUKByaQAABa7X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVtUKByaQAABa7X.jpg",
+					"url": "https://t.co/3lBQ6vM1yv",
+					"display_url": "pic.twitter.com/3lBQ6vM1yv",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1538916232060997632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 560,
+							"h": 949,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 560,
+							"h": 949,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 401,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1538914552389152800,
+		"in_reply_to_status_id_str": "1538914552389152768",
+		"in_reply_to_user_id": 834020169680719900,
+		"in_reply_to_user_id_str": "834020169680719872",
+		"in_reply_to_screen_name": "ehrtjshxm7",
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10,
+			"friends_count": 31,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 723,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "86세대의 영구 집권.\n국회 비중 / 기업 비중 / \n소득 점유 / 세대 비교 / https://t.co/3lBQ6vM1yv"
+	},
+	{
+		"created_at": "Mon Jun 20 16:18:37 +0000 2022",
+		"id": 1538914552389152800,
+		"id_str": "1538919259488735233",
+		"full_text": "이렇게 본다면 진보적 스탠스는 사실 적폐적 이기심의 발로.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1538913818742431700,
+		"in_reply_to_status_id_str": "1538913818742431745",
+		"in_reply_to_user_id": 834020169680719900,
+		"in_reply_to_user_id_str": "834020169680719872",
+		"in_reply_to_screen_name": "ehrtjshxm7",
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10,
+			"friends_count": 31,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 723,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이렇게 본다면 진보적 스탠스는 사실 적폐적 이기심의 발로."
+	},
+	{
 		"created_at": "Sat Jun 18 19:29:56 +0000 2022",
 		"id": 1538242629733073000,
 		"id_str": "1538242629733072896",
