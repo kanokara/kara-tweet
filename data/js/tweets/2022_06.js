@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 23 01:33:45 +0000 2022",
+		"id": 1539768262388752400,
+		"id_str": "1539783736627441665",
+		"full_text": "그냥 시대의 화두가 달라진거임.\n저 시대는 개인의 여가 보다는 공동체를 위한 신의성실이 중요한 시대였고, 연예인도 저런 프로그램에 출연해서 자신이 공동체의 평범한 일부일 뿐임을 증명해야 사회 안에 종속될 수 있었음. 애초에 저 프로그램 엠씨가 누군지 안다면… https://t.co/4xIk89rOId",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4xIk89rOId",
+					"expanded_url": "https://twitter.com/jjing_sewing/status/1539465334226227200",
+					"display_url": "twitter.com/jjing_sewing/s…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1480542152279326700,
+			"id_str": "1480542152279326720",
+			"name": "뭉탱",
+			"screen_name": "moooongtang",
+			"location": "",
+			"description": "91G. INTP. 웹툰계 종사. 고양이와 1인거주. 22.4.3~ @kmmteresting에게 잡혀사는 중.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101,
+			"friends_count": 189,
+			"listed_count": 0,
+			"created_at": "Mon Jan 10 14:08:58 +0000 2022",
+			"favourites_count": 3816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1480542357825421314/imws6_9h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1480542357825421314/imws6_9h_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1539465334226227200,
+		"quoted_status_id_str": "1539465334226227200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4xIk89rOId",
+			"expanded": "https://twitter.com/jjing_sewing/status/1539465334226227200",
+			"display": "twitter.com/jjing_sewing/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 22 04:28:32 +0000 2022",
+			"id": 1539465334226227200,
+			"id_str": "1539465334226227200",
+			"full_text": "근데 저 방송이 어렵게 번 돈을 기부하는 것 자체로도 좋은 방송이었지만 세상에 다양하고 힘든 일이 많다는 걸 보여주는 데에도 의미가 있엇음. 지금은 저런 힘들고 어려운 일이 존재한다는 걸 상상도 못하잖아. 뭔 죄 부자들이 노는거만 방송함. 혼자/여럿이/연예인이/애랑/이성이랑/부부가… https://t.co/0JqCIfkkiE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				158
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0JqCIfkkiE",
+						"expanded_url": "https://twitter.com/sumomonosuke/status/1538798971375652870",
+						"display_url": "twitter.com/sumomonosuke/s…",
+						"indices": [
+							159,
+							182
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1153517678826442800,
+				"id_str": "1153517678826442752",
+				"name": "찡찡이",
+				"screen_name": "jjing_sewing",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 86,
+				"friends_count": 116,
+				"listed_count": 0,
+				"created_at": "Tue Jul 23 04:10:20 +0000 2019",
+				"favourites_count": 3821,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34528,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1510131182578503690/-fkvUC1Y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1510131182578503690/-fkvUC1Y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1153517678826442752/1564476010",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1538798971375652900,
+			"quoted_status_id_str": "1538798971375652870",
+			"quoted_status_permalink": {
+				"url": "https://t.co/0JqCIfkkiE",
+				"expanded": "https://twitter.com/sumomonosuke/status/1538798971375652870",
+				"display": "twitter.com/sumomonosuke/s…"
+			},
+			"retweet_count": 7746,
+			"favorite_count": 2383,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그냥 시대의 화두가 달라진거임.\n저 시대는 개인의 여가 보다는 공동체를 위한 신의성실이 중요한 시대였고, 연예인도 저런 프로그램에 출연해서 자신이 공동체의 평범한 일부일 뿐임을 증명해야 사회 안에 종속될 수 있었음. 애초에 저 프로그램 엠씨가 누군지 안다면… https://t.co/4xIk89rOId"
+	},
+	{
 		"created_at": "Wed Jun 22 05:13:24 +0000 2022",
 		"id": 1539476626961944600,
 		"id_str": "1539476626961944576",
