@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 27 09:22:27 +0000 2022",
+		"id": 1541276978665255000,
+		"id_str": "1541351241657511936",
+		"full_text": "@server8key https://t.co/HSaTmxVXGQ재일조선인-참정권-문제에-대하여\n\n예에에에에에에에에전에 대학 레포트 쓴것 재탕...삼탕...",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "server8key",
+					"name": "네프요나",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HSaTmxVXGQ",
+					"expanded_url": "https://quetzalcoatl1104.tumblr.com/post/76373506308/",
+					"display_url": "quetzalcoatl1104.tumblr.com/post/763735063…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1541275793573027800,
+		"in_reply_to_status_id_str": "1541275793573027840",
+		"in_reply_to_user_id": 103580145,
+		"in_reply_to_user_id_str": "103580145",
+		"in_reply_to_screen_name": "L3V14TH4N1104",
+		"user": {
+			"id": 103580145,
+			"id_str": "103580145",
+			"name": "L3V14",
+			"screen_name": "L3V14TH4N1104",
+			"location": "Time and Space for bussiness. ",
+			"description": "I DIDN'T CHOOSE THE PUG LIFE, THE PUG LIFE CHOOSE ME. // 그대 삶이 무사하길, 그리고 항상 평안이 당신과 함께하길. //프사는 @moo_seon 님이 그려주셨습니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1172,
+			"friends_count": 678,
+			"listed_count": 31,
+			"created_at": "Sun Jan 10 14:24:54 +0000 2010",
+			"favourites_count": 80119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 291124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F0F0F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202374898355556352/WocoQsKW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202374898355556352/WocoQsKW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103580145/1418183586",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@server8key https://t.co/HSaTmxVXGQ재일조선인-참정권-문제에-대하여\n\n예에에에에에에에에전에 대학 레포트 쓴것 재탕...삼탕..."
+	},
+	{
+		"created_at": "Mon Jun 27 09:22:24 +0000 2022",
+		"id": 1541275793573027800,
+		"id_str": "1541351230114779136",
+		"full_text": "@server8key 그때 레포트 논조는 '이새끼들(일본 제국)이 무슨 조선에서 법치주의 했냐, 내적 완결성 타당성도 없는 새끼들인데' 였는데 요즘 들어서는 사실 그게 무슨 의도가 있었다기 보다는 순수하게 신생 제국의 시행착오 아니었나...이렇게 생각합니다.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "server8key",
+					"name": "네프요나",
+					"id": 1047103952297254900,
+					"id_str": "1047103952297254912",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1541275411077681200,
+		"in_reply_to_status_id_str": "1541275411077681152",
+		"in_reply_to_user_id": 103580145,
+		"in_reply_to_user_id_str": "103580145",
+		"in_reply_to_screen_name": "L3V14TH4N1104",
+		"user": {
+			"id": 103580145,
+			"id_str": "103580145",
+			"name": "L3V14",
+			"screen_name": "L3V14TH4N1104",
+			"location": "Time and Space for bussiness. ",
+			"description": "I DIDN'T CHOOSE THE PUG LIFE, THE PUG LIFE CHOOSE ME. // 그대 삶이 무사하길, 그리고 항상 평안이 당신과 함께하길. //프사는 @moo_seon 님이 그려주셨습니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1172,
+			"friends_count": 678,
+			"listed_count": 31,
+			"created_at": "Sun Jan 10 14:24:54 +0000 2010",
+			"favourites_count": 80119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 291124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F0F0F0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202374898355556352/WocoQsKW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202374898355556352/WocoQsKW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103580145/1418183586",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@server8key 그때 레포트 논조는 '이새끼들(일본 제국)이 무슨 조선에서 법치주의 했냐, 내적 완결성 타당성도 없는 새끼들인데' 였는데 요즘 들어서는 사실 그게 무슨 의도가 있었다기 보다는 순수하게 신생 제국의 시행착오 아니었나...이렇게 생각합니다."
+	},
+	{
 		"created_at": "Mon Jun 27 07:33:21 +0000 2022",
 		"id": 1541323785189888000,
 		"id_str": "1541323785189888001",
