@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 28 02:14:17 +0000 2022",
+		"id": 1541605875856461800,
+		"id_str": "1541605875856461824",
+		"full_text": "사교가 아니란 사실을 밝히는 것에는 의의가 있지만, 문명 성립에 있어 인신공양의 필요성을 역설하는 글이 아니기에 일반 독자들의 도덕 판단을 수정하기는 어렵겠네요. 저는 인신공양이 문명 성립에 필요했다고 보고, 좌파 이념에 따라 자의적으로 확장된 현대 보편인권도 그다지 동의하지 않지만... https://t.co/6VJGIAelAA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6VJGIAelAA",
+					"expanded_url": "https://twitter.com/Tenochtitlan_KR/status/1541135154928062465",
+					"display_url": "twitter.com/Tenochtitlan_K…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 4047,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1541135154928062500,
+		"quoted_status_id_str": "1541135154928062465",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6VJGIAelAA",
+			"expanded": "https://twitter.com/Tenochtitlan_KR/status/1541135154928062465",
+			"display": "twitter.com/Tenochtitlan_K…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 26 19:03:48 +0000 2022",
+			"id": 1541135154928062500,
+			"id_str": "1541135154928062465",
+			"full_text": "아즈텍 신들은 정말 피에 굶주린 신들이었을까? 왜 아즈텍 사람들은 인신공양을 멈추지 않은 걸까? 인터넷에 떠도는 아즈텍 종교의 잔혹한 제의의 이면에 깔린 사상과 우주론에 대해 국내 최초로 소개합니다.\n\nhttps://t.co/MCLcsBro8O https://t.co/0xS1c0Al0Q",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				136
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MCLcsBro8O",
+						"expanded_url": "https://blog.naver.com/mesoamerica_kr/222787386306",
+						"display_url": "blog.naver.com/mesoamerica_kr…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1541134336959070200,
+						"id_str": "1541134336959070208",
+						"indices": [
+							137,
+							160
+						],
+						"media_url": "http://pbs.twimg.com/media/FWM1g6GaQAAfsVN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FWM1g6GaQAAfsVN.jpg",
+						"url": "https://t.co/0xS1c0Al0Q",
+						"display_url": "pic.twitter.com/0xS1c0Al0Q",
+						"expanded_url": "https://twitter.com/Tenochtitlan_KR/status/1541135154928062465/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 508,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 765,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 765,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1541134336959070200,
+						"id_str": "1541134336959070208",
+						"indices": [
+							137,
+							160
+						],
+						"media_url": "http://pbs.twimg.com/media/FWM1g6GaQAAfsVN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FWM1g6GaQAAfsVN.jpg",
+						"url": "https://t.co/0xS1c0Al0Q",
+						"display_url": "pic.twitter.com/0xS1c0Al0Q",
+						"expanded_url": "https://twitter.com/Tenochtitlan_KR/status/1541135154928062465/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 508,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 765,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 765,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1541134384212099000,
+						"id_str": "1541134384212099072",
+						"indices": [
+							137,
+							160
+						],
+						"media_url": "http://pbs.twimg.com/media/FWM1jqIaQAAdZhz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FWM1jqIaQAAdZhz.jpg",
+						"url": "https://t.co/0xS1c0Al0Q",
+						"display_url": "pic.twitter.com/0xS1c0Al0Q",
+						"expanded_url": "https://twitter.com/Tenochtitlan_KR/status/1541135154928062465/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 928,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 526,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1584,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1460383533596569600,
+				"id_str": "1460383533596569600",
+				"name": "숄로틀(Xolotl)",
+				"screen_name": "Tenochtitlan_KR",
+				"location": "Corea del Sur",
+				"description": "아스테카, 마야, 사포테카 등 주로 메소아메리카 문명에 관한 정보를 소개하는 계정. 가끔 타 지역 문명들도 다룹니다. 블로그 글 무단불펌 금지합니다. 기타 문의사항은 DM.",
+				"url": "https://t.co/SELwQmFUsp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SELwQmFUsp",
+								"expanded_url": "http://blog.naver.com/test012012",
+								"display_url": "blog.naver.com/test012012",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2112,
+				"friends_count": 112,
+				"listed_count": 11,
+				"created_at": "Mon Nov 15 23:05:48 +0000 2021",
+				"favourites_count": 1952,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1103,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1527498392410406912/WXzIIcU7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527498392410406912/WXzIIcU7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1460383533596569600/1648807654",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2853,
+			"favorite_count": 2372,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사교가 아니란 사실을 밝히는 것에는 의의가 있지만, 문명 성립에 있어 인신공양의 필요성을 역설하는 글이 아니기에 일반 독자들의 도덕 판단을 수정하기는 어렵겠네요. 저는 인신공양이 문명 성립에 필요했다고 보고, 좌파 이념에 따라 자의적으로 확장된 현대 보편인권도 그다지 동의하지 않지만... https://t.co/6VJGIAelAA"
+	},
+	{
 		"created_at": "Mon Jun 27 09:22:27 +0000 2022",
 		"id": 1541276978665255000,
 		"id_str": "1541351241657511936",
