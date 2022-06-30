@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 30 04:47:28 +0000 2022",
+		"id": 1542323238679654400,
+		"id_str": "1542369202991812608",
+		"full_text": "@Cranky_ChronoS 커뮤니티마다 특히 '꽂혀'있는게 있기는 하겠지만, 사실 다른 남초 커뮤니티도 성소수자관련 혐오표현은 마이너 중의 마이너라는게 반복적으로 관측됩니다.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Cranky_ChronoS",
+					"name": "ChronoS",
+					"id": 713356095041851400,
+					"id_str": "713356095041851392",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1542320247872430000,
+		"in_reply_to_status_id_str": "1542320247872430080",
+		"in_reply_to_user_id": 713356095041851400,
+		"in_reply_to_user_id_str": "713356095041851392",
+		"in_reply_to_screen_name": "Cranky_ChronoS",
+		"user": {
+			"id": 1538149455433977900,
+			"id_str": "1538149455433977856",
+			"name": "Paledot",
+			"screen_name": "GheemHakjoon",
+			"location": "",
+			"description": "어쩌다 분석가,\n보통 일베들의 시대 저자",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 891,
+			"friends_count": 729,
+			"listed_count": 3,
+			"created_at": "Sat Jun 18 13:19:51 +0000 2022",
+			"favourites_count": 265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1538149653317058565/gHl6AOxF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1538149653317058565/gHl6AOxF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1538149455433977856/1655825603",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@Cranky_ChronoS 커뮤니티마다 특히 '꽂혀'있는게 있기는 하겠지만, 사실 다른 남초 커뮤니티도 성소수자관련 혐오표현은 마이너 중의 마이너라는게 반복적으로 관측됩니다."
+	},
+	{
+		"created_at": "Thu Jun 30 04:47:24 +0000 2022",
+		"id": 1542319811715141600,
+		"id_str": "1542369187993006081",
+		"full_text": "보통 일베들의 시대 뒷이야기#8\n책에서는 '양적'으로 '특출'나지 않아 제외한 것이 성소수자 혐오.  70여만 건의 게시물 중 약 15만 건( 약 20%)만이 혐오표현으로 분류classified되었고, 그중 단 2%만이 성소수자 혐오로 분류됐다. 책에선 더 깊게 다루지 못했는데...도대체 이유가 뭘까. https://t.co/URXnMw9VXK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1542319034640715800,
+					"id_str": "1542319034640715777",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FWdq_Y4VUAEXzgT.png",
+					"media_url_https": "https://pbs.twimg.com/media/FWdq_Y4VUAEXzgT.png",
+					"url": "https://t.co/URXnMw9VXK",
+					"display_url": "pic.twitter.com/URXnMw9VXK",
+					"expanded_url": "https://twitter.com/GheemHakjoon/status/1542319811715141632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 905,
+							"h": 530,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 398,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 905,
+							"h": 530,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1542319034640715800,
+					"id_str": "1542319034640715777",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FWdq_Y4VUAEXzgT.png",
+					"media_url_https": "https://pbs.twimg.com/media/FWdq_Y4VUAEXzgT.png",
+					"url": "https://t.co/URXnMw9VXK",
+					"display_url": "pic.twitter.com/URXnMw9VXK",
+					"expanded_url": "https://twitter.com/GheemHakjoon/status/1542319811715141632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 905,
+							"h": 530,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 398,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 905,
+							"h": 530,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1538149455433977900,
+			"id_str": "1538149455433977856",
+			"name": "Paledot",
+			"screen_name": "GheemHakjoon",
+			"location": "",
+			"description": "어쩌다 분석가,\n보통 일베들의 시대 저자",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 891,
+			"friends_count": 729,
+			"listed_count": 3,
+			"created_at": "Sat Jun 18 13:19:51 +0000 2022",
+			"favourites_count": 265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1538149653317058565/gHl6AOxF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1538149653317058565/gHl6AOxF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1538149455433977856/1655825603",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보통 일베들의 시대 뒷이야기#8\n책에서는 '양적'으로 '특출'나지 않아 제외한 것이 성소수자 혐오.  70여만 건의 게시물 중 약 15만 건( 약 20%)만이 혐오표현으로 분류classified되었고, 그중 단 2%만이 성소수자 혐오로 분류됐다. 책에선 더 깊게 다루지 못했는데...도대체 이유가 뭘까. https://t.co/URXnMw9VXK"
+	},
+	{
 		"created_at": "Wed Jun 29 12:04:55 +0000 2022",
 		"id": 1542116901484380200,
 		"id_str": "1542116901484380161",
