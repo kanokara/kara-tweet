@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 04 11:09:29 +0000 2022",
+		"id": 1541774684983001000,
+		"id_str": "1543914891899445248",
+		"full_text": "https://t.co/4J53r1qP8W\n아마 이 자료지 싶은데... 일단 암과 심혈관 질환 예방에 한한 지침이고, 베타카로틴은 원래 *흡연자의 경우* 폐암 발병률을 높인다는 연구 결과들이 예전부터 있었음. 석면에 간헐적으로 노출되는 사람들에게도 해당. 다만 비타민 A가 적당량 섭취(moderate dose)의 경우에도 https://t.co/BAWpS8gVZ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4J53r1qP8W",
+					"expanded_url": "https://uspreventiveservicestaskforce.org/uspstf/recommendation/vitamin-supplementation-to-prevent-cvd-and-cancer-preventive-medication",
+					"display_url": "uspreventiveservicestaskforce.org/uspstf/recomme…",
+					"indices": [
+						0,
+						23
+					]
+				},
+				{
+					"url": "https://t.co/BAWpS8gVZ5",
+					"expanded_url": "https://twitter.com/hanitweet/status/1541345595566063616",
+					"display_url": "twitter.com/hanitweet/stat…",
+					"indices": [
+						181,
+						204
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1357676492533104600,
+			"id_str": "1357676492533104640",
+			"name": "유해인",
+			"screen_name": "little1305",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27,
+			"friends_count": 148,
+			"listed_count": 1,
+			"created_at": "Fri Feb 05 13:04:45 +0000 2021",
+			"favourites_count": 2088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1501638594255273985/FVelorrR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1501638594255273985/FVelorrR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1357676492533104640/1612530641",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1541345595566063600,
+		"quoted_status_id_str": "1541345595566063616",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BAWpS8gVZ5",
+			"expanded": "https://twitter.com/hanitweet/status/1541345595566063616",
+			"display": "twitter.com/hanitweet/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 27 09:00:01 +0000 2022",
+			"id": 1541345595566063600,
+			"id_str": "1541345595566063616",
+			"full_text": "미국 질병예방특별위원회(USPSTF)에서 비타민과 미네랄 보충제가 암과 심혈관 질환, 사망을 예방하는 데 도움이 되지 않을뿐더러, 베타카로틴(비타민A)과 비타민E 사용은 명시적으로 반대한다고 발표했다.\nhttps://t.co/nmYhDZz5oJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				136
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nmYhDZz5oJ",
+						"expanded_url": "https://www.hani.co.kr/arti/opinion/column/1048634.html",
+						"display_url": "hani.co.kr/arti/opinion/c…",
+						"indices": [
+							113,
+							136
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 65254718,
+				"id_str": "65254718",
+				"name": "한겨레",
+				"screen_name": "hanitweet",
+				"location": "한국",
+				"description": "시민이 만든 신문, 한겨레 공식 트위터입니다. https://t.co/gaFSERTpRb",
+				"url": "https://t.co/EZDI3E5OCd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EZDI3E5OCd",
+								"expanded_url": "http://www.hani.co.kr",
+								"display_url": "hani.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/gaFSERTpRb",
+								"expanded_url": "http://youtube.com/hanitv",
+								"display_url": "youtube.com/hanitv",
+								"indices": [
+									26,
+									49
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 559631,
+				"friends_count": 133492,
+				"listed_count": 7039,
+				"created_at": "Thu Aug 13 03:03:14 +0000 2009",
+				"favourites_count": 255,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 146122,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/720956938020761600/TfuRv7UK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/720956938020761600/TfuRv7UK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/65254718/1525742854",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2959,
+			"favorite_count": 1156,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 201,
+		"favorite_count": 60,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/4J53r1qP8W\n아마 이 자료지 싶은데... 일단 암과 심혈관 질환 예방에 한한 지침이고, 베타카로틴은 원래 *흡연자의 경우* 폐암 발병률을 높인다는 연구 결과들이 예전부터 있었음. 석면에 간헐적으로 노출되는 사람들에게도 해당. 다만 비타민 A가 적당량 섭취(moderate dose)의 경우에도 https://t.co/BAWpS8gVZ5"
+	},
+	{
 		"created_at": "Fri Jul 01 16:39:12 +0000 2022",
 		"id": 1542910706403590100,
 		"id_str": "1542910706403590144",
