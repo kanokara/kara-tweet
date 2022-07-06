@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 06 06:10:16 +0000 2022",
+		"id": 1544204195464900600,
+		"id_str": "1544564368498900992",
+		"full_text": "ほぼ成長が止まってるのを「がんばってる」と考えるか、「凋落しつつある」と考えるのか、でも分かれるんだろうなあ https://t.co/fcj4FXoJxX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1544203987427426300,
+					"id_str": "1544203987427426304",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/FW4dWFNagAAjvCW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW4dWFNagAAjvCW.jpg",
+					"url": "https://t.co/fcj4FXoJxX",
+					"display_url": "pic.twitter.com/fcj4FXoJxX",
+					"expanded_url": "https://twitter.com/wetfootdog/status/1544204195464900608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1025,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 349,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 615,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544203987427426300,
+					"id_str": "1544203987427426304",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/FW4dWFNagAAjvCW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW4dWFNagAAjvCW.jpg",
+					"url": "https://t.co/fcj4FXoJxX",
+					"display_url": "pic.twitter.com/fcj4FXoJxX",
+					"expanded_url": "https://twitter.com/wetfootdog/status/1544204195464900608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1025,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 349,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 615,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4330231,
+			"id_str": "4330231",
+			"name": "シナチョフ",
+			"screen_name": "wetfootdog",
+			"location": "仕事机の下",
+			"description": "いいえ、この穴は一人用です",
+			"url": "https://t.co/bw2UrUz8lb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bw2UrUz8lb",
+							"expanded_url": "http://wetfootdog.hatenablog.com/",
+							"display_url": "wetfootdog.hatenablog.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 843,
+			"friends_count": 207,
+			"listed_count": 47,
+			"created_at": "Thu Apr 12 09:38:03 +0000 2007",
+			"favourites_count": 18812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0A4580",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498502235478630406/DUCMGYY1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498502235478630406/DUCMGYY1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4330231/1526429658",
+			"profile_link_color": "003399",
+			"profile_sidebar_border_color": "D2D2FD",
+			"profile_sidebar_fill_color": "868EA3",
+			"profile_text_color": "336699",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "ほぼ成長が止まってるのを「がんばってる」と考えるか、「凋落しつつある」と考えるのか、でも分かれるんだろうなあ https://t.co/fcj4FXoJxX"
+	},
+	{
 		"created_at": "Mon Jul 04 15:47:34 +0000 2022",
 		"id": 1543984872414273500,
 		"id_str": "1543984872414273541",
