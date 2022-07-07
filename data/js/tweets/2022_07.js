@@ -1,6 +1,541 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 07 17:50:01 +0000 2022",
+		"id": 1545098711084064800,
+		"id_str": "1545102852065873921",
+		"full_text": "한국에서 순결과 혼외섹스의 문제가 그랬듯이, 재혼과 이혼 문제가 그랬듯이, 때로 문화적 규범은 아주 손쉽게 무너지는 법입니다. 사람들이 일탈을 시작하면요. 반대로 애초에 시작되지 않는다면 그럴 일도 없는 거겠죠.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545096210385498000,
+		"in_reply_to_status_id_str": "1545096210385498113",
+		"in_reply_to_user_id": 834020169680719900,
+		"in_reply_to_user_id_str": "834020169680719872",
+		"in_reply_to_screen_name": "ehrtjshxm7",
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10,
+			"friends_count": 31,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한국에서 순결과 혼외섹스의 문제가 그랬듯이, 재혼과 이혼 문제가 그랬듯이, 때로 문화적 규범은 아주 손쉽게 무너지는 법입니다. 사람들이 일탈을 시작하면요. 반대로 애초에 시작되지 않는다면 그럴 일도 없는 거겠죠."
+	},
+	{
+		"created_at": "Thu Jul 07 17:49:58 +0000 2022",
+		"id": 1545096210385498000,
+		"id_str": "1545102840527331329",
+		"full_text": "북미에 토착화된 3세대들조차 동양계는 출산율이 그냥 낮습니다. 왜 그럴까요? 전 이것이 동양인이 다른 인종보다 더 많이 유형진화(幼形進化, pedomorphosis)한 산물이라고 봅니다. 어린 시기의 특성을 성인이 되어서도 더 많이 품어, 타인의존적이며 관계 중심적 사고를 하게 된 거죠. https://t.co/ci8DBsmQ8r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1545092809761271800,
+					"id_str": "1545092809761271809",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FXFFuWbUsAEYFu_.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXFFuWbUsAEYFu_.png",
+					"url": "https://t.co/ci8DBsmQ8r",
+					"display_url": "pic.twitter.com/ci8DBsmQ8r",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1545096210385498113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 740,
+							"h": 863,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 583,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 863,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1545092809761271800,
+					"id_str": "1545092809761271809",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FXFFuWbUsAEYFu_.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXFFuWbUsAEYFu_.png",
+					"url": "https://t.co/ci8DBsmQ8r",
+					"display_url": "pic.twitter.com/ci8DBsmQ8r",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1545096210385498113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 740,
+							"h": 863,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 583,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 863,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1545096137257824300,
+					"id_str": "1545096137257824257",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FXFIwCUUsAEEUxV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXFIwCUUsAEEUxV.jpg",
+					"url": "https://t.co/ci8DBsmQ8r",
+					"display_url": "pic.twitter.com/ci8DBsmQ8r",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1545096210385498113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 743,
+							"h": 477,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 437,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 743,
+							"h": 477,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1545096137287147500,
+					"id_str": "1545096137287147521",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FXFIwCbUIAEvDMR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXFIwCbUIAEvDMR.jpg",
+					"url": "https://t.co/ci8DBsmQ8r",
+					"display_url": "pic.twitter.com/ci8DBsmQ8r",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1545096210385498113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 670,
+							"h": 524,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 670,
+							"h": 524,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 670,
+							"h": 524,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545092766601846800,
+		"in_reply_to_status_id_str": "1545092766601846785",
+		"in_reply_to_user_id": 834020169680719900,
+		"in_reply_to_user_id_str": "834020169680719872",
+		"in_reply_to_screen_name": "ehrtjshxm7",
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10,
+			"friends_count": 31,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "북미에 토착화된 3세대들조차 동양계는 출산율이 그냥 낮습니다. 왜 그럴까요? 전 이것이 동양인이 다른 인종보다 더 많이 유형진화(幼形進化, pedomorphosis)한 산물이라고 봅니다. 어린 시기의 특성을 성인이 되어서도 더 많이 품어, 타인의존적이며 관계 중심적 사고를 하게 된 거죠. https://t.co/ci8DBsmQ8r"
+	},
+	{
+		"created_at": "Thu Jul 07 17:49:55 +0000 2022",
+		"id": 1545092766601846800,
+		"id_str": "1545102827520790528",
+		"full_text": "또한 2010년대에 접어들며 한국 정부는 저출산에 대응하여, 경제 수준 대비 결코 적지 않은 저소득층 한부모 복지를 시행하고 있습니다. 이와 반면 정부의 개입을 터부시하는 미국에서 한부모 복지는 매우 보잘것없죠. 그럼에도 미국의 비 동양계 인구는 혼외출산율이 높습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545089035038703600,
+		"in_reply_to_status_id_str": "1545089035038703617",
+		"in_reply_to_user_id": 834020169680719900,
+		"in_reply_to_user_id_str": "834020169680719872",
+		"in_reply_to_screen_name": "ehrtjshxm7",
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10,
+			"friends_count": 31,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "또한 2010년대에 접어들며 한국 정부는 저출산에 대응하여, 경제 수준 대비 결코 적지 않은 저소득층 한부모 복지를 시행하고 있습니다. 이와 반면 정부의 개입을 터부시하는 미국에서 한부모 복지는 매우 보잘것없죠. 그럼에도 미국의 비 동양계 인구는 혼외출산율이 높습니다."
+	},
+	{
+		"created_at": "Thu Jul 07 17:49:53 +0000 2022",
+		"id": 1545089035038703600,
+		"id_str": "1545102818498863104",
+		"full_text": "60년대 후반부터 일어난 규범 바깥의 혼외 섹스, 피임약의 보급, 낙태의 일반화는 서양 기성사회와 제도권이 혼외출산의 파급을 받아들이기도 전에 높은 증가 추이를 보입니다. 그러나 동양에선 이 모든 것을 이미 똑같이 하고 있음에도 궤멸적이죠.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545087168401461200,
+		"in_reply_to_status_id_str": "1545087168401461248",
+		"in_reply_to_user_id": 834020169680719900,
+		"in_reply_to_user_id_str": "834020169680719872",
+		"in_reply_to_screen_name": "ehrtjshxm7",
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10,
+			"friends_count": 31,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "60년대 후반부터 일어난 규범 바깥의 혼외 섹스, 피임약의 보급, 낙태의 일반화는 서양 기성사회와 제도권이 혼외출산의 파급을 받아들이기도 전에 높은 증가 추이를 보입니다. 그러나 동양에선 이 모든 것을 이미 똑같이 하고 있음에도 궤멸적이죠."
+	},
+	{
 		"created_at": "Wed Jul 06 15:37:39 +0000 2022",
 		"id": 1544660214670315500,
 		"id_str": "1544707152740114432",
