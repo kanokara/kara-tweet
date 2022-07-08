@@ -1,6 +1,283 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 08 12:18:12 +0000 2022",
+		"id": 1545284958851281000,
+		"id_str": "1545381738083667969",
+		"full_text": "지금까지는 집단의 폐쇄성과 타자화(예를 들어 학생들끼리 뒤에서 선생을 씹는 행위 등)를 통해 유대감을 찾을 수 있었는데, 이러한 방식에 더불어 인터넷 커뮤니티 등지에서의 과격한 언어 사용으로 인해 선을 모르고 넘어버리는 거 아닐까",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1545283903350460400,
+		"in_reply_to_status_id_str": "1545283903350460416",
+		"in_reply_to_user_id": 1455480203749179400,
+		"in_reply_to_user_id_str": "1455480203749179394",
+		"in_reply_to_screen_name": "guwaag1",
+		"user": {
+			"id": 1455480203749179400,
+			"id_str": "1455480203749179394",
+			"name": "구와악",
+			"screen_name": "guwaag1",
+			"location": "",
+			"description": "ㅁㄴㅇㄹ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1,
+			"friends_count": 4,
+			"listed_count": 0,
+			"created_at": "Tue Nov 02 10:21:54 +0000 2021",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "지금까지는 집단의 폐쇄성과 타자화(예를 들어 학생들끼리 뒤에서 선생을 씹는 행위 등)를 통해 유대감을 찾을 수 있었는데, 이러한 방식에 더불어 인터넷 커뮤니티 등지에서의 과격한 언어 사용으로 인해 선을 모르고 넘어버리는 거 아닐까"
+	},
+	{
+		"created_at": "Fri Jul 08 12:18:07 +0000 2022",
+		"id": 1545283903350460400,
+		"id_str": "1545381716449460225",
+		"full_text": "그런 류의 '투덜거림'을 통해 공감대를 형성하여 인간관계를 구축할 수 있으리라 믿는거 같음. 부정적인 감정을 전파하는 행위라 반감을 사기 쉬운데도 이게 중-고-대학교 내내 호모소셜한 소집단 내에서는 유의미하게 먹혀왔던 터라 그 버릇을 못버리는게 아닐까.. 싶음. https://t.co/RYSpk0D8Kh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RYSpk0D8Kh",
+					"expanded_url": "https://twitter.com/Winty_FF14/status/1545243105003069440",
+					"display_url": "twitter.com/Winty_FF14/sta…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1455480203749179400,
+			"id_str": "1455480203749179394",
+			"name": "구와악",
+			"screen_name": "guwaag1",
+			"location": "",
+			"description": "ㅁㄴㅇㄹ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1,
+			"friends_count": 4,
+			"listed_count": 0,
+			"created_at": "Tue Nov 02 10:21:54 +0000 2021",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1545243105003069400,
+		"quoted_status_id_str": "1545243105003069440",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RYSpk0D8Kh",
+			"expanded": "https://twitter.com/Winty_FF14/status/1545243105003069440",
+			"display": "twitter.com/Winty_FF14/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 08 03:07:20 +0000 2022",
+			"id": 1545243105003069400,
+			"id_str": "1545243105003069440",
+			"full_text": "아 첨언\n\n대화가 안되는 영 이상한 친구는 아니었고요 면접때도 싹싹했고 집안도 어느정도 잘사는 친구였어요\n사수나 직장동료들한테 먼저 대화도 잘했고요..\n\n단지 불만사항이 발생하면 투덜거림을 못참더라고요.. 일하는 내내 종일 투덜거림. 근데 이런 소위 투덜이들이 요새 많아졌더라는 얘기.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				159
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1545238784991629300,
+			"in_reply_to_status_id_str": "1545238784991629312",
+			"in_reply_to_user_id": 1479145574276673500,
+			"in_reply_to_user_id_str": "1479145574276673538",
+			"in_reply_to_screen_name": "Winty_FF14",
+			"user": {
+				"id": 1479145574276673500,
+				"id_str": "1479145574276673538",
+				"name": "오타쿠웨이(상태이상:💧)",
+				"screen_name": "Winty_FF14",
+				"location": "",
+				"description": "인장(@koito_left) / 인겜닉다름🌕성인여성, 자캐 오타쿠 (특성: 서사충), 아니시에이팅 권위자 / 남중휴본체 메타몽🍬 지금은 본체/ 💍🖤@0_100_S2🧡 / #윈칼냠냠이",
+				"url": "https://t.co/EDH9pv5iVo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EDH9pv5iVo",
+								"expanded_url": "https://youtu.be/x51s8b5t5Kw",
+								"display_url": "youtu.be/x51s8b5t5Kw",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 390,
+				"friends_count": 386,
+				"listed_count": 2,
+				"created_at": "Thu Jan 06 17:39:53 +0000 2022",
+				"favourites_count": 2530,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8509,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1541439382250749952/xOHiXsBP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541439382250749952/xOHiXsBP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1479145574276673538/1651074326",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 309,
+			"favorite_count": 145,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 62,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그런 류의 '투덜거림'을 통해 공감대를 형성하여 인간관계를 구축할 수 있으리라 믿는거 같음. 부정적인 감정을 전파하는 행위라 반감을 사기 쉬운데도 이게 중-고-대학교 내내 호모소셜한 소집단 내에서는 유의미하게 먹혀왔던 터라 그 버릇을 못버리는게 아닐까.. 싶음. https://t.co/RYSpk0D8Kh"
+	},
+	{
 		"created_at": "Thu Jul 07 17:50:01 +0000 2022",
 		"id": 1545098711084064800,
 		"id_str": "1545102852065873921",
