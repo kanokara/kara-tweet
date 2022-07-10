@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 10 09:25:25 +0000 2022",
+		"id": 1545957983623909400,
+		"id_str": "1546063028361494529",
+		"full_text": "트위터가 참 많이 이상해졌다니까\n진짜 단지 몇년 전만 해도 시발 쓰지 마세요 하면서 가스라이팅 한게 지들인데\n이제 슬슬 그런게 반박당하고 안통하니까 나한테 가스라이팅 하지 말라고 함\n더욱 문제인건 이런 자기들이 굉장히 쿨하고 멋진줄 안다는거임 .. https://t.co/HJhJVImiIb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HJhJVImiIb",
+					"expanded_url": "https://twitter.com/oldtype/status/1545912819370971136",
+					"display_url": "twitter.com/oldtype/status…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219554806412394500,
+			"id_str": "1219554806412394496",
+			"name": "🎗초잠 (22.4.26~)",
+			"screen_name": "Chojam333",
+			"location": "",
+			"description": "퍼퓨머 너무 이뻐/ Do not upload my creations to NFT without my consent.\n/22.4.26~ 23.10.23 군대",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 490,
+			"friends_count": 2986,
+			"listed_count": 9,
+			"created_at": "Tue Jan 21 09:38:25 +0000 2020",
+			"favourites_count": 34144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477084130316025863/gXoN35dN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477084130316025863/gXoN35dN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219554806412394496/1588106193",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1545912819370971100,
+		"quoted_status_id_str": "1545912819370971136",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HJhJVImiIb",
+			"expanded": "https://twitter.com/oldtype/status/1545912819370971136",
+			"display": "twitter.com/oldtype/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 09 23:28:32 +0000 2022",
+			"id": 1545912819370971100,
+			"id_str": "1545912819370971136",
+			"full_text": "한 부류의 3040 아저씨들이 자기 듣기싫은 말은 다 “프레임”이라고 부르게 된 것 처럼 또 한 부류의 2030들은 싫은 이야기를 다 “가스라이팅”이라고 하게 된듯. https://t.co/Mq3P9qQatN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				92
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Mq3P9qQatN",
+						"expanded_url": "https://twitter.com/q_bohinj/status/1545743123560640514",
+						"display_url": "twitter.com/q_bohinj/statu…",
+						"indices": [
+							93,
+							116
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 33403373,
+				"id_str": "33403373",
+				"name": "이주민 / Jumin Lee",
+				"screen_name": "oldtype",
+				"location": "Los Angeles, CA",
+				"description": "미국사는 한국인 미국변호사 // 손변호사님 남편, 큰딸(강아지)와 작은딸(사람)의 아빠 // 저자: “왜 차별금지법인가\" 전국 주요 서점에서 찾아보실 수 있습니다.",
+				"url": "https://t.co/CxwgihQY4M",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CxwgihQY4M",
+								"expanded_url": "http://brunch.co.kr/@oldtype09",
+								"display_url": "brunch.co.kr/@oldtype09",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3977,
+				"friends_count": 826,
+				"listed_count": 68,
+				"created_at": "Mon Apr 20 03:18:51 +0000 2009",
+				"favourites_count": 181,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3645,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1498223901465219075/awMFiTiK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498223901465219075/awMFiTiK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/33403373/1515822638",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1545743123560640500,
+			"quoted_status_id_str": "1545743123560640514",
+			"quoted_status_permalink": {
+				"url": "https://t.co/Mq3P9qQatN",
+				"expanded": "https://twitter.com/q_bohinj/status/1545743123560640514",
+				"display": "twitter.com/q_bohinj/statu…"
+			},
+			"retweet_count": 2030,
+			"favorite_count": 548,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "트위터가 참 많이 이상해졌다니까\n진짜 단지 몇년 전만 해도 시발 쓰지 마세요 하면서 가스라이팅 한게 지들인데\n이제 슬슬 그런게 반박당하고 안통하니까 나한테 가스라이팅 하지 말라고 함\n더욱 문제인건 이런 자기들이 굉장히 쿨하고 멋진줄 안다는거임 .. https://t.co/HJhJVImiIb"
+	},
+	{
 		"created_at": "Fri Jul 08 12:18:12 +0000 2022",
 		"id": 1545284958851281000,
 		"id_str": "1545381738083667969",
