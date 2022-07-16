@@ -1,6 +1,926 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 16 07:02:04 +0000 2022",
+		"id": 1548201283529478100,
+		"id_str": "1548201283529478145",
+		"full_text": "이런 이슈에 있어 나/개인을 인식틀로 두고 보느냐, 공동체를 인식틀로 두고 보느냐... 여론조사에서 어차피 내가 아닌 국가가 할 일이라고 생각하여 선심성으로 택한들 실제 행동과는 거리가. \nhttps://t.co/VwIINJouVF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VwIINJouVF",
+					"expanded_url": "https://twitter.com/Pleasure54/status/1512271030563540995?t=6cVFqsHgDuKiECSdbza1JA&s=19",
+					"display_url": "twitter.com/Pleasure54/sta…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1548196590737031200,
+		"in_reply_to_status_id_str": "1548196590737031168",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 4066,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1512271030563541000,
+		"quoted_status_id_str": "1512271030563540995",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VwIINJouVF",
+			"expanded": "https://twitter.com/Pleasure54/status/1512271030563540995?t=6cVFqsHgDuKiECSdbza1JA&s=19",
+			"display": "twitter.com/Pleasure54/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 08 03:28:04 +0000 2022",
+			"id": 1512271030563541000,
+			"id_str": "1512271030563540995",
+			"full_text": "다이내믹 서바이벌 코리아 https://t.co/6eRHCY16jh https://t.co/RIDUQnmcMT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				37
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6eRHCY16jh",
+						"expanded_url": "https://twitter.com/hmodeler/status/1512203067571458049",
+						"display_url": "twitter.com/hmodeler/statu…",
+						"indices": [
+							14,
+							37
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1512271017754132500,
+						"id_str": "1512271017754132484",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/FPyqenFagAQwx8d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FPyqenFagAQwx8d.jpg",
+						"url": "https://t.co/RIDUQnmcMT",
+						"display_url": "pic.twitter.com/RIDUQnmcMT",
+						"expanded_url": "https://twitter.com/Pleasure54/status/1512271030563540995/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 450,
+								"h": 639,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 450,
+								"h": 639,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 450,
+								"h": 639,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1512271017754132500,
+						"id_str": "1512271017754132484",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/FPyqenFagAQwx8d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FPyqenFagAQwx8d.jpg",
+						"url": "https://t.co/RIDUQnmcMT",
+						"display_url": "pic.twitter.com/RIDUQnmcMT",
+						"expanded_url": "https://twitter.com/Pleasure54/status/1512271030563540995/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 450,
+								"h": 639,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 450,
+								"h": 639,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 450,
+								"h": 639,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1512271021113774000,
+						"id_str": "1512271021113774085",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/FPyqezmakAUwlwR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FPyqezmakAUwlwR.jpg",
+						"url": "https://t.co/RIDUQnmcMT",
+						"display_url": "pic.twitter.com/RIDUQnmcMT",
+						"expanded_url": "https://twitter.com/Pleasure54/status/1512271030563540995/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 850,
+								"h": 896,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 645,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 850,
+								"h": 896,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1512271024766984200,
+						"id_str": "1512271024766984198",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/FPyqfBNaIAYAlM7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FPyqfBNaIAYAlM7.jpg",
+						"url": "https://t.co/RIDUQnmcMT",
+						"display_url": "pic.twitter.com/RIDUQnmcMT",
+						"expanded_url": "https://twitter.com/Pleasure54/status/1512271030563540995/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 757,
+								"h": 409,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 367,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 757,
+								"h": 409,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1512271027665268700,
+						"id_str": "1512271027665268737",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/FPyqfMAacAE3iTy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FPyqfMAacAE3iTy.jpg",
+						"url": "https://t.co/RIDUQnmcMT",
+						"display_url": "pic.twitter.com/RIDUQnmcMT",
+						"expanded_url": "https://twitter.com/Pleasure54/status/1512271030563540995/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 336,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 336,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 336,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 155061670,
+				"id_str": "155061670",
+				"name": "₩9",
+				"screen_name": "Pleasure54",
+				"location": "2.5D",
+				"description": "야구(⚾LG Twins, SoftBank) / 게임 / 자동차 / 일반인은 주의 / 유해함",
+				"url": "https://t.co/iJOt3ucPRh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iJOt3ucPRh",
+								"expanded_url": "https://peing.net/ko/pleasure54",
+								"display_url": "peing.net/ko/pleasure54",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5731,
+				"friends_count": 802,
+				"listed_count": 74,
+				"created_at": "Sun Jun 13 01:16:26 +0000 2010",
+				"favourites_count": 77553,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 616374,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1538106134258647041/CxanXqVN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1538106134258647041/CxanXqVN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/155061670/1655548079",
+				"profile_link_color": "02207A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1512203067571458000,
+			"quoted_status_id_str": "1512203067571458049",
+			"quoted_status_permalink": {
+				"url": "https://t.co/6eRHCY16jh",
+				"expanded": "https://twitter.com/hmodeler/status/1512203067571458049",
+				"display": "twitter.com/hmodeler/statu…"
+			},
+			"retweet_count": 1919,
+			"favorite_count": 468,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이런 이슈에 있어 나/개인을 인식틀로 두고 보느냐, 공동체를 인식틀로 두고 보느냐... 여론조사에서 어차피 내가 아닌 국가가 할 일이라고 생각하여 선심성으로 택한들 실제 행동과는 거리가. \nhttps://t.co/VwIINJouVF"
+	},
+	{
+		"created_at": "Sat Jul 16 06:43:25 +0000 2022",
+		"id": 1548196590737031200,
+		"id_str": "1548196590737031168",
+		"full_text": "공동체의 역설이지만, 실존적으로 보았을 때 남성의 경향성이야말로 공동체적이란 것이 진실. https://t.co/7ECpOE8w8a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7ECpOE8w8a",
+					"expanded_url": "https://twitter.com/4_equality2018/status/1547038251554590721",
+					"display_url": "twitter.com/4_equality2018…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 4066,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1547038251554590700,
+		"quoted_status_id_str": "1547038251554590721",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7ECpOE8w8a",
+			"expanded": "https://twitter.com/4_equality2018/status/1547038251554590721",
+			"display": "twitter.com/4_equality2018…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 13 02:00:36 +0000 2022",
+			"id": 1547038251554590700,
+			"id_str": "1547038251554590721",
+			"full_text": "옴마야... \nhttps://t.co/MtmMrTNpy6 https://t.co/r4jCBNGxYh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				31
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MtmMrTNpy6",
+						"expanded_url": "https://news.v.daum.net/v/20220712050634936?fbclid=IwAR0hB5w6sRzCGV7jSNjL702xUML71kQYbjp2ubGCPNrZHnEcVjpikHSR2Uk",
+						"display_url": "news.v.daum.net/v/202207120506…",
+						"indices": [
+							8,
+							31
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1547038167127457800,
+						"id_str": "1547038167127457794",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/FXgvBDWagAIwL_8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FXgvBDWagAIwL_8.jpg",
+						"url": "https://t.co/r4jCBNGxYh",
+						"display_url": "pic.twitter.com/r4jCBNGxYh",
+						"expanded_url": "https://twitter.com/4_equality2018/status/1547038251554590721/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 620,
+								"h": 779,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 620,
+								"h": 779,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 541,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1547038167127457800,
+						"id_str": "1547038167127457794",
+						"indices": [
+							32,
+							55
+						],
+						"media_url": "http://pbs.twimg.com/media/FXgvBDWagAIwL_8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FXgvBDWagAIwL_8.jpg",
+						"url": "https://t.co/r4jCBNGxYh",
+						"display_url": "pic.twitter.com/r4jCBNGxYh",
+						"expanded_url": "https://twitter.com/4_equality2018/status/1547038251554590721/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 620,
+								"h": 779,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 620,
+								"h": 779,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 541,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1214288556287393800,
+				"id_str": "1214288556287393792",
+				"name": "평등위해",
+				"screen_name": "4_equality2018",
+				"location": "",
+				"description": "정의당 당원/TERF 혐오/안티페미 혐오/구독계는 팔로 하지마세요",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 480,
+				"friends_count": 1346,
+				"listed_count": 1,
+				"created_at": "Mon Jan 06 20:53:07 +0000 2020",
+				"favourites_count": 8988,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12753,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1509802614141362176/5Bb5o_qJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509802614141362176/5Bb5o_qJ_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2518,
+			"favorite_count": 569,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공동체의 역설이지만, 실존적으로 보았을 때 남성의 경향성이야말로 공동체적이란 것이 진실. https://t.co/7ECpOE8w8a"
+	},
+	{
+		"created_at": "Sat Jul 16 06:32:43 +0000 2022",
+		"id": 1548193897473785900,
+		"id_str": "1548193897473785856",
+		"full_text": "그리고 이것이 두 번째 문제인 현 체제의 기원-혁명에 대한 정당화의 문제. 그 이전의 현실을 부정하고 혼란기의 참상을 축소시키는.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1548192919726989300,
+		"in_reply_to_status_id_str": "1548192919726989313",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 4066,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "그리고 이것이 두 번째 문제인 현 체제의 기원-혁명에 대한 정당화의 문제. 그 이전의 현실을 부정하고 혼란기의 참상을 축소시키는."
+	},
+	{
+		"created_at": "Sat Jul 16 06:28:50 +0000 2022",
+		"id": 1548192919726989300,
+		"id_str": "1548192919726989313",
+		"full_text": "수직적 질서, 일견 폭력적이고 억압적인 바로 그 구심력이 존재하지 않는다면 공동체는 성립할 수 없으며, 수평적 질서, 낱낱의 개인들이 구심력을 넘어서는 원심력으로 화할 때 그 공동체는 무너져 결국 모두에게 비극을 초래할 수밖에 없음을... 절대 깨달을 수 없는 거죠.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1548190929429098500,
+		"in_reply_to_status_id_str": "1548190929429098496",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 4066,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "수직적 질서, 일견 폭력적이고 억압적인 바로 그 구심력이 존재하지 않는다면 공동체는 성립할 수 없으며, 수평적 질서, 낱낱의 개인들이 구심력을 넘어서는 원심력으로 화할 때 그 공동체는 무너져 결국 모두에게 비극을 초래할 수밖에 없음을... 절대 깨달을 수 없는 거죠."
+	},
+	{
+		"created_at": "Sat Jul 16 06:20:56 +0000 2022",
+		"id": 1548190929429098500,
+		"id_str": "1548190929429098496",
+		"full_text": "이로 인해 왜 과거의 체제가 그런 형태일 수밖에 없었나 배우지 못하고 오직 좌파적 사고만을 함양하게 되죠. 공동체는 언제든 무너질 수 있는 위태로운 존재란 사실을 모른 채, 과거의 사람들이 어떻게든 안정과 질서를 꾀하여 번영을 이루려 한 까닭을 몰이해하게 되는 거예요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1548190130867155000,
+		"in_reply_to_status_id_str": "1548190130867154944",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 6,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 4066,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이로 인해 왜 과거의 체제가 그런 형태일 수밖에 없었나 배우지 못하고 오직 좌파적 사고만을 함양하게 되죠. 공동체는 언제든 무너질 수 있는 위태로운 존재란 사실을 모른 채, 과거의 사람들이 어떻게든 안정과 질서를 꾀하여 번영을 이루려 한 까닭을 몰이해하게 되는 거예요."
+	},
+	{
 		"created_at": "Sun Jul 10 09:25:25 +0000 2022",
 		"id": 1545957983623909400,
 		"id_str": "1546063028361494529",
