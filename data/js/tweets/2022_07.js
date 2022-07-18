@@ -1,6 +1,569 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 18 23:02:39 +0000 2022",
+		"id": 1181239858091585500,
+		"id_str": "1549167795018944513",
+		"full_text": "아니 왜 불륜얘기에서 그라데이션 분노가... 하지만 이어져있는 이야기이다 유부처녀가 짭불륜하는 이야기가 너무 많음 남편 냅두고 정부들과 어울린다면서 사실 정부들과 한번도 안 잤고 본스토리는 남편과 노나먹는 이딴식이라고 시발 불륜을 하는척하면서 지아비에게 돌아가는 게 뭔 매력이 있다고",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1181239126856593400,
+		"in_reply_to_status_id_str": "1181239126856593409",
+		"in_reply_to_user_id": 3254546942,
+		"in_reply_to_user_id_str": "3254546942",
+		"in_reply_to_screen_name": "JuYuwol",
+		"user": {
+			"id": 3254546942,
+			"id_str": "3254546942",
+			"name": "주유월",
+			"screen_name": "JuYuwol",
+			"location": "프사 출처 마녀의 하인과 마왕의 뿔",
+			"description": "혼자 떠들다 알림창만 대강 확인합니다. 프로필 링크는 트윗 정리용 개인 홈페이지",
+			"url": "https://t.co/mYKbQY22Uw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mYKbQY22Uw",
+							"expanded_url": "http://yuwol.pe.kr",
+							"display_url": "yuwol.pe.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 537,
+			"friends_count": 0,
+			"listed_count": 3,
+			"created_at": "Wed Jun 24 11:08:39 +0000 2015",
+			"favourites_count": 13576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40250,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517467943428263937/j3_s2wt2_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517467943428263937/j3_s2wt2_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3254546942/1641577280",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아니 왜 불륜얘기에서 그라데이션 분노가... 하지만 이어져있는 이야기이다 유부처녀가 짭불륜하는 이야기가 너무 많음 남편 냅두고 정부들과 어울린다면서 사실 정부들과 한번도 안 잤고 본스토리는 남편과 노나먹는 이딴식이라고 시발 불륜을 하는척하면서 지아비에게 돌아가는 게 뭔 매력이 있다고"
+	},
+	{
+		"created_at": "Mon Jul 18 23:02:32 +0000 2022",
+		"id": 1181239126856593400,
+		"id_str": "1549167767437189120",
+		"full_text": "이혼이라는 건 재판매시에 하자(...)가 생기기 때문에 리스크가 있는 건데 첫날밤에 소박맞은 처녀 유부녀를 개발해버림으로써 쇼쇽 사악한 남편에게 엿을 먹인다는 사이다(ㅋㅋ)를 챙기면서도 순결하고 정숙한 처녀 이미지까지도 안 내려놓음 캬 두마리 토끼를 잡네요 똑똑하네요\n이 처녀충쉐리덜!!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1181237981991981000,
+		"in_reply_to_status_id_str": "1181237981991981056",
+		"in_reply_to_user_id": 3254546942,
+		"in_reply_to_user_id_str": "3254546942",
+		"in_reply_to_screen_name": "JuYuwol",
+		"user": {
+			"id": 3254546942,
+			"id_str": "3254546942",
+			"name": "주유월",
+			"screen_name": "JuYuwol",
+			"location": "프사 출처 마녀의 하인과 마왕의 뿔",
+			"description": "혼자 떠들다 알림창만 대강 확인합니다. 프로필 링크는 트윗 정리용 개인 홈페이지",
+			"url": "https://t.co/mYKbQY22Uw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mYKbQY22Uw",
+							"expanded_url": "http://yuwol.pe.kr",
+							"display_url": "yuwol.pe.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 537,
+			"friends_count": 0,
+			"listed_count": 3,
+			"created_at": "Wed Jun 24 11:08:39 +0000 2015",
+			"favourites_count": 13576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40250,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517467943428263937/j3_s2wt2_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517467943428263937/j3_s2wt2_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3254546942/1641577280",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이혼이라는 건 재판매시에 하자(...)가 생기기 때문에 리스크가 있는 건데 첫날밤에 소박맞은 처녀 유부녀를 개발해버림으로써 쇼쇽 사악한 남편에게 엿을 먹인다는 사이다(ㅋㅋ)를 챙기면서도 순결하고 정숙한 처녀 이미지까지도 안 내려놓음 캬 두마리 토끼를 잡네요 똑똑하네요\n이 처녀충쉐리덜!!"
+	},
+	{
+		"created_at": "Mon Jul 18 23:02:27 +0000 2022",
+		"id": 1181237981991981000,
+		"id_str": "1549167746373472256",
+		"full_text": "자기가 이입할 여주인공은 순결하고 무족건 불상하고 비련해야 해서 유부녀지만 처녀여야 한다 첫날밤에 소박맞고 하자없는 깨끗한 몸으로 이혼 뒤 새남편 찾기 캬 오지네요\n이게 악질적인 처녀충이 아니면 뭐란 말입니까 어 어 여덕들아 너네는 유니콘남들을 비난할 자격이 없어 유부처녀 죽어 진짜",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1181237519444144000,
+		"in_reply_to_status_id_str": "1181237519444144129",
+		"in_reply_to_user_id": 3254546942,
+		"in_reply_to_user_id_str": "3254546942",
+		"in_reply_to_screen_name": "JuYuwol",
+		"user": {
+			"id": 3254546942,
+			"id_str": "3254546942",
+			"name": "주유월",
+			"screen_name": "JuYuwol",
+			"location": "프사 출처 마녀의 하인과 마왕의 뿔",
+			"description": "혼자 떠들다 알림창만 대강 확인합니다. 프로필 링크는 트윗 정리용 개인 홈페이지",
+			"url": "https://t.co/mYKbQY22Uw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mYKbQY22Uw",
+							"expanded_url": "http://yuwol.pe.kr",
+							"display_url": "yuwol.pe.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 537,
+			"friends_count": 0,
+			"listed_count": 3,
+			"created_at": "Wed Jun 24 11:08:39 +0000 2015",
+			"favourites_count": 13576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40250,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517467943428263937/j3_s2wt2_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517467943428263937/j3_s2wt2_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3254546942/1641577280",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "자기가 이입할 여주인공은 순결하고 무족건 불상하고 비련해야 해서 유부녀지만 처녀여야 한다 첫날밤에 소박맞고 하자없는 깨끗한 몸으로 이혼 뒤 새남편 찾기 캬 오지네요\n이게 악질적인 처녀충이 아니면 뭐란 말입니까 어 어 여덕들아 너네는 유니콘남들을 비난할 자격이 없어 유부처녀 죽어 진짜"
+	},
+	{
+		"created_at": "Mon Jul 18 23:02:25 +0000 2022",
+		"id": 1181237519444144000,
+		"id_str": "1549167739293425665",
+		"full_text": "로맨스 장르계의 적폐: 유부처녀\n반박하는 사람은 처녀충",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3254546942,
+			"id_str": "3254546942",
+			"name": "주유월",
+			"screen_name": "JuYuwol",
+			"location": "프사 출처 마녀의 하인과 마왕의 뿔",
+			"description": "혼자 떠들다 알림창만 대강 확인합니다. 프로필 링크는 트윗 정리용 개인 홈페이지",
+			"url": "https://t.co/mYKbQY22Uw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mYKbQY22Uw",
+							"expanded_url": "http://yuwol.pe.kr",
+							"display_url": "yuwol.pe.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 537,
+			"friends_count": 0,
+			"listed_count": 3,
+			"created_at": "Wed Jun 24 11:08:39 +0000 2015",
+			"favourites_count": 13576,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40250,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1517467943428263937/j3_s2wt2_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1517467943428263937/j3_s2wt2_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3254546942/1641577280",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "로맨스 장르계의 적폐: 유부처녀\n반박하는 사람은 처녀충"
+	},
+	{
+		"created_at": "Mon Jul 18 22:50:13 +0000 2022",
+		"id": 1548639003380895700,
+		"id_str": "1549164667485822976",
+		"full_text": "성경말투 생성기를 만들었습니다🤗\n직접 사용해볼 수도 있어요!\n\nhttps://t.co/ziaBhcmlOI\n\n아 배고프다. 뭐라도 좀 먹을래?\n-&gt; 아 배고프다 뭐라도 먹을까 하노라\n\n#형님재현이키보드뺏을까요 https://t.co/qSsyZ51vRE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "형님재현이키보드뺏을까요",
+					"indices": [
+						105,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ziaBhcmlOI",
+					"expanded_url": "https://huggingface.co/spaces/rycont/Biblify",
+					"display_url": "huggingface.co/spaces/rycont/…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1548638736350556200,
+					"id_str": "1548638736350556161",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/FX3eucWVsAEs8qG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX3eucWVsAEs8qG.jpg",
+					"url": "https://t.co/qSsyZ51vRE",
+					"display_url": "pic.twitter.com/qSsyZ51vRE",
+					"expanded_url": "https://twitter.com/lllimiteddd/status/1548639003380895744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1004,
+							"h": 627,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1004,
+							"h": 627,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548638736350556200,
+					"id_str": "1548638736350556161",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/FX3eucWVsAEs8qG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX3eucWVsAEs8qG.jpg",
+					"url": "https://t.co/qSsyZ51vRE",
+					"display_url": "pic.twitter.com/qSsyZ51vRE",
+					"expanded_url": "https://twitter.com/lllimiteddd/status/1548639003380895744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1004,
+							"h": 627,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1004,
+							"h": 627,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1147746633641103400,
+			"id_str": "1147746633641103361",
+			"name": "최재현",
+			"screen_name": "lllimiteddd",
+			"location": "",
+			"description": "케이팝 과다함유된 디발자 그리고 시골사는 ISFP 화작기하러 K고3\n\n이 사람 생일이 특이함\n\n일상트 #최재현또쌉소리한다\n개발트윗 #형님재현이키보드뺏을까요\n공부 #케이고삼최재현\n케이팝 #최재현인생이케이팝\n+ #재현띵킹\n\n원하지 않는 해시는 뮤트해주세요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63,
+			"friends_count": 206,
+			"listed_count": 1,
+			"created_at": "Sun Jul 07 05:58:16 +0000 2019",
+			"favourites_count": 1887,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1507654705572638729/96NXjNMx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1507654705572638729/96NXjNMx_normal.jpg",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9805,
+		"favorite_count": 5443,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "성경말투 생성기를 만들었습니다🤗\n직접 사용해볼 수도 있어요!\n\nhttps://t.co/ziaBhcmlOI\n\n아 배고프다. 뭐라도 좀 먹을래?\n-&gt; 아 배고프다 뭐라도 먹을까 하노라\n\n#형님재현이키보드뺏을까요 https://t.co/qSsyZ51vRE"
+	},
+	{
 		"created_at": "Mon Jul 18 07:27:15 +0000 2022",
 		"id": 1548932394593296400,
 		"id_str": "1548932394593296384",
