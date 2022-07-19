@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 19 00:05:13 +0000 2022",
+		"id": 1548941822290165800,
+		"id_str": "1549183543724584960",
+		"full_text": "역시 인간은 손가락이 있다는 이유로 타종족에게 가당찮게 좋은 평가와 대접을 받는다 https://t.co/KVbrk2My20",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KVbrk2My20",
+					"expanded_url": "https://twitter.com/buitengebieden/status/1548006908358823936",
+					"display_url": "twitter.com/buitengebieden…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 198826020,
+			"id_str": "198826020",
+			"name": "PLUTO",
+			"screen_name": "hadess1138",
+			"location": "",
+			"description": "어느날 무릎에 화살을 맞기 전까진",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63715,
+			"friends_count": 125,
+			"listed_count": 209,
+			"created_at": "Tue Oct 05 10:39:30 +0000 2010",
+			"favourites_count": 3612,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 146637,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1231122898485596160/7o1yQXrE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231122898485596160/7o1yQXrE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/198826020/1650937318",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1548006908358824000,
+		"quoted_status_id_str": "1548006908358823936",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KVbrk2My20",
+			"expanded": "https://twitter.com/buitengebieden/status/1548006908358823936",
+			"display": "twitter.com/buitengebieden…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 15 18:09:42 +0000 2022",
+			"id": 1548006908358824000,
+			"id_str": "1548006908358823936",
+			"full_text": "Playful tiny octopus..\n\nWatch until the end.. 😊 https://t.co/0omadM5s3w",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				47
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1548006830806147000,
+						"id_str": "1548006830806147073",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1548006830806147073/pu/img/mp2AeJKEaDEr7Wo2.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1548006830806147073/pu/img/mp2AeJKEaDEr7Wo2.jpg",
+						"url": "https://t.co/0omadM5s3w",
+						"display_url": "pic.twitter.com/0omadM5s3w",
+						"expanded_url": "https://twitter.com/buitengebieden/status/1548006908358823936/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 958,
+								"h": 540,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 958,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1548006830806147000,
+						"id_str": "1548006830806147073",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1548006830806147073/pu/img/mp2AeJKEaDEr7Wo2.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1548006830806147073/pu/img/mp2AeJKEaDEr7Wo2.jpg",
+						"url": "https://t.co/0omadM5s3w",
+						"display_url": "pic.twitter.com/0omadM5s3w",
+						"expanded_url": "https://twitter.com/buitengebieden/status/1548006908358823936/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 958,
+								"h": 540,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 958,
+								"h": 540,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								479,
+								270
+							],
+							"duration_millis": 30000,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1548006830806147073/pu/vid/478x270/YR7L8Xij1YMcqt_A.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1548006830806147073/pu/pl/o0jd9lTvEGWJfIBZ.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1548006830806147073/pu/vid/638x360/WT8nEYlW3DQFeRbv.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1548006830806147073/pu/vid/958x540/wJb6fFG2fMMZEm0i.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1130021685351080000,
+				"id_str": "1130021685351079938",
+				"name": "Buitengebieden",
+				"screen_name": "buitengebieden",
+				"location": "For support",
+				"description": "Welcome to the positive side of Twitter! I’m Sander from the Netherlands. All copyrights belong to their respective owners! DM for credits/removal/submission!",
+				"url": "https://t.co/r3KewCEYhM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/r3KewCEYhM",
+								"expanded_url": "http://paypal.me/buitengebieden",
+								"display_url": "paypal.me/buitengebieden",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1274328,
+				"friends_count": 83,
+				"listed_count": 5440,
+				"created_at": "Sun May 19 08:05:39 +0000 2019",
+				"favourites_count": 23460,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 350,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1130022182971760640/FlbICzEn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130022182971760640/FlbICzEn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1130021685351079938/1558253468",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 44436,
+			"favorite_count": 309487,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7915,
+		"favorite_count": 4964,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "역시 인간은 손가락이 있다는 이유로 타종족에게 가당찮게 좋은 평가와 대접을 받는다 https://t.co/KVbrk2My20"
+	},
+	{
 		"created_at": "Mon Jul 18 23:02:39 +0000 2022",
 		"id": 1181239858091585500,
 		"id_str": "1549167795018944513",
