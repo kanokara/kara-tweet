@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 23 19:54:35 +0000 2022",
+		"id": 1550104557232869400,
+		"id_str": "1550932407393521665",
+		"full_text": "사람들이 일상에서 만나는 사회성 떨어지는 사람들 중 자폐인 제법 있을 건데.\n\n다른 사람들이 사회성 떨어지는거 양해안해주고 걍 '사회성도 지능입니다' 욕하면서 자기가 자폐인을 '실제로 만나면' 존중할 수 있일 거라고 믿기...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1281226277886673000,
+			"id_str": "1281226277886672896",
+			"name": "우롱차요정",
+			"screen_name": "Koma12EE",
+			"location": "",
+			"description": "님들을 우롱하지 않습니다.",
+			"url": "https://t.co/LvnHaMe6Wk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LvnHaMe6Wk",
+							"expanded_url": "https://peing.net/ko/koma12ee",
+							"display_url": "peing.net/ko/koma12ee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6057,
+			"friends_count": 586,
+			"listed_count": 30,
+			"created_at": "Thu Jul 09 13:58:50 +0000 2020",
+			"favourites_count": 82379,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 76503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530770659583741952/d0-o3x0F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530770659583741952/d0-o3x0F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1281226277886672896/1648857345",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 705,
+		"favorite_count": 467,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "사람들이 일상에서 만나는 사회성 떨어지는 사람들 중 자폐인 제법 있을 건데.\n\n다른 사람들이 사회성 떨어지는거 양해안해주고 걍 '사회성도 지능입니다' 욕하면서 자기가 자폐인을 '실제로 만나면' 존중할 수 있일 거라고 믿기..."
+	},
+	{
 		"created_at": "Tue Jul 19 00:05:13 +0000 2022",
 		"id": 1548941822290165800,
 		"id_str": "1549183543724584960",
