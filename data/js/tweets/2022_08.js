@@ -1,6 +1,390 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 05 21:51:40 +0000 2022",
+		"id": 1555080105747415000,
+		"id_str": "1555672913088761856",
+		"full_text": "そうなると「○○が起きたから××が起きるはず」という予想が読者の中に生まれ、それが予想どおりになることで満足を得る、という読み方が広まってくる。これは正直、あまりよろしくないことだと思っている。先の展開が予想どおりでないと面白くないと思われてしまいかねないからだ。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1555080017037893600,
+		"in_reply_to_status_id_str": "1555080017037893632",
+		"in_reply_to_user_id": 71983364,
+		"in_reply_to_user_id_str": "71983364",
+		"in_reply_to_screen_name": "tadashi_ohta",
+		"user": {
+			"id": 71983364,
+			"id_str": "71983364",
+			"name": "太田忠司",
+			"screen_name": "tadashi_ohta",
+			"location": "愛知県名古屋市",
+			"description": "小説を書いて生活しています。",
+			"url": "https://t.co/6CasNP8FSp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6CasNP8FSp",
+							"expanded_url": "http://tadashi-ohta.in.coocan.jp/",
+							"display_url": "tadashi-ohta.in.coocan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9421,
+			"friends_count": 256,
+			"listed_count": 573,
+			"created_at": "Sun Sep 06 06:38:05 +0000 2009",
+			"favourites_count": 85,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1717503401/06-11-10_10-59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1717503401/06-11-10_10-59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71983364/1403403825",
+			"profile_link_color": "8A0808",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 478,
+		"favorite_count": 898,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "そうなると「○○が起きたから××が起きるはず」という予想が読者の中に生まれ、それが予想どおりになることで満足を得る、という読み方が広まってくる。これは正直、あまりよろしくないことだと思っている。先の展開が予想どおりでないと面白くないと思われてしまいかねないからだ。"
+	},
+	{
+		"created_at": "Fri Aug 05 21:51:22 +0000 2022",
+		"id": 1555080017037893600,
+		"id_str": "1555672837792604160",
+		"full_text": "一方フラグというのは本来ゲームで条件をクリアしたかしていないかを記録し、次の展開へと進めるものだった。それが次の展開を予期させる事象が出現したことを「フラグが立つ」と呼ばれはじめる。さらに死亡フラグのように次に起こるであろう展開を約束するものになり伏線と見なされるようになった。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1555079919486795800,
+		"in_reply_to_status_id_str": "1555079919486795777",
+		"in_reply_to_user_id": 71983364,
+		"in_reply_to_user_id_str": "71983364",
+		"in_reply_to_screen_name": "tadashi_ohta",
+		"user": {
+			"id": 71983364,
+			"id_str": "71983364",
+			"name": "太田忠司",
+			"screen_name": "tadashi_ohta",
+			"location": "愛知県名古屋市",
+			"description": "小説を書いて生活しています。",
+			"url": "https://t.co/6CasNP8FSp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6CasNP8FSp",
+							"expanded_url": "http://tadashi-ohta.in.coocan.jp/",
+							"display_url": "tadashi-ohta.in.coocan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9421,
+			"friends_count": 256,
+			"listed_count": 573,
+			"created_at": "Sun Sep 06 06:38:05 +0000 2009",
+			"favourites_count": 85,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1717503401/06-11-10_10-59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1717503401/06-11-10_10-59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71983364/1403403825",
+			"profile_link_color": "8A0808",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 394,
+		"favorite_count": 741,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "一方フラグというのは本来ゲームで条件をクリアしたかしていないかを記録し、次の展開へと進めるものだった。それが次の展開を予期させる事象が出現したことを「フラグが立つ」と呼ばれはじめる。さらに死亡フラグのように次に起こるであろう展開を約束するものになり伏線と見なされるようになった。"
+	},
+	{
+		"created_at": "Fri Aug 05 21:51:09 +0000 2022",
+		"id": 1555079919486795800,
+		"id_str": "1555672784667541504",
+		"full_text": "しかし最近は「ここに伏線があるからいずれ回収されるはずでは？」という読み方をしているように感じる。だけど初読の段階ですぐにわかる伏線というのは伏線として劣っているか、あるいは全然違うものだ。少なくともミステリではね。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1555079806018269200,
+		"in_reply_to_status_id_str": "1555079806018269187",
+		"in_reply_to_user_id": 71983364,
+		"in_reply_to_user_id_str": "71983364",
+		"in_reply_to_screen_name": "tadashi_ohta",
+		"user": {
+			"id": 71983364,
+			"id_str": "71983364",
+			"name": "太田忠司",
+			"screen_name": "tadashi_ohta",
+			"location": "愛知県名古屋市",
+			"description": "小説を書いて生活しています。",
+			"url": "https://t.co/6CasNP8FSp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6CasNP8FSp",
+							"expanded_url": "http://tadashi-ohta.in.coocan.jp/",
+							"display_url": "tadashi-ohta.in.coocan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9421,
+			"friends_count": 256,
+			"listed_count": 573,
+			"created_at": "Sun Sep 06 06:38:05 +0000 2009",
+			"favourites_count": 85,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1717503401/06-11-10_10-59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1717503401/06-11-10_10-59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71983364/1403403825",
+			"profile_link_color": "8A0808",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 507,
+		"favorite_count": 992,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "しかし最近は「ここに伏線があるからいずれ回収されるはずでは？」という読み方をしているように感じる。だけど初読の段階ですぐにわかる伏線というのは伏線として劣っているか、あるいは全然違うものだ。少なくともミステリではね。"
+	},
+	{
+		"created_at": "Fri Aug 05 21:51:06 +0000 2022",
+		"id": 1555079806018269200,
+		"id_str": "1555672773925965824",
+		"full_text": "もともと伏線というのはミステリなどで謎解きがあった場合、作品の前のほうにその謎解きの正当性を担保させるような事実を紛れ込ませていくこと。この「紛れ込ませる」というのが眼目で、読んでいるときに伏線と気付かせないことが必要なわけ。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1555079713487728600,
+		"in_reply_to_status_id_str": "1555079713487728640",
+		"in_reply_to_user_id": 71983364,
+		"in_reply_to_user_id_str": "71983364",
+		"in_reply_to_screen_name": "tadashi_ohta",
+		"user": {
+			"id": 71983364,
+			"id_str": "71983364",
+			"name": "太田忠司",
+			"screen_name": "tadashi_ohta",
+			"location": "愛知県名古屋市",
+			"description": "小説を書いて生活しています。",
+			"url": "https://t.co/6CasNP8FSp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6CasNP8FSp",
+							"expanded_url": "http://tadashi-ohta.in.coocan.jp/",
+							"display_url": "tadashi-ohta.in.coocan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9421,
+			"friends_count": 256,
+			"listed_count": 573,
+			"created_at": "Sun Sep 06 06:38:05 +0000 2009",
+			"favourites_count": 85,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1717503401/06-11-10_10-59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1717503401/06-11-10_10-59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71983364/1403403825",
+			"profile_link_color": "8A0808",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 577,
+		"favorite_count": 1041,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "もともと伏線というのはミステリなどで謎解きがあった場合、作品の前のほうにその謎解きの正当性を担保させるような事実を紛れ込ませていくこと。この「紛れ込ませる」というのが眼目で、読んでいるときに伏線と気付かせないことが必要なわけ。"
+	},
+	{
 		"created_at": "Thu Aug 04 06:46:34 +0000 2022",
 		"id": 1555082751673782300,
 		"id_str": "1555082751673782273",
