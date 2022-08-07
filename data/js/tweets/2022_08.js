@@ -1,6 +1,706 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 07 13:05:06 +0000 2022",
+		"id": 1555784630514503700,
+		"id_str": "1556265175199764487",
+		"full_text": "몇년전 트위터에서 다들 여성서사 찾을때 기억난다\n오타쿠들이 여캐 너무좋다고 여성서사 제발 보고싶다고하길래 작가밈들이 이거 진짠가 하고 여성서사 출간했더니 진심 하나도 안봐서 결제안들어오고 망하고 https://t.co/FKMM1ffM62 https://t.co/IiQNfQUbV7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FKMM1ffM62",
+					"expanded_url": "https://twitter.com/planarza/status/1555781235397365760",
+					"display_url": "twitter.com/planarza/statu…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555784535756836900,
+					"id_str": "1555784535756836866",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FZdBytjVEAIXA6B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZdBytjVEAIXA6B.jpg",
+					"url": "https://t.co/IiQNfQUbV7",
+					"display_url": "pic.twitter.com/IiQNfQUbV7",
+					"expanded_url": "https://twitter.com/planarza/status/1555784630514503680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 603,
+							"h": 816,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 603,
+							"h": 816,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 503,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555784535756836900,
+					"id_str": "1555784535756836866",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FZdBytjVEAIXA6B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZdBytjVEAIXA6B.jpg",
+					"url": "https://t.co/IiQNfQUbV7",
+					"display_url": "pic.twitter.com/IiQNfQUbV7",
+					"expanded_url": "https://twitter.com/planarza/status/1555784630514503680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 603,
+							"h": 816,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 603,
+							"h": 816,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 503,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1217817425443340300,
+			"id_str": "1217817425443340289",
+			"name": "Planar (인용=블락)",
+			"screen_name": "planarza",
+			"location": "비계팔x",
+			"description": "⦏편집됨⦎",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60,
+			"friends_count": 204,
+			"listed_count": 1,
+			"created_at": "Thu Jan 16 14:34:44 +0000 2020",
+			"favourites_count": 24247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485448897896251398/PpPZLKLY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485448897896251398/PpPZLKLY_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1555781235397365800,
+		"quoted_status_id_str": "1555781235397365760",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FKMM1ffM62",
+			"expanded": "https://twitter.com/planarza/status/1555781235397365760",
+			"display": "twitter.com/planarza/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 06 05:02:06 +0000 2022",
+			"id": 1555781235397365800,
+			"id_str": "1555781235397365760",
+			"full_text": "일단 기존 장르 현실이 어떠하기때문에 장르사기치면 안된다는 현직작가를 이해못할정도로 웹소를 안보는애들이라면 백합웹소 절대 안팔아줄거같음 ㅋㅋ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				78
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1555780246242177000,
+			"in_reply_to_status_id_str": "1555780246242177025",
+			"in_reply_to_user_id": 1217817425443340300,
+			"in_reply_to_user_id_str": "1217817425443340289",
+			"in_reply_to_screen_name": "planarza",
+			"user": {
+				"id": 1217817425443340300,
+				"id_str": "1217817425443340289",
+				"name": "Planar (인용=블락)",
+				"screen_name": "planarza",
+				"location": "비계팔x",
+				"description": "⦏편집됨⦎",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 60,
+				"friends_count": 204,
+				"listed_count": 1,
+				"created_at": "Thu Jan 16 14:34:44 +0000 2020",
+				"favourites_count": 24247,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 520,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1485448897896251398/PpPZLKLY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485448897896251398/PpPZLKLY_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 90,
+			"favorite_count": 36,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1508,
+		"favorite_count": 231,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "몇년전 트위터에서 다들 여성서사 찾을때 기억난다\n오타쿠들이 여캐 너무좋다고 여성서사 제발 보고싶다고하길래 작가밈들이 이거 진짠가 하고 여성서사 출간했더니 진심 하나도 안봐서 결제안들어오고 망하고 https://t.co/FKMM1ffM62 https://t.co/IiQNfQUbV7"
+	},
+	{
+		"created_at": "Sun Aug 07 12:56:28 +0000 2022",
+		"id": 1555870292186054700,
+		"id_str": "1556263002630156288",
+		"full_text": "예법은 행동양식을 제한하여 의미를 만드는 것이고 그래서 작법이라 하는 것이다. 일본에서는 아직도 한자로 예의작법(레이기사호礼儀作法)이라 한다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 187070498,
+			"id_str": "187070498",
+			"name": "손지상(孫 志尚, Son Ji-Sang)",
+			"screen_name": "doskharaas",
+			"location": "",
+			"description": "원고의뢰 및 문의: sonkaiju 네이버메일 | 저서 및 역서 목록: https://t.co/8qFNSt2HwY",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8qFNSt2HwY",
+							"expanded_url": "http://m.aladin.co.kr/m/msearch.aspx?SearchTarget=Book&KeyWord=%EC%86%90%EC%A7%80%EC%83%81&KeyRecentPublish=0&OutStock=0",
+							"display_url": "m.aladin.co.kr/m/msearch.aspx…",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3711,
+			"friends_count": 1489,
+			"listed_count": 51,
+			"created_at": "Sun Sep 05 04:57:43 +0000 2010",
+			"favourites_count": 47111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 182986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555489909992857600/UsO3bRQ7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555489909992857600/UsO3bRQ7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/187070498/1640341961",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "예법은 행동양식을 제한하여 의미를 만드는 것이고 그래서 작법이라 하는 것이다. 일본에서는 아직도 한자로 예의작법(레이기사호礼儀作法)이라 한다"
+	},
+	{
+		"created_at": "Sun Aug 07 12:45:06 +0000 2022",
+		"id": 1556260141514649600,
+		"id_str": "1556260141514649600",
+		"full_text": "최근의 관찰: 비 동양인은 유형성숙이 덜되어서 이마가 튀어나오는 안와상융기가 있고, 이로 인해 '그윽한 눈매'가 생겨나는데, 이 튀어나온 부분에 눈꺼풀이 덮어지며 쌍꺼풀주름이 생겨나는 것이기에, 눈과 눈썹이 멀고 밋밋한 이마의 동양계와는 다른 기작으로 쌍꺼풀이 생겨나는 것이었단 점.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 4,
+			"friends_count": 89,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 4096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14649,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "최근의 관찰: 비 동양인은 유형성숙이 덜되어서 이마가 튀어나오는 안와상융기가 있고, 이로 인해 '그윽한 눈매'가 생겨나는데, 이 튀어나온 부분에 눈꺼풀이 덮어지며 쌍꺼풀주름이 생겨나는 것이기에, 눈과 눈썹이 멀고 밋밋한 이마의 동양계와는 다른 기작으로 쌍꺼풀이 생겨나는 것이었단 점."
+	},
+	{
+		"created_at": "Sun Aug 07 12:35:34 +0000 2022",
+		"id": 1556257745044512800,
+		"id_str": "1556257745044512768",
+		"full_text": "연예계에 관심 없는 사람의 인상비평이지만, 10년대에 접어들며 국민미녀는 실종된 반면에 국민미남의 계보는 계속하여 생성되고 이어지는 느낌. 여초 특유의 컨센서스적 추종이 원인일 듯.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 4,
+			"friends_count": 89,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 4096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14649,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "연예계에 관심 없는 사람의 인상비평이지만, 10년대에 접어들며 국민미녀는 실종된 반면에 국민미남의 계보는 계속하여 생성되고 이어지는 느낌. 여초 특유의 컨센서스적 추종이 원인일 듯."
+	},
+	{
+		"created_at": "Sun Aug 07 12:31:39 +0000 2022",
+		"id": 1556256755973140500,
+		"id_str": "1556256755973140480",
+		"full_text": "영웅서사로 회수된다고 해서 한국 특유의 좌파적 메시지가 지워지진 않는다. https://t.co/l5IP3T5U1t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l5IP3T5U1t",
+					"expanded_url": "https://twitter.com/bbarkmang1/status/1555748544438362112",
+					"display_url": "twitter.com/bbarkmang1/sta…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 4,
+			"friends_count": 89,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 4096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14649,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1555748544438362000,
+		"quoted_status_id_str": "1555748544438362112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/l5IP3T5U1t",
+			"expanded": "https://twitter.com/bbarkmang1/status/1555748544438362112",
+			"display": "twitter.com/bbarkmang1/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 06 02:52:12 +0000 2022",
+			"id": 1555748544438362000,
+			"id_str": "1555748544438362112",
+			"full_text": "한드는 대중성을 위해서이든 영웅성을 부각시키기 위해서이든 인물의 개성과 능력에 거의 집중하는 식이라 좌파적인 드라마가 나오기가 힘듬 ㅋㅋ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				76
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1555748208189378600,
+			"in_reply_to_status_id_str": "1555748208189378560",
+			"in_reply_to_user_id": 1472728304574922800,
+			"in_reply_to_user_id_str": "1472728304574922753",
+			"in_reply_to_screen_name": "bbarkmang1",
+			"user": {
+				"id": 1472728304574922800,
+				"id_str": "1472728304574922753",
+				"name": "parkmaeng",
+				"screen_name": "bbarkmang1",
+				"location": "",
+				"description": "늦었다고 생각할 때는 정말로 늦은 거지만 어찌되었든 시작해야 합니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 446,
+				"friends_count": 513,
+				"listed_count": 3,
+				"created_at": "Mon Dec 20 00:39:36 +0000 2021",
+				"favourites_count": 3842,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21055,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1554843939902853121/-s_xlU0s_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554843939902853121/-s_xlU0s_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 76,
+			"favorite_count": 45,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "영웅서사로 회수된다고 해서 한국 특유의 좌파적 메시지가 지워지진 않는다. https://t.co/l5IP3T5U1t"
+	},
+	{
 		"created_at": "Fri Aug 05 21:51:40 +0000 2022",
 		"id": 1555080105747415000,
 		"id_str": "1555672913088761856",
