@@ -1,6 +1,526 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 10 09:33:31 +0000 2022",
+		"id": 1557299093751627800,
+		"id_str": "1557299093751627777",
+		"full_text": "왜냐하면 한국 여성은 언제나 피해자라이팅을 하기 때문에... https://t.co/NRhBMLMf6z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557299090450690000,
+					"id_str": "1557299090450690049",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FZyjRZdaMAEJpZz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZyjRZdaMAEJpZz.jpg",
+					"url": "https://t.co/NRhBMLMf6z",
+					"display_url": "pic.twitter.com/NRhBMLMf6z",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1557299093751627777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 413,
+							"h": 1790,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 277,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 157,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557299090450690000,
+					"id_str": "1557299090450690049",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/FZyjRZdaMAEJpZz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZyjRZdaMAEJpZz.jpg",
+					"url": "https://t.co/NRhBMLMf6z",
+					"display_url": "pic.twitter.com/NRhBMLMf6z",
+					"expanded_url": "https://twitter.com/EmptyKnK/status/1557299093751627777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 413,
+							"h": 1790,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 277,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 157,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 4,
+			"friends_count": 90,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 4099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "왜냐하면 한국 여성은 언제나 피해자라이팅을 하기 때문에... https://t.co/NRhBMLMf6z"
+	},
+	{
+		"created_at": "Wed Aug 10 09:32:18 +0000 2022",
+		"id": 1556438047637483500,
+		"id_str": "1557298785856147457",
+		"full_text": "재밌다\n근데 난 여기서 더 나아가서 한국인자체의 다른 국가민족들과 가장구별되는 정서가 억울함이라고 생각함 \n그 &gt;&gt;한&lt;&lt;이라는것도 그렇고\n한국의 가장 기저에 깔려있는 사고방식도 왜나만갖고그래+나만아니면돼+왜 저놈만? 이라고 생각해서 https://t.co/SZnGF1oQu6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SZnGF1oQu6",
+					"expanded_url": "https://twitter.com/days4tripper/status/1556260995282378752",
+					"display_url": "twitter.com/days4tripper/s…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1546473535043883000,
+			"id_str": "1546473535043883008",
+			"name": "생존기계",
+			"screen_name": "baritupendi",
+			"location": "개똥밭에굴러도이승이낫다",
+			"description": "살아라",
+			"url": "https://t.co/THPk1CYL4y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/THPk1CYL4y",
+							"expanded_url": "https://peing.net/ko/baritupendi",
+							"display_url": "peing.net/ko/baritupendi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424,
+			"friends_count": 77,
+			"listed_count": 3,
+			"created_at": "Mon Jul 11 12:36:50 +0000 2022",
+			"favourites_count": 2120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3677,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556102962711527424/T1wC0-Tm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556102962711527424/T1wC0-Tm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1546473535043883008/1659849777",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1556260995282378800,
+		"quoted_status_id_str": "1556260995282378752",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SZnGF1oQu6",
+			"expanded": "https://twitter.com/days4tripper/status/1556260995282378752",
+			"display": "twitter.com/days4tripper/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Aug 07 12:48:29 +0000 2022",
+			"id": 1556260995282378800,
+			"id_str": "1556260995282378752",
+			"full_text": "&lt;심리학자가 사랑을 기억하는 법&gt; 읽고 있다가 이 부분 보며 대체 남자들에게 ‘억울함’이란 몰까… 싶음… https://t.co/drz1mb3o6B",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				64
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1556260985572565000,
+						"id_str": "1556260985572564992",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/FZjzHvbaIAAFFWa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FZjzHvbaIAAFFWa.jpg",
+						"url": "https://t.co/drz1mb3o6B",
+						"display_url": "pic.twitter.com/drz1mb3o6B",
+						"expanded_url": "https://twitter.com/days4tripper/status/1556260995282378752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1594,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 934,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 529,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1556260985572565000,
+						"id_str": "1556260985572564992",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/FZjzHvbaIAAFFWa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FZjzHvbaIAAFFWa.jpg",
+						"url": "https://t.co/drz1mb3o6B",
+						"display_url": "pic.twitter.com/drz1mb3o6B",
+						"expanded_url": "https://twitter.com/days4tripper/status/1556260995282378752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1594,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 934,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 529,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 108222741,
+				"id_str": "108222741",
+				"name": "H",
+				"screen_name": "days4tripper",
+				"location": "여기보다 어딘가",
+				"description": "아무도 하지 않는 질문과 물음표를 좋아합니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10455,
+				"friends_count": 404,
+				"listed_count": 98,
+				"created_at": "Mon Jan 25 07:15:23 +0000 2010",
+				"favourites_count": 19061,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 74592,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1391076988329160706/Uzia5962_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391076988329160706/Uzia5962_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/108222741/1620473590",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4256,
+			"favorite_count": 2423,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 3,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "재밌다\n근데 난 여기서 더 나아가서 한국인자체의 다른 국가민족들과 가장구별되는 정서가 억울함이라고 생각함 \n그 &gt;&gt;한&lt;&lt;이라는것도 그렇고\n한국의 가장 기저에 깔려있는 사고방식도 왜나만갖고그래+나만아니면돼+왜 저놈만? 이라고 생각해서 https://t.co/SZnGF1oQu6"
+	},
+	{
+		"created_at": "Wed Aug 10 09:32:15 +0000 2022",
+		"id": 1556261424229646300,
+		"id_str": "1557298773357121537",
+		"full_text": "이별의 이유를 묻는 질문에는 남성 다수가 ‘솔직히 잘 모르겠다’고 답했고 여성은 ‘모든 것이 이유가 됐다’고 답했다고. 근데 이거 무슨 말인지 너무 알거 같아 🥹",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1556260995282378800,
+		"in_reply_to_status_id_str": "1556260995282378752",
+		"in_reply_to_user_id": 108222741,
+		"in_reply_to_user_id_str": "108222741",
+		"in_reply_to_screen_name": "days4tripper",
+		"user": {
+			"id": 108222741,
+			"id_str": "108222741",
+			"name": "H",
+			"screen_name": "days4tripper",
+			"location": "여기보다 어딘가",
+			"description": "아무도 하지 않는 질문과 물음표를 좋아합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10455,
+			"friends_count": 404,
+			"listed_count": 98,
+			"created_at": "Mon Jan 25 07:15:23 +0000 2010",
+			"favourites_count": 19061,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391076988329160706/Uzia5962_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391076988329160706/Uzia5962_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/108222741/1620473590",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1473,
+		"favorite_count": 1005,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이별의 이유를 묻는 질문에는 남성 다수가 ‘솔직히 잘 모르겠다’고 답했고 여성은 ‘모든 것이 이유가 됐다’고 답했다고. 근데 이거 무슨 말인지 너무 알거 같아 🥹"
+	},
+	{
 		"created_at": "Sun Aug 07 16:06:22 +0000 2022",
 		"id": 1556310792646979600,
 		"id_str": "1556310792646979585",
