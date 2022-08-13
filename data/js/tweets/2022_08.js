@@ -1,6 +1,453 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sat Aug 13 18:36:19 +0000 2022",
+		"id": 1558522854643155000,
+		"id_str": "1558522854643154945",
+		"full_text": "자본주의가 아니라 산업사회의 문제. 공산주의 역시도 산업사회를 전제로 한단 대전제를 간과하는 것이 좌파들이 저지르는 실수.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 4,
+			"friends_count": 90,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 4099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "자본주의가 아니라 산업사회의 문제. 공산주의 역시도 산업사회를 전제로 한단 대전제를 간과하는 것이 좌파들이 저지르는 실수."
+	},
+	{
+		"created_at": "Sat Aug 13 18:32:30 +0000 2022",
+		"id": 1555079892990955500,
+		"id_str": "1558521894604664833",
+		"full_text": "The \"traditional family\" was never very traditional https://t.co/NAbnq5Wazm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555079874624176000,
+					"id_str": "1555079874624176128",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FZTA6CRVQAAIBdz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZTA6CRVQAAIBdz.jpg",
+					"url": "https://t.co/NAbnq5Wazm",
+					"display_url": "pic.twitter.com/NAbnq5Wazm",
+					"expanded_url": "https://twitter.com/alyssamvance/status/1555079892990955520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1479,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 491,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 867,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555079874624176000,
+					"id_str": "1555079874624176128",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FZTA6CRVQAAIBdz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZTA6CRVQAAIBdz.jpg",
+					"url": "https://t.co/NAbnq5Wazm",
+					"display_url": "pic.twitter.com/NAbnq5Wazm",
+					"expanded_url": "https://twitter.com/alyssamvance/status/1555079892990955520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1479,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 491,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 867,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1427516209268859000,
+			"id_str": "1427516209268858880",
+			"name": "Alyssa Vance",
+			"screen_name": "alyssamvance",
+			"location": "Palo Alto, CA",
+			"description": "Conversational AI engineer, futurist, neophile, machine explorer. Schedule a video call: https://t.co/zq6zhc5IVj",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/zq6zhc5IVj",
+							"expanded_url": "http://bit.ly/3R6TmqB",
+							"display_url": "bit.ly/3R6TmqB",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3520,
+			"friends_count": 3251,
+			"listed_count": 39,
+			"created_at": "Tue Aug 17 06:22:51 +0000 2021",
+			"favourites_count": 20096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1549837010495578112/pndgdYJw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1549837010495578112/pndgdYJw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1427516209268858880/1637079383",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2130,
+		"favorite_count": 13373,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The \"traditional family\" was never very traditional https://t.co/NAbnq5Wazm"
+	},
+	{
+		"created_at": "Sat Aug 13 18:31:38 +0000 2022",
+		"id": 1558009588229685200,
+		"id_str": "1558521678342152192",
+		"full_text": "환상적인 사회화 아닌가?? 단지 먹고살기 위해 사회활동을 할 뿐이면서, 대리가 되고 과장이 되고... 그것이 어떤 사회적 소명과 개인의 자아실현인양 여겨지는 강력한 모티베이션이 작용하는 문화라니!! 이것이 가족을 붕괴시키고 국가를 느슨하게 해주지만 기업과 자본가에게 국가란 없지.ㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1558008506158317600,
+		"in_reply_to_status_id_str": "1558008506158317568",
+		"in_reply_to_user_id": 800470563550433300,
+		"in_reply_to_user_id_str": "800470563550433281",
+		"in_reply_to_screen_name": "ninahi_official",
+		"user": {
+			"id": 800470563550433300,
+			"id_str": "800470563550433281",
+			"name": "니나히 ninahi",
+			"screen_name": "ninahi_official",
+			"location": "대한민국 강남구",
+			"description": "Cheap enough for the worker and good enough for the rich.\n니나히의 공식 트위터 계정입니다.",
+			"url": "https://t.co/5WWPyHRpqk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5WWPyHRpqk",
+							"expanded_url": "http://www.ninahi.co.kr",
+							"display_url": "ninahi.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6729,
+			"friends_count": 45,
+			"listed_count": 17,
+			"created_at": "Sun Nov 20 22:47:09 +0000 2016",
+			"favourites_count": 2017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093840397799813120/ohO3HWuM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093840397799813120/ohO3HWuM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/800470563550433281/1594744931",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "환상적인 사회화 아닌가?? 단지 먹고살기 위해 사회활동을 할 뿐이면서, 대리가 되고 과장이 되고... 그것이 어떤 사회적 소명과 개인의 자아실현인양 여겨지는 강력한 모티베이션이 작용하는 문화라니!! 이것이 가족을 붕괴시키고 국가를 느슨하게 해주지만 기업과 자본가에게 국가란 없지.ㅋㅋ"
+	},
+	{
+		"created_at": "Sat Aug 13 18:31:34 +0000 2022",
+		"id": 1558008506158317600,
+		"id_str": "1558521662756102145",
+		"full_text": "개인들은 단지 생계일 뿐인 생산활동을 하면서도 그것이 '매우 뜻깊은 사회적 활동이자 자아실현'이라는 착각에 빠졌고 기타 생활에 필요한 갖가지 활동을 외주화하거나 배제하는 것으로 효율적인 생산활동을 담보받을 수 있다고 착각하는 중.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1558007914010251300,
+		"in_reply_to_status_id_str": "1558007914010251265",
+		"in_reply_to_user_id": 800470563550433300,
+		"in_reply_to_user_id_str": "800470563550433281",
+		"in_reply_to_screen_name": "ninahi_official",
+		"user": {
+			"id": 800470563550433300,
+			"id_str": "800470563550433281",
+			"name": "니나히 ninahi",
+			"screen_name": "ninahi_official",
+			"location": "대한민국 강남구",
+			"description": "Cheap enough for the worker and good enough for the rich.\n니나히의 공식 트위터 계정입니다.",
+			"url": "https://t.co/5WWPyHRpqk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5WWPyHRpqk",
+							"expanded_url": "http://www.ninahi.co.kr",
+							"display_url": "ninahi.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6729,
+			"friends_count": 45,
+			"listed_count": 17,
+			"created_at": "Sun Nov 20 22:47:09 +0000 2016",
+			"favourites_count": 2017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093840397799813120/ohO3HWuM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093840397799813120/ohO3HWuM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/800470563550433281/1594744931",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "개인들은 단지 생계일 뿐인 생산활동을 하면서도 그것이 '매우 뜻깊은 사회적 활동이자 자아실현'이라는 착각에 빠졌고 기타 생활에 필요한 갖가지 활동을 외주화하거나 배제하는 것으로 효율적인 생산활동을 담보받을 수 있다고 착각하는 중."
+	},
+	{
 		"created_at": "Sat Aug 13 18:02:38 +0000 2022",
 		"id": 1558506298282430500,
 		"id_str": "1558514377543675905",
