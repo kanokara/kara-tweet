@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 30 14:10:49 +0000 2022",
+		"id": 1575429646812082200,
+		"id_str": "1575850659332882433",
+		"full_text": "이분은 바로크연극의 극장과 기술적 부분에 주목하여 타래를 엮으셨는데 역사적 배경과 사상에 조금더 주목하자면 이 '세계극장관(世界劇場観)'은 '온세상의 줄거리를 정하는 것은 신이며 인간은 그것을 세계라는 무대에서 연기하는 배우'라는 사상을 바탕으로 하고 있습니다 https://t.co/gDUxEGMf7Q https://t.co/HyyWjVK1Nq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gDUxEGMf7Q",
+					"expanded_url": "https://twitter.com/destroyed_DLZ/status/1573190447262224385",
+					"display_url": "twitter.com/destroyed_DLZ/…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1575429644819767300,
+					"id_str": "1575429644819767298",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd0M6jwaIAI4Sfb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd0M6jwaIAI4Sfb.jpg",
+					"url": "https://t.co/HyyWjVK1Nq",
+					"display_url": "pic.twitter.com/HyyWjVK1Nq",
+					"expanded_url": "https://twitter.com/0120_daru/status/1575429646812082181/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 276,
+							"h": 183,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 276,
+							"h": 183,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 276,
+							"h": 183,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1575429644819767300,
+					"id_str": "1575429644819767298",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd0M6jwaIAI4Sfb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd0M6jwaIAI4Sfb.jpg",
+					"url": "https://t.co/HyyWjVK1Nq",
+					"display_url": "pic.twitter.com/HyyWjVK1Nq",
+					"expanded_url": "https://twitter.com/0120_daru/status/1575429646812082181/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 276,
+							"h": 183,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 276,
+							"h": 183,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 276,
+							"h": 183,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4356477445,
+			"id_str": "4356477445",
+			"name": "다루",
+			"screen_name": "0120_daru",
+			"location": "본점입니다",
+			"description": "좌절감이 사나이를 키우는 것이다",
+			"url": "https://t.co/gfyOP4nVV9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gfyOP4nVV9",
+							"expanded_url": "https://peing.net/ko/0120_daru",
+							"display_url": "peing.net/ko/0120_daru",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62,
+			"friends_count": 122,
+			"listed_count": 0,
+			"created_at": "Wed Nov 25 13:55:50 +0000 2015",
+			"favourites_count": 4012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1329051784174702593/3Ce5mk19_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329051784174702593/3Ce5mk19_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4356477445/1605718620",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1573190447262224400,
+		"quoted_status_id_str": "1573190447262224385",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gDUxEGMf7Q",
+			"expanded": "https://twitter.com/destroyed_DLZ/status/1573190447262224385",
+			"display": "twitter.com/destroyed_DLZ/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 23 06:00:05 +0000 2022",
+			"id": 1573190447262224400,
+			"id_str": "1573190447262224385",
+			"full_text": "세계는 하나의 연극(Theatrum mundi)이라는 말... 바로크시대에 유행했던 말인데\n연극이 세상의 대상들을 모사하고 재현해서 보여주기 때문에 세계로 이해됐던 게 아니래...\n연극 장르 특징상 일회적이고 모든 게 꾸며낸 가상이라는 점이 바로크적 세계관과 인생관에 완벽하게 부합되기 때문이었대...",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				168
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3631765159,
+				"id_str": "3631765159",
+				"name": "아빠 셋 가진 튼포",
+				"screen_name": "destroyed_DLZ",
+				"location": "",
+				"description": "괴테실러 파는 사람 연락주세요 // 잠금계정팔로우 주기적으로 정리합니다",
+				"url": "https://t.co/n5JQwEvvYl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/n5JQwEvvYl",
+								"expanded_url": "http://youlamb.tistory.com/",
+								"display_url": "youlamb.tistory.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 482,
+				"friends_count": 420,
+				"listed_count": 5,
+				"created_at": "Sun Sep 20 23:19:50 +0000 2015",
+				"favourites_count": 25857,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 132881,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1033367183915544577/sihfStTj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033367183915544577/sihfStTj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3631765159/1485311772",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1626,
+			"favorite_count": 949,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 12,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이분은 바로크연극의 극장과 기술적 부분에 주목하여 타래를 엮으셨는데 역사적 배경과 사상에 조금더 주목하자면 이 '세계극장관(世界劇場観)'은 '온세상의 줄거리를 정하는 것은 신이며 인간은 그것을 세계라는 무대에서 연기하는 배우'라는 사상을 바탕으로 하고 있습니다 https://t.co/gDUxEGMf7Q https://t.co/HyyWjVK1Nq"
+	},
+	{
+		"created_at": "Fri Sep 30 14:10:43 +0000 2022",
+		"id": 1573190447262224400,
+		"id_str": "1575850631411421185",
+		"full_text": "세계는 하나의 연극(Theatrum mundi)이라는 말... 바로크시대에 유행했던 말인데\n연극이 세상의 대상들을 모사하고 재현해서 보여주기 때문에 세계로 이해됐던 게 아니래...\n연극 장르 특징상 일회적이고 모든 게 꾸며낸 가상이라는 점이 바로크적 세계관과 인생관에 완벽하게 부합되기 때문이었대...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3631765159,
+			"id_str": "3631765159",
+			"name": "아빠 셋 가진 튼포",
+			"screen_name": "destroyed_DLZ",
+			"location": "",
+			"description": "괴테실러 파는 사람 연락주세요 // 잠금계정팔로우 주기적으로 정리합니다",
+			"url": "https://t.co/n5JQwEvvYl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n5JQwEvvYl",
+							"expanded_url": "http://youlamb.tistory.com/",
+							"display_url": "youlamb.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 482,
+			"friends_count": 420,
+			"listed_count": 5,
+			"created_at": "Sun Sep 20 23:19:50 +0000 2015",
+			"favourites_count": 25857,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 132881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1033367183915544577/sihfStTj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033367183915544577/sihfStTj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3631765159/1485311772",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1626,
+		"favorite_count": 949,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "세계는 하나의 연극(Theatrum mundi)이라는 말... 바로크시대에 유행했던 말인데\n연극이 세상의 대상들을 모사하고 재현해서 보여주기 때문에 세계로 이해됐던 게 아니래...\n연극 장르 특징상 일회적이고 모든 게 꾸며낸 가상이라는 점이 바로크적 세계관과 인생관에 완벽하게 부합되기 때문이었대..."
+	},
+	{
 		"created_at": "Fri Sep 30 04:52:29 +0000 2022",
 		"id": 1575710149368774700,
 		"id_str": "1575710149368774657",
