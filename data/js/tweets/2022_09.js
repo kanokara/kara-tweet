@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 30 00:03:51 +0000 2022",
+		"id": 1575637511660937200,
+		"id_str": "1575637511660937217",
+		"full_text": "텍스트 투 비디오. 영상물도 정복.\nhttps://t.co/zJpWQNhiSE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zJpWQNhiSE",
+					"expanded_url": "https://twitter.com/_akhaliq/status/1575482714202980352",
+					"display_url": "twitter.com/_akhaliq/statu…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1575637158869995500,
+		"in_reply_to_status_id_str": "1575637158869995520",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 4,
+			"friends_count": 91,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 4095,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14666,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1575482714202980400,
+		"quoted_status_id_str": "1575482714202980352",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zJpWQNhiSE",
+			"expanded": "https://twitter.com/_akhaliq/status/1575482714202980352",
+			"display": "twitter.com/_akhaliq/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 29 13:48:44 +0000 2022",
+			"id": 1575482714202980400,
+			"id_str": "1575482714202980352",
+			"full_text": "make-a-video: text-to-video generation without text-video data\npaper: https://t.co/2cU5frClvB\nproject page: https://t.co/OoQ3DFMGMV https://t.co/5b6ivViAPM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				131
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2cU5frClvB",
+						"expanded_url": "https://makeavideo.studio/Make-A-Video.pdf",
+						"display_url": "makeavideo.studio/Make-A-Video.p…",
+						"indices": [
+							70,
+							93
+						]
+					},
+					{
+						"url": "https://t.co/OoQ3DFMGMV",
+						"expanded_url": "https://makeavideo.studio/",
+						"display_url": "makeavideo.studio",
+						"indices": [
+							108,
+							131
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1575482019869499400,
+						"id_str": "1575482019869499393",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1575482019869499393/pu/img/W2VtHYW1sHRzBLgP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1575482019869499393/pu/img/W2VtHYW1sHRzBLgP.jpg",
+						"url": "https://t.co/5b6ivViAPM",
+						"display_url": "pic.twitter.com/5b6ivViAPM",
+						"expanded_url": "https://twitter.com/_akhaliq/status/1575482714202980352/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1185,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 393,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 694,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1575482019869499400,
+						"id_str": "1575482019869499393",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1575482019869499393/pu/img/W2VtHYW1sHRzBLgP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1575482019869499393/pu/img/W2VtHYW1sHRzBLgP.jpg",
+						"url": "https://t.co/5b6ivViAPM",
+						"display_url": "pic.twitter.com/5b6ivViAPM",
+						"expanded_url": "https://twitter.com/_akhaliq/status/1575482714202980352/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1185,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 393,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 694,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1208,
+								699
+							],
+							"duration_millis": 51766,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1575482019869499393/pu/vid/622x360/_PboOFAnnrlRWNat.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1575482019869499393/pu/vid/1244x720/RyP25s73XVxZ2lF6.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1575482019869499393/pu/pl/8NnceNvVYKkN72Dd.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1575482019869499393/pu/vid/466x270/s43ugKlwASAyA232.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2465283662,
+				"id_str": "2465283662",
+				"name": "AK",
+				"screen_name": "_akhaliq",
+				"location": "",
+				"description": "paper tweets, dms are open, ML @Gradio (acq. by @HuggingFace 🤗)",
+				"url": "https://t.co/IwgCvcuxfU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IwgCvcuxfU",
+								"expanded_url": "http://linkedin.com/in/ahsenkhaliq",
+								"display_url": "linkedin.com/in/ahsenkhaliq",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 79913,
+				"friends_count": 1584,
+				"listed_count": 933,
+				"created_at": "Sun Apr 27 00:20:12 +0000 2014",
+				"favourites_count": 20846,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13344,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451191636810092553/kpM5Fe12_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2465283662/1610997549",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 379,
+			"favorite_count": 1703,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "텍스트 투 비디오. 영상물도 정복.\nhttps://t.co/zJpWQNhiSE"
+	},
+	{
 		"created_at": "Thu Sep 29 12:23:05 +0000 2022",
 		"id": 1575461159683371000,
 		"id_str": "1575461159683371008",
