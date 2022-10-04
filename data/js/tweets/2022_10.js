@@ -1,6 +1,900 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 04 22:32:09 +0000 2022",
+		"id": 1576834683043999700,
+		"id_str": "1577426375434436609",
+		"full_text": "#NovelAIDiffusion #novelAI がリリースされました8\n無加筆無編集出力まま　\n白黒の漫画調の絵……\nいや　AI　いや　待って欲しい　いや…… https://t.co/pCGqZhnbTF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NovelAIDiffusion",
+					"indices": [
+						0,
+						17
+					]
+				},
+				{
+					"text": "novelAI",
+					"indices": [
+						18,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1576834174518169600,
+					"id_str": "1576834174518169600",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FeIKU8naEAArE3d.png",
+					"media_url_https": "https://pbs.twimg.com/media/FeIKU8naEAArE3d.png",
+					"url": "https://t.co/pCGqZhnbTF",
+					"display_url": "pic.twitter.com/pCGqZhnbTF",
+					"expanded_url": "https://twitter.com/8co28/status/1576834683043999744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1576834174518169600,
+					"id_str": "1576834174518169600",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FeIKU8naEAArE3d.png",
+					"media_url_https": "https://pbs.twimg.com/media/FeIKU8naEAArE3d.png",
+					"url": "https://t.co/pCGqZhnbTF",
+					"display_url": "pic.twitter.com/pCGqZhnbTF",
+					"expanded_url": "https://twitter.com/8co28/status/1576834683043999744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1576834182009225200,
+					"id_str": "1576834182009225218",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FeIKVYhagAIZqBt.png",
+					"media_url_https": "https://pbs.twimg.com/media/FeIKVYhagAIZqBt.png",
+					"url": "https://t.co/pCGqZhnbTF",
+					"display_url": "pic.twitter.com/pCGqZhnbTF",
+					"expanded_url": "https://twitter.com/8co28/status/1576834683043999744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1576834417393557500,
+					"id_str": "1576834417393557504",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FeIKjFZaYAA9VYs.png",
+					"media_url_https": "https://pbs.twimg.com/media/FeIKjFZaYAA9VYs.png",
+					"url": "https://t.co/pCGqZhnbTF",
+					"display_url": "pic.twitter.com/pCGqZhnbTF",
+					"expanded_url": "https://twitter.com/8co28/status/1576834683043999744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1576834631382732800,
+					"id_str": "1576834631382732800",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FeIKvikaEAAXE4N.png",
+					"media_url_https": "https://pbs.twimg.com/media/FeIKvikaEAAXE4N.png",
+					"url": "https://t.co/pCGqZhnbTF",
+					"display_url": "pic.twitter.com/pCGqZhnbTF",
+					"expanded_url": "https://twitter.com/8co28/status/1576834683043999744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1370299304707989500,
+			"id_str": "1370299304707989512",
+			"name": "852話",
+			"screen_name": "8co28",
+			"location": "852話はハコニワとよみます",
+			"description": "◇10月末日までメディア予約投稿◇大切な恋人最優先",
+			"url": "https://t.co/cp1heWpUAX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cp1heWpUAX",
+							"expanded_url": "https://skeb.jp/@8co28",
+							"display_url": "skeb.jp/@8co28",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117817,
+			"friends_count": 218,
+			"listed_count": 844,
+			"created_at": "Fri Mar 12 09:03:18 +0000 2021",
+			"favourites_count": 564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1499865775246815232/jRximB_o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1499865775246815232/jRximB_o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1370299304707989512/1664890167",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1827,
+		"favorite_count": 4184,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#NovelAIDiffusion #novelAI がリリースされました8\n無加筆無編集出力まま　\n白黒の漫画調の絵……\nいや　AI　いや　待って欲しい　いや…… https://t.co/pCGqZhnbTF"
+	},
+	{
+		"created_at": "Tue Oct 04 22:27:20 +0000 2022",
+		"id": 1576835442733109200,
+		"id_str": "1577425164018782208",
+		"full_text": "#NovelAIDiffusion #novelAI がリリースされました9\n無加筆無編集出力まま　\n白黒の漫画調の絵……少年 https://t.co/xZMzLqKTQi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NovelAIDiffusion",
+					"indices": [
+						0,
+						17
+					]
+				},
+				{
+					"text": "novelAI",
+					"indices": [
+						18,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1576834977081487400,
+					"id_str": "1576834977081487360",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FeILDqZacAAwyoh.png",
+					"media_url_https": "https://pbs.twimg.com/media/FeILDqZacAAwyoh.png",
+					"url": "https://t.co/xZMzLqKTQi",
+					"display_url": "pic.twitter.com/xZMzLqKTQi",
+					"expanded_url": "https://twitter.com/8co28/status/1576835442733109249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1576834977081487400,
+					"id_str": "1576834977081487360",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FeILDqZacAAwyoh.png",
+					"media_url_https": "https://pbs.twimg.com/media/FeILDqZacAAwyoh.png",
+					"url": "https://t.co/xZMzLqKTQi",
+					"display_url": "pic.twitter.com/xZMzLqKTQi",
+					"expanded_url": "https://twitter.com/8co28/status/1576835442733109249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1576835272977051600,
+					"id_str": "1576835272977051650",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FeILU4sacAI0Nmx.png",
+					"media_url_https": "https://pbs.twimg.com/media/FeILU4sacAI0Nmx.png",
+					"url": "https://t.co/xZMzLqKTQi",
+					"display_url": "pic.twitter.com/xZMzLqKTQi",
+					"expanded_url": "https://twitter.com/8co28/status/1576835442733109249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1576835403004661800,
+					"id_str": "1576835403004661760",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FeILcdFaUAAGVV2.png",
+					"media_url_https": "https://pbs.twimg.com/media/FeILcdFaUAAGVV2.png",
+					"url": "https://t.co/xZMzLqKTQi",
+					"display_url": "pic.twitter.com/xZMzLqKTQi",
+					"expanded_url": "https://twitter.com/8co28/status/1576835442733109249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1576835408172060700,
+					"id_str": "1576835408172060672",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FeILcwVakAA7IBN.png",
+					"media_url_https": "https://pbs.twimg.com/media/FeILcwVakAA7IBN.png",
+					"url": "https://t.co/xZMzLqKTQi",
+					"display_url": "pic.twitter.com/xZMzLqKTQi",
+					"expanded_url": "https://twitter.com/8co28/status/1576835442733109249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1370299304707989500,
+			"id_str": "1370299304707989512",
+			"name": "852話",
+			"screen_name": "8co28",
+			"location": "852話はハコニワとよみます",
+			"description": "◇10月末日までメディア予約投稿◇大切な恋人最優先",
+			"url": "https://t.co/cp1heWpUAX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cp1heWpUAX",
+							"expanded_url": "https://skeb.jp/@8co28",
+							"display_url": "skeb.jp/@8co28",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117817,
+			"friends_count": 218,
+			"listed_count": 844,
+			"created_at": "Fri Mar 12 09:03:18 +0000 2021",
+			"favourites_count": 564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1499865775246815232/jRximB_o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1499865775246815232/jRximB_o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1370299304707989512/1664890167",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 453,
+		"favorite_count": 674,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#NovelAIDiffusion #novelAI がリリースされました9\n無加筆無編集出力まま　\n白黒の漫画調の絵……少年 https://t.co/xZMzLqKTQi"
+	},
+	{
+		"created_at": "Tue Oct 04 22:26:57 +0000 2022",
+		"id": 1576833316648792000,
+		"id_str": "1577425065670766592",
+		"full_text": "#NovelAIDiffusion #novelAI がリリースされました7\n無加筆無編集出力まま　\n\nは？！？！？！？！？！？！？！？！？！？！？！？！？！？！？！？！？！？！？！？！？！？？！？！？！白黒漫画……え？！？！？！？！？？！あ？！？！？！？！？！？！？！？！？えっっっっっっっっっぐ　これ　うわ https://t.co/3Av6i4dGWK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NovelAIDiffusion",
+					"indices": [
+						0,
+						17
+					]
+				},
+				{
+					"text": "novelAI",
+					"indices": [
+						18,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1576832812355047400,
+					"id_str": "1576832812355047424",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FeIJFqKaUAATlIa.png",
+					"media_url_https": "https://pbs.twimg.com/media/FeIJFqKaUAATlIa.png",
+					"url": "https://t.co/3Av6i4dGWK",
+					"display_url": "pic.twitter.com/3Av6i4dGWK",
+					"expanded_url": "https://twitter.com/8co28/status/1576833316648792065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1576832812355047400,
+					"id_str": "1576832812355047424",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FeIJFqKaUAATlIa.png",
+					"media_url_https": "https://pbs.twimg.com/media/FeIJFqKaUAATlIa.png",
+					"url": "https://t.co/3Av6i4dGWK",
+					"display_url": "pic.twitter.com/3Av6i4dGWK",
+					"expanded_url": "https://twitter.com/8co28/status/1576833316648792065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1576832876842451000,
+					"id_str": "1576832876842450945",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FeIJJaZaAAEaXDs.png",
+					"media_url_https": "https://pbs.twimg.com/media/FeIJJaZaAAEaXDs.png",
+					"url": "https://t.co/3Av6i4dGWK",
+					"display_url": "pic.twitter.com/3Av6i4dGWK",
+					"expanded_url": "https://twitter.com/8co28/status/1576833316648792065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1576832900804530200,
+					"id_str": "1576832900804530181",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FeIJKzqaUAUMSlr.png",
+					"media_url_https": "https://pbs.twimg.com/media/FeIJKzqaUAUMSlr.png",
+					"url": "https://t.co/3Av6i4dGWK",
+					"display_url": "pic.twitter.com/3Av6i4dGWK",
+					"expanded_url": "https://twitter.com/8co28/status/1576833316648792065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1576833292980322300,
+					"id_str": "1576833292980322304",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/FeIJhooaAAAfZ90.png",
+					"media_url_https": "https://pbs.twimg.com/media/FeIJhooaAAAfZ90.png",
+					"url": "https://t.co/3Av6i4dGWK",
+					"display_url": "pic.twitter.com/3Av6i4dGWK",
+					"expanded_url": "https://twitter.com/8co28/status/1576833316648792065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1370299304707989500,
+			"id_str": "1370299304707989512",
+			"name": "852話",
+			"screen_name": "8co28",
+			"location": "852話はハコニワとよみます",
+			"description": "◇10月末日までメディア予約投稿◇大切な恋人最優先",
+			"url": "https://t.co/cp1heWpUAX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cp1heWpUAX",
+							"expanded_url": "https://skeb.jp/@8co28",
+							"display_url": "skeb.jp/@8co28",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117817,
+			"friends_count": 218,
+			"listed_count": 844,
+			"created_at": "Fri Mar 12 09:03:18 +0000 2021",
+			"favourites_count": 564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1499865775246815232/jRximB_o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1499865775246815232/jRximB_o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1370299304707989512/1664890167",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1614,
+		"favorite_count": 2509,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#NovelAIDiffusion #novelAI がリリースされました7\n無加筆無編集出力まま　\n\nは？！？！？！？！？！？！？！？！？！？！？！？！？！？！？！？！？！？！？！？！？！？？！？！？！白黒漫画……え？！？！？！？！？？！あ？！？！？！？！？！？！？！？！？えっっっっっっっっっぐ　これ　うわ https://t.co/3Av6i4dGWK"
+	},
+	{
 		"created_at": "Tue Oct 04 21:32:20 +0000 2022",
 		"id": 1577411319141372000,
 		"id_str": "1577411319141371905",
