@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 13 11:38:58 +0000 2022",
+		"id": 1580510625645879300,
+		"id_str": "1580523484903792640",
+		"full_text": "이런 타임라인과 매일 씨름하는 시점에서는 '지상에 강림한 신이 인간을 긍휼히 여길 것인가?'에 비하면 전쟁을 포함한 인세의 만사가 해일 앞의 조개 수집처럼 보일 것.\n\n그 느낌이 이해가 안 가는 건 아니지만... 오히려 그렇기 때문에 오늘을 순수하게 즐기는 것이 진짜 승리라고 봄. https://t.co/nEgdiI7tPo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nEgdiI7tPo",
+					"expanded_url": "https://twitter.com/nearcyan/status/1576601022922833920",
+					"display_url": "twitter.com/nearcyan/statu…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 716136496873414700,
+			"id_str": "716136496873414656",
+			"name": "mejiro.eth",
+			"screen_name": "mejiroth",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80,
+			"friends_count": 49,
+			"listed_count": 1,
+			"created_at": "Sat Apr 02 05:33:40 +0000 2016",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1489505781804326917/aireI_MP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1489505781804326917/aireI_MP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/716136496873414656/1643511248",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1576601022922834000,
+		"quoted_status_id_str": "1576601022922833920",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nEgdiI7tPo",
+			"expanded": "https://twitter.com/nearcyan/status/1576601022922833920",
+			"display": "twitter.com/nearcyan/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 02 15:52:30 +0000 2022",
+			"id": 1576601022922834000,
+			"id_str": "1576601022922833920",
+			"full_text": "\"If I had to summarize my position, it’s that I don’t think a background vibe of normalcy makes sense anymore ...  We have too much empirical data now pointing in another direction\"\n\nhttps://t.co/0YvaEBA2gw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				206
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0YvaEBA2gw",
+						"expanded_url": "https://www.lesswrong.com/posts/K4urTDkBbtNuLivJx/why-i-think-strong-general-ai-is-coming-soon",
+						"display_url": "lesswrong.com/posts/K4urTDkB…",
+						"indices": [
+							183,
+							206
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1128159740599656400,
+				"id_str": "1128159740599656448",
+				"name": "nearcyan",
+				"screen_name": "nearcyan",
+				"location": "Austin, TX",
+				"description": "lead AI researcher and funposter @koe_recast, personal: https://t.co/wGpgLhVWBH \n\nwhy must we be barrelling towards the end so quickly?\nDMs open",
+				"url": "https://t.co/eGJfDcxmeS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eGJfDcxmeS",
+								"expanded_url": "https://nearcyan.com/",
+								"display_url": "nearcyan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/wGpgLhVWBH",
+								"expanded_url": "http://nearcyan.com",
+								"display_url": "nearcyan.com",
+								"indices": [
+									56,
+									79
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5627,
+				"friends_count": 676,
+				"listed_count": 126,
+				"created_at": "Tue May 14 04:46:57 +0000 2019",
+				"favourites_count": 3279,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3462,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1446575702439043077/kNKnkoyI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1446575702439043077/kNKnkoyI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1128159740599656448/1645129213",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 119,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이런 타임라인과 매일 씨름하는 시점에서는 '지상에 강림한 신이 인간을 긍휼히 여길 것인가?'에 비하면 전쟁을 포함한 인세의 만사가 해일 앞의 조개 수집처럼 보일 것.\n\n그 느낌이 이해가 안 가는 건 아니지만... 오히려 그렇기 때문에 오늘을 순수하게 즐기는 것이 진짜 승리라고 봄. https://t.co/nEgdiI7tPo"
+	},
+	{
 		"created_at": "Sun Oct 09 03:43:27 +0000 2022",
 		"id": 1578954265573625900,
 		"id_str": "1578954265573625856",
