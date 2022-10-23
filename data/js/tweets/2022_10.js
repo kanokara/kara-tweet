@@ -1,6 +1,399 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 23 08:30:45 +0000 2022",
+		"id": 1583121153274413000,
+		"id_str": "1584099999943884801",
+		"full_text": "removing the fetus from its amniotic sac, showing just the sac, then saying that’s what a pregnancy at 10 weeks looks like is absolutely a lie, yes.\nThese are pregnancies-including the fetuses-at 8 and 10 weeks. https://t.co/Eqslq9CrhF https://t.co/Agvon87aYH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Eqslq9CrhF",
+					"expanded_url": "https://twitter.com/jessicavalenti/status/1582822972158803969",
+					"display_url": "twitter.com/jessicavalenti…",
+					"indices": [
+						212,
+						235
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1583121056809771000,
+					"id_str": "1583121056809771010",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/FfhgNqOWYAICLHL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfhgNqOWYAICLHL.jpg",
+					"url": "https://t.co/Agvon87aYH",
+					"display_url": "pic.twitter.com/Agvon87aYH",
+					"expanded_url": "https://twitter.com/prolifejewess/status/1583121153274413057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583121056809771000,
+					"id_str": "1583121056809771010",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/FfhgNqOWYAICLHL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfhgNqOWYAICLHL.jpg",
+					"url": "https://t.co/Agvon87aYH",
+					"display_url": "pic.twitter.com/Agvon87aYH",
+					"expanded_url": "https://twitter.com/prolifejewess/status/1583121153274413057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1583121056780386300,
+					"id_str": "1583121056780386305",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/FfhgNqHWAAEljoH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfhgNqHWAAEljoH.jpg",
+					"url": "https://t.co/Agvon87aYH",
+					"display_url": "pic.twitter.com/Agvon87aYH",
+					"expanded_url": "https://twitter.com/prolifejewess/status/1583121153274413057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 911,
+							"h": 462,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 911,
+							"h": 462,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 345,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1583121056843415600,
+					"id_str": "1583121056843415558",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/FfhgNqWXwAY4SKY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfhgNqWXwAY4SKY.jpg",
+					"url": "https://t.co/Agvon87aYH",
+					"display_url": "pic.twitter.com/Agvon87aYH",
+					"expanded_url": "https://twitter.com/prolifejewess/status/1583121153274413057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 903,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1541,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1583121056855908400,
+					"id_str": "1583121056855908352",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/FfhgNqZWYAAo0vU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfhgNqZWYAAo0vU.jpg",
+					"url": "https://t.co/Agvon87aYH",
+					"display_url": "pic.twitter.com/Agvon87aYH",
+					"expanded_url": "https://twitter.com/prolifejewess/status/1583121153274413057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1345164135152156700,
+			"id_str": "1345164135152156673",
+			"name": "L*ttie J*wpree: winning team",
+			"screen_name": "prolifejewess",
+			"location": "appalachia",
+			"description": "19 | ✡️ Mizrahi-American | feminism enjoyer | SFL State Captain | survivor | it’s all for Rah’chayl",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5771,
+			"friends_count": 614,
+			"listed_count": 9,
+			"created_at": "Sat Jan 02 00:25:04 +0000 2021",
+			"favourites_count": 71796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12337,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555482269284028416/jzhfoZsk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555482269284028416/jzhfoZsk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1345164135152156673/1613443865",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1582822972158804000,
+		"quoted_status_id_str": "1582822972158803969",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Eqslq9CrhF",
+			"expanded": "https://twitter.com/jessicavalenti/status/1582822972158803969",
+			"display": "twitter.com/jessicavalenti…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 19 19:56:18 +0000 2022",
+			"id": 1582822972158804000,
+			"id_str": "1582822972158803969",
+			"full_text": "I shared these images on TikTok and people are losing their minds insisting that it's a lie - it's wild how indoctrinated people are about abortion https://t.co/yUqPIZSxFA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				171
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/yUqPIZSxFA",
+						"expanded_url": "https://www.theguardian.com/world/2022/oct/18/pregnancy-weeks-abortion-tissue",
+						"display_url": "theguardian.com/world/2022/oct…",
+						"indices": [
+							148,
+							171
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4099171,
+				"id_str": "4099171",
+				"name": "Jessica Valenti",
+				"screen_name": "JessicaValenti",
+				"location": "Brooklyn, NY",
+				"description": "Feminist author (Sex Object, The Purity Myth & more), columnist. Writing about abortion, every day",
+				"url": "https://t.co/bqLTDBE5yv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bqLTDBE5yv",
+								"expanded_url": "http://jessica.substack.com",
+								"display_url": "jessica.substack.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 313329,
+				"friends_count": 1358,
+				"listed_count": 4342,
+				"created_at": "Wed Apr 11 00:45:08 +0000 2007",
+				"favourites_count": 35994,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 15366,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B0A6B0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1552094199172014080/Lem4imB5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1552094199172014080/Lem4imB5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4099171/1612206496",
+				"profile_link_color": "FF006E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F0FDF9",
+				"profile_text_color": "735DB9",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9798,
+			"favorite_count": 23619,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 36,
+		"favorite_count": 164,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "removing the fetus from its amniotic sac, showing just the sac, then saying that’s what a pregnancy at 10 weeks looks like is absolutely a lie, yes.\nThese are pregnancies-including the fetuses-at 8 and 10 weeks. https://t.co/Eqslq9CrhF https://t.co/Agvon87aYH"
+	},
+	{
 		"created_at": "Thu Oct 20 18:35:03 +0000 2022",
 		"id": 1583164910951096300,
 		"id_str": "1583164910951096320",
