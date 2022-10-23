@@ -1,6 +1,698 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 23 10:06:40 +0000 2022",
+		"id": 1583713408846729200,
+		"id_str": "1584124138926768128",
+		"full_text": "틀린 말은 아니지만, 현재 넷플은 전체적으로 자사 \"오리지널\" (말은 그렇고 애퀴지션) 작품들 버짓이 모가지 댕강댕강 중이므로 아니메 또한 줄어든다고 해서 이상할 일은 아님. 즉, 선후관계가 뒤바뀌어 -- 어차피 줄이려는 버짓, 구독자 드라이브에 딱히 눈에 안 띄는 장르라면 더 줄어드는 격. https://t.co/2wpmt6UVuP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2wpmt6UVuP",
+					"expanded_url": "https://twitter.com/Wandava/status/1583645169865195520",
+					"display_url": "twitter.com/Wandava/status…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1381402979090063400,
+			"id_str": "1381402979090063360",
+			"name": "greendale student",
+			"screen_name": "epluribusanus0",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 0,
+			"friends_count": 14,
+			"listed_count": 0,
+			"created_at": "Mon Apr 12 00:25:59 +0000 2021",
+			"favourites_count": 1089,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1583645169865195500,
+		"quoted_status_id_str": "1583645169865195520",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2wpmt6UVuP",
+			"expanded": "https://twitter.com/Wandava/status/1583645169865195520",
+			"display": "twitter.com/Wandava/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 22 02:23:25 +0000 2022",
+			"id": 1583645169865195500,
+			"id_str": "1583645169865195520",
+			"full_text": "이 기사에 대해 업계인(애니메이터)인 니시이 테루미 씨의 의견으로는 '일본 애니가 오리지널 시나리오에서 철저하게 힘이 약한게 들킨것 뿐'이라는게 제시됨. https://t.co/uOGHfIMGk4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				85
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uOGHfIMGk4",
+						"expanded_url": "https://twitter.com/Wandava/status/1583287257028435968",
+						"display_url": "twitter.com/Wandava/status…",
+						"indices": [
+							86,
+							109
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 95424382,
+				"id_str": "95424382",
+				"name": "M4A5G3E1N4T5A",
+				"screen_name": "Wandava",
+				"location": "",
+				"description": "真の光子力研究所スタッフ 광자력 연구소 스태프(眞) / JAM Project Guardians / 파괴자 좋아 / 지갑전사V3",
+				"url": "https://t.co/7DqxMWyQkM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7DqxMWyQkM",
+								"expanded_url": "https://blog.naver.com/caesarion",
+								"display_url": "blog.naver.com/caesarion",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2502,
+				"friends_count": 3292,
+				"listed_count": 50,
+				"created_at": "Tue Dec 08 13:53:14 +0000 2009",
+				"favourites_count": 7593,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1102695,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1486621275632304129/X2Gkw3Tm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1486621275632304129/X2Gkw3Tm_normal.jpg",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1583287257028436000,
+			"quoted_status_id_str": "1583287257028435968",
+			"quoted_status_permalink": {
+				"url": "https://t.co/uOGHfIMGk4",
+				"expanded": "https://twitter.com/Wandava/status/1583287257028435968",
+				"display": "twitter.com/Wandava/status…"
+			},
+			"retweet_count": 584,
+			"favorite_count": 201,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "틀린 말은 아니지만, 현재 넷플은 전체적으로 자사 \"오리지널\" (말은 그렇고 애퀴지션) 작품들 버짓이 모가지 댕강댕강 중이므로 아니메 또한 줄어든다고 해서 이상할 일은 아님. 즉, 선후관계가 뒤바뀌어 -- 어차피 줄이려는 버짓, 구독자 드라이브에 딱히 눈에 안 띄는 장르라면 더 줄어드는 격. https://t.co/2wpmt6UVuP"
+	},
+	{
+		"created_at": "Sun Oct 23 09:27:48 +0000 2022",
+		"id": 1584114356534771700,
+		"id_str": "1584114356534771712",
+		"full_text": "딱 봐도 지나치게 쟁점화된 문제고 이념적 개입이 심각할 문제면 교차 검증을 거듭 해야지, 그걸 그저 좋다고 받아먹는 사람은 지성을 포기한 거죠.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1584111174081482800,
+		"in_reply_to_status_id_str": "1584111174081482754",
+		"in_reply_to_user_id": 3255599052,
+		"in_reply_to_user_id_str": "3255599052",
+		"in_reply_to_screen_name": "EmptyKnK",
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 4,
+			"friends_count": 93,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 4113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "딱 봐도 지나치게 쟁점화된 문제고 이념적 개입이 심각할 문제면 교차 검증을 거듭 해야지, 그걸 그저 좋다고 받아먹는 사람은 지성을 포기한 거죠."
+	},
+	{
+		"created_at": "Sun Oct 23 09:15:09 +0000 2022",
+		"id": 1584111174081482800,
+		"id_str": "1584111174081482754",
+		"full_text": "멍청하다 진짜",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3255599052,
+			"id_str": "3255599052",
+			"name": "Solitude [동결:11/20~]",
+			"screen_name": "EmptyKnK",
+			"location": "",
+			"description": "탄식하라,  덧없이 흩어지고 말리라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 4,
+			"friends_count": 93,
+			"listed_count": 0,
+			"created_at": "Thu Jun 25 13:48:16 +0000 2015",
+			"favourites_count": 4113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344647229387071494/FeA3dkeA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3255599052/1606110388",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "멍청하다 진짜"
+	},
+	{
+		"created_at": "Sun Oct 23 09:14:05 +0000 2022",
+		"id": 1584110443206873000,
+		"id_str": "1584110901841788933",
+		"full_text": "임신 10주 초음파 - 태아크기, 우와! 움직였다!!!! - 네이버 블로그\nhttps://t.co/MS8tL9e6QI\nhttps://t.co/IVMY2wNjcd https://t.co/SI71Bd7c8L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MS8tL9e6QI",
+					"expanded_url": "https://m.blog.naver.com/lovelyelice/221401774159",
+					"display_url": "m.blog.naver.com/lovelyelice/22…",
+					"indices": [
+						42,
+						65
+					]
+				},
+				{
+					"url": "https://t.co/IVMY2wNjcd",
+					"expanded_url": "https://twitter.com/fremdshadowbox/status/1583799204312678400",
+					"display_url": "twitter.com/fremdshadowbox…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1584110253745897500,
+					"id_str": "1584110253745897473",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ffvj4f-UAAEFYiB.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ffvj4f-UAAEFYiB.jpg",
+					"url": "https://t.co/SI71Bd7c8L",
+					"display_url": "pic.twitter.com/SI71Bd7c8L",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1584110443206873088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 374,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 374,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584110253745897500,
+					"id_str": "1584110253745897473",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ffvj4f-UAAEFYiB.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ffvj4f-UAAEFYiB.jpg",
+					"url": "https://t.co/SI71Bd7c8L",
+					"display_url": "pic.twitter.com/SI71Bd7c8L",
+					"expanded_url": "https://twitter.com/ehrtjshxm7/status/1584110443206873088/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 374,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 374,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							250,
+							187
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Ffvj4f-UAAEFYiB.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1584105682336641000,
+		"in_reply_to_status_id_str": "1584105682336641024",
+		"in_reply_to_user_id": 834020169680719900,
+		"in_reply_to_user_id_str": "834020169680719872",
+		"in_reply_to_screen_name": "ehrtjshxm7",
+		"user": {
+			"id": 834020169680719900,
+			"id_str": "834020169680719872",
+			"name": "서록",
+			"screen_name": "ehrtjshxm7",
+			"location": "",
+			"description": "당신을 읽습니다",
+			"url": "https://t.co/W9CtT3M9vi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9CtT3M9vi",
+							"expanded_url": "http://twilog.org/ehrtjshxm7",
+							"display_url": "twilog.org/ehrtjshxm7",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13,
+			"friends_count": 30,
+			"listed_count": 0,
+			"created_at": "Tue Feb 21 12:41:18 +0000 2017",
+			"favourites_count": 714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/834021561740967937/YMFEyLf5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834020169680719872/1487698477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1583799204312678400,
+		"quoted_status_id_str": "1583799204312678400",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IVMY2wNjcd",
+			"expanded": "https://twitter.com/fremdshadowbox/status/1583799204312678400",
+			"display": "twitter.com/fremdshadowbox…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 22 12:35:30 +0000 2022",
+			"id": 1583799204312678400,
+			"id_str": "1583799204312678400",
+			"full_text": "임신 10주차 ‘태아’의 모습이 육안으로 보았을때는 표피조직군집이라는 가디언 기사. \n\n인체형 태아 이미지에 익숙해져왔던 사람들이 크게 반발중. https://t.co/htPyhv0Tgd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				80
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/htPyhv0Tgd",
+						"expanded_url": "https://twitter.com/jessicavalenti/status/1582822972158803969",
+						"display_url": "twitter.com/jessicavalenti…",
+						"indices": [
+							81,
+							104
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1301785674144645000,
+				"id_str": "1301785674144645121",
+				"name": "Pian",
+				"screen_name": "fremdshadowbox",
+				"location": "그림은:@unearthvoid ",
+				"description": "彼岸 . KOR ENG DE. 19-20c 인간들 tmi를 모으며 사용되고 전시되는 인간 몸의 조건들에 관심이 있습니다만...완성을 하자. :: @ crossroads where no one dies",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 140,
+				"friends_count": 490,
+				"listed_count": 0,
+				"created_at": "Fri Sep 04 07:34:35 +0000 2020",
+				"favourites_count": 8694,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10119,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1415854002642722817/T2k3Vq7V_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415854002642722817/T2k3Vq7V_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1301785674144645121/1601024035",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1582822972158804000,
+			"quoted_status_id_str": "1582822972158803969",
+			"quoted_status_permalink": {
+				"url": "https://t.co/htPyhv0Tgd",
+				"expanded": "https://twitter.com/jessicavalenti/status/1582822972158803969",
+				"display": "twitter.com/jessicavalenti…"
+			},
+			"retweet_count": 7573,
+			"favorite_count": 2168,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "임신 10주 초음파 - 태아크기, 우와! 움직였다!!!! - 네이버 블로그\nhttps://t.co/MS8tL9e6QI\nhttps://t.co/IVMY2wNjcd https://t.co/SI71Bd7c8L"
+	},
+	{
 		"created_at": "Sun Oct 23 08:30:45 +0000 2022",
 		"id": 1583121153274413000,
 		"id_str": "1584099999943884801",
