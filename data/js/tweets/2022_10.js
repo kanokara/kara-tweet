@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 24 04:19:21 +0000 2022",
+		"id": 1584275391350349800,
+		"id_str": "1584399121216983040",
+		"full_text": "It doesn’t stop. It is a fractal. https://t.co/fwErx66rVd https://t.co/nL7R4xqFxX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fwErx66rVd",
+					"expanded_url": "https://twitter.com/brianroemmele/status/1584043919045582850",
+					"display_url": "twitter.com/brianroemmele/…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1584275384400416800,
+					"id_str": "1584275384400416768",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffx6EXmVEAAtnXx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffx6EXmVEAAtnXx.jpg",
+					"url": "https://t.co/nL7R4xqFxX",
+					"display_url": "pic.twitter.com/nL7R4xqFxX",
+					"expanded_url": "https://twitter.com/BrianRoemmele/status/1584275391350349826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 667,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 971,
+							"h": 952,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 971,
+							"h": 952,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584275384400416800,
+					"id_str": "1584275384400416768",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffx6EXmVEAAtnXx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ffx6EXmVEAAtnXx.jpg",
+					"url": "https://t.co/nL7R4xqFxX",
+					"display_url": "pic.twitter.com/nL7R4xqFxX",
+					"expanded_url": "https://twitter.com/BrianRoemmele/status/1584275391350349826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 667,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 971,
+							"h": 952,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 971,
+							"h": 952,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 101584084,
+			"id_str": "101584084",
+			"name": "Brian Roemmele",
+			"screen_name": "BrianRoemmele",
+			"location": "transcendence",
+			"description": "we can only see what we think is possible...",
+			"url": "https://t.co/riCFzsOQbj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/riCFzsOQbj",
+							"expanded_url": "http://readmultiplex.com/",
+							"display_url": "readmultiplex.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132370,
+			"friends_count": 24104,
+			"listed_count": 1546,
+			"created_at": "Sun Jan 03 22:04:29 +0000 2010",
+			"favourites_count": 294465,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1492616506/Brian-Med-Green-Fin_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1492616506/Brian-Med-Green-Fin_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101584084/1414798559",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1584043919045582800,
+		"quoted_status_id_str": "1584043919045582850",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fwErx66rVd",
+			"expanded": "https://twitter.com/brianroemmele/status/1584043919045582850",
+			"display": "twitter.com/brianroemmele/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 23 04:47:55 +0000 2022",
+			"id": 1584043919045582800,
+			"id_str": "1584043919045582850",
+			"full_text": "Now you know. https://t.co/tUK1q0elIY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				13
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1584043915782414300,
+						"id_str": "1584043915782414336",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/media/FfunjHzUYAAFt8Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfunjHzUYAAFt8Q.jpg",
+						"url": "https://t.co/tUK1q0elIY",
+						"display_url": "pic.twitter.com/tUK1q0elIY",
+						"expanded_url": "https://twitter.com/BrianRoemmele/status/1584043919045582850/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 632,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1290,
+								"h": 1388,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1115,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1584043915782414300,
+						"id_str": "1584043915782414336",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/media/FfunjHzUYAAFt8Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FfunjHzUYAAFt8Q.jpg",
+						"url": "https://t.co/tUK1q0elIY",
+						"display_url": "pic.twitter.com/tUK1q0elIY",
+						"expanded_url": "https://twitter.com/BrianRoemmele/status/1584043919045582850/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 632,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1290,
+								"h": 1388,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1115,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 101584084,
+				"id_str": "101584084",
+				"name": "Brian Roemmele",
+				"screen_name": "BrianRoemmele",
+				"location": "transcendence",
+				"description": "we can only see what we think is possible...",
+				"url": "https://t.co/riCFzsOQbj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/riCFzsOQbj",
+								"expanded_url": "http://readmultiplex.com/",
+								"display_url": "readmultiplex.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 132370,
+				"friends_count": 24104,
+				"listed_count": 1546,
+				"created_at": "Sun Jan 03 22:04:29 +0000 2010",
+				"favourites_count": 294465,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 91001,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1492616506/Brian-Med-Green-Fin_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1492616506/Brian-Med-Green-Fin_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/101584084/1414798559",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 128,
+			"favorite_count": 1130,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 18,
+		"favorite_count": 82,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It doesn’t stop. It is a fractal. https://t.co/fwErx66rVd https://t.co/nL7R4xqFxX"
+	},
+	{
 		"created_at": "Sun Oct 23 10:06:40 +0000 2022",
 		"id": 1583713408846729200,
 		"id_str": "1584124138926768128",
