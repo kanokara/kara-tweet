@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 27 08:38:45 +0000 2022",
+		"id": 1585240910643986400,
+		"id_str": "1585551563103211520",
+		"full_text": "통화 당국자들은 현재 패러다임에서 채권이 어떤 역할을 하고 있는지 아주 잘 알고 있습니다. 하지만 이제 그들은 인플레가 \"일시적이지 않다면\" 어떤 일이 발생할지 고민해야됩니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1585240908244873200,
+		"in_reply_to_status_id_str": "1585240908244873217",
+		"in_reply_to_user_id": 1536676278845075500,
+		"in_reply_to_user_id_str": "1536676278845075458",
+		"in_reply_to_screen_name": "economakase",
+		"user": {
+			"id": 1536676278845075500,
+			"id_str": "1536676278845075458",
+			"name": "이코노마카세",
+			"screen_name": "economakase",
+			"location": "인터넷",
+			"description": "다듬어서 올려드립니다. 주인장 마음대로.\n매주 수요일에 정기 발행합니다.\n\n뉴스레터/조각지식 모아보기\nhttps://t.co/B5MKnAJ7Bm…",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/B5MKnAJ7Bm",
+							"expanded_url": "http://liberating-interest-976.notion.site/ECONOMAKASE-b2",
+							"display_url": "liberating-interest-976.notion.site/ECONOMAKASE-b2",
+							"indices": [
+								57,
+								80
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5709,
+			"friends_count": 0,
+			"listed_count": 40,
+			"created_at": "Tue Jun 14 11:45:57 +0000 2022",
+			"favourites_count": 47,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1536691726836187136/i8sFDZT6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1536691726836187136/i8sFDZT6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1536676278845075458/1655209717",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "통화 당국자들은 현재 패러다임에서 채권이 어떤 역할을 하고 있는지 아주 잘 알고 있습니다. 하지만 이제 그들은 인플레가 \"일시적이지 않다면\" 어떤 일이 발생할지 고민해야됩니다."
+	},
+	{
 		"created_at": "Mon Oct 24 22:44:14 +0000 2022",
 		"id": 1584677173864300500,
 		"id_str": "1584677173864300544",
