@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 30 12:18:10 +0000 2022",
+		"id": 1114153070693249000,
+		"id_str": "1586693945790443522",
+		"full_text": "지금 읽는 책, '미래 연표'에서 저출산으로 인해 경찰, 군인, 소방관 같은 젊은 힘이 필요한 분야에 인력 확보가 어려워 국방, 치안, 소방 기능에서 취약해 질 수 있다고 예측하고 있다. 지금도 재난에 취약한 우리나라은 더 많은 준비가 필요할듯. https://t.co/VmmBttsQXP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1114153037507883000,
+					"id_str": "1114153037507883008",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/D3ZESNoUcAApXI4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3ZESNoUcAApXI4.jpg",
+					"url": "https://t.co/VmmBttsQXP",
+					"display_url": "pic.twitter.com/VmmBttsQXP",
+					"expanded_url": "https://twitter.com/hyojoo326/status/1114153070693249024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114153037507883000,
+					"id_str": "1114153037507883008",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/D3ZESNoUcAApXI4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3ZESNoUcAApXI4.jpg",
+					"url": "https://t.co/VmmBttsQXP",
+					"display_url": "pic.twitter.com/VmmBttsQXP",
+					"expanded_url": "https://twitter.com/hyojoo326/status/1114153070693249024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1114153046315954200,
+					"id_str": "1114153046315954176",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/D3ZESucU8AAMLax.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3ZESucU8AAMLax.jpg",
+					"url": "https://t.co/VmmBttsQXP",
+					"display_url": "pic.twitter.com/VmmBttsQXP",
+					"expanded_url": "https://twitter.com/hyojoo326/status/1114153070693249024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 793,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 527,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 793,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1114153058059948000,
+					"id_str": "1114153058059948033",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/D3ZETaMUEAEK5Ng.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3ZETaMUEAEK5Ng.jpg",
+					"url": "https://t.co/VmmBttsQXP",
+					"display_url": "pic.twitter.com/VmmBttsQXP",
+					"expanded_url": "https://twitter.com/hyojoo326/status/1114153070693249024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 301237800,
+			"id_str": "301237800",
+			"name": "joo",
+			"screen_name": "hyojoo326",
+			"location": "Seoul, Korea",
+			"description": "심플하되 우아하게 | Love & Peace | 儉而不陋 華而不侈 | Der Mensch ist, was er ißt. | 育兒=育我 너를 기르며, 나를 기르는 중.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 106,
+			"listed_count": 1,
+			"created_at": "Thu May 19 03:47:46 +0000 2011",
+			"favourites_count": 1524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7908,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079964687087808512/2U-fQXgl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079964687087808512/2U-fQXgl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/301237800/1525918106",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지금 읽는 책, '미래 연표'에서 저출산으로 인해 경찰, 군인, 소방관 같은 젊은 힘이 필요한 분야에 인력 확보가 어려워 국방, 치안, 소방 기능에서 취약해 질 수 있다고 예측하고 있다. 지금도 재난에 취약한 우리나라은 더 많은 준비가 필요할듯. https://t.co/VmmBttsQXP"
+	},
+	{
 		"created_at": "Sun Oct 30 11:54:33 +0000 2022",
 		"id": 1586688003384430600,
 		"id_str": "1586688003384430592",
