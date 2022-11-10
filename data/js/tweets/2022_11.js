@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Thu Nov 10 10:46:41 +0000 2022",
+		"id": 1590458366199206000,
+		"id_str": "1590657188615589890",
+		"full_text": "해고하고 한국 실트 깔끔해진게 유머\n한국 실트 원래 남돌이랑 페미 이슈밖에 없는거 역겨워서 미국 실트로 봤는데 이제 한국 실트 봐도 됨 ㅋㅋㅋㅋㅋㅋ\n한국 실트 관리팀 꼴좋다 https://t.co/Asktvwxa1u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Asktvwxa1u",
+					"expanded_url": "https://twitter.com/tkdlqjakdfud/status/1588793608089792512",
+					"display_url": "twitter.com/tkdlqjakdfud/s…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1527260829518659600,
+			"id_str": "1527260829518659592",
+			"name": "날다람지",
+			"screen_name": "Flying3quirrel",
+			"location": "",
+			"description": "취미생활 & 쓰레기통",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3,
+			"friends_count": 46,
+			"listed_count": 0,
+			"created_at": "Thu May 19 12:12:34 +0000 2022",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1573257723185344512/M83A_jud_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1573257723185344512/M83A_jud_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1588793608089792500,
+		"quoted_status_id_str": "1588793608089792512",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Asktvwxa1u",
+			"expanded": "https://twitter.com/tkdlqjakdfud/status/1588793608089792512",
+			"display": "twitter.com/tkdlqjakdfud/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 05 07:21:29 +0000 2022",
+			"id": 1588793608089792500,
+			"id_str": "1588793608089792512",
+			"full_text": "일론 머스크가 해고한 부서 https://t.co/fPOPFziMDt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				14
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1588793602066374700,
+						"id_str": "1588793602066374656",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/FgyHXQCUYAArTGj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FgyHXQCUYAArTGj.jpg",
+						"url": "https://t.co/fPOPFziMDt",
+						"display_url": "pic.twitter.com/fPOPFziMDt",
+						"expanded_url": "https://twitter.com/tkdlqjakdfud/status/1588793608089792512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 391,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 689,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1880,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1588793602066374700,
+						"id_str": "1588793602066374656",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/FgyHXQCUYAArTGj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FgyHXQCUYAArTGj.jpg",
+						"url": "https://t.co/fPOPFziMDt",
+						"display_url": "pic.twitter.com/fPOPFziMDt",
+						"expanded_url": "https://twitter.com/tkdlqjakdfud/status/1588793608089792512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 391,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 689,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1880,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1439117659182813200,
+				"id_str": "1439117659182813184",
+				"name": "사이버망령",
+				"screen_name": "tkdlqjakdfud",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 43151,
+				"friends_count": 0,
+				"listed_count": 55,
+				"created_at": "Sat Sep 18 06:43:03 +0000 2021",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1183,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1445706328685481987/uGDfSrQe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445706328685481987/uGDfSrQe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1439117659182813184/1631951854",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5853,
+			"favorite_count": 1272,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "해고하고 한국 실트 깔끔해진게 유머\n한국 실트 원래 남돌이랑 페미 이슈밖에 없는거 역겨워서 미국 실트로 봤는데 이제 한국 실트 봐도 됨 ㅋㅋㅋㅋㅋㅋ\n한국 실트 관리팀 꼴좋다 https://t.co/Asktvwxa1u"
+	},
+	{
 		"created_at": "Mon Nov 07 10:57:06 +0000 2022",
 		"id": 1589572646433616000,
 		"id_str": "1589572646433615872",
