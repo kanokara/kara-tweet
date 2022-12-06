@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Tue Dec 06 21:04:59 +0000 2022",
+		"id": 1599723067219271700,
+		"id_str": "1600234873859768320",
+		"full_text": "성적 상위권  → 일단 사회문제 그런거에 신경쓸 겨를이 없을 확률이 높고 알아도 지가 기득권이라 개좆같은소리함\n보통 → 사실 농어촌전형에 신경쓸이유가없어서 상위권애들/인터넷에서 그렇다하니까 맞장구 정도 치는거임 일종의 밈 인거\n\n정신병자/겉도는애들  → 그런거 신경씀",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1599720680563814400,
+		"in_reply_to_status_id_str": "1599720680563814402",
+		"in_reply_to_user_id": 1459012283699724300,
+		"in_reply_to_user_id_str": "1459012283699724288",
+		"in_reply_to_screen_name": "rainer_m_linke",
+		"user": {
+			"id": 1459012283699724300,
+			"id_str": "1459012283699724288",
+			"name": "링케",
+			"screen_name": "rainer_m_linke",
+			"location": "",
+			"description": "라이너 마리아 링케(시인 아님)",
+			"url": "https://t.co/6vh9ZTY1Tp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6vh9ZTY1Tp",
+							"expanded_url": "https://peing.net/ko/rainer_m_linke",
+							"display_url": "peing.net/ko/rainer_m_li…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36,
+			"friends_count": 56,
+			"listed_count": 0,
+			"created_at": "Fri Nov 12 04:16:58 +0000 2021",
+			"favourites_count": 157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1564904044350836737/imgABRvD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1564904044350836737/imgABRvD_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "성적 상위권  → 일단 사회문제 그런거에 신경쓸 겨를이 없을 확률이 높고 알아도 지가 기득권이라 개좆같은소리함\n보통 → 사실 농어촌전형에 신경쓸이유가없어서 상위권애들/인터넷에서 그렇다하니까 맞장구 정도 치는거임 일종의 밈 인거\n\n정신병자/겉도는애들  → 그런거 신경씀"
+	},
+	{
 		"created_at": "Tue Dec 06 03:56:11 +0000 2022",
 		"id": 1599975966214090800,
 		"id_str": "1599975966214090753",
