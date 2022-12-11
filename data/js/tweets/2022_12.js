@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sun Dec 11 09:56:51 +0000 2022",
+		"id": 1601578337910296600,
+		"id_str": "1601878673334075392",
+		"full_text": "@doki_jerry 그러게요😅 아직도 트위터에서 트위터 망한다고 설레발치던 사람들 생각하면 참 즐겁습니다😂",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "doki_jerry",
+					"name": "🅳🅾🅺🅸",
+					"id": 1365665225035317200,
+					"id_str": "1365665225035317250",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1601576762269667300,
+		"in_reply_to_status_id_str": "1601576762269667328",
+		"in_reply_to_user_id": 1365665225035317200,
+		"in_reply_to_user_id_str": "1365665225035317250",
+		"in_reply_to_screen_name": "doki_jerry",
+		"user": {
+			"id": 1281020696970195000,
+			"id_str": "1281020696970194944",
+			"name": "HoneyJam's 테슬라와 일론",
+			"screen_name": "HoneyJamTesla",
+			"location": "",
+			"description": "$TSLA 장기 투자자. 유튜브 채널 허니잼의 테슬라와 일론을 운영합니다.",
+			"url": "https://t.co/4WPERuXkhS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4WPERuXkhS",
+							"expanded_url": "https://youtube.com/@HoneyJamTesla",
+							"display_url": "youtube.com/@HoneyJamTesla",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5270,
+			"friends_count": 220,
+			"listed_count": 34,
+			"created_at": "Thu Jul 09 00:22:01 +0000 2020",
+			"favourites_count": 15733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1510014659239178240/5chTzdZc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1510014659239178240/5chTzdZc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1281020696970194944/1668989475",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@doki_jerry 그러게요😅 아직도 트위터에서 트위터 망한다고 설레발치던 사람들 생각하면 참 즐겁습니다😂"
+	},
+	{
 		"created_at": "Tue Dec 06 21:04:59 +0000 2022",
 		"id": 1599723067219271700,
 		"id_str": "1600234873859768320",
