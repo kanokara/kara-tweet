@@ -1,6 +1,508 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 05 16:51:51 +0000 2023",
+		"id": 1643197497588981800,
+		"id_str": "1643657713774399490",
+		"full_text": "인플레이션 https://t.co/dkvNbifpHB https://t.co/Z0rBcoExce",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dkvNbifpHB",
+					"expanded_url": "https://twitter.com/maidsuck/status/1167809155777753088",
+					"display_url": "twitter.com/maidsuck/statu…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1643197493218521000,
+					"id_str": "1643197493218521090",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Fs3Paf8aMAI0jU3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fs3Paf8aMAI0jU3.jpg",
+					"url": "https://t.co/Z0rBcoExce",
+					"display_url": "pic.twitter.com/Z0rBcoExce",
+					"expanded_url": "https://twitter.com/Maki_cube/status/1643197497588981760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 659,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 659,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 659,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1643197493218521000,
+					"id_str": "1643197493218521090",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Fs3Paf8aMAI0jU3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fs3Paf8aMAI0jU3.jpg",
+					"url": "https://t.co/Z0rBcoExce",
+					"display_url": "pic.twitter.com/Z0rBcoExce",
+					"expanded_url": "https://twitter.com/Maki_cube/status/1643197497588981760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 659,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 659,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 659,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1030039176471765000,
+			"id_str": "1030039176471764992",
+			"name": "김레세/Red_tomato",
+			"screen_name": "Maki_cube",
+			"location": "",
+			"description": "🍅Pokemon TCG Korean league 19-20 Season1 Top16 / Weis schwarz WGPK2019 Top16 / Shadowverse Korea open 2020 Season1 Top4 / Loveliver🦋",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166,
+			"friends_count": 170,
+			"listed_count": 0,
+			"created_at": "Thu Aug 16 10:30:51 +0000 2018",
+			"favourites_count": 3467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13050,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1533404873295040512/NA7tv8Pk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1533404873295040512/NA7tv8Pk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1030039176471764992/1594266864",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1167809155777753000,
+		"quoted_status_id_str": "1167809155777753088",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dkvNbifpHB",
+			"expanded": "https://twitter.com/maidsuck/status/1167809155777753088",
+			"display": "twitter.com/maidsuck/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 31 14:39:34 +0000 2019",
+			"id": 1167809155777753000,
+			"id_str": "1167809155777753088",
+			"full_text": "10년쯤 전에 많은 이들에게 충격을 주며 널리 퍼진 사진이지만, 이제는 화면 앞에 케이크를 놓고 2차원 캐릭터의 생일을 축하해주는 것 정도로는 별 관심도 못 받는 시대가 되었다. https://t.co/S1T8N8sQy5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				99
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1167809148253196300,
+						"id_str": "1167809148253196288",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/EDTkO6cVUAANQON.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDTkO6cVUAANQON.jpg",
+						"url": "https://t.co/S1T8N8sQy5",
+						"display_url": "pic.twitter.com/S1T8N8sQy5",
+						"expanded_url": "https://twitter.com/maidsuck/status/1167809155777753088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 496,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 736,
+								"h": 537,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 736,
+								"h": 537,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1167809148253196300,
+						"id_str": "1167809148253196288",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/EDTkO6cVUAANQON.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDTkO6cVUAANQON.jpg",
+						"url": "https://t.co/S1T8N8sQy5",
+						"display_url": "pic.twitter.com/S1T8N8sQy5",
+						"expanded_url": "https://twitter.com/maidsuck/status/1167809155777753088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 496,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 736,
+								"h": 537,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 736,
+								"h": 537,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2915583102,
+				"id_str": "2915583102",
+				"name": "니현식",
+				"screen_name": "maidsuck",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 723,
+				"friends_count": 498,
+				"listed_count": 21,
+				"created_at": "Mon Dec 01 12:54:39 +0000 2014",
+				"favourites_count": 741,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13131,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1242397736873234432/ZBT9gmau_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242397736873234432/ZBT9gmau_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2915583102/1477392594",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9286,
+			"favorite_count": 2364,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 8695,
+		"favorite_count": 2245,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인플레이션 https://t.co/dkvNbifpHB https://t.co/Z0rBcoExce"
+	},
+	{
+		"created_at": "Wed Apr 05 16:51:46 +0000 2023",
+		"id": 1167809155777753000,
+		"id_str": "1643657693134196736",
+		"full_text": "10년쯤 전에 많은 이들에게 충격을 주며 널리 퍼진 사진이지만, 이제는 화면 앞에 케이크를 놓고 2차원 캐릭터의 생일을 축하해주는 것 정도로는 별 관심도 못 받는 시대가 되었다. https://t.co/S1T8N8sQy5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1167809148253196300,
+					"id_str": "1167809148253196288",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EDTkO6cVUAANQON.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDTkO6cVUAANQON.jpg",
+					"url": "https://t.co/S1T8N8sQy5",
+					"display_url": "pic.twitter.com/S1T8N8sQy5",
+					"expanded_url": "https://twitter.com/maidsuck/status/1167809155777753088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 496,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 736,
+							"h": 537,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 537,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167809148253196300,
+					"id_str": "1167809148253196288",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EDTkO6cVUAANQON.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDTkO6cVUAANQON.jpg",
+					"url": "https://t.co/S1T8N8sQy5",
+					"display_url": "pic.twitter.com/S1T8N8sQy5",
+					"expanded_url": "https://twitter.com/maidsuck/status/1167809155777753088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 496,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 736,
+							"h": 537,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 537,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2915583102,
+			"id_str": "2915583102",
+			"name": "니현식",
+			"screen_name": "maidsuck",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 723,
+			"friends_count": 498,
+			"listed_count": 21,
+			"created_at": "Mon Dec 01 12:54:39 +0000 2014",
+			"favourites_count": 741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242397736873234432/ZBT9gmau_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242397736873234432/ZBT9gmau_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2915583102/1477392594",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9286,
+		"favorite_count": 2364,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "10년쯤 전에 많은 이들에게 충격을 주며 널리 퍼진 사진이지만, 이제는 화면 앞에 케이크를 놓고 2차원 캐릭터의 생일을 축하해주는 것 정도로는 별 관심도 못 받는 시대가 되었다. https://t.co/S1T8N8sQy5"
+	},
+	{
 		"created_at": "Sun Apr 02 19:34:56 +0000 2023",
 		"id": 1641922553907400700,
 		"id_str": "1642611592662777857",
