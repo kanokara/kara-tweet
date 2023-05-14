@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Sun May 14 15:19:43 +0000 2023",
+		"id": 1657614193472983000,
+		"id_str": "1657767655837937664",
+		"full_text": "아무튼 \"소비문화에 대한 광신적인 저항\" 부분을 쏙 빼놓는게 한국에서 통용되던 FIRE의 의미였던 것 같고 그 다음 시즘 유행어가 바로 Flex였다는게 참 한국인들 너무 알기쉬운 것 아닌가\n나는 이런 유행어들을 아파트 2채 갭투자 하고 본인은 월세로 원룸 살고 계신 차장님을 통해 접하고 있음",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1657613382596591600,
+		"in_reply_to_status_id_str": "1657613382596591618",
+		"in_reply_to_user_id": 107135862,
+		"in_reply_to_user_id_str": "107135862",
+		"in_reply_to_screen_name": "lightyearsdream",
+		"user": {
+			"id": 107135862,
+			"id_str": "107135862",
+			"name": "Jai Lee",
+			"screen_name": "lightyearsdream",
+			"location": "대한민국 서울",
+			"description": "both directions at once",
+			"url": "https://t.co/mnJ11HtyGV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mnJ11HtyGV",
+							"expanded_url": "http://lightyearsdream.tumblr.com",
+							"display_url": "lightyearsdream.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 2499,
+			"listed_count": 3,
+			"created_at": "Thu Jan 21 17:09:02 +0000 2010",
+			"favourites_count": 15281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1387005786874728449/-dAYit22_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387005786874728449/-dAYit22_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/107135862/1619522923",
+			"profile_link_color": "19C9E0",
+			"profile_sidebar_border_color": "19C9E0",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아무튼 \"소비문화에 대한 광신적인 저항\" 부분을 쏙 빼놓는게 한국에서 통용되던 FIRE의 의미였던 것 같고 그 다음 시즘 유행어가 바로 Flex였다는게 참 한국인들 너무 알기쉬운 것 아닌가\n나는 이런 유행어들을 아파트 2채 갭투자 하고 본인은 월세로 원룸 살고 계신 차장님을 통해 접하고 있음"
+	},
+	{
+		"created_at": "Sun May 14 15:19:40 +0000 2023",
+		"id": 1657612026775224300,
+		"id_str": "1657767643145998339",
+		"full_text": "\"Through a combination of diligent saving and an almost fanatical resistance to modern consumer culture: no debt, no needless or irrational spending. “Paying for parking is a sign from God that you’re in an area not designed for a car. You are fighting the design of your city.”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1657611742124593200,
+		"in_reply_to_status_id_str": "1657611742124593153",
+		"in_reply_to_user_id": 107135862,
+		"in_reply_to_user_id_str": "107135862",
+		"in_reply_to_screen_name": "lightyearsdream",
+		"user": {
+			"id": 107135862,
+			"id_str": "107135862",
+			"name": "Jai Lee",
+			"screen_name": "lightyearsdream",
+			"location": "대한민국 서울",
+			"description": "both directions at once",
+			"url": "https://t.co/mnJ11HtyGV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mnJ11HtyGV",
+							"expanded_url": "http://lightyearsdream.tumblr.com",
+							"display_url": "lightyearsdream.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 2499,
+			"listed_count": 3,
+			"created_at": "Thu Jan 21 17:09:02 +0000 2010",
+			"favourites_count": 15281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1387005786874728449/-dAYit22_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387005786874728449/-dAYit22_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/107135862/1619522923",
+			"profile_link_color": "19C9E0",
+			"profile_sidebar_border_color": "19C9E0",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0053343d79b1be20",
+			"url": "https://api.twitter.com/1.1/geo/id/0053343d79b1be20.json",
+			"place_type": "city",
+			"name": "하남시",
+			"full_name": "대한민국 하남시",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							127.123983252926,
+							37.455408157494
+						],
+						[
+							127.285228194284,
+							37.455408157494
+						],
+						[
+							127.285228194284,
+							37.5815122215732
+						],
+						[
+							127.123983252926,
+							37.5815122215732
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "\"Through a combination of diligent saving and an almost fanatical resistance to modern consumer culture: no debt, no needless or irrational spending. “Paying for parking is a sign from God that you’re in an area not designed for a car. You are fighting the design of your city.”"
+	},
+	{
+		"created_at": "Sun May 14 15:19:32 +0000 2023",
+		"id": 1657610679535435800,
+		"id_str": "1657767607683145728",
+		"full_text": "https://t.co/VD0wmfs0II\n\n2018년, 서른 둘에 은퇴한 사람 이야기. 전등은 캠프장에서 주워오고 차는 20년은 기본으로 타고 외식은 생각하지 않으며 그밖에 기본적으로 인건비 지출을 하지 않음",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VD0wmfs0II",
+					"expanded_url": "https://www.theguardian.com/money/2018/mar/08/how-to-retire-early-frugal-spending",
+					"display_url": "theguardian.com/money/2018/mar…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1657609830658633700,
+		"in_reply_to_status_id_str": "1657609830658633728",
+		"in_reply_to_user_id": 107135862,
+		"in_reply_to_user_id_str": "107135862",
+		"in_reply_to_screen_name": "lightyearsdream",
+		"user": {
+			"id": 107135862,
+			"id_str": "107135862",
+			"name": "Jai Lee",
+			"screen_name": "lightyearsdream",
+			"location": "대한민국 서울",
+			"description": "both directions at once",
+			"url": "https://t.co/mnJ11HtyGV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mnJ11HtyGV",
+							"expanded_url": "http://lightyearsdream.tumblr.com",
+							"display_url": "lightyearsdream.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 2499,
+			"listed_count": 3,
+			"created_at": "Thu Jan 21 17:09:02 +0000 2010",
+			"favourites_count": 15281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1387005786874728449/-dAYit22_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387005786874728449/-dAYit22_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/107135862/1619522923",
+			"profile_link_color": "19C9E0",
+			"profile_sidebar_border_color": "19C9E0",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/VD0wmfs0II\n\n2018년, 서른 둘에 은퇴한 사람 이야기. 전등은 캠프장에서 주워오고 차는 20년은 기본으로 타고 외식은 생각하지 않으며 그밖에 기본적으로 인건비 지출을 하지 않음"
+	},
+	{
 		"created_at": "Sun May 07 20:28:48 +0000 2023",
 		"id": 1654712831789633500,
 		"id_str": "1655308723710234624",
